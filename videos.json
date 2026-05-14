@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "14/05/2026 às 23:00",
-  "total_canais": 6,
+  "atualizado_em": "14/05/2026 as 23:12",
+  "total_canais": 12,
   "videos": [
     {
-      "canal": "Alex Bagé",
+      "canal": "Alex Bage",
       "canal_id": "UCg6ONDqJLO_G2kJuxDPxTaA",
       "video_id": "W3_gPpnvSfk",
       "titulo": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CONFIANÇA X GRÊMIO - [ DIRETO DE ARACAJU ]",
@@ -61,6 +61,66 @@
       "embed_url": "https://www.youtube.com/embed/9Pik0ZBY6to",
       "thumbnail": "https://i2.ytimg.com/vi/9Pik0ZBY6to/hqdefault.jpg",
       "publicado": "2026-05-14"
+    },
+    {
+      "canal": "Canal do CCD",
+      "canal_id": "UC-vcAXksTA21wp1iN4ZGv6Q",
+      "video_id": "ilwRxzke1z4",
+      "titulo": "Confiança x Grêmio: Times, relacionados e surpresas para um jogo perigoso ",
+      "link": "https://www.youtube.com/watch?v=ilwRxzke1z4",
+      "embed_url": "https://www.youtube.com/embed/ilwRxzke1z4",
+      "thumbnail": "https://i2.ytimg.com/vi/ilwRxzke1z4/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "Careca de Saber",
+      "canal_id": "UCUaNjDcaVliZyWd-MgsDAzw",
+      "video_id": "U2fBH5W-qrI",
+      "titulo": "TAVA COM SAUDADES DOS PONTAS? Jogo as 19hs x Confiança #grêmio #futebol",
+      "link": "https://www.youtube.com/shorts/U2fBH5W-qrI",
+      "embed_url": "https://www.youtube.com/embed/U2fBH5W-qrI",
+      "thumbnail": "https://i2.ytimg.com/vi/U2fBH5W-qrI/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "Gremio TV",
+      "canal_id": "UCHKbUAiKHsWCCZrkDY_PZ8Q",
+      "video_id": "A8SnFTWd3-A",
+      "titulo": "AO VIVO | CONFIANÇA X GRÊMIO (COPA DO BRASIL 2026)",
+      "link": "https://www.youtube.com/watch?v=A8SnFTWd3-A",
+      "embed_url": "https://www.youtube.com/embed/A8SnFTWd3-A",
+      "thumbnail": "https://i2.ytimg.com/vi/A8SnFTWd3-A/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "MDV Futebol",
+      "canal_id": "UCbaLsDylOcehhUvlycX7Mxw",
+      "video_id": "0b0jNLSY9gw",
+      "titulo": "CONFIANÇA X GRÊMIO AO VIVO | Copa do Brasil 2026 | Narração Marco de Vargas",
+      "link": "https://www.youtube.com/watch?v=0b0jNLSY9gw",
+      "embed_url": "https://www.youtube.com/embed/0b0jNLSY9gw",
+      "thumbnail": "https://i1.ytimg.com/vi/0b0jNLSY9gw/hqdefault.jpg",
+      "publicado": "2026-05-11"
+    },
+    {
+      "canal": "A Dupla",
+      "canal_id": "UC4SkxWmVRnERdmdl16SFcCQ",
+      "video_id": "9Pik0ZBY6to",
+      "titulo": "Rodada difícil no Brasileirão pro Grêmio… #gremio",
+      "link": "https://www.youtube.com/shorts/9Pik0ZBY6to",
+      "embed_url": "https://www.youtube.com/embed/9Pik0ZBY6to",
+      "thumbnail": "https://i2.ytimg.com/vi/9Pik0ZBY6to/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "LH Benfica",
+      "canal_id": "UCwz1oHqTAh8g-ICepCqgtQg",
+      "video_id": "TbT8dSTzjL0",
+      "titulo": "🚨AMUZU VAI SER LIBERADO!? ELE JÁ MARCOU A DATA DA VIAGEM! | O NOVO PLANO | ATENÇÃO! TEM GAROTO NOVO",
+      "link": "https://www.youtube.com/watch?v=TbT8dSTzjL0",
+      "embed_url": "https://www.youtube.com/embed/TbT8dSTzjL0",
+      "thumbnail": "https://i1.ytimg.com/vi/TbT8dSTzjL0/hqdefault.jpg",
+      "publicado": "2026-05-13"
     }
   ]
 }
