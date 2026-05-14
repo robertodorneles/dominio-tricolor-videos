@@ -15,7 +15,7 @@ CANAIS = [
     {"nome": "Careca de Saber",  "id": "UCUaNjDcaVliZyWd-MgsDAzw"},
     {"nome": "Gremio TV",        "id": "UCHKbUAiKHsWCCZrkDY_PZ8Q"},
     {"nome": "MDV Futebol",      "handle": "@mdvfutebol"},
-    {"nome": "A Dupla",          "handle": "@ADuplaYT"},
+    {"nome": "A Dupla",          "id": "UCRbfE8wK0_f5BPXtH424G_Q"},
     {"nome": "LH Benfica",       "handle": "@lhbenfica"},
 ]
 
