@@ -23,6 +23,7 @@ NS       = "http://www.w3.org/2005/Atom"
 YT_NS    = "http://www.youtube.com/xml/schemas/2015"
 MEDIA_NS = "http://search.yahoo.com/mrss/"
 HEADERS  = {"User-Agent": "Mozilla/5.0 (compatible; bot)"}
+MAX_FEED = 15  # entradas a verificar no feed por canal
 
 
 def resolver_handle(handle):
@@ -40,27 +41,65 @@ def resolver_handle(handle):
     return None
 
 
+def is_short(video_id):
+    """Verifica via redirect se o video e um Short."""
+    url = f"https://www.youtube.com/shorts/{video_id}"
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        req.get_method = lambda: "HEAD"
+        with urllib.request.urlopen(req, timeout=8) as r:
+            final_url = r.url
+        # Se redirecionar para /shorts/ ou tiver /shorts/ na URL final, e Short
+        return "/shorts/" in final_url
+    except Exception:
+        # Em caso de erro, assume que nao e Short
+        return False
+
+
 def buscar_ultimo_video(canal_id, canal_nome):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={canal_id}"
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=12) as resp:
             xml_data = resp.read()
-        root  = ET.fromstring(xml_data)
-        entry = root.find(f"{{{NS}}}entry")
-        if entry is None:
-            print(f"  Sem videos: {canal_nome}")
-            return None
-        def txt(el): return el.text if el is not None else ""
-        video_id  = txt(entry.find(f"{{{YT_NS}}}videoId"))
-        titulo    = txt(entry.find(f"{{{NS}}}title")) or "Sem titulo"
-        link_el   = entry.find(f"{{{NS}}}link")
-        link      = link_el.get("href") if link_el is not None else f"https://www.youtube.com/watch?v={video_id}"
-        published = txt(entry.find(f"{{{NS}}}published"))[:10]
-        thumb_el  = entry.find(f"{{{MEDIA_NS}}}group/{{{MEDIA_NS}}}thumbnail")
-        thumbnail = (thumb_el.get("url") if thumb_el is not None else f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg")
-        print(f"  OK {canal_nome}: {titulo[:60]}...")
-        return {"canal": canal_nome, "canal_id": canal_id, "video_id": video_id, "titulo": titulo, "link": link, "embed_url": f"https://www.youtube.com/embed/{video_id}", "thumbnail": thumbnail, "publicado": published}
+        root    = ET.fromstring(xml_data)
+        entries = root.findall(f"{{{NS}}}entry")
+
+        for entry in entries[:MAX_FEED]:
+            def txt(el): return el.text if el is not None else ""
+
+            video_id  = txt(entry.find(f"{{{YT_NS}}}videoId"))
+            if not video_id:
+                continue
+
+            # Pula Shorts
+            if is_short(video_id):
+                print(f"  SHORT ignorado ({video_id}) em {canal_nome}")
+                continue
+
+            titulo    = txt(entry.find(f"{{{NS}}}title")) or "Sem titulo"
+            link_el   = entry.find(f"{{{NS}}}link")
+            link      = link_el.get("href") if link_el is not None else f"https://www.youtube.com/watch?v={video_id}"
+            published = txt(entry.find(f"{{{NS}}}published"))[:10]
+            thumb_el  = entry.find(f"{{{MEDIA_NS}}}group/{{{MEDIA_NS}}}thumbnail")
+            thumbnail = (thumb_el.get("url") if thumb_el is not None
+                         else f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg")
+
+            print(f"  OK {canal_nome}: {titulo[:60]}...")
+            return {
+                "canal":     canal_nome,
+                "canal_id":  canal_id,
+                "video_id":  video_id,
+                "titulo":    titulo,
+                "link":      link,
+                "embed_url": f"https://www.youtube.com/embed/{video_id}",
+                "thumbnail": thumbnail,
+                "publicado": published,
+            }
+
+        print(f"  Nenhum video (nao-Short) encontrado: {canal_nome}")
+        return None
+
     except Exception as exc:
         print(f"  ERRO em {canal_nome}: {exc}")
         return None
@@ -81,7 +120,11 @@ def main():
         resultado = buscar_ultimo_video(canal_id, canal["nome"])
         if resultado:
             videos.append(resultado)
-    saida = {"atualizado_em": datetime.now().strftime("%d/%m/%Y as %H:%M"), "total_canais": len(videos), "videos": videos}
+    saida = {
+        "atualizado_em": datetime.now().strftime("%d/%m/%Y as %H:%M"),
+        "total_canais":  len(videos),
+        "videos":        videos,
+    }
     with open("videos.json", "w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
     print(f"\nvideos.json salvo - {len(videos)}/{len(CANAIS)} canais.\n")
