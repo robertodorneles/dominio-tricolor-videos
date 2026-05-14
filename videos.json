@@ -1,12 +1,66 @@
 {
-  "atualizado_em": "14/05/2026 às 07:00",
+  "atualizado_em": "14/05/2026 às 22:15",
   "total_canais": 6,
   "videos": [
-    {"canal":"Alex Bagé","canal_id":"UCg6ONDqJLO_G2kJuxDPxTaA","video_id":"DzFalg_U6Lw","titulo":"AO VIVO - JORNADA DO BAGÉ - GRÊMIO X VASCO [ DIRETO DA ARENA ]","link":"https://www.youtube.com/watch?v=DzFalg_U6Lw","embed_url":"https://www.youtube.com/embed/DzFalg_U6Lw","thumbnail":"https://i.ytimg.com/vi/DzFalg_U6Lw/hqdefault.jpg","publicado":"2026-05-13"},
-    {"canal":"Farid Germano","canal_id":"UCBOGYcnvM-9iI-8d-DUEeMw","video_id":"TMFSA1xAZ0c","titulo":"FARID DESMAIA AO VIVO EM GRÊMIO 1 X 0 BRASIL-PEL","link":"https://www.youtube.com/watch?v=TMFSA1xAZ0c","embed_url":"https://www.youtube.com/embed/TMFSA1xAZ0c","thumbnail":"https://i.ytimg.com/vi/TMFSA1xAZ0c/hqdefault.jpg","publicado":"2026-05-12"},
-    {"canal":"Diogo Rossi","canal_id":"UC7tqZAeQWSfyRhQrFTn0MoA","video_id":"vgl2KhtKHUI","titulo":"LIVE COM O DIOGO ROSSI - ANÁLISE DO GRÊMIO","link":"https://www.youtube.com/watch?v=vgl2KhtKHUI","embed_url":"https://www.youtube.com/embed/vgl2KhtKHUI","thumbnail":"https://i.ytimg.com/vi/vgl2KhtKHUI/hqdefault.jpg","publicado":"2026-05-11"},
-    {"canal":"Duda Garbi","canal_id":"UCHeN_p2zTo81Og5rLpUwmlg","video_id":"xDw2efqANXI","titulo":"RENATO PORTALUPPI - Entrevista exclusiva com o maior ídolo do Grêmio","link":"https://www.youtube.com/watch?v=xDw2efqANXI","embed_url":"https://www.youtube.com/embed/xDw2efqANXI","thumbnail":"https://i.ytimg.com/vi/xDw2efqANXI/hqdefault.jpg","publicado":"2026-05-10"},
-    {"canal":"Canal do Gabardo","canal_id":"UCTdrwFad0HRoBq58P91nX1w","video_id":"5TGBiZW2GWk","titulo":"Chegou o Canal do Gabardo! Tudo sobre Grêmio e Inter","link":"https://www.youtube.com/watch?v=5TGBiZW2GWk","embed_url":"https://www.youtube.com/embed/5TGBiZW2GWk","thumbnail":"https://i.ytimg.com/vi/5TGBiZW2GWk/hqdefault.jpg","publicado":"2026-05-09"},
-    {"canal":"Debate Raiz","canal_id":"UC4SkxWmVRnERdmdl16SFcCQ","video_id":"k0rFmNtXwmk","titulo":"DEBATE RAIZ - Análise completa do Grêmio na rodada","link":"https://www.youtube.com/watch?v=k0rFmNtXwmk","embed_url":"https://www.youtube.com/embed/k0rFmNtXwmk","thumbnail":"https://i.ytimg.com/vi/k0rFmNtXwmk/hqdefault.jpg","publicado":"2026-05-08"}
+    {
+      "canal": "Alex Bagé",
+      "canal_id": "UCg6ONDqJLO_G2kJuxDPxTaA",
+      "video_id": "W3_gPpnvSfk",
+      "titulo": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CONFIANÇA X GRÊMIO - [ DIRETO DE ARACAJU ]",
+      "link": "https://www.youtube.com/watch?v=W3_gPpnvSfk",
+      "embed_url": "https://www.youtube.com/embed/W3_gPpnvSfk",
+      "thumbnail": "https://i4.ytimg.com/vi/W3_gPpnvSfk/hqdefault.jpg",
+      "publicado": "2026-05-12"
+    },
+    {
+      "canal": "Farid Germano",
+      "canal_id": "UCBOGYcnvM-9iI-8d-DUEeMw",
+      "video_id": "EmIOaS2noww",
+      "titulo": "AO VIVO  GRÊMIO VS CONFIANÇA  14.05  COPA DO BRASIL  2026 — FARID REAGINDO AO JOGO!!!",
+      "link": "https://www.youtube.com/watch?v=EmIOaS2noww",
+      "embed_url": "https://www.youtube.com/embed/EmIOaS2noww",
+      "thumbnail": "https://i2.ytimg.com/vi/EmIOaS2noww/hqdefault.jpg",
+      "publicado": "2026-05-13"
+    },
+    {
+      "canal": "Diogo Rossi",
+      "canal_id": "UC7tqZAeQWSfyRhQrFTn0MoA",
+      "video_id": "LdG_R2G2nWs",
+      "titulo": "AMUZU DESABAFA, WEVERTON NA COPA? | CONVITE DE FLAMENGO E CORINTHIANS | TIME MISTO E VOLTA DE ARTHUR",
+      "link": "https://www.youtube.com/watch?v=LdG_R2G2nWs",
+      "embed_url": "https://www.youtube.com/embed/LdG_R2G2nWs",
+      "thumbnail": "https://i1.ytimg.com/vi/LdG_R2G2nWs/hqdefault.jpg",
+      "publicado": "2026-05-13"
+    },
+    {
+      "canal": "Duda Garbi",
+      "canal_id": "UCHeN_p2zTo81Og5rLpUwmlg",
+      "video_id": "jZ0HqCA3nm4",
+      "titulo": "AMADURECEU? ANDERSON PICO FALA DO INÍCIO DE CARREIRA NO GRÊMIO | Cortes do Duda",
+      "link": "https://www.youtube.com/watch?v=jZ0HqCA3nm4",
+      "embed_url": "https://www.youtube.com/embed/jZ0HqCA3nm4",
+      "thumbnail": "https://i3.ytimg.com/vi/jZ0HqCA3nm4/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "Canal do Gabardo",
+      "canal_id": "UCTdrwFad0HRoBq58P91nX1w",
+      "video_id": "ADq9ijds6eQ",
+      "titulo": "Como anda o projeto que prevê a volta de bebidas alcoólicas aos estádios do Rio Grande do Sul",
+      "link": "https://www.youtube.com/shorts/ADq9ijds6eQ",
+      "embed_url": "https://www.youtube.com/embed/ADq9ijds6eQ",
+      "thumbnail": "https://i2.ytimg.com/vi/ADq9ijds6eQ/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    },
+    {
+      "canal": "Debate Raiz",
+      "canal_id": "UC4SkxWmVRnERdmdl16SFcCQ",
+      "video_id": "mKNVxHzVXAA",
+      "titulo": "Falta sequência para o Rochet… #inter #rochet",
+      "link": "https://www.youtube.com/shorts/mKNVxHzVXAA",
+      "embed_url": "https://www.youtube.com/embed/mKNVxHzVXAA",
+      "thumbnail": "https://i2.ytimg.com/vi/mKNVxHzVXAA/hqdefault.jpg",
+      "publicado": "2026-05-14"
+    }
   ]
 }
