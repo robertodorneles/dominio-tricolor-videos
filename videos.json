@@ -1,56 +1,61 @@
 {
-  "atualizado_em": "16/05/2026 as 23:37",
+  "atualizado_em": "17/05/2026 as 18:06",
   "total_canais": 12,
   "videos": [
     {
       "canal": "Alex Bage",
       "canal_id": "UCg6ONDqJLO_G2kJuxDPxTaA",
-      "video_id": "kM3ahNh7pj8",
-      "titulo": "É POSSÍVEL SE ILUDIR COM A COPA DO BRASIL? 🔹 THE TARDE 🔹#153",
-      "link": "https://www.youtube.com/watch?v=kM3ahNh7pj8",
-      "embed_url": "https://www.youtube.com/embed/kM3ahNh7pj8",
-      "thumbnail": "https://i4.ytimg.com/vi/kM3ahNh7pj8/hqdefault.jpg",
-      "publicado": "2026-05-15"
+      "video_id": "TJqmvY_ZD9c",
+      "titulo": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 BAHIA X GRÊMIO - [ DIRETO DE SALVADOR ]",
+      "link": "https://www.youtube.com/watch?v=TJqmvY_ZD9c",
+      "embed_url": "https://www.youtube.com/embed/TJqmvY_ZD9c",
+      "thumbnail": "https://i1.ytimg.com/vi/TJqmvY_ZD9c/hqdefault.jpg",
+      "publicado": "2026-05-14",
+      "tipo": "live"
     },
     {
       "canal": "Farid Germano",
       "canal_id": "UCBOGYcnvM-9iI-8d-DUEeMw",
-      "video_id": "tb_Yo4svYNQ",
-      "titulo": "ENTREVISTA COM ALEXANDRE XOXÓ- FALA, COSTA #6",
-      "link": "https://www.youtube.com/watch?v=tb_Yo4svYNQ",
-      "embed_url": "https://www.youtube.com/embed/tb_Yo4svYNQ",
-      "thumbnail": "https://i1.ytimg.com/vi/tb_Yo4svYNQ/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "gT-p10eawCA",
+      "titulo": "AO VIVO  GRÊMIO VS BAHIA  17.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
+      "link": "https://www.youtube.com/watch?v=gT-p10eawCA",
+      "embed_url": "https://www.youtube.com/embed/gT-p10eawCA",
+      "thumbnail": "https://i4.ytimg.com/vi/gT-p10eawCA/hqdefault.jpg",
+      "publicado": "2026-05-16",
+      "tipo": "live"
     },
     {
       "canal": "Diogo Rossi",
       "canal_id": "UC7tqZAeQWSfyRhQrFTn0MoA",
-      "video_id": "CBVoqBjiCXE",
-      "titulo": "3 SELEÇÕES QUE PODEM SURPREENDER NA COPA DO MUNDO 2026!",
-      "link": "https://www.youtube.com/watch?v=CBVoqBjiCXE",
-      "embed_url": "https://www.youtube.com/embed/CBVoqBjiCXE",
-      "thumbnail": "https://i4.ytimg.com/vi/CBVoqBjiCXE/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "jjZvrpnPmME",
+      "titulo": "(AO VIVO) PRÉ-JOGO DE BAHIA x GRÊMIO DIRETO DA ARENA FONTE NOVA | BRASILEIRÃO 2026 | 17/05/26 #01",
+      "link": "https://www.youtube.com/watch?v=jjZvrpnPmME",
+      "embed_url": "https://www.youtube.com/embed/jjZvrpnPmME",
+      "thumbnail": "https://i3.ytimg.com/vi/jjZvrpnPmME/hqdefault.jpg",
+      "publicado": "2026-05-16",
+      "tipo": "live"
     },
     {
       "canal": "Duda Garbi",
       "canal_id": "UCHeN_p2zTo81Og5rLpUwmlg",
-      "video_id": "HQs28COB0DA",
-      "titulo": "CURIOSIDADES SOBRE O RAIO-X QUE VOCÊ NÃO SABIA | Uma Aula Sobre Radiologia Intervencionista",
-      "link": "https://www.youtube.com/watch?v=HQs28COB0DA",
-      "embed_url": "https://www.youtube.com/embed/HQs28COB0DA",
-      "thumbnail": "https://i1.ytimg.com/vi/HQs28COB0DA/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "OH171y4TSzI",
+      "titulo": "I.A NA MEDICINA? É POSSÍVEL E VAI MUDAR TUDO QUE SABEMOS| Uma Aula Sobre Radiologia Intervencionista",
+      "link": "https://www.youtube.com/watch?v=OH171y4TSzI",
+      "embed_url": "https://www.youtube.com/embed/OH171y4TSzI",
+      "thumbnail": "https://i4.ytimg.com/vi/OH171y4TSzI/hqdefault.jpg",
+      "publicado": "2026-05-17",
+      "tipo": "video"
     },
     {
       "canal": "Canal do Gabardo",
       "canal_id": "UCTdrwFad0HRoBq58P91nX1w",
-      "video_id": "Acv1EAU0EZU",
-      "titulo": "Bahia x Grêmio | River cobra divida | A cláusula de R$ 6 milhões que escapou",
-      "link": "https://www.youtube.com/watch?v=Acv1EAU0EZU",
-      "embed_url": "https://www.youtube.com/embed/Acv1EAU0EZU",
-      "thumbnail": "https://i2.ytimg.com/vi/Acv1EAU0EZU/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "Cykk1Ow1nmw",
+      "titulo": "Goleada do Inter e situação na tabela | Contratações | Rochet",
+      "link": "https://www.youtube.com/watch?v=Cykk1Ow1nmw",
+      "embed_url": "https://www.youtube.com/embed/Cykk1Ow1nmw",
+      "thumbnail": "https://i4.ytimg.com/vi/Cykk1Ow1nmw/hqdefault.jpg",
+      "publicado": "2026-05-17",
+      "tipo": "video"
     },
     {
       "canal": "Debate Raiz",
@@ -60,7 +65,8 @@
       "link": "https://www.youtube.com/watch?v=qwmI7fBnK1I",
       "embed_url": "https://www.youtube.com/embed/qwmI7fBnK1I",
       "thumbnail": "https://i2.ytimg.com/vi/qwmI7fBnK1I/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "publicado": "2026-05-16",
+      "tipo": "video"
     },
     {
       "canal": "Canal do CCD",
@@ -70,47 +76,52 @@
       "link": "https://www.youtube.com/watch?v=MqiEGGhgrmo",
       "embed_url": "https://www.youtube.com/embed/MqiEGGhgrmo",
       "thumbnail": "https://i2.ytimg.com/vi/MqiEGGhgrmo/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "publicado": "2026-05-16",
+      "tipo": "live"
     },
     {
       "canal": "Careca de Saber",
       "canal_id": "UCUaNjDcaVliZyWd-MgsDAzw",
-      "video_id": "N_trw456l4c",
-      "titulo": "UM: \"ARRASCAETA\" NO GRÊMIO? | MEIAS NO ALVO | SONHO COM MUNDIAL DE CLUBES?",
-      "link": "https://www.youtube.com/watch?v=N_trw456l4c",
-      "embed_url": "https://www.youtube.com/embed/N_trw456l4c",
-      "thumbnail": "https://i3.ytimg.com/vi/N_trw456l4c/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "sZWqKII08h0",
+      "titulo": "CONFIANÇA X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL.",
+      "link": "https://www.youtube.com/watch?v=sZWqKII08h0",
+      "embed_url": "https://www.youtube.com/embed/sZWqKII08h0",
+      "thumbnail": "https://i4.ytimg.com/vi/sZWqKII08h0/hqdefault.jpg",
+      "publicado": "2026-05-15",
+      "tipo": "live"
     },
     {
       "canal": "Gremio TV",
       "canal_id": "UCHKbUAiKHsWCCZrkDY_PZ8Q",
-      "video_id": "ZCzVWGmHapI",
-      "titulo": "COLETIVA PÓS-JOGO | GRÊMIO X MIXTO (BRASILEIRÃO FEMININO A1)",
-      "link": "https://www.youtube.com/watch?v=ZCzVWGmHapI",
-      "embed_url": "https://www.youtube.com/embed/ZCzVWGmHapI",
-      "thumbnail": "https://i3.ytimg.com/vi/ZCzVWGmHapI/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "pPOJk2ARFnM",
+      "titulo": "AO VIVO | BAHIA  X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "link": "https://www.youtube.com/watch?v=pPOJk2ARFnM",
+      "embed_url": "https://www.youtube.com/embed/pPOJk2ARFnM",
+      "thumbnail": "https://i1.ytimg.com/vi/pPOJk2ARFnM/hqdefault.jpg",
+      "publicado": "2026-05-16",
+      "tipo": "live"
     },
     {
       "canal": "MDV Futebol",
       "canal_id": "UCbaLsDylOcehhUvlycX7Mxw",
-      "video_id": "QDvScr_-5UA",
-      "titulo": "BAHIA X GRÊMIO AO VIVO | Brasileirão 2026 | Narração Marco de Vargas",
-      "link": "https://www.youtube.com/watch?v=QDvScr_-5UA",
-      "embed_url": "https://www.youtube.com/embed/QDvScr_-5UA",
-      "thumbnail": "https://i2.ytimg.com/vi/QDvScr_-5UA/hqdefault.jpg",
-      "publicado": "2026-05-15"
+      "video_id": "0b0jNLSY9gw",
+      "titulo": "CONFIANÇA X GRÊMIO AO VIVO | Copa do Brasil 2026 | Narração Marco de Vargas",
+      "link": "https://www.youtube.com/watch?v=0b0jNLSY9gw",
+      "embed_url": "https://www.youtube.com/embed/0b0jNLSY9gw",
+      "thumbnail": "https://i1.ytimg.com/vi/0b0jNLSY9gw/hqdefault.jpg",
+      "publicado": "2026-05-15",
+      "tipo": "live"
     },
     {
       "canal": "A Dupla",
       "canal_id": "UCRbfE8wK0_f5BPXtH424G_Q",
-      "video_id": "z12v_6FZ7Q0",
-      "titulo": "🔵⚫️ Grêmio: Gabriel Mec foi cobrado para melhorar e a reação fala muito sobre o jogador | Bastidores",
-      "link": "https://www.youtube.com/watch?v=z12v_6FZ7Q0",
-      "embed_url": "https://www.youtube.com/embed/z12v_6FZ7Q0",
-      "thumbnail": "https://i3.ytimg.com/vi/z12v_6FZ7Q0/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "video_id": "nikr_P_FRYM",
+      "titulo": "🔴⚪️ Diário do Inter KTO: 🔥 BASTIDORES PÓS GOLEADA | O CHORO DE BERNABEI | RENATO SENTIU!",
+      "link": "https://www.youtube.com/watch?v=nikr_P_FRYM",
+      "embed_url": "https://www.youtube.com/embed/nikr_P_FRYM",
+      "thumbnail": "https://i3.ytimg.com/vi/nikr_P_FRYM/hqdefault.jpg",
+      "publicado": "2026-05-17",
+      "tipo": "video"
     },
     {
       "canal": "LH Benfica",
@@ -120,7 +131,8 @@
       "link": "https://www.youtube.com/watch?v=eFHgc2JVxB0",
       "embed_url": "https://www.youtube.com/embed/eFHgc2JVxB0",
       "thumbnail": "https://i2.ytimg.com/vi/eFHgc2JVxB0/hqdefault.jpg",
-      "publicado": "2026-05-16"
+      "publicado": "2026-05-16",
+      "tipo": "video"
     }
   ]
 }
