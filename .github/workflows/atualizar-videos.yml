@@ -2,8 +2,8 @@ name: Atualizar Videos YouTube
 
 on:
   schedule:
-    - cron: "0 15 * * *"
-    - cron: "0 21 * * *"
+    - cron: "0 9-23 * * *"
+    - cron: "0 0,1,2 * * *"
   workflow_dispatch:
 
 jobs:
