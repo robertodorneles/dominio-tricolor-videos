@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "18/05/2026 as 00:15",
-  "total_canais": 12,
+  "atualizado_em": "18/05/2026 as 12:07",
+  "total_canais": 10,
   "videos": [
     {
       "canal": "Alex Bage",
@@ -38,12 +38,12 @@
     {
       "canal": "Duda Garbi",
       "canal_id": "UCHeN_p2zTo81Og5rLpUwmlg",
-      "video_id": "OH171y4TSzI",
-      "titulo": "I.A NA MEDICINA? É POSSÍVEL E VAI MUDAR TUDO QUE SABEMOS| Uma Aula Sobre Radiologia Intervencionista",
-      "link": "https://www.youtube.com/watch?v=OH171y4TSzI",
-      "embed_url": "https://www.youtube.com/embed/OH171y4TSzI",
-      "thumbnail": "https://i4.ytimg.com/vi/OH171y4TSzI/hqdefault.jpg",
-      "publicado": "2026-05-17",
+      "video_id": "Nm9JVtIkqbs",
+      "titulo": "UM ASSADO PARA... PEDRO GEROMEL | ESPECIAL 5 ANOS | #383",
+      "link": "https://www.youtube.com/watch?v=Nm9JVtIkqbs",
+      "embed_url": "https://www.youtube.com/embed/Nm9JVtIkqbs",
+      "thumbnail": "https://i3.ytimg.com/vi/Nm9JVtIkqbs/hqdefault.jpg",
+      "publicado": "2026-05-18",
       "tipo": "video"
     },
     {
@@ -77,7 +77,7 @@
       "embed_url": "https://www.youtube.com/embed/TyH_ql-UVjk",
       "thumbnail": "https://i1.ytimg.com/vi/TyH_ql-UVjk/hqdefault.jpg",
       "publicado": "2026-05-18",
-      "tipo": "live"
+      "tipo": "video"
     },
     {
       "canal": "Careca de Saber",
@@ -102,36 +102,14 @@
       "tipo": "live"
     },
     {
-      "canal": "MDV Futebol",
-      "canal_id": "UCbaLsDylOcehhUvlycX7Mxw",
-      "video_id": "QDvScr_-5UA",
-      "titulo": "BAHIA X GRÊMIO AO VIVO | Brasileirão 2026 | Narração Marco de Vargas",
-      "link": "https://www.youtube.com/watch?v=QDvScr_-5UA",
-      "embed_url": "https://www.youtube.com/embed/QDvScr_-5UA",
-      "thumbnail": "https://i2.ytimg.com/vi/QDvScr_-5UA/hqdefault.jpg",
-      "publicado": "2026-05-17",
-      "tipo": "live"
-    },
-    {
       "canal": "A Dupla",
       "canal_id": "UCRbfE8wK0_f5BPXtH424G_Q",
-      "video_id": "9HwrDjlCeew",
-      "titulo": "🔵⚫️ Grêmio 1x1 Bahia: FALHA CUSTA CARO | MEC E AMUZU FORA? | TIME CEDE EMPATE",
-      "link": "https://www.youtube.com/watch?v=9HwrDjlCeew",
-      "embed_url": "https://www.youtube.com/embed/9HwrDjlCeew",
-      "thumbnail": "https://i2.ytimg.com/vi/9HwrDjlCeew/hqdefault.jpg",
-      "publicado": "2026-05-17",
-      "tipo": "video"
-    },
-    {
-      "canal": "LH Benfica",
-      "canal_id": "UCwz1oHqTAh8g-ICepCqgtQg",
-      "video_id": "eFHgc2JVxB0",
-      "titulo": "LUÍS CASTRO FICA NO GRÊMIO? DIRIGENTE DÁ DECLARAÇÃO FORTE / REFORÇO TIPO ARRASCAETA ",
-      "link": "https://www.youtube.com/watch?v=eFHgc2JVxB0",
-      "embed_url": "https://www.youtube.com/embed/eFHgc2JVxB0",
-      "thumbnail": "https://i2.ytimg.com/vi/eFHgc2JVxB0/hqdefault.jpg",
-      "publicado": "2026-05-16",
+      "video_id": "vMubrvaTLMQ",
+      "titulo": "🔴⚪️ Diário do Inter KTO: 🔥 GABRIEL MILITO NO INTER? | QUEDA NA TABELA? | OUTROS ALVOS",
+      "link": "https://www.youtube.com/watch?v=vMubrvaTLMQ",
+      "embed_url": "https://www.youtube.com/embed/vMubrvaTLMQ",
+      "thumbnail": "https://i3.ytimg.com/vi/vMubrvaTLMQ/hqdefault.jpg",
+      "publicado": "2026-05-18",
       "tipo": "video"
     }
   ]
