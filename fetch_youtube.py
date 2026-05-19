@@ -20,6 +20,7 @@ CANAIS = [
     {"nome": "Bruno Soares Reporter", "id": "UCx857EFRvYpv5KGD3oDxEnQ"},
     {"nome": "Jeremias Wernek",       "id": "UCDyhcHCHI598O8khoEh5CrQ"},
     {"nome": "Radio Grenal",          "id": "UCuMeXd0SKadgPqE9gCuodCA"},
+    {"nome": "Radio Imortal",          "id": "UCuyZWVsf1xfHMP9TFiC2x8g"},
 ]
 
 NS       = "http://www.w3.org/2005/Atom"
