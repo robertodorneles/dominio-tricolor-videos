@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "19/05/2026 as 23:15",
-  "total_canais": 13,
+  "atualizado_em": "19/05/2026 as 23:42",
+  "total_canais": 15,
   "videos": [
     {
       "canal": "Alex Bage",
@@ -55,11 +55,11 @@
     {
       "canal": "Debate Raiz",
       "canal_id": "UC4SkxWmVRnERdmdl16SFcCQ",
-      "video_id": "jMk0tQxyh0E",
-      "titulo": "ANCELOTTI TEM NEYMAR COMO TITULAR DA SELEÇÃO? | CORTES DEBATE RAIZ",
-      "link": "https://www.youtube.com/watch?v=jMk0tQxyh0E",
-      "embed_url": "https://www.youtube.com/embed/jMk0tQxyh0E",
-      "thumbnail": "https://i3.ytimg.com/vi/jMk0tQxyh0E/hqdefault.jpg",
+      "video_id": "UlxX0kl9PnI",
+      "titulo": "DEBATE DAS 7  -  19/05/2026 #370",
+      "link": "https://www.youtube.com/watch?v=UlxX0kl9PnI",
+      "embed_url": "https://www.youtube.com/embed/UlxX0kl9PnI",
+      "thumbnail": "https://i2.ytimg.com/vi/UlxX0kl9PnI/hqdefault.jpg",
       "publicado": "2026-05-19"
     },
     {
@@ -95,21 +95,31 @@
     {
       "canal": "A Dupla",
       "canal_id": "UCRbfE8wK0_f5BPXtH424G_Q",
-      "video_id": "ixri5IUCF3s",
-      "titulo": "🔵⚫️ Grêmio: Castro deixa vazar prancheta em treino aberto | Os segredos revelados para a decisão ",
-      "link": "https://www.youtube.com/watch?v=ixri5IUCF3s",
-      "embed_url": "https://www.youtube.com/embed/ixri5IUCF3s",
-      "thumbnail": "https://i2.ytimg.com/vi/ixri5IUCF3s/hqdefault.jpg",
+      "video_id": "9NAQfOoD6cE",
+      "titulo": "🔵🔴 A Hora da Dupla KTO: VIROU PRESSÃO NA COPA SULAMERICANA PARA  O GRÊMIO | INTER E ROCHET",
+      "link": "https://www.youtube.com/watch?v=9NAQfOoD6cE",
+      "embed_url": "https://www.youtube.com/embed/9NAQfOoD6cE",
+      "thumbnail": "https://i2.ytimg.com/vi/9NAQfOoD6cE/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "LH Benfica",
+      "canal_id": "UCwz1oHqTAh8g-ICepCqgtQg",
+      "video_id": "tS8U-IAj4eY",
+      "titulo": "🚨UMA ÓTIMA NOTÍCIA PRO GRÊMIO | O REFORÇO QUE O TIME PRECISAVA | ELE DEVE TUDO AO CLUBE",
+      "link": "https://www.youtube.com/watch?v=tS8U-IAj4eY",
+      "embed_url": "https://www.youtube.com/embed/tS8U-IAj4eY",
+      "thumbnail": "https://i1.ytimg.com/vi/tS8U-IAj4eY/hqdefault.jpg",
       "publicado": "2026-05-19"
     },
     {
       "canal": "Bruno Soares Reporter",
       "canal_id": "UCx857EFRvYpv5KGD3oDxEnQ",
-      "video_id": "etABSpR53sA",
-      "titulo": "🚨FOI ARQUIVADO! NÃO GOSTAM DELE | GEROMEL DEU A REAL | CALAMOS SÃO PAULO! GRÊMIO FORTE!",
-      "link": "https://www.youtube.com/watch?v=etABSpR53sA",
-      "embed_url": "https://www.youtube.com/embed/etABSpR53sA",
-      "thumbnail": "https://i2.ytimg.com/vi/etABSpR53sA/hqdefault.jpg",
+      "video_id": "iTehfNJhSkg",
+      "titulo": "🚨GRÊMIO AVALIA TROCA DE ATLETAS | ELE É O “NOVO LUAN”? | O SETOR FRACASSADO DO TIME DE LUÍS CASTRO!",
+      "link": "https://www.youtube.com/watch?v=iTehfNJhSkg",
+      "embed_url": "https://www.youtube.com/embed/iTehfNJhSkg",
+      "thumbnail": "https://i2.ytimg.com/vi/iTehfNJhSkg/hqdefault.jpg",
       "publicado": "2026-05-19"
     },
     {
@@ -125,11 +135,21 @@
     {
       "canal": "Radio Grenal",
       "canal_id": "UCuMeXd0SKadgPqE9gCuodCA",
-      "video_id": "Sj1qiKZ2bYY",
+      "video_id": "VU27rzBKsgE",
       "titulo": "LIVE COMPLETA  | RÁDIO GRENAL | 19/05/2026",
-      "link": "https://www.youtube.com/watch?v=Sj1qiKZ2bYY",
-      "embed_url": "https://www.youtube.com/embed/Sj1qiKZ2bYY",
-      "thumbnail": "https://i4.ytimg.com/vi/Sj1qiKZ2bYY/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=VU27rzBKsgE",
+      "embed_url": "https://www.youtube.com/embed/VU27rzBKsgE",
+      "thumbnail": "https://i3.ytimg.com/vi/VU27rzBKsgE/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Radio Imortal",
+      "canal_id": "UCuyZWVsf1xfHMP9TFiC2x8g",
+      "video_id": "ltqwezSOcoI",
+      "titulo": "JOGO DECISIVO! GRÊMIO PRECISA DA VITÓRIA NA SULA | PROVÁVEL ESCALAÇÃO | ATUALIZAÇÕES | IMORTAL FC",
+      "link": "https://www.youtube.com/watch?v=ltqwezSOcoI",
+      "embed_url": "https://www.youtube.com/embed/ltqwezSOcoI",
+      "thumbnail": "https://i1.ytimg.com/vi/ltqwezSOcoI/hqdefault.jpg",
       "publicado": "2026-05-19"
     }
   ]
