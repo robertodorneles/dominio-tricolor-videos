@@ -16,7 +16,7 @@ CANAIS = [
     {"nome": "Gremio TV",        "id": "UCHKbUAiKHsWCCZrkDY_PZ8Q"},
     {"nome": "MDV Futebol",      "handle": "@mdvfutebol"},
     {"nome": "A Dupla",          "id": "UCRbfE8wK0_f5BPXtH424G_Q"},
-    {"nome": "LH Benfica",          "handle": "@lhbenfica"},
+    {"nome": "LH Benfica",          "id": "UCwz1oHqTAh8g-ICepCqgtQg"},
     {"nome": "Bruno Soares Reporter", "id": "UCx857EFRvYpv5KGD3oDxEnQ"},
     {"nome": "Jeremias Wernek",       "id": "UCDyhcHCHI598O8khoEh5CrQ"},
     {"nome": "Radio Grenal",          "id": "UCuMeXd0SKadgPqE9gCuodCA"},
