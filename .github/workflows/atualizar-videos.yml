@@ -2,24 +2,24 @@ name: Atualizar Videos YouTube
 
 on:
   schedule:
-    - cron: "5 9 * * *"
-    - cron: "5 10 * * *"
-    - cron: "5 11 * * *"
-    - cron: "5 12 * * *"
-    - cron: "5 13 * * *"
-    - cron: "5 14 * * *"
-    - cron: "5 15 * * *"
-    - cron: "5 16 * * *"
-    - cron: "5 17 * * *"
-    - cron: "5 18 * * *"
-    - cron: "5 19 * * *"
-    - cron: "5 20 * * *"
-    - cron: "5 21 * * *"
-    - cron: "5 22 * * *"
-    - cron: "5 23 * * *"
-    - cron: "5 0 * * *"
-    - cron: "5 1 * * *"
-    - cron: "5 2 * * *"
+    - cron: "5 9 * * *"    # 06:05 Brasilia
+    - cron: "5 10 * * *"   # 07:05 Brasilia
+    - cron: "5 11 * * *"   # 08:05 Brasilia
+    - cron: "5 12 * * *"   # 09:05 Brasilia
+    - cron: "5 13 * * *"   # 10:05 Brasilia
+    - cron: "5 14 * * *"   # 11:05 Brasilia
+    - cron: "5 15 * * *"   # 12:05 Brasilia
+    - cron: "5 16 * * *"   # 13:05 Brasilia
+    - cron: "5 17 * * *"   # 14:05 Brasilia
+    - cron: "5 18 * * *"   # 15:05 Brasilia
+    - cron: "5 19 * * *"   # 16:05 Brasilia
+    - cron: "5 20 * * *"   # 17:05 Brasilia
+    - cron: "5 21 * * *"   # 18:05 Brasilia
+    - cron: "5 22 * * *"   # 19:05 Brasilia
+    - cron: "5 23 * * *"   # 20:05 Brasilia
+    - cron: "5 0 * * *"    # 21:05 Brasilia
+    - cron: "5 1 * * *"    # 22:05 Brasilia
+    - cron: "5 2 * * *"    # 23:05 Brasilia
   workflow_dispatch:
 
 jobs:
