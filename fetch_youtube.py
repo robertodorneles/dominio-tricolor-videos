@@ -16,7 +16,7 @@ CANAIS = [
     {"nome": "Gremio TV",        "id": "UCHKbUAiKHsWCCZrkDY_PZ8Q"},
     {"nome": "MDV Futebol",      "handle": "@mdvfutebol"},
     {"nome": "A Dupla",          "id": "UCRbfE8wK0_f5BPXtH424G_Q"},
-    {"nome": "LH Benfica",          "id": "UCwz1oHqTAh8g-ICepCqgtQg"},
+    {"nome": "LH Benfica",       "id": "UCwz1oHqTAh8g-ICepCqgtQg"},
     {"nome": "Bruno Soares Reporter", "id": "UCx857EFRvYpv5KGD3oDxEnQ"},
     {"nome": "Jeremias Wernek",       "id": "UCDyhcHCHI598O8khoEh5CrQ"},
     {"nome": "Radio Grenal",          "id": "UCuMeXd0SKadgPqE9gCuodCA"},
@@ -28,6 +28,16 @@ YT_NS    = "http://www.youtube.com/xml/schemas/2015"
 MEDIA_NS = "http://search.yahoo.com/mrss/"
 HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 SHORT_KW = ["#shorts", "#short", " shorts", "shorts "]
+
+
+def fix_encoding(text):
+    """Corrige double-encoding: bytes UTF-8 interpretados como latin-1."""
+    if not text:
+        return text
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        return text
 
 
 def is_short_titulo(titulo):
@@ -68,25 +78,13 @@ def buscar_ultimo_video(canal_id, canal_nome):
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as resp:
             xml_bytes = resp.read()
-        # Corrige double-encoding: YouTube retorna UTF-8 mas ET le como latin-1
-        # Solucao: passa bytes direto ao ET (detecta encoding automaticamente)
+        # Passa bytes direto: ET detecta encoding do XML automaticamente
         try:
             root = ET.fromstring(xml_bytes)
         except ET.ParseError:
-            # Fallback: decodifica e limpa chars de controle
             xml_str = xml_bytes.decode("utf-8", errors="replace")
             xml_str = "".join(c for c in xml_str if ord(c) >= 32 or c in "\t\n\r")
             root = ET.fromstring(xml_str.encode("utf-8"))
-
-
-def fix_encoding(text):
-    """Corrige double-encoding: bytes UTF-8 interpretados como latin-1."""
-    if not text:
-        return text
-    try:
-        return text.encode("latin-1").decode("utf-8")
-    except (UnicodeDecodeError, UnicodeEncodeError):
-        return text
         entries = root.findall(f"{{{NS}}}entry")
     except Exception as e:
         print(f"  ERRO feed {canal_nome}: {e}")
