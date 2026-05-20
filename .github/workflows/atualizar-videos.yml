@@ -24,7 +24,7 @@ jobs:
         run: pip install feedparser requests
 
       - name: Executar fetch_youtube.py
-        run: python fetch_youtube.py
+        run: python -u fetch_youtube.py
 
       - name: Commit e push do videos.json
         run: |
