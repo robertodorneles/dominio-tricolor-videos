@@ -1,15 +1,45 @@
 {
-  "atualizado_em": "20/05/2026 as 00:15",
-  "total_canais": 6,
+  "atualizado_em": "20/05/2026 as 11:31",
+  "total_canais": 15,
   "videos": [
     {
       "canal": "Alex Bage",
       "canal_id": "UCg6ONDqJLO_G2kJuxDPxTaA",
-      "video_id": "9wpwtql06jY",
-      "titulo": "QUANDO ARTHUR VOLTA ? WEVERTON FALA SOBRE A COPA🔹 THE TARDE 🔹#155",
-      "link": "https://www.youtube.com/watch?v=9wpwtql06jY",
-      "embed_url": "https://www.youtube.com/embed/9wpwtql06jY",
-      "thumbnail": "https://i2.ytimg.com/vi/9wpwtql06jY/hqdefault.jpg",
+      "video_id": "gX2PaoVs6AI",
+      "titulo": "TORQUE VENCE  E DEIXA O GRÊMIO PRESSIONADO 🌅🔵 BOM DIA GRÊMIO #032",
+      "link": "https://www.youtube.com/watch?v=gX2PaoVs6AI",
+      "embed_url": "https://www.youtube.com/embed/gX2PaoVs6AI",
+      "thumbnail": "https://i4.ytimg.com/vi/gX2PaoVs6AI/hqdefault.jpg",
+      "publicado": "2026-05-20"
+    },
+    {
+      "canal": "Farid Germano",
+      "canal_id": "UCBOGYcnvM-9iI-8d-DUEeMw",
+      "video_id": "Xgt1eY5ZKEE",
+      "titulo": "GRÊMIO TEM 4 DECISÕES ATÉ A COPA DO MUNDO - VAMOOO FARIDO 19.05.26",
+      "link": "https://www.youtube.com/watch?v=Xgt1eY5ZKEE",
+      "embed_url": "https://www.youtube.com/embed/Xgt1eY5ZKEE",
+      "thumbnail": "https://i1.ytimg.com/vi/Xgt1eY5ZKEE/hqdefault.jpg",
+      "publicado": "2026-05-20"
+    },
+    {
+      "canal": "Diogo Rossi",
+      "canal_id": "UC7tqZAeQWSfyRhQrFTn0MoA",
+      "video_id": "7KHyt7CUex8",
+      "titulo": "(AO VIVO) PÓS-JOGO DE GRÊMIO x PALESTINO - COPA SUL-AMERICANA 2026 | COLETIVAS | 20/05/26 #19",
+      "link": "https://www.youtube.com/watch?v=7KHyt7CUex8",
+      "embed_url": "https://www.youtube.com/embed/7KHyt7CUex8",
+      "thumbnail": "https://i4.ytimg.com/vi/7KHyt7CUex8/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Duda Garbi",
+      "canal_id": "UCHeN_p2zTo81Og5rLpUwmlg",
+      "video_id": "adumBh9Twek",
+      "titulo": "GEROMEL CONTA TUDO SOBRE PARCERIA HISTÓRICA COM KANNEMANN | Cortes do Duda",
+      "link": "https://www.youtube.com/watch?v=adumBh9Twek",
+      "embed_url": "https://www.youtube.com/embed/adumBh9Twek",
+      "thumbnail": "https://i2.ytimg.com/vi/adumBh9Twek/hqdefault.jpg",
       "publicado": "2026-05-19"
     },
     {
@@ -21,6 +51,36 @@
       "embed_url": "https://www.youtube.com/embed/J-XtT5eSBlw",
       "thumbnail": "https://i3.ytimg.com/vi/J-XtT5eSBlw/hqdefault.jpg",
       "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Debate Raiz",
+      "canal_id": "UC4SkxWmVRnERdmdl16SFcCQ",
+      "video_id": "UlxX0kl9PnI",
+      "titulo": "DEBATE DAS 7  -  19/05/2026 #370",
+      "link": "https://www.youtube.com/watch?v=UlxX0kl9PnI",
+      "embed_url": "https://www.youtube.com/embed/UlxX0kl9PnI",
+      "thumbnail": "https://i2.ytimg.com/vi/UlxX0kl9PnI/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Canal do CCD",
+      "canal_id": "UC-vcAXksTA21wp1iN4ZGv6Q",
+      "video_id": "0qNpiUcAhxc",
+      "titulo": "Timeline Tricolor #589: Escalação polêmica do Grêmio | Promoção | Arthur | Weverton e desfalque ",
+      "link": "https://www.youtube.com/watch?v=0qNpiUcAhxc",
+      "embed_url": "https://www.youtube.com/embed/0qNpiUcAhxc",
+      "thumbnail": "https://i1.ytimg.com/vi/0qNpiUcAhxc/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Careca de Saber",
+      "canal_id": "UCUaNjDcaVliZyWd-MgsDAzw",
+      "video_id": "-B2xctFuoTk",
+      "titulo": "PIOROU? SÓ DEPOIS DA COPA? | MILAGRE? TABELA COMPLICOU! | GRÊMIO X PALESTINO ",
+      "link": "https://www.youtube.com/watch?v=-B2xctFuoTk",
+      "embed_url": "https://www.youtube.com/embed/-B2xctFuoTk",
+      "thumbnail": "https://i2.ytimg.com/vi/-B2xctFuoTk/hqdefault.jpg",
+      "publicado": "2026-05-20"
     },
     {
       "canal": "Gremio TV",
@@ -35,12 +95,12 @@
     {
       "canal": "A Dupla",
       "canal_id": "UCRbfE8wK0_f5BPXtH424G_Q",
-      "video_id": "9NAQfOoD6cE",
-      "titulo": "🔵🔴 A Hora da Dupla KTO: VIROU PRESSÃO NA COPA SULAMERICANA PARA  O GRÊMIO | INTER E ROCHET",
-      "link": "https://www.youtube.com/watch?v=9NAQfOoD6cE",
-      "embed_url": "https://www.youtube.com/embed/9NAQfOoD6cE",
-      "thumbnail": "https://i2.ytimg.com/vi/9NAQfOoD6cE/hqdefault.jpg",
-      "publicado": "2026-05-19"
+      "video_id": "XJ4V3oKxjIk",
+      "titulo": "🔴⚪️ Diário do Inter KTO: 🔥 SELEÇÃO URUGUAIA PREOCUPA? | ALAN RODRIGUEZ SAINDO? | ALISSON",
+      "link": "https://www.youtube.com/watch?v=XJ4V3oKxjIk",
+      "embed_url": "https://www.youtube.com/embed/XJ4V3oKxjIk",
+      "thumbnail": "https://i1.ytimg.com/vi/XJ4V3oKxjIk/hqdefault.jpg",
+      "publicado": "2026-05-20"
     },
     {
       "canal": "LH Benfica",
@@ -61,6 +121,36 @@
       "embed_url": "https://www.youtube.com/embed/iTehfNJhSkg",
       "thumbnail": "https://i2.ytimg.com/vi/iTehfNJhSkg/hqdefault.jpg",
       "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Jeremias Wernek",
+      "canal_id": "UCDyhcHCHI598O8khoEh5CrQ",
+      "video_id": "cxINOW4J4hw",
+      "titulo": "Luís Castro \"sabe\" e abre o jogo sobre o Grêmio + data para volta do Villasanti",
+      "link": "https://www.youtube.com/watch?v=cxINOW4J4hw",
+      "embed_url": "https://www.youtube.com/embed/cxINOW4J4hw",
+      "thumbnail": "https://i4.ytimg.com/vi/cxINOW4J4hw/hqdefault.jpg",
+      "publicado": "2026-05-05"
+    },
+    {
+      "canal": "Radio Grenal",
+      "canal_id": "UCuMeXd0SKadgPqE9gCuodCA",
+      "video_id": "Sj1qiKZ2bYY",
+      "titulo": "FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 20/05/2026",
+      "link": "https://www.youtube.com/watch?v=Sj1qiKZ2bYY",
+      "embed_url": "https://www.youtube.com/embed/Sj1qiKZ2bYY",
+      "thumbnail": "https://i4.ytimg.com/vi/Sj1qiKZ2bYY/hqdefault.jpg",
+      "publicado": "2026-05-19"
+    },
+    {
+      "canal": "Radio Imortal",
+      "canal_id": "UCuyZWVsf1xfHMP9TFiC2x8g",
+      "video_id": "f2_r0C9a90k",
+      "titulo": "É DIA DE GRÊMIO NA SUL-AMERICANA! | MISTÉRIO NA ESCALAÇÃO | SITUAÇÃO DO GRUPO | REDAÇÃO IMORTAL",
+      "link": "https://www.youtube.com/watch?v=f2_r0C9a90k",
+      "embed_url": "https://www.youtube.com/embed/f2_r0C9a90k",
+      "thumbnail": "https://i3.ytimg.com/vi/f2_r0C9a90k/hqdefault.jpg",
+      "publicado": "2026-05-20"
     }
   ]
 }
