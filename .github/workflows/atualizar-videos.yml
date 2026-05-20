@@ -31,7 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
-          git reset --soft origin/main
+          git checkout main
           git add videos.json
           git diff --cached --quiet || git commit -m "chore: atualiza videos.json"
           git push origin main
