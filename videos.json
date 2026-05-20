@@ -1,9 +1,41 @@
 {
-  "updated_at": "2026-05-20T19:48:19.509885+00:00",
-  "total": 26,
+  "updated_at": "2026-05-20T21:33:41.836834+00:00",
+  "total": 53,
   "videos": [
     {
-      "channel": "Rádio Imortal",
+      "channel": "Radio Imortal",
+      "title": "LIVE PRÉ-JOGO: GRÊMIO X PALESTINO | QUAL SERÁ O ESQUEMA? | TIAGUINHO JOGA? | PLANTÃO IMORTAL",
+      "videoId": "vF-qte6WzR8",
+      "url": "https://www.youtube.com/watch?v=vF-qte6WzR8",
+      "thumbnail": "https://img.youtube.com/vi/vF-qte6WzR8/mqdefault.jpg",
+      "published": "2026-05-20T20:17:23+00:00"
+    },
+    {
+      "channel": "Canal Monumental",
+      "title": "⚽  GRÊMIO X  PALESTINO— AO VIVO",
+      "videoId": "LyNoAd2cAdk",
+      "url": "https://www.youtube.com/watch?v=LyNoAd2cAdk",
+      "thumbnail": "https://img.youtube.com/vi/LyNoAd2cAdk/mqdefault.jpg",
+      "published": "2026-05-20T19:40:55+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO ENCARA O PALESTINO / ENTREVISTA DE PEZZOLANO PARA URUGUAIOS🔸RESENHA FORA DA SALA🔸#048",
+      "videoId": "D7u_IVDYdpc",
+      "url": "https://www.youtube.com/watch?v=D7u_IVDYdpc",
+      "thumbnail": "https://img.youtube.com/vi/D7u_IVDYdpc/mqdefault.jpg",
+      "published": "2026-05-20T18:57:50+00:00"
+    },
+    {
+      "channel": "Gremio HOJE",
+      "title": "💥😓PUTZ GRÊMIO! Veja o PAPELÃO que a DIREÇÃO QUIS CAUSAR para o Weverton SER LIBERADO!",
+      "videoId": "pLrMqyJzKns",
+      "url": "https://www.youtube.com/watch?v=pLrMqyJzKns",
+      "thumbnail": "https://img.youtube.com/vi/pLrMqyJzKns/mqdefault.jpg",
+      "published": "2026-05-20T15:33:21+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #74 — GRÊMIO ENFRENTA O PALESTINO E SÓ A VITÓRIA INTERESSA!",
       "videoId": "qFWP5mLBIKk",
       "url": "https://www.youtube.com/watch?v=qFWP5mLBIKk",
@@ -11,7 +43,23 @@
       "published": "2026-05-20T15:21:55+00:00"
     },
     {
-      "channel": "Rádio Imortal",
+      "channel": "Bage TV",
+      "title": "GRÊMIO ENCARA PALESTINO COM OBRIGAÇÃO DE VENCE  -FUTEBOL ALEGRIA DO GRÊMIO - 20/05 - #550",
+      "videoId": "OsNeHLBQgxk",
+      "url": "https://www.youtube.com/watch?v=OsNeHLBQgxk",
+      "thumbnail": "https://img.youtube.com/vi/OsNeHLBQgxk/mqdefault.jpg",
+      "published": "2026-05-20T13:48:42+00:00"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Grêmio x Palestino: decisão na Arena e a dica de Luis Castro",
+      "videoId": "6TExHJXjMD4",
+      "url": "https://www.youtube.com/watch?v=6TExHJXjMD4",
+      "thumbnail": "https://img.youtube.com/vi/6TExHJXjMD4/mqdefault.jpg",
+      "published": "2026-05-20T13:45:35+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NA SUL-AMERICANA! | MISTÉRIO NA ESCALAÇÃO | SITUAÇÃO DO GRUPO | REDAÇÃO IMORTAL",
       "videoId": "f2_r0C9a90k",
       "url": "https://www.youtube.com/watch?v=f2_r0C9a90k",
@@ -19,7 +67,15 @@
       "published": "2026-05-20T13:09:47+00:00"
     },
     {
-      "channel": "Rádio Imortal",
+      "channel": "Bage TV",
+      "title": "TORQUE VENCE  E DEIXA O GRÊMIO PRESSIONADO 🌅🔵 BOM DIA GRÊMIO #032",
+      "videoId": "gX2PaoVs6AI",
+      "url": "https://www.youtube.com/watch?v=gX2PaoVs6AI",
+      "thumbnail": "https://img.youtube.com/vi/gX2PaoVs6AI/mqdefault.jpg",
+      "published": "2026-05-20T12:04:17+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 20/05 - ARAGUA 2X6 GRÊMIO",
       "videoId": "QNLqE39TGro",
       "url": "https://www.youtube.com/watch?v=QNLqE39TGro",
@@ -27,28 +83,132 @@
       "published": "2026-05-20T11:00:24+00:00"
     },
     {
-      "channel": "Rádio Imortal",
-      "title": "ARTHUR TEM RETORNO ADIADO | VILLA SÓ APÓS A COPA | PROJETANDO A SULA | NOITES DE GRÊMIO #73 - 19/05",
-      "videoId": "I8lZC1ekuB4",
-      "url": "https://www.youtube.com/watch?v=I8lZC1ekuB4",
-      "thumbnail": "https://img.youtube.com/vi/I8lZC1ekuB4/mqdefault.jpg",
-      "published": "2026-05-20T02:34:03+00:00"
+      "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #589: Escalação polêmica do Grêmio | Promoção | Arthur | Weverton e desfalque",
+      "videoId": "0qNpiUcAhxc",
+      "url": "https://www.youtube.com/watch?v=0qNpiUcAhxc",
+      "thumbnail": "https://img.youtube.com/vi/0qNpiUcAhxc/mqdefault.jpg",
+      "published": "2026-05-19T22:37:24+00:00"
     },
     {
-      "channel": "Rádio Imortal",
-      "title": "LIVE PRÉ-JOGO: GRÊMIO X PALESTINO | QUAL SERÁ O ESQUEMA? | TIAGUINHO JOGA? | PLANTÃO IMORTAL",
-      "videoId": "vF-qte6WzR8",
-      "url": "https://www.youtube.com/watch?v=vF-qte6WzR8",
-      "thumbnail": "https://img.youtube.com/vi/vF-qte6WzR8/mqdefault.jpg",
-      "published": "2026-05-20T01:30:07+00:00"
+      "channel": "Bage TV",
+      "title": "QUANDO ARTHUR VOLTA ? WEVERTON FALA SOBRE A COPA🔹 THE TARDE 🔹#155",
+      "videoId": "9wpwtql06jY",
+      "url": "https://www.youtube.com/watch?v=9wpwtql06jY",
+      "thumbnail": "https://img.youtube.com/vi/9wpwtql06jY/mqdefault.jpg",
+      "published": "2026-05-19T21:32:01+00:00"
     },
     {
-      "channel": "Grêmio Imortal",
+      "channel": "Gremio HOJE",
+      "title": "💥😰AULA PRA VIDA! Veja as BELAS RESPOSTAS do Weverton SOBRE A CONVOCAÇÃO pra COPA DO MUNDO!",
+      "videoId": "ZFetVr0VnN4",
+      "url": "https://www.youtube.com/watch?v=ZFetVr0VnN4",
+      "thumbnail": "https://img.youtube.com/vi/ZFetVr0VnN4/mqdefault.jpg",
+      "published": "2026-05-19T21:07:22+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X PALESTINO | DIRETO DA ARENA DO GRÊMIO | COPA SUL-AMERICANA 2026",
+      "videoId": "GqkxkI710fk",
+      "url": "https://www.youtube.com/watch?v=GqkxkI710fk",
+      "thumbnail": "https://img.youtube.com/vi/GqkxkI710fk/mqdefault.jpg",
+      "published": "2026-05-19T20:02:36+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X PALESTINO (SUL-AMERICANA 2026)",
+      "videoId": "ZkpHIPRXcOA",
+      "url": "https://www.youtube.com/watch?v=ZkpHIPRXcOA",
+      "thumbnail": "https://img.youtube.com/vi/ZkpHIPRXcOA/mqdefault.jpg",
+      "published": "2026-05-19T19:55:08+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA WEVERTON (CONVOCAÇÃO PARA MUNDIAL DE SELEÇÕES)",
+      "videoId": "QkaYon7vDHo",
+      "url": "https://www.youtube.com/watch?v=QkaYon7vDHo",
+      "thumbnail": "https://img.youtube.com/vi/QkaYon7vDHo/mqdefault.jpg",
+      "published": "2026-05-19T17:50:12+00:00"
+    },
+    {
+      "channel": "Gremio HOJE",
+      "title": "💥😨Nossa SENHORA! Olha só o COMENTÁRIO do Baldasso SOBRE WEVERTON na COPA DO MUNDO!",
+      "videoId": "P5hJ0JK2uRY",
+      "url": "https://www.youtube.com/watch?v=P5hJ0JK2uRY",
+      "thumbnail": "https://img.youtube.com/vi/P5hJ0JK2uRY/mqdefault.jpg",
+      "published": "2026-05-19T14:35:35+00:00"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Uma história incrível que temos com o Neymar",
+      "videoId": "8ozFUoRkGio",
+      "url": "https://www.youtube.com/watch?v=8ozFUoRkGio",
+      "thumbnail": "https://img.youtube.com/vi/8ozFUoRkGio/mqdefault.jpg",
+      "published": "2026-05-19T14:32:58+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GRÊMIO 3 X 0 MIXTO (BRASILEIRÃO FEMININO A1)",
+      "videoId": "ZxBByHhXnhw",
+      "url": "https://www.youtube.com/watch?v=ZxBByHhXnhw",
+      "thumbnail": "https://img.youtube.com/vi/ZxBByHhXnhw/mqdefault.jpg",
+      "published": "2026-05-19T13:30:35+00:00"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "O recado que a convocação de Weverton dá ao Grêmio, ao mercado e aos jogadores",
+      "videoId": "V3pmXkdrClM",
+      "url": "https://www.youtube.com/watch?v=V3pmXkdrClM",
+      "thumbnail": "https://img.youtube.com/vi/V3pmXkdrClM/mqdefault.jpg",
+      "published": "2026-05-19T12:34:50+00:00"
+    },
+    {
+      "channel": "Gremio HOJE",
+      "title": "💥😍VALEU BAND! Ouça o BAITA COMENTÁRIO do Neto SOBRE WEVERTON na COPA DO MUNDO!",
+      "videoId": "oFyKQVkyXfw",
+      "url": "https://www.youtube.com/watch?v=oFyKQVkyXfw",
+      "thumbnail": "https://img.youtube.com/vi/oFyKQVkyXfw/mqdefault.jpg",
+      "published": "2026-05-19T10:05:20+00:00"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - WEVERTON CONVOCADO PARA A COPA | GRÊMIO EM BUSCA DAS 4 VITÓRIAS",
+      "videoId": "pBZNh6R6Dso",
+      "url": "https://www.youtube.com/watch?v=pBZNh6R6Dso",
+      "thumbnail": "https://img.youtube.com/vi/pBZNh6R6Dso/mqdefault.jpg",
+      "published": "2026-05-19T01:24:47+00:00"
+    },
+    {
+      "channel": "Gremio HOJE",
+      "title": "💥😨QUEBROU TUDO! Veja a COMEMORAÇÃO e REAÇÃO do Weverton APÓS SER CONVOCADO por Ancelotti!",
+      "videoId": "mAqI2P2TVek",
+      "url": "https://www.youtube.com/watch?v=mAqI2P2TVek",
+      "thumbnail": "https://img.youtube.com/vi/mAqI2P2TVek/mqdefault.jpg",
+      "published": "2026-05-19T00:09:23+00:00"
+    },
+    {
+      "channel": "Gremio Productions",
+      "title": "Ancelotti Surpreende! Weverton do Grêmio na Copa e o Retorno de Neymar!",
+      "videoId": "AC-385arEQQ",
+      "url": "https://www.youtube.com/watch?v=AC-385arEQQ",
+      "thumbnail": "https://img.youtube.com/vi/AC-385arEQQ/mqdefault.jpg",
+      "published": "2026-05-18T22:11:13+00:00"
+    },
+    {
+      "channel": "Gremio Imortal",
       "title": "ESSE JOGA MUITO! BAITA REFORÇO! VEJA ESSA INFORMAÇÃO DO GREMIO-ÚLTIMAS NOTÍCIAS DO GRÊMIOHOJE",
       "videoId": "WmHYimD2HbU",
       "url": "https://www.youtube.com/watch?v=WmHYimD2HbU",
       "thumbnail": "https://img.youtube.com/vi/WmHYimD2HbU/mqdefault.jpg",
       "published": "2026-05-18T21:30:04+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X PALESTINO",
+      "videoId": "fUpCJVs6WBc",
+      "url": "https://www.youtube.com/watch?v=fUpCJVs6WBc",
+      "thumbnail": "https://img.youtube.com/vi/fUpCJVs6WBc/mqdefault.jpg",
+      "published": "2026-05-18T16:36:19+00:00"
     },
     {
       "channel": "Zona Gremista",
@@ -59,7 +219,31 @@
       "published": "2026-05-18T15:14:48+00:00"
     },
     {
-      "channel": "Grêmio Imortal",
+      "channel": "GremioTV Oficial",
+      "title": "GOLS | BAHIA 1x1 GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "Sf9J5yYGBYw",
+      "url": "https://www.youtube.com/watch?v=Sf9J5yYGBYw",
+      "thumbnail": "https://img.youtube.com/vi/Sf9J5yYGBYw/mqdefault.jpg",
+      "published": "2026-05-17T23:03:34+00:00"
+    },
+    {
+      "channel": "Canal Monumental",
+      "title": "Quinze finalizações sofridas, pouca criação e nenhuma evolução. Bahia 1 x 1 Grêmio",
+      "videoId": "OXTRRF8FziA",
+      "url": "https://www.youtube.com/watch?v=OXTRRF8FziA",
+      "thumbnail": "https://img.youtube.com/vi/OXTRRF8FziA/mqdefault.jpg",
+      "published": "2026-05-17T22:21:29+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I BAHIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "7bFRLiV4_MA",
+      "url": "https://www.youtube.com/watch?v=7bFRLiV4_MA",
+      "thumbnail": "https://img.youtube.com/vi/7bFRLiV4_MA/mqdefault.jpg",
+      "published": "2026-05-17T21:41:19+00:00"
+    },
+    {
+      "channel": "Gremio Imortal",
       "title": "URGENTE! BAGÉ FICOU FURIOSO E DETONOU APÓS JOGO DO BAHIA X GRÊMIO -ULTIMAS NOTÍCIAS DO GRÊMIO HOJE",
       "videoId": "X05UKaKiLZo",
       "url": "https://www.youtube.com/watch?v=X05UKaKiLZo",
@@ -67,7 +251,7 @@
       "published": "2026-05-17T21:22:04+00:00"
     },
     {
-      "channel": "Grêmio Imortal",
+      "channel": "Gremio Imortal",
       "title": "FOI PRA CIMA! ALEX BAGÉ SOLTOU O VERBO APÓS A PARTIDA DO GRÊMIO!ULTIMAS NOTICIAS DO GREMIO DE HOJE",
       "videoId": "ddlRBzqE15Y",
       "url": "https://www.youtube.com/watch?v=ddlRBzqE15Y",
@@ -75,7 +259,7 @@
       "published": "2026-05-15T00:15:38+00:00"
     },
     {
-      "channel": "Grêmio Imortal",
+      "channel": "Gremio Imortal",
       "title": "NINGUÉM ESPERAVA! SURPREENDEU A NAÇÃO! OLHA ESSA INFORMAÇÃO DO GREMIO-ÚLTIMAS NOTÍCIAS DO GRÊMIOHOJE",
       "videoId": "c2UHSEOBSXI",
       "url": "https://www.youtube.com/watch?v=c2UHSEOBSXI",
@@ -83,12 +267,28 @@
       "published": "2026-05-13T21:05:00+00:00"
     },
     {
-      "channel": "Grêmio Imortal",
+      "channel": "Gremio Productions",
+      "title": "José Enamorado ● Amazing Skills & Goals | HD | 2026",
+      "videoId": "JLB9qRdOnus",
+      "url": "https://www.youtube.com/watch?v=JLB9qRdOnus",
+      "thumbnail": "https://img.youtube.com/vi/JLB9qRdOnus/mqdefault.jpg",
+      "published": "2026-05-13T16:19:50+00:00"
+    },
+    {
+      "channel": "Gremio Imortal",
       "title": "VERGONHOSO! CHICO DETONA TUDO APÓS DERROTA HUMILHANTE DO GRÊMIO-ULTIMAS NOTÍCIAS DO GRÊMIO HOJE",
       "videoId": "M-zAm0VIIPA",
       "url": "https://www.youtube.com/watch?v=M-zAm0VIIPA",
       "thumbnail": "https://img.youtube.com/vi/M-zAm0VIIPA/mqdefault.jpg",
       "published": "2026-05-11T20:40:00+00:00"
+    },
+    {
+      "channel": "Canal Monumental",
+      "title": "@gabriel_mec__ deixa recado pra toda a torcida tricolor nesse momento delicado em que o Grêmio",
+      "videoId": "BordsmcMQ3o",
+      "url": "https://www.youtube.com/watch?v=BordsmcMQ3o",
+      "thumbnail": "https://img.youtube.com/vi/BordsmcMQ3o/mqdefault.jpg",
+      "published": "2026-05-11T17:39:12+00:00"
     },
     {
       "channel": "Zona Gremista",
@@ -97,6 +297,38 @@
       "url": "https://www.youtube.com/watch?v=-ELjUvnREb4",
       "thumbnail": "https://img.youtube.com/vi/-ELjUvnREb4/mqdefault.jpg",
       "published": "2026-05-11T02:53:22+00:00"
+    },
+    {
+      "channel": "Canal Monumental",
+      "title": "⚽  GRÊMIO X  FLAMENGO— AO VIVO",
+      "videoId": "mA5jY9ge0lE",
+      "url": "https://www.youtube.com/watch?v=mA5jY9ge0lE",
+      "thumbnail": "https://img.youtube.com/vi/mA5jY9ge0lE/mqdefault.jpg",
+      "published": "2026-05-11T00:43:52+00:00"
+    },
+    {
+      "channel": "Gremio Productions",
+      "title": "Villasanti acelera retorno e pode reaparecer pelo Grêmio ainda em maio; veja o cenário",
+      "videoId": "jiXRlLOkfJY",
+      "url": "https://www.youtube.com/watch?v=jiXRlLOkfJY",
+      "thumbnail": "https://img.youtube.com/vi/jiXRlLOkfJY/mqdefault.jpg",
+      "published": "2026-05-09T16:16:29+00:00"
+    },
+    {
+      "channel": "Gremio Productions",
+      "title": "A JOIA FICOU! Vice do Grêmio abre o jogo sobre o futuro de GABRIEL MEC!",
+      "videoId": "D-tJ7GPOEc8",
+      "url": "https://www.youtube.com/watch?v=D-tJ7GPOEc8",
+      "thumbnail": "https://img.youtube.com/vi/D-tJ7GPOEc8/mqdefault.jpg",
+      "published": "2026-05-06T17:32:21+00:00"
+    },
+    {
+      "channel": "Canal Monumental",
+      "title": "⚽ RIESTRA  X GRÊMIO— AO VIVO",
+      "videoId": "cy2L6ongl14",
+      "url": "https://www.youtube.com/watch?v=cy2L6ongl14",
+      "thumbnail": "https://img.youtube.com/vi/cy2L6ongl14/mqdefault.jpg",
+      "published": "2026-05-06T00:06:16+00:00"
     },
     {
       "channel": "Zona Gremista",
@@ -123,12 +355,12 @@
       "published": "2026-04-12T03:41:40+00:00"
     },
     {
-      "channel": "Portal do Gremista",
-      "title": "3 de abril de 2026",
-      "videoId": "Cqpje3TU9RA",
-      "url": "https://www.youtube.com/watch?v=Cqpje3TU9RA",
-      "thumbnail": "https://img.youtube.com/vi/Cqpje3TU9RA/mqdefault.jpg",
-      "published": "2026-04-03T12:01:34+00:00"
+      "channel": "Gremio Productions",
+      "title": "Grêmio Edits...",
+      "videoId": "vG6ktGyOALo",
+      "url": "https://www.youtube.com/watch?v=vG6ktGyOALo",
+      "thumbnail": "https://img.youtube.com/vi/vG6ktGyOALo/mqdefault.jpg",
+      "published": "2026-04-07T22:39:25+00:00"
     },
     {
       "channel": "Canal 7 Gremista",
@@ -139,14 +371,6 @@
       "published": "2026-03-24T22:23:56+00:00"
     },
     {
-      "channel": "Portal do Gremista",
-      "title": "QUEM SERÁ O NOVO PATROCINADOR DO GRÊMIO?",
-      "videoId": "OMMze1O8AlQ",
-      "url": "https://www.youtube.com/watch?v=OMMze1O8AlQ",
-      "thumbnail": "https://img.youtube.com/vi/OMMze1O8AlQ/mqdefault.jpg",
-      "published": "2026-03-16T22:36:42+00:00"
-    },
-    {
       "channel": "Canal 7 Gremista",
       "title": "🔵⚪️ Dr. Sérgio CANOZZI dá o PAPO RETO sobre o trabalho do TÉCNICO LUIS CASTRO até o momento!",
       "videoId": "WdoTH2aiZDM",
@@ -155,36 +379,12 @@
       "published": "2026-03-14T22:55:16+00:00"
     },
     {
-      "channel": "Portal do Gremista",
-      "title": "GRÊMIO NEGOCIA SAÍDA DE OUTRO JOGADOR",
-      "videoId": "StoWxx8mPZU",
-      "url": "https://www.youtube.com/watch?v=StoWxx8mPZU",
-      "thumbnail": "https://img.youtube.com/vi/StoWxx8mPZU/mqdefault.jpg",
-      "published": "2026-03-14T20:37:40+00:00"
-    },
-    {
       "channel": "Canal 7 Gremista",
       "title": "🔵⚪️ Dr. Sérgio CANOZZI analisa o MOMENTO atual do GRÊMIO após ser CAMPEÃO Gaúcho!!!",
       "videoId": "5JGwBLr4jxs",
       "url": "https://www.youtube.com/watch?v=5JGwBLr4jxs",
       "thumbnail": "https://img.youtube.com/vi/5JGwBLr4jxs/mqdefault.jpg",
       "published": "2026-03-12T15:18:06+00:00"
-    },
-    {
-      "channel": "Portal do Gremista",
-      "title": "GRÊMIO HOJE TEM TRÊS NOTÍCIAS ENVOLVENDO VOLANTES",
-      "videoId": "zATsBiDLSX0",
-      "url": "https://www.youtube.com/watch?v=zATsBiDLSX0",
-      "thumbnail": "https://img.youtube.com/vi/zATsBiDLSX0/mqdefault.jpg",
-      "published": "2026-03-10T19:17:42+00:00"
-    },
-    {
-      "channel": "Portal do Gremista",
-      "title": "GRÊMIO É CAMPEÃO / O TRABALHO QUE SOBRA PARA O RESTANTE DA TEMPORADA / ESSE ELENCO É...",
-      "videoId": "JUL4FrLrl1g",
-      "url": "https://www.youtube.com/watch?v=JUL4FrLrl1g",
-      "thumbnail": "https://img.youtube.com/vi/JUL4FrLrl1g/mqdefault.jpg",
-      "published": "2026-03-09T00:53:59+00:00"
     },
     {
       "channel": "Canal 7 Gremista",
@@ -203,7 +403,23 @@
       "published": "2026-02-21T16:12:00+00:00"
     },
     {
-      "channel": "Grêmio Notícias",
+      "channel": "Imortal Tricolor",
+      "title": "Músicas que fazem você se sentir um campeão 🔥",
+      "videoId": "51neEWFbW9s",
+      "url": "https://www.youtube.com/watch?v=51neEWFbW9s",
+      "thumbnail": "https://img.youtube.com/vi/51neEWFbW9s/mqdefault.jpg",
+      "published": "2025-12-29T12:26:08+00:00"
+    },
+    {
+      "channel": "Imortal Tricolor",
+      "title": "🎧TOP 50 Melhores Musicas para jogar LOL! 🎧4 HORAS! Musicas para jogar! 🔥",
+      "videoId": "KbnjYYaZyjM",
+      "url": "https://www.youtube.com/watch?v=KbnjYYaZyjM",
+      "thumbnail": "https://img.youtube.com/vi/KbnjYYaZyjM/mqdefault.jpg",
+      "published": "2025-05-28T12:00:40+00:00"
+    },
+    {
+      "channel": "Gremio Noticias",
       "title": "HOMENAGEM - GRÊMIO",
       "videoId": "GETdAIh3Msc",
       "url": "https://www.youtube.com/watch?v=GETdAIh3Msc",
