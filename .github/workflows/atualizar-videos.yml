@@ -24,7 +24,11 @@ jobs:
         run: pip install feedparser requests
 
       - name: Executar fetch_youtube.py
-        run: python -u fetch_youtube.py
+        run: |
+          python -u -c "import sys; print(sys.version)"
+          python -u -c "import feedparser; print('feedparser ok')"
+          python -u -c "import requests; print('requests ok')"
+          python -u fetch_youtube.py || echo "SCRIPT FALHOU COM CODIGO $?"
 
       - name: Commit e push do videos.json
         run: |
