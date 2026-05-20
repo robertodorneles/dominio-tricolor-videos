@@ -27,7 +27,7 @@ jobs:
         run: pip install feedparser requests
 
       - name: Executar fetch_youtube.py
-        run: python -u fetch_youtube.py || echo "ERRO NO SCRIPT: $?"
+        run: python -u fetch_youtube.py
 
       - name: Commit e push do videos.json
         run: |
