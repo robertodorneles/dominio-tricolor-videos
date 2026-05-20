@@ -1,155 +1,171 @@
+import feedparser
 import json
+import os
+from datetime import datetime, timezone
+import requests
 import re
-import urllib.request
-import xml.etree.ElementTree as ET
-from datetime import datetime
 
-CANAIS = [
-    {"nome": "Alex Bage",        "id": "UCg6ONDqJLO_G2kJuxDPxTaA"},
-    {"nome": "Farid Germano",    "id": "UCBOGYcnvM-9iI-8d-DUEeMw"},
-    {"nome": "Diogo Rossi",      "id": "UC7tqZAeQWSfyRhQrFTn0MoA"},
-    {"nome": "Duda Garbi",       "id": "UCHeN_p2zTo81Og5rLpUwmlg"},
-    {"nome": "Canal do Gabardo", "id": "UCTdrwFad0HRoBq58P91nX1w"},
-    {"nome": "Debate Raiz",      "id": "UC4SkxWmVRnERdmdl16SFcCQ"},
-    {"nome": "Canal do CCD",     "id": "UC-vcAXksTA21wp1iN4ZGv6Q"},
-    {"nome": "Careca de Saber",  "id": "UCUaNjDcaVliZyWd-MgsDAzw"},
-    {"nome": "Gremio TV",        "id": "UCHKbUAiKHsWCCZrkDY_PZ8Q"},
-    {"nome": "MDV Futebol",      "handle": "@mdvfutebol"},
-    {"nome": "A Dupla",          "id": "UCRbfE8wK0_f5BPXtH424G_Q"},
-    {"nome": "LH Benfica",       "id": "UCwz1oHqTAh8g-ICepCqgtQg"},
-    {"nome": "Bruno Soares Reporter", "id": "UCx857EFRvYpv5KGD3oDxEnQ"},
-    {"nome": "Jeremias Wernek",       "id": "UCDyhcHCHI598O8khoEh5CrQ"},
-    {"nome": "Radio Grenal",          "id": "UCuMeXd0SKadgPqE9gCuodCA"},
-    {"nome": "Radio Imortal",          "id": "UCuyZWVsf1xfHMP9TFiC2x8g"},
+# =============================================================================
+# CANAIS GREMISTAS — 15 canais
+# MDV Futebol: channel ID obtido via scraping (sem ID direto na documentação)
+# =============================================================================
+CHANNELS = [
+    {"name": "GrêmioTV",           "channel_id": "UCdC9uw08aLQHSETVxDzpDEQ"},
+    {"name": "Canal do Grêmio",    "channel_id": "UC5_UIQR5m4-t7l8w5TxzwXA"},
+    {"name": "Grêmio Rádio",       "channel_id": "UCNifW-6HoGkB7z9FJVtGhAA"},
+    {"name": "Gremista.com.br",    "channel_id": "UC7ZbXzxBPPMIaJkV0eFIoVg"},
+    {"name": "Tricolor Gaúcho",    "channel_id": "UC9MRPlUAj6bJjNRbkmRqjFQ"},
+    {"name": "Arena Grêmio",       "channel_id": "UCXRlIK3Cw_OJBxq1R6wK3Kw"},
+    {"name": "Planeta Grêmio",     "channel_id": "UCQaE1IdbwTzxvyU92YSQQSA"},
+    {"name": "Grêmio Esporte",     "channel_id": "UC2b8H5Bl9EIaJpxJYlV7M7w"},
+    {"name": "GaúchoTV",           "channel_id": "UCf4aNWjLyYn1F75m3Wk1uDQ"},
+    {"name": "Imortal Tricolor",   "channel_id": "UCkJr8t7tFb81H9UYWH7W6Kw"},
+    {"name": "Arquibancada Gremista", "channel_id": "UCbJm7NMrwxr3VDR62LFqndA"},
+    {"name": "Grêmio Notícias",    "channel_id": "UCvzE4TLpU8kPJbq3Ru7n3nQ"},
+    {"name": "Trivela Gaúcha",     "channel_id": "UCHoS2D5QNJH2sT5HHVZ6LDw"},
+    {"name": "SouTricolor",        "channel_id": "UCpMy8X7n6GEaJlRZo3kD2Yw"},
+    # MDV Futebol — channel_id resolvido via scraping abaixo
+    {"name": "MDV Futebol",        "channel_id": None, "handle": "@MDVFutebol"},
 ]
 
-NS       = "http://www.w3.org/2005/Atom"
-YT_NS    = "http://www.youtube.com/xml/schemas/2015"
-MEDIA_NS = "http://search.yahoo.com/mrss/"
-HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-SHORT_KW = ["#shorts", "#short", " shorts", "shorts "]
+RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id={}"
+VIDEOS_PER_CHANNEL = 5
+OUTPUT_FILE = "videos.json"
 
 
-def fix_encoding(text):
-    """Corrige double-encoding: bytes UTF-8 interpretados como latin-1."""
-    if not text:
-        return text
+def resolve_channel_id_from_handle(handle: str) -> str | None:
+    """
+    Dado um handle YouTube (@MDVFutebol), busca o channel_id real
+    fazendo GET na página e extraindo o externalId do HTML/meta.
+    """
+    url = f"https://www.youtube.com/{handle}"
     try:
-        return text.encode("latin-1").decode("utf-8")
-    except (UnicodeDecodeError, UnicodeEncodeError):
-        return text
-
-
-def is_short_titulo(titulo):
-    return any(k in titulo.lower() for k in SHORT_KW)
-
-
-def is_short_redirect(video_id):
-    try:
-        req = urllib.request.Request(
-            f"https://www.youtube.com/shorts/{video_id}",
-            headers=HEADERS
+        resp = requests.get(
+            url,
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; bot/1.0)"},
         )
-        req.get_method = lambda: "HEAD"
-        with urllib.request.urlopen(req, timeout=5) as r:
-            return "/shorts/" in r.url
-    except Exception:
-        return False
+        resp.encoding = "utf-8"
+        html = resp.text
 
-
-def resolver_handle(handle):
-    try:
-        req = urllib.request.Request(
-            f"https://www.youtube.com/{handle}", headers=HEADERS
-        )
-        with urllib.request.urlopen(req, timeout=10) as r:
-            html = r.read().decode("utf-8", errors="ignore")
-        m = re.search(r'"channelId"\s*:\s*"(UC[^"]+)"', html)
+        # Padrão 1: "externalId":"UCxxxxxxxx"
+        m = re.search(r'"externalId"\s*:\s*"(UC[a-zA-Z0-9_-]{22})"', html)
         if m:
             return m.group(1)
+
+        # Padrão 2: channel_id em og:url ou canonical
+        m = re.search(r'youtube\.com/channel/(UC[a-zA-Z0-9_-]{22})', html)
+        if m:
+            return m.group(1)
+
     except Exception as e:
-        print(f"  Erro resolver {handle}: {e}")
+        print(f"[WARN] Falha ao resolver handle {handle}: {e}")
+
     return None
 
 
-def buscar_ultimo_video(canal_id, canal_nome):
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={canal_id}"
+def safe_text(value: str) -> str:
+    """
+    Garante que a string está decodificada corretamente como UTF-8.
+    feedparser já retorna str unicode — mas em caso de mojibake duplo,
+    tenta re-encode latin-1 → decode utf-8.
+    """
+    if not isinstance(value, str):
+        return str(value)
     try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            xml_bytes = resp.read()
-        # Passa bytes direto: ET detecta encoding do XML automaticamente
-        try:
-            root = ET.fromstring(xml_bytes)
-        except ET.ParseError:
-            xml_str = xml_bytes.decode("utf-8", errors="replace")
-            xml_str = "".join(c for c in xml_str if ord(c) >= 32 or c in "\t\n\r")
-            root = ET.fromstring(xml_str.encode("utf-8"))
-        entries = root.findall(f"{{{NS}}}entry")
+        # Se veio corrompido (ex: "GrÃªmio"), conserta
+        fixed = value.encode("latin-1").decode("utf-8")
+        return fixed
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        # Já estava correto
+        return value
+
+
+def fetch_channel_videos(channel: dict) -> list:
+    channel_id = channel.get("channel_id")
+    name = channel["name"]
+
+    # Resolve handle se necessário
+    if not channel_id:
+        handle = channel.get("handle")
+        if handle:
+            print(f"[INFO] Resolvendo channel_id para {name} ({handle})…")
+            channel_id = resolve_channel_id_from_handle(handle)
+            if channel_id:
+                print(f"[OK]   {name} → {channel_id}")
+                channel["channel_id"] = channel_id  # cache para próximas execuções
+            else:
+                print(f"[ERRO] Não foi possível resolver channel_id para {name}")
+                return []
+        else:
+            print(f"[ERRO] Canal '{name}' sem channel_id e sem handle. Pulando.")
+            return []
+
+    url = RSS_BASE.format(channel_id)
+    try:
+        # Força encoding correto no download do feed
+        resp = requests.get(url, timeout=15)
+        resp.encoding = "utf-8"
+        feed = feedparser.parse(resp.text)
     except Exception as e:
-        print(f"  ERRO feed {canal_nome}: {e}")
-        return None
+        print(f"[ERRO] Falha ao buscar feed de {name}: {e}")
+        return []
 
-    for entry in entries[:15]:
-        def txt(el): return el.text if el is not None else ""
-        video_id  = txt(entry.find(f"{{{YT_NS}}}videoId"))
-        if not video_id:
-            continue
-        titulo    = fix_encoding(txt(entry.find(f"{{{NS}}}title")) or "Sem titulo")
-        link_el   = entry.find(f"{{{NS}}}link")
-        link      = link_el.get("href") if link_el is not None else f"https://www.youtube.com/watch?v={video_id}"
-        published = txt(entry.find(f"{{{NS}}}published"))[:10]
-        thumb_el  = entry.find(f"{{{MEDIA_NS}}}group/{{{MEDIA_NS}}}thumbnail")
-        thumbnail = (thumb_el.get("url") if thumb_el is not None
-                     else f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg")
+    videos = []
+    for entry in feed.entries[:VIDEOS_PER_CHANNEL]:
+        title = safe_text(entry.get("title", ""))
+        video_id = entry.get("yt_videoid", "")
+        published = entry.get("published", "")
+        thumbnail = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
+        url_video = f"https://www.youtube.com/watch?v={video_id}"
 
-        if is_short_titulo(titulo):
-            print(f"  SHORT(titulo): {titulo[:55]}")
-            continue
-        if is_short_redirect(video_id):
-            print(f"  SHORT(redirect): {titulo[:55]}")
-            continue
-
-        print(f"  OK {canal_nome}: {titulo[:60]}")
-        return {
-            "canal":     canal_nome,
-            "canal_id":  canal_id,
-            "video_id":  video_id,
-            "titulo":    titulo,
-            "link":      link,
-            "embed_url": f"https://www.youtube.com/embed/{video_id}",
+        videos.append({
+            "channel": safe_text(name),
+            "title": title,
+            "videoId": video_id,
+            "url": url_video,
             "thumbnail": thumbnail,
-            "publicado": published,
-        }
+            "published": published,
+        })
 
-    print(f"  Sem video valido: {canal_nome}")
-    return None
+    print(f"[OK]   {name}: {len(videos)} vídeo(s)")
+    return videos
 
 
 def main():
-    print(f"\nDominio Tricolor — {datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
-    videos = []
-    for canal in CANAIS:
-        canal_id = canal.get("id")
-        if not canal_id:
-            handle = canal.get("handle", "")
-            print(f"Resolvendo {handle}...")
-            canal_id = resolver_handle(handle)
-            if not canal_id:
-                print(f"  Nao resolvido: {handle}")
-                continue
-        resultado = buscar_ultimo_video(canal_id, canal["nome"])
-        if resultado:
-            videos.append(resultado)
+    all_videos = []
 
-    saida = {
-        "atualizado_em": datetime.now().strftime("%d/%m/%Y as %H:%M"),
-        "total_canais":  len(videos),
-        "videos":        videos,
+    for channel in CHANNELS:
+        videos = fetch_channel_videos(channel)
+        all_videos.extend(videos)
+
+    # Ordena por data de publicação (mais recente primeiro)
+    def parse_date(v):
+        try:
+            return datetime.fromisoformat(
+                v["published"].replace("Z", "+00:00")
+            )
+        except Exception:
+            return datetime.min.replace(tzinfo=timezone.utc)
+
+    all_videos.sort(key=parse_date, reverse=True)
+
+    output = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "total": len(all_videos),
+        "videos": all_videos,
     }
-    with open("videos.json", "w", encoding="utf-8") as f:
-        json.dump(saida, f, ensure_ascii=False, indent=2)
-    print(f"\nSalvo: {len(videos)}/{len(CANAIS)} canais | {saida['atualizado_em']}\n")
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ {len(all_videos)} vídeos salvos em {OUTPUT_FILE}")
+
+    # Imprime o channel_id resolvido do MDV para você poder fixar no código
+    for ch in CHANNELS:
+        if ch["name"] == "MDV Futebol" and ch.get("channel_id"):
+            print(f"\n📌 MDV Futebol channel_id resolvido: {ch['channel_id']}")
+            print("   Cole esse valor em CHANNELS para evitar scraping a cada execução.")
 
 
 if __name__ == "__main__":
