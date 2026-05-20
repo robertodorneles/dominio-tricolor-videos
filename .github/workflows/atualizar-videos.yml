@@ -32,11 +32,9 @@ jobs:
       - name: Executar fetch_youtube.py
         run: python fetch_youtube.py
 
-      - name: Commit e push do videos.json
+     - name: Commit e push do videos.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add videos.json
-          # Só commita se houver mudança
-          git diff --cached --quiet || git commit -m "chore: atualiza videos.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git diff --cached --quiet || (git commit -m "chore: atualiza videos.json [$(date -u '+%Y-%m-%d %H:%M UTC')]" && git pull --rebase && git push)
