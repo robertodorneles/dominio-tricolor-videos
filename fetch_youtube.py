@@ -68,11 +68,14 @@ def buscar_ultimo_video(canal_id, canal_nome):
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as resp:
             xml_bytes = resp.read()
-        # Decodifica em UTF-8 e remove chars invalidos para XML
-        xml_str = xml_bytes.decode("utf-8", errors="replace")
-        # Remove chars de controle que quebram o parser (exceto tab, newline, cr)
-        xml_str = "".join(c for c in xml_str if ord(c) >= 32 or c in "\t\n\r")
-        root    = ET.fromstring(xml_str.encode("utf-8"))
+        # Passa os bytes diretamente: ET detecta o encoding do header XML
+        # Se falhar por chars invalidos, faz limpeza e tenta novamente
+        try:
+            root = ET.fromstring(xml_bytes)
+        except ET.ParseError:
+            xml_str = xml_bytes.decode("utf-8", errors="replace")
+            xml_str = "".join(c for c in xml_str if ord(c) >= 32 or c in "\t\n\r")
+            root = ET.fromstring(xml_str.encode("utf-8"))
         entries = root.findall(f"{{{NS}}}entry")
     except Exception as e:
         print(f"  ERRO feed {canal_nome}: {e}")
