@@ -68,14 +68,25 @@ def buscar_ultimo_video(canal_id, canal_nome):
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as resp:
             xml_bytes = resp.read()
-        # Passa os bytes diretamente: ET detecta o encoding do header XML
-        # Se falhar por chars invalidos, faz limpeza e tenta novamente
+        # Corrige double-encoding: YouTube retorna UTF-8 mas ET le como latin-1
+        # Solucao: passa bytes direto ao ET (detecta encoding automaticamente)
         try:
             root = ET.fromstring(xml_bytes)
         except ET.ParseError:
+            # Fallback: decodifica e limpa chars de controle
             xml_str = xml_bytes.decode("utf-8", errors="replace")
             xml_str = "".join(c for c in xml_str if ord(c) >= 32 or c in "\t\n\r")
             root = ET.fromstring(xml_str.encode("utf-8"))
+
+
+def fix_encoding(text):
+    """Corrige double-encoding: bytes UTF-8 interpretados como latin-1."""
+    if not text:
+        return text
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        return text
         entries = root.findall(f"{{{NS}}}entry")
     except Exception as e:
         print(f"  ERRO feed {canal_nome}: {e}")
@@ -86,7 +97,7 @@ def buscar_ultimo_video(canal_id, canal_nome):
         video_id  = txt(entry.find(f"{{{YT_NS}}}videoId"))
         if not video_id:
             continue
-        titulo    = txt(entry.find(f"{{{NS}}}title")) or "Sem titulo"
+        titulo    = fix_encoding(txt(entry.find(f"{{{NS}}}title")) or "Sem titulo")
         link_el   = entry.find(f"{{{NS}}}link")
         link      = link_el.get("href") if link_el is not None else f"https://www.youtube.com/watch?v={video_id}"
         published = txt(entry.find(f"{{{NS}}}published"))[:10]
