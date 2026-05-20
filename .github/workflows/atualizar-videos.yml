@@ -29,11 +29,10 @@ jobs:
       - name: Executar fetch_youtube.py
         run: python -u fetch_youtube.py
 
-      - name: Commit e push do videos.json
+     - name: Commit e push do videos.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add videos.json
           git diff --cached --quiet || git commit -m "chore: atualiza videos.json"
           git push origin main
