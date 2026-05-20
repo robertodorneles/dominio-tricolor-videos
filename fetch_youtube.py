@@ -5,26 +5,27 @@ import requests
 import re
 
 # =============================================================================
-# CANAIS GREMISTAS — 15 canais com handles @
-# O script resolve o channel_id automaticamente via scraping do handle
-# MDV Futebol já tem channel_id fixo (resolvido na primeira execução)
+# CANAIS GREMISTAS — 15 canais
+# Usando channel_id direto onde disponivel, handle @ onde necessario
 # =============================================================================
 CHANNELS = [
-    {"name": "GrêmioTV (Oficial)",      "handle": "@gremiotv"},
-    {"name": "Canal do CCD",            "handle": "@CanalCCD"},
-    {"name": "Canal 7 Gremista",        "handle": "@Canal7Gremista"},
-    {"name": "Canal Monumental",        "handle": "@canalmonumentalRS"},
-    {"name": "Imortal Tricolor",        "handle": "@imortaltricolarnews"},
-    {"name": "Portal do Gremista",      "handle": "@PortaldoGremista"},
-    {"name": "Zona Gremista",           "handle": "@ZonaGremista"},
-    {"name": "Rádio Imortal",           "handle": "@rdimortal"},
-    {"name": "Grêmio Imortal",          "handle": "@gremioimortal"},
+    # Channel IDs diretos (mais confiavel)
+    {"name": "GremioTV Oficial",        "channel_id": "UCHKbUAiKHsWCCZrkDY_PZ8Q"},
+    {"name": "Canal do CCD",            "channel_id": "UC-vcAXksTA21wp1iN4ZGv6Q"},
+    {"name": "Canal Monumental",        "channel_id": "UCgeVb79_CtAIaGgZq8MHU6A"},
+    {"name": "Imortal Tricolor",        "channel_id": "UCtpC1QsVVfCRjjlyMPIppXw"},
+    {"name": "Zona Gremista",           "channel_id": "UC2XCTPIqVJBVK4M9-UquacQ"},
     {"name": "MDV Futebol",             "channel_id": "UCbaLsDyl0cehhUvlycX7Mxw"},
-    {"name": "Planeta Grêmio",          "handle": "@PlanetaGremio"},
-    {"name": "Trivela Gaúcha",          "handle": "@TrivelaGaucha"},
+    # Handles @ (resolvidos automaticamente)
+    {"name": "Canal 7 Gremista",        "handle": "@Canal7Gremista"},
+    {"name": "Portal do Gremista",      "handle": "@PortaldoGremista"},
+    {"name": "Radio Imortal",           "handle": "@rdimortal"},
+    {"name": "Gremio Imortal",          "handle": "@gremioimortal"},
+    {"name": "Planeta Gremio",          "handle": "@PlanetaGremio"},
+    {"name": "Trivela Gaucha",          "handle": "@TrivelaGaucha"},
     {"name": "Arquibancada Gremista",   "handle": "@ArquibancadaGremista"},
     {"name": "SouTricolor",             "handle": "@SouTricolor"},
-    {"name": "Grêmio Notícias",         "handle": "@GremioNoticias"},
+    {"name": "Gremio Noticias",         "handle": "@GremioNoticias"},
 ]
 
 RSS_BASE           = "https://www.youtube.com/feeds/videos.xml?channel_id={}"
@@ -89,7 +90,7 @@ def fetch_channel_videos(channel: dict) -> list:
 
     videos = []
     for entry in feed.entries[:VIDEOS_PER_CHANNEL]:
-        video_id  = entry.get("yt_videoid", "")
+        video_id = entry.get("yt_videoid", "")
         videos.append({
             "channel":   safe_text(name),
             "title":     safe_text(entry.get("title", "")),
