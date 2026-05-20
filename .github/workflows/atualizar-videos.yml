@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout repositorio
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -24,18 +27,13 @@ jobs:
         run: pip install feedparser requests
 
       - name: Executar fetch_youtube.py
-        run: |
-          python -u -c "import sys; print(sys.version)"
-          python -u -c "import feedparser; print('feedparser ok')"
-          python -u -c "import requests; print('requests ok')"
-          python -u fetch_youtube.py || echo "SCRIPT FALHOU COM CODIGO $?"
+        run: python -u fetch_youtube.py || echo "ERRO NO SCRIPT: $?"
 
       - name: Commit e push do videos.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git checkout main
+          git pull --rebase origin main
           git add videos.json
           git diff --cached --quiet || git commit -m "chore: atualiza videos.json"
           git push origin main
