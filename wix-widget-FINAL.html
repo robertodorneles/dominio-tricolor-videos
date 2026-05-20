@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domínio Tricolor — Vídeos</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500&display=swap');
+
+  :root {
+    --azul:    #003087;
+    --preto:   #0d0d0d;
+    --branco:  #f5f5f5;
+    --cinza:   #1a1a1a;
+    --cinza2:  #2a2a2a;
+    --dourado: #c9a84c;
+    --radius:  6px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--preto);
+    color: var(--branco);
+    font-family: 'Barlow', sans-serif;
+    font-size: 13px;
+  }
+
+  /* ── HEADER ───────────────────────────────────────── */
+  #header {
+    background: var(--azul);
+    padding: 10px 14px 8px;
+    border-bottom: 2px solid var(--dourado);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  #header .escudo {
+    width: 32px; height: 32px;
+    flex-shrink: 0;
+  }
+  #header h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: 1;
+  }
+  #header h1 span { color: var(--dourado); }
+  #updated {
+    margin-left: auto;
+    font-size: 10px;
+    color: rgba(255,255,255,0.55);
+    white-space: nowrap;
+  }
+
+  /* ── FILTROS ──────────────────────────────────────── */
+  #filtros {
+    padding: 8px 14px;
+    background: var(--cinza);
+    border-bottom: 1px solid #333;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  #filtros input[type="text"] {
+    flex: 1;
+    min-width: 140px;
+    background: var(--cinza2);
+    border: 1px solid #444;
+    border-radius: var(--radius);
+    color: var(--branco);
+    padding: 5px 9px;
+    font-size: 12px;
+    font-family: 'Barlow', sans-serif;
+    outline: none;
+  }
+  #filtros input[type="text"]::placeholder { color: #666; }
+  #filtros input[type="text"]:focus { border-color: var(--dourado); }
+
+  #filtros select {
+    background: var(--cinza2);
+    border: 1px solid #444;
+    border-radius: var(--radius);
+    color: var(--branco);
+    padding: 5px 8px;
+    font-size: 12px;
+    font-family: 'Barlow', sans-serif;
+    cursor: pointer;
+    outline: none;
+  }
+  #filtros select:focus { border-color: var(--dourado); }
+
+  /* ── GRID DE VÍDEOS ───────────────────────────────── */
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 10px;
+    padding: 12px 14px;
+  }
+
+  .card {
+    background: var(--cinza);
+    border-radius: var(--radius);
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+    border: 1px solid transparent;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0,48,135,0.5);
+    border-color: var(--dourado);
+  }
+  .card img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
+    background: #111;
+  }
+  .card-body {
+    padding: 7px 8px 8px;
+  }
+  .card-canal {
+    font-size: 10px;
+    color: var(--dourado);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 3px;
+  }
+  .card-titulo {
+    font-size: 12px;
+    line-height: 1.35;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: var(--branco);
+  }
+  .card-data {
+    font-size: 10px;
+    color: #666;
+    margin-top: 5px;
+  }
+
+  /* ── ESTADO VAZIO / CARREGANDO ────────────────────── */
+  #estado {
+    text-align: center;
+    padding: 40px 20px;
+    color: #555;
+    font-size: 13px;
+  }
+  #estado .spin {
+    display: inline-block;
+    width: 24px; height: 24px;
+    border: 3px solid #333;
+    border-top-color: var(--azul);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+    margin-bottom: 10px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── PAGINAÇÃO ────────────────────────────────────── */
+  #paginacao {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 14px 16px;
+    flex-wrap: wrap;
+  }
+  #paginacao button {
+    background: var(--cinza2);
+    border: 1px solid #444;
+    border-radius: var(--radius);
+    color: var(--branco);
+    padding: 5px 10px;
+    font-size: 11px;
+    cursor: pointer;
+    font-family: 'Barlow', sans-serif;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  #paginacao button:hover,
+  #paginacao button.ativo {
+    background: var(--azul);
+    border-color: var(--azul);
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div id="header">
+  <!-- Escudo Grêmio SVG inline (triângulo azul/preto/branco) -->
+  <svg class="escudo" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="20,2 38,36 2,36" fill="#003087"/>
+    <polygon points="20,6 35,34 5,34" fill="#f5f5f5"/>
+    <polygon points="20,10 31,32 9,32" fill="#0d0d0d"/>
+    <polygon points="20,14 27,30 13,30" fill="#c9a84c"/>
+  </svg>
+  <h1>Domínio <span>Tricolor</span></h1>
+  <div id="updated">carregando…</div>
+</div>
+
+<!-- FILTROS -->
+<div id="filtros">
+  <input type="text" id="busca" placeholder="Buscar vídeos…" oninput="filtrar()">
+  <select id="canal-sel" onchange="filtrar()">
+    <option value="">Todos os canais</option>
+  </select>
+</div>
+
+<!-- GRID -->
+<div id="grid">
+  <div id="estado">
+    <div class="spin"></div><br>Buscando vídeos…
+  </div>
+</div>
+
+<!-- PAGINAÇÃO -->
+<div id="paginacao"></div>
+
+<script>
+  // ── CONFIG ───────────────────────────────────────────────
+  const GITHUB_USER = "robertodorneles";
+  const GITHUB_REPO = "dominio-tricolor-videos";
+  const JSON_PATH   = "videos.json";
+  const POR_PAGINA  = 30;
+
+  // ── ESTADO ───────────────────────────────────────────────
+  let todosVideos   = [];
+  let videosFiltros = [];
+  let paginaAtual   = 1;
+
+  // ── FETCH VIA GITHUB API (evita cache agressivo) ─────────
+  async function carregarVideos() {
+    try {
+      const apiUrl =
+        `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${JSON_PATH}`;
+      const resp = await fetch(apiUrl, {
+        headers: { "Accept": "application/vnd.github.v3+json" }
+      });
+      if (!resp.ok) throw new Error(`GitHub API: ${resp.status}`);
+      const meta = await resp.json();
+
+      // Decodifica base64 → UTF-8 (garante encoding correto)
+      const raw  = atob(meta.content.replace(/\n/g, ""));
+      const bytes = new Uint8Array(raw.length);
+      for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
+      const texto = new TextDecoder("utf-8").decode(bytes);
+      const dados = JSON.parse(texto);
+
+      todosVideos = dados.videos || [];
+
+      // Atualiza timestamp
+      const dt = new Date(dados.updated_at);
+      document.getElementById("updated").textContent =
+        "Atualizado " + dt.toLocaleString("pt-BR", {
+          day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit"
+        });
+
+      // Popula select de canais
+      const canais = [...new Set(todosVideos.map(v => v.channel))].sort();
+      const sel = document.getElementById("canal-sel");
+      canais.forEach(c => {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        sel.appendChild(opt);
+      });
+
+      filtrar();
+    } catch (e) {
+      document.getElementById("estado").innerHTML =
+        `<p style="color:#c44">Erro ao carregar vídeos.<br><small>${e.message}</small></p>`;
+      console.error(e);
+    }
+  }
+
+  // ── FILTRAR ───────────────────────────────────────────────
+  function filtrar() {
+    const termo = document.getElementById("busca").value.toLowerCase().trim();
+    const canal = document.getElementById("canal-sel").value;
+
+    videosFiltros = todosVideos.filter(v => {
+      const matchCanal = !canal || v.channel === canal;
+      const matchBusca = !termo ||
+        v.title.toLowerCase().includes(termo) ||
+        v.channel.toLowerCase().includes(termo);
+      return matchCanal && matchBusca;
+    });
+
+    paginaAtual = 1;
+    renderizar();
+  }
+
+  // ── RENDERIZAR ────────────────────────────────────────────
+  function renderizar() {
+    const grid = document.getElementById("grid");
+    const total = videosFiltros.length;
+
+    if (total === 0) {
+      grid.innerHTML = '<div id="estado">Nenhum vídeo encontrado.</div>';
+      document.getElementById("paginacao").innerHTML = "";
+      return;
+    }
+
+    const inicio = (paginaAtual - 1) * POR_PAGINA;
+    const fatia  = videosFiltros.slice(inicio, inicio + POR_PAGINA);
+
+    grid.innerHTML = fatia.map(v => `
+      <div class="card" onclick="abrirVideo('${v.url}')">
+        <img
+          src="${v.thumbnail}"
+          alt="${escHtml(v.title)}"
+          loading="lazy"
+          onerror="this.src='https://img.youtube.com/vi/${v.videoId}/default.jpg'"
+        >
+        <div class="card-body">
+          <div class="card-canal">${escHtml(v.channel)}</div>
+          <div class="card-titulo">${escHtml(v.title)}</div>
+          <div class="card-data">${formatarData(v.published)}</div>
+        </div>
+      </div>
+    `).join("");
+
+    renderizarPaginacao(total);
+  }
+
+  function renderizarPaginacao(total) {
+    const totalPaginas = Math.ceil(total / POR_PAGINA);
+    const pag = document.getElementById("paginacao");
+
+    if (totalPaginas <= 1) { pag.innerHTML = ""; return; }
+
+    let html = "";
+    if (paginaAtual > 1)
+      html += `<button onclick="irPagina(${paginaAtual - 1})">← Anterior</button>`;
+
+    const inicio = Math.max(1, paginaAtual - 2);
+    const fim    = Math.min(totalPaginas, paginaAtual + 2);
+    for (let i = inicio; i <= fim; i++) {
+      html += `<button onclick="irPagina(${i})" class="${i === paginaAtual ? 'ativo' : ''}">${i}</button>`;
+    }
+
+    if (paginaAtual < totalPaginas)
+      html += `<button onclick="irPagina(${paginaAtual + 1})">Próxima →</button>`;
+
+    pag.innerHTML = html;
+  }
+
+  function irPagina(n) {
+    paginaAtual = n;
+    renderizar();
+    window.scrollTo(0, 0);
+  }
+
+  function abrirVideo(url) {
+    window.open(url, "_blank", "noopener,noreferrer");
+  }
+
+  function escHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function formatarData(iso) {
+    if (!iso) return "";
+    try {
+      return new Date(iso).toLocaleDateString("pt-BR", {
+        day: "2-digit", month: "2-digit", year: "numeric"
+      });
+    } catch { return ""; }
+  }
+
+  // ── INICIAR ───────────────────────────────────────────────
+  carregarVideos();
+</script>
+</body>
+</html>
