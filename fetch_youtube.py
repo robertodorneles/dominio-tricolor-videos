@@ -1,25 +1,25 @@
-import feedparser
+﻿import feedparser
 import json
 from datetime import datetime, timezone
 import requests
 import re
 
 CHANNELS = [
-    {'name': 'GremioTV Oficial',   'channel_id': 'UCHKbUAiKHsWCCZrkDY_PZ8Q'},
-    {'name': 'Canal do CCD',       'channel_id': 'UC-vcAXksTA21wp1iN4ZGv6Q'},
-    {'name': 'Canal Monumental',   'channel_id': 'UCgeVb79_CtAIaGgZq8MHU6A'},
-    {'name': 'Imortal Tricolor',   'channel_id': 'UCtpC1QsVVfCRjjlyMPIppXw'},
-    {'name': 'Zona Gremista',      'channel_id': 'UC2XCTPIqVJBVK4M9-UquacQ'},
-    {'name': 'MDV Futebol',        'channel_id': 'UCbaLsDyl0cehhUvlycX7Mxw'},
-    {'name': 'Portal do Gremista', 'channel_id': 'UCaQaFTJzJFSFjRsg5vV6C8Q'},
-    {'name': 'Bage TV',            'channel_id': 'UCg6ONDqJLO_G2kJuxDPxTaA'},
-    {'name': 'Canal 7 Gremista',   'handle': '@Canal7Gremista'},
-    {'name': 'Radio Imortal',      'handle': '@rdimortal'},
-    {'name': 'Gremio Imortal',     'handle': '@gremioimortal'},
-    {'name': 'Planeta Gremio',     'handle': '@PlanetaGremio'},
-    {'name': 'Gremio Noticias',    'handle': '@GremioNoticias'},
-    {'name': 'Gremio HOJE',        'handle': '@GREMIOHJ'},
-    {'name': 'Gremio Productions', 'handle': '@gremioproductions_br'},
+    {'name': 'Bage TV',               'handle': '@BageTvOficial'},
+    {'name': 'Canal do CCD',          'handle': '@cesarcidadedias'},
+    {'name': 'Careca de Saber TV',    'handle': '@carecadesabertv'},
+    {'name': 'GremioTV Oficial',      'handle': '@Gremio'},
+    {'name': 'Canal do Gabardo',      'handle': '@CanaldoGabardo'},
+    {'name': 'Radio Imortal',         'handle': '@rdimortal'},
+    {'name': 'MDV Futebol',           'channel_id': 'UCbaLsDyl0cehhUvlycX7Mxw'},
+    {'name': 'A Dupla',               'handle': '@ADuplaYT'},
+    {'name': 'Bruno Soares Reporter', 'handle': '@BrunoSoaresReporter'},
+    {'name': 'Canal do Farid',        'handle': '@CanaldoFarid'},
+    {'name': 'Diogo Rossi Reporter',  'handle': '@DiogoRossiReporter'},
+    {'name': 'Radio Grenal',          'handle': '@RadGrenal'},
+    {'name': 'Jeremias Wernek',       'handle': '@JeremiasWernek'},
+    {'name': 'LH Benfica',            'handle': '@lhbenfica'},
+    {'name': 'Duda Garbi',            'handle': '@dudagarbi'},
 ]
 
 RSS_BASE = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
@@ -114,3 +114,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
