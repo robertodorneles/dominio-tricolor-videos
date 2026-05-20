@@ -1,156 +1,46 @@
 {
-  "atualizado_em": "20/05/2026 as 18:05",
-  "total_canais": 15,
+  "updated_at": "2026-05-20T19:23:45.639869+00:00",
+  "total": 5,
   "videos": [
     {
-      "canal": "Alex Bage",
-      "canal_id": "UCg6ONDqJLO_G2kJuxDPxTaA",
-      "video_id": "D7u_IVDYdpc",
-      "titulo": "GRÊMIO ENCARA O PALESTINO / ENTREVISTA DE PEZZOLANO PARA URUGUAIOS🔸RESENHA FORA DA SALA🔸#048",
-      "link": "https://www.youtube.com/watch?v=D7u_IVDYdpc",
-      "embed_url": "https://www.youtube.com/embed/D7u_IVDYdpc",
-      "thumbnail": "https://i1.ytimg.com/vi/D7u_IVDYdpc/hqdefault.jpg",
-      "publicado": "2026-05-20"
+      "channel": "MDV Futebol",
+      "title": "GRÊMIO X PALESTINO AO VIVO | Sulamericana 2026 | Narração Marco de Vargas",
+      "videoId": "M6DQpeQ1fI8",
+      "url": "https://www.youtube.com/watch?v=M6DQpeQ1fI8",
+      "thumbnail": "https://img.youtube.com/vi/M6DQpeQ1fI8/mqdefault.jpg",
+      "published": "2026-05-17T23:19:40+00:00"
     },
     {
-      "canal": "Farid Germano",
-      "canal_id": "UCBOGYcnvM-9iI-8d-DUEeMw",
-      "video_id": "Xgt1eY5ZKEE",
-      "titulo": "GRÊMIO TEM 4 DECISÕES ATÉ A COPA DO MUNDO - VAMOOO FARIDO 19.05.26",
-      "link": "https://www.youtube.com/watch?v=Xgt1eY5ZKEE",
-      "embed_url": "https://www.youtube.com/embed/Xgt1eY5ZKEE",
-      "thumbnail": "https://i1.ytimg.com/vi/Xgt1eY5ZKEE/hqdefault.jpg",
-      "publicado": "2026-05-20"
+      "channel": "MDV Futebol",
+      "title": "BAHIA X GRÊMIO AO VIVO | Brasileirão 2026 | Narração Marco de Vargas",
+      "videoId": "QDvScr_-5UA",
+      "url": "https://www.youtube.com/watch?v=QDvScr_-5UA",
+      "thumbnail": "https://img.youtube.com/vi/QDvScr_-5UA/mqdefault.jpg",
+      "published": "2026-05-17T21:31:19+00:00"
     },
     {
-      "canal": "Diogo Rossi",
-      "canal_id": "UC7tqZAeQWSfyRhQrFTn0MoA",
-      "video_id": "ZWe3cU49lvU",
-      "titulo": "WEVERTON TITULAR NA COPA? ESTREIA NO GOL | NEYMAR NA ARENA? | ARTHUR AINDA NÃO | “REFORÇO” PÓS-COPA",
-      "link": "https://www.youtube.com/watch?v=ZWe3cU49lvU",
-      "embed_url": "https://www.youtube.com/embed/ZWe3cU49lvU",
-      "thumbnail": "https://i3.ytimg.com/vi/ZWe3cU49lvU/hqdefault.jpg",
-      "publicado": "2026-05-20"
+      "channel": "MDV Futebol",
+      "title": "CONFIANÇA X GRÊMIO AO VIVO | Copa do Brasil 2026 | Narração Marco de Vargas",
+      "videoId": "0b0jNLSY9gw",
+      "url": "https://www.youtube.com/watch?v=0b0jNLSY9gw",
+      "thumbnail": "https://img.youtube.com/vi/0b0jNLSY9gw/mqdefault.jpg",
+      "published": "2026-05-15T00:24:57+00:00"
     },
     {
-      "canal": "Duda Garbi",
-      "canal_id": "UCHeN_p2zTo81Og5rLpUwmlg",
-      "video_id": "adumBh9Twek",
-      "titulo": "GEROMEL CONTA TUDO SOBRE PARCERIA HISTÓRICA COM KANNEMANN | Cortes do Duda",
-      "link": "https://www.youtube.com/watch?v=adumBh9Twek",
-      "embed_url": "https://www.youtube.com/embed/adumBh9Twek",
-      "thumbnail": "https://i2.ytimg.com/vi/adumBh9Twek/hqdefault.jpg",
-      "publicado": "2026-05-19"
+      "channel": "MDV Futebol",
+      "title": "É REDEEE! WILLIAN! CONFIANÇA 0 X 3 GRÊMIO 🎥 @fbitricolor",
+      "videoId": "yN0ZhYg0pcc",
+      "url": "https://www.youtube.com/watch?v=yN0ZhYg0pcc",
+      "thumbnail": "https://img.youtube.com/vi/yN0ZhYg0pcc/mqdefault.jpg",
+      "published": "2026-05-15T00:07:34+00:00"
     },
     {
-      "canal": "Canal do Gabardo",
-      "canal_id": "UCTdrwFad0HRoBq58P91nX1w",
-      "video_id": "KuFR2l75g3o",
-      "titulo": "A resposta da CBF para a consulta do Grêmio sobre Weverton | Escalação para enfrentar o Palestino",
-      "link": "https://www.youtube.com/watch?v=KuFR2l75g3o",
-      "embed_url": "https://www.youtube.com/embed/KuFR2l75g3o",
-      "thumbnail": "https://i4.ytimg.com/vi/KuFR2l75g3o/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Debate Raiz",
-      "canal_id": "UC4SkxWmVRnERdmdl16SFcCQ",
-      "video_id": "g9lznfiMmPY",
-      "titulo": "GRÊMIO SEM OPÇÃO: TEM QUE VENCER | ALAN RODRÍGUEZ DE SAÍDA DO INTER? | DEBATE RAIZ | 20/05/26 #681",
-      "link": "https://www.youtube.com/watch?v=g9lznfiMmPY",
-      "embed_url": "https://www.youtube.com/embed/g9lznfiMmPY",
-      "thumbnail": "https://i4.ytimg.com/vi/g9lznfiMmPY/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Canal do CCD",
-      "canal_id": "UC-vcAXksTA21wp1iN4ZGv6Q",
-      "video_id": "6TExHJXjMD4",
-      "titulo": "Grêmio x Palestino: decisão na Arena e a dica de Luis Castro",
-      "link": "https://www.youtube.com/watch?v=6TExHJXjMD4",
-      "embed_url": "https://www.youtube.com/embed/6TExHJXjMD4",
-      "thumbnail": "https://i3.ytimg.com/vi/6TExHJXjMD4/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Careca de Saber",
-      "canal_id": "UCUaNjDcaVliZyWd-MgsDAzw",
-      "video_id": "-B2xctFuoTk",
-      "titulo": "PIOROU? SÓ DEPOIS DA COPA? | MILAGRE? TABELA COMPLICOU! | GRÊMIO X PALESTINO ",
-      "link": "https://www.youtube.com/watch?v=-B2xctFuoTk",
-      "embed_url": "https://www.youtube.com/embed/-B2xctFuoTk",
-      "thumbnail": "https://i2.ytimg.com/vi/-B2xctFuoTk/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Gremio TV",
-      "canal_id": "UCHKbUAiKHsWCCZrkDY_PZ8Q",
-      "video_id": "ZkpHIPRXcOA",
-      "titulo": "AO VIVO | GRÊMIO X PALESTINO (SUL-AMERICANA 2026)",
-      "link": "https://www.youtube.com/watch?v=ZkpHIPRXcOA",
-      "embed_url": "https://www.youtube.com/embed/ZkpHIPRXcOA",
-      "thumbnail": "https://i3.ytimg.com/vi/ZkpHIPRXcOA/hqdefault.jpg",
-      "publicado": "2026-05-19"
-    },
-    {
-      "canal": "A Dupla",
-      "canal_id": "UCRbfE8wK0_f5BPXtH424G_Q",
-      "video_id": "XJ4V3oKxjIk",
-      "titulo": "🔴⚪️ Diário do Inter KTO: 🔥 SELEÇÃO URUGUAIA PREOCUPA? | ALAN RODRIGUEZ SAINDO? | ALISSON",
-      "link": "https://www.youtube.com/watch?v=XJ4V3oKxjIk",
-      "embed_url": "https://www.youtube.com/embed/XJ4V3oKxjIk",
-      "thumbnail": "https://i1.ytimg.com/vi/XJ4V3oKxjIk/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "LH Benfica",
-      "canal_id": "UCwz1oHqTAh8g-ICepCqgtQg",
-      "video_id": "tS8U-IAj4eY",
-      "titulo": "🚨UMA ÓTIMA NOTÍCIA PRO GRÊMIO | O REFORÇO QUE O TIME PRECISAVA | ELE DEVE TUDO AO CLUBE",
-      "link": "https://www.youtube.com/watch?v=tS8U-IAj4eY",
-      "embed_url": "https://www.youtube.com/embed/tS8U-IAj4eY",
-      "thumbnail": "https://i1.ytimg.com/vi/tS8U-IAj4eY/hqdefault.jpg",
-      "publicado": "2026-05-19"
-    },
-    {
-      "canal": "Bruno Soares Reporter",
-      "canal_id": "UCx857EFRvYpv5KGD3oDxEnQ",
-      "video_id": "buYI8HJRJ-E",
-      "titulo": "🚨NOVA INVESTIDA POR ATACANTE | SURPRESAS NO TIME PRO JOGO | TENTATIVA DO GRÊMIO POR WEVERTON!",
-      "link": "https://www.youtube.com/watch?v=buYI8HJRJ-E",
-      "embed_url": "https://www.youtube.com/embed/buYI8HJRJ-E",
-      "thumbnail": "https://i3.ytimg.com/vi/buYI8HJRJ-E/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Jeremias Wernek",
-      "canal_id": "UCDyhcHCHI598O8khoEh5CrQ",
-      "video_id": "cxINOW4J4hw",
-      "titulo": "Luís Castro \"sabe\" e abre o jogo sobre o Grêmio + data para volta do Villasanti",
-      "link": "https://www.youtube.com/watch?v=cxINOW4J4hw",
-      "embed_url": "https://www.youtube.com/embed/cxINOW4J4hw",
-      "thumbnail": "https://i4.ytimg.com/vi/cxINOW4J4hw/hqdefault.jpg",
-      "publicado": "2026-05-05"
-    },
-    {
-      "canal": "Radio Grenal",
-      "canal_id": "UCuMeXd0SKadgPqE9gCuodCA",
-      "video_id": "aw5mlBqjluA",
-      "titulo": "TIERLIST: GOLEIROS DO GRÊMIO PÓS MARCELO GROHE | CORTES RÁDIO GRENAL",
-      "link": "https://www.youtube.com/watch?v=aw5mlBqjluA",
-      "embed_url": "https://www.youtube.com/embed/aw5mlBqjluA",
-      "thumbnail": "https://i2.ytimg.com/vi/aw5mlBqjluA/hqdefault.jpg",
-      "publicado": "2026-05-20"
-    },
-    {
-      "canal": "Radio Imortal",
-      "canal_id": "UCuyZWVsf1xfHMP9TFiC2x8g",
-      "video_id": "qFWP5mLBIKk",
-      "titulo": "TIMELINE IMORTAL #74 — GRÊMIO ENFRENTA O PALESTINO E SÓ A VITÓRIA INTERESSA!",
-      "link": "https://www.youtube.com/watch?v=qFWP5mLBIKk",
-      "embed_url": "https://www.youtube.com/embed/qFWP5mLBIKk",
-      "thumbnail": "https://i2.ytimg.com/vi/qFWP5mLBIKk/hqdefault.jpg",
-      "publicado": "2026-05-20"
+      "channel": "MDV Futebol",
+      "title": "É REDEEE! OUTRO DE BRAITHWAITE! CONFIANÇA 0 X 3 GRÊMIO 🎥 @fbitricolor",
+      "videoId": "8cETa2jNs5g",
+      "url": "https://www.youtube.com/watch?v=8cETa2jNs5g",
+      "thumbnail": "https://img.youtube.com/vi/8cETa2jNs5g/mqdefault.jpg",
+      "published": "2026-05-15T00:01:35+00:00"
     }
   ]
 }
