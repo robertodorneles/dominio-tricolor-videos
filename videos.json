@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-05-21T11:59:16.216789+00:00",
+  "updated_at": "2026-05-21T16:31:12.480658+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #75 — AS REPERCUSSÕES DA VITÓRIA DO GRÊMIO | AMUZU ADMITE TRISTEZA",
+      "videoId": "Pte9WTffXeo",
+      "url": "https://www.youtube.com/watch?v=Pte9WTffXeo",
+      "thumbnail": "https://img.youtube.com/vi/Pte9WTffXeo/mqdefault.jpg",
+      "published": "2026-05-21T15:24:42+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... DANIEL FURLAN… O CRAQUE DANIEL DO FALHA DE COBERTURA | #384",
+      "videoId": "RzEwPZhzGqw",
+      "url": "https://www.youtube.com/watch?v=RzEwPZhzGqw",
+      "thumbnail": "https://img.youtube.com/vi/RzEwPZhzGqw/mqdefault.jpg",
+      "published": "2026-05-21T14:48:38+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "AS PEÇAS ESTÃO SE ENCAIXANDO - VAMOOO FARIDO 21.05.26",
+      "videoId": "51MLFIkpTaA",
+      "url": "https://www.youtube.com/watch?v=51MLFIkpTaA",
+      "thumbnail": "https://img.youtube.com/vi/51MLFIkpTaA/mqdefault.jpg",
+      "published": "2026-05-21T14:16:39+00:00"
+    },
+    {
+      "channel": "Canal do Gabardo",
+      "title": "Amuzu falou sobre seleção e renovação | Gustavo Martins e Arthur | Dois jogos decisivos",
+      "videoId": "ElmbNC9_56c",
+      "url": "https://www.youtube.com/watch?v=ElmbNC9_56c",
+      "thumbnail": "https://img.youtube.com/vi/ElmbNC9_56c/mqdefault.jpg",
+      "published": "2026-05-21T13:54:08+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO VENCE COM GOLAÇO DE PAVON -FUTEBOL ALEGRIA DO GRÊMIO - 21/05 - #551",
+      "videoId": "RIMqjZOX3gE",
+      "url": "https://www.youtube.com/watch?v=RIMqjZOX3gE",
+      "thumbnail": "https://img.youtube.com/vi/RIMqjZOX3gE/mqdefault.jpg",
+      "published": "2026-05-21T13:44:12+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "REVITALIZAÇÃO DA ZONA MISTA",
+      "videoId": "1T04PlJzmok",
+      "url": "https://www.youtube.com/watch?v=1T04PlJzmok",
+      "thumbnail": "https://img.youtube.com/vi/1T04PlJzmok/mqdefault.jpg",
+      "published": "2026-05-21T13:36:00+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "ENTREVISTA COLETIVA DE VICTOR GRUNBERG - VICE-PRESIDENTE DO INTER | 21/05/2026 | RÁDIO GRENAL",
+      "videoId": "4HFF7fZhmQo",
+      "url": "https://www.youtube.com/watch?v=4HFF7fZhmQo",
+      "thumbnail": "https://img.youtube.com/vi/4HFF7fZhmQo/mqdefault.jpg",
+      "published": "2026-05-21T13:25:38+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE E MIRA A LIDERANÇA DO GRUPO | PAVÓN VOLTA A MARCAR | AMUZU  FALOU | REDAÇÃO IMORTAL",
+      "videoId": "4MnbxZEfwhc",
+      "url": "https://www.youtube.com/watch?v=4MnbxZEfwhc",
+      "thumbnail": "https://img.youtube.com/vi/4MnbxZEfwhc/mqdefault.jpg",
+      "published": "2026-05-21T13:07:04+00:00"
+    },
     {
       "channel": "Careca de Saber TV",
       "title": "DESISTIU DO GRÊMIO? |  AS ESCOLHAS | GRÊMIO 2 X 0 PALESTINO",
@@ -28,39 +92,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DO TÉCNICO LUIS CASTRO | GRÊMIO 2 X 0 PALESTINO | SUL-AMERICANA | 20/05/2025",
-      "videoId": "jy2ITfP681Y",
-      "url": "https://www.youtube.com/watch?v=jy2ITfP681Y",
-      "thumbnail": "https://img.youtube.com/vi/jy2ITfP681Y/mqdefault.jpg",
-      "published": "2026-05-21T04:40:22+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 21/05",
-      "videoId": "HIhbCQMncKo",
-      "url": "https://www.youtube.com/watch?v=HIhbCQMncKo",
-      "thumbnail": "https://img.youtube.com/vi/HIhbCQMncKo/mqdefault.jpg",
-      "published": "2026-05-21T04:21:14+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE E MIRA A LIDERANÇA DO GRUPO | PAVÓN VOLTA A MARCAR | AMUZU  FALOU | REDAÇÃO IMORTAL",
-      "videoId": "4MnbxZEfwhc",
-      "url": "https://www.youtube.com/watch?v=4MnbxZEfwhc",
-      "thumbnail": "https://img.youtube.com/vi/4MnbxZEfwhc/mqdefault.jpg",
-      "published": "2026-05-21T04:17:30+00:00"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X PALESTINO",
-      "videoId": "fUpCJVs6WBc",
-      "url": "https://www.youtube.com/watch?v=fUpCJVs6WBc",
-      "thumbnail": "https://img.youtube.com/vi/fUpCJVs6WBc/mqdefault.jpg",
-      "published": "2026-05-21T03:59:48+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "21/05/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "21/05/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "siNGrwMZK8w",
       "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
       "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
@@ -100,11 +132,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "GREMIO VENCE  COM SHOW DE PAVON 🌅🔵 BOM DIA GRÊMIO #033",
-      "videoId": "MttkZCWrmec",
-      "url": "https://www.youtube.com/watch?v=MttkZCWrmec",
-      "thumbnail": "https://img.youtube.com/vi/MttkZCWrmec/mqdefault.jpg",
-      "published": "2026-05-21T02:41:33+00:00"
+      "title": "ARTHUR SE REUNE COM A JUVE / ROCHET NA RESERVA? 🔸RESENHA FORA DA SALA🔸#049",
+      "videoId": "kgKgVM_2HAY",
+      "url": "https://www.youtube.com/watch?v=kgKgVM_2HAY",
+      "thumbnail": "https://img.youtube.com/vi/kgKgVM_2HAY/mqdefault.jpg",
+      "published": "2026-05-21T02:46:36+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -113,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=uEBOg1F8kIQ",
       "thumbnail": "https://img.youtube.com/vi/uEBOg1F8kIQ/mqdefault.jpg",
       "published": "2026-05-21T02:23:17+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X PALESTINO (SUL-AMERICANA 2026)",
-      "videoId": "ZkpHIPRXcOA",
-      "url": "https://www.youtube.com/watch?v=ZkpHIPRXcOA",
-      "thumbnail": "https://img.youtube.com/vi/ZkpHIPRXcOA/mqdefault.jpg",
-      "published": "2026-05-21T02:19:26+00:00"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -137,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=do4WY0EV7w0",
       "thumbnail": "https://img.youtube.com/vi/do4WY0EV7w0/mqdefault.jpg",
       "published": "2026-05-20T22:00:12+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "COMO GEROMEL VENCEU CRÍTICAS PARA SE TORNAR ÍDOLO GREMISTA | Cortes do Duda",
-      "videoId": "29WWAbFNC8o",
-      "url": "https://www.youtube.com/watch?v=29WWAbFNC8o",
-      "thumbnail": "https://img.youtube.com/vi/29WWAbFNC8o/mqdefault.jpg",
-      "published": "2026-05-20T21:00:07+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -171,14 +187,6 @@
       "published": "2026-05-20T13:28:23+00:00"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO TEM 4 DECISÕES ATÉ A COPA DO MUNDO - VAMOOO FARIDO 19.05.26",
-      "videoId": "Xgt1eY5ZKEE",
-      "url": "https://www.youtube.com/watch?v=Xgt1eY5ZKEE",
-      "thumbnail": "https://img.youtube.com/vi/Xgt1eY5ZKEE/mqdefault.jpg",
-      "published": "2026-05-20T10:30:08+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "PIOROU? SÓ DEPOIS DA COPA? | MILAGRE? TABELA COMPLICOU! | GRÊMIO X PALESTINO",
       "videoId": "-B2xctFuoTk",
@@ -193,14 +201,6 @@
       "url": "https://www.youtube.com/watch?v=tS8U-IAj4eY",
       "thumbnail": "https://img.youtube.com/vi/tS8U-IAj4eY/mqdefault.jpg",
       "published": "2026-05-19T19:45:58+00:00"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Weverton na Seleção; data de apresentação, substituto no Grêmio e ressarcimento da Fifa",
-      "videoId": "J-XtT5eSBlw",
-      "url": "https://www.youtube.com/watch?v=J-XtT5eSBlw",
-      "thumbnail": "https://img.youtube.com/vi/J-XtT5eSBlw/mqdefault.jpg",
-      "published": "2026-05-19T11:56:22+00:00"
     },
     {
       "channel": "LH Benfica",
