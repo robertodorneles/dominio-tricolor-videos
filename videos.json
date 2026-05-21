@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-21T22:56:00.671604+00:00",
+  "updated_at": "2026-05-21T23:36:50.720872+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Grenal",
+      "title": "21/05/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "siNGrwMZK8w",
+      "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
+      "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
+      "published": "2026-05-21T23:34:13+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "21/05/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "u-N1oW8n4Nc",
+      "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
+      "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
+      "published": "2026-05-21T23:02:11+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "O NEYMAR FACILITA A VIDA DOS HATERS | Cortes do Duda",
+      "videoId": "BWXc4JLya4k",
+      "url": "https://www.youtube.com/watch?v=BWXc4JLya4k",
+      "thumbnail": "https://img.youtube.com/vi/BWXc4JLya4k/mqdefault.jpg",
+      "published": "2026-05-21T23:00:05+00:00"
+    },
     {
       "channel": "Careca de Saber TV",
       "title": "JUVENTUS: CONTA CHEGOU! | SURPRESA MARLON | REAÇÃO AMUZU NO GRÊMIO.",
@@ -33,14 +57,6 @@
       "url": "https://www.youtube.com/watch?v=1TYzg4oNPo0",
       "thumbnail": "https://img.youtube.com/vi/1TYzg4oNPo0/mqdefault.jpg",
       "published": "2026-05-21T22:03:27+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... DANIEL FURLAN | FALHA DE COBERTURA | #384",
-      "videoId": "RzEwPZhzGqw",
-      "url": "https://www.youtube.com/watch?v=RzEwPZhzGqw",
-      "thumbnail": "https://img.youtube.com/vi/RzEwPZhzGqw/mqdefault.jpg",
-      "published": "2026-05-21T22:00:06+00:00"
     },
     {
       "channel": "Bage TV",
@@ -131,14 +147,6 @@
       "published": "2026-05-21T13:36:00+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA COLETIVA DE VICTOR GRUNBERG - VICE-PRESIDENTE DO INTER | 21/05/2026 | RÁDIO GRENAL",
-      "videoId": "4HFF7fZhmQo",
-      "url": "https://www.youtube.com/watch?v=4HFF7fZhmQo",
-      "thumbnail": "https://img.youtube.com/vi/4HFF7fZhmQo/mqdefault.jpg",
-      "published": "2026-05-21T13:25:38+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "DESISTIU DO GRÊMIO? |  AS ESCOLHAS | GRÊMIO 2 X 0 PALESTINO",
       "videoId": "aYc7l32ikyY",
@@ -147,28 +155,12 @@
       "published": "2026-05-21T09:00:14+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "21/05/2026 | GRENAL FC | RÁDIO GRENAL",
-      "videoId": "siNGrwMZK8w",
-      "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
-      "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
-      "published": "2026-05-21T03:32:25+00:00"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x PALESTINO - COPA SUL-AMERICANA 2026 | COLETIVAS | 20/05/26 #19",
       "videoId": "7KHyt7CUex8",
       "url": "https://www.youtube.com/watch?v=7KHyt7CUex8",
       "thumbnail": "https://img.youtube.com/vi/7KHyt7CUex8/mqdefault.jpg",
       "published": "2026-05-21T03:19:45+00:00"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO  GRÊMIO VS PALESTINO  20.05  SULAMERICANA  2026 — FARID REAGINDO AO JOGO!!!",
-      "videoId": "ZTNS1g1_i28",
-      "url": "https://www.youtube.com/watch?v=ZTNS1g1_i28",
-      "thumbnail": "https://img.youtube.com/vi/ZTNS1g1_i28/mqdefault.jpg",
-      "published": "2026-05-21T03:10:57+00:00"
     },
     {
       "channel": "Canal do CCD",
@@ -225,6 +217,14 @@
       "url": "https://www.youtube.com/watch?v=d_jtsjm5dAQ",
       "thumbnail": "https://img.youtube.com/vi/d_jtsjm5dAQ/mqdefault.jpg",
       "published": "2026-05-02T13:00:06+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "NANDO GROSS  e FARID GERMANDO",
+      "videoId": "aKouawwaXlY",
+      "url": "https://www.youtube.com/watch?v=aKouawwaXlY",
+      "thumbnail": "https://img.youtube.com/vi/aKouawwaXlY/mqdefault.jpg",
+      "published": "2025-09-23T20:47:39+00:00"
     }
   ]
 }
