@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-21T16:35:34.981678+00:00",
+  "updated_at": "2026-05-21T18:16:37.588215+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨PEDIU PRA SER NEGOCIADO | O NEGÓCIO PARADO | CENA LINDA NO JOGO | GRÊMIO PRECISA DE VITÓRIAS!",
+      "videoId": "J_UEUp8djR8",
+      "url": "https://www.youtube.com/watch?v=J_UEUp8djR8",
+      "thumbnail": "https://img.youtube.com/vi/J_UEUp8djR8/mqdefault.jpg",
+      "published": "2026-05-21T18:11:56+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 2105",
+      "videoId": "pYizv_kLQ9o",
+      "url": "https://www.youtube.com/watch?v=pYizv_kLQ9o",
+      "thumbnail": "https://img.youtube.com/vi/pYizv_kLQ9o/mqdefault.jpg",
+      "published": "2026-05-21T17:47:21+00:00"
+    },
     {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #75 — AS REPERCUSSÕES DA VITÓRIA DO GRÊMIO | AMUZU ADMITE TRISTEZA",
@@ -59,14 +75,6 @@
       "published": "2026-05-21T13:25:38+00:00"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE E MIRA A LIDERANÇA DO GRUPO | PAVÓN VOLTA A MARCAR | AMUZU  FALOU | REDAÇÃO IMORTAL",
-      "videoId": "4MnbxZEfwhc",
-      "url": "https://www.youtube.com/watch?v=4MnbxZEfwhc",
-      "thumbnail": "https://img.youtube.com/vi/4MnbxZEfwhc/mqdefault.jpg",
-      "published": "2026-05-21T13:07:04+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "DESISTIU DO GRÊMIO? |  AS ESCOLHAS | GRÊMIO 2 X 0 PALESTINO",
       "videoId": "aYc7l32ikyY",
@@ -92,7 +100,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "21/05/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "21/05/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "siNGrwMZK8w",
       "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
       "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
@@ -161,14 +169,6 @@
       "url": "https://www.youtube.com/watch?v=do4WY0EV7w0",
       "thumbnail": "https://img.youtube.com/vi/do4WY0EV7w0/mqdefault.jpg",
       "published": "2026-05-20T22:00:12+00:00"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨PROPOSTA MILIONÁRIA POR JOGADOR DESTAQUE | ARTILHEIRO PREOCUPA NO GRÊMIO | CONVIDADO SOBRE DECISÃO",
-      "videoId": "RliRcQ-bX6Y",
-      "url": "https://www.youtube.com/watch?v=RliRcQ-bX6Y",
-      "thumbnail": "https://img.youtube.com/vi/RliRcQ-bX6Y/mqdefault.jpg",
-      "published": "2026-05-20T20:25:30+00:00"
     },
     {
       "channel": "Canal do CCD",
