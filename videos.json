@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T10:53:44.000043+00:00",
+  "updated_at": "2026-05-21T11:59:16.216789+00:00",
   "total": 28,
   "videos": [
     {
@@ -44,19 +44,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #75 — AS REPERCUSSÕES DA VITÓRIA DO GRÊMIO | AMUZU ADMITE TRISTEZA",
-      "videoId": "Pte9WTffXeo",
-      "url": "https://www.youtube.com/watch?v=Pte9WTffXeo",
-      "thumbnail": "https://img.youtube.com/vi/Pte9WTffXeo/mqdefault.jpg",
-      "published": "2026-05-21T04:19:17+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 2 X 0 PALESTINO | NARRAÇÃO PC CARVALHO | SUL-AMERICANA | 20/05/2026",
-      "videoId": "vGmdpEXeC0w",
-      "url": "https://www.youtube.com/watch?v=vGmdpEXeC0w",
-      "thumbnail": "https://img.youtube.com/vi/vGmdpEXeC0w/mqdefault.jpg",
-      "published": "2026-05-21T04:05:54+00:00"
+      "title": "GRÊMIO VENCE E MIRA A LIDERANÇA DO GRUPO | PAVÓN VOLTA A MARCAR | AMUZU  FALOU | REDAÇÃO IMORTAL",
+      "videoId": "4MnbxZEfwhc",
+      "url": "https://www.youtube.com/watch?v=4MnbxZEfwhc",
+      "thumbnail": "https://img.youtube.com/vi/4MnbxZEfwhc/mqdefault.jpg",
+      "published": "2026-05-21T04:17:30+00:00"
     },
     {
       "channel": "Bage TV",
@@ -65,6 +57,14 @@
       "url": "https://www.youtube.com/watch?v=fUpCJVs6WBc",
       "thumbnail": "https://img.youtube.com/vi/fUpCJVs6WBc/mqdefault.jpg",
       "published": "2026-05-21T03:59:48+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "21/05/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "siNGrwMZK8w",
+      "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
+      "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
+      "published": "2026-05-21T03:32:25+00:00"
     },
     {
       "channel": "Diogo Rossi Reporter",
