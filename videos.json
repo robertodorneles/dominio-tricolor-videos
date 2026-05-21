@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-21T18:16:37.588215+00:00",
+  "updated_at": "2026-05-21T21:00:19.603557+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: CONVERSA SÉRIA COM PEZZOLANO | ABELÃO REVELOU TUDO | O RISCO EXISTE?",
+      "videoId": "d56SCkHw7LU",
+      "url": "https://www.youtube.com/watch?v=d56SCkHw7LU",
+      "thumbnail": "https://img.youtube.com/vi/d56SCkHw7LU/mqdefault.jpg",
+      "published": "2026-05-21T20:32:45+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO SE REAPRESENTA COM FOCO NO SANTOS | BRAITHWAITE É TITULAR? | SITUAÇÃO NA SULA | ESPLANADA",
+      "videoId": "HIhbCQMncKo",
+      "url": "https://www.youtube.com/watch?v=HIhbCQMncKo",
+      "thumbnail": "https://img.youtube.com/vi/HIhbCQMncKo/mqdefault.jpg",
+      "published": "2026-05-21T19:40:54+00:00"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨A NOTÍCIA QUE A TORCIDA DO GRÊMIO MAIS ESPERAVA | AMUZU ESCLARECE TUDO | ELES VÃO FICAR DE FORA",
+      "videoId": "oXM0FkX12Yg",
+      "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
+      "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
+      "published": "2026-05-21T19:09:25+00:00"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Villasanti frustra expectativas iniciais | Risco para a Copa do Mundo?! | Utilização",
+      "videoId": "5HX8dDEzvn0",
+      "url": "https://www.youtube.com/watch?v=5HX8dDEzvn0",
+      "thumbnail": "https://img.youtube.com/vi/5HX8dDEzvn0/mqdefault.jpg",
+      "published": "2026-05-21T19:00:22+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "ARTHUR SE REUNE COM A JUVE / ROCHET NA RESERVA? 🔸RESENHA FORA DA SALA🔸#049",
+      "videoId": "kgKgVM_2HAY",
+      "url": "https://www.youtube.com/watch?v=kgKgVM_2HAY",
+      "thumbnail": "https://img.youtube.com/vi/kgKgVM_2HAY/mqdefault.jpg",
+      "published": "2026-05-21T18:55:27+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "ARTHUR TEM REUNIÃO PARA DEFINIR FUTURO 🔹 THE TARDE 🔹#156",
+      "videoId": "8p11WSRVvIg",
+      "url": "https://www.youtube.com/watch?v=8p11WSRVvIg",
+      "thumbnail": "https://img.youtube.com/vi/8p11WSRVvIg/mqdefault.jpg",
+      "published": "2026-05-21T18:25:47+00:00"
+    },
     {
       "channel": "Bruno Soares Reporter",
       "title": "🚨PEDIU PRA SER NEGOCIADO | O NEGÓCIO PARADO | CENA LINDA NO JOGO | GRÊMIO PRECISA DE VITÓRIAS!",
@@ -12,19 +60,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 2105",
+      "title": "GRÊMIO PRECISA JOGAR MAIS! | ARTHUR PODE VOLTAR CONTRA O SANTOS? | BRAITHWAITE TITULAR? | IMORTAL FC",
       "videoId": "pYizv_kLQ9o",
       "url": "https://www.youtube.com/watch?v=pYizv_kLQ9o",
       "thumbnail": "https://img.youtube.com/vi/pYizv_kLQ9o/mqdefault.jpg",
       "published": "2026-05-21T17:47:21+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #75 — AS REPERCUSSÕES DA VITÓRIA DO GRÊMIO | AMUZU ADMITE TRISTEZA",
-      "videoId": "Pte9WTffXeo",
-      "url": "https://www.youtube.com/watch?v=Pte9WTffXeo",
-      "thumbnail": "https://img.youtube.com/vi/Pte9WTffXeo/mqdefault.jpg",
-      "published": "2026-05-21T15:24:42+00:00"
     },
     {
       "channel": "Duda Garbi",
@@ -51,14 +91,6 @@
       "published": "2026-05-21T13:54:08+00:00"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VENCE COM GOLAÇO DE PAVON -FUTEBOL ALEGRIA DO GRÊMIO - 21/05 - #551",
-      "videoId": "RIMqjZOX3gE",
-      "url": "https://www.youtube.com/watch?v=RIMqjZOX3gE",
-      "thumbnail": "https://img.youtube.com/vi/RIMqjZOX3gE/mqdefault.jpg",
-      "published": "2026-05-21T13:44:12+00:00"
-    },
-    {
       "channel": "GremioTV Oficial",
       "title": "REVITALIZAÇÃO DA ZONA MISTA",
       "videoId": "1T04PlJzmok",
@@ -81,22 +113,6 @@
       "url": "https://www.youtube.com/watch?v=aYc7l32ikyY",
       "thumbnail": "https://img.youtube.com/vi/aYc7l32ikyY/mqdefault.jpg",
       "published": "2026-05-21T09:00:14+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: “NÃO EXISTEM MILAGRES” | CASTRO ALERTA | PAVON RESPONDE",
-      "videoId": "2cjXhkC94w4",
-      "url": "https://www.youtube.com/watch?v=2cjXhkC94w4",
-      "thumbnail": "https://img.youtube.com/vi/2cjXhkC94w4/mqdefault.jpg",
-      "published": "2026-05-21T07:00:01+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Diários do Inter KTO: ZAGUEIROS DE OUTRA PRATELEIRA NA MIRA | O PROBLEMA RICHARD | KO DO VITÓRIA?",
-      "videoId": "BRP7BdA8byE",
-      "url": "https://www.youtube.com/watch?v=BRP7BdA8byE",
-      "thumbnail": "https://img.youtube.com/vi/BRP7BdA8byE/mqdefault.jpg",
-      "published": "2026-05-21T04:42:58+00:00"
     },
     {
       "channel": "Radio Grenal",
@@ -137,14 +153,6 @@
       "url": "https://www.youtube.com/watch?v=OKbdSbqrm0A",
       "thumbnail": "https://img.youtube.com/vi/OKbdSbqrm0A/mqdefault.jpg",
       "published": "2026-05-21T02:52:22+00:00"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ARTHUR SE REUNE COM A JUVE / ROCHET NA RESERVA? 🔸RESENHA FORA DA SALA🔸#049",
-      "videoId": "kgKgVM_2HAY",
-      "url": "https://www.youtube.com/watch?v=kgKgVM_2HAY",
-      "thumbnail": "https://img.youtube.com/vi/kgKgVM_2HAY/mqdefault.jpg",
-      "published": "2026-05-21T02:46:36+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -201,14 +209,6 @@
       "url": "https://www.youtube.com/watch?v=tS8U-IAj4eY",
       "thumbnail": "https://img.youtube.com/vi/tS8U-IAj4eY/mqdefault.jpg",
       "published": "2026-05-19T19:45:58+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "LUÍS CASTRO FICA NO GRÊMIO? DIRIGENTE DÁ DECLARAÇÃO FORTE / REFORÇO TIPO ARRASCAETA",
-      "videoId": "eFHgc2JVxB0",
-      "url": "https://www.youtube.com/watch?v=eFHgc2JVxB0",
-      "thumbnail": "https://img.youtube.com/vi/eFHgc2JVxB0/mqdefault.jpg",
-      "published": "2026-05-16T17:40:57+00:00"
     },
     {
       "channel": "Jeremias Wernek",
