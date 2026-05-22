@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-22T19:00:58.683531+00:00",
+  "updated_at": "2026-05-22T20:00:55.081795+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Viery ganha destaque internacional | Ingleses cada vez mais interessados | O valor!!",
+      "videoId": "DvfFaDhVKTE",
+      "url": "https://www.youtube.com/watch?v=DvfFaDhVKTE",
+      "thumbnail": "https://img.youtube.com/vi/DvfFaDhVKTE/mqdefault.jpg",
+      "published": "2026-05-22T20:00:13+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "VIERY NA MIRA DOS INGLESES | COMO LUÍS CASTRO VAI ESCALAR O GRÊMIO? | ENTREVISTA POLÊMICA DE FELIPÃO",
+      "videoId": "BdIp67HgRCY",
+      "url": "https://www.youtube.com/watch?v=BdIp67HgRCY",
+      "thumbnail": "https://img.youtube.com/vi/BdIp67HgRCY/mqdefault.jpg",
+      "published": "2026-05-22T19:56:00+00:00"
+    },
     {
       "channel": "Bage TV",
       "title": "VIERY ATRAI INTERESSE DE 8 CLUBES. VAI SAIR?🔹 THE TARDE 🔹#157",
@@ -28,7 +44,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 22/05",
+      "title": "ARTHUR DE VOLTA?! | GRÊMIO TEM JOGO FUNDAMENTAL | BRAITH NO MEIO? | ZAGUEIRO DE SAÍDA? | IMORTAL FC",
       "videoId": "aBraQAAkRYs",
       "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
       "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
@@ -97,22 +113,6 @@
       "url": "https://www.youtube.com/watch?v=e5tiz15AcHY",
       "thumbnail": "https://img.youtube.com/vi/e5tiz15AcHY/mqdefault.jpg",
       "published": "2026-05-22T05:08:44+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Arthur quer ficar | Reforços voltam | Marlon reaparece",
-      "videoId": "vIlt1JYdKak",
-      "url": "https://www.youtube.com/watch?v=vIlt1JYdKak",
-      "thumbnail": "https://img.youtube.com/vi/vIlt1JYdKak/mqdefault.jpg",
-      "published": "2026-05-22T05:00:24+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VIERY NA MIRA DOS INGLESES | COMO LUÍS CASTRO VAI ESCALAR O GRÊMIO? | ENTREVISTA POLÊMICA DE FELIPÃO",
-      "videoId": "BdIp67HgRCY",
-      "url": "https://www.youtube.com/watch?v=BdIp67HgRCY",
-      "thumbnail": "https://img.youtube.com/vi/BdIp67HgRCY/mqdefault.jpg",
-      "published": "2026-05-22T02:29:36+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
