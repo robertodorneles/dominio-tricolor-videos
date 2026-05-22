@@ -1,22 +1,94 @@
 {
-  "updated_at": "2026-05-22T02:33:51.776471+00:00",
-  "total": 16,
+  "updated_at": "2026-05-22T10:36:23.934740+00:00",
+  "total": 28,
   "videos": [
     {
+      "channel": "Canal do Farid",
+      "title": "AS PEÇAS ESTÃO SE ENCAIXANDO - VAMOOO FARIDO 21.05.26",
+      "videoId": "51MLFIkpTaA",
+      "url": "https://www.youtube.com/watch?v=51MLFIkpTaA",
+      "thumbnail": "https://img.youtube.com/vi/51MLFIkpTaA/mqdefault.jpg",
+      "published": "2026-05-22T10:28:31+00:00"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: SACADA DE PEZZOLANO | BERNABEI ABRE O CORAÇÃO | JANELA FOI BOA?",
+      "videoId": "e5tiz15AcHY",
+      "url": "https://www.youtube.com/watch?v=e5tiz15AcHY",
+      "thumbnail": "https://img.youtube.com/vi/e5tiz15AcHY/mqdefault.jpg",
+      "published": "2026-05-22T05:08:44+00:00"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: Arthur quer ficar | Reforços voltam | Marlon reaparece",
+      "videoId": "vIlt1JYdKak",
+      "url": "https://www.youtube.com/watch?v=vIlt1JYdKak",
+      "thumbnail": "https://img.youtube.com/vi/vIlt1JYdKak/mqdefault.jpg",
+      "published": "2026-05-22T05:00:24+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 22/05",
+      "videoId": "BdIp67HgRCY",
+      "url": "https://www.youtube.com/watch?v=BdIp67HgRCY",
+      "thumbnail": "https://img.youtube.com/vi/BdIp67HgRCY/mqdefault.jpg",
+      "published": "2026-05-22T02:29:36+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #76 — LUÍS CASTRO VAI MANTER OS VOLANTES? | OLHO NO TREINO!",
+      "videoId": "mwQJ28C0q4k",
+      "url": "https://www.youtube.com/watch?v=mwQJ28C0q4k",
+      "thumbnail": "https://img.youtube.com/vi/mwQJ28C0q4k/mqdefault.jpg",
+      "published": "2026-05-22T02:29:11+00:00"
+    },
+    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨ELE CRITICOU ALGUNS ATLETAS! FALTA QUALIDADE E EXPERIENTE PRO GRÊMIO | O TIME MUDA DEMAIS!",
+      "title": "🚨DEU A REAL! LUÍS CASTRO FALO UMAS VERDADES SOBRE ALGUNS JOGADORES DO GRÊMIO | MUDANÇAS PREJUDICAM!",
       "videoId": "wwXn1x54t8o",
       "url": "https://www.youtube.com/watch?v=wwXn1x54t8o",
       "thumbnail": "https://img.youtube.com/vi/wwXn1x54t8o/mqdefault.jpg",
       "published": "2026-05-22T01:54:52+00:00"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: A RODADA DO FINAL DE SEMANA PARA GRÊMIO E INTER",
-      "videoId": "rXwM5yw8_BQ",
-      "url": "https://www.youtube.com/watch?v=rXwM5yw8_BQ",
-      "thumbnail": "https://img.youtube.com/vi/rXwM5yw8_BQ/mqdefault.jpg",
-      "published": "2026-05-22T01:24:34+00:00"
+      "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#050",
+      "videoId": "Z5udg4168Rg",
+      "url": "https://www.youtube.com/watch?v=Z5udg4168Rg",
+      "thumbnail": "https://img.youtube.com/vi/Z5udg4168Rg/mqdefault.jpg",
+      "published": "2026-05-22T00:50:34+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO TEM DÚVIDAS PARA ENFRENTAR O SANTOS 🌅🔵 BOM DIA GRÊMIO #034",
+      "videoId": "7D89OWUVYeo",
+      "url": "https://www.youtube.com/watch?v=7D89OWUVYeo",
+      "thumbnail": "https://img.youtube.com/vi/7D89OWUVYeo/mqdefault.jpg",
+      "published": "2026-05-22T00:49:15+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "21/05/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "siNGrwMZK8w",
+      "url": "https://www.youtube.com/watch?v=siNGrwMZK8w",
+      "thumbnail": "https://img.youtube.com/vi/siNGrwMZK8w/mqdefault.jpg",
+      "published": "2026-05-21T23:34:13+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "21/05/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "u-N1oW8n4Nc",
+      "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
+      "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
+      "published": "2026-05-21T23:02:11+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "O NEYMAR FACILITA A VIDA DOS HATERS | Cortes do Duda",
+      "videoId": "BWXc4JLya4k",
+      "url": "https://www.youtube.com/watch?v=BWXc4JLya4k",
+      "thumbnail": "https://img.youtube.com/vi/BWXc4JLya4k/mqdefault.jpg",
+      "published": "2026-05-21T23:00:05+00:00"
     },
     {
       "channel": "Careca de Saber TV",
@@ -25,6 +97,14 @@
       "url": "https://www.youtube.com/watch?v=-CCeJLotO9w",
       "thumbnail": "https://img.youtube.com/vi/-CCeJLotO9w/mqdefault.jpg",
       "published": "2026-05-21T22:43:44+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "IMPLORARAM PRA EU FALAR MAL DO GRÊMIO | Cortes do Duda",
+      "videoId": "EaRUEtpvKkk",
+      "url": "https://www.youtube.com/watch?v=EaRUEtpvKkk",
+      "thumbnail": "https://img.youtube.com/vi/EaRUEtpvKkk/mqdefault.jpg",
+      "published": "2026-05-21T22:30:00+00:00"
     },
     {
       "channel": "GremioTV Oficial",
@@ -41,14 +121,6 @@
       "url": "https://www.youtube.com/watch?v=Fo3Dcg0ssr4",
       "thumbnail": "https://img.youtube.com/vi/Fo3Dcg0ssr4/mqdefault.jpg",
       "published": "2026-05-21T21:21:37+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: CONVERSA SÉRIA COM PEZZOLANO | ABELÃO REVELOU TUDO | O RISCO EXISTE?",
-      "videoId": "d56SCkHw7LU",
-      "url": "https://www.youtube.com/watch?v=d56SCkHw7LU",
-      "thumbnail": "https://img.youtube.com/vi/d56SCkHw7LU/mqdefault.jpg",
-      "published": "2026-05-21T20:32:45+00:00"
     },
     {
       "channel": "LH Benfica",
@@ -91,12 +163,28 @@
       "published": "2026-05-21T09:00:14+00:00"
     },
     {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x PALESTINO - COPA SUL-AMERICANA 2026 | COLETIVAS | 20/05/26 #19",
+      "videoId": "7KHyt7CUex8",
+      "url": "https://www.youtube.com/watch?v=7KHyt7CUex8",
+      "thumbnail": "https://img.youtube.com/vi/7KHyt7CUex8/mqdefault.jpg",
+      "published": "2026-05-21T03:19:45+00:00"
+    },
+    {
       "channel": "Canal do CCD",
       "title": "Grêmio 2 x 0 Palestino: Vitória com boas virtudes e erros que insistem em aparecer",
       "videoId": "OKbdSbqrm0A",
       "url": "https://www.youtube.com/watch?v=OKbdSbqrm0A",
       "thumbnail": "https://img.youtube.com/vi/OKbdSbqrm0A/mqdefault.jpg",
       "published": "2026-05-21T02:52:22+00:00"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x PALESTINO DIRETO DA ARENA | COPA SUL-AMERICANA 2026 | 20/05/26 #02",
+      "videoId": "Wul0Fibxs-0",
+      "url": "https://www.youtube.com/watch?v=Wul0Fibxs-0",
+      "thumbnail": "https://img.youtube.com/vi/Wul0Fibxs-0/mqdefault.jpg",
+      "published": "2026-05-20T23:25:07+00:00"
     },
     {
       "channel": "Canal do Gabardo",
@@ -129,6 +217,14 @@
       "url": "https://www.youtube.com/watch?v=d_jtsjm5dAQ",
       "thumbnail": "https://img.youtube.com/vi/d_jtsjm5dAQ/mqdefault.jpg",
       "published": "2026-05-02T13:00:06+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "NANDO GROSS  e FARID GERMANDO",
+      "videoId": "aKouawwaXlY",
+      "url": "https://www.youtube.com/watch?v=aKouawwaXlY",
+      "thumbnail": "https://img.youtube.com/vi/aKouawwaXlY/mqdefault.jpg",
+      "published": "2025-09-23T20:47:39+00:00"
     }
   ]
 }
