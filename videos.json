@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-22T20:00:55.081795+00:00",
+  "updated_at": "2026-05-22T21:00:54.183535+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: NÃO ESCONDEU INSATISFAÇÃO | FUTURO REDEFINIDO NA PARADA | DILEMA!",
+      "videoId": "nQ3l1qywTuU",
+      "url": "https://www.youtube.com/watch?v=nQ3l1qywTuU",
+      "thumbnail": "https://img.youtube.com/vi/nQ3l1qywTuU/mqdefault.jpg",
+      "published": "2026-05-22T20:59:26+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | O PROVÁVEL TIME DE LUÍS CASTRO | JOGO QUE VALE MUITO | PLANTÃO",
+      "videoId": "KIx5gCzXYWk",
+      "url": "https://www.youtube.com/watch?v=KIx5gCzXYWk",
+      "thumbnail": "https://img.youtube.com/vi/KIx5gCzXYWk/mqdefault.jpg",
+      "published": "2026-05-22T20:44:51+00:00"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
+      "videoId": "94LHaWjvyO8",
+      "url": "https://www.youtube.com/watch?v=94LHaWjvyO8",
+      "thumbnail": "https://img.youtube.com/vi/94LHaWjvyO8/mqdefault.jpg",
+      "published": "2026-05-22T20:18:13+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "qEqTDxLJOp8",
+      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
+      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
+      "published": "2026-05-22T20:03:40+00:00"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Viery ganha destaque internacional | Ingleses cada vez mais interessados | O valor!!",
@@ -9,14 +41,6 @@
       "url": "https://www.youtube.com/watch?v=DvfFaDhVKTE",
       "thumbnail": "https://img.youtube.com/vi/DvfFaDhVKTE/mqdefault.jpg",
       "published": "2026-05-22T20:00:13+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VIERY NA MIRA DOS INGLESES | COMO LUÍS CASTRO VAI ESCALAR O GRÊMIO? | ENTREVISTA POLÊMICA DE FELIPÃO",
-      "videoId": "BdIp67HgRCY",
-      "url": "https://www.youtube.com/watch?v=BdIp67HgRCY",
-      "thumbnail": "https://img.youtube.com/vi/BdIp67HgRCY/mqdefault.jpg",
-      "published": "2026-05-22T19:56:00+00:00"
     },
     {
       "channel": "Bage TV",
@@ -41,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=pe-tzFlEu9o",
       "thumbnail": "https://img.youtube.com/vi/pe-tzFlEu9o/mqdefault.jpg",
       "published": "2026-05-22T15:57:59+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ARTHUR DE VOLTA?! | GRÊMIO TEM JOGO FUNDAMENTAL | BRAITH NO MEIO? | ZAGUEIRO DE SAÍDA? | IMORTAL FC",
-      "videoId": "aBraQAAkRYs",
-      "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
-      "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
-      "published": "2026-05-22T15:53:58+00:00"
     },
     {
       "channel": "Canal do Farid",
@@ -105,14 +121,6 @@
       "url": "https://www.youtube.com/watch?v=_G79SmQLbnA",
       "thumbnail": "https://img.youtube.com/vi/_G79SmQLbnA/mqdefault.jpg",
       "published": "2026-05-22T11:21:36+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: SACADA DE PEZZOLANO | BERNABEI ABRE O CORAÇÃO | JANELA FOI BOA?",
-      "videoId": "e5tiz15AcHY",
-      "url": "https://www.youtube.com/watch?v=e5tiz15AcHY",
-      "thumbnail": "https://img.youtube.com/vi/e5tiz15AcHY/mqdefault.jpg",
-      "published": "2026-05-22T05:08:44+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -201,14 +209,6 @@
       "url": "https://www.youtube.com/watch?v=KuFR2l75g3o",
       "thumbnail": "https://img.youtube.com/vi/KuFR2l75g3o/mqdefault.jpg",
       "published": "2026-05-20T13:28:23+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨UMA ÓTIMA NOTÍCIA PRO GRÊMIO | O REFORÇO QUE O TIME PRECISAVA | ELE DEVE TUDO AO CLUBE",
-      "videoId": "tS8U-IAj4eY",
-      "url": "https://www.youtube.com/watch?v=tS8U-IAj4eY",
-      "thumbnail": "https://img.youtube.com/vi/tS8U-IAj4eY/mqdefault.jpg",
-      "published": "2026-05-19T19:45:58+00:00"
     },
     {
       "channel": "Jeremias Wernek",
