@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-22T22:01:20.640681+00:00",
+  "updated_at": "2026-05-22T23:00:57.268877+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Careca de Saber TV",
+      "title": "FELIPÃO CONVIDA RONALDINHO  | MILHÕES FORA JOGADOS FORA | VIERY NA EUROPA AGORA?",
+      "videoId": "I9T1khfuEoE",
+      "url": "https://www.youtube.com/watch?v=I9T1khfuEoE",
+      "thumbnail": "https://img.youtube.com/vi/I9T1khfuEoE/mqdefault.jpg",
+      "published": "2026-05-22T22:55:44+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "DEBATE QUENTE NO CONTRA-ATAQUE | CORTES DA RÁDIO GRENAL",
+      "videoId": "SeKGbgI0URU",
+      "url": "https://www.youtube.com/watch?v=SeKGbgI0URU",
+      "thumbnail": "https://img.youtube.com/vi/SeKGbgI0URU/mqdefault.jpg",
+      "published": "2026-05-22T22:20:38+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ARTHUR DE VOLTA?! | GRÊMIO TEM JOGO FUNDAMENTAL | BRAITH NO MEIO? | ZAGUEIRO DE SAÍDA? | IMORTAL FC",
+      "videoId": "aBraQAAkRYs",
+      "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
+      "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
+      "published": "2026-05-22T22:18:05+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "GEROMEL CONTA COMO QUASE FOI PARA NO MORUMBI | Cortes do Duda",
+      "videoId": "DO9wv7uf838",
+      "url": "https://www.youtube.com/watch?v=DO9wv7uf838",
+      "thumbnail": "https://img.youtube.com/vi/DO9wv7uf838/mqdefault.jpg",
+      "published": "2026-05-22T22:00:01+00:00"
+    },
     {
       "channel": "Radio Imortal",
       "title": "VIERY SONDADO POR EUROPEUS | ARTHUR JOGA AMANHÃ? | NOITES DE GRÊMIO #75 - 22/05",
@@ -25,14 +57,6 @@
       "url": "https://www.youtube.com/watch?v=CyBdIrdsusg",
       "thumbnail": "https://img.youtube.com/vi/CyBdIrdsusg/mqdefault.jpg",
       "published": "2026-05-22T21:30:35+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "CRAQUE DANIEL REPRESENTA O FUTEBOL RAIZ?... COMO SURGIU O PERSONAGEM | Cortes do Duda",
-      "videoId": "DYNb0bl1L-A",
-      "url": "https://www.youtube.com/watch?v=DYNb0bl1L-A",
-      "thumbnail": "https://img.youtube.com/vi/DYNb0bl1L-A/mqdefault.jpg",
-      "published": "2026-05-22T21:00:15+00:00"
     },
     {
       "channel": "A Dupla",
@@ -73,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=pe-tzFlEu9o",
       "thumbnail": "https://img.youtube.com/vi/pe-tzFlEu9o/mqdefault.jpg",
       "published": "2026-05-22T15:57:59+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ARTHUR DE VOLTA?! | GRÊMIO TEM JOGO FUNDAMENTAL | BRAITH NO MEIO? | ZAGUEIRO DE SAÍDA? | IMORTAL FC",
-      "videoId": "aBraQAAkRYs",
-      "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
-      "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
-      "published": "2026-05-22T15:53:58+00:00"
     },
     {
       "channel": "Canal do Farid",
@@ -147,14 +163,6 @@
       "published": "2026-05-22T01:54:52+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GRENAL FC | RÁDIO GRENAL | 22/05/2026",
-      "videoId": "u-N1oW8n4Nc",
-      "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
-      "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
-      "published": "2026-05-21T23:02:11+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "JUVENTUS: CONTA CHEGOU! | SURPRESA MARLON | REAÇÃO AMUZU NO GRÊMIO.",
       "videoId": "-CCeJLotO9w",
@@ -193,14 +201,6 @@
       "url": "https://www.youtube.com/watch?v=ElmbNC9_56c",
       "thumbnail": "https://img.youtube.com/vi/ElmbNC9_56c/mqdefault.jpg",
       "published": "2026-05-21T13:54:08+00:00"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DESISTIU DO GRÊMIO? |  AS ESCOLHAS | GRÊMIO 2 X 0 PALESTINO",
-      "videoId": "aYc7l32ikyY",
-      "url": "https://www.youtube.com/watch?v=aYc7l32ikyY",
-      "thumbnail": "https://img.youtube.com/vi/aYc7l32ikyY/mqdefault.jpg",
-      "published": "2026-05-21T09:00:14+00:00"
     },
     {
       "channel": "Canal do Gabardo",
