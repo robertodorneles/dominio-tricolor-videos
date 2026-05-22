@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-22T21:48:30.023485+00:00",
+  "updated_at": "2026-05-22T22:01:20.640681+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Imortal",
+      "title": "VIERY SONDADO POR EUROPEUS | ARTHUR JOGA AMANHÃ? | NOITES DE GRÊMIO #75 - 22/05",
+      "videoId": "Q-rhrneCBXA",
+      "url": "https://www.youtube.com/watch?v=Q-rhrneCBXA",
+      "thumbnail": "https://img.youtube.com/vi/Q-rhrneCBXA/mqdefault.jpg",
+      "published": "2026-05-22T21:47:56+00:00"
+    },
     {
       "channel": "Bage TV",
       "title": "VIERY ATRAI INTERESSE DE 8 CLUBES. VAI SAIR?🔹 THE TARDE 🔹#157",
@@ -9,6 +17,14 @@
       "url": "https://www.youtube.com/watch?v=AZpYZ5RhY3c",
       "thumbnail": "https://img.youtube.com/vi/AZpYZ5RhY3c/mqdefault.jpg",
       "published": "2026-05-22T21:32:44+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "COMO A ELIMINAÇÃO DO BRASIL NA COPA FEZ EXPLODIR O FALHA DE COBERTURA | Cortes do Duda",
+      "videoId": "CyBdIrdsusg",
+      "url": "https://www.youtube.com/watch?v=CyBdIrdsusg",
+      "thumbnail": "https://img.youtube.com/vi/CyBdIrdsusg/mqdefault.jpg",
+      "published": "2026-05-22T21:30:35+00:00"
     },
     {
       "channel": "Duda Garbi",
@@ -25,14 +41,6 @@
       "url": "https://www.youtube.com/watch?v=nQ3l1qywTuU",
       "thumbnail": "https://img.youtube.com/vi/nQ3l1qywTuU/mqdefault.jpg",
       "published": "2026-05-22T20:59:26+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | O PROVÁVEL TIME DE LUÍS CASTRO | JOGO QUE VALE MUITO | PLANTÃO",
-      "videoId": "KIx5gCzXYWk",
-      "url": "https://www.youtube.com/watch?v=KIx5gCzXYWk",
-      "thumbnail": "https://img.youtube.com/vi/KIx5gCzXYWk/mqdefault.jpg",
-      "published": "2026-05-22T20:44:51+00:00"
     },
     {
       "channel": "LH Benfica",
@@ -145,14 +153,6 @@
       "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
       "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
       "published": "2026-05-21T23:02:11+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O NEYMAR FACILITA A VIDA DOS HATERS | Cortes do Duda",
-      "videoId": "BWXc4JLya4k",
-      "url": "https://www.youtube.com/watch?v=BWXc4JLya4k",
-      "thumbnail": "https://img.youtube.com/vi/BWXc4JLya4k/mqdefault.jpg",
-      "published": "2026-05-21T23:00:05+00:00"
     },
     {
       "channel": "Careca de Saber TV",
