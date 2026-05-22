@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-05-22T15:01:07.666259+00:00",
+  "updated_at": "2026-05-22T16:01:00.943923+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Canal do Farid",
+      "title": "GREMISTAS DE PESO #008",
+      "videoId": "pe-tzFlEu9o",
+      "url": "https://www.youtube.com/watch?v=pe-tzFlEu9o",
+      "thumbnail": "https://img.youtube.com/vi/pe-tzFlEu9o/mqdefault.jpg",
+      "published": "2026-05-22T15:57:59+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 22/05",
+      "videoId": "aBraQAAkRYs",
+      "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
+      "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
+      "published": "2026-05-22T15:53:58+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "VAMOOO FARIDO 22.05.26",
+      "videoId": "uCnTHcamFWg",
+      "url": "https://www.youtube.com/watch?v=uCnTHcamFWg",
+      "thumbnail": "https://img.youtube.com/vi/uCnTHcamFWg/mqdefault.jpg",
+      "published": "2026-05-22T15:41:52+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "GRÊMIO PELA AMÉRICA: EPISÓDIO ARGENTINA",
+      "videoId": "rqSMQ33leT0",
+      "url": "https://www.youtube.com/watch?v=rqSMQ33leT0",
+      "thumbnail": "https://img.youtube.com/vi/rqSMQ33leT0/mqdefault.jpg",
+      "published": "2026-05-22T15:30:10+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #76 — LUÍS CASTRO VAI MANTER OS VOLANTES? | OLHO NO TREINO!",
+      "videoId": "mwQJ28C0q4k",
+      "url": "https://www.youtube.com/watch?v=mwQJ28C0q4k",
+      "thumbnail": "https://img.youtube.com/vi/mwQJ28C0q4k/mqdefault.jpg",
+      "published": "2026-05-22T15:27:32+00:00"
+    },
     {
       "channel": "Bruno Soares Reporter",
       "title": "🚨”NOVO MEIA”! FOI ESCOLHIDO POR LUÍS CASTRO | TIME MUITO MELHOR PÓS COPA | PAVON E A RAÇA NO GRÊMIO!",
@@ -35,22 +75,6 @@
       "published": "2026-05-22T13:48:58+00:00"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "NANDO GROSS  e FARID GERMANDO",
-      "videoId": "aKouawwaXlY",
-      "url": "https://www.youtube.com/watch?v=aKouawwaXlY",
-      "thumbnail": "https://img.youtube.com/vi/aKouawwaXlY/mqdefault.jpg",
-      "published": "2026-05-22T13:05:12+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGO DE SEIS PONTOS NA ARENA! | A POSSÍVEL ESCALAÇÃO DO GRÊMIO | REUNIÃO DE ARTHUR | REDAÇÃO IMORTAL",
-      "videoId": "EEydDro1DOM",
-      "url": "https://www.youtube.com/watch?v=EEydDro1DOM",
-      "thumbnail": "https://img.youtube.com/vi/EEydDro1DOM/mqdefault.jpg",
-      "published": "2026-05-22T12:51:49+00:00"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO TEM DÚVIDAS PARA ENFRENTAR O SANTOS 🌅🔵 BOM DIA GRÊMIO #034",
       "videoId": "7D89OWUVYeo",
@@ -75,14 +99,6 @@
       "published": "2026-05-22T11:21:36+00:00"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "AS PEÇAS ESTÃO SE ENCAIXANDO - VAMOOO FARIDO 21.05.26",
-      "videoId": "51MLFIkpTaA",
-      "url": "https://www.youtube.com/watch?v=51MLFIkpTaA",
-      "thumbnail": "https://img.youtube.com/vi/51MLFIkpTaA/mqdefault.jpg",
-      "published": "2026-05-22T10:28:31+00:00"
-    },
-    {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: SACADA DE PEZZOLANO | BERNABEI ABRE O CORAÇÃO | JANELA FOI BOA?",
       "videoId": "e5tiz15AcHY",
@@ -97,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=vIlt1JYdKak",
       "thumbnail": "https://img.youtube.com/vi/vIlt1JYdKak/mqdefault.jpg",
       "published": "2026-05-22T05:00:24+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #76 — LUÍS CASTRO VAI MANTER OS VOLANTES? | OLHO NO TREINO!",
-      "videoId": "mwQJ28C0q4k",
-      "url": "https://www.youtube.com/watch?v=mwQJ28C0q4k",
-      "thumbnail": "https://img.youtube.com/vi/mwQJ28C0q4k/mqdefault.jpg",
-      "published": "2026-05-22T02:29:11+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -177,14 +185,6 @@
       "url": "https://www.youtube.com/watch?v=ElmbNC9_56c",
       "thumbnail": "https://img.youtube.com/vi/ElmbNC9_56c/mqdefault.jpg",
       "published": "2026-05-21T13:54:08+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "REVITALIZAÇÃO DA ZONA MISTA",
-      "videoId": "1T04PlJzmok",
-      "url": "https://www.youtube.com/watch?v=1T04PlJzmok",
-      "thumbnail": "https://img.youtube.com/vi/1T04PlJzmok/mqdefault.jpg",
-      "published": "2026-05-21T13:36:00+00:00"
     },
     {
       "channel": "Careca de Saber TV",
