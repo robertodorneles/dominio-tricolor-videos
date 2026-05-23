@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-23T12:09:49.835019+00:00",
+  "updated_at": "2026-05-23T13:00:55.963910+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Canal do Gabardo",
+      "title": "Vitória x Inter | Rochet fora | Média de público da dupla Gre-Nal: quem está na frente?",
+      "videoId": "fSi6RAU-xx8",
+      "url": "https://www.youtube.com/watch?v=fSi6RAU-xx8",
+      "thumbnail": "https://img.youtube.com/vi/fSi6RAU-xx8/mqdefault.jpg",
+      "published": "2026-05-23T12:14:36+00:00"
+    },
     {
       "channel": "Canal do Farid",
       "title": "GREMISTAS DE PESO #008",
@@ -201,14 +209,6 @@
       "url": "https://www.youtube.com/watch?v=ElmbNC9_56c",
       "thumbnail": "https://img.youtube.com/vi/ElmbNC9_56c/mqdefault.jpg",
       "published": "2026-05-21T13:54:08+00:00"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "A resposta da CBF para a consulta do Grêmio sobre Weverton | Escalação para enfrentar o Palestino",
-      "videoId": "KuFR2l75g3o",
-      "url": "https://www.youtube.com/watch?v=KuFR2l75g3o",
-      "thumbnail": "https://img.youtube.com/vi/KuFR2l75g3o/mqdefault.jpg",
-      "published": "2026-05-20T13:28:23+00:00"
     },
     {
       "channel": "Jeremias Wernek",
