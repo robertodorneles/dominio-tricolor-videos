@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-05-23T15:00:56.012869+00:00",
-  "total": 28,
+  "updated_at": "2026-05-23T16:00:57.561736+00:00",
+  "total": 26,
   "videos": [
     {
+      "channel": "Canal do CCD",
+      "title": "Grêmio x Santos: dia de decisão na Arena e suspense na escalação",
+      "videoId": "rcFxU38SpQQ",
+      "url": "https://www.youtube.com/watch?v=rcFxU38SpQQ",
+      "thumbnail": "https://img.youtube.com/vi/rcFxU38SpQQ/mqdefault.jpg",
+      "published": "2026-05-23T15:56:10+00:00"
+    },
+    {
       "channel": "Duda Garbi",
-      "title": "COMO A INTELIGÊNCIA ARTIFICIAL REVOLUCIONOU A ACADEMIA. SAIBA MAIS | Uma Aula Sobre Academia",
-      "videoId": "kj5Mtbctc2k",
-      "url": "https://www.youtube.com/watch?v=kj5Mtbctc2k",
-      "thumbnail": "https://img.youtube.com/vi/kj5Mtbctc2k/mqdefault.jpg",
-      "published": "2026-05-23T14:30:22+00:00"
+      "title": "VOCÊ SABE TUDO SOBRE ACADEMIA E EXERCÍCIOS FÍSICOS? ENTENDA O CENÁRIO | Uma Aula Sobre Academia",
+      "videoId": "U_Iq1swnyRA",
+      "url": "https://www.youtube.com/watch?v=U_Iq1swnyRA",
+      "thumbnail": "https://img.youtube.com/vi/U_Iq1swnyRA/mqdefault.jpg",
+      "published": "2026-05-23T15:30:32+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "ESQUENTANDO O JOGO | VITÓRIA X INTER | GRÊMIO X SANTOS | CAMPEONATO BRASILEIRO | 23/05/2026",
+      "videoId": "rorujn7bAeA",
+      "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
+      "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
+      "published": "2026-05-23T15:16:14+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "COMO A EVOLUÇÃO DOS APARELHOS MUDA A MANEIRA DE ATENDER NAS ACADEMIAS | Uma Aula Sobre Academia",
+      "videoId": "CLiUymqdneY",
+      "url": "https://www.youtube.com/watch?v=CLiUymqdneY",
+      "thumbnail": "https://img.youtube.com/vi/CLiUymqdneY/mqdefault.jpg",
+      "published": "2026-05-23T15:00:24+00:00"
     },
     {
       "channel": "Radio Imortal",
@@ -25,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=1GzICc4xLsQ",
       "thumbnail": "https://img.youtube.com/vi/1GzICc4xLsQ/mqdefault.jpg",
       "published": "2026-05-23T14:12:37+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "COMO SURGIU O CENÁRIO FITNESS E O PANORAMA ATUAL DO NICHO | Uma Aula Sobre Academia",
-      "videoId": "2QDjosFEnwY",
-      "url": "https://www.youtube.com/watch?v=2QDjosFEnwY",
-      "thumbnail": "https://img.youtube.com/vi/2QDjosFEnwY/mqdefault.jpg",
-      "published": "2026-05-23T14:00:34+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -139,28 +155,12 @@
       "published": "2026-05-22T23:30:11+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | VITÓRIA X INTER | GRÊMIO X SANTOS | BRASILEIRÃO | 22/05/2026",
-      "videoId": "rC0QPtqmU9w",
-      "url": "https://www.youtube.com/watch?v=rC0QPtqmU9w",
-      "thumbnail": "https://img.youtube.com/vi/rC0QPtqmU9w/mqdefault.jpg",
-      "published": "2026-05-22T23:26:37+00:00"
-    },
-    {
       "channel": "Bage TV",
       "title": "VIERY ATRAI INTERESSE DE 8 CLUBES. VAI SAIR?🔹 THE TARDE 🔹#157",
       "videoId": "AZpYZ5RhY3c",
       "url": "https://www.youtube.com/watch?v=AZpYZ5RhY3c",
       "thumbnail": "https://img.youtube.com/vi/AZpYZ5RhY3c/mqdefault.jpg",
       "published": "2026-05-22T21:32:44+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
-      "videoId": "94LHaWjvyO8",
-      "url": "https://www.youtube.com/watch?v=94LHaWjvyO8",
-      "thumbnail": "https://img.youtube.com/vi/94LHaWjvyO8/mqdefault.jpg",
-      "published": "2026-05-22T20:18:13+00:00"
     },
     {
       "channel": "Bage TV",
@@ -179,14 +179,6 @@
       "published": "2026-05-22T15:30:10+00:00"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Grêmio gastou ou economizou mais? Os números de 2026",
-      "videoId": "SYyY4m04g84",
-      "url": "https://www.youtube.com/watch?v=SYyY4m04g84",
-      "thumbnail": "https://img.youtube.com/vi/SYyY4m04g84/mqdefault.jpg",
-      "published": "2026-05-22T13:48:58+00:00"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x SANTOS - BRASILEIRÃO 2026 | COLETIVAS | 23/05/26 #20",
       "videoId": "1kvwnp8FSXY",
@@ -201,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=1TYzg4oNPo0",
       "thumbnail": "https://img.youtube.com/vi/1TYzg4oNPo0/mqdefault.jpg",
       "published": "2026-05-21T22:03:27+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨A NOTÍCIA QUE A TORCIDA DO GRÊMIO MAIS ESPERAVA | AMUZU ESCLARECE TUDO | ELES VÃO FICAR DE FORA",
-      "videoId": "oXM0FkX12Yg",
-      "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
-      "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
-      "published": "2026-05-21T19:09:25+00:00"
     },
     {
       "channel": "Jeremias Wernek",
