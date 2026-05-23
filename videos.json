@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-23T16:00:57.561736+00:00",
-  "total": 26,
+  "updated_at": "2026-05-23T16:17:01.078753+00:00",
+  "total": 28,
   "videos": [
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "5 JOGADORES QUE VÃO JOGAR A SUA ÚLTIMA COPA DO MUNDO! | NEYMAR, CR7, MESSI E OUTROS",
+      "videoId": "Fr3et3bsCJw",
+      "url": "https://www.youtube.com/watch?v=Fr3et3bsCJw",
+      "thumbnail": "https://img.youtube.com/vi/Fr3et3bsCJw/mqdefault.jpg",
+      "published": "2026-05-23T16:03:06+00:00"
+    },
     {
       "channel": "Canal do CCD",
       "title": "Grêmio x Santos: dia de decisão na Arena e suspense na escalação",
@@ -123,14 +131,6 @@
       "published": "2026-05-23T02:45:18+00:00"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "5 JOGADORES QUE VÃO JOGAR A SUA ÚLTIMA COPA DO MUNDO! | NEYMAR, CR7, MESSI E OUTROS",
-      "videoId": "Fr3et3bsCJw",
-      "url": "https://www.youtube.com/watch?v=Fr3et3bsCJw",
-      "thumbnail": "https://img.youtube.com/vi/Fr3et3bsCJw/mqdefault.jpg",
-      "published": "2026-05-23T01:09:14+00:00"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "Timeline Tricolor #591: Provável Grêmio | Convocados | Ronaldinho e Felipão | Interesse em Viery e +",
       "videoId": "W-6yQ7jiYJM",
@@ -163,6 +163,14 @@
       "published": "2026-05-22T21:32:44+00:00"
     },
     {
+      "channel": "LH Benfica",
+      "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
+      "videoId": "94LHaWjvyO8",
+      "url": "https://www.youtube.com/watch?v=94LHaWjvyO8",
+      "thumbnail": "https://img.youtube.com/vi/94LHaWjvyO8/mqdefault.jpg",
+      "published": "2026-05-22T20:18:13+00:00"
+    },
+    {
       "channel": "Bage TV",
       "title": "Pezzolano no Uruguai? Braith ou Willian, quem começa? 🔸RESENHA FORA DA SALA🔸#050",
       "videoId": "Z5udg4168Rg",
@@ -193,6 +201,14 @@
       "url": "https://www.youtube.com/watch?v=1TYzg4oNPo0",
       "thumbnail": "https://img.youtube.com/vi/1TYzg4oNPo0/mqdefault.jpg",
       "published": "2026-05-21T22:03:27+00:00"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨A NOTÍCIA QUE A TORCIDA DO GRÊMIO MAIS ESPERAVA | AMUZU ESCLARECE TUDO | ELES VÃO FICAR DE FORA",
+      "videoId": "oXM0FkX12Yg",
+      "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
+      "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
+      "published": "2026-05-21T19:09:25+00:00"
     },
     {
       "channel": "Jeremias Wernek",
