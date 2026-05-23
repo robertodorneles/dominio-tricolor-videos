@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-05-23T14:01:03.789883+00:00",
+  "updated_at": "2026-05-23T15:00:56.012869+00:00",
   "total": 28,
   "videos": [
     {
+      "channel": "Duda Garbi",
+      "title": "COMO A INTELIGÊNCIA ARTIFICIAL REVOLUCIONOU A ACADEMIA. SAIBA MAIS | Uma Aula Sobre Academia",
+      "videoId": "kj5Mtbctc2k",
+      "url": "https://www.youtube.com/watch?v=kj5Mtbctc2k",
+      "thumbnail": "https://img.youtube.com/vi/kj5Mtbctc2k/mqdefault.jpg",
+      "published": "2026-05-23T14:30:22+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | O PROVÁVEL TIME DE LUÍS CASTRO | JOGO QUE VALE MUITO | PLANTÃO",
+      "videoId": "KIx5gCzXYWk",
+      "url": "https://www.youtube.com/watch?v=KIx5gCzXYWk",
+      "thumbnail": "https://img.youtube.com/vi/KIx5gCzXYWk/mqdefault.jpg",
+      "published": "2026-05-23T14:22:20+00:00"
+    },
+    {
+      "channel": "Canal do Gabardo",
+      "title": "Grêmio x Santos | Arthur | O que Felipão falou sobre Ronaldinho",
+      "videoId": "1GzICc4xLsQ",
+      "url": "https://www.youtube.com/watch?v=1GzICc4xLsQ",
+      "thumbnail": "https://img.youtube.com/vi/1GzICc4xLsQ/mqdefault.jpg",
+      "published": "2026-05-23T14:12:37+00:00"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "COMO SURGIU O CENÁRIO FITNESS E O PANORAMA ATUAL DO NICHO | Uma Aula Sobre Academia",
+      "videoId": "2QDjosFEnwY",
+      "url": "https://www.youtube.com/watch?v=2QDjosFEnwY",
+      "thumbnail": "https://img.youtube.com/vi/2QDjosFEnwY/mqdefault.jpg",
+      "published": "2026-05-23T14:00:34+00:00"
+    },
+    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨ESTRELA SE APROXIMANDO DO GRÊMIO? | CRAQUE LIVRE PODERIA SER REFORÇO? | O TIME PRO JOGO DE HOJE!",
+      "title": "🚨ESTRELA SE APROXIMANDO DO GRÊMIO? | E THIAGO SILVA, SERIA UMA BOA? | O TIME PRO JOGO DE HOJE!",
       "videoId": "kDwxzXXGNq0",
       "url": "https://www.youtube.com/watch?v=kDwxzXXGNq0",
       "thumbnail": "https://img.youtube.com/vi/kDwxzXXGNq0/mqdefault.jpg",
       "published": "2026-05-23T13:51:36+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UMA AULA SOBRE… ACADEMIA com Prof. Ignaldo Rosa | #33",
-      "videoId": "MtCHFepPlIo",
-      "url": "https://www.youtube.com/watch?v=MtCHFepPlIo",
-      "thumbnail": "https://img.youtube.com/vi/MtCHFepPlIo/mqdefault.jpg",
-      "published": "2026-05-23T13:00:17+00:00"
     },
     {
       "channel": "Canal do Gabardo",
@@ -123,28 +147,12 @@
       "published": "2026-05-22T23:26:37+00:00"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "GEROMEL CONTA COMO QUASE FOI PARA NO MORUMBI | Cortes do Duda",
-      "videoId": "DO9wv7uf838",
-      "url": "https://www.youtube.com/watch?v=DO9wv7uf838",
-      "thumbnail": "https://img.youtube.com/vi/DO9wv7uf838/mqdefault.jpg",
-      "published": "2026-05-22T22:00:01+00:00"
-    },
-    {
       "channel": "Bage TV",
       "title": "VIERY ATRAI INTERESSE DE 8 CLUBES. VAI SAIR?🔹 THE TARDE 🔹#157",
       "videoId": "AZpYZ5RhY3c",
       "url": "https://www.youtube.com/watch?v=AZpYZ5RhY3c",
       "thumbnail": "https://img.youtube.com/vi/AZpYZ5RhY3c/mqdefault.jpg",
       "published": "2026-05-22T21:32:44+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | O PROVÁVEL TIME DE LUÍS CASTRO | JOGO QUE VALE MUITO | PLANTÃO",
-      "videoId": "KIx5gCzXYWk",
-      "url": "https://www.youtube.com/watch?v=KIx5gCzXYWk",
-      "thumbnail": "https://img.youtube.com/vi/KIx5gCzXYWk/mqdefault.jpg",
-      "published": "2026-05-22T20:44:51+00:00"
     },
     {
       "channel": "LH Benfica",
@@ -201,14 +209,6 @@
       "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
       "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
       "published": "2026-05-21T19:09:25+00:00"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Amuzu falou sobre seleção e renovação | Gustavo Martins e Arthur | Dois jogos decisivos",
-      "videoId": "ElmbNC9_56c",
-      "url": "https://www.youtube.com/watch?v=ElmbNC9_56c",
-      "thumbnail": "https://img.youtube.com/vi/ElmbNC9_56c/mqdefault.jpg",
-      "published": "2026-05-21T13:54:08+00:00"
     },
     {
       "channel": "Jeremias Wernek",
