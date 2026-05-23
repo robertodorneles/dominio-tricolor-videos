@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-23T02:01:07.514686+00:00",
+  "updated_at": "2026-05-23T07:41:25.380332+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: 🔥 O INACREDITÁVEL PODE ACONTECER | DIEGO CARLOS DEFINE | TIME DEFINIDO?",
+      "videoId": "lPa9VL_Jr2Q",
+      "url": "https://www.youtube.com/watch?v=lPa9VL_Jr2Q",
+      "thumbnail": "https://img.youtube.com/vi/lPa9VL_Jr2Q/mqdefault.jpg",
+      "published": "2026-05-23T05:32:20+00:00"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: DECISÃO CONTRA O SANTOS | ARTHUR VOLTA? | PRESSÃO TOTAL",
+      "videoId": "ieg8RXo-E9I",
+      "url": "https://www.youtube.com/watch?v=ieg8RXo-E9I",
+      "thumbnail": "https://img.youtube.com/vi/ieg8RXo-E9I/mqdefault.jpg",
+      "published": "2026-05-23T05:00:29+00:00"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO X  SANTOS | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
+      "videoId": "fvhisAz6EX4",
+      "url": "https://www.youtube.com/watch?v=fvhisAz6EX4",
+      "thumbnail": "https://img.youtube.com/vi/fvhisAz6EX4/mqdefault.jpg",
+      "published": "2026-05-23T02:52:15+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "LIVE PRÉ-JOGO: GRÊMIO X SANTOS HOJE NA ARENA! | CONFRONTO DIRETO PARA FUGIR DO Z4 | PLANTÃO IMORTAL",
+      "videoId": "pjY5YGwyxaI",
+      "url": "https://www.youtube.com/watch?v=pjY5YGwyxaI",
+      "thumbnail": "https://img.youtube.com/vi/pjY5YGwyxaI/mqdefault.jpg",
+      "published": "2026-05-23T02:45:18+00:00"
+    },
     {
       "channel": "Radio Imortal",
       "title": "VIERY SONDADO POR EUROPEUS | ARTHUR JOGA AMANHÃ? | NOITES DE GRÊMIO #75 - 22/05",
@@ -59,14 +91,6 @@
       "published": "2026-05-22T22:55:44+00:00"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "ARTHUR DE VOLTA?! | GRÊMIO TEM JOGO FUNDAMENTAL | BRAITH NO MEIO? | ZAGUEIRO DE SAÍDA? | IMORTAL FC",
-      "videoId": "aBraQAAkRYs",
-      "url": "https://www.youtube.com/watch?v=aBraQAAkRYs",
-      "thumbnail": "https://img.youtube.com/vi/aBraQAAkRYs/mqdefault.jpg",
-      "published": "2026-05-22T22:18:05+00:00"
-    },
-    {
       "channel": "Duda Garbi",
       "title": "GEROMEL CONTA COMO QUASE FOI PARA NO MORUMBI | Cortes do Duda",
       "videoId": "DO9wv7uf838",
@@ -91,28 +115,12 @@
       "published": "2026-05-22T21:30:35+00:00"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 NÃO ESCONDEU INSATISFAÇÃO | FUTURO REDEFINIDO NA PARADA | DILEMA!",
-      "videoId": "nQ3l1qywTuU",
-      "url": "https://www.youtube.com/watch?v=nQ3l1qywTuU",
-      "thumbnail": "https://img.youtube.com/vi/nQ3l1qywTuU/mqdefault.jpg",
-      "published": "2026-05-22T20:59:26+00:00"
-    },
-    {
       "channel": "LH Benfica",
       "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
       "videoId": "94LHaWjvyO8",
       "url": "https://www.youtube.com/watch?v=94LHaWjvyO8",
       "thumbnail": "https://img.youtube.com/vi/94LHaWjvyO8/mqdefault.jpg",
       "published": "2026-05-22T20:18:13+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Viery ganha destaque internacional | Ingleses cada vez mais interessados | O valor!!",
-      "videoId": "DvfFaDhVKTE",
-      "url": "https://www.youtube.com/watch?v=DvfFaDhVKTE",
-      "thumbnail": "https://img.youtube.com/vi/DvfFaDhVKTE/mqdefault.jpg",
-      "published": "2026-05-22T20:00:13+00:00"
     },
     {
       "channel": "Bage TV",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=1kvwnp8FSXY",
       "thumbnail": "https://img.youtube.com/vi/1kvwnp8FSXY/mqdefault.jpg",
       "published": "2026-05-22T11:23:55+00:00"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "JUVENTUS: CONTA CHEGOU! | SURPRESA MARLON | REAÇÃO AMUZU NO GRÊMIO.",
-      "videoId": "-CCeJLotO9w",
-      "url": "https://www.youtube.com/watch?v=-CCeJLotO9w",
-      "thumbnail": "https://img.youtube.com/vi/-CCeJLotO9w/mqdefault.jpg",
-      "published": "2026-05-21T22:43:44+00:00"
     },
     {
       "channel": "GremioTV Oficial",
