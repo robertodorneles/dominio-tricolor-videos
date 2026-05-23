@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-23T22:01:10.334939+00:00",
+  "updated_at": "2026-05-23T23:01:01.833852+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Grenal",
+      "title": "GOLS DE VITÓRIA 2 X 0 INTER | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | 23/03/2026 | RÁDIO GRENAL",
+      "videoId": "hUA_kcYClTA",
+      "url": "https://www.youtube.com/watch?v=hUA_kcYClTA",
+      "thumbnail": "https://img.youtube.com/vi/hUA_kcYClTA/mqdefault.jpg",
+      "published": "2026-05-23T22:40:26+00:00"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Vitória 2x0 Inter: DEU O ÓBVIO! | JÁ TINHA ACONTECIDO ISSO | TEM QUE SE CUIDAR!",
+      "videoId": "vnN18pLJSAU",
+      "url": "https://www.youtube.com/watch?v=vnN18pLJSAU",
+      "thumbnail": "https://img.youtube.com/vi/vnN18pLJSAU/mqdefault.jpg",
+      "published": "2026-05-23T22:23:56+00:00"
+    },
     {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x SANTOS DIRETO DA ARENA | BRASILEIRÃO 2026 | 23/05/26 #03",
@@ -52,7 +68,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BARRADÃO | VITÓRIA 1 X 0 INTER | GRÊMIO X SANTOS | CAMPEONATO BRASILEIRO | 23/05/2026",
+      "title": "AO VIVO DA ARENA | GRÊMIO 1 X 1 SANTOS | VITÓRIA 2 X 0 INTER | CAMPEONATO BRASILEIRO | 23/05/2026",
       "videoId": "rorujn7bAeA",
       "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
       "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
@@ -115,14 +131,6 @@
       "published": "2026-05-23T05:32:20+00:00"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: DECISÃO CONTRA O SANTOS | ARTHUR VOLTA? | PRESSÃO TOTAL",
-      "videoId": "ieg8RXo-E9I",
-      "url": "https://www.youtube.com/watch?v=ieg8RXo-E9I",
-      "thumbnail": "https://img.youtube.com/vi/ieg8RXo-E9I/mqdefault.jpg",
-      "published": "2026-05-23T05:00:29+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "GRÊMIO X  SANTOS | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "fvhisAz6EX4",
@@ -137,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=W-6yQ7jiYJM",
       "thumbnail": "https://img.youtube.com/vi/W-6yQ7jiYJM/mqdefault.jpg",
       "published": "2026-05-22T23:51:25+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "22/05/2026 | RÁDIO GRENAL | LIVE COMPLETA",
-      "videoId": "u-N1oW8n4Nc",
-      "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
-      "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
-      "published": "2026-05-22T23:40:16+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -172,7 +172,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (0) X (0) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "title": "AO VIVO | GRÊMIO (1) X (1) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
       "videoId": "qEqTDxLJOp8",
       "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
       "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
