@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-23T18:01:01.338671+00:00",
+  "updated_at": "2026-05-23T19:00:56.061676+00:00",
   "total": 28,
   "videos": [
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "5 JOGADORES QUE VÃO JOGAR A SUA ÚLTIMA COPA DO MUNDO! | NEYMAR, CR7, MESSI E OUTROS",
-      "videoId": "Fr3et3bsCJw",
-      "url": "https://www.youtube.com/watch?v=Fr3et3bsCJw",
-      "thumbnail": "https://img.youtube.com/vi/Fr3et3bsCJw/mqdefault.jpg",
-      "published": "2026-05-23T16:03:06+00:00"
+      "channel": "Radio Imortal",
+      "title": "LIVE PRÉ-JOGO: GRÊMIO X SANTOS HOJE NA ARENA! | CONFRONTO DIRETO PARA FUGIR DO Z4 | PLANTÃO IMORTAL",
+      "videoId": "pjY5YGwyxaI",
+      "url": "https://www.youtube.com/watch?v=pjY5YGwyxaI",
+      "thumbnail": "https://img.youtube.com/vi/pjY5YGwyxaI/mqdefault.jpg",
+      "published": "2026-05-23T18:16:52+00:00"
     },
     {
       "channel": "Canal do CCD",
@@ -41,14 +41,6 @@
       "url": "https://www.youtube.com/watch?v=CLiUymqdneY",
       "thumbnail": "https://img.youtube.com/vi/CLiUymqdneY/mqdefault.jpg",
       "published": "2026-05-23T15:00:24+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | O PROVÁVEL TIME DE LUÍS CASTRO | JOGO QUE VALE MUITO | PLANTÃO",
-      "videoId": "KIx5gCzXYWk",
-      "url": "https://www.youtube.com/watch?v=KIx5gCzXYWk",
-      "thumbnail": "https://img.youtube.com/vi/KIx5gCzXYWk/mqdefault.jpg",
-      "published": "2026-05-23T14:22:20+00:00"
     },
     {
       "channel": "Canal do Gabardo",
@@ -123,14 +115,6 @@
       "published": "2026-05-23T02:52:15+00:00"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "LIVE PRÉ-JOGO: GRÊMIO X SANTOS HOJE NA ARENA! | CONFRONTO DIRETO PARA FUGIR DO Z4 | PLANTÃO IMORTAL",
-      "videoId": "pjY5YGwyxaI",
-      "url": "https://www.youtube.com/watch?v=pjY5YGwyxaI",
-      "thumbnail": "https://img.youtube.com/vi/pjY5YGwyxaI/mqdefault.jpg",
-      "published": "2026-05-23T02:45:18+00:00"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "Timeline Tricolor #591: Provável Grêmio | Convocados | Ronaldinho e Felipão | Interesse em Viery e +",
       "videoId": "W-6yQ7jiYJM",
@@ -171,12 +155,12 @@
       "published": "2026-05-22T20:18:13+00:00"
     },
     {
-      "channel": "Bage TV",
-      "title": "Pezzolano no Uruguai? Braith ou Willian, quem começa? 🔸RESENHA FORA DA SALA🔸#050",
-      "videoId": "Z5udg4168Rg",
-      "url": "https://www.youtube.com/watch?v=Z5udg4168Rg",
-      "thumbnail": "https://img.youtube.com/vi/Z5udg4168Rg/mqdefault.jpg",
-      "published": "2026-05-22T18:43:33+00:00"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "qEqTDxLJOp8",
+      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
+      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
+      "published": "2026-05-22T20:03:40+00:00"
     },
     {
       "channel": "GremioTV Oficial",
@@ -195,6 +179,14 @@
       "published": "2026-05-22T11:23:55+00:00"
     },
     {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x SANTOS DIRETO DA ARENA | BRASILEIRÃO 2026 | 23/05/26 #03",
+      "videoId": "_G79SmQLbnA",
+      "url": "https://www.youtube.com/watch?v=_G79SmQLbnA",
+      "thumbnail": "https://img.youtube.com/vi/_G79SmQLbnA/mqdefault.jpg",
+      "published": "2026-05-22T11:21:36+00:00"
+    },
+    {
       "channel": "GremioTV Oficial",
       "title": "BASTIDORES | GRÊMIO 2x0 PALESTINO/CHI (CONMEBOL SUL-AMERICANA 2026)",
       "videoId": "1TYzg4oNPo0",
@@ -209,6 +201,14 @@
       "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
       "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
       "published": "2026-05-21T19:09:25+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X SANTOS",
+      "videoId": "A9NrFK5u19k",
+      "url": "https://www.youtube.com/watch?v=A9NrFK5u19k",
+      "thumbnail": "https://img.youtube.com/vi/A9NrFK5u19k/mqdefault.jpg",
+      "published": "2026-05-18T16:39:31+00:00"
     },
     {
       "channel": "Jeremias Wernek",
