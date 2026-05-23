@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-22T23:00:57.268877+00:00",
+  "updated_at": "2026-05-23T00:01:08.333100+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #591: Provável Grêmio | Convocados | Ronaldinho e Felipão | Interesse em Viery e +",
+      "videoId": "W-6yQ7jiYJM",
+      "url": "https://www.youtube.com/watch?v=W-6yQ7jiYJM",
+      "thumbnail": "https://img.youtube.com/vi/W-6yQ7jiYJM/mqdefault.jpg",
+      "published": "2026-05-22T23:51:25+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "22/05/2026 | RÁDIO GRENAL | LIVE COMPLETA",
+      "videoId": "u-N1oW8n4Nc",
+      "url": "https://www.youtube.com/watch?v=u-N1oW8n4Nc",
+      "thumbnail": "https://img.youtube.com/vi/u-N1oW8n4Nc/mqdefault.jpg",
+      "published": "2026-05-22T23:40:16+00:00"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨A ÓTIMA NOTÍCIA DA NOITE DE SEXTA | MILHÕES DE LUCRO | JOVENS CONVOCADOS | SILVIO BENFICA E GRÊMIO!",
+      "videoId": "GPfUX-qyOuw",
+      "url": "https://www.youtube.com/watch?v=GPfUX-qyOuw",
+      "thumbnail": "https://img.youtube.com/vi/GPfUX-qyOuw/mqdefault.jpg",
+      "published": "2026-05-22T23:30:11+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "ESQUENTANDO O JOGO | VITÓRIA X INTER | GRÊMIO X SANTOS | BRASILEIRÃO | 22/05/2026",
+      "videoId": "rC0QPtqmU9w",
+      "url": "https://www.youtube.com/watch?v=rC0QPtqmU9w",
+      "thumbnail": "https://img.youtube.com/vi/rC0QPtqmU9w/mqdefault.jpg",
+      "published": "2026-05-22T23:26:37+00:00"
+    },
     {
       "channel": "Careca de Saber TV",
       "title": "FELIPÃO CONVIDA RONALDINHO  | MILHÕES FORA JOGADOS FORA | VIERY NA EUROPA AGORA?",
@@ -9,14 +41,6 @@
       "url": "https://www.youtube.com/watch?v=I9T1khfuEoE",
       "thumbnail": "https://img.youtube.com/vi/I9T1khfuEoE/mqdefault.jpg",
       "published": "2026-05-22T22:55:44+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "DEBATE QUENTE NO CONTRA-ATAQUE | CORTES DA RÁDIO GRENAL",
-      "videoId": "SeKGbgI0URU",
-      "url": "https://www.youtube.com/watch?v=SeKGbgI0URU",
-      "thumbnail": "https://img.youtube.com/vi/SeKGbgI0URU/mqdefault.jpg",
-      "published": "2026-05-22T22:20:38+00:00"
     },
     {
       "channel": "Radio Imortal",
@@ -123,14 +147,6 @@
       "published": "2026-05-22T14:53:47+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM TAFFAREL - COORDENADOR DA PREPARAÇÃO DE GOLEIROS DA SELEÇÃO BRASILEIRA",
-      "videoId": "UFQwh5ntLHU",
-      "url": "https://www.youtube.com/watch?v=UFQwh5ntLHU",
-      "thumbnail": "https://img.youtube.com/vi/UFQwh5ntLHU/mqdefault.jpg",
-      "published": "2026-05-22T14:43:34+00:00"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "Grêmio gastou ou economizou mais? Os números de 2026",
       "videoId": "SYyY4m04g84",
@@ -155,14 +171,6 @@
       "published": "2026-05-22T11:21:36+00:00"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DEU A REAL! LUÍS CASTRO FALO UMAS VERDADES SOBRE ALGUNS JOGADORES DO GRÊMIO | MUDANÇAS PREJUDICAM!",
-      "videoId": "wwXn1x54t8o",
-      "url": "https://www.youtube.com/watch?v=wwXn1x54t8o",
-      "thumbnail": "https://img.youtube.com/vi/wwXn1x54t8o/mqdefault.jpg",
-      "published": "2026-05-22T01:54:52+00:00"
-    },
-    {
       "channel": "Careca de Saber TV",
       "title": "JUVENTUS: CONTA CHEGOU! | SURPRESA MARLON | REAÇÃO AMUZU NO GRÊMIO.",
       "videoId": "-CCeJLotO9w",
@@ -177,14 +185,6 @@
       "url": "https://www.youtube.com/watch?v=1TYzg4oNPo0",
       "thumbnail": "https://img.youtube.com/vi/1TYzg4oNPo0/mqdefault.jpg",
       "published": "2026-05-21T22:03:27+00:00"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #590: Arthur | Amuzu fala sobre seleção | Alysson | Marlon | Luis Castro e mais",
-      "videoId": "Fo3Dcg0ssr4",
-      "url": "https://www.youtube.com/watch?v=Fo3Dcg0ssr4",
-      "thumbnail": "https://img.youtube.com/vi/Fo3Dcg0ssr4/mqdefault.jpg",
-      "published": "2026-05-21T21:21:37+00:00"
     },
     {
       "channel": "LH Benfica",
