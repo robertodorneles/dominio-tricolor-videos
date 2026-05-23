@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-23T19:00:56.061676+00:00",
+  "updated_at": "2026-05-23T20:01:02.193978+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO  X SANTOS (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "TfxD39Ap9ag",
+      "url": "https://www.youtube.com/watch?v=TfxD39Ap9ag",
+      "thumbnail": "https://img.youtube.com/vi/TfxD39Ap9ag/mqdefault.jpg",
+      "published": "2026-05-23T19:54:17+00:00"
+    },
     {
       "channel": "Radio Imortal",
       "title": "LIVE PRÉ-JOGO: GRÊMIO X SANTOS HOJE NA ARENA! | CONFRONTO DIRETO PARA FUGIR DO Z4 | PLANTÃO IMORTAL",
@@ -9,6 +17,14 @@
       "url": "https://www.youtube.com/watch?v=pjY5YGwyxaI",
       "thumbnail": "https://img.youtube.com/vi/pjY5YGwyxaI/mqdefault.jpg",
       "published": "2026-05-23T18:16:52+00:00"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "4 JOGADORES QUE VÃO JOGAR A SUA ÚLTIMA COPA DO MUNDO! | NEYMAR, CR7, MESSI E OUTROS",
+      "videoId": "Fr3et3bsCJw",
+      "url": "https://www.youtube.com/watch?v=Fr3et3bsCJw",
+      "thumbnail": "https://img.youtube.com/vi/Fr3et3bsCJw/mqdefault.jpg",
+      "published": "2026-05-23T16:03:06+00:00"
     },
     {
       "channel": "Canal do CCD",
@@ -28,7 +44,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | VITÓRIA X INTER | GRÊMIO X SANTOS | CAMPEONATO BRASILEIRO | 23/05/2026",
+      "title": "AO VIVO DO BARRADÃO | VITÓRIA 0 X 0 INTER | GRÊMIO X SANTOS | CAMPEONATO BRASILEIRO | 23/05/2026",
       "videoId": "rorujn7bAeA",
       "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
       "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
@@ -81,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=g8RxBMWhoWI",
       "thumbnail": "https://img.youtube.com/vi/g8RxBMWhoWI/mqdefault.jpg",
       "published": "2026-05-23T10:46:21+00:00"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMOOO FARIDO 22.05.26",
-      "videoId": "uCnTHcamFWg",
-      "url": "https://www.youtube.com/watch?v=uCnTHcamFWg",
-      "thumbnail": "https://img.youtube.com/vi/uCnTHcamFWg/mqdefault.jpg",
-      "published": "2026-05-23T10:27:57+00:00"
     },
     {
       "channel": "A Dupla",
@@ -172,27 +180,11 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x SANTOS - BRASILEIRÃO 2026 | COLETIVAS | 23/05/26 #20",
-      "videoId": "1kvwnp8FSXY",
-      "url": "https://www.youtube.com/watch?v=1kvwnp8FSXY",
-      "thumbnail": "https://img.youtube.com/vi/1kvwnp8FSXY/mqdefault.jpg",
-      "published": "2026-05-22T11:23:55+00:00"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x SANTOS DIRETO DA ARENA | BRASILEIRÃO 2026 | 23/05/26 #03",
       "videoId": "_G79SmQLbnA",
       "url": "https://www.youtube.com/watch?v=_G79SmQLbnA",
       "thumbnail": "https://img.youtube.com/vi/_G79SmQLbnA/mqdefault.jpg",
       "published": "2026-05-22T11:21:36+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | GRÊMIO 2x0 PALESTINO/CHI (CONMEBOL SUL-AMERICANA 2026)",
-      "videoId": "1TYzg4oNPo0",
-      "url": "https://www.youtube.com/watch?v=1TYzg4oNPo0",
-      "thumbnail": "https://img.youtube.com/vi/1TYzg4oNPo0/mqdefault.jpg",
-      "published": "2026-05-21T22:03:27+00:00"
     },
     {
       "channel": "LH Benfica",
@@ -201,6 +193,14 @@
       "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
       "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
       "published": "2026-05-21T19:09:25+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "AO VIVO  GRÊMIO VS SANTOS  23.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
+      "videoId": "cEto_4b-fwQ",
+      "url": "https://www.youtube.com/watch?v=cEto_4b-fwQ",
+      "thumbnail": "https://img.youtube.com/vi/cEto_4b-fwQ/mqdefault.jpg",
+      "published": "2026-05-21T14:38:12+00:00"
     },
     {
       "channel": "Bage TV",
