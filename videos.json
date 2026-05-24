@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-05-24T02:01:16.836365+00:00",
-  "total": 28,
+  "updated_at": "2026-05-24T09:01:00.706686+00:00",
+  "total": 27,
   "videos": [
     {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: Virada muda tudo | Tetê responde | Arthur quer ficar",
+      "videoId": "L-tmzJUX7gw",
+      "url": "https://www.youtube.com/watch?v=L-tmzJUX7gw",
+      "thumbnail": "https://img.youtube.com/vi/L-tmzJUX7gw/mqdefault.jpg",
+      "published": "2026-05-24T06:00:15+00:00"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X SANTOS",
+      "videoId": "A9NrFK5u19k",
+      "url": "https://www.youtube.com/watch?v=A9NrFK5u19k",
+      "thumbnail": "https://img.youtube.com/vi/A9NrFK5u19k/mqdefault.jpg",
+      "published": "2026-05-24T04:48:06+00:00"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "JOGO COMPLETO | GRÊMIO 3 X 2 SANTOS | VITÓRIA 2 X 0 INTER | CAMPEONATO BRASILEIRO | 23/05/2026",
+      "videoId": "rorujn7bAeA",
+      "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
+      "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
+      "published": "2026-05-24T02:57:37+00:00"
+    },
+    {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (2) SANTOS | COLETIVA LUÍS CASTRO | DIRETO DA ARENA | BRASILEIRÃO",
+      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA |  COMO FICA A TABELA",
+      "videoId": "9hhCux_cT28",
+      "url": "https://www.youtube.com/watch?v=9hhCux_cT28",
+      "thumbnail": "https://img.youtube.com/vi/9hhCux_cT28/mqdefault.jpg",
+      "published": "2026-05-24T02:44:04+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO  X SANTOS (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "TfxD39Ap9ag",
+      "url": "https://www.youtube.com/watch?v=TfxD39Ap9ag",
+      "thumbnail": "https://img.youtube.com/vi/TfxD39Ap9ag/mqdefault.jpg",
+      "published": "2026-05-24T02:04:33+00:00"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - GRÊMIO VENCE O SANTOS NO BRASILEIRÃO",
+      "videoId": "RciBHFEIMcM",
+      "url": "https://www.youtube.com/watch?v=RciBHFEIMcM",
+      "thumbnail": "https://img.youtube.com/vi/RciBHFEIMcM/mqdefault.jpg",
+      "published": "2026-05-24T02:01:24+00:00"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO GANHOU! | PUXÃO DE ORELHA? | O DEU CERTO E ERRADO! | COMENTÁRIO GRÊMIO 3X2 SANTOS",
+      "videoId": "TR5DzjFDWQc",
+      "url": "https://www.youtube.com/watch?v=TR5DzjFDWQc",
+      "thumbnail": "https://img.youtube.com/vi/TR5DzjFDWQc/mqdefault.jpg",
+      "published": "2026-05-24T01:53:49+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | GRÊMIO (3) X (2) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
       "videoId": "qEqTDxLJOp8",
       "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
       "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
@@ -75,60 +131,12 @@
       "published": "2026-05-24T00:28:36+00:00"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE PAULO PEZZOLANO - TREINADOR DO INTER | VITÓRIA 2 X 0 INTER | BRASILEIRÃO | 23/05/2025",
-      "videoId": "0e2gmlBNjP4",
-      "url": "https://www.youtube.com/watch?v=0e2gmlBNjP4",
-      "thumbnail": "https://img.youtube.com/vi/0e2gmlBNjP4/mqdefault.jpg",
-      "published": "2026-05-24T00:12:24+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE VITÓRIA 2 X 0 INTER | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | 23/03/2026 | RÁDIO GRENAL",
-      "videoId": "hUA_kcYClTA",
-      "url": "https://www.youtube.com/watch?v=hUA_kcYClTA",
-      "thumbnail": "https://img.youtube.com/vi/hUA_kcYClTA/mqdefault.jpg",
-      "published": "2026-05-23T22:40:26+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Vitória 2x0 Inter: DEU O ÓBVIO! | JÁ TINHA ACONTECIDO ISSO | TEM QUE SE CUIDAR!",
-      "videoId": "vnN18pLJSAU",
-      "url": "https://www.youtube.com/watch?v=vnN18pLJSAU",
-      "thumbnail": "https://img.youtube.com/vi/vnN18pLJSAU/mqdefault.jpg",
-      "published": "2026-05-23T22:23:56+00:00"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x SANTOS DIRETO DA ARENA | BRASILEIRÃO 2026 | 23/05/26 #03",
       "videoId": "_G79SmQLbnA",
       "url": "https://www.youtube.com/watch?v=_G79SmQLbnA",
       "thumbnail": "https://img.youtube.com/vi/_G79SmQLbnA/mqdefault.jpg",
       "published": "2026-05-23T21:47:16+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO  X SANTOS (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "TfxD39Ap9ag",
-      "url": "https://www.youtube.com/watch?v=TfxD39Ap9ag",
-      "thumbnail": "https://img.youtube.com/vi/TfxD39Ap9ag/mqdefault.jpg",
-      "published": "2026-05-23T19:54:17+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "LIVE PRÉ-JOGO: GRÊMIO X SANTOS HOJE NA ARENA! | CONFRONTO DIRETO PARA FUGIR DO Z4 | PLANTÃO IMORTAL",
-      "videoId": "pjY5YGwyxaI",
-      "url": "https://www.youtube.com/watch?v=pjY5YGwyxaI",
-      "thumbnail": "https://img.youtube.com/vi/pjY5YGwyxaI/mqdefault.jpg",
-      "published": "2026-05-23T18:16:52+00:00"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x Santos: dia de decisão na Arena e suspense na escalação",
-      "videoId": "rcFxU38SpQQ",
-      "url": "https://www.youtube.com/watch?v=rcFxU38SpQQ",
-      "thumbnail": "https://img.youtube.com/vi/rcFxU38SpQQ/mqdefault.jpg",
-      "published": "2026-05-23T15:56:10+00:00"
     },
     {
       "channel": "Duda Garbi",
@@ -179,14 +187,6 @@
       "published": "2026-05-23T12:02:43+00:00"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "ARTHUR JOGA? | GABIGOL? | ESGOTOU OS INGRESSOS? | GRÊMIO X SANTOS",
-      "videoId": "g8RxBMWhoWI",
-      "url": "https://www.youtube.com/watch?v=g8RxBMWhoWI",
-      "thumbnail": "https://img.youtube.com/vi/g8RxBMWhoWI/mqdefault.jpg",
-      "published": "2026-05-23T10:46:21+00:00"
-    },
-    {
       "channel": "LH Benfica",
       "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
       "videoId": "94LHaWjvyO8",
@@ -201,14 +201,6 @@
       "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
       "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
       "published": "2026-05-21T19:09:25+00:00"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X SANTOS",
-      "videoId": "A9NrFK5u19k",
-      "url": "https://www.youtube.com/watch?v=A9NrFK5u19k",
-      "thumbnail": "https://img.youtube.com/vi/A9NrFK5u19k/mqdefault.jpg",
-      "published": "2026-05-18T16:39:31+00:00"
     },
     {
       "channel": "Jeremias Wernek",
