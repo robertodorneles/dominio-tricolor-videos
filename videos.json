@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-24T01:01:10.211250+00:00",
+  "updated_at": "2026-05-24T02:01:16.836365+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (2) SANTOS | COLETIVA LUÍS CASTRO | DIRETO DA ARENA | BRASILEIRÃO",
+      "videoId": "qEqTDxLJOp8",
+      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
+      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
+      "published": "2026-05-24T01:49:37+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "GOLS | GRÊMIO 3x2 SANTOS (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "SWSQpuid68I",
+      "url": "https://www.youtube.com/watch?v=SWSQpuid68I",
+      "thumbnail": "https://img.youtube.com/vi/SWSQpuid68I/mqdefault.jpg",
+      "published": "2026-05-24T01:29:27+00:00"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x SANTOS - BRASILEIRÃO 2026 | COLETIVAS | 23/05/26 #20",
+      "videoId": "1kvwnp8FSXY",
+      "url": "https://www.youtube.com/watch?v=1kvwnp8FSXY",
+      "thumbnail": "https://img.youtube.com/vi/1kvwnp8FSXY/mqdefault.jpg",
+      "published": "2026-05-24T01:26:06+00:00"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "AO VIVO  GRÊMIO VS SANTOS  23.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
+      "videoId": "cEto_4b-fwQ",
+      "url": "https://www.youtube.com/watch?v=cEto_4b-fwQ",
+      "thumbnail": "https://img.youtube.com/vi/cEto_4b-fwQ/mqdefault.jpg",
+      "published": "2026-05-24T01:26:01+00:00"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨TEMOS UM “NOVO” REFORÇO! CHORA, GABIGOL! GRANDE VITÓRIA DO GRÊMIO! OS DESTAQUES! O INTER PERDEU!",
+      "videoId": "LbFa0L86QOE",
+      "url": "https://www.youtube.com/watch?v=LbFa0L86QOE",
+      "thumbnail": "https://img.youtube.com/vi/LbFa0L86QOE/mqdefault.jpg",
+      "published": "2026-05-24T01:25:42+00:00"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO X  SANTOS | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
+      "videoId": "fvhisAz6EX4",
+      "url": "https://www.youtube.com/watch?v=fvhisAz6EX4",
+      "thumbnail": "https://img.youtube.com/vi/fvhisAz6EX4/mqdefault.jpg",
+      "published": "2026-05-24T01:20:46+00:00"
+    },
     {
       "channel": "Canal do CCD",
       "title": "Grêmio 3 X 2 Santos: vitória da resiliência, vitória de um time que não desiste",
@@ -139,22 +187,6 @@
       "published": "2026-05-23T10:46:21+00:00"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X  SANTOS | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "fvhisAz6EX4",
-      "url": "https://www.youtube.com/watch?v=fvhisAz6EX4",
-      "thumbnail": "https://img.youtube.com/vi/fvhisAz6EX4/mqdefault.jpg",
-      "published": "2026-05-23T02:52:15+00:00"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨A ÓTIMA NOTÍCIA DA NOITE DE SEXTA | MILHÕES DE LUCRO | JOVENS CONVOCADOS | SILVIO BENFICA E GRÊMIO!",
-      "videoId": "GPfUX-qyOuw",
-      "url": "https://www.youtube.com/watch?v=GPfUX-qyOuw",
-      "thumbnail": "https://img.youtube.com/vi/GPfUX-qyOuw/mqdefault.jpg",
-      "published": "2026-05-22T23:30:11+00:00"
-    },
-    {
       "channel": "LH Benfica",
       "title": "🚨REFORÇO DE R$ 117 MILHÕES | TÁ CHOVENDO PROPOSTA | MAIS UMA BAITA NOVIDADE",
       "videoId": "94LHaWjvyO8",
@@ -163,44 +195,12 @@
       "published": "2026-05-22T20:18:13+00:00"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (2) SANTOS | COLETIVA LUÍS CASTRO | DIRETO DA ARENA | BRASILEIRÃO",
-      "videoId": "qEqTDxLJOp8",
-      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
-      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
-      "published": "2026-05-22T20:03:40+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO PELA AMÉRICA: EPISÓDIO ARGENTINA",
-      "videoId": "rqSMQ33leT0",
-      "url": "https://www.youtube.com/watch?v=rqSMQ33leT0",
-      "thumbnail": "https://img.youtube.com/vi/rqSMQ33leT0/mqdefault.jpg",
-      "published": "2026-05-22T15:30:10+00:00"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x SANTOS - BRASILEIRÃO 2026 | COLETIVAS | 23/05/26 #20",
-      "videoId": "1kvwnp8FSXY",
-      "url": "https://www.youtube.com/watch?v=1kvwnp8FSXY",
-      "thumbnail": "https://img.youtube.com/vi/1kvwnp8FSXY/mqdefault.jpg",
-      "published": "2026-05-22T11:23:55+00:00"
-    },
-    {
       "channel": "LH Benfica",
       "title": "🚨A NOTÍCIA QUE A TORCIDA DO GRÊMIO MAIS ESPERAVA | AMUZU ESCLARECE TUDO | ELES VÃO FICAR DE FORA",
       "videoId": "oXM0FkX12Yg",
       "url": "https://www.youtube.com/watch?v=oXM0FkX12Yg",
       "thumbnail": "https://img.youtube.com/vi/oXM0FkX12Yg/mqdefault.jpg",
       "published": "2026-05-21T19:09:25+00:00"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO  GRÊMIO VS SANTOS  23.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
-      "videoId": "cEto_4b-fwQ",
-      "url": "https://www.youtube.com/watch?v=cEto_4b-fwQ",
-      "thumbnail": "https://img.youtube.com/vi/cEto_4b-fwQ/mqdefault.jpg",
-      "published": "2026-05-21T14:38:12+00:00"
     },
     {
       "channel": "Bage TV",
