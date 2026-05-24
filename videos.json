@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T16:40:23.997703+00:00",
+  "updated_at": "2026-05-24T17:01:19.252574+00:00",
   "total": 29,
   "videos": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - GRÊMIO VENCE O SANTOS NO BRASILEIRÃO",
+      "title": "LIVE DE DOMINGO - GRÊMIO VENCE O SANTOS | FALTAM DUAS VITÓRIAS",
       "videoId": "RciBHFEIMcM",
       "url": "https://www.youtube.com/watch?v=RciBHFEIMcM",
       "thumbnail": "https://img.youtube.com/vi/RciBHFEIMcM/mqdefault.jpg",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X IVOTI (CAMPEONATO ESTADUAL SUB-20)",
+      "videoId": "H76jgfy6mdQ",
+      "url": "https://www.youtube.com/watch?v=H76jgfy6mdQ",
+      "thumbnail": "https://img.youtube.com/vi/H76jgfy6mdQ/mqdefault.jpg",
+      "published": "2026-05-24T16:37:24+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO FEMININO PREPARADO PARA ENFRENTAR O JUVENTUDE NA SERRA",
       "videoId": "yXcc57iu5hk",
       "url": "https://www.youtube.com/watch?v=yXcc57iu5hk",
@@ -155,20 +163,12 @@
       "published": "2026-05-24T13:00:25+00:00"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X SANTOS + COLETIVA PÓS-JOGO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "TfxD39Ap9ag",
-      "url": "https://www.youtube.com/watch?v=TfxD39Ap9ag",
-      "thumbnail": "https://img.youtube.com/vi/TfxD39Ap9ag/mqdefault.jpg",
-      "published": "2026-05-24T02:04:33+00:00"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "Como a arte guarani ergueu um patrimônio cultural no RS | 400 anos das Missões | Episódio 4",
-      "videoId": "RnP9eB2GMdY",
-      "url": "https://www.youtube.com/watch?v=RnP9eB2GMdY",
-      "thumbnail": "https://img.youtube.com/vi/RnP9eB2GMdY/mqdefault.jpg",
-      "published": "2026-05-24T16:30:12+00:00"
+      "title": "GRÊMIO VENCE E SE AFASTA DO Z4 | INTER PERDE PRO VITÓRIA FORA DE CASA | ESPORTES AO MEIO-DIA | 24/05",
+      "videoId": "zE50vjU6lsk",
+      "url": "https://www.youtube.com/watch?v=zE50vjU6lsk",
+      "thumbnail": "https://img.youtube.com/vi/zE50vjU6lsk/mqdefault.jpg",
+      "published": "2026-05-24T16:53:25+00:00"
     },
     {
       "channel": "GZH Digital",
