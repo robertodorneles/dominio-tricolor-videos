@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-24T00:01:06.872932+00:00",
+  "updated_at": "2026-05-24T00:15:56.958144+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE PAULO PEZZOLANO - TREINADOR DO INTER | VITÓRIA 2 X 0 INTER | BRASILEIRÃO | 23/05/2025",
+      "videoId": "0e2gmlBNjP4",
+      "url": "https://www.youtube.com/watch?v=0e2gmlBNjP4",
+      "thumbnail": "https://img.youtube.com/vi/0e2gmlBNjP4/mqdefault.jpg",
+      "published": "2026-05-24T00:12:24+00:00"
+    },
     {
       "channel": "Radio Grenal",
       "title": "GOLS DE VITÓRIA 2 X 0 INTER | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | 23/03/2026 | RÁDIO GRENAL",
@@ -43,14 +51,6 @@
       "published": "2026-05-23T18:16:52+00:00"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "4 JOGADORES QUE VÃO JOGAR A SUA ÚLTIMA COPA DO MUNDO! | NEYMAR, CR7, MESSI E OUTROS",
-      "videoId": "Fr3et3bsCJw",
-      "url": "https://www.youtube.com/watch?v=Fr3et3bsCJw",
-      "thumbnail": "https://img.youtube.com/vi/Fr3et3bsCJw/mqdefault.jpg",
-      "published": "2026-05-23T16:03:06+00:00"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "Grêmio x Santos: dia de decisão na Arena e suspense na escalação",
       "videoId": "rcFxU38SpQQ",
@@ -65,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=U_Iq1swnyRA",
       "thumbnail": "https://img.youtube.com/vi/U_Iq1swnyRA/mqdefault.jpg",
       "published": "2026-05-23T15:30:32+00:00"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO DA ARENA | GRÊMIO 3 X 2 SANTOS | VITÓRIA 2 X 0 INTER | CAMPEONATO BRASILEIRO | 23/05/2026",
-      "videoId": "rorujn7bAeA",
-      "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
-      "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
-      "published": "2026-05-23T15:16:14+00:00"
     },
     {
       "channel": "Duda Garbi",
@@ -185,6 +177,14 @@
       "url": "https://www.youtube.com/watch?v=rqSMQ33leT0",
       "thumbnail": "https://img.youtube.com/vi/rqSMQ33leT0/mqdefault.jpg",
       "published": "2026-05-22T15:30:10+00:00"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x SANTOS - BRASILEIRÃO 2026 | COLETIVAS | 23/05/26 #20",
+      "videoId": "1kvwnp8FSXY",
+      "url": "https://www.youtube.com/watch?v=1kvwnp8FSXY",
+      "thumbnail": "https://img.youtube.com/vi/1kvwnp8FSXY/mqdefault.jpg",
+      "published": "2026-05-22T11:23:55+00:00"
     },
     {
       "channel": "LH Benfica",
