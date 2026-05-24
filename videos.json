@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-24T19:01:20.221808+00:00",
+  "updated_at": "2026-05-24T20:01:19.229781+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Tetê e a nova oportunidade no time | Virada de chave imediata? | Os planos da Copa",
+      "videoId": "HxDonZrp5x4",
+      "url": "https://www.youtube.com/watch?v=HxDonZrp5x4",
+      "thumbnail": "https://img.youtube.com/vi/HxDonZrp5x4/mqdefault.jpg",
+      "published": "2026-05-24T19:56:57+00:00"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️Diário do Inter KTO: 💣 BOMBA SOBRE BORRÉ | PEZZOLANO NÃO ACREDITOU | TABELA PREOCUPA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=nRHvqRR0cXE",
       "thumbnail": "https://img.youtube.com/vi/nRHvqRR0cXE/mqdefault.jpg",
       "published": "2026-05-24T09:31:37+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Virada muda tudo | Tetê responde | Arthur quer ficar",
-      "videoId": "L-tmzJUX7gw",
-      "url": "https://www.youtube.com/watch?v=L-tmzJUX7gw",
-      "thumbnail": "https://img.youtube.com/vi/L-tmzJUX7gw/mqdefault.jpg",
-      "published": "2026-05-24T06:00:15+00:00"
     },
     {
       "channel": "Bage TV",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA |  COMO FICA A TABELA",
+      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA | COMO FICA A TABELA",
       "videoId": "9hhCux_cT28",
       "url": "https://www.youtube.com/watch?v=9hhCux_cT28",
       "thumbnail": "https://img.youtube.com/vi/9hhCux_cT28/mqdefault.jpg",
