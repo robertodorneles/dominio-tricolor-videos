@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T13:01:14.190615+00:00",
-  "total": 29,
+  "updated_at": "2026-05-24T14:01:08.929978+00:00",
+  "total": 27,
   "videos": [
     {
       "channel": "A Dupla",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO FEMININO PREPARADO PARA ENFRENTAR O JUVENTUDE NA SERRA",
+      "videoId": "yXcc57iu5hk",
+      "url": "https://www.youtube.com/watch?v=yXcc57iu5hk",
+      "thumbnail": "https://img.youtube.com/vi/yXcc57iu5hk/mqdefault.jpg",
+      "published": "2026-05-24T13:00:25+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X SANTOS + COLETIVA PÓS-JOGO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "TfxD39Ap9ag",
       "url": "https://www.youtube.com/watch?v=TfxD39Ap9ag",
       "thumbnail": "https://img.youtube.com/vi/TfxD39Ap9ag/mqdefault.jpg",
       "published": "2026-05-24T02:04:33+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GOLS | GRÊMIO 3x2 SANTOS (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "SWSQpuid68I",
-      "url": "https://www.youtube.com/watch?v=SWSQpuid68I",
-      "thumbnail": "https://img.youtube.com/vi/SWSQpuid68I/mqdefault.jpg",
-      "published": "2026-05-24T01:29:27+00:00"
     },
     {
       "channel": "GZH Digital",
@@ -172,11 +172,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "GRÊMIO 3x2 SANTOS | BRASILEIRÃO | JORNADA DIGITAL | 23/05/2026",
-      "videoId": "jQe47CDn-Ws",
-      "url": "https://www.youtube.com/watch?v=jQe47CDn-Ws",
-      "thumbnail": "https://img.youtube.com/vi/jQe47CDn-Ws/mqdefault.jpg",
-      "published": "2026-05-24T02:14:40+00:00"
+      "title": "SORTEIO DA MEGA SENA 30 ANOS AO VIVO | Plantão Gaúcha | 24/05/2026",
+      "videoId": "Od_Fm4YXUHE",
+      "url": "https://www.youtube.com/watch?v=Od_Fm4YXUHE",
+      "thumbnail": "https://img.youtube.com/vi/Od_Fm4YXUHE/mqdefault.jpg",
+      "published": "2026-05-23T18:29:24+00:00"
     },
     {
       "channel": "Jeremias Wernek",
@@ -217,22 +217,6 @@
       "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
       "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
       "published": "2026-05-24T02:57:37+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA |  COMO FICA A TABELA",
-      "videoId": "9hhCux_cT28",
-      "url": "https://www.youtube.com/watch?v=9hhCux_cT28",
-      "thumbnail": "https://img.youtube.com/vi/9hhCux_cT28/mqdefault.jpg",
-      "published": "2026-05-24T02:44:04+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (3) X (2) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
-      "videoId": "qEqTDxLJOp8",
-      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
-      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
-      "published": "2026-05-24T01:49:37+00:00"
     }
   ]
 }
