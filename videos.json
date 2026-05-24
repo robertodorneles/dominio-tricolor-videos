@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T14:01:08.929978+00:00",
-  "total": 27,
+  "updated_at": "2026-05-24T15:01:22.347477+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨JUVENTUS RESPONDE SOBRE ARTHUR | BASTIDOR REVELADO | A ANÁLISE DOS NÚMEROS DE LUÍS CASTRO NO GRÊMIO",
+      "videoId": "NoGlS0KK-Ps",
+      "url": "https://www.youtube.com/watch?v=NoGlS0KK-Ps",
+      "thumbnail": "https://img.youtube.com/vi/NoGlS0KK-Ps/mqdefault.jpg",
+      "published": "2026-05-24T14:42:34+00:00"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨TEMOS UM “NOVO” REFORÇO! CHORA, GABIGOL! GRANDE VITÓRIA DO GRÊMIO! OS DESTAQUES! O INTER PERDEU!",
       "videoId": "LbFa0L86QOE",
       "url": "https://www.youtube.com/watch?v=LbFa0L86QOE",
       "thumbnail": "https://img.youtube.com/vi/LbFa0L86QOE/mqdefault.jpg",
       "published": "2026-05-24T01:25:42+00:00"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ESTRELA SE APROXIMANDO DO GRÊMIO? | E THIAGO SILVA, SERIA UMA BOA? | O TIME PRO JOGO DE HOJE!",
-      "videoId": "kDwxzXXGNq0",
-      "url": "https://www.youtube.com/watch?v=kDwxzXXGNq0",
-      "thumbnail": "https://img.youtube.com/vi/kDwxzXXGNq0/mqdefault.jpg",
-      "published": "2026-05-23T13:51:36+00:00"
     },
     {
       "channel": "Canal do CCD",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Arthur falou sobre conversa com a Juventus | Ameaça do River Plate e posição do Grêmio",
+      "videoId": "Gx7X5v54iok",
+      "url": "https://www.youtube.com/watch?v=Gx7X5v54iok",
+      "thumbnail": "https://img.youtube.com/vi/Gx7X5v54iok/mqdefault.jpg",
+      "published": "2026-05-24T14:48:18+00:00"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Grêmio x Santos | Arthur | O que Felipão falou sobre Ronaldinho",
       "videoId": "1GzICc4xLsQ",
       "url": "https://www.youtube.com/watch?v=1GzICc4xLsQ",
       "thumbnail": "https://img.youtube.com/vi/1GzICc4xLsQ/mqdefault.jpg",
       "published": "2026-05-23T14:12:37+00:00"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Vitória x Inter | Rochet fora | Média de público da dupla Gre-Nal: quem está na frente?",
-      "videoId": "fSi6RAU-xx8",
-      "url": "https://www.youtube.com/watch?v=fSi6RAU-xx8",
-      "thumbnail": "https://img.youtube.com/vi/fSi6RAU-xx8/mqdefault.jpg",
-      "published": "2026-05-23T12:14:36+00:00"
     },
     {
       "channel": "Careca de Saber TV",
@@ -217,6 +217,22 @@
       "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
       "thumbnail": "https://img.youtube.com/vi/rorujn7bAeA/mqdefault.jpg",
       "published": "2026-05-24T02:57:37+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA |  COMO FICA A TABELA",
+      "videoId": "9hhCux_cT28",
+      "url": "https://www.youtube.com/watch?v=9hhCux_cT28",
+      "thumbnail": "https://img.youtube.com/vi/9hhCux_cT28/mqdefault.jpg",
+      "published": "2026-05-24T14:13:57+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | GRÊMIO (3) X (2) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "qEqTDxLJOp8",
+      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
+      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
+      "published": "2026-05-24T01:49:37+00:00"
     }
   ]
 }
