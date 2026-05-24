@@ -5,26 +5,27 @@ import requests
 import re
 
 CHANNELS = [
-    {'name': 'Bage TV',               'handle': '@BageTvOficial'},
-    {'name': 'Canal do CCD',          'handle': '@cesarcidadedias'},
-    {'name': 'Careca de Saber TV',    'handle': '@carecadesabertv'},
-    {'name': 'GremioTV Oficial',      'handle': '@Gremio'},
-    {'name': 'Canal do Gabardo',      'handle': '@CanaldoGabardo'},
-    {'name': 'Radio Imortal',         'handle': '@rdimortal'},
-    {'name': 'MDV Futebol',           'channel_id': 'UCbaLsDyl0cehhUvlycX7Mxw'},
     {'name': 'A Dupla',               'handle': '@ADuplaYT'},
+    {'name': 'Bage TV',               'handle': '@BageTvOficial'},
     {'name': 'Bruno Soares Reporter', 'handle': '@BrunoSoaresReporter'},
+    {'name': 'Canal do CCD',          'handle': '@cesarcidadedias'},
     {'name': 'Canal do Farid',        'handle': '@CanaldoFarid'},
+    {'name': 'Canal do Gabardo',      'handle': '@CanaldoGabardo'},
+    {'name': 'Careca de Saber TV',    'handle': '@carecadesabertv'},
     {'name': 'Diogo Rossi Reporter',  'handle': '@DiogoRossiReporter'},
-    {'name': 'Radio Grenal',          'handle': '@RadioGrenal'},
+    {'name': 'Duda Garbi',            'handle': '@dudagarbi'},
+    {'name': 'GremioTV Oficial',      'handle': '@Gremio'},
+    {'name': 'GZH Digital',           'handle': '@gzhdigital'},
     {'name': 'Jeremias Wernek',       'handle': '@JeremiasWernek'},
     {'name': 'LH Benfica',            'handle': '@lhbenfica'},
-    {'name': 'Duda Garbi',            'handle': '@dudagarbi'},
+    {'name': 'MDV Futebol',           'channel_id': 'UCbaLsDyl0cehhUvlycX7Mxw'},
+    {'name': 'Radio Grenal',          'handle': '@RadioGrenal'},
+    {'name': 'Radio Imortal',         'handle': '@rdimortal'},
 ]
 
-RSS_BASE       = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
+RSS_BASE = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
 VIDEOS_TARGET  = 2
-FETCH_EXTRA    = 10  # busca mais para compensar os shorts filtrados
+FETCH_EXTRA    = 10
 OUTPUT_FILE    = 'videos.json'
 SESSION        = requests.Session()
 SESSION.headers.update({'User-Agent': 'Mozilla/5.0'})
@@ -46,10 +47,8 @@ def resolve_handle(handle):
 
 
 def is_short(video_id):
-    url = 'https://www.youtube.com/shorts/' + video_id
     try:
-        r = SESSION.head(url, timeout=8, allow_redirects=True)
-        # Se a URL final ainda contem /shorts/ eh um short
+        r = SESSION.head('https://www.youtube.com/shorts/' + video_id, timeout=8, allow_redirects=True)
         return '/shorts/' in r.url
     except Exception:
         return False
@@ -84,13 +83,11 @@ def fetch(ch):
     except Exception as e:
         print('[ERRO]', name, str(e))
         return []
-
     videos = []
     for entry in feed.entries[:FETCH_EXTRA]:
         vid = entry.get('yt_videoid', '')
         if not vid:
             continue
-        # Filtra Shorts
         if is_short(vid):
             print('[SHORT]', vid, 'ignorado')
             continue
@@ -104,23 +101,22 @@ def fetch(ch):
         })
         if len(videos) >= VIDEOS_TARGET:
             break
-
     print('[OK]  ', name + ':', len(videos), 'video(s)')
     return videos
 
 
 def main():
     all_videos = []
+    # CHANNELS jÃ¡ estÃ¡ em ordem alfabÃ©tica â€” processa nessa ordem
     for ch in CHANNELS:
         all_videos.extend(fetch(ch))
 
-    def dt(v):
-        try:
-            return datetime.fromisoformat(v['published'].replace('Z', '+00:00'))
-        except Exception:
-            return datetime.min.replace(tzinfo=timezone.utc)
+    # Ordena por canal (alfabÃ©tico) e dentro de cada canal por data (mais recente primeiro)
+    all_videos.sort(key=lambda v: (
+        v['channel'].lower(),
+        -(datetime.fromisoformat(v['published'].replace('Z', '+00:00')) if v['published'] else datetime.min.replace(tzinfo=timezone.utc)).timestamp()
+    ))
 
-    all_videos.sort(key=dt, reverse=True)
     out = {
         'updated_at': datetime.now(timezone.utc).isoformat(),
         'total': len(all_videos),
