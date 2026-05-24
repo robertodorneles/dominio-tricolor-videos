@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-24T09:11:25.561828+00:00",
+  "updated_at": "2026-05-24T10:01:02.275842+00:00",
   "total": 27,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️Diário do Inter KTO: 💣 BOMBA SOBRE BORRÉ | PEZZOLANO NÃO ACREDITOU | TABELA PREOCUPA",
+      "videoId": "nRHvqRR0cXE",
+      "url": "https://www.youtube.com/watch?v=nRHvqRR0cXE",
+      "thumbnail": "https://img.youtube.com/vi/nRHvqRR0cXE/mqdefault.jpg",
+      "published": "2026-05-24T09:31:37+00:00"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: Virada muda tudo | Tetê responde | Arthur quer ficar",
@@ -113,14 +121,6 @@
       "url": "https://www.youtube.com/watch?v=fZ_zOj7b0KY",
       "thumbnail": "https://img.youtube.com/vi/fZ_zOj7b0KY/mqdefault.jpg",
       "published": "2026-05-24T00:50:37+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 3x2 Santos: TIME MOSTROU RAÇA! | VIRADA ABSURDA | ARTHUR DECISIVO",
-      "videoId": "aD2g19uhU14",
-      "url": "https://www.youtube.com/watch?v=aD2g19uhU14",
-      "thumbnail": "https://img.youtube.com/vi/aD2g19uhU14/mqdefault.jpg",
-      "published": "2026-05-24T00:42:35+00:00"
     },
     {
       "channel": "Bage TV",
