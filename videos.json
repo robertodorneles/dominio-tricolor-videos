@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T01:01:18.695994+00:00",
+  "updated_at": "2026-05-25T02:01:20.382256+00:00",
   "total": 29,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GRÊMIO 3x2 SANTOS (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "aoNHjZ7nd50",
+      "url": "https://www.youtube.com/watch?v=aoNHjZ7nd50",
+      "thumbnail": "https://img.youtube.com/vi/aoNHjZ7nd50/mqdefault.jpg",
+      "published": "2026-05-25T01:11:34+00:00"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO | JUVENTUDE 1 X 1 GRÊMIO (BRASILEIRÃO FEMININO A1)",
       "videoId": "zfWvPUOMyVU",
       "url": "https://www.youtube.com/watch?v=zfWvPUOMyVU",
       "thumbnail": "https://img.youtube.com/vi/zfWvPUOMyVU/mqdefault.jpg",
       "published": "2026-05-24T21:31:05+00:00"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GOLS | JUVENTUDE 1 X 1 GRÊMIO (BRASILEIRÃO FEMININO A1)",
-      "videoId": "YXcVDOGB4zs",
-      "url": "https://www.youtube.com/watch?v=YXcVDOGB4zs",
-      "thumbnail": "https://img.youtube.com/vi/YXcVDOGB4zs/mqdefault.jpg",
-      "published": "2026-05-24T21:20:49+00:00"
     },
     {
       "channel": "GZH Digital",
