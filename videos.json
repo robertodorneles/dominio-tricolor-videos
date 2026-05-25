@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-24T23:01:32.615299+00:00",
+  "updated_at": "2026-05-25T00:01:31.543850+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: VEJA O QUE POUCOS ENTENDERAM | ELE FEZ O CERTO | DE QUEM FOI A CULPA?",
+      "videoId": "nV16G8QDsEM",
+      "url": "https://www.youtube.com/watch?v=nV16G8QDsEM",
+      "thumbnail": "https://img.youtube.com/vi/nV16G8QDsEM/mqdefault.jpg",
+      "published": "2026-05-24T22:56:41+00:00"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Tetê e a nova oportunidade no time | Virada de chave imediata? | Os planos da Copa",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=HxDonZrp5x4",
       "thumbnail": "https://img.youtube.com/vi/HxDonZrp5x4/mqdefault.jpg",
       "published": "2026-05-24T19:56:57+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️Diário do Inter KTO: 💣 BOMBA SOBRE BORRÉ | PEZZOLANO NÃO ACREDITOU | TABELA PREOCUPA",
-      "videoId": "nRHvqRR0cXE",
-      "url": "https://www.youtube.com/watch?v=nRHvqRR0cXE",
-      "thumbnail": "https://img.youtube.com/vi/nRHvqRR0cXE/mqdefault.jpg",
-      "published": "2026-05-24T09:31:37+00:00"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO VAI MUDAR! | TEM DINHEIRO: PROPOSTA POR ARTHUR?",
+      "videoId": "h6NTdIYeYbA",
+      "url": "https://www.youtube.com/watch?v=h6NTdIYeYbA",
+      "thumbnail": "https://img.youtube.com/vi/h6NTdIYeYbA/mqdefault.jpg",
+      "published": "2026-05-24T23:44:43+00:00"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO GANHOU! | PUXÃO DE ORELHA? | O DEU CERTO E ERRADO! | COMENTÁRIO GRÊMIO 3X2 SANTOS",
       "videoId": "TR5DzjFDWQc",
       "url": "https://www.youtube.com/watch?v=TR5DzjFDWQc",
       "thumbnail": "https://img.youtube.com/vi/TR5DzjFDWQc/mqdefault.jpg",
       "published": "2026-05-24T01:53:49+00:00"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X  SANTOS | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "fvhisAz6EX4",
-      "url": "https://www.youtube.com/watch?v=fvhisAz6EX4",
-      "thumbnail": "https://img.youtube.com/vi/fvhisAz6EX4/mqdefault.jpg",
-      "published": "2026-05-24T01:20:46+00:00"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "JUVENTUDE 1x1 GRÊMIO | BRASILEIRÃO FEMININO | JORNADA DIGITAL | 24/05/2026",
-      "videoId": "a0xGIJE_nck",
-      "url": "https://www.youtube.com/watch?v=a0xGIJE_nck",
-      "thumbnail": "https://img.youtube.com/vi/a0xGIJE_nck/mqdefault.jpg",
-      "published": "2026-05-24T22:10:38+00:00"
+      "title": "ARTHUR E TETÊ ESTREARAM NA TEMPORADA? | O QUE DEU ERRADO PRO INTER | SEGUE O FIO | 25/05/2026",
+      "videoId": "_jImk-li8tA",
+      "url": "https://www.youtube.com/watch?v=_jImk-li8tA",
+      "thumbnail": "https://img.youtube.com/vi/_jImk-li8tA/mqdefault.jpg",
+      "published": "2026-05-24T23:33:42+00:00"
     },
     {
       "channel": "GZH Digital",
-      "title": "SALA AVALIA A VITÓRIA DO GRÊMIO E A DERROTA DO INTER PELO BRASILEIRÃO | SALA DE DOMINGO | 24/05/26",
-      "videoId": "sifV0Qb1bcI",
-      "url": "https://www.youtube.com/watch?v=sifV0Qb1bcI",
-      "thumbnail": "https://img.youtube.com/vi/sifV0Qb1bcI/mqdefault.jpg",
-      "published": "2026-05-24T17:48:05+00:00"
+      "title": "GRÊMIO VENCE EM CASA E INTER PERDE FORA | DEBATE SOBRE LUÍS CASTRO x PEZZOLANO | BATE-BOLA | 24/5/26",
+      "videoId": "6YReJ_Gv94Y",
+      "url": "https://www.youtube.com/watch?v=6YReJ_Gv94Y",
+      "thumbnail": "https://img.youtube.com/vi/6YReJ_Gv94Y/mqdefault.jpg",
+      "published": "2026-05-24T23:31:59+00:00"
     },
     {
       "channel": "Jeremias Wernek",
