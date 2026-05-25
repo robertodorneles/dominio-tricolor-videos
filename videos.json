@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T15:01:35.450169+00:00",
+  "updated_at": "2026-05-25T16:01:28.632655+00:00",
   "total": 29,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Como eram as primeiras cidades do Rio Grande do Sul | Aconteceu no RS",
-      "videoId": "Ls8aO2_qt08",
-      "url": "https://www.youtube.com/watch?v=Ls8aO2_qt08",
-      "thumbnail": "https://img.youtube.com/vi/Ls8aO2_qt08/mqdefault.jpg",
-      "published": "2026-05-25T14:59:06+00:00"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Últimas notícias, previsão do tempo, trânsito, dupla Gre-Nal e mais | Chamada Geral 1 | 25/05/26",
       "videoId": "c0SEq3Gpz-o",
       "url": "https://www.youtube.com/watch?v=c0SEq3Gpz-o",
       "thumbnail": "https://img.youtube.com/vi/c0SEq3Gpz-o/mqdefault.jpg",
-      "published": "2026-05-25T07:39:34+00:00"
+      "published": "2026-05-25T15:46:40+00:00"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "RETORNOS NO GRÊMIO CONTRA O TORQUE | MUDANÇAS DE PEZZOLANO NO INTER | ESPORTES AO MEIO-DIA | 25/5/26",
+      "videoId": "yxX9ihYzupw",
+      "url": "https://www.youtube.com/watch?v=yxX9ihYzupw",
+      "thumbnail": "https://img.youtube.com/vi/yxX9ihYzupw/mqdefault.jpg",
+      "published": "2026-05-25T14:47:06+00:00"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,19 +220,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #77 — GRÊMIO SE REAPRESENTA PARA JOGO DECISIVO NA SUL-AMERICANA",
+      "videoId": "1C2g8_r4HZc",
+      "url": "https://www.youtube.com/watch?v=1C2g8_r4HZc",
+      "thumbnail": "https://img.youtube.com/vi/1C2g8_r4HZc/mqdefault.jpg",
+      "published": "2026-05-25T15:13:25+00:00"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE E GANHA RESPIRO NA TABELA | NOITE DE REDENÇÃO NA ARENA | AMANHÃ JÁ TEM JOGO | REDAÇÃO",
       "videoId": "rbfj3gjzkVY",
       "url": "https://www.youtube.com/watch?v=rbfj3gjzkVY",
       "thumbnail": "https://img.youtube.com/vi/rbfj3gjzkVY/mqdefault.jpg",
       "published": "2026-05-25T13:49:55+00:00"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #77 — GRÊMIO SE REAPRESENTA PARA JOGO DECISIVO NA SUL-AMERICANA",
-      "videoId": "1C2g8_r4HZc",
-      "url": "https://www.youtube.com/watch?v=1C2g8_r4HZc",
-      "thumbnail": "https://img.youtube.com/vi/1C2g8_r4HZc/mqdefault.jpg",
-      "published": "2026-05-25T00:09:58+00:00"
     }
   ]
 }
