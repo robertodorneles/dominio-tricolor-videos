@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-25T00:01:31.543850+00:00",
+  "updated_at": "2026-05-25T01:01:18.695994+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: O GRÊMIO RESPIRA ALIVIADO E O INTER SOFRE PELA DERROTA!!!",
+      "videoId": "QCOTBr-Nubw",
+      "url": "https://www.youtube.com/watch?v=QCOTBr-Nubw",
+      "thumbnail": "https://img.youtube.com/vi/QCOTBr-Nubw/mqdefault.jpg",
+      "published": "2026-05-25T00:42:56+00:00"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: VEJA O QUE POUCOS ENTENDERAM | ELE FEZ O CERTO | DE QUEM FOI A CULPA?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=nV16G8QDsEM",
       "thumbnail": "https://img.youtube.com/vi/nV16G8QDsEM/mqdefault.jpg",
       "published": "2026-05-24T22:56:41+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Tetê e a nova oportunidade no time | Virada de chave imediata? | Os planos da Copa",
-      "videoId": "HxDonZrp5x4",
-      "url": "https://www.youtube.com/watch?v=HxDonZrp5x4",
-      "thumbnail": "https://img.youtube.com/vi/HxDonZrp5x4/mqdefault.jpg",
-      "published": "2026-05-24T19:56:57+00:00"
     },
     {
       "channel": "Bage TV",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨JOGADOR CONTATADO E SAÍDA PRÓXIMA | TIME DO GRÊMIO MAIS REFORÇADO CONTRA O TORQUE | CAIO PAULISTA",
+      "videoId": "8QGPFgrTLt4",
+      "url": "https://www.youtube.com/watch?v=8QGPFgrTLt4",
+      "thumbnail": "https://img.youtube.com/vi/8QGPFgrTLt4/mqdefault.jpg",
+      "published": "2026-05-25T00:09:00+00:00"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨JUVENTUS RESPONDE SOBRE ARTHUR | BASTIDOR REVELADO | A ANÁLISE DOS NÚMEROS DE LUÍS CASTRO NO GRÊMIO",
       "videoId": "NoGlS0KK-Ps",
       "url": "https://www.youtube.com/watch?v=NoGlS0KK-Ps",
@@ -43,12 +51,12 @@
       "published": "2026-05-24T14:42:34+00:00"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TEMOS UM “NOVO” REFORÇO! CHORA, GABIGOL! GRANDE VITÓRIA DO GRÊMIO! OS DESTAQUES! O INTER PERDEU!",
-      "videoId": "LbFa0L86QOE",
-      "url": "https://www.youtube.com/watch?v=LbFa0L86QOE",
-      "thumbnail": "https://img.youtube.com/vi/LbFa0L86QOE/mqdefault.jpg",
-      "published": "2026-05-24T01:25:42+00:00"
+      "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - GRÊMIO VENCE O SANTOS | FALTAM DUAS VITÓRIAS",
+      "videoId": "RciBHFEIMcM",
+      "url": "https://www.youtube.com/watch?v=RciBHFEIMcM",
+      "thumbnail": "https://img.youtube.com/vi/RciBHFEIMcM/mqdefault.jpg",
+      "published": "2026-05-25T00:17:06+00:00"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=PP1qjndZmlE",
       "thumbnail": "https://img.youtube.com/vi/PP1qjndZmlE/mqdefault.jpg",
       "published": "2026-05-24T22:01:01+00:00"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - GRÊMIO VENCE O SANTOS | FALTAM DUAS VITÓRIAS",
-      "videoId": "RciBHFEIMcM",
-      "url": "https://www.youtube.com/watch?v=RciBHFEIMcM",
-      "thumbnail": "https://img.youtube.com/vi/RciBHFEIMcM/mqdefault.jpg",
-      "published": "2026-05-24T02:01:24+00:00"
     },
     {
       "channel": "Canal do Farid",
@@ -220,19 +220,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "O GRÊMIO VENCEU! | TETÊ DESENCANTA | CARLOS VINÍCIUS VOLTA À ARTILHARIA | COMO FICA A TABELA",
-      "videoId": "9hhCux_cT28",
-      "url": "https://www.youtube.com/watch?v=9hhCux_cT28",
-      "thumbnail": "https://img.youtube.com/vi/9hhCux_cT28/mqdefault.jpg",
-      "published": "2026-05-24T14:13:57+00:00"
+      "title": "ESPLANADA — 25/05",
+      "videoId": "rvww4KQVKgM",
+      "url": "https://www.youtube.com/watch?v=rvww4KQVKgM",
+      "thumbnail": "https://img.youtube.com/vi/rvww4KQVKgM/mqdefault.jpg",
+      "published": "2026-05-25T00:11:58+00:00"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (3) X (2) SANTOS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
-      "videoId": "qEqTDxLJOp8",
-      "url": "https://www.youtube.com/watch?v=qEqTDxLJOp8",
-      "thumbnail": "https://img.youtube.com/vi/qEqTDxLJOp8/mqdefault.jpg",
-      "published": "2026-05-24T01:49:37+00:00"
+      "title": "TIMELINE IMORTAL #77 — GRÊMIO SE REAPRESENTA PARA JOGO DECISIVO NA SUL-AMERICANA",
+      "videoId": "1C2g8_r4HZc",
+      "url": "https://www.youtube.com/watch?v=1C2g8_r4HZc",
+      "thumbnail": "https://img.youtube.com/vi/1C2g8_r4HZc/mqdefault.jpg",
+      "published": "2026-05-25T00:09:58+00:00"
     }
   ]
 }
