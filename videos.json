@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T18:12:10.508453+00:00",
+  "updated_at": "2026-05-25T19:01:24.352474+00:00",
   "total": 29,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "FESTA NA ARENA! / TERROR NO BARRADÃO! 🔸RESENHA FORA DA SALA🔸#051",
+      "videoId": "AEQuSY2SSwM",
+      "url": "https://www.youtube.com/watch?v=AEQuSY2SSwM",
+      "thumbnail": "https://img.youtube.com/vi/AEQuSY2SSwM/mqdefault.jpg",
+      "published": "2026-05-25T18:49:31+00:00"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔹 THE TARDE 🔹#158",
       "videoId": "vrnqAN0WdVU",
       "url": "https://www.youtube.com/watch?v=vrnqAN0WdVU",
       "thumbnail": "https://img.youtube.com/vi/vrnqAN0WdVU/mqdefault.jpg",
       "published": "2026-05-25T17:42:34+00:00"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "FESTA NA ARENA! / TERROR NO BARRADÃO! 🔸RESENHA FORA DA SALA🔸#051",
-      "videoId": "AEQuSY2SSwM",
-      "url": "https://www.youtube.com/watch?v=AEQuSY2SSwM",
-      "thumbnail": "https://img.youtube.com/vi/AEQuSY2SSwM/mqdefault.jpg",
-      "published": "2026-05-25T16:40:18+00:00"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "AO VIVO  GRÊMIO VS SANTOS  23.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
-      "videoId": "cEto_4b-fwQ",
-      "url": "https://www.youtube.com/watch?v=cEto_4b-fwQ",
-      "thumbnail": "https://img.youtube.com/vi/cEto_4b-fwQ/mqdefault.jpg",
-      "published": "2026-05-24T01:26:01+00:00"
+      "title": "SEMANA DECISIVA - VAMOOO FARIDO 25.05.26",
+      "videoId": "DlFd-fbBVcQ",
+      "url": "https://www.youtube.com/watch?v=DlFd-fbBVcQ",
+      "thumbnail": "https://img.youtube.com/vi/DlFd-fbBVcQ/mqdefault.jpg",
+      "published": "2026-05-25T18:30:26+00:00"
     },
     {
       "channel": "Canal do Farid",
-      "title": "GREMISTAS DE PESO #008",
-      "videoId": "pe-tzFlEu9o",
-      "url": "https://www.youtube.com/watch?v=pe-tzFlEu9o",
-      "thumbnail": "https://img.youtube.com/vi/pe-tzFlEu9o/mqdefault.jpg",
-      "published": "2026-05-23T12:02:43+00:00"
+      "title": "AO VIVO  GRÊMIO VS TORQUE  26.05  SULAMERICANA  2026 — FARID REAGINDO AO JOGO!!!",
+      "videoId": "3ff_vzse-Z0",
+      "url": "https://www.youtube.com/watch?v=3ff_vzse-Z0",
+      "thumbnail": "https://img.youtube.com/vi/3ff_vzse-Z0/mqdefault.jpg",
+      "published": "2026-05-25T18:29:05+00:00"
     },
     {
       "channel": "Canal do Gabardo",
@@ -172,7 +172,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Fim da escala 6x1, incêndio em Flores da Cunha, 60+,  trânsito e mais | Gaúcha+ | 25/05/2026",
+      "title": "Fim da escala 6x1, incêndio em Flores da Cunha, 60+, trânsito e mais | Gaúcha+ | 25/05/2026",
       "videoId": "HP_fSieqJ5A",
       "url": "https://www.youtube.com/watch?v=HP_fSieqJ5A",
       "thumbnail": "https://img.youtube.com/vi/HP_fSieqJ5A/mqdefault.jpg",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #77 — GRÊMIO SE REAPRESENTA PARA JOGO DECISIVO NA SUL-AMERICANA",
-      "videoId": "1C2g8_r4HZc",
-      "url": "https://www.youtube.com/watch?v=1C2g8_r4HZc",
-      "thumbnail": "https://img.youtube.com/vi/1C2g8_r4HZc/mqdefault.jpg",
-      "published": "2026-05-25T15:13:25+00:00"
+      "title": "GRÊMIO VENCE E SE PREPARA PARA DECISÃO NA SUL-AMERICANA | MUITAS DÚVIDAS PARA O TIME | ESPLANADA",
+      "videoId": "rvww4KQVKgM",
+      "url": "https://www.youtube.com/watch?v=rvww4KQVKgM",
+      "thumbnail": "https://img.youtube.com/vi/rvww4KQVKgM/mqdefault.jpg",
+      "published": "2026-05-25T00:11:58+00:00"
     }
   ]
 }
