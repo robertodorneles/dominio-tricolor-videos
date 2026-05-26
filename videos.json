@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-26T19:00:39.497812+00:00",
+  "updated_at": "2026-05-26T19:29:57.794266+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: CONVERSA MARCADA | PRA ONDE VAI? | FORÇANDO A BARRA?",
+      "videoId": "jAIshtfKOOA",
+      "url": "https://www.youtube.com/watch?v=jAIshtfKOOA",
+      "thumbnail": "https://i.ytimg.com/vi/jAIshtfKOOA/mqdefault.jpg",
+      "published": "2026-05-26T19:14:15Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA COMO PAVÓN VIROU PEÇA CHAVE PARA O TIME DE CASTRO | O MELHOR LATERAL DO BRASILEIRÃO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=I7wL5qNf3-A",
       "thumbnail": "https://i.ytimg.com/vi/I7wL5qNf3-A/mqdefault.jpg",
       "published": "2026-05-26T16:30:06Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: NO LIMITE! | AMUZU FORA DA COPA? | DECISÃO TOTAL",
-      "videoId": "lREzf-IwKe0",
-      "url": "https://www.youtube.com/watch?v=lREzf-IwKe0",
-      "thumbnail": "https://i.ytimg.com/vi/lREzf-IwKe0/mqdefault.jpg",
-      "published": "2026-05-26T05:00:30Z"
     },
     {
       "channel": "Bage TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X CITY TORQUE (SUL-AMERICANA 2026)",
+      "videoId": "tMeSV8n7YL4",
+      "url": "https://www.youtube.com/watch?v=tMeSV8n7YL4",
+      "thumbnail": "https://i.ytimg.com/vi/tMeSV8n7YL4/mqdefault_live.jpg",
+      "published": "2026-05-26T19:13:04Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "ANDERSON POLGA: UM CAMPEÃO DO GRÊMIO PARA SELEÇÃO",
       "videoId": "iBQZisg5jgk",
       "url": "https://www.youtube.com/watch?v=iBQZisg5jgk",
       "thumbnail": "https://i.ytimg.com/vi/iBQZisg5jgk/mqdefault.jpg",
       "published": "2026-05-25T17:18:40Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "APOIO DE UM GRUPO UNIDO! #tetê #furacaotete  #aquiégrêmio #futebol #grêmiotv #gremio",
-      "videoId": "b6A7m4OjO1s",
-      "url": "https://www.youtube.com/watch?v=b6A7m4OjO1s",
-      "thumbnail": "https://i.ytimg.com/vi/b6A7m4OjO1s/mqdefault.jpg",
-      "published": "2026-05-25T11:00:21Z"
     },
     {
       "channel": "GZH Digital",
