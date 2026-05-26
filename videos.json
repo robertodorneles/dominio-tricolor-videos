@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T01:13:37.600785+00:00",
-  "total": 2,
+  "updated_at": "2026-05-26T01:35:34.250200+00:00",
+  "total": 4,
   "videos": [
     {
       "channel": "GremioTV Oficial",
@@ -12,11 +12,27 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | GRÊMIO 3x2 SANTOS (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "aoNHjZ7nd50",
-      "url": "https://www.youtube.com/watch?v=aoNHjZ7nd50",
-      "thumbnail": "https://img.youtube.com/vi/aoNHjZ7nd50/mqdefault.jpg",
-      "published": "2026-05-25T01:11:34+00:00"
+      "title": "\"NÓS JAMAIS VAMOS DESISTIR DE NINGUÉM\", WEVERTON.",
+      "videoId": "zJpsJeHhChg",
+      "url": "https://www.youtube.com/watch?v=zJpsJeHhChg",
+      "thumbnail": "https://img.youtube.com/vi/zJpsJeHhChg/mqdefault.jpg",
+      "published": "2026-05-25T14:00:29+00:00"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "Desbloqueei memórias de Copa + o  início de algo novo",
+      "videoId": "p8vhzH7PxuM",
+      "url": "https://www.youtube.com/watch?v=p8vhzH7PxuM",
+      "thumbnail": "https://img.youtube.com/vi/p8vhzH7PxuM/mqdefault.jpg",
+      "published": "2026-05-25T23:00:02+00:00"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "Grêmio recebe proposta milionária da Europa por Viery",
+      "videoId": "f77UvUCDj9o",
+      "url": "https://www.youtube.com/watch?v=f77UvUCDj9o",
+      "thumbnail": "https://img.youtube.com/vi/f77UvUCDj9o/mqdefault.jpg",
+      "published": "2026-05-25T20:08:40+00:00"
     }
   ]
 }
