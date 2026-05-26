@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T20:00:36.109293+00:00",
+  "updated_at": "2026-05-26T21:00:39.442420+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 COPA DO BRASIL FEMININA 🔵 GRÊMIO X INTERNACIONAL",
+      "videoId": "NL1qDxc2pUU",
+      "url": "https://www.youtube.com/watch?v=NL1qDxc2pUU",
+      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault_live.jpg",
+      "published": "2026-05-26T20:12:25Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X TORQUE",
       "videoId": "5c9uKoEOkOA",
       "url": "https://www.youtube.com/watch?v=5c9uKoEOkOA",
       "thumbnail": "https://i.ytimg.com/vi/5c9uKoEOkOA/mqdefault_live.jpg",
       "published": "2026-05-26T18:59:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO: DECISÃO NA SULA! / INTER: CORINGÃO NO CAMINHO! 🔸RESENHA FORA DA SALA🔸#052",
-      "videoId": "TXvgPwJ5gHc",
-      "url": "https://www.youtube.com/watch?v=TXvgPwJ5gHc",
-      "thumbnail": "https://i.ytimg.com/vi/TXvgPwJ5gHc/mqdefault.jpg",
-      "published": "2026-05-26T18:37:43Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "FALHA NO JOGO DO VASCO CRIOU \"TRAUMA\" PARA O GOLEIRO ATÉ HOJE | Cortes do Duda",
-      "videoId": "na3FDPS8dhc",
-      "url": "https://www.youtube.com/watch?v=na3FDPS8dhc",
-      "thumbnail": "https://i.ytimg.com/vi/na3FDPS8dhc/mqdefault.jpg",
-      "published": "2026-05-25T22:45:29Z"
+      "title": "POR QUE LUCANETA NÃO EXPLODIU NA KINGS LEAGUE? | \"BOTARAM TODA CULPA EM MIM\" | Cortes do Duda",
+      "videoId": "Id1OzpYx9QY",
+      "url": "https://www.youtube.com/watch?v=Id1OzpYx9QY",
+      "thumbnail": "https://i.ytimg.com/vi/Id1OzpYx9QY/mqdefault.jpg",
+      "published": "2026-05-26T21:00:21Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "“REALIZEI O SONHO DO MEU PAI” #dudagarbi #umassadopara #feirafc",
-      "videoId": "vL9m8U8gSpU",
-      "url": "https://www.youtube.com/watch?v=vL9m8U8gSpU",
-      "thumbnail": "https://i.ytimg.com/vi/vL9m8U8gSpU/mqdefault.jpg",
-      "published": "2026-05-25T22:30:12Z"
+      "title": "“PERDI MINHA MÃE E FIZ BESTEIRA” #dudagarbi #umassadopara #feirafc",
+      "videoId": "ktLxi3f6B4w",
+      "url": "https://www.youtube.com/watch?v=ktLxi3f6B4w",
+      "thumbnail": "https://i.ytimg.com/vi/ktLxi3f6B4w/mqdefault.jpg",
+      "published": "2026-05-26T21:00:09Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "MICHAEL, ELVIS, FREDDIE MERCURY: quem vence no ranking dos filmes? | Dica do Ticiano",
-      "videoId": "l6eLF9rU5K8",
-      "url": "https://www.youtube.com/watch?v=l6eLF9rU5K8",
-      "thumbnail": "https://i.ytimg.com/vi/l6eLF9rU5K8/mqdefault.jpg",
-      "published": "2026-05-26T20:00:18Z"
+      "title": "Como as Missões Jesuíticas Guaranis originaram o RS | 400 anos das Missões | Episódio 1",
+      "videoId": "FNa6bdg6BHU",
+      "url": "https://www.youtube.com/watch?v=FNa6bdg6BHU",
+      "thumbnail": "https://i.ytimg.com/vi/FNa6bdg6BHU/mqdefault.jpg",
+      "published": "2026-05-26T21:00:04Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "E-mail, IA e marketing: o que realmente funciona hoje | Radar de Inovação",
-      "videoId": "_9yj3Yt8Fq0",
-      "url": "https://www.youtube.com/watch?v=_9yj3Yt8Fq0",
-      "thumbnail": "https://i.ytimg.com/vi/_9yj3Yt8Fq0/mqdefault.jpg",
-      "published": "2026-05-26T19:30:18Z"
+      "title": "Enquanto A ODISSEIA não estreia: RANKING CHRISTOPHER NOLAN, do \"pior\" ao melhor | Dica do Ticiano",
+      "videoId": "h05dGld5ccc",
+      "url": "https://www.youtube.com/watch?v=h05dGld5ccc",
+      "thumbnail": "https://i.ytimg.com/vi/h05dGld5ccc/mqdefault.jpg",
+      "published": "2026-05-26T20:30:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X TORQUE | DIRETO DA ARENA DO GRÊMIO | COPA SUL-AMERICANA 2026",
+      "title": "AO VIVO | GRÊMIO ESCALADO | PRÉ-JOGO GRÊMIO X TORQUE | DIRETO DA ARENA | COPA SUL-AMERICANA 2026",
       "videoId": "sC3Gwc1dguk",
       "url": "https://www.youtube.com/watch?v=sC3Gwc1dguk",
       "thumbnail": "https://i.ytimg.com/vi/sC3Gwc1dguk/mqdefault_live.jpg",
