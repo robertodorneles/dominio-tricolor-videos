@@ -1,128 +1,161 @@
-﻿import feedparser
-import json
+﻿import json
 from datetime import datetime, timezone
 import requests
-import re
+
+API_KEY = "AIzaSyBUDE6b3twtX6-fJzcqYXq4oKr4kSR0ht0"
 
 CHANNELS = [
-    {'name': 'A Dupla',               'handle': '@ADuplaYT'},
-    {'name': 'Bage TV',               'handle': '@BageTvOficial'},
-    {'name': 'Bruno Soares Reporter', 'handle': '@BrunoSoaresReporter'},
-    {'name': 'Canal do CCD',          'handle': '@cesarcidadedias'},
-    {'name': 'Canal do Farid',        'handle': '@CanaldoFarid'},
-    {'name': 'Canal do Gabardo',      'handle': '@CanaldoGabardo'},
-    {'name': 'Careca de Saber TV',    'handle': '@carecadesabertv'},
-    {'name': 'Diogo Rossi Reporter',  'handle': '@DiogoRossiReporter'},
-    {'name': 'Duda Garbi',            'handle': '@dudagarbi'},
-    {'name': 'GremioTV Oficial',      'handle': '@Gremio'},
-    {'name': 'GZH Digital',           'handle': '@gzhdigital'},
-    {'name': 'Jeremias Wernek',       'handle': '@JeremiasWernek'},
-    {'name': 'LH Benfica',            'handle': '@lhbenfica'},
-    {'name': 'MDV Futebol',           'channel_id': 'UCbaLsDyl0cehhUvlycX7Mxw'},
-    {'name': 'Radio Grenal',          'handle': '@RadioGrenal'},
-    {'name': 'Radio Imortal',         'handle': '@rdimortal'},
+    {"name": "A Dupla",               "handle": "@ADuplaYT"},
+    {"name": "Bage TV",               "handle": "@BageTvOficial"},
+    {"name": "Bruno Soares Reporter", "handle": "@BrunoSoaresReporter"},
+    {"name": "Canal do CCD",          "handle": "@cesarcidadedias"},
+    {"name": "Canal do Farid",        "handle": "@CanaldoFarid"},
+    {"name": "Canal do Gabardo",      "handle": "@CanaldoGabardo"},
+    {"name": "Careca de Saber TV",    "handle": "@carecadesabertv"},
+    {"name": "Diogo Rossi Reporter",  "handle": "@DiogoRossiReporter"},
+    {"name": "Duda Garbi",            "handle": "@dudagarbi"},
+    {"name": "GremioTV Oficial",      "handle": "@Gremio"},
+    {"name": "GZH Digital",           "handle": "@gzhdigital"},
+    {"name": "Jeremias Wernek",       "handle": "@JeremiasWernek"},
+    {"name": "LH Benfica",            "handle": "@lhbenfica"},
+    {"name": "MDV Futebol",           "channel_id": "UCbaLsDyl0cehhUvlycX7Mxw"},
+    {"name": "Radio Grenal",          "handle": "@RadioGrenal"},
+    {"name": "Radio Imortal",         "handle": "@rdimortal"},
 ]
 
-RSS_BASE      = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
 VIDEOS_TARGET = 2
-FETCH_EXTRA   = 8
-OUTPUT_FILE   = 'videos.json'
+OUTPUT_FILE   = "videos.json"
 SESSION       = requests.Session()
-SESSION.headers.update({'User-Agent': 'Mozilla/5.0'})
 
 
-def resolve_handle(handle):
+def get_channel_id(handle):
+    """Resolve handle para channel_id via YouTube API."""
+    username = handle.lstrip("@")
+    url = "https://www.googleapis.com/youtube/v3/channels"
+    params = {"part": "id", "forHandle": handle, "key": API_KEY}
     try:
-        r = SESSION.get('https://www.youtube.com/' + handle, timeout=15)
-        r.encoding = 'utf-8'
-        m = re.search(r'"externalId":"(UC[\w-]{22})"', r.text)
-        if m:
-            return m.group(1)
-        m = re.search(r'youtube\.com/channel/(UC[\w-]{22})', r.text)
-        if m:
-            return m.group(1)
+        r = SESSION.get(url, params=params, timeout=15)
+        data = r.json()
+        items = data.get("items", [])
+        if items:
+            return items[0]["id"]
     except Exception as e:
-        print('[WARN]', handle, str(e))
+        print("[WARN] handle", handle, str(e))
     return None
 
 
-def is_short_by_duration(entry):
-    """
-    Verifica se e um Short pela duracao no RSS (yt:duration).
-    Shorts tem duracao <= 60 segundos.
-    Se nao houver info de duracao, nao filtra.
-    """
+def get_uploads_playlist(channel_id):
+    """Pega o ID da playlist de uploads do canal."""
+    url = "https://www.googleapis.com/youtube/v3/channels"
+    params = {"part": "contentDetails", "id": channel_id, "key": API_KEY}
     try:
-        duration = entry.get('yt_duration', {})
-        if hasattr(duration, 'get'):
-            seconds = int(duration.get('seconds', 999))
-            return seconds <= 60
-        # Tenta acessar como string ISO 8601 (PT30S, PT1M, etc)
-        dur_str = str(duration)
-        m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', dur_str)
-        if m:
-            h = int(m.group(1) or 0)
-            mn = int(m.group(2) or 0)
-            s = int(m.group(3) or 0)
-            total = h*3600 + mn*60 + s
-            return total > 0 and total <= 60
-    except Exception:
-        pass
-    return False
-
-
-def safe(v):
-    if not isinstance(v, str):
-        return str(v)
-    try:
-        return v.encode('latin-1').decode('utf-8')
-    except Exception:
-        return v
-
-
-def fetch(ch):
-    cid = ch.get('channel_id')
-    name = ch['name']
-    if not cid:
-        handle = ch.get('handle', '')
-        print('[INFO] Resolvendo', name, handle)
-        cid = resolve_handle(handle)
-        if cid:
-            ch['channel_id'] = cid
-            print('[OK]  ', name, '->', cid)
-        else:
-            print('[SKIP]', name)
-            return []
-    try:
-        r = SESSION.get(RSS_BASE.format(cid), timeout=15)
-        r.encoding = 'utf-8'
-        feed = feedparser.parse(r.text)
+        r = SESSION.get(url, params=params, timeout=15)
+        data = r.json()
+        items = data.get("items", [])
+        if items:
+            return items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
     except Exception as e:
-        print('[ERRO]', name, str(e))
+        print("[WARN] uploads playlist", channel_id, str(e))
+    return None
+
+
+def get_videos(playlist_id, name):
+    """Busca ultimos videos da playlist de uploads, filtrando Shorts."""
+    url = "https://www.googleapis.com/youtube/v3/playlistItems"
+    params = {
+        "part": "snippet,contentDetails",
+        "playlistId": playlist_id,
+        "maxResults": 10,
+        "key": API_KEY,
+    }
+    try:
+        r = SESSION.get(url, params=params, timeout=15)
+        data = r.json()
+        items = data.get("items", [])
+    except Exception as e:
+        print("[ERRO]", name, str(e))
         return []
 
+    if not items:
+        return []
+
+    # Pega IDs dos videos para verificar duracao
+    video_ids = [i["contentDetails"]["videoId"] for i in items]
+
+    # Busca duracoes
+    dur_url = "https://www.googleapis.com/youtube/v3/videos"
+    dur_params = {
+        "part": "contentDetails",
+        "id": ",".join(video_ids),
+        "key": API_KEY,
+    }
+    durations = {}
+    try:
+        dr = SESSION.get(dur_url, params=dur_params, timeout=15)
+        for v in dr.json().get("items", []):
+            import re
+            dur = v["contentDetails"]["duration"]  # ex: PT1M30S
+            m = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", dur)
+            if m:
+                h = int(m.group(1) or 0)
+                mn = int(m.group(2) or 0)
+                s = int(m.group(3) or 0)
+                durations[v["id"]] = h * 3600 + mn * 60 + s
+    except Exception as e:
+        print("[WARN] durations", str(e))
+
     videos = []
-    for entry in feed.entries[:FETCH_EXTRA]:
-        vid = entry.get('yt_videoid', '')
-        if not vid:
+    for item in items:
+        vid = item["contentDetails"]["videoId"]
+        secs = durations.get(vid, 999)
+        # Filtra Shorts (<=60s)
+        if secs > 0 and secs <= 60:
+            print("[SHORT]", vid, "ignorado")
             continue
-        # Filtra Shorts pela duracao (sem requisicao HTTP extra)
-        if is_short_by_duration(entry):
-            print('[SHORT]', vid, 'ignorado')
-            continue
+        snippet = item["snippet"]
+        title = snippet.get("title", "")
+        published = snippet.get("publishedAt", "")
+        thumbnail = (
+            snippet.get("thumbnails", {})
+            .get("medium", {})
+            .get("url", f"https://img.youtube.com/vi/{vid}/mqdefault.jpg")
+        )
         videos.append({
-            'channel':   safe(name),
-            'title':     safe(entry.get('title', '')),
-            'videoId':   vid,
-            'url':       'https://www.youtube.com/watch?v=' + vid,
-            'thumbnail': 'https://img.youtube.com/vi/' + vid + '/mqdefault.jpg',
-            'published': entry.get('published', ''),
+            "channel":   name,
+            "title":     title,
+            "videoId":   vid,
+            "url":       "https://www.youtube.com/watch?v=" + vid,
+            "thumbnail": thumbnail,
+            "published": published,
         })
         if len(videos) >= VIDEOS_TARGET:
             break
 
-    print('[OK]  ', name + ':', len(videos), 'video(s)')
+    print(f"[OK]   {name}: {len(videos)} video(s)")
     return videos
+
+
+def fetch(ch):
+    name = ch["name"]
+    cid = ch.get("channel_id")
+
+    if not cid:
+        handle = ch.get("handle", "")
+        print(f"[INFO] Resolvendo {name} {handle}")
+        cid = get_channel_id(handle)
+        if cid:
+            ch["channel_id"] = cid
+            print(f"[OK]   {name} -> {cid}")
+        else:
+            print(f"[SKIP] {name}")
+            return []
+
+    playlist_id = get_uploads_playlist(cid)
+    if not playlist_id:
+        print(f"[ERRO] Playlist nao encontrada para {name}")
+        return []
+
+    return get_videos(playlist_id, name)
 
 
 def main():
@@ -130,21 +163,22 @@ def main():
     for ch in CHANNELS:
         all_videos.extend(fetch(ch))
 
+    # Ordena por canal alfabetico e data mais recente
     all_videos.sort(key=lambda v: (
-        v['channel'].lower(),
-        -(datetime.fromisoformat(v['published'].replace('Z', '+00:00')).timestamp() if v['published'] else 0)
+        v["channel"].lower(),
+        -(datetime.fromisoformat(v["published"].replace("Z", "+00:00")).timestamp() if v["published"] else 0)
     ))
 
     out = {
-        'updated_at': datetime.now(timezone.utc).isoformat(),
-        'total': len(all_videos),
-        'videos': all_videos,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "total": len(all_videos),
+        "videos": all_videos,
     }
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print('OK', len(all_videos), 'videos salvos em', OUTPUT_FILE)
+    print(f"\nOK {len(all_videos)} videos salvos em {OUTPUT_FILE}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
 
