@@ -23,11 +23,11 @@ CHANNELS = [
     {'name': 'Radio Imortal',         'handle': '@rdimortal'},
 ]
 
-RSS_BASE = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
-VIDEOS_TARGET  = 2
-FETCH_EXTRA    = 10
-OUTPUT_FILE    = 'videos.json'
-SESSION        = requests.Session()
+RSS_BASE      = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
+VIDEOS_TARGET = 2
+FETCH_EXTRA   = 8
+OUTPUT_FILE   = 'videos.json'
+SESSION       = requests.Session()
 SESSION.headers.update({'User-Agent': 'Mozilla/5.0'})
 
 
@@ -46,12 +46,29 @@ def resolve_handle(handle):
     return None
 
 
-def is_short(video_id):
+def is_short_by_duration(entry):
+    """
+    Verifica se e um Short pela duracao no RSS (yt:duration).
+    Shorts tem duracao <= 60 segundos.
+    Se nao houver info de duracao, nao filtra.
+    """
     try:
-        r = SESSION.head('https://www.youtube.com/shorts/' + video_id, timeout=8, allow_redirects=True)
-        return '/shorts/' in r.url
+        duration = entry.get('yt_duration', {})
+        if hasattr(duration, 'get'):
+            seconds = int(duration.get('seconds', 999))
+            return seconds <= 60
+        # Tenta acessar como string ISO 8601 (PT30S, PT1M, etc)
+        dur_str = str(duration)
+        m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', dur_str)
+        if m:
+            h = int(m.group(1) or 0)
+            mn = int(m.group(2) or 0)
+            s = int(m.group(3) or 0)
+            total = h*3600 + mn*60 + s
+            return total > 0 and total <= 60
     except Exception:
-        return False
+        pass
+    return False
 
 
 def safe(v):
@@ -83,12 +100,14 @@ def fetch(ch):
     except Exception as e:
         print('[ERRO]', name, str(e))
         return []
+
     videos = []
     for entry in feed.entries[:FETCH_EXTRA]:
         vid = entry.get('yt_videoid', '')
         if not vid:
             continue
-        if is_short(vid):
+        # Filtra Shorts pela duracao (sem requisicao HTTP extra)
+        if is_short_by_duration(entry):
             print('[SHORT]', vid, 'ignorado')
             continue
         videos.append({
@@ -101,20 +120,19 @@ def fetch(ch):
         })
         if len(videos) >= VIDEOS_TARGET:
             break
+
     print('[OK]  ', name + ':', len(videos), 'video(s)')
     return videos
 
 
 def main():
     all_videos = []
-    # CHANNELS jÃ¡ estÃ¡ em ordem alfabÃ©tica â€” processa nessa ordem
     for ch in CHANNELS:
         all_videos.extend(fetch(ch))
 
-    # Ordena por canal (alfabÃ©tico) e dentro de cada canal por data (mais recente primeiro)
     all_videos.sort(key=lambda v: (
         v['channel'].lower(),
-        -(datetime.fromisoformat(v['published'].replace('Z', '+00:00')) if v['published'] else datetime.min.replace(tzinfo=timezone.utc)).timestamp()
+        -(datetime.fromisoformat(v['published'].replace('Z', '+00:00')).timestamp() if v['published'] else 0)
     ))
 
     out = {
