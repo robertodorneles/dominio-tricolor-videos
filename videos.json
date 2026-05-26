@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T16:00:43.586142+00:00",
+  "updated_at": "2026-05-26T17:00:40.089105+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,15 +8,23 @@
       "videoId": "I7wL5qNf3-A",
       "url": "https://www.youtube.com/watch?v=I7wL5qNf3-A",
       "thumbnail": "https://i.ytimg.com/vi/I7wL5qNf3-A/mqdefault.jpg",
-      "published": "2026-05-26T15:30:00Z"
+      "published": "2026-05-26T16:30:06Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🥋 VITÓRIA COM M MAIÚSCULO!",
-      "videoId": "j6O9ob6uO1E",
-      "url": "https://www.youtube.com/watch?v=j6O9ob6uO1E",
-      "thumbnail": "https://i.ytimg.com/vi/j6O9ob6uO1E/mqdefault.jpg",
-      "published": "2026-05-26T14:51:29Z"
+      "title": "🔵⚫️ Diário do Grêmio KTO: NO LIMITE! | AMUZU FORA DA COPA? | DECISÃO TOTAL",
+      "videoId": "lREzf-IwKe0",
+      "url": "https://www.youtube.com/watch?v=lREzf-IwKe0",
+      "thumbnail": "https://i.ytimg.com/vi/lREzf-IwKe0/mqdefault.jpg",
+      "published": "2026-05-26T05:00:30Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO: DECISÃO NA SULA! / INTER: CORINGÃO NO CAMINHO! 🔸RESENHA FORA DA SALA🔸#052",
+      "videoId": "TXvgPwJ5gHc",
+      "url": "https://www.youtube.com/watch?v=TXvgPwJ5gHc",
+      "thumbnail": "https://i.ytimg.com/vi/TXvgPwJ5gHc/mqdefault_live.jpg",
+      "published": "2026-05-26T16:29:30Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=GUA_SLYk3-k",
       "thumbnail": "https://i.ytimg.com/vi/GUA_SLYk3-k/mqdefault.jpg",
       "published": "2026-05-26T13:47:34Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#052",
-      "videoId": "TXvgPwJ5gHc",
-      "url": "https://www.youtube.com/watch?v=TXvgPwJ5gHc",
-      "thumbnail": "https://i.ytimg.com/vi/TXvgPwJ5gHc/mqdefault_live.jpg",
-      "published": "2026-05-26T13:00:49Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -120,7 +120,7 @@
       "videoId": "b8rk55yszfA",
       "url": "https://www.youtube.com/watch?v=b8rk55yszfA",
       "thumbnail": "https://i.ytimg.com/vi/b8rk55yszfA/mqdefault.jpg",
-      "published": "2026-05-26T14:00:42Z"
+      "published": "2026-05-26T16:18:16Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "🔵 AMUZU FORA DA COPA | GRÊMIO X TORQUE | SEGUE O FIO | 26/05/2026",
-      "videoId": "SiupaNLATKY",
-      "url": "https://www.youtube.com/watch?v=SiupaNLATKY",
-      "thumbnail": "https://i.ytimg.com/vi/SiupaNLATKY/mqdefault.jpg",
-      "published": "2026-05-26T15:30:29Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "COPA DO BRASIL DEFINIDA PARA INTER E GRÊMIO | DECISÃO TRICOLOR | ESPORTES AO MEIO-DIA | 26/05/26",
       "videoId": "qXXKjA5ANEk",
       "url": "https://www.youtube.com/watch?v=qXXKjA5ANEk",
-      "thumbnail": "https://i.ytimg.com/vi/qXXKjA5ANEk/mqdefault_live.jpg",
-      "published": "2026-05-26T14:57:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/qXXKjA5ANEk/mqdefault.jpg",
+      "published": "2026-05-26T16:11:35Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "GRÊMIO DECIDE NA SULA | DUPLA TEM FUTURO DEFINIDO NA COPA DO BRASIL | SALA DE REDAÇÃO | 26/05/2026",
+      "videoId": "exMNemqKgGU",
+      "url": "https://www.youtube.com/watch?v=exMNemqKgGU",
+      "thumbnail": "https://i.ytimg.com/vi/exMNemqKgGU/mqdefault_live.jpg",
+      "published": "2026-05-26T16:01:47Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DUPLA EM DEBATE | RÁDIO GRENAL | 26/05/2026",
+      "title": "DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 26/05/2026",
       "videoId": "rC0QPtqmU9w",
       "url": "https://www.youtube.com/watch?v=rC0QPtqmU9w",
       "thumbnail": "https://i.ytimg.com/vi/rC0QPtqmU9w/mqdefault_live.jpg",
