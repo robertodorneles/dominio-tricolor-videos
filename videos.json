@@ -1,38 +1,246 @@
 {
-  "updated_at": "2026-05-26T01:35:34.250200+00:00",
-  "total": 4,
+  "updated_at": "2026-05-26T01:50:46.874657+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: Convocações frustram jogadores de Inter e Grêmio no mesmo dia! Bastidores",
+      "videoId": "GlARXg7xnGw",
+      "url": "https://www.youtube.com/watch?v=GlARXg7xnGw",
+      "thumbnail": "https://i.ytimg.com/vi/GlARXg7xnGw/mqdefault_live.jpg",
+      "published": "2026-05-26T01:35:54Z"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter: ⚠️🔥 NOTÍCIA IMPACTANTE! | BORRÉ E CARBONERO VETADOS ! | O QUE ACONTECEU???",
+      "videoId": "TT26ePga0W8",
+      "url": "https://www.youtube.com/watch?v=TT26ePga0W8",
+      "thumbnail": "https://i.ytimg.com/vi/TT26ePga0W8/mqdefault.jpg",
+      "published": "2026-05-25T17:36:31Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🌅🔵 BOM DIA GRÊMIO #036",
+      "videoId": "AP5UQw-NUng",
+      "url": "https://www.youtube.com/watch?v=AP5UQw-NUng",
+      "thumbnail": "https://i.ytimg.com/vi/AP5UQw-NUng/mqdefault_live.jpg",
+      "published": "2026-05-26T01:38:28Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 26/05 - #554",
+      "videoId": "GUA_SLYk3-k",
+      "url": "https://www.youtube.com/watch?v=GUA_SLYk3-k",
+      "thumbnail": "https://i.ytimg.com/vi/GUA_SLYk3-k/mqdefault_live.jpg",
+      "published": "2026-05-26T01:36:47Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO POLÊMICO DEVE SER FECHADO | O MEIO-CAMPO IDEAL DO GRÊMIO | SURGE UMA NOVA JÓIA!",
+      "videoId": "pYsv4KNkKKk",
+      "url": "https://www.youtube.com/watch?v=pYsv4KNkKKk",
+      "thumbnail": "https://i.ytimg.com/vi/pYsv4KNkKKk/mqdefault.jpg",
+      "published": "2026-05-25T21:19:39Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MEDALHÃO FOI ARQUIVADO PELO TÉCNICO | O NOVO TETÊ | AUSÊNCIA CONFIRMADA NO GRÊMIO!",
+      "videoId": "ddPyn_Y-7kk",
+      "url": "https://www.youtube.com/watch?v=ddPyn_Y-7kk",
+      "thumbnail": "https://i.ytimg.com/vi/ddPyn_Y-7kk/mqdefault.jpg",
+      "published": "2026-05-25T14:43:41Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - GRÊMIO TEM DECISÃO NA SUL-AMERICANA",
+      "videoId": "7OAEevUq6v0",
+      "url": "https://www.youtube.com/watch?v=7OAEevUq6v0",
+      "thumbnail": "https://i.ytimg.com/vi/7OAEevUq6v0/mqdefault.jpg",
+      "published": "2026-05-26T01:12:46Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #593: Provável Grêmio | Proposta por Viery | Villasanti | Gustavo Martins e mais",
+      "videoId": "-f4AbhXEBxA",
+      "url": "https://www.youtube.com/watch?v=-f4AbhXEBxA",
+      "thumbnail": "https://i.ytimg.com/vi/-f4AbhXEBxA/mqdefault.jpg",
+      "published": "2026-05-25T21:20:13Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "SEMANA DECISIVA - VAMOOO FARIDO 25.05.26",
+      "videoId": "DlFd-fbBVcQ",
+      "url": "https://www.youtube.com/watch?v=DlFd-fbBVcQ",
+      "thumbnail": "https://i.ytimg.com/vi/DlFd-fbBVcQ/mqdefault_live.jpg",
+      "published": "2026-05-25T22:08:21Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "AO VIVO  GRÊMIO VS TORQUE  26.05  SULAMERICANA  2026 — FARID REAGINDO AO JOGO!!!",
+      "videoId": "3ff_vzse-Z0",
+      "url": "https://www.youtube.com/watch?v=3ff_vzse-Z0",
+      "thumbnail": "https://i.ytimg.com/vi/3ff_vzse-Z0/mqdefault_live.jpg",
+      "published": "2026-05-25T18:29:05Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
+      "title": "A meta ousada do Grêmio nessa janela de transferências",
+      "videoId": "ZWbKWmE4zMk",
+      "url": "https://www.youtube.com/watch?v=ZWbKWmE4zMk",
+      "thumbnail": "https://i.ytimg.com/vi/ZWbKWmE4zMk/mqdefault.jpg",
+      "published": "2026-05-25T14:35:34Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
+      "title": "A negociação que o Grêmio quer fazer na janela | Meio-campo ideal contra o Torque",
+      "videoId": "RR_EijMz7eE",
+      "url": "https://www.youtube.com/watch?v=RR_EijMz7eE",
+      "thumbnail": "https://i.ytimg.com/vi/RR_EijMz7eE/mqdefault.jpg",
+      "published": "2026-05-25T13:06:11Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "PRÓXIMO: CINCO SAÍDAS E R$20MI EM VENDAS | A VEZ DELE? FÁBRICA DE PONTAS DO GRÊMIO.",
+      "videoId": "H3HvRB_tJTU",
+      "url": "https://www.youtube.com/watch?v=H3HvRB_tJTU",
+      "thumbnail": "https://i.ytimg.com/vi/H3HvRB_tJTU/mqdefault.jpg",
+      "published": "2026-05-25T20:51:38Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "LUIS CASTRO ACERTOU! #gremio #Futebol #futebolalegriadogremio",
+      "videoId": "TkiLZl_bnu4",
+      "url": "https://www.youtube.com/watch?v=TkiLZl_bnu4",
+      "thumbnail": "https://i.ytimg.com/vi/TkiLZl_bnu4/mqdefault.jpg",
+      "published": "2026-05-25T14:15:27Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CITY TORQUE - SUL-AMERICANA 2026 | COLETIVAS | 26/05/26 #21",
+      "videoId": "QzWgiMIrK5A",
+      "url": "https://www.youtube.com/watch?v=QzWgiMIrK5A",
+      "thumbnail": "https://i.ytimg.com/vi/QzWgiMIrK5A/mqdefault_live.jpg",
+      "published": "2026-05-25T12:29:17Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x CITY TORQUE DIRETO DA ARENA | COPA SUL-AMERICANA 2026 | 26/05/26 #04",
+      "videoId": "R0rv5jG7tHk",
+      "url": "https://www.youtube.com/watch?v=R0rv5jG7tHk",
+      "thumbnail": "https://i.ytimg.com/vi/R0rv5jG7tHk/mqdefault_live.jpg",
+      "published": "2026-05-25T12:27:16Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "FALHA NO JOGO DO VASCO CRIOU \"TRAUMA\" PARA O GOLEIRO ATÉ HOJE | Cortes do Duda",
+      "videoId": "na3FDPS8dhc",
+      "url": "https://www.youtube.com/watch?v=na3FDPS8dhc",
+      "thumbnail": "https://i.ytimg.com/vi/na3FDPS8dhc/mqdefault.jpg",
+      "published": "2026-05-25T22:45:29Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "“REALIZEI O SONHO DO MEU PAI” #dudagarbi #umassadopara #feirafc",
+      "videoId": "vL9m8U8gSpU",
+      "url": "https://www.youtube.com/watch?v=vL9m8U8gSpU",
+      "thumbnail": "https://i.ytimg.com/vi/vL9m8U8gSpU/mqdefault.jpg",
+      "published": "2026-05-25T22:30:12Z"
+    },
     {
       "channel": "GremioTV Oficial",
       "title": "ANDERSON POLGA: UM CAMPEÃO DO GRÊMIO PARA SELEÇÃO",
       "videoId": "iBQZisg5jgk",
       "url": "https://www.youtube.com/watch?v=iBQZisg5jgk",
-      "thumbnail": "https://img.youtube.com/vi/iBQZisg5jgk/mqdefault.jpg",
-      "published": "2026-05-25T17:18:40+00:00"
+      "thumbnail": "https://i.ytimg.com/vi/iBQZisg5jgk/mqdefault.jpg",
+      "published": "2026-05-25T17:18:40Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "\"NÓS JAMAIS VAMOS DESISTIR DE NINGUÉM\", WEVERTON.",
-      "videoId": "zJpsJeHhChg",
-      "url": "https://www.youtube.com/watch?v=zJpsJeHhChg",
-      "thumbnail": "https://img.youtube.com/vi/zJpsJeHhChg/mqdefault.jpg",
-      "published": "2026-05-25T14:00:29+00:00"
+      "title": "APOIO DE UM GRUPO UNIDO! #tetê #furacaotete  #aquiégrêmio #futebol #grêmiotv #gremio",
+      "videoId": "b6A7m4OjO1s",
+      "url": "https://www.youtube.com/watch?v=b6A7m4OjO1s",
+      "thumbnail": "https://i.ytimg.com/vi/b6A7m4OjO1s/mqdefault.jpg",
+      "published": "2026-05-25T11:00:21Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "EXCLUSIVA COM RAMIRO: EXPERIÊNCIA NA MLS, VIDA NO TEXAS E COPA DO MUNDO | 22/10/2026",
+      "videoId": "G5BYNv5Mf6E",
+      "url": "https://www.youtube.com/watch?v=G5BYNv5Mf6E",
+      "thumbnail": "https://i.ytimg.com/vi/G5BYNv5Mf6E/mqdefault.jpg",
+      "published": "2026-05-26T01:30:06Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "DEBATE DO SHOW: INTER PERDE FORA DE CASA E GRÊMIO VENCE SANTOS DE VIRADA | SHOW DOS ESPORTES | 25/05",
+      "videoId": "a1XfvijyhK4",
+      "url": "https://www.youtube.com/watch?v=a1XfvijyhK4",
+      "thumbnail": "https://i.ytimg.com/vi/a1XfvijyhK4/mqdefault.jpg",
+      "published": "2026-05-26T01:24:38Z"
     },
     {
       "channel": "Jeremias Wernek",
       "title": "Desbloqueei memórias de Copa + o  início de algo novo",
       "videoId": "p8vhzH7PxuM",
       "url": "https://www.youtube.com/watch?v=p8vhzH7PxuM",
-      "thumbnail": "https://img.youtube.com/vi/p8vhzH7PxuM/mqdefault.jpg",
-      "published": "2026-05-25T23:00:02+00:00"
+      "thumbnail": "https://i.ytimg.com/vi/p8vhzH7PxuM/mqdefault.jpg",
+      "published": "2026-05-25T23:00:02Z"
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "Grêmio recebe proposta milionária da Europa por Viery",
-      "videoId": "f77UvUCDj9o",
-      "url": "https://www.youtube.com/watch?v=f77UvUCDj9o",
-      "thumbnail": "https://img.youtube.com/vi/f77UvUCDj9o/mqdefault.jpg",
-      "published": "2026-05-25T20:08:40+00:00"
+      "title": "Felipão quer reaproximação de Ronaldinho com o Grêmio",
+      "videoId": "D7EdOYK6a_s",
+      "url": "https://www.youtube.com/watch?v=D7EdOYK6a_s",
+      "thumbnail": "https://i.ytimg.com/vi/D7EdOYK6a_s/mqdefault.jpg",
+      "published": "2026-05-22T21:45:26Z"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨NOVIDADES SOBRE O PATROCINADOR MÁSTER DO GRÊMIO | NEGÓCIO CERTO NA JANELA | MUDANÇA SURPREENDENTE",
+      "videoId": "ZEmVnvoZ9gE",
+      "url": "https://www.youtube.com/watch?v=ZEmVnvoZ9gE",
+      "thumbnail": "https://i.ytimg.com/vi/ZEmVnvoZ9gE/mqdefault.jpg",
+      "published": "2026-05-25T19:29:44Z"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨NOVO ACORDO COM TETÊ | GRÊMIO VAI BATER A TERCEIRA META | SERÁ QUE ELE ACORDOU",
+      "videoId": "-_IwEJ0kX1Q",
+      "url": "https://www.youtube.com/watch?v=-_IwEJ0kX1Q",
+      "thumbnail": "https://i.ytimg.com/vi/-_IwEJ0kX1Q/mqdefault.jpg",
+      "published": "2026-05-24T21:56:30Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "JOGO COMPLETO | GRÊMIO 3 X 2 SANTOS | VITÓRIA 2 X 0 INTER | CAMPEONATO BRASILEIRO | 23/05/2026",
+      "videoId": "rorujn7bAeA",
+      "url": "https://www.youtube.com/watch?v=rorujn7bAeA",
+      "thumbnail": "https://i.ytimg.com/vi/rorujn7bAeA/mqdefault.jpg",
+      "published": "2026-05-24T02:57:37Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "\"VENCEU E CORRIGIU PROBLEMAS\" 🇪🇪 #shorts #grêmio #tricolor #santos #brasileirao #futebol",
+      "videoId": "BSbBSjSO0z4",
+      "url": "https://www.youtube.com/watch?v=BSbBSjSO0z4",
+      "thumbnail": "https://i.ytimg.com/vi/BSbBSjSO0z4/mqdefault.jpg",
+      "published": "2026-05-24T02:48:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NA SUL-AMERICANA! | JOGO QUE DECIDE O CAMINHO NA COMPETIÇÃO | PROVÁVEL ESCALAÇÃO",
+      "videoId": "tDjdFMtmV4Q",
+      "url": "https://www.youtube.com/watch?v=tDjdFMtmV4Q",
+      "thumbnail": "https://i.ytimg.com/vi/tDjdFMtmV4Q/mqdefault_live.jpg",
+      "published": "2026-05-26T01:37:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "SÓ A VITÓRIA INTERESSA | OLHO NA COPA DO BRASIL | ROVÁVEL ESCALAÇÃO | NOITES DE GRÊMIO #76 - 25/05",
+      "videoId": "HoqLJe2I4KI",
+      "url": "https://www.youtube.com/watch?v=HoqLJe2I4KI",
+      "thumbnail": "https://i.ytimg.com/vi/HoqLJe2I4KI/mqdefault_live.jpg",
+      "published": "2026-05-26T01:32:11Z"
     }
   ]
 }
