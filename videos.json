@@ -1,55 +1,7 @@
 {
-  "updated_at": "2026-05-26T01:12:03.364916+00:00",
-  "total": 12,
+  "updated_at": "2026-05-26T01:13:37.600785+00:00",
+  "total": 2,
   "videos": [
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: Convocações frustram jogadores de Inter e Grêmio no mesmo dia! Bastidores",
-      "videoId": "GlARXg7xnGw",
-      "url": "https://www.youtube.com/watch?v=GlARXg7xnGw",
-      "thumbnail": "https://img.youtube.com/vi/GlARXg7xnGw/mqdefault.jpg",
-      "published": "2026-05-26T00:34:37+00:00"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter: ⚠️🔥 NOTÍCIA IMPACTANTE! | BORRÉ E CARBONERO VETADOS ! | O QUE ACONTECEU???",
-      "videoId": "TT26ePga0W8",
-      "url": "https://www.youtube.com/watch?v=TT26ePga0W8",
-      "thumbnail": "https://img.youtube.com/vi/TT26ePga0W8/mqdefault.jpg",
-      "published": "2026-05-25T17:36:31+00:00"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CITY TORQUE - SUL-AMERICANA 2026 | COLETIVAS | 26/05/26 #21",
-      "videoId": "QzWgiMIrK5A",
-      "url": "https://www.youtube.com/watch?v=QzWgiMIrK5A",
-      "thumbnail": "https://img.youtube.com/vi/QzWgiMIrK5A/mqdefault.jpg",
-      "published": "2026-05-25T12:29:17+00:00"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x CITY TORQUE DIRETO DA ARENA | COPA SUL-AMERICANA 2026 | 26/05/26 #04",
-      "videoId": "R0rv5jG7tHk",
-      "url": "https://www.youtube.com/watch?v=R0rv5jG7tHk",
-      "thumbnail": "https://img.youtube.com/vi/R0rv5jG7tHk/mqdefault.jpg",
-      "published": "2026-05-25T12:27:16+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "FALHA NO JOGO DO VASCO CRIOU \"TRAUMA\" PARA O GOLEIRO ATÉ HOJE | Cortes do Duda",
-      "videoId": "na3FDPS8dhc",
-      "url": "https://www.youtube.com/watch?v=na3FDPS8dhc",
-      "thumbnail": "https://img.youtube.com/vi/na3FDPS8dhc/mqdefault.jpg",
-      "published": "2026-05-25T22:45:29+00:00"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "LUCANETA DESAFIOU JUNINHO NO X1 E ABRIU JOGO SOBRE FUTEBOL PROFISSIONAL: É DIFÍCIL | Cortes do Duda",
-      "videoId": "j1zsMq0YYs4",
-      "url": "https://www.youtube.com/watch?v=j1zsMq0YYs4",
-      "thumbnail": "https://img.youtube.com/vi/j1zsMq0YYs4/mqdefault.jpg",
-      "published": "2026-05-25T22:30:09+00:00"
-    },
     {
       "channel": "GremioTV Oficial",
       "title": "ANDERSON POLGA: UM CAMPEÃO DO GRÊMIO PARA SELEÇÃO",
@@ -65,38 +17,6 @@
       "url": "https://www.youtube.com/watch?v=aoNHjZ7nd50",
       "thumbnail": "https://img.youtube.com/vi/aoNHjZ7nd50/mqdefault.jpg",
       "published": "2026-05-25T01:11:34+00:00"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Desbloqueei memórias de Copa + o  início de algo novo",
-      "videoId": "p8vhzH7PxuM",
-      "url": "https://www.youtube.com/watch?v=p8vhzH7PxuM",
-      "thumbnail": "https://img.youtube.com/vi/p8vhzH7PxuM/mqdefault.jpg",
-      "published": "2026-05-25T23:00:02+00:00"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Luís Castro \"sabe\" e abre o jogo sobre o Grêmio + data para volta do Villasanti",
-      "videoId": "cxINOW4J4hw",
-      "url": "https://www.youtube.com/watch?v=cxINOW4J4hw",
-      "thumbnail": "https://img.youtube.com/vi/cxINOW4J4hw/mqdefault.jpg",
-      "published": "2026-05-05T15:58:08+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨NOVIDADES SOBRE O PATROCINADOR MÁSTER DO GRÊMIO | NEGÓCIO CERTO NA JANELA | MUDANÇA SURPREENDENTE",
-      "videoId": "ZEmVnvoZ9gE",
-      "url": "https://www.youtube.com/watch?v=ZEmVnvoZ9gE",
-      "thumbnail": "https://img.youtube.com/vi/ZEmVnvoZ9gE/mqdefault.jpg",
-      "published": "2026-05-25T19:29:44+00:00"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨NOVO ACORDO COM TETÊ | GRÊMIO VAI BATER A TERCEIRA META | SERÁ QUE ELE ACORDOU",
-      "videoId": "-_IwEJ0kX1Q",
-      "url": "https://www.youtube.com/watch?v=-_IwEJ0kX1Q",
-      "thumbnail": "https://img.youtube.com/vi/-_IwEJ0kX1Q/mqdefault.jpg",
-      "published": "2026-05-24T21:56:30+00:00"
     }
   ]
 }
