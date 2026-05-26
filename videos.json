@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T13:00:51.158041+00:00",
+  "updated_at": "2026-05-26T14:00:45.049662+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO DECIDE NA SULA | FUTURO NA COPA DO BRASIL SERÁ DECIDIDO 🌅🔵 BOM DIA GRÊMIO #036",
-      "videoId": "AP5UQw-NUng",
-      "url": "https://www.youtube.com/watch?v=AP5UQw-NUng",
-      "thumbnail": "https://i.ytimg.com/vi/AP5UQw-NUng/mqdefault.jpg",
-      "published": "2026-05-26T12:04:20Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "GRÊMIO TEM DECISÃO NA ARENA | SORTEIO DA COPA DO BRASIL FUTEBOL ALEGRIA DO GRÊMIO - 26/05 - #554",
       "videoId": "GUA_SLYk3-k",
       "url": "https://www.youtube.com/watch?v=GUA_SLYk3-k",
-      "thumbnail": "https://i.ytimg.com/vi/GUA_SLYk3-k/mqdefault_live.jpg",
-      "published": "2026-05-26T12:01:47Z"
+      "thumbnail": "https://i.ytimg.com/vi/GUA_SLYk3-k/mqdefault.jpg",
+      "published": "2026-05-26T13:47:34Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#052",
+      "videoId": "TXvgPwJ5gHc",
+      "url": "https://www.youtube.com/watch?v=TXvgPwJ5gHc",
+      "thumbnail": "https://i.ytimg.com/vi/TXvgPwJ5gHc/mqdefault_live.jpg",
+      "published": "2026-05-26T13:00:49Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MILHÕES POR GRANDE JOGADOR | CASTRO AVALIADO | NOVIDADE NO TIME | GRÊMIO: SORTEIO DA COPA DO BRASIL",
+      "videoId": "IsWt9Ck4y38",
+      "url": "https://www.youtube.com/watch?v=IsWt9Ck4y38",
+      "thumbnail": "https://i.ytimg.com/vi/IsWt9Ck4y38/mqdefault.jpg",
+      "published": "2026-05-26T13:45:39Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=pYsv4KNkKKk",
       "thumbnail": "https://i.ytimg.com/vi/pYsv4KNkKKk/mqdefault.jpg",
       "published": "2026-05-25T21:19:39Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MEDALHÃO FOI ARQUIVADO PELO TÉCNICO | O NOVO TETÊ | AUSÊNCIA CONFIRMADA NO GRÊMIO!",
-      "videoId": "ddPyn_Y-7kk",
-      "url": "https://www.youtube.com/watch?v=ddPyn_Y-7kk",
-      "thumbnail": "https://i.ytimg.com/vi/ddPyn_Y-7kk/mqdefault.jpg",
-      "published": "2026-05-25T14:43:41Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Escalação contra o Torque | Ex-meia do Grêmio convocado para a Copa | Proposta por Viery?",
+      "videoId": "dWy7ifLjSJo",
+      "url": "https://www.youtube.com/watch?v=dWy7ifLjSJo",
+      "thumbnail": "https://i.ytimg.com/vi/dWy7ifLjSJo/mqdefault.jpg",
+      "published": "2026-05-26T13:17:32Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "A meta ousada do Grêmio nessa janela de transferências",
       "videoId": "ZWbKWmE4zMk",
       "url": "https://www.youtube.com/watch?v=ZWbKWmE4zMk",
@@ -91,12 +99,12 @@
       "published": "2026-05-25T14:35:34Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "A negociação que o Grêmio quer fazer na janela | Meio-campo ideal contra o Torque",
-      "videoId": "RR_EijMz7eE",
-      "url": "https://www.youtube.com/watch?v=RR_EijMz7eE",
-      "thumbnail": "https://i.ytimg.com/vi/RR_EijMz7eE/mqdefault.jpg",
-      "published": "2026-05-25T13:06:11Z"
+      "channel": "Careca de Saber TV",
+      "title": "FÁBRICA DE PONTAS DO GRÊMIO! VEM MAIS UM? #gremio #Futebol",
+      "videoId": "XfZeMYJFCtY",
+      "url": "https://www.youtube.com/watch?v=XfZeMYJFCtY",
+      "thumbnail": "https://i.ytimg.com/vi/XfZeMYJFCtY/mqdefault.jpg",
+      "published": "2026-05-26T14:00:11Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=l3ANVeqk0NM",
       "thumbnail": "https://i.ytimg.com/vi/l3ANVeqk0NM/mqdefault_live.jpg",
       "published": "2026-05-26T10:46:55Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REFORÇOS NO JOGO! | AMUZU FORA? | GRÊMIO X CITY TORQUE .",
-      "videoId": "lZSOWAXYt7w",
-      "url": "https://www.youtube.com/watch?v=lZSOWAXYt7w",
-      "thumbnail": "https://i.ytimg.com/vi/lZSOWAXYt7w/mqdefault.jpg",
-      "published": "2026-05-26T10:38:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Últimas notícias, previsão do tempo, trânsito, dupla Gre-Nal e mais | Chamada Geral 1 | 26/05/26",
+      "videoId": "qADM6NAOAIU",
+      "url": "https://www.youtube.com/watch?v=qADM6NAOAIU",
+      "thumbnail": "https://i.ytimg.com/vi/qADM6NAOAIU/mqdefault_live.jpg",
+      "published": "2026-05-26T13:57:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "GRÊMIO X TORQUE | AMUZU FORA DE LISTA | E AGORA, BORRÉ E CARBONERO?| SEGUE O FIO | 26/05/2026",
       "videoId": "ANQ5wChHFlc",
       "url": "https://www.youtube.com/watch?v=ANQ5wChHFlc",
       "thumbnail": "https://i.ytimg.com/vi/ANQ5wChHFlc/mqdefault_live.jpg",
       "published": "2026-05-26T12:45:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Entrevista com pré-candidato Renan Santos, trânsito e mais | Gaúcha Atualidade | 26/05/26",
-      "videoId": "lKKpOuRD3hE",
-      "url": "https://www.youtube.com/watch?v=lKKpOuRD3hE",
-      "thumbnail": "https://i.ytimg.com/vi/lKKpOuRD3hE/mqdefault_live.jpg",
-      "published": "2026-05-26T10:58:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "FUTEBOL ALEGRIA DO POVO  | RÁDIO GRENAL | 26/05/2026",
+      "title": "DUPLA EM DEBATE | RÁDIO GRENAL | 26/05/2026",
       "videoId": "rC0QPtqmU9w",
       "url": "https://www.youtube.com/watch?v=rC0QPtqmU9w",
       "thumbnail": "https://i.ytimg.com/vi/rC0QPtqmU9w/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | SORTEIO DA COPA DO BRASIL | OITAVAS DE FINAL | QUEM SERÁ O ADVERSÁRIO DO GRÊMIO?",
+      "videoId": "evrMZhtIazA",
+      "url": "https://www.youtube.com/watch?v=evrMZhtIazA",
+      "thumbnail": "https://i.ytimg.com/vi/evrMZhtIazA/mqdefault_live.jpg",
+      "published": "2026-05-26T13:47:56Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NA SUL-AMERICANA! | JOGO QUE DECIDE O CAMINHO NA COMPETIÇÃO | PROVÁVEL ESCALAÇÃO",
       "videoId": "tDjdFMtmV4Q",
       "url": "https://www.youtube.com/watch?v=tDjdFMtmV4Q",
       "thumbnail": "https://i.ytimg.com/vi/tDjdFMtmV4Q/mqdefault_live.jpg",
       "published": "2026-05-26T12:33:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 26/05 - GRÊMIO CAMPEÃO DO TROFÉU REINVIDICAÇÃO",
-      "videoId": "lYxb2DBmH4I",
-      "url": "https://www.youtube.com/watch?v=lYxb2DBmH4I",
-      "thumbnail": "https://i.ytimg.com/vi/lYxb2DBmH4I/mqdefault.jpg",
-      "published": "2026-05-26T11:00:14Z"
     }
   ]
 }
