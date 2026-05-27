@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:00:35.613636+00:00",
+  "updated_at": "2026-05-27T23:14:43.751750+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO FRACASSA EM GRUPO NA SUL-AMERICANA | TORCIDA PRESSIONA | LESÕES CONFIRMADAS | IMORTAL FC",
+      "videoId": "fH0kFO2u2ds",
+      "url": "https://www.youtube.com/watch?v=fH0kFO2u2ds",
+      "thumbnail": "https://i.ytimg.com/vi/fH0kFO2u2ds/mqdefault.jpg",
+      "published": "2026-05-27T23:01:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO SEGUE DECEPCIONANDO | PAVÓN E LUIS EDUARDO LESIONADOS | NOITES DE GRÊMIO #78 - 27/05",
       "videoId": "q74ZGEj5hmo",
       "url": "https://www.youtube.com/watch?v=q74ZGEj5hmo",
       "thumbnail": "https://i.ytimg.com/vi/q74ZGEj5hmo/mqdefault_live.jpg",
       "published": "2026-05-27T22:48:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FRACASSA EM GRUPO NA SUL-AMERICANA | TORCIDA PRESSIONA | LESÕES CONFIRMADAS | IMORTAL FC",
-      "videoId": "fH0kFO2u2ds",
-      "url": "https://www.youtube.com/watch?v=fH0kFO2u2ds",
-      "thumbnail": "https://i.ytimg.com/vi/fH0kFO2u2ds/mqdefault_live.jpg",
-      "published": "2026-05-27T22:16:19Z"
     }
   ]
 }
