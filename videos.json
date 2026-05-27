@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-27T01:01:03.638767+00:00",
+  "updated_at": "2026-05-27T02:00:37.088362+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: CAMPANHA MELANCÓLICA | EMPATE MIXURUCA  | MEC SALVA",
+      "videoId": "QDP9VdYYvYk",
+      "url": "https://www.youtube.com/watch?v=QDP9VdYYvYk",
+      "thumbnail": "https://i.ytimg.com/vi/QDP9VdYYvYk/mqdefault_live.jpg",
+      "published": "2026-05-27T01:39:36Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 2x2 City Torque: VERGONHA DENTRO DA ARENA | CASTRO TEM TODA A CULPA | TIME MORFO",
@@ -11,28 +19,28 @@
       "published": "2026-05-27T00:23:40Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: CAMPANHA MELANCÓLICA | EMPATE MIXURUCA  | MEC SALVA",
-      "videoId": "QDP9VdYYvYk",
-      "url": "https://www.youtube.com/watch?v=QDP9VdYYvYk",
-      "thumbnail": "https://i.ytimg.com/vi/QDP9VdYYvYk/mqdefault_live.jpg",
-      "published": "2026-05-27T00:05:29Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 COPA DO BRASIL FEMININA 🔵 GRÊMIO X INTERNACIONAL",
-      "videoId": "NL1qDxc2pUU",
-      "url": "https://www.youtube.com/watch?v=NL1qDxc2pUU",
-      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault_live.jpg",
-      "published": "2026-05-26T20:12:25Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X TORQUE",
       "videoId": "5c9uKoEOkOA",
       "url": "https://www.youtube.com/watch?v=5c9uKoEOkOA",
       "thumbnail": "https://i.ytimg.com/vi/5c9uKoEOkOA/mqdefault_live.jpg",
-      "published": "2026-05-26T18:59:45Z"
+      "published": "2026-05-27T01:59:23Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#053",
+      "videoId": "5QYiCALX0po",
+      "url": "https://www.youtube.com/watch?v=5QYiCALX0po",
+      "thumbnail": "https://i.ytimg.com/vi/5QYiCALX0po/mqdefault_live.jpg",
+      "published": "2026-05-27T01:33:52Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MUITA BURRICE! TUDO NA CONTA DO TÉCNICO! LUÍS CASTRO ERROU DEMAIS! GRÊMIO CONSTRANGEDOR!",
+      "videoId": "h1O1LIvTFLc",
+      "url": "https://www.youtube.com/watch?v=h1O1LIvTFLc",
+      "thumbnail": "https://i.ytimg.com/vi/h1O1LIvTFLc/mqdefault.jpg",
+      "published": "2026-05-27T01:09:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=IsWt9Ck4y38",
       "thumbnail": "https://i.ytimg.com/vi/IsWt9Ck4y38/mqdefault.jpg",
       "published": "2026-05-26T13:45:39Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NEGÓCIO POLÊMICO DEVE SER FECHADO | O MEIO-CAMPO IDEAL DO GRÊMIO | SURGE UMA NOVA JÓIA!",
-      "videoId": "pYsv4KNkKKk",
-      "url": "https://www.youtube.com/watch?v=pYsv4KNkKKk",
-      "thumbnail": "https://i.ytimg.com/vi/pYsv4KNkKKk/mqdefault.jpg",
-      "published": "2026-05-25T21:19:39Z"
     },
     {
       "channel": "Canal do CCD",
@@ -71,8 +71,8 @@
       "title": "AO VIVO  GRÊMIO VS TORQUE  26.05  SULAMERICANA  2026 — FARID REAGINDO AO JOGO!!!",
       "videoId": "3ff_vzse-Z0",
       "url": "https://www.youtube.com/watch?v=3ff_vzse-Z0",
-      "thumbnail": "https://i.ytimg.com/vi/3ff_vzse-Z0/mqdefault_live.jpg",
-      "published": "2026-05-27T00:47:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/3ff_vzse-Z0/mqdefault.jpg",
+      "published": "2026-05-27T01:03:02Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,27 +100,27 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X  CITY TORQUE | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA SUL AMERICANA",
-      "videoId": "l3ANVeqk0NM",
-      "url": "https://www.youtube.com/watch?v=l3ANVeqk0NM",
-      "thumbnail": "https://i.ytimg.com/vi/l3ANVeqk0NM/mqdefault_live.jpg",
-      "published": "2026-05-27T00:04:45Z"
+      "title": "OS ERROS E AS RESPOSTAS DE LUIS CASTRO | DEMISSÃO? GRÊMIO 2X2 TORQUE.",
+      "videoId": "bvwE-MavO24",
+      "url": "https://www.youtube.com/watch?v=bvwE-MavO24",
+      "thumbnail": "https://i.ytimg.com/vi/bvwE-MavO24/mqdefault.jpg",
+      "published": "2026-05-27T01:57:49Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "NÃO PODIA TER FICADO NO BANCO! GRÊMIO VAI PRA REPESCAGEM DA SUL-AMERICANA #gremio #Futebol",
-      "videoId": "GroaCt2Q6_4",
-      "url": "https://www.youtube.com/watch?v=GroaCt2Q6_4",
-      "thumbnail": "https://i.ytimg.com/vi/GroaCt2Q6_4/mqdefault.jpg",
-      "published": "2026-05-27T00:04:03Z"
+      "title": "GRÊMIO X  CITY TORQUE | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA SUL AMERICANA",
+      "videoId": "l3ANVeqk0NM",
+      "url": "https://www.youtube.com/watch?v=l3ANVeqk0NM",
+      "thumbnail": "https://i.ytimg.com/vi/l3ANVeqk0NM/mqdefault.jpg",
+      "published": "2026-05-27T01:33:45Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CITY TORQUE - SUL-AMERICANA 2026 | COLETIVAS | 26/05/26 #21",
       "videoId": "QzWgiMIrK5A",
       "url": "https://www.youtube.com/watch?v=QzWgiMIrK5A",
-      "thumbnail": "https://i.ytimg.com/vi/QzWgiMIrK5A/mqdefault_live.jpg",
-      "published": "2026-05-26T23:59:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/QzWgiMIrK5A/mqdefault.jpg",
+      "published": "2026-05-27T01:27:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA DO TÉCNICO LUIZ CASTRO I PÓS-JOGO I  GRÊMIO X CITY TORQUE (COPA SUL-AMERICANA 2026)",
+      "videoId": "W74M8Pez2Yc",
+      "url": "https://www.youtube.com/watch?v=W74M8Pez2Yc",
+      "thumbnail": "https://i.ytimg.com/vi/W74M8Pez2Yc/mqdefault.jpg",
+      "published": "2026-05-27T01:13:15Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X CITY TORQUE (SUL-AMERICANA 2026)",
       "videoId": "tMeSV8n7YL4",
       "url": "https://www.youtube.com/watch?v=tMeSV8n7YL4",
@@ -155,28 +163,20 @@
       "published": "2026-05-27T00:38:21Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "ANDERSON POLGA: UM CAMPEÃO DO GRÊMIO PARA SELEÇÃO",
-      "videoId": "iBQZisg5jgk",
-      "url": "https://www.youtube.com/watch?v=iBQZisg5jgk",
-      "thumbnail": "https://i.ytimg.com/vi/iBQZisg5jgk/mqdefault.jpg",
-      "published": "2026-05-25T17:18:40Z"
+      "channel": "GZH Digital",
+      "title": "Erico Verissimo, Luis Fernando e a escrita que atravessa gerações | Paralelas",
+      "videoId": "I7n4SuonKAc",
+      "url": "https://www.youtube.com/watch?v=I7n4SuonKAc",
+      "thumbnail": "https://i.ytimg.com/vi/I7n4SuonKAc/mqdefault.jpg",
+      "published": "2026-05-27T02:00:25Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Como era a vida nos Sete Povos das Missões | Aconteceu no RS",
-      "videoId": "8VhgZAL2MQA",
-      "url": "https://www.youtube.com/watch?v=8VhgZAL2MQA",
-      "thumbnail": "https://i.ytimg.com/vi/8VhgZAL2MQA/mqdefault.jpg",
-      "published": "2026-05-27T01:00:12Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Guerra Guaranítica e os mitos e verdades sobre Sepé Tiaraju | Aconteceu no RS",
-      "videoId": "cMmvvzEoaEw",
-      "url": "https://www.youtube.com/watch?v=cMmvvzEoaEw",
-      "thumbnail": "https://i.ytimg.com/vi/cMmvvzEoaEw/mqdefault.jpg",
-      "published": "2026-05-27T00:30:37Z"
+      "title": "Como eram as primeiras cidades do Rio Grande do Sul | Aconteceu no RS",
+      "videoId": "diXvqhw_pBA",
+      "url": "https://www.youtube.com/watch?v=diXvqhw_pBA",
+      "thumbnail": "https://i.ytimg.com/vi/diXvqhw_pBA/mqdefault.jpg",
+      "published": "2026-05-27T01:30:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DO TÉCNICO LUIS CASTRO | GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | SUL-AMERICANA | 26/05/2025",
+      "videoId": "ZyrNeYKKZ_s",
+      "url": "https://www.youtube.com/watch?v=ZyrNeYKKZ_s",
+      "thumbnail": "https://i.ytimg.com/vi/ZyrNeYKKZ_s/mqdefault.jpg",
+      "published": "2026-05-27T01:14:40Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | NARRAÇÃO PC CARVALHO | COPA SUL-AMERICANA | 26/05/2026",
       "videoId": "AzDLr3dJoPI",
       "url": "https://www.youtube.com/watch?v=AzDLr3dJoPI",
@@ -219,28 +227,20 @@
       "published": "2026-05-27T00:29:02Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "DEBATE BOLA | GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | COPA SUL-AMERICANA | 26/05/2026",
-      "videoId": "l0EXITdaT8A",
-      "url": "https://www.youtube.com/watch?v=l0EXITdaT8A",
-      "thumbnail": "https://i.ytimg.com/vi/l0EXITdaT8A/mqdefault_live.jpg",
-      "published": "2026-05-26T20:00:06Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO DECEPCIONA E ESTÁ NA REPESCAGEM DA SULA | CASTRO ERROU DEMAIS! | NOITES DE GRÊMIO #77 - 26/05",
+      "videoId": "NJs0zsrXu-A",
+      "url": "https://www.youtube.com/watch?v=NJs0zsrXu-A",
+      "thumbnail": "https://i.ytimg.com/vi/NJs0zsrXu-A/mqdefault_live.jpg",
+      "published": "2026-05-27T01:59:42Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (2) TORQUE | COLETIVA LUÍS CASTRO | DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "sC3Gwc1dguk",
-      "url": "https://www.youtube.com/watch?v=sC3Gwc1dguk",
-      "thumbnail": "https://i.ytimg.com/vi/sC3Gwc1dguk/mqdefault_live.jpg",
-      "published": "2026-05-26T18:01:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | SORTEIO DA COPA DO BRASIL | OITAVAS DE FINAL | QUEM SERÁ O ADVERSÁRIO DO GRÊMIO?",
-      "videoId": "evrMZhtIazA",
-      "url": "https://www.youtube.com/watch?v=evrMZhtIazA",
-      "thumbnail": "https://i.ytimg.com/vi/evrMZhtIazA/mqdefault.jpg",
-      "published": "2026-05-26T15:10:03Z"
+      "title": "🇪🇪🗣️ O LATERAL-ESQUERDO PEDRO GABRIEL FALA NA ZONA MISTA, APÓS O EMPATE COM CITY TORQUE.",
+      "videoId": "IJFYeRN2hjI",
+      "url": "https://www.youtube.com/watch?v=IJFYeRN2hjI",
+      "thumbnail": "https://i.ytimg.com/vi/IJFYeRN2hjI/mqdefault.jpg",
+      "published": "2026-05-27T01:59:10Z"
     }
   ]
 }
