@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T15:00:41.773338+00:00",
+  "updated_at": "2026-05-27T16:00:44.342025+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨TÁ SAINDO? É HORA DE DEMITIR? LUÍS CASTRO E O SEU TRABALHO FRAQUÍSSIMO NO GRÊMIO!",
+      "title": "🚨FIM DA PACIÊNCIA! É HORA DE DEMITIR LUÍS CASTRO? O SEU TRABALHO FRAQUÍSSIMO NO GRÊMIO!",
       "videoId": "lZGjd1e2mvw",
       "url": "https://www.youtube.com/watch?v=lZGjd1e2mvw",
       "thumbnail": "https://i.ytimg.com/vi/lZGjd1e2mvw/mqdefault.jpg",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A situação do Grêmio é mais complicada do que se imagina",
+      "videoId": "6KT45fUNiHY",
+      "url": "https://www.youtube.com/watch?v=6KT45fUNiHY",
+      "thumbnail": "https://i.ytimg.com/vi/6KT45fUNiHY/mqdefault.jpg",
+      "published": "2026-05-27T15:30:09Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio 2 x 2 City Torque: Castro erra e vamos para a repescagem da Sul-Americana",
       "videoId": "pqTUEw8OnFY",
       "url": "https://www.youtube.com/watch?v=pqTUEw8OnFY",
       "thumbnail": "https://i.ytimg.com/vi/pqTUEw8OnFY/mqdefault.jpg",
       "published": "2026-05-27T00:42:28Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Felipão e o Presidente Odorico falam sobre o projeto do Grêmio e a base",
-      "videoId": "Jbhv51chk3I",
-      "url": "https://www.youtube.com/watch?v=Jbhv51chk3I",
-      "thumbnail": "https://i.ytimg.com/vi/Jbhv51chk3I/mqdefault.jpg",
-      "published": "2026-05-26T21:40:31Z"
     },
     {
       "channel": "Canal do Farid",
@@ -231,16 +231,16 @@
       "title": "TIMELINE IMORTAL #78 — GRÊMIO CRIA PROBLEMA PARA SI PRÓPRIO | REPERCUSSÕES DE MAIS UM TROPEÇO",
       "videoId": "-dZZdV40aac",
       "url": "https://www.youtube.com/watch?v=-dZZdV40aac",
-      "thumbnail": "https://i.ytimg.com/vi/-dZZdV40aac/mqdefault_live.jpg",
-      "published": "2026-05-27T13:50:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/-dZZdV40aac/mqdefault.jpg",
+      "published": "2026-05-27T15:40:46Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "🇪🇪TETÊ FALOU NA ZONA MISTA SOBRE O EMPATE COM O CITY TORQUE E SUA EVOLUÇÃO COM A CAMISA DO GRÊMIO.",
-      "videoId": "jU3h6MF5jA4",
-      "url": "https://www.youtube.com/watch?v=jU3h6MF5jA4",
-      "thumbnail": "https://i.ytimg.com/vi/jU3h6MF5jA4/mqdefault.jpg",
-      "published": "2026-05-27T13:23:27Z"
+      "title": "🇪🇪🗣️ BRAITHWAITE FALOU NA ZONA MISTA DE COMO SE AVALIA JOGANDO NA POSIÇÃO DE MEIA.",
+      "videoId": "1QmgsVJf7Ms",
+      "url": "https://www.youtube.com/watch?v=1QmgsVJf7Ms",
+      "thumbnail": "https://i.ytimg.com/vi/1QmgsVJf7Ms/mqdefault.jpg",
+      "published": "2026-05-27T15:15:39Z"
     }
   ]
 }
