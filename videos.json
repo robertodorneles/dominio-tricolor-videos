@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T17:00:52.774655+00:00",
+  "updated_at": "2026-05-27T18:00:38.794531+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X PROGRESSO (CAMPEONATO GAÚCHO SUB-17 2026)",
+      "videoId": "-oWsHYw3G1A",
+      "url": "https://www.youtube.com/watch?v=-oWsHYw3G1A",
+      "thumbnail": "https://i.ytimg.com/vi/-oWsHYw3G1A/mqdefault_live.jpg",
+      "published": "2026-05-27T17:49:12Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | INTERNACIONAL X GRÊMIO FEMININO (COPA DO BRASIL 2026)",
       "videoId": "pI9K6E5yZpE",
       "url": "https://www.youtube.com/watch?v=pI9K6E5yZpE",
       "thumbnail": "https://i.ytimg.com/vi/pI9K6E5yZpE/mqdefault_live.jpg",
       "published": "2026-05-27T13:02:04Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA DO TÉCNICO LUIZ CASTRO I PÓS-JOGO I  GRÊMIO X CITY TORQUE (COPA SUL-AMERICANA 2026)",
-      "videoId": "W74M8Pez2Yc",
-      "url": "https://www.youtube.com/watch?v=W74M8Pez2Yc",
-      "thumbnail": "https://i.ytimg.com/vi/W74M8Pez2Yc/mqdefault.jpg",
-      "published": "2026-05-27T01:13:15Z"
     },
     {
       "channel": "GZH Digital",
