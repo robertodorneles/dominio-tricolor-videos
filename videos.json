@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T10:00:41.146654+00:00",
+  "updated_at": "2026-05-27T11:00:37.507948+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "DIA D: conheça a programação especial da Gaúcha, GZH e Zero Hora | Gaúcha Atualidade | 27/05/2026",
+      "videoId": "e2OPTmaFO3k",
+      "url": "https://www.youtube.com/watch?v=e2OPTmaFO3k",
+      "thumbnail": "https://i.ytimg.com/vi/e2OPTmaFO3k/mqdefault_live.jpg",
+      "published": "2026-05-27T10:58:47Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com Sonia Guajajara, ex-ministra dos Povos  Indígenas | Conversas Cruzadas | 20/04/2026",
       "videoId": "8dPs3xZLVoM",
       "url": "https://www.youtube.com/watch?v=8dPs3xZLVoM",
       "thumbnail": "https://i.ytimg.com/vi/8dPs3xZLVoM/mqdefault.jpg",
       "published": "2026-05-27T04:00:20Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Dra. Rosângela revela com humor as verdades que a gente finge não ver | Paralelas",
-      "videoId": "60UiZrIFN4w",
-      "url": "https://www.youtube.com/watch?v=60UiZrIFN4w",
-      "thumbnail": "https://i.ytimg.com/vi/60UiZrIFN4w/mqdefault.jpg",
-      "published": "2026-05-27T03:30:32Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 27/05",
-      "videoId": "Xol77n54pdM",
-      "url": "https://www.youtube.com/watch?v=Xol77n54pdM",
-      "thumbnail": "https://i.ytimg.com/vi/Xol77n54pdM/mqdefault_live.jpg",
-      "published": "2026-05-27T03:25:16Z"
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 27/05 - CARACAS 1X1 GRÊMIO",
+      "videoId": "sCcn43L1VDw",
+      "url": "https://www.youtube.com/watch?v=sCcn43L1VDw",
+      "thumbnail": "https://i.ytimg.com/vi/sCcn43L1VDw/mqdefault.jpg",
+      "published": "2026-05-27T11:00:03Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #78 — GRÊMIO CRIA PROBLEMA PARA SI PRÓPRIO | REPERCUSSÕES DE MAIS UM TROPEÇO",
-      "videoId": "-dZZdV40aac",
-      "url": "https://www.youtube.com/watch?v=-dZZdV40aac",
-      "thumbnail": "https://i.ytimg.com/vi/-dZZdV40aac/mqdefault_live.jpg",
-      "published": "2026-05-27T03:02:22Z"
+      "title": "GRÊMIO VAI À REPESCAGEM DA SUL-AMERICANA | MÁ ATUAÇÃO DE NOVO! | PROBLEMAS IMPORTANTES | REDAÇÃO",
+      "videoId": "rPFOz0Nfe9A",
+      "url": "https://www.youtube.com/watch?v=rPFOz0Nfe9A",
+      "thumbnail": "https://i.ytimg.com/vi/rPFOz0Nfe9A/mqdefault_live.jpg",
+      "published": "2026-05-27T10:48:45Z"
     }
   ]
 }
