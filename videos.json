@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-05-27T00:00:36.885529+00:00",
+  "updated_at": "2026-05-27T01:01:03.638767+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: CONVERSA MARCADA | PRA ONDE VAI? | FORÇANDO A BARRA?",
-      "videoId": "jAIshtfKOOA",
-      "url": "https://www.youtube.com/watch?v=jAIshtfKOOA",
-      "thumbnail": "https://i.ytimg.com/vi/jAIshtfKOOA/mqdefault.jpg",
-      "published": "2026-05-26T19:14:15Z"
+      "title": "🔵⚫️ Grêmio 2x2 City Torque: VERGONHA DENTRO DA ARENA | CASTRO TEM TODA A CULPA | TIME MORFO",
+      "videoId": "eYDcrzx19KI",
+      "url": "https://www.youtube.com/watch?v=eYDcrzx19KI",
+      "thumbnail": "https://i.ytimg.com/vi/eYDcrzx19KI/mqdefault.jpg",
+      "published": "2026-05-27T00:23:40Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO PAVÓN VIROU PEÇA CHAVE PARA O TIME DE CASTRO | O MELHOR LATERAL DO BRASILEIRÃO",
-      "videoId": "I7wL5qNf3-A",
-      "url": "https://www.youtube.com/watch?v=I7wL5qNf3-A",
-      "thumbnail": "https://i.ytimg.com/vi/I7wL5qNf3-A/mqdefault.jpg",
-      "published": "2026-05-26T16:30:06Z"
+      "title": "🔵🔴 A Hora da Dupla KTO: CAMPANHA MELANCÓLICA | EMPATE MIXURUCA  | MEC SALVA",
+      "videoId": "QDP9VdYYvYk",
+      "url": "https://www.youtube.com/watch?v=QDP9VdYYvYk",
+      "thumbnail": "https://i.ytimg.com/vi/QDP9VdYYvYk/mqdefault_live.jpg",
+      "published": "2026-05-27T00:05:29Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Grêmio 2 x 2 City Torque: Castro erra e vamos para a repescagem da Sul-Americana",
+      "videoId": "pqTUEw8OnFY",
+      "url": "https://www.youtube.com/watch?v=pqTUEw8OnFY",
+      "thumbnail": "https://i.ytimg.com/vi/pqTUEw8OnFY/mqdefault.jpg",
+      "published": "2026-05-27T00:42:28Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Felipão e o Presidente Odorico falam sobre o projeto do Grêmio e a base",
       "videoId": "Jbhv51chk3I",
       "url": "https://www.youtube.com/watch?v=Jbhv51chk3I",
@@ -59,20 +67,12 @@
       "published": "2026-05-26T21:40:31Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x City Torque: dia de decisão na Arena pela Sul-americana",
-      "videoId": "q4QhfG-X3_w",
-      "url": "https://www.youtube.com/watch?v=q4QhfG-X3_w",
-      "thumbnail": "https://i.ytimg.com/vi/q4QhfG-X3_w/mqdefault.jpg",
-      "published": "2026-05-26T12:47:39Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "AO VIVO  GRÊMIO VS TORQUE  26.05  SULAMERICANA  2026 — FARID REAGINDO AO JOGO!!!",
       "videoId": "3ff_vzse-Z0",
       "url": "https://www.youtube.com/watch?v=3ff_vzse-Z0",
       "thumbnail": "https://i.ytimg.com/vi/3ff_vzse-Z0/mqdefault_live.jpg",
-      "published": "2026-05-26T18:59:24Z"
+      "published": "2026-05-27T00:47:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "FÁBRICA DE PONTAS DO GRÊMIO! VEM MAIS UM? #gremio #Futebol",
-      "videoId": "XfZeMYJFCtY",
-      "url": "https://www.youtube.com/watch?v=XfZeMYJFCtY",
-      "thumbnail": "https://i.ytimg.com/vi/XfZeMYJFCtY/mqdefault.jpg",
-      "published": "2026-05-26T14:00:11Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X  CITY TORQUE | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA SUL AMERICANA",
       "videoId": "l3ANVeqk0NM",
       "url": "https://www.youtube.com/watch?v=l3ANVeqk0NM",
       "thumbnail": "https://i.ytimg.com/vi/l3ANVeqk0NM/mqdefault_live.jpg",
-      "published": "2026-05-26T10:46:55Z"
+      "published": "2026-05-27T00:04:45Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "NÃO PODIA TER FICADO NO BANCO! GRÊMIO VAI PRA REPESCAGEM DA SUL-AMERICANA #gremio #Futebol",
+      "videoId": "GroaCt2Q6_4",
+      "url": "https://www.youtube.com/watch?v=GroaCt2Q6_4",
+      "thumbnail": "https://i.ytimg.com/vi/GroaCt2Q6_4/mqdefault.jpg",
+      "published": "2026-05-27T00:04:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | GRÊMIO X CITY TORQUE (SUL-AMERICANA 2026)",
       "videoId": "tMeSV8n7YL4",
       "url": "https://www.youtube.com/watch?v=tMeSV8n7YL4",
-      "thumbnail": "https://i.ytimg.com/vi/tMeSV8n7YL4/mqdefault_live.jpg",
-      "published": "2026-05-26T19:58:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/tMeSV8n7YL4/mqdefault.jpg",
+      "published": "2026-05-27T00:38:21Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Quem eram os jesuítas que fundaram as Missões no RS | Aconteceu no RS",
-      "videoId": "AEcQXlY7MNM",
-      "url": "https://www.youtube.com/watch?v=AEcQXlY7MNM",
-      "thumbnail": "https://i.ytimg.com/vi/AEcQXlY7MNM/mqdefault.jpg",
-      "published": "2026-05-27T00:00:02Z"
+      "title": "Como era a vida nos Sete Povos das Missões | Aconteceu no RS",
+      "videoId": "8VhgZAL2MQA",
+      "url": "https://www.youtube.com/watch?v=8VhgZAL2MQA",
+      "thumbnail": "https://i.ytimg.com/vi/8VhgZAL2MQA/mqdefault.jpg",
+      "published": "2026-05-27T01:00:12Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "A história das Missões contada pela visão dos guaranis | Aconteceu no RS",
-      "videoId": "3eV5f2ZhBIE",
-      "url": "https://www.youtube.com/watch?v=3eV5f2ZhBIE",
-      "thumbnail": "https://i.ytimg.com/vi/3eV5f2ZhBIE/mqdefault.jpg",
-      "published": "2026-05-26T23:30:04Z"
+      "title": "Guerra Guaranítica e os mitos e verdades sobre Sepé Tiaraju | Aconteceu no RS",
+      "videoId": "cMmvvzEoaEw",
+      "url": "https://www.youtube.com/watch?v=cMmvvzEoaEw",
+      "thumbnail": "https://i.ytimg.com/vi/cMmvvzEoaEw/mqdefault.jpg",
+      "published": "2026-05-27T00:30:37Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,23 +212,23 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JORNADA ESPORTIVA | GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | COPA SUL-AMERICANA | 26/05/2026",
+      "title": "GOLS DE GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | NARRAÇÃO PC CARVALHO | COPA SUL-AMERICANA | 26/05/2026",
+      "videoId": "AzDLr3dJoPI",
+      "url": "https://www.youtube.com/watch?v=AzDLr3dJoPI",
+      "thumbnail": "https://i.ytimg.com/vi/AzDLr3dJoPI/mqdefault.jpg",
+      "published": "2026-05-27T00:29:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "DEBATE BOLA | GRÊMIO 2 X 2 MONTEVIDEO CITY TORQUE | COPA SUL-AMERICANA | 26/05/2026",
       "videoId": "l0EXITdaT8A",
       "url": "https://www.youtube.com/watch?v=l0EXITdaT8A",
       "thumbnail": "https://i.ytimg.com/vi/l0EXITdaT8A/mqdefault_live.jpg",
       "published": "2026-05-26T20:00:06Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 26/05/2026",
-      "videoId": "rC0QPtqmU9w",
-      "url": "https://www.youtube.com/watch?v=rC0QPtqmU9w",
-      "thumbnail": "https://i.ytimg.com/vi/rC0QPtqmU9w/mqdefault.jpg",
-      "published": "2026-05-26T18:21:16Z"
-    },
-    {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (2) TORQUE | DIRETO DA ARENA DO GRÊMIO | COPA SUL-AMERICANA 2026",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (2) TORQUE | COLETIVA LUÍS CASTRO | DIRETO DA ARENA DO GRÊMIO",
       "videoId": "sC3Gwc1dguk",
       "url": "https://www.youtube.com/watch?v=sC3Gwc1dguk",
       "thumbnail": "https://i.ytimg.com/vi/sC3Gwc1dguk/mqdefault_live.jpg",
