@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-28T12:00:45.836611+00:00",
+  "updated_at": "2026-05-28T12:24:09.987120+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: PROPOSTA POR ALAN? | TIME DEFINIDO | NOVIDADES",
+      "videoId": "cpdNpoQV_E0",
+      "url": "https://www.youtube.com/watch?v=cpdNpoQV_E0",
+      "thumbnail": "https://i.ytimg.com/vi/cpdNpoQV_E0/mqdefault.jpg",
+      "published": "2026-05-28T12:03:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: TIME ESTOUROU | Pavón lesionado | Arthur no limite",
@@ -11,28 +19,20 @@
       "published": "2026-05-28T05:30:34Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: A busca pela justiça de 2005 do Inter | O DIA SEGUINTE  do Grêmio",
-      "videoId": "UANbViinFWk",
-      "url": "https://www.youtube.com/watch?v=UANbViinFWk",
-      "thumbnail": "https://i.ytimg.com/vi/UANbViinFWk/mqdefault.jpg",
-      "published": "2026-05-28T03:58:27Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 28/05 - #556",
-      "videoId": "pQAzTh552a8",
-      "url": "https://www.youtube.com/watch?v=pQAzTh552a8",
-      "thumbnail": "https://i.ytimg.com/vi/pQAzTh552a8/mqdefault_live.jpg",
-      "published": "2026-05-28T11:59:49Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO VAI ENFRENTAR O BOLÍVAR NA SULAMERICANA 🌅🔵 BOM DIA GRÊMIO #038",
       "videoId": "yAKDS-K4Kso",
       "url": "https://www.youtube.com/watch?v=yAKDS-K4Kso",
-      "thumbnail": "https://i.ytimg.com/vi/yAKDS-K4Kso/mqdefault_live.jpg",
-      "published": "2026-05-28T11:56:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/yAKDS-K4Kso/mqdefault.jpg",
+      "published": "2026-05-28T12:03:47Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO PODE TER ALTITUDE PELA FRENTE - FUTEBOL ALEGRIA DO GRÊMIO - 28/05 - #556",
+      "videoId": "pQAzTh552a8",
+      "url": "https://www.youtube.com/watch?v=pQAzTh552a8",
+      "thumbnail": "https://i.ytimg.com/vi/pQAzTh552a8/mqdefault_live.jpg",
+      "published": "2026-05-28T11:59:49Z"
     },
     {
       "channel": "Bruno Soares Reporter",
