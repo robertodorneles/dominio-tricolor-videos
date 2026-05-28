@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-28T00:00:44.275490+00:00",
+  "updated_at": "2026-05-28T01:00:35.648768+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: A busca pela justiça de 2005 do Inter | O DIA SEGUINTE  do Grêmio",
+      "videoId": "UANbViinFWk",
+      "url": "https://www.youtube.com/watch?v=UANbViinFWk",
+      "thumbnail": "https://i.ytimg.com/vi/UANbViinFWk/mqdefault_live.jpg",
+      "published": "2026-05-28T00:35:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥🏆 ENTENDA DE UMA VEZ A HISTÓRIA | TÍTULO É JUSTO | NA MÃO DE UMA PESSOA!",
@@ -11,20 +19,12 @@
       "published": "2026-05-27T20:51:39Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O que falam sobre o risco de demissão do Castro em caso de derrota para o Corinthians",
-      "videoId": "ebtW8IJXvuc",
-      "url": "https://www.youtube.com/watch?v=ebtW8IJXvuc",
-      "thumbnail": "https://i.ytimg.com/vi/ebtW8IJXvuc/mqdefault.jpg",
-      "published": "2026-05-27T20:00:35Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 COPA DO BRASIL FEMININA 🔵 GRÊMIO X INTERNACIONAL",
       "videoId": "NL1qDxc2pUU",
       "url": "https://www.youtube.com/watch?v=NL1qDxc2pUU",
-      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault_live.jpg",
-      "published": "2026-05-27T23:54:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault.jpg",
+      "published": "2026-05-28T00:03:46Z"
     },
     {
       "channel": "Bage TV",
@@ -215,8 +215,8 @@
       "title": "27/05/2026 | INTER (4) 0 X 0 (2) GRÊMIO | COPA DO BRASIL FEMININA | JORNADA COMPLETA",
       "videoId": "ZXwMmGmxSRo",
       "url": "https://www.youtube.com/watch?v=ZXwMmGmxSRo",
-      "thumbnail": "https://i.ytimg.com/vi/ZXwMmGmxSRo/mqdefault_live.jpg",
-      "published": "2026-05-27T23:54:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/ZXwMmGmxSRo/mqdefault.jpg",
+      "published": "2026-05-28T00:04:27Z"
     },
     {
       "channel": "Radio Grenal",
