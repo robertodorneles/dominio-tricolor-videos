@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-28T22:00:37.543483+00:00",
+  "updated_at": "2026-05-28T23:00:38.764259+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA O QUE FAZ CASTRO VER BRAITHWAITE COMO POSTULANTE A TITULARIDADE NA FUNÇÃODE 10",
+      "videoId": "L9JeOYQ2lHc",
+      "url": "https://www.youtube.com/watch?v=L9JeOYQ2lHc",
+      "thumbnail": "https://i.ytimg.com/vi/L9JeOYQ2lHc/mqdefault.jpg",
+      "published": "2026-05-28T22:14:44Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 THIAGO SILVA? OTAVIO? | VEJA QUEM PODE VIR | PROMESSA DE REFORÇOS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=qi1Voh7MzUA",
       "thumbnail": "https://i.ytimg.com/vi/qi1Voh7MzUA/mqdefault.jpg",
       "published": "2026-05-28T18:12:15Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 PROPOSTA POR ALAN? | TIME DEFINIDO | NOVIDADES NO TREINO",
-      "videoId": "cpdNpoQV_E0",
-      "url": "https://www.youtube.com/watch?v=cpdNpoQV_E0",
-      "thumbnail": "https://i.ytimg.com/vi/cpdNpoQV_E0/mqdefault.jpg",
-      "published": "2026-05-28T12:03:35Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRÊMIO COM DESFALQUES - TORCEDOR DEVE SER PEÇA FUNDAMENTAL - VAMOOO FARIDO 28.05.26",
-      "videoId": "No2-GwST_C8",
-      "url": "https://www.youtube.com/watch?v=No2-GwST_C8",
-      "thumbnail": "https://i.ytimg.com/vi/No2-GwST_C8/mqdefault_live.jpg",
-      "published": "2026-05-28T20:48:55Z"
+      "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP02",
+      "videoId": "OTQ1cLcUORI",
+      "url": "https://www.youtube.com/watch?v=OTQ1cLcUORI",
+      "thumbnail": "https://i.ytimg.com/vi/OTQ1cLcUORI/mqdefault_live.jpg",
+      "published": "2026-05-28T22:50:21Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "OBRIGATÓRIO VENCER O CORINTHIANS - 50 MIL NA ARENA - VAMOOO FARIDO 27.05.26",
-      "videoId": "p7xP70bKE6k",
-      "url": "https://www.youtube.com/watch?v=p7xP70bKE6k",
-      "thumbnail": "https://i.ytimg.com/vi/p7xP70bKE6k/mqdefault.jpg",
-      "published": "2026-05-28T11:40:13Z"
+      "title": "GRÊMIO COM DESFALQUES - TORCEDOR DEVE SER PEÇA FUNDAMENTAL - VAMOOO FARIDO 28.05.26",
+      "videoId": "No2-GwST_C8",
+      "url": "https://www.youtube.com/watch?v=No2-GwST_C8",
+      "thumbnail": "https://i.ytimg.com/vi/No2-GwST_C8/mqdefault.jpg",
+      "published": "2026-05-28T22:39:27Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "SKYLAB METEU O PAU NAS BANDAS GAÚCHAS? MAS TEM EXCEÇÕES !!! | Cortes do Duda",
+      "videoId": "VUG0cbFO2D0",
+      "url": "https://www.youtube.com/watch?v=VUG0cbFO2D0",
+      "thumbnail": "https://i.ytimg.com/vi/VUG0cbFO2D0/mqdefault.jpg",
+      "published": "2026-05-28T23:00:13Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... ROGÉRIO SKYLAB | #386",
       "videoId": "1P3dWRQnbHk",
       "url": "https://www.youtube.com/watch?v=1P3dWRQnbHk",
       "thumbnail": "https://i.ytimg.com/vi/1P3dWRQnbHk/mqdefault.jpg",
       "published": "2026-05-28T22:00:06Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "RELATO EMOCIONANTE DO LUCANETA SOBRE SONHO DO PAI E CHANCE NO FEIRA F.C. | Cortes do Duda",
-      "videoId": "8GSQPQzZ8jg",
-      "url": "https://www.youtube.com/watch?v=8GSQPQzZ8jg",
-      "thumbnail": "https://i.ytimg.com/vi/8GSQPQzZ8jg/mqdefault.jpg",
-      "published": "2026-05-27T22:00:37Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "VIOLÊNCIA CONTRA A MULHER: o maior desafio da segurança pública? | Conversas Cruzadas",
+      "videoId": "ssdfp5ncZQE",
+      "url": "https://www.youtube.com/watch?v=ssdfp5ncZQE",
+      "thumbnail": "https://i.ytimg.com/vi/ssdfp5ncZQE/mqdefault.jpg",
+      "published": "2026-05-28T23:00:30Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Brasil está mais seguro? Quais os avanços e desafios na segurança | Conversas Cruzadas | 28/05/2026",
       "videoId": "1hIZF8102_I",
       "url": "https://www.youtube.com/watch?v=1hIZF8102_I",
@@ -171,12 +179,12 @@
       "published": "2026-05-28T21:32:42Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Como a IMPRESSÃO 3D pode personalizar MEDICAMENTOS e ajudar crianças e idosos | Radar de Inovação",
-      "videoId": "37yToFn4HJU",
-      "url": "https://www.youtube.com/watch?v=37yToFn4HJU",
-      "thumbnail": "https://i.ytimg.com/vi/37yToFn4HJU/mqdefault.jpg",
-      "published": "2026-05-28T21:30:06Z"
+      "channel": "Jeremias Wernek",
+      "title": "A louca história da Granja Comary, a casa da seleção brasileira",
+      "videoId": "lUEfqi2rXXU",
+      "url": "https://www.youtube.com/watch?v=lUEfqi2rXXU",
+      "thumbnail": "https://i.ytimg.com/vi/lUEfqi2rXXU/mqdefault.jpg",
+      "published": "2026-05-28T23:00:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=27KHIvAzaas",
       "thumbnail": "https://i.ytimg.com/vi/27KHIvAzaas/mqdefault.jpg",
       "published": "2026-05-27T21:43:57Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Desbloqueei memórias de Copa + o  início de algo novo",
-      "videoId": "p8vhzH7PxuM",
-      "url": "https://www.youtube.com/watch?v=p8vhzH7PxuM",
-      "thumbnail": "https://i.ytimg.com/vi/p8vhzH7PxuM/mqdefault.jpg",
-      "published": "2026-05-25T23:00:02Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO QUEBRA A CABEÇA PARA O TIME DE SÁBADO | PERÍODO PÓS-COPA SERÁ CONTURBADO | IMORTAL FC",
       "videoId": "MRB1mKdd8u0",
       "url": "https://www.youtube.com/watch?v=MRB1mKdd8u0",
-      "thumbnail": "https://i.ytimg.com/vi/MRB1mKdd8u0/mqdefault_live.jpg",
-      "published": "2026-05-28T21:02:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/MRB1mKdd8u0/mqdefault.jpg",
+      "published": "2026-05-28T22:08:52Z"
     },
     {
       "channel": "Radio Imortal",
