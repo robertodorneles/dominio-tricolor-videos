@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:14:43.751750+00:00",
+  "updated_at": "2026-05-28T00:00:44.275490+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 COPA DO BRASIL FEMININA 🔵 GRÊMIO X INTERNACIONAL",
+      "videoId": "NL1qDxc2pUU",
+      "url": "https://www.youtube.com/watch?v=NL1qDxc2pUU",
+      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault_live.jpg",
+      "published": "2026-05-27T23:54:16Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "PROBLEMA NAS DATAS E VENDA MILIONÁRIA NO GRÊMIO🔹 THE TARDE 🔹#159",
       "videoId": "x1SuNFAz5EA",
       "url": "https://www.youtube.com/watch?v=x1SuNFAz5EA",
       "thumbnail": "https://i.ytimg.com/vi/x1SuNFAz5EA/mqdefault.jpg",
       "published": "2026-05-27T21:41:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 COPA DO BRASIL FEMININA 🔵 GRÊMIO X INTERNACIONAL",
-      "videoId": "NL1qDxc2pUU",
-      "url": "https://www.youtube.com/watch?v=NL1qDxc2pUU",
-      "thumbnail": "https://i.ytimg.com/vi/NL1qDxc2pUU/mqdefault_live.jpg",
-      "published": "2026-05-27T21:03:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | INTERNACIONAL X GRÊMIO FEMININO (COPA DO BRASIL 2026)",
       "videoId": "pI9K6E5yZpE",
       "url": "https://www.youtube.com/watch?v=pI9K6E5yZpE",
-      "thumbnail": "https://i.ytimg.com/vi/pI9K6E5yZpE/mqdefault_live.jpg",
-      "published": "2026-05-27T21:16:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/pI9K6E5yZpE/mqdefault.jpg",
+      "published": "2026-05-27T23:56:28Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -168,15 +168,15 @@
       "videoId": "8kVPDo1emD8",
       "url": "https://www.youtube.com/watch?v=8kVPDo1emD8",
       "thumbnail": "https://i.ytimg.com/vi/8kVPDo1emD8/mqdefault_live.jpg",
-      "published": "2026-05-27T22:25:52Z"
+      "published": "2026-05-27T23:40:49Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "DIA D: Lançamento da Gaúcha Passo Fundo, trânsito, tempo e mais | 27/05/2026",
-      "videoId": "2M2emYYUjC0",
-      "url": "https://www.youtube.com/watch?v=2M2emYYUjC0",
-      "thumbnail": "https://i.ytimg.com/vi/2M2emYYUjC0/mqdefault_live.jpg",
-      "published": "2026-05-27T19:34:34Z"
+      "title": "LEANDRO KARNAL | RivoTalks #134 (reprise)",
+      "videoId": "CC_PMQUt_gk",
+      "url": "https://www.youtube.com/watch?v=CC_PMQUt_gk",
+      "thumbnail": "https://i.ytimg.com/vi/CC_PMQUt_gk/mqdefault.jpg",
+      "published": "2026-05-27T23:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BEIRA-RIO | INTER 0 X 0 GRÊMIO | COPA DO BRASIL FEMININA | 27/05/2026",
+      "title": "27/05/2026 | INTER (4) 0 X 0 (2) GRÊMIO | COPA DO BRASIL FEMININA | JORNADA COMPLETA",
       "videoId": "ZXwMmGmxSRo",
       "url": "https://www.youtube.com/watch?v=ZXwMmGmxSRo",
       "thumbnail": "https://i.ytimg.com/vi/ZXwMmGmxSRo/mqdefault_live.jpg",
-      "published": "2026-05-27T20:56:22Z"
+      "published": "2026-05-27T23:54:34Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO FRACASSA EM GRUPO NA SUL-AMERICANA | TORCIDA PRESSIONA | LESÕES CONFIRMADAS | IMORTAL FC",
-      "videoId": "fH0kFO2u2ds",
-      "url": "https://www.youtube.com/watch?v=fH0kFO2u2ds",
-      "thumbnail": "https://i.ytimg.com/vi/fH0kFO2u2ds/mqdefault.jpg",
-      "published": "2026-05-27T23:01:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO SEGUE DECEPCIONANDO | PAVÓN E LUIS EDUARDO LESIONADOS | NOITES DE GRÊMIO #78 - 27/05",
       "videoId": "q74ZGEj5hmo",
       "url": "https://www.youtube.com/watch?v=q74ZGEj5hmo",
       "thumbnail": "https://i.ytimg.com/vi/q74ZGEj5hmo/mqdefault_live.jpg",
-      "published": "2026-05-27T22:48:06Z"
+      "published": "2026-05-28T00:00:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 28/05",
+      "videoId": "NmcYjFw5Vn4",
+      "url": "https://www.youtube.com/watch?v=NmcYjFw5Vn4",
+      "thumbnail": "https://i.ytimg.com/vi/NmcYjFw5Vn4/mqdefault_live.jpg",
+      "published": "2026-05-27T23:55:10Z"
     }
   ]
 }
