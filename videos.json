@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T01:00:35.648768+00:00",
+  "updated_at": "2026-05-28T02:00:39.847167+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "DIA D: conheça a programação especial da Gaúcha, GZH e Zero Hora | Gaúcha Atualidade | 27/05/2026",
+      "videoId": "e2OPTmaFO3k",
+      "url": "https://www.youtube.com/watch?v=e2OPTmaFO3k",
+      "thumbnail": "https://i.ytimg.com/vi/e2OPTmaFO3k/mqdefault.jpg",
+      "published": "2026-05-28T01:33:41Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "DIA D: inovação, desenvolvimento regional e novos caminhos para o RS | Conversas Cruzadas 27/05/2026",
       "videoId": "8kVPDo1emD8",
       "url": "https://www.youtube.com/watch?v=8kVPDo1emD8",
       "thumbnail": "https://i.ytimg.com/vi/8kVPDo1emD8/mqdefault_live.jpg",
       "published": "2026-05-27T23:40:49Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "LEANDRO KARNAL | RivoTalks #134 (reprise)",
-      "videoId": "CC_PMQUt_gk",
-      "url": "https://www.youtube.com/watch?v=CC_PMQUt_gk",
-      "thumbnail": "https://i.ytimg.com/vi/CC_PMQUt_gk/mqdefault.jpg",
-      "published": "2026-05-27T23:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO SEGUE DECEPCIONANDO | PAVÓN E LUIS EDUARDO LESIONADOS | NOITES DE GRÊMIO #78 - 27/05",
       "videoId": "q74ZGEj5hmo",
       "url": "https://www.youtube.com/watch?v=q74ZGEj5hmo",
-      "thumbnail": "https://i.ytimg.com/vi/q74ZGEj5hmo/mqdefault_live.jpg",
-      "published": "2026-05-28T00:00:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/q74ZGEj5hmo/mqdefault.jpg",
+      "published": "2026-05-28T01:59:25Z"
     },
     {
       "channel": "Radio Imortal",
