@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-29T20:00:36.717219+00:00",
+  "updated_at": "2026-05-29T21:00:36.520967+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA O GURI DE 16 ANOS CHAMADO POR CASTRO | O GOLEIRO DO FUTURO | GIGANTE DAS TRAVES",
+      "videoId": "yIFdCMdcrLc",
+      "url": "https://www.youtube.com/watch?v=yIFdCMdcrLc",
+      "thumbnail": "https://i.ytimg.com/vi/yIFdCMdcrLc/mqdefault.jpg",
+      "published": "2026-05-29T20:00:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Diário do Inter KTO: 🔥 DINHEIRO PODE SOBRAR | ESTRATÉGIA COM COUDET | ROCHET IRRITA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=HYROTZYgn18",
       "thumbnail": "https://i.ytimg.com/vi/HYROTZYgn18/mqdefault.jpg",
       "published": "2026-05-29T06:46:34Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Europa chama MEC | Arthur bate o pé | Time desmontado",
-      "videoId": "XxHpjc2DC5s",
-      "url": "https://www.youtube.com/watch?v=XxHpjc2DC5s",
-      "thumbnail": "https://i.ytimg.com/vi/XxHpjc2DC5s/mqdefault.jpg",
-      "published": "2026-05-29T05:00:08Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ARENA LOTADA 50 MIL TORCEDORES - VAMOOO FARIDO 28.05.26",
+      "videoId": "wC9GopuhPno",
+      "url": "https://www.youtube.com/watch?v=wC9GopuhPno",
+      "thumbnail": "https://i.ytimg.com/vi/wC9GopuhPno/mqdefault_live.jpg",
+      "published": "2026-05-29T20:46:56Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP02",
       "videoId": "OTQ1cLcUORI",
       "url": "https://www.youtube.com/watch?v=OTQ1cLcUORI",
       "thumbnail": "https://i.ytimg.com/vi/OTQ1cLcUORI/mqdefault.jpg",
       "published": "2026-05-29T13:00:56Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO COM DESFALQUES - TORCEDOR DEVE SER PEÇA FUNDAMENTAL - VAMOOO FARIDO 28.05.26",
-      "videoId": "No2-GwST_C8",
-      "url": "https://www.youtube.com/watch?v=No2-GwST_C8",
-      "thumbnail": "https://i.ytimg.com/vi/No2-GwST_C8/mqdefault.jpg",
-      "published": "2026-05-28T22:39:27Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "SKYLAB CONTA BASTIDOR DO PROGRAMA DO JÔ E REVELA FRASE CENSURADA| Cortes do Duda",
+      "videoId": "MjMSdi1metM",
+      "url": "https://www.youtube.com/watch?v=MjMSdi1metM",
+      "thumbnail": "https://i.ytimg.com/vi/MjMSdi1metM/mqdefault.jpg",
+      "published": "2026-05-29T21:00:00Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "SKYLAB METEU O PAU NAS BANDAS GAÚCHAS? MAS TEM EXCEÇÕES !!! | Cortes do Duda",
       "videoId": "VUG0cbFO2D0",
       "url": "https://www.youtube.com/watch?v=VUG0cbFO2D0",
       "thumbnail": "https://i.ytimg.com/vi/VUG0cbFO2D0/mqdefault.jpg",
       "published": "2026-05-28T23:00:13Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ROLÊ ALEATÓRIO: O DIA QUE SKYLAB FOI PARAR NUM GRENAL NO ESTÁDIO OLÍMPICO | Cortes do Duda",
-      "videoId": "2AI5MWwr-A4",
-      "url": "https://www.youtube.com/watch?v=2AI5MWwr-A4",
-      "thumbnail": "https://i.ytimg.com/vi/2AI5MWwr-A4/mqdefault.jpg",
-      "published": "2026-05-28T22:30:09Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "PCC x COMANDO VERMELHO: a guerra entre facções acabou? Especialistas analisam | Conversas Cruzadas",
+      "videoId": "1J-Jj19D2Ak",
+      "url": "https://www.youtube.com/watch?v=1J-Jj19D2Ak",
+      "thumbnail": "https://i.ytimg.com/vi/1J-Jj19D2Ak/mqdefault.jpg",
+      "published": "2026-05-29T20:38:15Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ELEIÇÕES 2026: disputa entre LULA e FLÁVIO BOLSONARO enterra a 3ª VIA? | Conversas Cruzadas",
       "videoId": "0LwGjjjz58k",
       "url": "https://www.youtube.com/watch?v=0LwGjjjz58k",
       "thumbnail": "https://i.ytimg.com/vi/0LwGjjjz58k/mqdefault.jpg",
-      "published": "2026-05-29T19:40:18Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Maratona de Porto Alegre, 400 anos das missões, trânsito e mais | Gaúcha+ | 29/05/2026",
-      "videoId": "BGZLakTBj1M",
-      "url": "https://www.youtube.com/watch?v=BGZLakTBj1M",
-      "thumbnail": "https://i.ytimg.com/vi/BGZLakTBj1M/mqdefault_live.jpg",
-      "published": "2026-05-29T19:34:27Z"
+      "published": "2026-05-29T20:31:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨NOTÍCIA IMPORTANTE SOBRE PATROCINADOR MÁSTER | DUAS SAÍDAS ENCAMINHADAS | GRÊMIO NA LIBERTADORES?",
+      "videoId": "ScBq8_Jc4lE",
+      "url": "https://www.youtube.com/watch?v=ScBq8_Jc4lE",
+      "thumbnail": "https://i.ytimg.com/vi/ScBq8_Jc4lE/mqdefault.jpg",
+      "published": "2026-05-29T20:42:25Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨INCRÍVEL: BOA NOTÍCIA PRO GRÊMIO NA SULA | R$ 70 MILHÕES? | PROPOSTA MILIONÁRIA RECUSADA",
       "videoId": "Wd5zIHwQZ4Q",
       "url": "https://www.youtube.com/watch?v=Wd5zIHwQZ4Q",
       "thumbnail": "https://i.ytimg.com/vi/Wd5zIHwQZ4Q/mqdefault.jpg",
       "published": "2026-05-28T20:01:22Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨COMPLICOU PRO GRÊMIO! | FUTURO LONGE DO GRÊMIO!? | LUÍS CASTRO DÁ RECADO PREOCUPANTE",
-      "videoId": "fNRvkOZ8o8Q",
-      "url": "https://www.youtube.com/watch?v=fNRvkOZ8o8Q",
-      "thumbnail": "https://i.ytimg.com/vi/fNRvkOZ8o8Q/mqdefault.jpg",
-      "published": "2026-05-27T20:16:35Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO CONHECE O CAMINHO NA SUL-AMERICANA | A ÚLTIMA RODADA PRÉ-COPA | ARTHUR BATE O PÉ | ESPLANADA",
-      "videoId": "WjO05E2NWxE",
-      "url": "https://www.youtube.com/watch?v=WjO05E2NWxE",
-      "thumbnail": "https://i.ytimg.com/vi/WjO05E2NWxE/mqdefault_live.jpg",
-      "published": "2026-05-29T19:36:01Z"
+      "title": "TUDO SOBRE GRÊMIO X CORINTHIANS | CAMINHO DA SUL-AMERICANA | NOITES DE GRÊMIO #80 - 29/05",
+      "videoId": "3VURTV1qAV0",
+      "url": "https://www.youtube.com/watch?v=3VURTV1qAV0",
+      "thumbnail": "https://i.ytimg.com/vi/3VURTV1qAV0/mqdefault_live.jpg",
+      "published": "2026-05-29T20:28:02Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AMANHÃ TEM GRÊMIO EM CAMPO! | PROVÁVEL ESCALAÇÃO | CHAVEAMENTO DA SUL-AMERICANA | IMORTAL FC",
-      "videoId": "UTQ8n2-srTE",
-      "url": "https://www.youtube.com/watch?v=UTQ8n2-srTE",
-      "thumbnail": "https://i.ytimg.com/vi/UTQ8n2-srTE/mqdefault_live.jpg",
-      "published": "2026-05-29T17:45:05Z"
+      "title": "GRÊMIO CONHECE O CAMINHO NA SUL-AMERICANA | A ÚLTIMA RODADA PRÉ-COPA | ARTHUR BATE O PÉ | ESPLANADA",
+      "videoId": "WjO05E2NWxE",
+      "url": "https://www.youtube.com/watch?v=WjO05E2NWxE",
+      "thumbnail": "https://i.ytimg.com/vi/WjO05E2NWxE/mqdefault.jpg",
+      "published": "2026-05-29T20:09:40Z"
     }
   ]
 }
