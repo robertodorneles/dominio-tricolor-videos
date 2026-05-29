@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T14:00:45.179951+00:00",
+  "updated_at": "2026-05-29T15:00:39.081298+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO POR MEIA-ARMADOR | SAÍDA ANTECIPADA | TRÊS NOVIDADES NO TIME DO GRÊMIO CONTRA O CORINTHIANS",
+      "videoId": "aXVnfkECXDM",
+      "url": "https://www.youtube.com/watch?v=aXVnfkECXDM",
+      "thumbnail": "https://i.ytimg.com/vi/aXVnfkECXDM/mqdefault.jpg",
+      "published": "2026-05-29T14:22:39Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨ATENÇÃO! GRÊMIO ACERTADO COM JOGADOR! ÓTIMA NOTÍCIA | OS MILHÕES QUE PREOCUPAM E AS METAS DO ANO!",
       "videoId": "8bpFM0XT5os",
       "url": "https://www.youtube.com/watch?v=8bpFM0XT5os",
@@ -43,12 +51,12 @@
       "published": "2026-05-28T23:39:18Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DUAS SAÍDAS SE APROXIMAM NO GRÊMIO | LUIS CASTRO E A INSISTÊNCIA EM ATLETA RUIM | CAMINHO NAS COPAS",
-      "videoId": "bLDgyWWbD34",
-      "url": "https://www.youtube.com/watch?v=bLDgyWWbD34",
-      "thumbnail": "https://i.ytimg.com/vi/bLDgyWWbD34/mqdefault.jpg",
-      "published": "2026-05-28T14:32:23Z"
+      "channel": "Canal do CCD",
+      "title": "Alex Leitão traz muitas informações na reunião do conselho do Grêmio",
+      "videoId": "HUEebc7xnXg",
+      "url": "https://www.youtube.com/watch?v=HUEebc7xnXg",
+      "thumbnail": "https://i.ytimg.com/vi/HUEebc7xnXg/mqdefault.jpg",
+      "published": "2026-05-29T14:05:30Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=scqDRZyZyI0",
       "thumbnail": "https://i.ytimg.com/vi/scqDRZyZyI0/mqdefault.jpg",
       "published": "2026-05-28T21:28:32Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "A visão macro do déficit absurdo no Grêmio",
-      "videoId": "cHEUAXs3Gko",
-      "url": "https://www.youtube.com/watch?v=cHEUAXs3Gko",
-      "thumbnail": "https://i.ytimg.com/vi/cHEUAXs3Gko/mqdefault.jpg",
-      "published": "2026-05-28T15:13:32Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Homenagem a Pedro Ortaça, Os Fagundes, últimas da política e mais | Timeline | 29/05/2026",
-      "videoId": "WooaD7X3lSI",
-      "url": "https://www.youtube.com/watch?v=WooaD7X3lSI",
-      "thumbnail": "https://i.ytimg.com/vi/WooaD7X3lSI/mqdefault_live.jpg",
-      "published": "2026-05-29T13:55:14Z"
+      "title": "Arquiteta gaúcha celebra 10 anos de voluntariado e leva iniciativa à Ásia | Paralelas",
+      "videoId": "A5jZ5hnvpq8",
+      "url": "https://www.youtube.com/watch?v=A5jZ5hnvpq8",
+      "thumbnail": "https://i.ytimg.com/vi/A5jZ5hnvpq8/mqdefault.jpg",
+      "published": "2026-05-29T15:00:08Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Imposto de Renda, Trump declara PCC organização terrorista e + | Gaúcha Atualidade | 29/05/2026",
-      "videoId": "Ebp5Mkjue44",
-      "url": "https://www.youtube.com/watch?v=Ebp5Mkjue44",
-      "thumbnail": "https://i.ytimg.com/vi/Ebp5Mkjue44/mqdefault_live.jpg",
-      "published": "2026-05-29T13:04:01Z"
+      "title": "IMPOSTO DE RENDA 2026: Prazo termina nesta sexta | Zero Hora",
+      "videoId": "vOMZCybQDgo",
+      "url": "https://www.youtube.com/watch?v=vOMZCybQDgo",
+      "thumbnail": "https://i.ytimg.com/vi/vOMZCybQDgo/mqdefault.jpg",
+      "published": "2026-05-29T14:50:35Z"
     },
     {
       "channel": "Jeremias Wernek",
