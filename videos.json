@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T12:13:33.857459+00:00",
+  "updated_at": "2026-05-29T13:00:36.705284+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA VITÓRIA CONTRA O CORINTHIANS APÓS 8 ANOS | DÚVIDAS NA ESCALAÇÃO | REDAÇÃO IMORTAL",
+      "videoId": "h1QbkJJQUl4",
+      "url": "https://www.youtube.com/watch?v=h1QbkJJQUl4",
+      "thumbnail": "https://i.ytimg.com/vi/h1QbkJJQUl4/mqdefault.jpg",
+      "published": "2026-05-29T12:45:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 29/05 - GRÊMIO 4X0 STRONGEST",
       "videoId": "sYhXlhRRZ-Q",
       "url": "https://www.youtube.com/watch?v=sYhXlhRRZ-Q",
       "thumbnail": "https://i.ytimg.com/vi/sYhXlhRRZ-Q/mqdefault.jpg",
       "published": "2026-05-29T11:00:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA VITÓRIA CONTRA O CORINTHIANS APÓS 8 ANOS | DÚVIDAS NA ESCALAÇÃO | REDAÇÃO IMORTAL",
-      "videoId": "h1QbkJJQUl4",
-      "url": "https://www.youtube.com/watch?v=h1QbkJJQUl4",
-      "thumbnail": "https://i.ytimg.com/vi/h1QbkJJQUl4/mqdefault_live.jpg",
-      "published": "2026-05-29T10:47:21Z"
     }
   ]
 }
