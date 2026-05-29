@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T10:00:36.077805+00:00",
+  "updated_at": "2026-05-29T11:00:40.339144+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha Atualidade | 29/05/2026",
+      "videoId": "Ebp5Mkjue44",
+      "url": "https://www.youtube.com/watch?v=Ebp5Mkjue44",
+      "thumbnail": "https://i.ytimg.com/vi/Ebp5Mkjue44/mqdefault_live.jpg",
+      "published": "2026-05-29T10:56:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Brasil está mais seguro? Quais os avanços e desafios na segurança | Conversas Cruzadas | 28/05/2026",
       "videoId": "1hIZF8102_I",
       "url": "https://www.youtube.com/watch?v=1hIZF8102_I",
       "thumbnail": "https://i.ytimg.com/vi/1hIZF8102_I/mqdefault.jpg",
       "published": "2026-05-29T09:36:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Timeline | 29/05/2026",
-      "videoId": "WooaD7X3lSI",
-      "url": "https://www.youtube.com/watch?v=WooaD7X3lSI",
-      "thumbnail": "https://i.ytimg.com/vi/WooaD7X3lSI/mqdefault_live.jpg",
-      "published": "2026-05-29T07:39:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "O CEO ALEX LEITÃO FALOU NA ZONA MISTA SOBRE O PATROCÍNIO MASTER.📹: Rádio Imortal /  @guiparana",
-      "videoId": "LXDBZOeTkGU",
-      "url": "https://www.youtube.com/watch?v=LXDBZOeTkGU",
-      "thumbnail": "https://i.ytimg.com/vi/LXDBZOeTkGU/mqdefault.jpg",
-      "published": "2026-05-29T02:30:59Z"
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 29/05 - GRÊMIO 4X0 STRONGEST",
+      "videoId": "sYhXlhRRZ-Q",
+      "url": "https://www.youtube.com/watch?v=sYhXlhRRZ-Q",
+      "thumbnail": "https://i.ytimg.com/vi/sYhXlhRRZ-Q/mqdefault.jpg",
+      "published": "2026-05-29T11:00:18Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "DIRETO DA ARENA I REUNIÃO DO CONSELHO DELIBERATIVO |  NOITES DE GRÊMIO #79 - 28/05",
-      "videoId": "zjfBy-qaKt0",
-      "url": "https://www.youtube.com/watch?v=zjfBy-qaKt0",
-      "thumbnail": "https://i.ytimg.com/vi/zjfBy-qaKt0/mqdefault.jpg",
-      "published": "2026-05-29T02:29:47Z"
+      "title": "GRÊMIO BUSCA VITÓRIA CONTRA O CORINTHIANS APÓS 8 ANOS | DÚVIDAS NA ESCALAÇÃO | REDAÇÃO IMORTAL",
+      "videoId": "h1QbkJJQUl4",
+      "url": "https://www.youtube.com/watch?v=h1QbkJJQUl4",
+      "thumbnail": "https://i.ytimg.com/vi/h1QbkJJQUl4/mqdefault_live.jpg",
+      "published": "2026-05-29T10:47:21Z"
     }
   ]
 }
