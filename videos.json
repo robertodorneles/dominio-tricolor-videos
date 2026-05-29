@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T23:00:33.708057+00:00",
+  "updated_at": "2026-05-29T23:09:36.787842+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "50 MIL NA ARENA!!",
+      "videoId": "5FSDIde2aYg",
+      "url": "https://www.youtube.com/watch?v=5FSDIde2aYg",
+      "thumbnail": "https://i.ytimg.com/vi/5FSDIde2aYg/mqdefault.jpg",
+      "published": "2026-05-29T23:02:22Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GREMISTAS DE PESO #008",
       "videoId": "GcT2a_bWj-M",
       "url": "https://www.youtube.com/watch?v=GcT2a_bWj-M",
       "thumbnail": "https://i.ytimg.com/vi/GcT2a_bWj-M/mqdefault_live.jpg",
       "published": "2026-05-29T22:42:24Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ARENA LOTADA 50 MIL TORCEDORES - VAMOOO FARIDO 28.05.26",
-      "videoId": "wC9GopuhPno",
-      "url": "https://www.youtube.com/watch?v=wC9GopuhPno",
-      "thumbnail": "https://i.ytimg.com/vi/wC9GopuhPno/mqdefault_live.jpg",
-      "published": "2026-05-29T22:11:40Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
-      "videoId": "MrRwAgAM2ew",
-      "url": "https://www.youtube.com/watch?v=MrRwAgAM2ew",
-      "thumbnail": "https://i.ytimg.com/vi/MrRwAgAM2ew/mqdefault_live.jpg",
-      "published": "2026-05-29T11:00:24Z"
+      "videoId": "uHwLzyQHjDc",
+      "url": "https://www.youtube.com/watch?v=uHwLzyQHjDc",
+      "thumbnail": "https://i.ytimg.com/vi/uHwLzyQHjDc/mqdefault_live.jpg",
+      "published": "2026-05-29T23:01:12Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "PATROCINADOR MASTER 🇪🇪 #shorts",
-      "videoId": "2Yc3P3J0_yA",
-      "url": "https://www.youtube.com/watch?v=2Yc3P3J0_yA",
-      "thumbnail": "https://i.ytimg.com/vi/2Yc3P3J0_yA/mqdefault.jpg",
-      "published": "2026-05-29T02:44:47Z"
+      "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
+      "videoId": "MrRwAgAM2ew",
+      "url": "https://www.youtube.com/watch?v=MrRwAgAM2ew",
+      "thumbnail": "https://i.ytimg.com/vi/MrRwAgAM2ew/mqdefault_live.jpg",
+      "published": "2026-05-29T23:00:58Z"
     },
     {
       "channel": "Radio Imortal",
