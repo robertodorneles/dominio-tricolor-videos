@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T14:00:35.944647+00:00",
+  "updated_at": "2026-05-30T14:26:57.728772+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨UMA BOA NOTÍCIA | ATÉ SEIS TROCAS NO TIME DO GRÊMIO DE LUIS CASTRO | UM ERRO BEM GRAVE NO CLUBE!",
+      "videoId": "h6QifzZstIw",
+      "url": "https://www.youtube.com/watch?v=h6QifzZstIw",
+      "thumbnail": "https://i.ytimg.com/vi/h6QifzZstIw/mqdefault.jpg",
+      "published": "2026-05-30T14:11:55Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨MAIS UM JOGADOR SENDO DISPENSADO | NEGÓCIO COM O CORITIBA? | O ESTRAGO NA SULA! PREJUÍZO DO GRÊMIO!",
       "videoId": "ALb9HzTnFH0",
       "url": "https://www.youtube.com/watch?v=ALb9HzTnFH0",
@@ -43,12 +51,12 @@
       "published": "2026-05-29T23:28:55Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NEGÓCIO POR MEIA-ARMADOR | SAÍDA ANTECIPADA | TRÊS NOVIDADES NO TIME DO GRÊMIO CONTRA O CORINTHIANS",
-      "videoId": "aXVnfkECXDM",
-      "url": "https://www.youtube.com/watch?v=aXVnfkECXDM",
-      "thumbnail": "https://i.ytimg.com/vi/aXVnfkECXDM/mqdefault.jpg",
-      "published": "2026-05-29T14:22:39Z"
+      "channel": "Canal do CCD",
+      "title": "Grêmio x Corinthians: Times, público e tabela",
+      "videoId": "CPRpuSOB4tY",
+      "url": "https://www.youtube.com/watch?v=CPRpuSOB4tY",
+      "thumbnail": "https://i.ytimg.com/vi/CPRpuSOB4tY/mqdefault.jpg",
+      "published": "2026-05-30T14:23:10Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=BxxkKlp8rXc",
       "thumbnail": "https://i.ytimg.com/vi/BxxkKlp8rXc/mqdefault.jpg",
       "published": "2026-05-29T21:49:05Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Alex Leitão traz muitas informações na reunião do conselho do Grêmio",
-      "videoId": "HUEebc7xnXg",
-      "url": "https://www.youtube.com/watch?v=HUEebc7xnXg",
-      "thumbnail": "https://i.ytimg.com/vi/HUEebc7xnXg/mqdefault.jpg",
-      "published": "2026-05-29T14:05:30Z"
     },
     {
       "channel": "Canal do Farid",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "POR QUE NEYMAR GERA TANTO DEBATE NA SELEÇÃO BRASILEIRA? | EU ERREI AQUI | MEU RECADO PRO BALDASSO",
+      "videoId": "usxy41hRpjc",
+      "url": "https://www.youtube.com/watch?v=usxy41hRpjc",
+      "thumbnail": "https://i.ytimg.com/vi/usxy41hRpjc/mqdefault.jpg",
+      "published": "2026-05-30T14:12:47Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "RECUSA DE R$70 MILHÕES! | ESTREIA, LESÕES E MUDANÇAS NO TIME? | CAMINHO NA SUL-AMERICANA | ARTHUR",
       "videoId": "dQSWYKzEWXg",
       "url": "https://www.youtube.com/watch?v=dQSWYKzEWXg",
       "thumbnail": "https://i.ytimg.com/vi/dQSWYKzEWXg/mqdefault.jpg",
       "published": "2026-05-28T16:29:51Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CORINTHIANS - BRASILEIRÃO 2026 | COLETIVAS | 30/05/26 #22",
-      "videoId": "CVwjKy10JiI",
-      "url": "https://www.youtube.com/watch?v=CVwjKy10JiI",
-      "thumbnail": "https://i.ytimg.com/vi/CVwjKy10JiI/mqdefault_live.jpg",
-      "published": "2026-05-27T12:36:25Z"
     },
     {
       "channel": "Duda Garbi",
@@ -231,8 +231,8 @@
       "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | TUDO SOBRE O DUELO CONTRA O CORINTHIANS | PLANTÃO IMORTAL",
       "videoId": "zPTR1Go4G2A",
       "url": "https://www.youtube.com/watch?v=zPTR1Go4G2A",
-      "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault_live.jpg",
-      "published": "2026-05-30T13:56:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault.jpg",
+      "published": "2026-05-30T14:04:15Z"
     },
     {
       "channel": "Radio Imortal",
