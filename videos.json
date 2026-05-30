@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T23:09:36.787842+00:00",
+  "updated_at": "2026-05-30T00:00:36.297338+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨MAIS UM JOGADOR SENDO DISPENSADO | NEGÓCIO COM O CORITIBA? | O ESTRAGO NA SULA! PREJUÍZO DO GRÊMIO!",
+      "videoId": "ALb9HzTnFH0",
+      "url": "https://www.youtube.com/watch?v=ALb9HzTnFH0",
+      "thumbnail": "https://i.ytimg.com/vi/ALb9HzTnFH0/mqdefault.jpg",
+      "published": "2026-05-29T23:28:55Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨NEGÓCIO POR MEIA-ARMADOR | SAÍDA ANTECIPADA | TRÊS NOVIDADES NO TIME DO GRÊMIO CONTRA O CORINTHIANS",
       "videoId": "aXVnfkECXDM",
       "url": "https://www.youtube.com/watch?v=aXVnfkECXDM",
       "thumbnail": "https://i.ytimg.com/vi/aXVnfkECXDM/mqdefault.jpg",
       "published": "2026-05-29T14:22:39Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! GRÊMIO ACERTADO COM JOGADOR! ÓTIMA NOTÍCIA | OS MILHÕES QUE PREOCUPAM E AS METAS DO ANO!",
-      "videoId": "8bpFM0XT5os",
-      "url": "https://www.youtube.com/watch?v=8bpFM0XT5os",
-      "thumbnail": "https://i.ytimg.com/vi/8bpFM0XT5os/mqdefault.jpg",
-      "published": "2026-05-28T23:39:18Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,11 +68,11 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "50 MIL NA ARENA!!",
-      "videoId": "5FSDIde2aYg",
-      "url": "https://www.youtube.com/watch?v=5FSDIde2aYg",
-      "thumbnail": "https://i.ytimg.com/vi/5FSDIde2aYg/mqdefault.jpg",
-      "published": "2026-05-29T23:02:22Z"
+      "title": "ENTREVISTA COM JAKSON FOLLMANN- \"FALA, COSTA!\" #08",
+      "videoId": "RDTnWmQdZog",
+      "url": "https://www.youtube.com/watch?v=RDTnWmQdZog",
+      "thumbnail": "https://i.ytimg.com/vi/RDTnWmQdZog/mqdefault.jpg",
+      "published": "2026-05-29T23:19:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Arquitetura como transformação social? Entenda o conceito de Design Justice | Paralelas",
+      "videoId": "v8iPzReO5N0",
+      "url": "https://www.youtube.com/watch?v=v8iPzReO5N0",
+      "thumbnail": "https://i.ytimg.com/vi/v8iPzReO5N0/mqdefault.jpg",
+      "published": "2026-05-30T00:00:10Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Gaúcha+ | 01/06/2026",
       "videoId": "w9wEbOYq2ic",
       "url": "https://www.youtube.com/watch?v=w9wEbOYq2ic",
       "thumbnail": "https://i.ytimg.com/vi/w9wEbOYq2ic/mqdefault_live.jpg",
       "published": "2026-05-29T22:51:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "PCC x COMANDO VERMELHO: a guerra entre facções acabou? Especialistas analisam | Conversas Cruzadas",
-      "videoId": "1J-Jj19D2Ak",
-      "url": "https://www.youtube.com/watch?v=1J-Jj19D2Ak",
-      "thumbnail": "https://i.ytimg.com/vi/1J-Jj19D2Ak/mqdefault.jpg",
-      "published": "2026-05-29T20:38:15Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
+      "videoId": "MrRwAgAM2ew",
+      "url": "https://www.youtube.com/watch?v=MrRwAgAM2ew",
+      "thumbnail": "https://i.ytimg.com/vi/MrRwAgAM2ew/mqdefault.jpg",
+      "published": "2026-05-29T23:37:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
       "videoId": "uHwLzyQHjDc",
       "url": "https://www.youtube.com/watch?v=uHwLzyQHjDc",
       "thumbnail": "https://i.ytimg.com/vi/uHwLzyQHjDc/mqdefault_live.jpg",
       "published": "2026-05-29T23:01:12Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
-      "videoId": "MrRwAgAM2ew",
-      "url": "https://www.youtube.com/watch?v=MrRwAgAM2ew",
-      "thumbnail": "https://i.ytimg.com/vi/MrRwAgAM2ew/mqdefault_live.jpg",
-      "published": "2026-05-29T23:00:58Z"
+      "channel": "Radio Imortal",
+      "title": "AMANHÃ TEM GRÊMIO EM CAMPO! | PROVÁVEL ESCALAÇÃO | CHAVEAMENTO DA SUL-AMERICANA | IMORTAL FC",
+      "videoId": "UTQ8n2-srTE",
+      "url": "https://www.youtube.com/watch?v=UTQ8n2-srTE",
+      "thumbnail": "https://i.ytimg.com/vi/UTQ8n2-srTE/mqdefault.jpg",
+      "published": "2026-05-29T23:12:44Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=zPTR1Go4G2A",
       "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault_live.jpg",
       "published": "2026-05-29T22:43:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AMANHÃ TEM GRÊMIO EM CAMPO! | PROVÁVEL ESCALAÇÃO | CHAVEAMENTO DA SUL-AMERICANA | IMORTAL FC",
-      "videoId": "UTQ8n2-srTE",
-      "url": "https://www.youtube.com/watch?v=UTQ8n2-srTE",
-      "thumbnail": "https://i.ytimg.com/vi/UTQ8n2-srTE/mqdefault_live.jpg",
-      "published": "2026-05-29T22:07:56Z"
     }
   ]
 }
