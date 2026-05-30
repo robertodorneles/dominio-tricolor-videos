@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T00:00:36.297338+00:00",
+  "updated_at": "2026-05-30T01:00:37.281159+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GREMISTAS DE PESO #008",
+      "videoId": "GcT2a_bWj-M",
+      "url": "https://www.youtube.com/watch?v=GcT2a_bWj-M",
+      "thumbnail": "https://i.ytimg.com/vi/GcT2a_bWj-M/mqdefault_live.jpg",
+      "published": "2026-05-30T00:04:51Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ENTREVISTA COM JAKSON FOLLMANN- \"FALA, COSTA!\" #08",
       "videoId": "RDTnWmQdZog",
       "url": "https://www.youtube.com/watch?v=RDTnWmQdZog",
       "thumbnail": "https://i.ytimg.com/vi/RDTnWmQdZog/mqdefault.jpg",
       "published": "2026-05-29T23:19:36Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GREMISTAS DE PESO #008",
-      "videoId": "GcT2a_bWj-M",
-      "url": "https://www.youtube.com/watch?v=GcT2a_bWj-M",
-      "thumbnail": "https://i.ytimg.com/vi/GcT2a_bWj-M/mqdefault_live.jpg",
-      "published": "2026-05-29T22:42:24Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TUDO SOBRE GRÊMIO X CORINTHIANS | CAMINHO DA SUL-AMERICANA | NOITES DE GRÊMIO #80 - 29/05",
+      "videoId": "3VURTV1qAV0",
+      "url": "https://www.youtube.com/watch?v=3VURTV1qAV0",
+      "thumbnail": "https://i.ytimg.com/vi/3VURTV1qAV0/mqdefault_live.jpg",
+      "published": "2026-05-30T00:00:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AMANHÃ TEM GRÊMIO EM CAMPO! | PROVÁVEL ESCALAÇÃO | CHAVEAMENTO DA SUL-AMERICANA | IMORTAL FC",
       "videoId": "UTQ8n2-srTE",
       "url": "https://www.youtube.com/watch?v=UTQ8n2-srTE",
       "thumbnail": "https://i.ytimg.com/vi/UTQ8n2-srTE/mqdefault.jpg",
       "published": "2026-05-29T23:12:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | TUDO SOBRE O DUELO CONTRA O CORINTHIANS | PLANTÃO IMORTAL",
-      "videoId": "zPTR1Go4G2A",
-      "url": "https://www.youtube.com/watch?v=zPTR1Go4G2A",
-      "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault_live.jpg",
-      "published": "2026-05-29T22:43:03Z"
     }
   ]
 }
