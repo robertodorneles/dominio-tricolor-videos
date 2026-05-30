@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T16:02:55.036682+00:00",
+  "updated_at": "2026-05-30T17:00:45.159819+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CORINTHIANS | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "0VXRaGpRiKA",
+      "url": "https://www.youtube.com/watch?v=0VXRaGpRiKA",
+      "thumbnail": "https://i.ytimg.com/vi/0VXRaGpRiKA/mqdefault_live.jpg",
+      "published": "2026-05-30T16:45:34Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | TUDO SOBRE O DUELO CONTRA O CORINTHIANS | PLANTÃO IMORTAL",
       "videoId": "zPTR1Go4G2A",
       "url": "https://www.youtube.com/watch?v=zPTR1Go4G2A",
       "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault.jpg",
       "published": "2026-05-30T14:04:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 30/05 - GRÊMIO 2X0 SANTOS (LIBERTADORES 2007)",
-      "videoId": "490vEiYnsNY",
-      "url": "https://www.youtube.com/watch?v=490vEiYnsNY",
-      "thumbnail": "https://i.ytimg.com/vi/490vEiYnsNY/mqdefault.jpg",
-      "published": "2026-05-30T11:00:29Z"
     }
   ]
 }
