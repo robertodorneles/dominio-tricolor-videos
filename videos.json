@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T16:00:33.581491+00:00",
+  "updated_at": "2026-05-30T16:02:55.036682+00:00",
   "total": 30,
   "videos": [
     {
@@ -120,7 +120,7 @@
       "videoId": "usxy41hRpjc",
       "url": "https://www.youtube.com/watch?v=usxy41hRpjc",
       "thumbnail": "https://i.ytimg.com/vi/usxy41hRpjc/mqdefault.jpg",
-      "published": "2026-05-30T14:12:47Z"
+      "published": "2026-05-30T16:01:06Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE ODONTOLOGIA DO ESPORTE | Uma Aula Sobre Odontologia do Esporte",
+      "videoId": "_dsiFCNxoIo",
+      "url": "https://www.youtube.com/watch?v=_dsiFCNxoIo",
+      "thumbnail": "https://i.ytimg.com/vi/_dsiFCNxoIo/mqdefault.jpg",
+      "published": "2026-05-30T16:00:26Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O PERIGO DOS ISOTÔNICOS AOS DENTES #dudagarbi #rafaelbarleze #umaaulasobre",
       "videoId": "H2gMNG-x3Is",
       "url": "https://www.youtube.com/watch?v=H2gMNG-x3Is",
       "thumbnail": "https://i.ytimg.com/vi/H2gMNG-x3Is/mqdefault.jpg",
       "published": "2026-05-30T15:30:01Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ODONTOLOGIA DO ESPORTE: ENTENDA! #dudagarbi #rafaelbarleze #umaaulasobre",
-      "videoId": "M-1Jz4NQdl8",
-      "url": "https://www.youtube.com/watch?v=M-1Jz4NQdl8",
-      "thumbnail": "https://i.ytimg.com/vi/M-1Jz4NQdl8/mqdefault.jpg",
-      "published": "2026-05-30T15:00:32Z"
     },
     {
       "channel": "GremioTV Oficial",
