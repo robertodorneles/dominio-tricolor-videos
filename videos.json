@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T13:00:31.523331+00:00",
+  "updated_at": "2026-05-30T14:00:35.944647+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "PRÉ-JOGO ESPECIAL - GRÊMIO X CORINTHIANS",
+      "videoId": "y_tESOEXynQ",
+      "url": "https://www.youtube.com/watch?v=y_tESOEXynQ",
+      "thumbnail": "https://i.ytimg.com/vi/y_tESOEXynQ/mqdefault_live.jpg",
+      "published": "2026-05-30T13:22:19Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ENCARA O CORINTHIANS CHEIO DE DESFALQUES🔹 THE TARDE 🔹#161",
       "videoId": "c9JNTp0pmrE",
       "url": "https://www.youtube.com/watch?v=c9JNTp0pmrE",
       "thumbnail": "https://i.ytimg.com/vi/c9JNTp0pmrE/mqdefault.jpg",
       "published": "2026-05-29T21:39:15Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CAMINHO DO GRÊMIO NA SUL-AMERICANA / ROCHET TEM CONDIÇÕES DE JOGO?🔸RESENHA FORA DA SALA🔸#055",
-      "videoId": "kRs8CW9NOM8",
-      "url": "https://www.youtube.com/watch?v=kRs8CW9NOM8",
-      "thumbnail": "https://i.ytimg.com/vi/kRs8CW9NOM8/mqdefault.jpg",
-      "published": "2026-05-29T18:22:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | TUDO SOBRE O DUELO CONTRA O CORINTHIANS | PLANTÃO IMORTAL",
+      "videoId": "zPTR1Go4G2A",
+      "url": "https://www.youtube.com/watch?v=zPTR1Go4G2A",
+      "thumbnail": "https://i.ytimg.com/vi/zPTR1Go4G2A/mqdefault_live.jpg",
+      "published": "2026-05-30T13:56:49Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 30/05 - GRÊMIO 2X0 SANTOS (LIBERTADORES 2007)",
       "videoId": "490vEiYnsNY",
       "url": "https://www.youtube.com/watch?v=490vEiYnsNY",
       "thumbnail": "https://i.ytimg.com/vi/490vEiYnsNY/mqdefault.jpg",
       "published": "2026-05-30T11:00:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TUDO SOBRE GRÊMIO X CORINTHIANS | CAMINHO DA SUL-AMERICANA | NOITES DE GRÊMIO #80 - 29/05",
-      "videoId": "3VURTV1qAV0",
-      "url": "https://www.youtube.com/watch?v=3VURTV1qAV0",
-      "thumbnail": "https://i.ytimg.com/vi/3VURTV1qAV0/mqdefault.jpg",
-      "published": "2026-05-30T01:45:28Z"
     }
   ]
 }
