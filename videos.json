@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-30T23:00:34.552775+00:00",
+  "updated_at": "2026-05-30T23:05:07.215368+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 1x3 Corinthians: FIM DA LINHA? | TIME DESMORONA | CASTRO BALANÇA",
+      "videoId": "AQpR_0a2jdg",
+      "url": "https://www.youtube.com/watch?v=AQpR_0a2jdg",
+      "thumbnail": "https://i.ytimg.com/vi/AQpR_0a2jdg/mqdefault.jpg",
+      "published": "2026-05-30T23:00:59Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 PEDIDO MUDA A ZAGA DE PRATELEIRA | CONHEÇA JOAQUIM | TECNICO E FISICO!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=MUPYp1CgXw0",
       "thumbnail": "https://i.ytimg.com/vi/MUPYp1CgXw0/mqdefault.jpg",
       "published": "2026-05-30T19:09:16Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 ROCHET COM PORTA ABERTA | O TIME DE PEZZOLANO | CBF QUER COMPLICAR",
-      "videoId": "W665-lo772o",
-      "url": "https://www.youtube.com/watch?v=W665-lo772o",
-      "thumbnail": "https://i.ytimg.com/vi/W665-lo772o/mqdefault.jpg",
-      "published": "2026-05-30T05:42:10Z"
     },
     {
       "channel": "Bage TV",
@@ -148,7 +148,7 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X CORINTHIANS (CAMPEONATO BRASILEIRO 2026)",
+      "title": "AO VIVO | GRÊMIO X CORINTHIANS + COLETIVA PÓS-JOGO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "XPEGGJXeO4E",
       "url": "https://www.youtube.com/watch?v=XPEGGJXeO4E",
       "thumbnail": "https://i.ytimg.com/vi/XPEGGJXeO4E/mqdefault_live.jpg",
