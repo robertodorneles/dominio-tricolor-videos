@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-30T19:00:31.019700+00:00",
+  "updated_at": "2026-05-30T20:00:33.495716+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 PEDIDO MUDA A ZAGA DE PRATELEIRA | CONHEÇA JOAQUIM | TECNICO E FISICO!",
+      "videoId": "MUPYp1CgXw0",
+      "url": "https://www.youtube.com/watch?v=MUPYp1CgXw0",
+      "thumbnail": "https://i.ytimg.com/vi/MUPYp1CgXw0/mqdefault.jpg",
+      "published": "2026-05-30T19:09:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 ROCHET COM PORTA ABERTA | O TIME DE PEZZOLANO | CBF QUER COMPLICAR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=W665-lo772o",
       "thumbnail": "https://i.ytimg.com/vi/W665-lo772o/mqdefault.jpg",
       "published": "2026-05-30T05:42:10Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: G-8 OU Z-4? | Pressão TOTAL | Caminho pesado na Sula",
-      "videoId": "B0f0awWWoY0",
-      "url": "https://www.youtube.com/watch?v=B0f0awWWoY0",
-      "thumbnail": "https://i.ytimg.com/vi/B0f0awWWoY0/mqdefault.jpg",
-      "published": "2026-05-30T05:00:22Z"
     },
     {
       "channel": "Bage TV",
@@ -120,7 +120,7 @@
       "videoId": "NHV5YwZ0fck",
       "url": "https://www.youtube.com/watch?v=NHV5YwZ0fck",
       "thumbnail": "https://i.ytimg.com/vi/NHV5YwZ0fck/mqdefault_live.jpg",
-      "published": "2026-05-30T18:30:37Z"
+      "published": "2026-05-30T19:52:17Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | GRÊMIO X CORINTHIANS | RÁDIO GRENAL | 30/05/26",
+      "title": "AO VIVO DA ARENA | GRÊMIO X CORINTHIANS | RÁDIO GRENAL | 30/05/26",
       "videoId": "uHwLzyQHjDc",
       "url": "https://www.youtube.com/watch?v=uHwLzyQHjDc",
       "thumbnail": "https://i.ytimg.com/vi/uHwLzyQHjDc/mqdefault_live.jpg",
