@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T17:00:45.159819+00:00",
+  "updated_at": "2026-05-30T18:00:33.942692+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "PRÉ-JOGO ESPECIAL - GRÊMIO X CORINTHIANS",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CORINTHIANS",
       "videoId": "y_tESOEXynQ",
       "url": "https://www.youtube.com/watch?v=y_tESOEXynQ",
       "thumbnail": "https://i.ytimg.com/vi/y_tESOEXynQ/mqdefault_live.jpg",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO  GRÊMIO VS CORINTHIANS  30.05  BRASILEIRÃO  2026 — FARID REAGINDO AO JOGO!!!",
+      "videoId": "H6DUAQyeZoY",
+      "url": "https://www.youtube.com/watch?v=H6DUAQyeZoY",
+      "thumbnail": "https://i.ytimg.com/vi/H6DUAQyeZoY/mqdefault_live.jpg",
+      "published": "2026-05-30T17:30:07Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GREMISTAS DE PESO #008",
       "videoId": "GcT2a_bWj-M",
       "url": "https://www.youtube.com/watch?v=GcT2a_bWj-M",
       "thumbnail": "https://i.ytimg.com/vi/GcT2a_bWj-M/mqdefault.jpg",
       "published": "2026-05-30T12:26:09Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ARENA LOTADA 50 MIL TORCEDORES - VAMOOO FARIDO 28.05.26",
-      "videoId": "wC9GopuhPno",
-      "url": "https://www.youtube.com/watch?v=wC9GopuhPno",
-      "thumbnail": "https://i.ytimg.com/vi/wC9GopuhPno/mqdefault.jpg",
-      "published": "2026-05-30T10:17:26Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "RÁDIO GRENAL | LIVE COMPLETA | 29/05/26",
+      "title": "ESQUENTANDO O JOGO | GRÊMIO X CORINTHIAS | RÁDIO GRENAL | 30/05/26",
       "videoId": "uHwLzyQHjDc",
       "url": "https://www.youtube.com/watch?v=uHwLzyQHjDc",
       "thumbnail": "https://i.ytimg.com/vi/uHwLzyQHjDc/mqdefault_live.jpg",
