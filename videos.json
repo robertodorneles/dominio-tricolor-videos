@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T11:00:49.415655+00:00",
-  "total": 28,
+  "updated_at": "2026-05-31T12:00:35.206340+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -97,6 +97,22 @@
       "url": "https://www.youtube.com/watch?v=iyPvO-3LoBw",
       "thumbnail": "https://i.ytimg.com/vi/iyPvO-3LoBw/mqdefault.jpg",
       "published": "2026-05-28T14:59:46Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "REBAIXAMENTO NO DOMINGO. #gremio #futebol",
+      "videoId": "buFdyZIYQ5M",
+      "url": "https://www.youtube.com/watch?v=buFdyZIYQ5M",
+      "thumbnail": "https://i.ytimg.com/vi/buFdyZIYQ5M/mqdefault.jpg",
+      "published": "2026-05-31T10:00:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "VERGONHA OU PROBLEMA? PRAZO E PROMESSA | COMENTÁRIO GRÊMIO 1X3 CORINTHIANS.",
+      "videoId": "siIUAth79Ss",
+      "url": "https://www.youtube.com/watch?v=siIUAth79Ss",
+      "thumbnail": "https://i.ytimg.com/vi/siIUAth79Ss/mqdefault.jpg",
+      "published": "2026-05-31T00:46:48Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -196,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JOGO COMPLETO | GRÊMIO 1 X 3 CORINTHIANS | RÁDIO GRENAL | 30/05/26",
-      "videoId": "uHwLzyQHjDc",
-      "url": "https://www.youtube.com/watch?v=uHwLzyQHjDc",
-      "thumbnail": "https://i.ytimg.com/vi/uHwLzyQHjDc/mqdefault.jpg",
-      "published": "2026-05-31T01:57:57Z"
+      "title": "ESQUENTANDO O JOGO | BRAGANTINO X INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 31/05/2026",
+      "videoId": "oFamGdzMk-I",
+      "url": "https://www.youtube.com/watch?v=oFamGdzMk-I",
+      "thumbnail": "https://i.ytimg.com/vi/oFamGdzMk-I/mqdefault_live.jpg",
+      "published": "2026-05-31T11:17:04Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA LUIS CASTRO E ANTÔNIO DUTRA JR. - TREINADOR E VP DE FUTEBOL DO GRÊMIO | BRASILEIRÃO | 30/05",
-      "videoId": "1ykg8OVZCZs",
-      "url": "https://www.youtube.com/watch?v=1ykg8OVZCZs",
-      "thumbnail": "https://i.ytimg.com/vi/1ykg8OVZCZs/mqdefault.jpg",
-      "published": "2026-05-31T00:49:35Z"
+      "title": "JOGO COMPLETO | GRÊMIO 1 X 3 CORINTHIANS | RÁDIO GRENAL | 30/05/26",
+      "videoId": "gXl27IahUWM",
+      "url": "https://www.youtube.com/watch?v=gXl27IahUWM",
+      "thumbnail": "https://i.ytimg.com/vi/gXl27IahUWM/mqdefault_live.jpg",
+      "published": "2026-05-31T11:11:25Z"
     },
     {
       "channel": "Radio Imortal",
