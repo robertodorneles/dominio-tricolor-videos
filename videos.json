@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T14:00:36.528772+00:00",
+  "updated_at": "2026-05-31T14:41:35.297315+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨REVIRAVOLTA E SAÍDA? RENATO NA PAUTA PODENDO DERRUBAR LUÍS CASTRO NO GRÊMIO! SITUAÇÃO PÉSSIMA!",
+      "videoId": "hxEiR89jGlM",
+      "url": "https://www.youtube.com/watch?v=hxEiR89jGlM",
+      "thumbnail": "https://i.ytimg.com/vi/hxEiR89jGlM/mqdefault.jpg",
+      "published": "2026-05-31T14:03:38Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨FIM! DEMISSÃO URGENTE! TRABALHO PATÉTICO | DIREÇÃO DO GRÊMIO DECIDIU",
       "videoId": "qbNFWd9qwBI",
       "url": "https://www.youtube.com/watch?v=qbNFWd9qwBI",
@@ -43,12 +51,12 @@
       "published": "2026-05-31T00:25:07Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨UMA BOA NOTÍCIA | ATÉ SEIS TROCAS NO TIME DO GRÊMIO DE LUIS CASTRO | UM ERRO BEM GRAVE NO CLUBE!",
-      "videoId": "h6QifzZstIw",
-      "url": "https://www.youtube.com/watch?v=h6QifzZstIw",
-      "thumbnail": "https://i.ytimg.com/vi/h6QifzZstIw/mqdefault.jpg",
-      "published": "2026-05-30T14:11:55Z"
+      "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - GRÊMIO PERDE PARA O CORINTHIANS E SE COMPLICA NA TABELA",
+      "videoId": "5tJ7lAXtiTc",
+      "url": "https://www.youtube.com/watch?v=5tJ7lAXtiTc",
+      "thumbnail": "https://i.ytimg.com/vi/5tJ7lAXtiTc/mqdefault_live.jpg",
+      "published": "2026-05-31T14:20:43Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=TU4HmvmkkhE",
       "thumbnail": "https://i.ytimg.com/vi/TU4HmvmkkhE/mqdefault.jpg",
       "published": "2026-05-30T23:12:33Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x Corinthians: Times, público e tabela",
-      "videoId": "CPRpuSOB4tY",
-      "url": "https://www.youtube.com/watch?v=CPRpuSOB4tY",
-      "thumbnail": "https://i.ytimg.com/vi/CPRpuSOB4tY/mqdefault.jpg",
-      "published": "2026-05-30T14:23:10Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JORNADA ESPORTIVA | BRAGANTINO X INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 31/05/2026",
+      "title": "JORNADA ESPORTIVA | BRAGANTINO 1 X 0 INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 31/05/2026",
       "videoId": "oFamGdzMk-I",
       "url": "https://www.youtube.com/watch?v=oFamGdzMk-I",
       "thumbnail": "https://i.ytimg.com/vi/oFamGdzMk-I/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO É ATROPELADO PELO CORINTHIANS NA ARENA | LUÍS CASTRO FICA | DE OLHO NA RODADA | PLANTÃO",
       "videoId": "m6Ungreqj3Y",
       "url": "https://www.youtube.com/watch?v=m6Ungreqj3Y",
-      "thumbnail": "https://i.ytimg.com/vi/m6Ungreqj3Y/mqdefault_live.jpg",
-      "published": "2026-05-31T13:00:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/m6Ungreqj3Y/mqdefault.jpg",
+      "published": "2026-05-31T14:29:24Z"
     },
     {
       "channel": "Radio Imortal",
