@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T10:55:23.280204+00:00",
-  "total": 30,
+  "updated_at": "2026-05-31T11:00:49.415655+00:00",
+  "total": 28,
   "videos": [
     {
       "channel": "A Dupla",
@@ -97,22 +97,6 @@
       "url": "https://www.youtube.com/watch?v=iyPvO-3LoBw",
       "thumbnail": "https://i.ytimg.com/vi/iyPvO-3LoBw/mqdefault.jpg",
       "published": "2026-05-28T14:59:46Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REBAIXAMENTO NO DOMINGO. #gremio #futebol",
-      "videoId": "buFdyZIYQ5M",
-      "url": "https://www.youtube.com/watch?v=buFdyZIYQ5M",
-      "thumbnail": "https://i.ytimg.com/vi/buFdyZIYQ5M/mqdefault.jpg",
-      "published": "2026-05-31T10:00:33Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VERGONHA OU PROBLEMA? PRAZO E PROMESSA | COMENTÁRIO GRÊMIO 1X3 CORINTHIANS.",
-      "videoId": "siIUAth79Ss",
-      "url": "https://www.youtube.com/watch?v=siIUAth79Ss",
-      "thumbnail": "https://i.ytimg.com/vi/siIUAth79Ss/mqdefault.jpg",
-      "published": "2026-05-31T00:46:48Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +212,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 31/05 - GRÊMIO 3x1 BOLIVAR (LIBERTADORES 1983)",
+      "videoId": "Tj00gMWh-5w",
+      "url": "https://www.youtube.com/watch?v=Tj00gMWh-5w",
+      "thumbnail": "https://i.ytimg.com/vi/Tj00gMWh-5w/mqdefault.jpg",
+      "published": "2026-05-31T11:00:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | NOVO HAMBURGO X GRÊMIO | QUARTAS DE FINAL | GAUCHÃO SUB-20 | DIRETO DO ESTÁDIO DO VALE",
       "videoId": "sbu8SkgzTvo",
       "url": "https://www.youtube.com/watch?v=sbu8SkgzTvo",
       "thumbnail": "https://i.ytimg.com/vi/sbu8SkgzTvo/mqdefault_live.jpg",
       "published": "2026-05-31T00:58:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (3) CORINTHIANS | COLETIVA LUÍS CASTRO | DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "0VXRaGpRiKA",
-      "url": "https://www.youtube.com/watch?v=0VXRaGpRiKA",
-      "thumbnail": "https://i.ytimg.com/vi/0VXRaGpRiKA/mqdefault.jpg",
-      "published": "2026-05-31T00:39:40Z"
     }
   ]
 }
