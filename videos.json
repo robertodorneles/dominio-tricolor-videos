@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-31T04:09:54.516279+00:00",
+  "updated_at": "2026-05-31T09:00:39.143480+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: CASTRO BANCADO | RENATO PODE LEVAR PRO Z4 | ELENCO EM SILÊNCIO",
+      "videoId": "noW0vegthpo",
+      "url": "https://www.youtube.com/watch?v=noW0vegthpo",
+      "thumbnail": "https://i.ytimg.com/vi/noW0vegthpo/mqdefault.jpg",
+      "published": "2026-05-31T07:00:04Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 ALAN PATRICK TOMOU DECISÃO | CHANCE DE SUBIR! | TIME DEFINIDO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=GPPME6f9vB0",
       "thumbnail": "https://i.ytimg.com/vi/GPPME6f9vB0/mqdefault.jpg",
       "published": "2026-05-31T03:27:49Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 1x3 Corinthians: FIM DA LINHA? | TIME DESMORONA | CASTRO BALANÇA",
-      "videoId": "AQpR_0a2jdg",
-      "url": "https://www.youtube.com/watch?v=AQpR_0a2jdg",
-      "thumbnail": "https://i.ytimg.com/vi/AQpR_0a2jdg/mqdefault.jpg",
-      "published": "2026-05-30T23:00:59Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AO VIVO COM IMAGENS: 41º MARATONA INTERNACIONAL DE PORTO ALEGRE | 31/05/2026",
+      "videoId": "8kAMsA-rBUQ",
+      "url": "https://www.youtube.com/watch?v=8kAMsA-rBUQ",
+      "thumbnail": "https://i.ytimg.com/vi/8kAMsA-rBUQ/mqdefault_live.jpg",
+      "published": "2026-05-31T08:28:32Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Tricofest em Nova Petrópolis, Maratona de Porto Alegre e mais | SuperSábado | 30/05/2026",
       "videoId": "zNNYD12f2Dw",
       "url": "https://www.youtube.com/watch?v=zNNYD12f2Dw",
       "thumbnail": "https://i.ytimg.com/vi/zNNYD12f2Dw/mqdefault.jpg",
       "published": "2026-05-31T03:36:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Festivais de FATIAS de TORTA viram tendência e atraem filas em Porto Alegre | Zero Hora",
-      "videoId": "qERqeZYb_s8",
-      "url": "https://www.youtube.com/watch?v=qERqeZYb_s8",
-      "thumbnail": "https://i.ytimg.com/vi/qERqeZYb_s8/mqdefault.jpg",
-      "published": "2026-05-30T15:30:08Z"
     },
     {
       "channel": "Jeremias Wernek",
