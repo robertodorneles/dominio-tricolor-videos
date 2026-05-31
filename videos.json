@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T18:00:32.626220+00:00",
+  "updated_at": "2026-05-31T19:00:32.875510+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Entenda a situação de Luis Castro no Grêmio",
+      "videoId": "CDuuhYofNng",
+      "url": "https://www.youtube.com/watch?v=CDuuhYofNng",
+      "thumbnail": "https://i.ytimg.com/vi/CDuuhYofNng/mqdefault.jpg",
+      "published": "2026-05-31T18:11:05Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Por que Luís Castro não foi demitido | Surge nova ameaça | Pelo menos duas contratações",
       "videoId": "t7C0rbHdobc",
       "url": "https://www.youtube.com/watch?v=t7C0rbHdobc",
       "thumbnail": "https://i.ytimg.com/vi/t7C0rbHdobc/mqdefault.jpg",
       "published": "2026-05-31T13:26:36Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Willian de saída do Grêmio? | Novo goleiro  | Veja a chegada dos painéis de LED",
-      "videoId": "mfgDWQzRYvw",
-      "url": "https://www.youtube.com/watch?v=mfgDWQzRYvw",
-      "thumbnail": "https://i.ytimg.com/vi/mfgDWQzRYvw/mqdefault.jpg",
-      "published": "2026-05-29T13:28:59Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X PALMEIRAS (COPA DO BRASIL SUB-15 2026)",
+      "videoId": "n8UbBcPDwKM",
+      "url": "https://www.youtube.com/watch?v=n8UbBcPDwKM",
+      "thumbnail": "https://i.ytimg.com/vi/n8UbBcPDwKM/mqdefault_live.jpg",
+      "published": "2026-05-31T18:03:16Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X CORINTHIANS + COLETIVA PÓS-JOGO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "XPEGGJXeO4E",
       "url": "https://www.youtube.com/watch?v=XPEGGJXeO4E",
       "thumbnail": "https://i.ytimg.com/vi/XPEGGJXeO4E/mqdefault.jpg",
       "published": "2026-05-30T23:51:44Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X PALMEIRAS (COPA DO BRASIL SUB-15 2026)",
-      "videoId": "n8UbBcPDwKM",
-      "url": "https://www.youtube.com/watch?v=n8UbBcPDwKM",
-      "thumbnail": "https://i.ytimg.com/vi/n8UbBcPDwKM/mqdefault_live.jpg",
-      "published": "2026-05-29T21:32:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | NOVO HAMBURGO (0) X (0) GRÊMIO | QUARTAS DE FINAL | GAUCHÃO SUB-20",
+      "title": "AO VIVO | NOVO HAMBURGO (0) X (1) GRÊMIO | QUARTAS DE FINAL | GAUCHÃO SUB-20",
       "videoId": "sbu8SkgzTvo",
       "url": "https://www.youtube.com/watch?v=sbu8SkgzTvo",
       "thumbnail": "https://i.ytimg.com/vi/sbu8SkgzTvo/mqdefault_live.jpg",
