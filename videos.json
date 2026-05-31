@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T12:09:43.029061+00:00",
+  "updated_at": "2026-05-31T13:00:40.618452+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PROBLEMA OU VERGONHA? LUIS CASTRO #gremio #Futebol",
+      "videoId": "qI8rilRIzh8",
+      "url": "https://www.youtube.com/watch?v=qI8rilRIzh8",
+      "thumbnail": "https://i.ytimg.com/vi/qI8rilRIzh8/mqdefault.jpg",
+      "published": "2026-05-31T13:00:04Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "REBAIXAMENTO NO DOMINGO. #gremio #futebol",
       "videoId": "buFdyZIYQ5M",
       "url": "https://www.youtube.com/watch?v=buFdyZIYQ5M",
       "thumbnail": "https://i.ytimg.com/vi/buFdyZIYQ5M/mqdefault.jpg",
       "published": "2026-05-31T10:00:33Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VERGONHA OU PROBLEMA? PRAZO E PROMESSA | COMENTÁRIO GRÊMIO 1X3 CORINTHIANS.",
-      "videoId": "siIUAth79Ss",
-      "url": "https://www.youtube.com/watch?v=siIUAth79Ss",
-      "thumbnail": "https://i.ytimg.com/vi/siIUAth79Ss/mqdefault.jpg",
-      "published": "2026-05-31T00:46:48Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO É ATROPELADO PELO CORINTHIANS NA ARENA | LUÍS CASTRO FICA | DE OLHO NA RODADA | PLANTÃO",
+      "videoId": "m6Ungreqj3Y",
+      "url": "https://www.youtube.com/watch?v=m6Ungreqj3Y",
+      "thumbnail": "https://i.ytimg.com/vi/m6Ungreqj3Y/mqdefault_live.jpg",
+      "published": "2026-05-31T13:00:07Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 31/05 - GRÊMIO 3x1 BOLIVAR (LIBERTADORES 1983)",
       "videoId": "Tj00gMWh-5w",
       "url": "https://www.youtube.com/watch?v=Tj00gMWh-5w",
       "thumbnail": "https://i.ytimg.com/vi/Tj00gMWh-5w/mqdefault.jpg",
       "published": "2026-05-31T11:00:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | NOVO HAMBURGO X GRÊMIO | QUARTAS DE FINAL | GAUCHÃO SUB-20 | DIRETO DO ESTÁDIO DO VALE",
-      "videoId": "sbu8SkgzTvo",
-      "url": "https://www.youtube.com/watch?v=sbu8SkgzTvo",
-      "thumbnail": "https://i.ytimg.com/vi/sbu8SkgzTvo/mqdefault_live.jpg",
-      "published": "2026-05-31T00:58:42Z"
     }
   ]
 }
