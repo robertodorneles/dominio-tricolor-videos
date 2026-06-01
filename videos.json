@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-01T04:23:58.978278+00:00",
+  "updated_at": "2026-06-01T09:00:39.093548+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: 11 SAÍDAS?! | CRISE AUMENTA | CASTRO SOB PRESSÃO",
+      "videoId": "Z1Kt21Z05gc",
+      "url": "https://www.youtube.com/watch?v=Z1Kt21Z05gc",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Kt21Z05gc/mqdefault.jpg",
+      "published": "2026-06-01T05:00:17Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla KTO: FIASCOS NO FINAL DE SEMANA! GRÊMIO E INTER TOMAM 3  E A CRISE SE CONSOLIDA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=v8FOnSyXkwA",
       "thumbnail": "https://i.ytimg.com/vi/v8FOnSyXkwA/mqdefault.jpg",
       "published": "2026-06-01T03:16:47Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Bragantino 3x1 Inter: 🔥 VEJA OS GOLS E LANCES | VERGONHOSO | PIOR JOGO DE TODOD",
-      "videoId": "Q16s9zwvWrs",
-      "url": "https://www.youtube.com/watch?v=Q16s9zwvWrs",
-      "thumbnail": "https://i.ytimg.com/vi/Q16s9zwvWrs/mqdefault.jpg",
-      "published": "2026-05-31T17:43:14Z"
     },
     {
       "channel": "Bage TV",
