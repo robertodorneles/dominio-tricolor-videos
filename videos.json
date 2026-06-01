@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-01T11:00:40.327179+00:00",
+  "updated_at": "2026-06-01T12:00:39.981040+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: 🔥 MERCADO SE REVOLTOU | PEZZOLANO FEZ PROMESSA E DEU BRONCA | VASCO AJUDOU",
+      "videoId": "0bLRk1ogMqI",
+      "url": "https://www.youtube.com/watch?v=0bLRk1ogMqI",
+      "thumbnail": "https://i.ytimg.com/vi/0bLRk1ogMqI/mqdefault.jpg",
+      "published": "2026-06-01T11:58:50Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: 11 SAÍDAS?! | CRISE AUMENTA | CASTRO SOB PRESSÃO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Z1Kt21Z05gc",
       "thumbnail": "https://i.ytimg.com/vi/Z1Kt21Z05gc/mqdefault.jpg",
       "published": "2026-06-01T05:00:17Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: FIASCOS NO FINAL DE SEMANA! GRÊMIO E INTER TOMAM 3  E A CRISE SE CONSOLIDA",
-      "videoId": "v8FOnSyXkwA",
-      "url": "https://www.youtube.com/watch?v=v8FOnSyXkwA",
-      "thumbnail": "https://i.ytimg.com/vi/v8FOnSyXkwA/mqdefault.jpg",
-      "published": "2026-06-01T03:16:47Z"
     },
     {
       "channel": "Bage TV",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 01/06/2026",
+      "title": "Impactos da classificação de CV e PCC como terroristas, trânsito e +| Gaúcha Atualidade | 01/06/2026",
       "videoId": "OzeaLWUN3kY",
       "url": "https://www.youtube.com/watch?v=OzeaLWUN3kY",
       "thumbnail": "https://i.ytimg.com/vi/OzeaLWUN3kY/mqdefault_live.jpg",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 01/06/26",
+      "videoId": "gXl27IahUWM",
+      "url": "https://www.youtube.com/watch?v=gXl27IahUWM",
+      "thumbnail": "https://i.ytimg.com/vi/gXl27IahUWM/mqdefault_live.jpg",
+      "published": "2026-06-01T11:01:54Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "JOGO COMPLETO | BRAGANTINO 3 X 1 INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 31/05/2026",
       "videoId": "oFamGdzMk-I",
       "url": "https://www.youtube.com/watch?v=oFamGdzMk-I",
       "thumbnail": "https://i.ytimg.com/vi/oFamGdzMk-I/mqdefault.jpg",
       "published": "2026-05-31T19:23:47Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "\"IRRECONHECÍVEL\" 🇪🇪 #shorts #inter #colorado #rbbragantino #brasileirao #campeonatobrasileiro",
-      "videoId": "HLVKrzJEfCc",
-      "url": "https://www.youtube.com/watch?v=HLVKrzJEfCc",
-      "thumbnail": "https://i.ytimg.com/vi/HLVKrzJEfCc/mqdefault.jpg",
-      "published": "2026-05-31T19:20:00Z"
     },
     {
       "channel": "Radio Imortal",
