@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T10:00:45.043568+00:00",
+  "updated_at": "2026-06-01T11:00:40.327179+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha Atualidade | 01/06/2026",
+      "videoId": "OzeaLWUN3kY",
+      "url": "https://www.youtube.com/watch?v=OzeaLWUN3kY",
+      "thumbnail": "https://i.ytimg.com/vi/OzeaLWUN3kY/mqdefault_live.jpg",
+      "published": "2026-06-01T10:57:13Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Timeline | 01/06/2026",
       "videoId": "BkhB6jLfEms",
       "url": "https://www.youtube.com/watch?v=BkhB6jLfEms",
       "thumbnail": "https://i.ytimg.com/vi/BkhB6jLfEms/mqdefault_live.jpg",
       "published": "2026-06-01T09:26:12Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 01/06/2026",
-      "videoId": "OzeaLWUN3kY",
-      "url": "https://www.youtube.com/watch?v=OzeaLWUN3kY",
-      "thumbnail": "https://i.ytimg.com/vi/OzeaLWUN3kY/mqdefault_live.jpg",
-      "published": "2026-06-01T09:25:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 01/06",
-      "videoId": "-MsCa60M18A",
-      "url": "https://www.youtube.com/watch?v=-MsCa60M18A",
-      "thumbnail": "https://i.ytimg.com/vi/-MsCa60M18A/mqdefault_live.jpg",
-      "published": "2026-05-31T23:29:52Z"
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 01/06- SEU VERARDI",
+      "videoId": "EIFb1p9N9xQ",
+      "url": "https://www.youtube.com/watch?v=EIFb1p9N9xQ",
+      "thumbnail": "https://i.ytimg.com/vi/EIFb1p9N9xQ/mqdefault.jpg",
+      "published": "2026-06-01T11:00:26Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #81 — GRÊMIO ESCAPOU DE 60 DIAS NO Z4 | LUÍS CASTRO SEGUE NO COMANDO",
-      "videoId": "cYZ6hJ84dvk",
-      "url": "https://www.youtube.com/watch?v=cYZ6hJ84dvk",
-      "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault_live.jpg",
-      "published": "2026-05-31T23:20:18Z"
+      "title": "GRÊMIO NA LUTA CONTRA O Z4! | SEM NENHUMA MUDANÇA APÓS DERROTA | PAUSA PARA A COPA | REDAÇÃO IMORTAL",
+      "videoId": "rm5k2kpZ1k4",
+      "url": "https://www.youtube.com/watch?v=rm5k2kpZ1k4",
+      "thumbnail": "https://i.ytimg.com/vi/rm5k2kpZ1k4/mqdefault_live.jpg",
+      "published": "2026-06-01T10:47:50Z"
     }
   ]
 }
