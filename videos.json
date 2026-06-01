@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-01T19:00:44.146463+00:00",
+  "updated_at": "2026-06-01T19:56:16.427409+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Rigo envolvido na queda de Dutra JR | Racha no CA e reconfigurações na Copa",
+      "videoId": "hqs8xCxwuBY",
+      "url": "https://www.youtube.com/watch?v=hqs8xCxwuBY",
+      "thumbnail": "https://i.ytimg.com/vi/hqs8xCxwuBY/mqdefault.jpg",
+      "published": "2026-06-01T19:10:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 MERCADO SE REVOLTOU | PEZZOLANO FEZ PROMESSA E DEU BRONCA | VASCO AJUDOU",
@@ -11,12 +19,12 @@
       "published": "2026-06-01T11:58:50Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: 11 SAÍDAS?! | CRISE AUMENTA | CASTRO SOB PRESSÃO",
-      "videoId": "Z1Kt21Z05gc",
-      "url": "https://www.youtube.com/watch?v=Z1Kt21Z05gc",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Kt21Z05gc/mqdefault.jpg",
-      "published": "2026-06-01T05:00:17Z"
+      "channel": "Bage TV",
+      "title": "🚨 ATENÇÃO! DUTRA JUR NÃO É MAIS VICE DE FUTEBOL DO #GRÊMIO🔹 THE TARDE 🔹#162",
+      "videoId": "AGEAEmqqbOo",
+      "url": "https://www.youtube.com/watch?v=AGEAEmqqbOo",
+      "thumbnail": "https://i.ytimg.com/vi/AGEAEmqqbOo/mqdefault_live.jpg",
+      "published": "2026-06-01T19:52:19Z"
     },
     {
       "channel": "Bage TV",
@@ -27,16 +35,8 @@
       "published": "2026-06-01T18:16:44Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO DÁ FIASCO COM DIREITO A DONA LÚCIA NA COLETIVA -FUTEBOL ALEGRIA DO GRÊMIO - 01/06 - #558",
-      "videoId": "xEfbZiY1eAA",
-      "url": "https://www.youtube.com/watch?v=xEfbZiY1eAA",
-      "thumbnail": "https://i.ytimg.com/vi/xEfbZiY1eAA/mqdefault.jpg",
-      "published": "2026-06-01T14:20:19Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨BOMBA! SAÍDA CONFIRMADA! ELE TÁ FORA! JÁ É OFICIAL! DUTRA, LUÍS CASTRO E A TURBULÊNCIA DO GRÊMIO!",
+      "title": "🚨BOMBA! CAIU! SAÍDA CONFIRMADA! TÁ FORA! JÁ É OFICIAL! DUTRA, LUÍS CASTRO E A TURBULÊNCIA DO GRÊMIO!",
       "videoId": "jAn6tbSrqjY",
       "url": "https://www.youtube.com/watch?v=jAn6tbSrqjY",
       "thumbnail": "https://i.ytimg.com/vi/jAn6tbSrqjY/mqdefault.jpg",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "DUTRA NÃO É MAIS VICE DE FUTEBOL DO GRÊMIO",
+      "videoId": "vSWM8tbz0dE",
+      "url": "https://www.youtube.com/watch?v=vSWM8tbz0dE",
+      "thumbnail": "https://i.ytimg.com/vi/vSWM8tbz0dE/mqdefault.jpg",
+      "published": "2026-06-01T19:50:55Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "O DETALHE DA CHAPE DE 2016",
       "videoId": "oi9ipYCm29c",
       "url": "https://www.youtube.com/watch?v=oi9ipYCm29c",
       "thumbnail": "https://i.ytimg.com/vi/oi9ipYCm29c/mqdefault.jpg",
       "published": "2026-05-31T21:16:42Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "HISTÓRIAS DE GREMISTAS - FARID GERMANO FILHO - #EP01",
-      "videoId": "66O-E5n3GlA",
-      "url": "https://www.youtube.com/watch?v=66O-E5n3GlA",
-      "thumbnail": "https://i.ytimg.com/vi/66O-E5n3GlA/mqdefault.jpg",
-      "published": "2026-05-31T13:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "SAIU O VICE DE FUTEBOL!: MOTIVOS | QUEM ASSUME? CASTRO VAI CAIR?",
+      "videoId": "uTJW9Br0tpQ",
+      "url": "https://www.youtube.com/watch?v=uTJW9Br0tpQ",
+      "thumbnail": "https://i.ytimg.com/vi/uTJW9Br0tpQ/mqdefault.jpg",
+      "published": "2026-06-01T19:43:31Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO NA COPA: FÉRIAS, TREINO, AMISTOSOS. #gremio #Futebol",
       "videoId": "swWs97iTA8Y",
       "url": "https://www.youtube.com/watch?v=swWs97iTA8Y",
       "thumbnail": "https://i.ytimg.com/vi/swWs97iTA8Y/mqdefault.jpg",
       "published": "2026-06-01T16:00:20Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "SAÍDAS E CHEGADAS #gremio #Futebol",
-      "videoId": "O3IrYY7684c",
-      "url": "https://www.youtube.com/watch?v=O3IrYY7684c",
-      "thumbnail": "https://i.ytimg.com/vi/O3IrYY7684c/mqdefault.jpg",
-      "published": "2026-06-01T13:00:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -168,7 +168,7 @@
       "videoId": "w9wEbOYq2ic",
       "url": "https://www.youtube.com/watch?v=w9wEbOYq2ic",
       "thumbnail": "https://i.ytimg.com/vi/w9wEbOYq2ic/mqdefault_live.jpg",
-      "published": "2026-06-01T18:01:36Z"
+      "published": "2026-06-01T19:35:16Z"
     },
     {
       "channel": "GZH Digital",
@@ -231,12 +231,12 @@
       "title": "URGENTE: DUTRA JR. DEIXA O CARGO DE VICE DE FUTEBOL | GRÊMIO TERÁ MAIS MUDANÇAS? | ESPLANADA",
       "videoId": "-MsCa60M18A",
       "url": "https://www.youtube.com/watch?v=-MsCa60M18A",
-      "thumbnail": "https://i.ytimg.com/vi/-MsCa60M18A/mqdefault_live.jpg",
-      "published": "2026-06-01T18:17:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/-MsCa60M18A/mqdefault.jpg",
+      "published": "2026-06-01T19:54:11Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO SOFRE NOVA DERROTA NA ARENA | TORCIDA PRESSIONA, MAS CASTRO FICA | A SITUAÇÃO NO BRASILEIRÃO",
+      "title": "DUTRA JR. DEIXA O GRÊMIO | TEREMOS MAIS MUDANÇAS? | REPERCUSSÃO DA RODADA | VILLASANTI FORA DA COPA",
       "videoId": "B-8VGlc6ANQ",
       "url": "https://www.youtube.com/watch?v=B-8VGlc6ANQ",
       "thumbnail": "https://i.ytimg.com/vi/B-8VGlc6ANQ/mqdefault_live.jpg",
