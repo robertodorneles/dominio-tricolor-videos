@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T17:00:45.173064+00:00",
+  "updated_at": "2026-06-01T18:00:39.285104+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Conversas Cruzadas | 01/06/2026",
+      "title": "Resgates, maus-tratos e esperança: bastidores da proteção animal | Conversas Cruzadas | 01/06/2026",
       "videoId": "ZPc3UwZhWDY",
       "url": "https://www.youtube.com/watch?v=ZPc3UwZhWDY",
       "thumbnail": "https://i.ytimg.com/vi/ZPc3UwZhWDY/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO SOFRE NOVA DERROTA NA ARENA | TORCIDA PRESSIONA, MAS CASTRO FICA | A SITUAÇÃO NO BRASILEIRÃO",
+      "videoId": "B-8VGlc6ANQ",
+      "url": "https://www.youtube.com/watch?v=B-8VGlc6ANQ",
+      "thumbnail": "https://i.ytimg.com/vi/B-8VGlc6ANQ/mqdefault_live.jpg",
+      "published": "2026-06-01T17:25:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #81 — GRÊMIO ESCAPOU DE 60 DIAS NO Z4 | LUÍS CASTRO SEGUE NO COMANDO",
       "videoId": "cYZ6hJ84dvk",
       "url": "https://www.youtube.com/watch?v=cYZ6hJ84dvk",
       "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault.jpg",
       "published": "2026-06-01T15:30:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO NA LUTA CONTRA O Z4! | SEM NENHUMA MUDANÇA APÓS DERROTA | PAUSA PARA A COPA | REDAÇÃO IMORTAL",
-      "videoId": "rm5k2kpZ1k4",
-      "url": "https://www.youtube.com/watch?v=rm5k2kpZ1k4",
-      "thumbnail": "https://i.ytimg.com/vi/rm5k2kpZ1k4/mqdefault.jpg",
-      "published": "2026-06-01T13:05:04Z"
     }
   ]
 }
