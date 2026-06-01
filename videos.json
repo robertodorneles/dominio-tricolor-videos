@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-31T23:02:22.467667+00:00",
+  "updated_at": "2026-06-01T00:00:36.347383+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: FIASCOS NO FINAL DE SEMANA! GRÊMIO E INTER TOMAM 3  E A CRISE SE CONSOLIDA",
+      "videoId": "v8FOnSyXkwA",
+      "url": "https://www.youtube.com/watch?v=v8FOnSyXkwA",
+      "thumbnail": "https://i.ytimg.com/vi/v8FOnSyXkwA/mqdefault_live.jpg",
+      "published": "2026-05-31T23:14:18Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Bragantino 3x1 Inter: 🔥 VEJA OS GOLS E LANCES | VERGONHOSO | PIOR JOGO DE TODOD",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Q16s9zwvWrs",
       "thumbnail": "https://i.ytimg.com/vi/Q16s9zwvWrs/mqdefault.jpg",
       "published": "2026-05-31T17:43:14Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: A direção já esperava o resultado!!! | Decisão tomada antes do jogo | O futuro",
-      "videoId": "HFXxxKKi7NY",
-      "url": "https://www.youtube.com/watch?v=HFXxxKKi7NY",
-      "thumbnail": "https://i.ytimg.com/vi/HFXxxKKi7NY/mqdefault.jpg",
-      "published": "2026-05-31T17:32:04Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨DEMISSÃO DE LUÍS CASTRO NO GRÊMIO EM PAUTA COM A DIVISÃO: O FIM DA PACIÊNCIA E A FORTE RESISTÊNCIA!",
+      "videoId": "1fGDIrSfc_M",
+      "url": "https://www.youtube.com/watch?v=1fGDIrSfc_M",
+      "thumbnail": "https://i.ytimg.com/vi/1fGDIrSfc_M/mqdefault.jpg",
+      "published": "2026-05-31T23:36:26Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨REVIRAVOLTA E SAÍDA? RENATO NA PAUTA PODENDO DERRUBAR LUÍS CASTRO NO GRÊMIO! SITUAÇÃO PÉSSIMA!",
       "videoId": "hxEiR89jGlM",
       "url": "https://www.youtube.com/watch?v=hxEiR89jGlM",
       "thumbnail": "https://i.ytimg.com/vi/hxEiR89jGlM/mqdefault.jpg",
       "published": "2026-05-31T14:03:38Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨FIM! DEMISSÃO URGENTE! TRABALHO PATÉTICO | DIREÇÃO DO GRÊMIO DECIDIU",
-      "videoId": "qbNFWd9qwBI",
-      "url": "https://www.youtube.com/watch?v=qbNFWd9qwBI",
-      "thumbnail": "https://i.ytimg.com/vi/qbNFWd9qwBI/mqdefault.jpg",
-      "published": "2026-05-31T00:25:07Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "SAÍDAS E CHEGADAS! | FÉRIAS E AMISTOSOS NO GRÊMIO.",
+      "videoId": "RJiia3nEFyU",
+      "url": "https://www.youtube.com/watch?v=RJiia3nEFyU",
+      "thumbnail": "https://i.ytimg.com/vi/RJiia3nEFyU/mqdefault.jpg",
+      "published": "2026-05-31T23:22:18Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PROBLEMA OU VERGONHA? LUIS CASTRO #gremio #Futebol",
       "videoId": "qI8rilRIzh8",
       "url": "https://www.youtube.com/watch?v=qI8rilRIzh8",
       "thumbnail": "https://i.ytimg.com/vi/qI8rilRIzh8/mqdefault.jpg",
       "published": "2026-05-31T13:00:04Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REBAIXAMENTO NO DOMINGO. #gremio #futebol",
-      "videoId": "buFdyZIYQ5M",
-      "url": "https://www.youtube.com/watch?v=buFdyZIYQ5M",
-      "thumbnail": "https://i.ytimg.com/vi/buFdyZIYQ5M/mqdefault.jpg",
-      "published": "2026-05-31T10:00:33Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | NOVO HAMBURGO (0) X (1) GRÊMIO | QUARTAS DE FINAL | GAUCHÃO SUB-20",
-      "videoId": "sbu8SkgzTvo",
-      "url": "https://www.youtube.com/watch?v=sbu8SkgzTvo",
-      "thumbnail": "https://i.ytimg.com/vi/sbu8SkgzTvo/mqdefault.jpg",
-      "published": "2026-05-31T20:02:08Z"
+      "title": "ESPLANADA — 01/06",
+      "videoId": "-MsCa60M18A",
+      "url": "https://www.youtube.com/watch?v=-MsCa60M18A",
+      "thumbnail": "https://i.ytimg.com/vi/-MsCa60M18A/mqdefault_live.jpg",
+      "published": "2026-05-31T23:29:52Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO É ATROPELADO PELO CORINTHIANS NA ARENA | LUÍS CASTRO FICA | DE OLHO NA RODADA | PLANTÃO",
-      "videoId": "m6Ungreqj3Y",
-      "url": "https://www.youtube.com/watch?v=m6Ungreqj3Y",
-      "thumbnail": "https://i.ytimg.com/vi/m6Ungreqj3Y/mqdefault.jpg",
-      "published": "2026-05-31T14:29:24Z"
+      "title": "TIMELINE IMORTAL #81 — GRÊMIO ESCAPOU DE 60 DIAS NO Z4 | LUÍS CASTRO SEGUE NO COMANDO",
+      "videoId": "cYZ6hJ84dvk",
+      "url": "https://www.youtube.com/watch?v=cYZ6hJ84dvk",
+      "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault_live.jpg",
+      "published": "2026-05-31T23:20:18Z"
     }
   ]
 }
