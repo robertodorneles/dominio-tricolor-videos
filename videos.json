@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T12:00:39.981040+00:00",
+  "updated_at": "2026-06-01T13:00:44.719245+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 01/06 - #557",
-      "videoId": "xEfbZiY1eAA",
-      "url": "https://www.youtube.com/watch?v=xEfbZiY1eAA",
-      "thumbnail": "https://i.ytimg.com/vi/xEfbZiY1eAA/mqdefault_live.jpg",
-      "published": "2026-06-01T09:39:53Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "GRÊMIO PERDE EM CASA E ESTÁ NA BEIRA DA ZONA 🌅🔵 BOM DIA GRÊMIO #040",
       "videoId": "0C5v8kErm7g",
       "url": "https://www.youtube.com/watch?v=0C5v8kErm7g",
-      "thumbnail": "https://i.ytimg.com/vi/0C5v8kErm7g/mqdefault_live.jpg",
-      "published": "2026-06-01T09:33:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/0C5v8kErm7g/mqdefault.jpg",
+      "published": "2026-06-01T12:11:18Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO DÁ FIASCO COM DIREITO A DONA LÚCIA NA COLETIVA -FUTEBOL ALEGRIA DO GRÊMIO - 01/06 - #557",
+      "videoId": "xEfbZiY1eAA",
+      "url": "https://www.youtube.com/watch?v=xEfbZiY1eAA",
+      "thumbnail": "https://i.ytimg.com/vi/xEfbZiY1eAA/mqdefault_live.jpg",
+      "published": "2026-06-01T12:01:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO NA LUTA CONTRA O Z4! | SEM NENHUMA MUDANÇA APÓS DERROTA | PAUSA PARA A COPA | REDAÇÃO IMORTAL",
+      "videoId": "rm5k2kpZ1k4",
+      "url": "https://www.youtube.com/watch?v=rm5k2kpZ1k4",
+      "thumbnail": "https://i.ytimg.com/vi/rm5k2kpZ1k4/mqdefault_live.jpg",
+      "published": "2026-06-01T12:32:33Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 01/06- SEU VERARDI",
       "videoId": "EIFb1p9N9xQ",
       "url": "https://www.youtube.com/watch?v=EIFb1p9N9xQ",
       "thumbnail": "https://i.ytimg.com/vi/EIFb1p9N9xQ/mqdefault.jpg",
       "published": "2026-06-01T11:00:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO NA LUTA CONTRA O Z4! | SEM NENHUMA MUDANÇA APÓS DERROTA | PAUSA PARA A COPA | REDAÇÃO IMORTAL",
-      "videoId": "rm5k2kpZ1k4",
-      "url": "https://www.youtube.com/watch?v=rm5k2kpZ1k4",
-      "thumbnail": "https://i.ytimg.com/vi/rm5k2kpZ1k4/mqdefault_live.jpg",
-      "published": "2026-06-01T10:47:50Z"
     }
   ]
 }
