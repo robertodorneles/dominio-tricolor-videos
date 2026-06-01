@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T15:00:42.466479+00:00",
+  "updated_at": "2026-06-01T16:00:55.189856+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "As últimas notícias e o que o Grêmio irá fazer",
+      "videoId": "tImz6w3sJsA",
+      "url": "https://www.youtube.com/watch?v=tImz6w3sJsA",
+      "thumbnail": "https://i.ytimg.com/vi/tImz6w3sJsA/mqdefault.jpg",
+      "published": "2026-06-01T15:27:28Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "LIVE DE DOMINGO - FIM DE CICLO PARA CASTRO? GRÊMIO PERDE PARA O CORINTHIANS E SE COMPLICA NA TABELA",
       "videoId": "5tJ7lAXtiTc",
       "url": "https://www.youtube.com/watch?v=5tJ7lAXtiTc",
       "thumbnail": "https://i.ytimg.com/vi/5tJ7lAXtiTc/mqdefault.jpg",
       "published": "2026-06-01T00:10:42Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "A permanência de Luis Castro é convicção da direção do Grêmio… mas com base no que?",
-      "videoId": "0zr5gOR_6JU",
-      "url": "https://www.youtube.com/watch?v=0zr5gOR_6JU",
-      "thumbnail": "https://i.ytimg.com/vi/0zr5gOR_6JU/mqdefault.jpg",
-      "published": "2026-05-31T21:29:46Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO NA COPA: FÉRIAS, TREINO, AMISTOSOS. #gremio #Futebol",
+      "videoId": "swWs97iTA8Y",
+      "url": "https://www.youtube.com/watch?v=swWs97iTA8Y",
+      "thumbnail": "https://i.ytimg.com/vi/swWs97iTA8Y/mqdefault.jpg",
+      "published": "2026-06-01T16:00:20Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "SAÍDAS E CHEGADAS #gremio #Futebol",
       "videoId": "O3IrYY7684c",
       "url": "https://www.youtube.com/watch?v=O3IrYY7684c",
       "thumbnail": "https://i.ytimg.com/vi/O3IrYY7684c/mqdefault.jpg",
       "published": "2026-06-01T13:00:35Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "SAÍDAS E CHEGADAS! | FÉRIAS E AMISTOSOS NO GRÊMIO.",
-      "videoId": "RJiia3nEFyU",
-      "url": "https://www.youtube.com/watch?v=RJiia3nEFyU",
-      "thumbnail": "https://i.ytimg.com/vi/RJiia3nEFyU/mqdefault.jpg",
-      "published": "2026-05-31T23:22:18Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DUPLA EM DEBATE | RÁDIO GRENAL | 01/06/26",
+      "title": "GRÊMIO 1 X 3 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
+      "videoId": "k1p8fBJ-lD4",
+      "url": "https://www.youtube.com/watch?v=k1p8fBJ-lD4",
+      "thumbnail": "https://i.ytimg.com/vi/k1p8fBJ-lD4/mqdefault.jpg",
+      "published": "2026-06-01T15:43:51Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "01/06/26 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "gXl27IahUWM",
       "url": "https://www.youtube.com/watch?v=gXl27IahUWM",
       "thumbnail": "https://i.ytimg.com/vi/gXl27IahUWM/mqdefault_live.jpg",
       "published": "2026-06-01T11:01:54Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "JOGO COMPLETO | BRAGANTINO 3 X 1 INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 31/05/2026",
-      "videoId": "oFamGdzMk-I",
-      "url": "https://www.youtube.com/watch?v=oFamGdzMk-I",
-      "thumbnail": "https://i.ytimg.com/vi/oFamGdzMk-I/mqdefault.jpg",
-      "published": "2026-05-31T19:23:47Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #81 — GRÊMIO ESCAPOU DE 60 DIAS NO Z4 | LUÍS CASTRO SEGUE NO COMANDO",
       "videoId": "cYZ6hJ84dvk",
       "url": "https://www.youtube.com/watch?v=cYZ6hJ84dvk",
-      "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault_live.jpg",
-      "published": "2026-06-01T13:46:29Z"
+      "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault.jpg",
+      "published": "2026-06-01T15:30:02Z"
     },
     {
       "channel": "Radio Imortal",
