@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T18:00:39.285104+00:00",
+  "updated_at": "2026-06-01T19:00:44.146463+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "pgN26jcZ37o",
       "url": "https://www.youtube.com/watch?v=pgN26jcZ37o",
       "thumbnail": "https://i.ytimg.com/vi/pgN26jcZ37o/mqdefault_live.jpg",
-      "published": "2026-06-01T16:30:51Z"
+      "published": "2026-06-01T18:16:44Z"
     },
     {
       "channel": "Bage TV",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨BOMBA! SAÍDA CONFIRMADA! ELE TÁ FORA! JÁ É OFICIAL! DUTRA, LUÍS CASTRO E A TURBULÊNCIA DO GRÊMIO!",
+      "videoId": "jAn6tbSrqjY",
+      "url": "https://www.youtube.com/watch?v=jAn6tbSrqjY",
+      "thumbnail": "https://i.ytimg.com/vi/jAn6tbSrqjY/mqdefault.jpg",
+      "published": "2026-06-01T18:36:40Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨CRESPO É UMA BOA? TÉCNICOS PRO LUGAR DE LUIS CASTRO | A VERGONHA ALHEIA | A FASE DO GRÊMIO",
       "videoId": "czy1uRqHdUw",
       "url": "https://www.youtube.com/watch?v=czy1uRqHdUw",
@@ -43,16 +51,8 @@
       "published": "2026-06-01T14:48:33Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DEMISSÃO DE LUÍS CASTRO NO GRÊMIO EM PAUTA COM A DIVISÃO: O FIM DA PACIÊNCIA E A FORTE RESISTÊNCIA!",
-      "videoId": "1fGDIrSfc_M",
-      "url": "https://www.youtube.com/watch?v=1fGDIrSfc_M",
-      "thumbnail": "https://i.ytimg.com/vi/1fGDIrSfc_M/mqdefault.jpg",
-      "published": "2026-05-31T23:36:26Z"
-    },
-    {
       "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - CASTRO CONTINUA | GRÊMIO SONHA COM BITELLO",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - SAÍDA DE DUTRA | LUIS CASTRO CONTINUA? | GRÊMIO SONHA COM BITELLO",
       "videoId": "JsHEauxtJMo",
       "url": "https://www.youtube.com/watch?v=JsHEauxtJMo",
       "thumbnail": "https://i.ytimg.com/vi/JsHEauxtJMo/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Resgates, maus-tratos e esperança: bastidores da proteção animal | Conversas Cruzadas | 01/06/2026",
+      "title": "Duplicação da BR-386, 60+, informações do trânsito e mais | Gaúcha+ | 01/06/2026",
+      "videoId": "w9wEbOYq2ic",
+      "url": "https://www.youtube.com/watch?v=w9wEbOYq2ic",
+      "thumbnail": "https://i.ytimg.com/vi/w9wEbOYq2ic/mqdefault_live.jpg",
+      "published": "2026-06-01T18:01:36Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Deise Falci: a história por trás da ativista animal | Conversas Cruzadas | 01/06/2026",
       "videoId": "ZPc3UwZhWDY",
       "url": "https://www.youtube.com/watch?v=ZPc3UwZhWDY",
       "thumbnail": "https://i.ytimg.com/vi/ZPc3UwZhWDY/mqdefault_live.jpg",
       "published": "2026-06-01T16:56:33Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como era o modelo econômico nas Missões | Aconteceu no RS",
-      "videoId": "l4XRpgWvLiY",
-      "url": "https://www.youtube.com/watch?v=l4XRpgWvLiY",
-      "thumbnail": "https://i.ytimg.com/vi/l4XRpgWvLiY/mqdefault.jpg",
-      "published": "2026-06-01T14:59:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "01/06/26 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "01/06/26 | CONTRA-ATAQUE| RÁDIO GRENAL",
       "videoId": "gXl27IahUWM",
       "url": "https://www.youtube.com/watch?v=gXl27IahUWM",
       "thumbnail": "https://i.ytimg.com/vi/gXl27IahUWM/mqdefault_live.jpg",
       "published": "2026-06-01T11:01:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "URGENTE: DUTRA JR. DEIXA O CARGO DE VICE DE FUTEBOL | GRÊMIO TERÁ MAIS MUDANÇAS? | ESPLANADA",
+      "videoId": "-MsCa60M18A",
+      "url": "https://www.youtube.com/watch?v=-MsCa60M18A",
+      "thumbnail": "https://i.ytimg.com/vi/-MsCa60M18A/mqdefault_live.jpg",
+      "published": "2026-06-01T18:17:44Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=B-8VGlc6ANQ",
       "thumbnail": "https://i.ytimg.com/vi/B-8VGlc6ANQ/mqdefault_live.jpg",
       "published": "2026-06-01T17:25:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #81 — GRÊMIO ESCAPOU DE 60 DIAS NO Z4 | LUÍS CASTRO SEGUE NO COMANDO",
-      "videoId": "cYZ6hJ84dvk",
-      "url": "https://www.youtube.com/watch?v=cYZ6hJ84dvk",
-      "thumbnail": "https://i.ytimg.com/vi/cYZ6hJ84dvk/mqdefault.jpg",
-      "published": "2026-06-01T15:30:02Z"
     }
   ]
 }
