@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T01:00:37.270508+00:00",
+  "updated_at": "2026-06-02T02:00:37.734502+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "T5FTG9JYBMY",
       "url": "https://www.youtube.com/watch?v=T5FTG9JYBMY",
       "thumbnail": "https://i.ytimg.com/vi/T5FTG9JYBMY/mqdefault_live.jpg",
-      "published": "2026-06-02T00:40:20Z"
+      "published": "2026-06-02T01:35:12Z"
     },
     {
       "channel": "A Dupla",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - SAÍDA DE DUTRA | LUIS CASTRO CONTINUA? | ÁUDIO DE CELSO RIGO",
       "videoId": "JsHEauxtJMo",
       "url": "https://www.youtube.com/watch?v=JsHEauxtJMo",
-      "thumbnail": "https://i.ytimg.com/vi/JsHEauxtJMo/mqdefault_live.jpg",
-      "published": "2026-06-02T00:00:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/JsHEauxtJMo/mqdefault.jpg",
+      "published": "2026-06-02T01:19:20Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Impactos da classificação de CV e PCC como terroristas, trânsito e +| Gaúcha Atualidade | 01/06/2026",
+      "videoId": "OzeaLWUN3kY",
+      "url": "https://www.youtube.com/watch?v=OzeaLWUN3kY",
+      "thumbnail": "https://i.ytimg.com/vi/OzeaLWUN3kY/mqdefault.jpg",
+      "published": "2026-06-02T01:28:35Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Quem é Deise Falci? ativista conta como entrou para a luta pela proteção animal | Conversas Cruzadas",
       "videoId": "_LeacpwyVb0",
       "url": "https://www.youtube.com/watch?v=_LeacpwyVb0",
@@ -171,12 +179,12 @@
       "published": "2026-06-01T23:30:05Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "\"UMA DAS CENAS MAIS TRISTES\": Deise Falci fala sobre rotina de resgates | Conversas Cruzadas",
-      "videoId": "8zJ5wLLVG28",
-      "url": "https://www.youtube.com/watch?v=8zJ5wLLVG28",
-      "thumbnail": "https://i.ytimg.com/vi/8zJ5wLLVG28/mqdefault.jpg",
-      "published": "2026-06-01T23:04:37Z"
+      "channel": "Jeremias Wernek",
+      "title": "Os bastidores da saída de Dutra Jr., o áudio vazado e o futuro de Luís Castro",
+      "videoId": "a1X-bUKvqts",
+      "url": "https://www.youtube.com/watch?v=a1X-bUKvqts",
+      "thumbnail": "https://i.ytimg.com/vi/a1X-bUKvqts/mqdefault.jpg",
+      "published": "2026-06-02T01:02:55Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=lUEfqi2rXXU",
       "thumbnail": "https://i.ytimg.com/vi/lUEfqi2rXXU/mqdefault.jpg",
       "published": "2026-05-28T23:00:18Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "A situação de Luis Castro com a direção do Grêmio",
-      "videoId": "27KHIvAzaas",
-      "url": "https://www.youtube.com/watch?v=27KHIvAzaas",
-      "thumbnail": "https://i.ytimg.com/vi/27KHIvAzaas/mqdefault.jpg",
-      "published": "2026-05-27T21:43:57Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ ANTONIO DUTRA FALA SOBRE SUA DECISÃO DE DEIXAR O CARGO!",
-      "videoId": "gnjuw57qEWc",
-      "url": "https://www.youtube.com/watch?v=gnjuw57qEWc",
-      "thumbnail": "https://i.ytimg.com/vi/gnjuw57qEWc/mqdefault.jpg",
-      "published": "2026-06-02T00:39:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "ENTREVISTA EXCLUSIVA COM ANTONIO DUTRA JUNIOR | NOITES DE GRÊMIO #81 - 01/06",
       "videoId": "i-atZ3jhlbo",
       "url": "https://www.youtube.com/watch?v=i-atZ3jhlbo",
-      "thumbnail": "https://i.ytimg.com/vi/i-atZ3jhlbo/mqdefault_live.jpg",
-      "published": "2026-06-02T00:00:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/i-atZ3jhlbo/mqdefault.jpg",
+      "published": "2026-06-02T01:54:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️ ANTONIO DUTRA MANTÉM POSIÇÃO SOBRE A PERMANÊNCIA DE LUÍS CASTRO!",
+      "videoId": "-_Ez4ZONutk",
+      "url": "https://www.youtube.com/watch?v=-_Ez4ZONutk",
+      "thumbnail": "https://i.ytimg.com/vi/-_Ez4ZONutk/mqdefault.jpg",
+      "published": "2026-06-02T01:09:31Z"
     }
   ]
 }
