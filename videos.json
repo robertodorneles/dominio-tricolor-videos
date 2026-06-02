@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T12:00:53.883097+00:00",
+  "updated_at": "2026-06-02T12:39:20.551765+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 02/06 - #559",
+      "title": "TROCA NO COMANDO DO FUTEBOL GREMISTA 🌅🔵 BOM DIA GRÊMIO #041",
+      "videoId": "FB8L-8X_QHE",
+      "url": "https://www.youtube.com/watch?v=FB8L-8X_QHE",
+      "thumbnail": "https://i.ytimg.com/vi/FB8L-8X_QHE/mqdefault.jpg",
+      "published": "2026-06-02T12:04:48Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "OS BASTIDORES DA SAÍDA DE DUTRA JR. -FUTEBOL ALEGRIA DO GRÊMIO - 02/06 - #559",
       "videoId": "V1hn6VIBZIU",
       "url": "https://www.youtube.com/watch?v=V1hn6VIBZIU",
       "thumbnail": "https://i.ytimg.com/vi/V1hn6VIBZIU/mqdefault_live.jpg",
       "published": "2026-06-02T11:59:25Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "TROCA NO COMANDO DO FUTEBOL GREMISTA 🌅🔵 BOM DIA GRÊMIO #041",
-      "videoId": "FB8L-8X_QHE",
-      "url": "https://www.youtube.com/watch?v=FB8L-8X_QHE",
-      "thumbnail": "https://i.ytimg.com/vi/FB8L-8X_QHE/mqdefault_live.jpg",
-      "published": "2026-06-02T11:56:54Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "OPERAÇÃO PENHOR: Grupo LAVAVA dinheiro de venda de ARMAS a FACÇÃO com revenda de carros | Zero Hora",
+      "videoId": "wIOmOGdfbiw",
+      "url": "https://www.youtube.com/watch?v=wIOmOGdfbiw",
+      "thumbnail": "https://i.ytimg.com/vi/wIOmOGdfbiw/mqdefault.jpg",
+      "published": "2026-06-02T12:17:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Senado decide rumo do fim da escala 6x1, South Summit Madrid e mais | Gaúcha Atualidade | 02/06/2026",
       "videoId": "8OZ7Qj6iq50",
       "url": "https://www.youtube.com/watch?v=8OZ7Qj6iq50",
       "thumbnail": "https://i.ytimg.com/vi/8OZ7Qj6iq50/mqdefault_live.jpg",
       "published": "2026-06-02T10:57:53Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Deise Falci: a história por trás da ativista animal | Conversas Cruzadas | 01/06/2026",
-      "videoId": "ZPc3UwZhWDY",
-      "url": "https://www.youtube.com/watch?v=ZPc3UwZhWDY",
-      "thumbnail": "https://i.ytimg.com/vi/ZPc3UwZhWDY/mqdefault.jpg",
-      "published": "2026-06-02T09:39:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
+      "videoId": "yP9ITj9xuTw",
+      "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
+      "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault_live.jpg",
+      "published": "2026-06-02T12:20:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 02/06- GRÊMIO 4X0 INTER (GAUCHÃO 1968)",
       "videoId": "1HWM6PMk0vc",
       "url": "https://www.youtube.com/watch?v=1HWM6PMk0vc",
       "thumbnail": "https://i.ytimg.com/vi/1HWM6PMk0vc/mqdefault.jpg",
       "published": "2026-06-02T11:00:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
-      "videoId": "yP9ITj9xuTw",
-      "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
-      "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault_live.jpg",
-      "published": "2026-06-02T10:47:02Z"
     }
   ]
 }
