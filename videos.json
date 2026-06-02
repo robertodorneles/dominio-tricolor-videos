@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T00:00:40.320180+00:00",
+  "updated_at": "2026-06-02T00:11:11.290489+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨VAI CAIR? DIRIGENTE QUER SAÍDA DE LUÍS CASTRO NO GRÊMIO? POLÊMICA PESADA! ÁUDIO VAZADO E BASTIDORES",
+      "videoId": "2XpG4BDyEoA",
+      "url": "https://www.youtube.com/watch?v=2XpG4BDyEoA",
+      "thumbnail": "https://i.ytimg.com/vi/2XpG4BDyEoA/mqdefault.jpg",
+      "published": "2026-06-02T00:03:24Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨BOMBA! CAIU! SAÍDA CONFIRMADA! TÁ FORA! JÁ É OFICIAL! DUTRA, LUÍS CASTRO E A TURBULÊNCIA DO GRÊMIO!",
       "videoId": "jAn6tbSrqjY",
       "url": "https://www.youtube.com/watch?v=jAn6tbSrqjY",
       "thumbnail": "https://i.ytimg.com/vi/jAn6tbSrqjY/mqdefault.jpg",
       "published": "2026-06-01T18:36:40Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CRESPO É UMA BOA? TÉCNICOS PRO LUGAR DE LUIS CASTRO | A VERGONHA ALHEIA | A FASE DO GRÊMIO",
-      "videoId": "czy1uRqHdUw",
-      "url": "https://www.youtube.com/watch?v=czy1uRqHdUw",
-      "thumbnail": "https://i.ytimg.com/vi/czy1uRqHdUw/mqdefault.jpg",
-      "published": "2026-06-01T14:48:33Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ENTREVISTA EXCLUSIVA COM ANTONIO DUTRA JUNIOR | NOITES DE GRÊMIO #81 - 01/06",
+      "videoId": "i-atZ3jhlbo",
+      "url": "https://www.youtube.com/watch?v=i-atZ3jhlbo",
+      "thumbnail": "https://i.ytimg.com/vi/i-atZ3jhlbo/mqdefault_live.jpg",
+      "published": "2026-06-02T00:00:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 02/06",
       "videoId": "ejzhPUv3JhE",
       "url": "https://www.youtube.com/watch?v=ejzhPUv3JhE",
       "thumbnail": "https://i.ytimg.com/vi/ejzhPUv3JhE/mqdefault_live.jpg",
       "published": "2026-06-01T23:36:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #82 — A BARCA DE SAÍDAS DO GRÊMIO NA JANELA | REPERCUSSÕES DA SAÍDA DE DUTRA",
-      "videoId": "aowZxKxbRsk",
-      "url": "https://www.youtube.com/watch?v=aowZxKxbRsk",
-      "thumbnail": "https://i.ytimg.com/vi/aowZxKxbRsk/mqdefault_live.jpg",
-      "published": "2026-06-01T23:35:12Z"
     }
   ]
 }
