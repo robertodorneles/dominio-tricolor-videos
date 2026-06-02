@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-02T19:00:44.499063+00:00",
+  "updated_at": "2026-06-02T20:00:47.352964+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A LISTA DE DISPENSAS PREPARADA PARA DIREÇÃO | QUASE 30 LIBERAÇÕES | MUDANÇAS",
+      "videoId": "TW7qNt-WLjo",
+      "url": "https://www.youtube.com/watch?v=TW7qNt-WLjo",
+      "thumbnail": "https://i.ytimg.com/vi/TW7qNt-WLjo/mqdefault.jpg",
+      "published": "2026-06-02T19:00:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 ZAGUEIRO FECHOU | DEMISSÕES NO BASTIDOR | QUEM VEM?",
@@ -11,20 +19,12 @@
       "published": "2026-06-02T05:37:42Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: áudio de Rigo agita bastidores | Dutra sai | sonho por Bitello",
-      "videoId": "DdsjPPiOCK8",
-      "url": "https://www.youtube.com/watch?v=DdsjPPiOCK8",
-      "thumbnail": "https://i.ytimg.com/vi/DdsjPPiOCK8/mqdefault.jpg",
-      "published": "2026-06-02T05:00:03Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#163",
+      "title": "O QUE MUDA NO GREMIO APARTIR DE AGORA? 🔹 THE TARDE 🔹#163",
       "videoId": "uSoAsZyzmbg",
       "url": "https://www.youtube.com/watch?v=uSoAsZyzmbg",
       "thumbnail": "https://i.ytimg.com/vi/uSoAsZyzmbg/mqdefault_live.jpg",
-      "published": "2026-06-02T18:52:57Z"
+      "published": "2026-06-02T19:28:53Z"
     },
     {
       "channel": "Bage TV",
@@ -168,7 +168,7 @@
       "videoId": "wvwnnTzvFVI",
       "url": "https://www.youtube.com/watch?v=wvwnnTzvFVI",
       "thumbnail": "https://i.ytimg.com/vi/wvwnnTzvFVI/mqdefault_live.jpg",
-      "published": "2026-06-02T18:00:57Z"
+      "published": "2026-06-02T19:35:12Z"
     },
     {
       "channel": "GZH Digital",
@@ -232,7 +232,7 @@
       "videoId": "ejzhPUv3JhE",
       "url": "https://www.youtube.com/watch?v=ejzhPUv3JhE",
       "thumbnail": "https://i.ytimg.com/vi/ejzhPUv3JhE/mqdefault_live.jpg",
-      "published": "2026-06-02T18:32:30Z"
+      "published": "2026-06-02T19:34:25Z"
     },
     {
       "channel": "Radio Imortal",
