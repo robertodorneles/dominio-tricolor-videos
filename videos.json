@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-02T00:11:11.290489+00:00",
+  "updated_at": "2026-06-02T01:00:37.270508+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: DIA DE DEMISSÕES NO GRÊMIO E NO INTER | AS CONSEQUÊNCIAS",
+      "videoId": "T5FTG9JYBMY",
+      "url": "https://www.youtube.com/watch?v=T5FTG9JYBMY",
+      "thumbnail": "https://i.ytimg.com/vi/T5FTG9JYBMY/mqdefault_live.jpg",
+      "published": "2026-06-02T00:40:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Inter: 🔥 CONVERSAS COM MAIA E BORRÉ ESTA SEMANA | DIREÇÃO QUER LIBERAR | BERNABEI SERÁ VENDIDO?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=HddHfRLCEN0",
       "thumbnail": "https://i.ytimg.com/vi/HddHfRLCEN0/mqdefault.jpg",
       "published": "2026-06-01T22:04:05Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Rigo envolvido na queda de Dutra JR | Racha no CA e reconfigurações na Copa",
-      "videoId": "hqs8xCxwuBY",
-      "url": "https://www.youtube.com/watch?v=hqs8xCxwuBY",
-      "thumbnail": "https://i.ytimg.com/vi/hqs8xCxwuBY/mqdefault.jpg",
-      "published": "2026-06-01T19:10:03Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "MENSAGEM DE FOLLMANN PARA AS PESSOAS",
+      "videoId": "T6nZUcYuDbo",
+      "url": "https://www.youtube.com/watch?v=T6nZUcYuDbo",
+      "thumbnail": "https://i.ytimg.com/vi/T6nZUcYuDbo/mqdefault.jpg",
+      "published": "2026-06-02T00:44:34Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ANTONIO DUTRA NÃO É MAIS VICE DE FUTEBOL - VAMOOO FARIDO 01.06.26",
       "videoId": "bcgtl6O4U6Q",
       "url": "https://www.youtube.com/watch?v=bcgtl6O4U6Q",
       "thumbnail": "https://i.ytimg.com/vi/bcgtl6O4U6Q/mqdefault_live.jpg",
       "published": "2026-06-01T22:05:33Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "DUTRA NÃO É MAIS VICE DE FUTEBOL DO GRÊMIO",
-      "videoId": "vSWM8tbz0dE",
-      "url": "https://www.youtube.com/watch?v=vSWM8tbz0dE",
-      "thumbnail": "https://i.ytimg.com/vi/vSWM8tbz0dE/mqdefault.jpg",
-      "published": "2026-06-01T19:50:55Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -140,11 +140,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA...  LUÍS CASTRO E VITOR SEVERINO | #387",
-      "videoId": "LIYaiIp1KKE",
-      "url": "https://www.youtube.com/watch?v=LIYaiIp1KKE",
-      "thumbnail": "https://i.ytimg.com/vi/LIYaiIp1KKE/mqdefault.jpg",
-      "published": "2026-06-01T22:00:07Z"
+      "title": "“EU ESPERAVA ESTAR MELHOR COM O GRÊMIO”  #dudagarbi #umassadopara #gremio",
+      "videoId": "ZbZ5OEoKvig",
+      "url": "https://www.youtube.com/watch?v=ZbZ5OEoKvig",
+      "thumbnail": "https://i.ytimg.com/vi/ZbZ5OEoKvig/mqdefault.jpg",
+      "published": "2026-06-01T23:15:23Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️ ANTONIO DUTRA FALA SOBRE SUA DECISÃO DE DEIXAR O CARGO!",
+      "videoId": "gnjuw57qEWc",
+      "url": "https://www.youtube.com/watch?v=gnjuw57qEWc",
+      "thumbnail": "https://i.ytimg.com/vi/gnjuw57qEWc/mqdefault.jpg",
+      "published": "2026-06-02T00:39:22Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ENTREVISTA EXCLUSIVA COM ANTONIO DUTRA JUNIOR | NOITES DE GRÊMIO #81 - 01/06",
       "videoId": "i-atZ3jhlbo",
       "url": "https://www.youtube.com/watch?v=i-atZ3jhlbo",
       "thumbnail": "https://i.ytimg.com/vi/i-atZ3jhlbo/mqdefault_live.jpg",
       "published": "2026-06-02T00:00:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 02/06",
-      "videoId": "ejzhPUv3JhE",
-      "url": "https://www.youtube.com/watch?v=ejzhPUv3JhE",
-      "thumbnail": "https://i.ytimg.com/vi/ejzhPUv3JhE/mqdefault_live.jpg",
-      "published": "2026-06-01T23:36:17Z"
     }
   ]
 }
