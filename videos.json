@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T12:39:20.551765+00:00",
+  "updated_at": "2026-06-02T13:00:44.178312+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Dutra Jr. confirma valores em atraso no Grêmio. Isso explica o baixo rendimento?",
+      "videoId": "QZBFFCILnpY",
+      "url": "https://www.youtube.com/watch?v=QZBFFCILnpY",
+      "thumbnail": "https://i.ytimg.com/vi/QZBFFCILnpY/mqdefault.jpg",
+      "published": "2026-06-02T12:49:26Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - SAÍDA DE DUTRA | LUIS CASTRO CONTINUA? | ÁUDIO DE CELSO RIGO",
       "videoId": "JsHEauxtJMo",
       "url": "https://www.youtube.com/watch?v=JsHEauxtJMo",
       "thumbnail": "https://i.ytimg.com/vi/JsHEauxtJMo/mqdefault.jpg",
       "published": "2026-06-02T01:19:20Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #598: Saída de Dutra | Áudio de Rigo | Luis Castro | Bitello | Seleção Paraguaia",
-      "videoId": "f-hE384_nU4",
-      "url": "https://www.youtube.com/watch?v=f-hE384_nU4",
-      "thumbnail": "https://i.ytimg.com/vi/f-hE384_nU4/mqdefault.jpg",
-      "published": "2026-06-01T22:23:19Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "OPERAÇÃO PENHOR: Grupo LAVAVA dinheiro de venda de ARMAS a FACÇÃO com revenda de carros | Zero Hora",
-      "videoId": "wIOmOGdfbiw",
-      "url": "https://www.youtube.com/watch?v=wIOmOGdfbiw",
-      "thumbnail": "https://i.ytimg.com/vi/wIOmOGdfbiw/mqdefault.jpg",
-      "published": "2026-06-02T12:17:26Z"
+      "title": "Entrega voadora: Veja o DRONE DO IFOOD transportando pedidos em SP | Zero Hora",
+      "videoId": "IHoXlj_JsJc",
+      "url": "https://www.youtube.com/watch?v=IHoXlj_JsJc",
+      "thumbnail": "https://i.ytimg.com/vi/IHoXlj_JsJc/mqdefault.jpg",
+      "published": "2026-06-02T13:00:08Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪ANTONIO DUTRA AFIRMA QUE NÃO HÁ CONTRATAÇÕES ENCAMINHADAS E FALA SOBRE A PERMANÊNCIA DO ARTHUR.",
+      "videoId": "4aI1sUqEAAM",
+      "url": "https://www.youtube.com/watch?v=4aI1sUqEAAM",
+      "thumbnail": "https://i.ytimg.com/vi/4aI1sUqEAAM/mqdefault.jpg",
+      "published": "2026-06-02T12:47:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
       "videoId": "yP9ITj9xuTw",
       "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
       "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault_live.jpg",
       "published": "2026-06-02T12:20:51Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 02/06- GRÊMIO 4X0 INTER (GAUCHÃO 1968)",
-      "videoId": "1HWM6PMk0vc",
-      "url": "https://www.youtube.com/watch?v=1HWM6PMk0vc",
-      "thumbnail": "https://i.ytimg.com/vi/1HWM6PMk0vc/mqdefault.jpg",
-      "published": "2026-06-02T11:00:14Z"
     }
   ]
 }
