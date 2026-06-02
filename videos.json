@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-02T21:00:39.491788+00:00",
+  "updated_at": "2026-06-02T22:00:41.869495+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪: Inter: 🔥 FABINHO E ABEL TOMARAM CONTA | FICAM EM 27? | BASTIDORES FORTES!",
+      "videoId": "NHAboiKbd1w",
+      "url": "https://www.youtube.com/watch?v=NHAboiKbd1w",
+      "thumbnail": "https://i.ytimg.com/vi/NHAboiKbd1w/mqdefault.jpg",
+      "published": "2026-06-02T21:54:27Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A LISTA DE DISPENSAS PREPARADA PARA DIREÇÃO | QUASE 30 LIBERAÇÕES | MUDANÇAS",
@@ -11,20 +19,12 @@
       "published": "2026-06-02T19:00:35Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 ZAGUEIRO FECHOU | DEMISSÕES NO BASTIDOR | QUEM VEM?",
-      "videoId": "mpjdoFzUAuU",
-      "url": "https://www.youtube.com/watch?v=mpjdoFzUAuU",
-      "thumbnail": "https://i.ytimg.com/vi/mpjdoFzUAuU/mqdefault.jpg",
-      "published": "2026-06-02T05:37:42Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "O QUE MUDA NO GREMIO A PARTIR DE AGORA? 🔹 THE TARDE 🔹#163",
       "videoId": "uSoAsZyzmbg",
       "url": "https://www.youtube.com/watch?v=uSoAsZyzmbg",
-      "thumbnail": "https://i.ytimg.com/vi/uSoAsZyzmbg/mqdefault_live.jpg",
-      "published": "2026-06-02T19:28:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/uSoAsZyzmbg/mqdefault.jpg",
+      "published": "2026-06-02T21:21:11Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,27 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "O GRÊMIO NÃO TEM TEMPO DE TREINAR? CASTRO EXPLICOU | Cortes do Duda",
-      "videoId": "ikm2iciv7Gc",
-      "url": "https://www.youtube.com/watch?v=ikm2iciv7Gc",
-      "thumbnail": "https://i.ytimg.com/vi/ikm2iciv7Gc/mqdefault.jpg",
-      "published": "2026-06-02T21:00:07Z"
+      "title": "CASTRO E SEVERINO DÃO DETALHES DO TRABALHO NO BOTAFOGO | Cortes do Duda",
+      "videoId": "Y95OMi0zkH0",
+      "url": "https://www.youtube.com/watch?v=Y95OMi0zkH0",
+      "thumbnail": "https://i.ytimg.com/vi/Y95OMi0zkH0/mqdefault.jpg",
+      "published": "2026-06-02T22:00:22Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "LUÍS CASTRO E AUXILIAR EXPLICAM COMO RECEBEM CRÍTICAS AO TRABALHO NO GRÊMIO | Cortes do Duda",
-      "videoId": "j9AaDjpELm4",
-      "url": "https://www.youtube.com/watch?v=j9AaDjpELm4",
-      "thumbnail": "https://i.ytimg.com/vi/j9AaDjpELm4/mqdefault.jpg",
-      "published": "2026-06-01T23:30:13Z"
+      "title": "CASTRO EXPLICOU SAÍDA DO FOGÃO  #dudagarbi #umassadopara #gremio",
+      "videoId": "StjRsV6Ml1A",
+      "url": "https://www.youtube.com/watch?v=StjRsV6Ml1A",
+      "thumbnail": "https://i.ytimg.com/vi/StjRsV6Ml1A/mqdefault.jpg",
+      "published": "2026-06-02T22:00:19Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (CAMPEONATO BRASILEIRO SUB-17 2026)",
+      "videoId": "qKFNfdUym6c",
+      "url": "https://www.youtube.com/watch?v=qKFNfdUym6c",
+      "thumbnail": "https://i.ytimg.com/vi/qKFNfdUym6c/mqdefault_live.jpg",
+      "published": "2026-06-02T21:05:32Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,20 +163,12 @@
       "published": "2026-06-01T21:57:45Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X PALMEIRAS (COPA DO BRASIL SUB-15 2026)",
-      "videoId": "n8UbBcPDwKM",
-      "url": "https://www.youtube.com/watch?v=n8UbBcPDwKM",
-      "thumbnail": "https://i.ytimg.com/vi/n8UbBcPDwKM/mqdefault.jpg",
-      "published": "2026-05-31T19:49:56Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Trump classifica PCC e CV como terroristas: entenda os impactos | Conversas Cruzadas | 02/06/2026",
       "videoId": "Y1kRufDsMMc",
       "url": "https://www.youtube.com/watch?v=Y1kRufDsMMc",
       "thumbnail": "https://i.ytimg.com/vi/Y1kRufDsMMc/mqdefault_live.jpg",
-      "published": "2026-06-02T20:28:21Z"
+      "published": "2026-06-02T21:35:56Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "MEIA RECEBE SONDAGEM DO EXTERIOR | AS PRIORIDADES DO GRÊMIO NO MERCADO | IMORTAL FC",
+      "videoId": "lXBliI4YmYY",
+      "url": "https://www.youtube.com/watch?v=lXBliI4YmYY",
+      "thumbnail": "https://i.ytimg.com/vi/lXBliI4YmYY/mqdefault_live.jpg",
+      "published": "2026-06-02T21:02:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MONSALVE DEVE SAIR DO GRÊMIO | PROBLEMAS FINANCEIROS ESCANCARADOS | SITUAÇÃO DE ARTHUR | ESPLANADA",
       "videoId": "ejzhPUv3JhE",
       "url": "https://www.youtube.com/watch?v=ejzhPUv3JhE",
       "thumbnail": "https://i.ytimg.com/vi/ejzhPUv3JhE/mqdefault.jpg",
       "published": "2026-06-02T20:10:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CLUBE DO EXTERIOR DE OLHO EM MONSALVE | MUDANÇA NA BASE | NOITES DE GRÊMIO #82 - 02/06",
-      "videoId": "4DYkPa74n0g",
-      "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
-      "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault_live.jpg",
-      "published": "2026-06-02T20:07:52Z"
     }
   ]
 }
