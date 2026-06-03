@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T00:00:36.280250+00:00",
+  "updated_at": "2026-06-03T01:00:37.025899+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Vem reformulação no elenco do Grêmio",
+      "videoId": "OBfzVzBPwZk",
+      "url": "https://www.youtube.com/watch?v=OBfzVzBPwZk",
+      "thumbnail": "https://i.ytimg.com/vi/OBfzVzBPwZk/mqdefault.jpg",
+      "published": "2026-06-03T00:00:34Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #599: Novo head scout | Valores da FIFA | Possíveis saídas | Interesse em Monsalve",
       "videoId": "VX-4bpBLM-E",
       "url": "https://www.youtube.com/watch?v=VX-4bpBLM-E",
       "thumbnail": "https://i.ytimg.com/vi/VX-4bpBLM-E/mqdefault.jpg",
       "published": "2026-06-02T22:13:47Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Dutra Jr. confirma valores em atraso no Grêmio. Isso explica o baixo rendimento?",
-      "videoId": "QZBFFCILnpY",
-      "url": "https://www.youtube.com/watch?v=QZBFFCILnpY",
-      "thumbnail": "https://i.ytimg.com/vi/QZBFFCILnpY/mqdefault.jpg",
-      "published": "2026-06-02T12:49:26Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 03/06",
-      "videoId": "skwSn92CQEw",
-      "url": "https://www.youtube.com/watch?v=skwSn92CQEw",
-      "thumbnail": "https://i.ytimg.com/vi/skwSn92CQEw/mqdefault_live.jpg",
-      "published": "2026-06-02T23:06:49Z"
+      "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
+      "videoId": "yP9ITj9xuTw",
+      "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
+      "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault.jpg",
+      "published": "2026-06-03T00:38:37Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #83 — OS REFORÇOS QUE O GRÊMIO BUSCA NO MERCADO | NOVO HEAD SCOUT",
-      "videoId": "sqlwFwqN3_8",
-      "url": "https://www.youtube.com/watch?v=sqlwFwqN3_8",
-      "thumbnail": "https://i.ytimg.com/vi/sqlwFwqN3_8/mqdefault_live.jpg",
-      "published": "2026-06-02T23:05:46Z"
+      "title": "CLUBE DO EXTERIOR DE OLHO EM MONSALVE | MUDANÇA NA BASE | NOITES DE GRÊMIO #82 - 02/06",
+      "videoId": "4DYkPa74n0g",
+      "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
+      "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault_live.jpg",
+      "published": "2026-06-03T00:00:47Z"
     }
   ]
 }
