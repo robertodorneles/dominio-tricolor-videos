@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-03T01:00:37.025899+00:00",
+  "updated_at": "2026-06-03T01:44:49.390596+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: Uma avaliação mais profunda sobre o elenco do Inter até aqui | Grêmio?",
+      "videoId": "-Dn1ddGdz_M",
+      "url": "https://www.youtube.com/watch?v=-Dn1ddGdz_M",
+      "thumbnail": "https://i.ytimg.com/vi/-Dn1ddGdz_M/mqdefault_live.jpg",
+      "published": "2026-06-03T01:36:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪: Inter: 🔥 FABINHO E ABEL TOMARAM CONTA | FICAM EM 27? | BASTIDORES FORTES!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=NHAboiKbd1w",
       "thumbnail": "https://i.ytimg.com/vi/NHAboiKbd1w/mqdefault.jpg",
       "published": "2026-06-02T21:54:27Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: A LISTA DE DISPENSAS PREPARADA PARA DIREÇÃO | QUASE 30 LIBERAÇÕES | MUDANÇAS",
-      "videoId": "TW7qNt-WLjo",
-      "url": "https://www.youtube.com/watch?v=TW7qNt-WLjo",
-      "thumbnail": "https://i.ytimg.com/vi/TW7qNt-WLjo/mqdefault.jpg",
-      "published": "2026-06-02T19:00:35Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Senado decide rumo do fim da escala 6x1, South Summit Madrid e mais | Gaúcha Atualidade | 02/06/2026",
+      "videoId": "8OZ7Qj6iq50",
+      "url": "https://www.youtube.com/watch?v=8OZ7Qj6iq50",
+      "thumbnail": "https://i.ytimg.com/vi/8OZ7Qj6iq50/mqdefault.jpg",
+      "published": "2026-06-03T01:36:11Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "“ESTADO TEM QUE TOMAR CONTA”: o que falta para derrotar o crime organizado? | Conversas Cruzadas",
       "videoId": "K6cVQUlndqc",
       "url": "https://www.youtube.com/watch?v=K6cVQUlndqc",
       "thumbnail": "https://i.ytimg.com/vi/K6cVQUlndqc/mqdefault.jpg",
       "published": "2026-06-02T23:30:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "TRUMP CLASSIFICA PCC E CV COMO TERRORISTAS: O QUE MUDA PARA O BRASIL? | Conversas Cruzadas",
-      "videoId": "l4uiEEZB63A",
-      "url": "https://www.youtube.com/watch?v=l4uiEEZB63A",
-      "thumbnail": "https://i.ytimg.com/vi/l4uiEEZB63A/mqdefault.jpg",
-      "published": "2026-06-02T23:11:46Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CLUBE DO EXTERIOR DE OLHO EM MONSALVE | MUDANÇA NA BASE | NOITES DE GRÊMIO #82 - 02/06",
+      "videoId": "4DYkPa74n0g",
+      "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
+      "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault_live.jpg",
+      "published": "2026-06-03T01:31:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
       "videoId": "yP9ITj9xuTw",
       "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
       "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault.jpg",
       "published": "2026-06-03T00:38:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CLUBE DO EXTERIOR DE OLHO EM MONSALVE | MUDANÇA NA BASE | NOITES DE GRÊMIO #82 - 02/06",
-      "videoId": "4DYkPa74n0g",
-      "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
-      "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault_live.jpg",
-      "published": "2026-06-03T00:00:47Z"
     }
   ]
 }
