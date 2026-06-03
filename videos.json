@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T16:00:50.215953+00:00",
+  "updated_at": "2026-06-03T17:00:49.493836+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "QcfrBmGk_Vw",
       "url": "https://www.youtube.com/watch?v=QcfrBmGk_Vw",
       "thumbnail": "https://i.ytimg.com/vi/QcfrBmGk_Vw/mqdefault_live.jpg",
-      "published": "2026-06-03T15:42:26Z"
+      "published": "2026-06-03T16:30:41Z"
     },
     {
       "channel": "Bage TV",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Novo cálculo da Fifa para ressarcir Grêmio e Inter | Por que Luis Suárez está na lista",
+      "videoId": "KevYwidopsQ",
+      "url": "https://www.youtube.com/watch?v=KevYwidopsQ",
+      "thumbnail": "https://i.ytimg.com/vi/KevYwidopsQ/mqdefault.jpg",
+      "published": "2026-06-03T16:14:19Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Novo cálculo da Fifa para ressarcir Grêmio e Inter | Por que Suárez está na lista | Veja mais nomes",
       "videoId": "CHmumUMZx_k",
       "url": "https://www.youtube.com/watch?v=CHmumUMZx_k",
       "thumbnail": "https://i.ytimg.com/vi/CHmumUMZx_k/mqdefault.jpg",
       "published": "2026-06-03T13:15:31Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "5 BASTIDORES ANTES DA COPA DO MUNDO NOS ESTADOS UNIDOS",
-      "videoId": "wFmlZe1E9Mo",
-      "url": "https://www.youtube.com/watch?v=wFmlZe1E9Mo",
-      "thumbnail": "https://i.ytimg.com/vi/wFmlZe1E9Mo/mqdefault.jpg",
-      "published": "2026-06-02T17:18:36Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -120,7 +120,7 @@
       "videoId": "KWUWO2AN1-c",
       "url": "https://www.youtube.com/watch?v=KWUWO2AN1-c",
       "thumbnail": "https://i.ytimg.com/vi/KWUWO2AN1-c/mqdefault.jpg",
-      "published": "2026-06-03T13:36:04Z"
+      "published": "2026-06-03T16:24:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO E A NOVELA ARTHUR | JOGADORES DA SÉRIE A QUE AINDA PODEM CHEGAR | MONTANDO A SELEÇÃO GAÚCHA",
+      "videoId": "bpWguKtqacA",
+      "url": "https://www.youtube.com/watch?v=bpWguKtqacA",
+      "thumbnail": "https://i.ytimg.com/vi/bpWguKtqacA/mqdefault_live.jpg",
+      "published": "2026-06-03T16:52:22Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #83 — OS REFORÇOS QUE O GRÊMIO BUSCA NO MERCADO | NOVO HEAD SCOUT",
       "videoId": "sqlwFwqN3_8",
       "url": "https://www.youtube.com/watch?v=sqlwFwqN3_8",
       "thumbnail": "https://i.ytimg.com/vi/sqlwFwqN3_8/mqdefault.jpg",
       "published": "2026-06-03T15:19:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO CONTRATA HEAD SCOUT DO BENFICA | COMEÇAM AS MOVIMENTAÇÕES NO MERCADO? | REDAÇÃO IMORTAL",
-      "videoId": "L2avH1E9XLs",
-      "url": "https://www.youtube.com/watch?v=L2avH1E9XLs",
-      "thumbnail": "https://i.ytimg.com/vi/L2avH1E9XLs/mqdefault_live.jpg",
-      "published": "2026-06-03T12:24:42Z"
     }
   ]
 }
