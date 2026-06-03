@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T10:00:42.844767+00:00",
+  "updated_at": "2026-06-03T11:00:38.879221+00:00",
   "total": 30,
   "videos": [
     {
@@ -71,8 +71,8 @@
       "title": "FAKE OU REAL? - O QUE DIZ CELSO RIGO EM SUPOSTO ÁUDIO VAZADO - VAMOOO FARIDO 02.06.26",
       "videoId": "NcuMdNM77OQ",
       "url": "https://www.youtube.com/watch?v=NcuMdNM77OQ",
-      "thumbnail": "https://i.ytimg.com/vi/NcuMdNM77OQ/mqdefault_live.jpg",
-      "published": "2026-06-02T22:10:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/NcuMdNM77OQ/mqdefault.jpg",
+      "published": "2026-06-03T10:21:42Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha Atualidade | 03/06/2026",
+      "videoId": "yK0Hl0vJqGY",
+      "url": "https://www.youtube.com/watch?v=yK0Hl0vJqGY",
+      "thumbnail": "https://i.ytimg.com/vi/yK0Hl0vJqGY/mqdefault_live.jpg",
+      "published": "2026-06-03T10:58:53Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Trump classifica PCC e CV como terroristas: entenda os impactos | Conversas Cruzadas | 02/06/2026",
       "videoId": "Y1kRufDsMMc",
       "url": "https://www.youtube.com/watch?v=Y1kRufDsMMc",
       "thumbnail": "https://i.ytimg.com/vi/Y1kRufDsMMc/mqdefault.jpg",
       "published": "2026-06-03T09:47:10Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Notícias de Brasília, operação urbana de compostagem, trânsito e mais | Gaúcha+ | 02/06/2026",
-      "videoId": "wvwnnTzvFVI",
-      "url": "https://www.youtube.com/watch?v=wvwnnTzvFVI",
-      "thumbnail": "https://i.ytimg.com/vi/wvwnnTzvFVI/mqdefault.jpg",
-      "published": "2026-06-03T07:53:24Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "03/06/26 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "nt_6ZXuCvEI",
+      "url": "https://www.youtube.com/watch?v=nt_6ZXuCvEI",
+      "thumbnail": "https://i.ytimg.com/vi/nt_6ZXuCvEI/mqdefault_live.jpg",
+      "published": "2026-06-03T10:42:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "02/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Z47QnXN-1xc",
       "url": "https://www.youtube.com/watch?v=Z47QnXN-1xc",
@@ -219,12 +227,12 @@
       "published": "2026-06-02T23:42:46Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA DE LISCA - TREINADOR BRASILEIRO | 02/06/2026 | RÁDIO GRENAL",
-      "videoId": "ZsTR6gaAV04",
-      "url": "https://www.youtube.com/watch?v=ZsTR6gaAV04",
-      "thumbnail": "https://i.ytimg.com/vi/ZsTR6gaAV04/mqdefault.jpg",
-      "published": "2026-06-02T22:32:24Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO CONTRATA HEAD SCOUT DO BENFICA | COMEÇAM AS MOVIMENTAÇÕES NO MERCADO? | REDAÇÃO IMORTAL",
+      "videoId": "L2avH1E9XLs",
+      "url": "https://www.youtube.com/watch?v=L2avH1E9XLs",
+      "thumbnail": "https://i.ytimg.com/vi/L2avH1E9XLs/mqdefault_live.jpg",
+      "published": "2026-06-03T10:47:54Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
       "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault.jpg",
       "published": "2026-06-03T01:46:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O QUE FALOU DUTRA APÓS SUA SAÍDA DO DEPARTAMENTO DE FUTEBOL | LUÍS CASTRO RESPALDADO | REDAÇÃO",
-      "videoId": "yP9ITj9xuTw",
-      "url": "https://www.youtube.com/watch?v=yP9ITj9xuTw",
-      "thumbnail": "https://i.ytimg.com/vi/yP9ITj9xuTw/mqdefault.jpg",
-      "published": "2026-06-03T00:38:37Z"
     }
   ]
 }
