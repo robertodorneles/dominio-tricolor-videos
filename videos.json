@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T13:00:56.279432+00:00",
-  "total": 28,
+  "updated_at": "2026-06-03T13:14:01.505837+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -33,6 +33,22 @@
       "url": "https://www.youtube.com/watch?v=WOtikIo7xi0",
       "thumbnail": "https://i.ytimg.com/vi/WOtikIo7xi0/mqdefault_live.jpg",
       "published": "2026-06-03T12:00:55Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO FECHA CONTRATAÇÃO! JANELA SE APROXIMA E SERÁ IMPORTANTE | BITELLO NA PAUTA | NOVO DIRIGENTE!",
+      "videoId": "8G227WW1Abo",
+      "url": "https://www.youtube.com/watch?v=8G227WW1Abo",
+      "thumbnail": "https://i.ytimg.com/vi/8G227WW1Abo/mqdefault.jpg",
+      "published": "2026-06-02T23:50:47Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨REVIRAVOLTA COM LUÍS CASTRO | POLÍTICA NO GRÊMIO | DINHEIRO NOVO E TÉCNICO SUB-20",
+      "videoId": "0A15otljr-U",
+      "url": "https://www.youtube.com/watch?v=0A15otljr-U",
+      "thumbnail": "https://i.ytimg.com/vi/0A15otljr-U/mqdefault.jpg",
+      "published": "2026-06-02T14:47:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NOVO PORTUGUÊS 🇵🇹. #gremio #Futebo",
+      "videoId": "R8BUEoFXLaE",
+      "url": "https://www.youtube.com/watch?v=R8BUEoFXLaE",
+      "thumbnail": "https://i.ytimg.com/vi/R8BUEoFXLaE/mqdefault.jpg",
+      "published": "2026-06-03T13:00:27Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "NOVO PORTUGUÊS NO GRÊMIO | A MISSÃO É DELES?",
       "videoId": "hzImMKwW7IY",
       "url": "https://www.youtube.com/watch?v=hzImMKwW7IY",
       "thumbnail": "https://i.ytimg.com/vi/hzImMKwW7IY/mqdefault.jpg",
       "published": "2026-06-02T23:18:50Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "TEMPOS ESTRANHOS ? #gremio #Futebol",
-      "videoId": "0C1w9rPPmh8",
-      "url": "https://www.youtube.com/watch?v=0C1w9rPPmh8",
-      "thumbnail": "https://i.ytimg.com/vi/0C1w9rPPmh8/mqdefault.jpg",
-      "published": "2026-06-02T15:39:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com Débora Falabella, últimas notícias e mais | Timeline | 03/06/2026",
+      "videoId": "Do6yXSH9_DE",
+      "url": "https://www.youtube.com/watch?v=Do6yXSH9_DE",
+      "thumbnail": "https://i.ytimg.com/vi/Do6yXSH9_DE/mqdefault_live.jpg",
+      "published": "2026-06-03T13:04:13Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Novo tarifaço de Trump, últimas da política e economia, trânsito e +| Gaúcha Atualidade | 03/06/2026",
       "videoId": "yK0Hl0vJqGY",
       "url": "https://www.youtube.com/watch?v=yK0Hl0vJqGY",
       "thumbnail": "https://i.ytimg.com/vi/yK0Hl0vJqGY/mqdefault_live.jpg",
-      "published": "2026-06-03T10:58:53Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Trump classifica PCC e CV como terroristas: entenda os impactos | Conversas Cruzadas | 02/06/2026",
-      "videoId": "Y1kRufDsMMc",
-      "url": "https://www.youtube.com/watch?v=Y1kRufDsMMc",
-      "thumbnail": "https://i.ytimg.com/vi/Y1kRufDsMMc/mqdefault.jpg",
-      "published": "2026-06-03T09:47:10Z"
+      "published": "2026-06-03T13:03:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM LAURO - EX-GOLEIRO DO INTER | 03/06/26",
+      "videoId": "nd12NYJNHL0",
+      "url": "https://www.youtube.com/watch?v=nd12NYJNHL0",
+      "thumbnail": "https://i.ytimg.com/vi/nd12NYJNHL0/mqdefault.jpg",
+      "published": "2026-06-03T13:01:54Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "03/06/26 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "nt_6ZXuCvEI",
       "url": "https://www.youtube.com/watch?v=nt_6ZXuCvEI",
       "thumbnail": "https://i.ytimg.com/vi/nt_6ZXuCvEI/mqdefault_live.jpg",
       "published": "2026-06-03T11:01:30Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "02/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Z47QnXN-1xc",
-      "url": "https://www.youtube.com/watch?v=Z47QnXN-1xc",
-      "thumbnail": "https://i.ytimg.com/vi/Z47QnXN-1xc/mqdefault.jpg",
-      "published": "2026-06-02T23:42:46Z"
     },
     {
       "channel": "Radio Imortal",
