@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T11:00:38.879221+00:00",
+  "updated_at": "2026-06-03T12:00:40.939479+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "bUl-fEXJUE0",
       "url": "https://www.youtube.com/watch?v=bUl-fEXJUE0",
       "thumbnail": "https://i.ytimg.com/vi/bUl-fEXJUE0/mqdefault_live.jpg",
-      "published": "2026-06-03T09:31:35Z"
+      "published": "2026-06-03T11:58:21Z"
     },
     {
       "channel": "Bage TV",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 03/06/2026",
+      "title": "Novo tarifaço de Trump, últimas da política e economia, trânsito e +| Gaúcha Atualidade | 03/06/2026",
       "videoId": "yK0Hl0vJqGY",
       "url": "https://www.youtube.com/watch?v=yK0Hl0vJqGY",
       "thumbnail": "https://i.ytimg.com/vi/yK0Hl0vJqGY/mqdefault_live.jpg",
@@ -216,7 +216,7 @@
       "videoId": "nt_6ZXuCvEI",
       "url": "https://www.youtube.com/watch?v=nt_6ZXuCvEI",
       "thumbnail": "https://i.ytimg.com/vi/nt_6ZXuCvEI/mqdefault_live.jpg",
-      "published": "2026-06-03T10:42:44Z"
+      "published": "2026-06-03T11:01:30Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 03/06- GRÊMIO 3X1 JUVENTUDE (GAUCHÃO 2001)",
+      "videoId": "pO1vzedZlCk",
+      "url": "https://www.youtube.com/watch?v=pO1vzedZlCk",
+      "thumbnail": "https://i.ytimg.com/vi/pO1vzedZlCk/mqdefault.jpg",
+      "published": "2026-06-03T11:00:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO CONTRATA HEAD SCOUT DO BENFICA | COMEÇAM AS MOVIMENTAÇÕES NO MERCADO? | REDAÇÃO IMORTAL",
       "videoId": "L2avH1E9XLs",
       "url": "https://www.youtube.com/watch?v=L2avH1E9XLs",
       "thumbnail": "https://i.ytimg.com/vi/L2avH1E9XLs/mqdefault_live.jpg",
       "published": "2026-06-03T10:47:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CLUBE DO EXTERIOR DE OLHO EM MONSALVE | MUDANÇA NA BASE | NOITES DE GRÊMIO #82 - 02/06",
-      "videoId": "4DYkPa74n0g",
-      "url": "https://www.youtube.com/watch?v=4DYkPa74n0g",
-      "thumbnail": "https://i.ytimg.com/vi/4DYkPa74n0g/mqdefault.jpg",
-      "published": "2026-06-03T01:46:57Z"
     }
   ]
 }
