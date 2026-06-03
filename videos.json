@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T12:00:40.939479+00:00",
-  "total": 30,
+  "updated_at": "2026-06-03T13:00:56.279432+00:00",
+  "total": 28,
   "videos": [
     {
       "channel": "A Dupla",
@@ -23,32 +23,16 @@
       "title": "BITELLO NO GRÊMIO? / TRICOLOR CONTRATA PORTUGUÊS!!🌅🔵 BOM DIA GRÊMIO #042",
       "videoId": "bUl-fEXJUE0",
       "url": "https://www.youtube.com/watch?v=bUl-fEXJUE0",
-      "thumbnail": "https://i.ytimg.com/vi/bUl-fEXJUE0/mqdefault_live.jpg",
-      "published": "2026-06-03T11:58:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/bUl-fEXJUE0/mqdefault.jpg",
+      "published": "2026-06-03T12:06:00Z"
     },
     {
       "channel": "Bage TV",
-      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 03/06 - #560",
+      "title": "🚨GRÊMIO TRAZ REFORÇO EX-BENFICA | ATRASO NOS PAGAMENTOS -FUTEBOL ALEGRIA DO GRÊMIO - 03/06 - #560",
       "videoId": "WOtikIo7xi0",
       "url": "https://www.youtube.com/watch?v=WOtikIo7xi0",
       "thumbnail": "https://i.ytimg.com/vi/WOtikIo7xi0/mqdefault_live.jpg",
-      "published": "2026-06-03T09:18:54Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FECHA CONTRATAÇÃO! JANELA SE APROXIMA E SERÁ IMPORTANTE | BITELLO NA PAUTA | NOVO DIRIGENTE!",
-      "videoId": "8G227WW1Abo",
-      "url": "https://www.youtube.com/watch?v=8G227WW1Abo",
-      "thumbnail": "https://i.ytimg.com/vi/8G227WW1Abo/mqdefault.jpg",
-      "published": "2026-06-02T23:50:47Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨REVIRAVOLTA COM LUÍS CASTRO | POLÍTICA NO GRÊMIO | DINHEIRO NOVO E TÉCNICO SUB-20",
-      "videoId": "0A15otljr-U",
-      "url": "https://www.youtube.com/watch?v=0A15otljr-U",
-      "thumbnail": "https://i.ytimg.com/vi/0A15otljr-U/mqdefault.jpg",
-      "published": "2026-06-02T14:47:24Z"
+      "published": "2026-06-03T12:00:55Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +212,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO CONTRATA HEAD SCOUT DO BENFICA | COMEÇAM AS MOVIMENTAÇÕES NO MERCADO? | REDAÇÃO IMORTAL",
+      "videoId": "L2avH1E9XLs",
+      "url": "https://www.youtube.com/watch?v=L2avH1E9XLs",
+      "thumbnail": "https://i.ytimg.com/vi/L2avH1E9XLs/mqdefault_live.jpg",
+      "published": "2026-06-03T12:24:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 03/06- GRÊMIO 3X1 JUVENTUDE (GAUCHÃO 2001)",
       "videoId": "pO1vzedZlCk",
       "url": "https://www.youtube.com/watch?v=pO1vzedZlCk",
       "thumbnail": "https://i.ytimg.com/vi/pO1vzedZlCk/mqdefault.jpg",
       "published": "2026-06-03T11:00:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO CONTRATA HEAD SCOUT DO BENFICA | COMEÇAM AS MOVIMENTAÇÕES NO MERCADO? | REDAÇÃO IMORTAL",
-      "videoId": "L2avH1E9XLs",
-      "url": "https://www.youtube.com/watch?v=L2avH1E9XLs",
-      "thumbnail": "https://i.ytimg.com/vi/L2avH1E9XLs/mqdefault_live.jpg",
-      "published": "2026-06-03T10:47:54Z"
     }
   ]
 }
