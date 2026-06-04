@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T12:00:38.005777+00:00",
+  "updated_at": "2026-06-04T13:00:45.311099+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,16 @@
       "title": "SUÁREZ VAI AJUDAR O GRÊMIO MAIS UMA VEZ! 🌅🔵 BOM DIA GRÊMIO #043",
       "videoId": "t2S2iegGq0s",
       "url": "https://www.youtube.com/watch?v=t2S2iegGq0s",
-      "thumbnail": "https://i.ytimg.com/vi/t2S2iegGq0s/mqdefault_live.jpg",
-      "published": "2026-06-04T11:58:46Z"
+      "thumbnail": "https://i.ytimg.com/vi/t2S2iegGq0s/mqdefault.jpg",
+      "published": "2026-06-04T12:08:19Z"
     },
     {
       "channel": "Bage TV",
-      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 04/06 - #561",
+      "title": "ARTHUR NÃO JOGARÁ MAIS NO GRÊMIO? FUTEBOL ALEGRIA DO GRÊMIO - 04/06 - #561",
       "videoId": "NUnOsPstdCk",
       "url": "https://www.youtube.com/watch?v=NUnOsPstdCk",
       "thumbnail": "https://i.ytimg.com/vi/NUnOsPstdCk/mqdefault_live.jpg",
-      "published": "2026-06-04T11:26:03Z"
+      "published": "2026-06-04T12:01:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VAI À ALTITUDE? CONMEBOL DIVULGA DATAS DA SUL-AMERICANA | COMO DEVE SER O PLANEJAMENTO?",
+      "videoId": "ypV5itK0oiw",
+      "url": "https://www.youtube.com/watch?v=ypV5itK0oiw",
+      "thumbnail": "https://i.ytimg.com/vi/ypV5itK0oiw/mqdefault_live.jpg",
+      "published": "2026-06-04T12:16:52Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 04/06- GRÊMIO 2x1 SÃO PAULO (BRASILEIRÃO 2023)",
       "videoId": "gyGwXEbbXy4",
       "url": "https://www.youtube.com/watch?v=gyGwXEbbXy4",
       "thumbnail": "https://i.ytimg.com/vi/gyGwXEbbXy4/mqdefault.jpg",
       "published": "2026-06-04T11:00:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VAI À ALTITUDE? CONMEBOL DIVULGA DATAS DA SUL-AMERICANA | COMO DEVE SER O PLANEJAMENTO?",
-      "videoId": "ypV5itK0oiw",
-      "url": "https://www.youtube.com/watch?v=ypV5itK0oiw",
-      "thumbnail": "https://i.ytimg.com/vi/ypV5itK0oiw/mqdefault_live.jpg",
-      "published": "2026-06-04T10:47:52Z"
     }
   ]
 }
