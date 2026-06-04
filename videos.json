@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T16:00:48.427124+00:00",
+  "updated_at": "2026-06-04T17:00:48.698714+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Mandaca pode chegar | O que a direção viu nele? | Comparação com Arthur",
+      "videoId": "za26gB96p8c",
+      "url": "https://www.youtube.com/watch?v=za26gB96p8c",
+      "thumbnail": "https://i.ytimg.com/vi/za26gB96p8c/mqdefault.jpg",
+      "published": "2026-06-04T16:20:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 NOVA PRIORIDADE | ZAGUEIRO ENCAMINHADO | CEBOLINHA?",
@@ -11,20 +19,12 @@
       "published": "2026-06-04T07:39:30Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Arthur pode sair | Dívida preocupa | Caminho na Sul-Americana",
-      "videoId": "IWMP3XMFLpo",
-      "url": "https://www.youtube.com/watch?v=IWMP3XMFLpo",
-      "thumbnail": "https://i.ytimg.com/vi/IWMP3XMFLpo/mqdefault.jpg",
-      "published": "2026-06-04T05:00:26Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#059",
+      "title": "MANDACA NO GRÊMIO? / EVERTON CEBOLINHA NO INTER?🔸RESENHA FORA DA SALA🔸#059",
       "videoId": "7aQ1syYhPho",
       "url": "https://www.youtube.com/watch?v=7aQ1syYhPho",
       "thumbnail": "https://i.ytimg.com/vi/7aQ1syYhPho/mqdefault_live.jpg",
-      "published": "2026-06-04T15:42:06Z"
+      "published": "2026-06-04T16:31:37Z"
     },
     {
       "channel": "Bage TV",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Permanência de Arthur no Grêmio está difícil",
+      "videoId": "NQALcJ2j6Zc",
+      "url": "https://www.youtube.com/watch?v=NQALcJ2j6Zc",
+      "thumbnail": "https://i.ytimg.com/vi/NQALcJ2j6Zc/mqdefault.jpg",
+      "published": "2026-06-04T16:30:01Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Permanência de Arthur está difícil | Volante do Juventude na mira | Situação de Bitello",
       "videoId": "9SQ81UQjmp8",
       "url": "https://www.youtube.com/watch?v=9SQ81UQjmp8",
       "thumbnail": "https://i.ytimg.com/vi/9SQ81UQjmp8/mqdefault.jpg",
       "published": "2026-06-04T14:20:25Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Novo cálculo da Fifa para ressarcir Grêmio e Inter | Por que Luis Suárez está na lista",
-      "videoId": "KevYwidopsQ",
-      "url": "https://www.youtube.com/watch?v=KevYwidopsQ",
-      "thumbnail": "https://i.ytimg.com/vi/KevYwidopsQ/mqdefault.jpg",
-      "published": "2026-06-03T16:14:19Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "A MAIOR DIFICULDADE DE CASTRO NO GRÊMIO #selecaobrasileira #dudagarbi #umassadopara #gremio",
-      "videoId": "taYTGLNLUM8",
-      "url": "https://www.youtube.com/watch?v=taYTGLNLUM8",
-      "thumbnail": "https://i.ytimg.com/vi/taYTGLNLUM8/mqdefault.jpg",
-      "published": "2026-06-04T16:00:14Z"
+      "title": "\"JOGADOR PREGUIÇOSO NÃO PODE JOGAR FUTEBOL\" | Cortes do Bola-Bola",
+      "videoId": "fARHqgtfVMM",
+      "url": "https://www.youtube.com/watch?v=fARHqgtfVMM",
+      "thumbnail": "https://i.ytimg.com/vi/fARHqgtfVMM/mqdefault.jpg",
+      "published": "2026-06-04T16:30:04Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "COMO CASTRO ASSIMILA AS DERROTAS? #selecaobrasileira #dudagarbi #umassadopara #gremio",
-      "videoId": "Z0YKDrQz8w0",
-      "url": "https://www.youtube.com/watch?v=Z0YKDrQz8w0",
-      "thumbnail": "https://i.ytimg.com/vi/Z0YKDrQz8w0/mqdefault.jpg",
-      "published": "2026-06-04T15:00:08Z"
+      "title": "\"TREINAR O BRASIL PARA MIM É...\" | Cortes do Bola-Bola",
+      "videoId": "YNSNdBf86-s",
+      "url": "https://www.youtube.com/watch?v=YNSNdBf86-s",
+      "thumbnail": "https://i.ytimg.com/vi/YNSNdBf86-s/mqdefault.jpg",
+      "published": "2026-06-04T16:00:38Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "04/06/26 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "TIERLIST: LISTA DE DISPENSA DO INTER | CORTES RÁDIO GRENAL | 03/04/2026",
+      "videoId": "4PR8tJJOhXg",
+      "url": "https://www.youtube.com/watch?v=4PR8tJJOhXg",
+      "thumbnail": "https://i.ytimg.com/vi/4PR8tJJOhXg/mqdefault.jpg",
+      "published": "2026-06-04T16:30:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "04/06/26 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "vZISoSlEE3I",
       "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
       "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault_live.jpg",
       "published": "2026-06-04T11:06:37Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "03/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "nt_6ZXuCvEI",
-      "url": "https://www.youtube.com/watch?v=nt_6ZXuCvEI",
-      "thumbnail": "https://i.ytimg.com/vi/nt_6ZXuCvEI/mqdefault.jpg",
-      "published": "2026-06-03T23:35:57Z"
+      "channel": "Radio Imortal",
+      "title": "MANDACA É O NOME QUE O GRÊMIO PROCURA? | DE OLHO NO MERCADO BRASILEIRO | IMORTAL FC",
+      "videoId": "9ZoayYPhZDM",
+      "url": "https://www.youtube.com/watch?v=9ZoayYPhZDM",
+      "thumbnail": "https://i.ytimg.com/vi/9ZoayYPhZDM/mqdefault_live.jpg",
+      "published": "2026-06-04T16:44:26Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cDUnqP9Bl84",
       "thumbnail": "https://i.ytimg.com/vi/cDUnqP9Bl84/mqdefault.jpg",
       "published": "2026-06-04T15:15:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VAI À ALTITUDE? CONMEBOL DIVULGA DATAS DA SUL-AMERICANA | COMO DEVE SER O PLANEJAMENTO?",
-      "videoId": "ypV5itK0oiw",
-      "url": "https://www.youtube.com/watch?v=ypV5itK0oiw",
-      "thumbnail": "https://i.ytimg.com/vi/ypV5itK0oiw/mqdefault_live.jpg",
-      "published": "2026-06-04T12:16:52Z"
     }
   ]
 }
