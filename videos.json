@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T11:00:41.469257+00:00",
+  "updated_at": "2026-06-04T11:50:08.262857+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 04/06 - #561",
+      "videoId": "NUnOsPstdCk",
+      "url": "https://www.youtube.com/watch?v=NUnOsPstdCk",
+      "thumbnail": "https://i.ytimg.com/vi/NUnOsPstdCk/mqdefault_live.jpg",
+      "published": "2026-06-04T11:26:03Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "SUÁREZ VAI AJUDAR O GRÊMIO MAIS UMA VEZ! 🌅🔵 BOM DIA GRÊMIO #043",
       "videoId": "t2S2iegGq0s",
       "url": "https://www.youtube.com/watch?v=t2S2iegGq0s",
       "thumbnail": "https://i.ytimg.com/vi/t2S2iegGq0s/mqdefault_live.jpg",
       "published": "2026-06-04T09:34:19Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ARTHUR FICA MAIS DISTANTE DO GRÊMIO🔹 THE TARDE 🔹#164",
-      "videoId": "5G5eYDvHa4A",
-      "url": "https://www.youtube.com/watch?v=5G5eYDvHa4A",
-      "thumbnail": "https://i.ytimg.com/vi/5G5eYDvHa4A/mqdefault.jpg",
-      "published": "2026-06-03T22:46:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 04/06/2026",
+      "title": "Corpus Christi, South Summit Madrid, últimas notícias e mais | Gaúcha Atualidade | 04/06/2026",
       "videoId": "RqnX_DC-0JQ",
       "url": "https://www.youtube.com/watch?v=RqnX_DC-0JQ",
       "thumbnail": "https://i.ytimg.com/vi/RqnX_DC-0JQ/mqdefault_live.jpg",
@@ -216,7 +216,7 @@
       "videoId": "vZISoSlEE3I",
       "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
       "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault_live.jpg",
-      "published": "2026-06-04T10:19:54Z"
+      "published": "2026-06-04T11:06:37Z"
     },
     {
       "channel": "Radio Grenal",
