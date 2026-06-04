@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T18:00:39.590772+00:00",
+  "updated_at": "2026-06-04T19:00:38.768545+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "AR🔹 THE TARDE 🔹#165",
+      "videoId": "NopNKJWGmSs",
+      "url": "https://www.youtube.com/watch?v=NopNKJWGmSs",
+      "thumbnail": "https://i.ytimg.com/vi/NopNKJWGmSs/mqdefault_live.jpg",
+      "published": "2026-06-04T18:43:54Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "MANDACA NO GRÊMIO? / EVERTON CEBOLINHA NO INTER?🔸RESENHA FORA DA SALA🔸#059",
       "videoId": "7aQ1syYhPho",
       "url": "https://www.youtube.com/watch?v=7aQ1syYhPho",
       "thumbnail": "https://i.ytimg.com/vi/7aQ1syYhPho/mqdefault_live.jpg",
-      "published": "2026-06-04T16:31:37Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ARTHUR NÃO JOGARÁ MAIS NO GRÊMIO? FUTEBOL ALEGRIA DO GRÊMIO - 04/06 - #561",
-      "videoId": "NUnOsPstdCk",
-      "url": "https://www.youtube.com/watch?v=NUnOsPstdCk",
-      "thumbnail": "https://i.ytimg.com/vi/NUnOsPstdCk/mqdefault.jpg",
-      "published": "2026-06-04T14:38:10Z"
+      "published": "2026-06-04T18:19:17Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -168,7 +168,7 @@
       "videoId": "8JZSfWj6SYk",
       "url": "https://www.youtube.com/watch?v=8JZSfWj6SYk",
       "thumbnail": "https://i.ytimg.com/vi/8JZSfWj6SYk/mqdefault_live.jpg",
-      "published": "2026-06-04T17:48:55Z"
+      "published": "2026-06-04T18:02:07Z"
     },
     {
       "channel": "GZH Digital",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "04/06/26 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "04/06/26 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "vZISoSlEE3I",
       "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
       "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault_live.jpg",
       "published": "2026-06-04T11:06:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "O INTERESSE DO GRÊMIO EM MANDACA | SERÁ O PERFIL DAS CONTRATAÇÕES? | LATERAL RECEBE SONDAGENS",
+      "videoId": "iU4Kd7-aekI",
+      "url": "https://www.youtube.com/watch?v=iU4Kd7-aekI",
+      "thumbnail": "https://i.ytimg.com/vi/iU4Kd7-aekI/mqdefault_live.jpg",
+      "published": "2026-06-04T18:33:24Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9ZoayYPhZDM",
       "thumbnail": "https://i.ytimg.com/vi/9ZoayYPhZDM/mqdefault_live.jpg",
       "published": "2026-06-04T16:44:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #84 — GRÊMIO CONHECE DATA E LOCAL DA PARTIDA CONTRA O BOLÍVAR",
-      "videoId": "cDUnqP9Bl84",
-      "url": "https://www.youtube.com/watch?v=cDUnqP9Bl84",
-      "thumbnail": "https://i.ytimg.com/vi/cDUnqP9Bl84/mqdefault.jpg",
-      "published": "2026-06-04T15:15:02Z"
     }
   ]
 }
