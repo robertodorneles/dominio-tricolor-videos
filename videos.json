@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T20:01:24.015235+00:00",
+  "updated_at": "2026-06-04T21:00:41.827522+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: CHEGA E JOGA! | LANCES DE ANDRE RAMALHO | CONFIANÇA DE FABINHO",
+      "videoId": "00zI3a_Tg8E",
+      "url": "https://www.youtube.com/watch?v=00zI3a_Tg8E",
+      "thumbnail": "https://i.ytimg.com/vi/00zI3a_Tg8E/mqdefault.jpg",
+      "published": "2026-06-04T20:37:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Mandaca pode chegar | O que a direção viu nele? | Comparação com Arthur",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=za26gB96p8c",
       "thumbnail": "https://i.ytimg.com/vi/za26gB96p8c/mqdefault.jpg",
       "published": "2026-06-04T16:20:16Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 NOVA PRIORIDADE | ZAGUEIRO ENCAMINHADO | CEBOLINHA?",
-      "videoId": "E2JNDnHda8o",
-      "url": "https://www.youtube.com/watch?v=E2JNDnHda8o",
-      "thumbnail": "https://i.ytimg.com/vi/E2JNDnHda8o/mqdefault.jpg",
-      "published": "2026-06-04T07:39:30Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "ITALIANOS QUEREM VIERY MAIS UM INTERESSADO - VAMOOO FARIDO 04.06.26",
-      "videoId": "19TazuAJjm8",
-      "url": "https://www.youtube.com/watch?v=19TazuAJjm8",
-      "thumbnail": "https://i.ytimg.com/vi/19TazuAJjm8/mqdefault_live.jpg",
-      "published": "2026-06-04T19:30:21Z"
-    },
-    {
-      "channel": "Canal do Farid",
       "title": "ITALIANOS QUEREM VIERY MAIS UM INTERESSADO - VAMOOO FARIDO 04.06.26  📱",
       "videoId": "CanMrdPjyAI",
       "url": "https://www.youtube.com/watch?v=CanMrdPjyAI",
       "thumbnail": "https://i.ytimg.com/vi/CanMrdPjyAI/mqdefault_live.jpg",
-      "published": "2026-06-04T19:30:21Z"
+      "published": "2026-06-04T20:44:06Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "ITALIANOS QUEREM VIERY MAIS UM INTERESSADO - VAMOOO FARIDO 04.06.26",
+      "videoId": "19TazuAJjm8",
+      "url": "https://www.youtube.com/watch?v=19TazuAJjm8",
+      "thumbnail": "https://i.ytimg.com/vi/19TazuAJjm8/mqdefault_live.jpg",
+      "published": "2026-06-04T20:44:03Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "JUVENTUS MANDA: ARTHUR POR VIERY? | MANDACA NO GRÊMIO?",
+      "videoId": "YQNhyFQRXJs",
+      "url": "https://www.youtube.com/watch?v=YQNhyFQRXJs",
+      "thumbnail": "https://i.ytimg.com/vi/YQNhyFQRXJs/mqdefault.jpg",
+      "published": "2026-06-04T20:42:09Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ARTHUR: AUMENTOU O PREÇO! | QUAL SITUAÇÃO: PAVON, CARLOS VINÍCIUS E AMUZU.",
       "videoId": "pMY_SJIVHNg",
       "url": "https://www.youtube.com/watch?v=pMY_SJIVHNg",
@@ -107,12 +115,12 @@
       "published": "2026-06-03T21:33:41Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "MAIS UM PRESENTE DO 🎁 DO @marcelomarquespan #gremio #futebol",
-      "videoId": "1CoxCPIvTNg",
-      "url": "https://www.youtube.com/watch?v=1CoxCPIvTNg",
-      "thumbnail": "https://i.ytimg.com/vi/1CoxCPIvTNg/mqdefault.jpg",
-      "published": "2026-06-03T20:24:45Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "MANDACA NO GRÊMIO? | TITULAR PODE SAIR POR R$60 MILHÕES | VIERY, JUVENTUS E ARTHUR",
+      "videoId": "5VUdGK0rzYQ",
+      "url": "https://www.youtube.com/watch?v=5VUdGK0rzYQ",
+      "thumbnail": "https://i.ytimg.com/vi/5VUdGK0rzYQ/mqdefault.jpg",
+      "published": "2026-06-04T20:47:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=wCBBIf33fB4",
       "thumbnail": "https://i.ytimg.com/vi/wCBBIf33fB4/mqdefault.jpg",
       "published": "2026-06-03T21:03:39Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "BITELLO? | NOVA CONTRATAÇÃO FEITA | ARTHUR E A JUVENTUS | RENOVAÇÕES | E O ÁUDIO?",
-      "videoId": "KWUWO2AN1-c",
-      "url": "https://www.youtube.com/watch?v=KWUWO2AN1-c",
-      "thumbnail": "https://i.ytimg.com/vi/KWUWO2AN1-c/mqdefault.jpg",
-      "published": "2026-06-03T16:24:36Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Corpus Christi, mulher é presa se passando por criança, trânsito e mais | Gaúcha+ | 04/06/2026",
-      "videoId": "8JZSfWj6SYk",
-      "url": "https://www.youtube.com/watch?v=8JZSfWj6SYk",
-      "thumbnail": "https://i.ytimg.com/vi/8JZSfWj6SYk/mqdefault_live.jpg",
-      "published": "2026-06-04T19:34:22Z"
+      "title": "ISSO ou AQUILO com MARI KRÜGER | Zero Hora",
+      "videoId": "xP0WYMdl6i0",
+      "url": "https://www.youtube.com/watch?v=xP0WYMdl6i0",
+      "thumbnail": "https://i.ytimg.com/vi/xP0WYMdl6i0/mqdefault.jpg",
+      "published": "2026-06-04T20:35:17Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Direto da Brain Congress, entrevista com psiquiatra, análises, política e mais | Timeline 04/06/26",
-      "videoId": "HwbjrVDC-Hc",
-      "url": "https://www.youtube.com/watch?v=HwbjrVDC-Hc",
-      "thumbnail": "https://i.ytimg.com/vi/HwbjrVDC-Hc/mqdefault_live.jpg",
-      "published": "2026-06-04T13:55:39Z"
+      "title": "Tecnologia e beleza: como a INOVAÇÃO está transformando o mundo da DERMATOLOGIA | Radar de Inovação",
+      "videoId": "Dc1JF1CKYYI",
+      "url": "https://www.youtube.com/watch?v=Dc1JF1CKYYI",
+      "thumbnail": "https://i.ytimg.com/vi/Dc1JF1CKYYI/mqdefault.jpg",
+      "published": "2026-06-04T20:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "O INTERESSE DO GRÊMIO EM MANDACA | SERÁ O PERFIL DAS CONTRATAÇÕES? | LATERAL RECEBE SONDAGENS",
       "videoId": "iU4Kd7-aekI",
       "url": "https://www.youtube.com/watch?v=iU4Kd7-aekI",
-      "thumbnail": "https://i.ytimg.com/vi/iU4Kd7-aekI/mqdefault_live.jpg",
-      "published": "2026-06-04T19:30:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/iU4Kd7-aekI/mqdefault.jpg",
+      "published": "2026-06-04T20:02:17Z"
     },
     {
       "channel": "Radio Imortal",
