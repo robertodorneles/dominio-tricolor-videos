@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T10:00:46.182694+00:00",
+  "updated_at": "2026-06-04T11:00:41.469257+00:00",
   "total": 30,
   "videos": [
     {
@@ -71,8 +71,8 @@
       "title": "PARADA DA COPA: SERÁ SUFICIENTE PARA LUIS CASTRO ? - VAMOOO FARIDO 03.06.26",
       "videoId": "Q9HJiHQvtTw",
       "url": "https://www.youtube.com/watch?v=Q9HJiHQvtTw",
-      "thumbnail": "https://i.ytimg.com/vi/Q9HJiHQvtTw/mqdefault_live.jpg",
-      "published": "2026-06-03T22:13:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/Q9HJiHQvtTw/mqdefault.jpg",
+      "published": "2026-06-04T10:20:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha Atualidade | 04/06/2026",
+      "videoId": "RqnX_DC-0JQ",
+      "url": "https://www.youtube.com/watch?v=RqnX_DC-0JQ",
+      "thumbnail": "https://i.ytimg.com/vi/RqnX_DC-0JQ/mqdefault_live.jpg",
+      "published": "2026-06-04T10:58:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Tarifaço de Trump: ameaça econômica ou pressão política? | Conversas Cruzadas | 03/06/2026",
       "videoId": "P4jPRp7Avlg",
       "url": "https://www.youtube.com/watch?v=P4jPRp7Avlg",
       "thumbnail": "https://i.ytimg.com/vi/P4jPRp7Avlg/mqdefault.jpg",
       "published": "2026-06-04T09:33:24Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Funcionários fantasmas, pedágios, informações do trânsito e mais | Gaúcha+",
-      "videoId": "WtuxkS-gdJk",
-      "url": "https://www.youtube.com/watch?v=WtuxkS-gdJk",
-      "thumbnail": "https://i.ytimg.com/vi/WtuxkS-gdJk/mqdefault.jpg",
-      "published": "2026-06-04T08:15:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "04/06/26 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "vZISoSlEE3I",
+      "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
+      "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault_live.jpg",
+      "published": "2026-06-04T10:19:54Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "03/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "nt_6ZXuCvEI",
       "url": "https://www.youtube.com/watch?v=nt_6ZXuCvEI",
@@ -219,28 +227,20 @@
       "published": "2026-06-03T23:35:57Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM RODRIGO GALATTO - EX-GOLEIRO DO GRÊMIO | 03/06/26",
-      "videoId": "9xFWar1rmhI",
-      "url": "https://www.youtube.com/watch?v=9xFWar1rmhI",
-      "thumbnail": "https://i.ytimg.com/vi/9xFWar1rmhI/mqdefault.jpg",
-      "published": "2026-06-03T13:22:06Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 04/06- GRÊMIO 2x1 SÃO PAULO (BRASILEIRÃO 2023)",
+      "videoId": "gyGwXEbbXy4",
+      "url": "https://www.youtube.com/watch?v=gyGwXEbbXy4",
+      "thumbnail": "https://i.ytimg.com/vi/gyGwXEbbXy4/mqdefault.jpg",
+      "published": "2026-06-04T11:00:27Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO DE OLHO NA SITUAÇÃO DE ARTHUR | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO #83 - 03/06",
-      "videoId": "DpgpR-Blxf8",
-      "url": "https://www.youtube.com/watch?v=DpgpR-Blxf8",
-      "thumbnail": "https://i.ytimg.com/vi/DpgpR-Blxf8/mqdefault.jpg",
-      "published": "2026-06-04T01:52:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 04/06",
-      "videoId": "iU4Kd7-aekI",
-      "url": "https://www.youtube.com/watch?v=iU4Kd7-aekI",
-      "thumbnail": "https://i.ytimg.com/vi/iU4Kd7-aekI/mqdefault_live.jpg",
-      "published": "2026-06-04T01:36:06Z"
+      "title": "GRÊMIO VAI À ALTITUDE? CONMEBOL DIVULGA DATAS DA SUL-AMERICANA | COMO DEVE SER O PLANEJAMENTO?",
+      "videoId": "ypV5itK0oiw",
+      "url": "https://www.youtube.com/watch?v=ypV5itK0oiw",
+      "thumbnail": "https://i.ytimg.com/vi/ypV5itK0oiw/mqdefault_live.jpg",
+      "published": "2026-06-04T10:47:52Z"
     }
   ]
 }
