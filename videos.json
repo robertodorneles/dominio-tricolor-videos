@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T00:00:41.536575+00:00",
+  "updated_at": "2026-06-04T01:00:37.000071+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: Dia de avaliações precisas sobre o elenco do Grêmio no semetre | Inter!?",
+      "videoId": "XlJIIApLoSo",
+      "url": "https://www.youtube.com/watch?v=XlJIIApLoSo",
+      "thumbnail": "https://i.ytimg.com/vi/XlJIIApLoSo/mqdefault_live.jpg",
+      "published": "2026-06-04T00:13:52Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O principal motivo para a saída de Willian do clube | A diferença de pensamento",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=AOt_wJLvQO4",
       "thumbnail": "https://i.ytimg.com/vi/AOt_wJLvQO4/mqdefault.jpg",
       "published": "2026-06-03T22:00:24Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 ANALISAMOS O ELENCO COLORADO | QUEM ESTÁ EM ALTA E QUEM ESTÁ EM BAIXA?",
-      "videoId": "Grakk1BvfTU",
-      "url": "https://www.youtube.com/watch?v=Grakk1BvfTU",
-      "thumbnail": "https://i.ytimg.com/vi/Grakk1BvfTU/mqdefault.jpg",
-      "published": "2026-06-03T21:16:03Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VAI À ALTITUDE? CONMEBOL DIVULGA DATAS DA SUL-AMERICANA | COMO DEVE SER O PLANEJAMENTO?",
+      "videoId": "ypV5itK0oiw",
+      "url": "https://www.youtube.com/watch?v=ypV5itK0oiw",
+      "thumbnail": "https://i.ytimg.com/vi/ypV5itK0oiw/mqdefault_live.jpg",
+      "published": "2026-06-04T00:39:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO DE OLHO NA SITUAÇÃO DE ARTHUR | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO #83 - 03/06",
       "videoId": "DpgpR-Blxf8",
       "url": "https://www.youtube.com/watch?v=DpgpR-Blxf8",
       "thumbnail": "https://i.ytimg.com/vi/DpgpR-Blxf8/mqdefault_live.jpg",
       "published": "2026-06-04T00:00:28Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO E A NOVELA ARTHUR | JOGADORES DA SÉRIE A QUE AINDA PODEM CHEGAR | MONTANDO A SELEÇÃO GAÚCHA",
-      "videoId": "bpWguKtqacA",
-      "url": "https://www.youtube.com/watch?v=bpWguKtqacA",
-      "thumbnail": "https://i.ytimg.com/vi/bpWguKtqacA/mqdefault.jpg",
-      "published": "2026-06-03T22:49:48Z"
     }
   ]
 }
