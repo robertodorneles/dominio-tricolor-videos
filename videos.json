@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T23:40:43.545886+00:00",
+  "updated_at": "2026-06-04T00:00:41.536575+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO DE OLHO NA SITUAÇÃO DE ARTHUR | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO #83 - 03/06",
+      "videoId": "DpgpR-Blxf8",
+      "url": "https://www.youtube.com/watch?v=DpgpR-Blxf8",
+      "thumbnail": "https://i.ytimg.com/vi/DpgpR-Blxf8/mqdefault_live.jpg",
+      "published": "2026-06-04T00:00:28Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO E A NOVELA ARTHUR | JOGADORES DA SÉRIE A QUE AINDA PODEM CHEGAR | MONTANDO A SELEÇÃO GAÚCHA",
       "videoId": "bpWguKtqacA",
       "url": "https://www.youtube.com/watch?v=bpWguKtqacA",
       "thumbnail": "https://i.ytimg.com/vi/bpWguKtqacA/mqdefault.jpg",
       "published": "2026-06-03T22:49:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO AGUARDA DEFINIÇÃO DA JUVENTUS COM ARTHUR | QUANTO RECEBEREMOS DA FIFA? | ESPLANADA",
-      "videoId": "skwSn92CQEw",
-      "url": "https://www.youtube.com/watch?v=skwSn92CQEw",
-      "thumbnail": "https://i.ytimg.com/vi/skwSn92CQEw/mqdefault.jpg",
-      "published": "2026-06-03T19:59:22Z"
     }
   ]
 }
