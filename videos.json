@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-05T04:05:06.241454+00:00",
+  "updated_at": "2026-06-05T09:00:43.362685+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio KTO: Juventus endurece por Arthur | Oferta por Viery | Arena | Pedrinho!!",
+      "videoId": "0FgwRSLOXKw",
+      "url": "https://www.youtube.com/watch?v=0FgwRSLOXKw",
+      "thumbnail": "https://i.ytimg.com/vi/0FgwRSLOXKw/mqdefault.jpg",
+      "published": "2026-06-05T05:00:19Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 MAIS DE UM ZAGUEIRO VIRÁ | FUCHS NA MIRA? | FABINHO REVELOU",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Qq9bJaJ7abc",
       "thumbnail": "https://i.ytimg.com/vi/Qq9bJaJ7abc/mqdefault.jpg",
       "published": "2026-06-05T02:53:59Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: ÚLTIMA LIVE DO BRASIL ANTES DA COPA | GRÊMIO, INTER E MUITA RESENHA",
-      "videoId": "HlGq2IB7MnE",
-      "url": "https://www.youtube.com/watch?v=HlGq2IB7MnE",
-      "thumbnail": "https://i.ytimg.com/vi/HlGq2IB7MnE/mqdefault.jpg",
-      "published": "2026-06-05T02:52:25Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Direto da Brain Congress, entrevista com psiquiatra, análises, política e mais | Timeline 04/06/26",
-      "videoId": "HwbjrVDC-Hc",
-      "url": "https://www.youtube.com/watch?v=HwbjrVDC-Hc",
-      "thumbnail": "https://i.ytimg.com/vi/HwbjrVDC-Hc/mqdefault.jpg",
-      "published": "2026-06-05T02:27:08Z"
+      "title": "Timeline 06/06/26",
+      "videoId": "d6HufBYLziM",
+      "url": "https://www.youtube.com/watch?v=d6HufBYLziM",
+      "thumbnail": "https://i.ytimg.com/vi/d6HufBYLziM/mqdefault_live.jpg",
+      "published": "2026-06-05T07:54:45Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Corpus Christi, South Summit Madrid, últimas notícias e mais | Gaúcha Atualidade | 04/06/2026",
-      "videoId": "RqnX_DC-0JQ",
-      "url": "https://www.youtube.com/watch?v=RqnX_DC-0JQ",
-      "thumbnail": "https://i.ytimg.com/vi/RqnX_DC-0JQ/mqdefault.jpg",
-      "published": "2026-06-05T01:53:20Z"
+      "title": "Gaúcha Atualidade | 06/06/2026",
+      "videoId": "6cvaUuiVQtc",
+      "url": "https://www.youtube.com/watch?v=6cvaUuiVQtc",
+      "thumbnail": "https://i.ytimg.com/vi/6cvaUuiVQtc/mqdefault_live.jpg",
+      "published": "2026-06-05T07:54:11Z"
     },
     {
       "channel": "Jeremias Wernek",
