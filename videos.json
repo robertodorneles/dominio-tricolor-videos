@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-05T00:03:42.059800+00:00",
+  "updated_at": "2026-06-05T01:00:36.383159+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: ÚLTIMA LIVE DO BRASIL ANTES DA COPA | GRÊMIO, INTER E MUITA RESENHA",
+      "videoId": "HlGq2IB7MnE",
+      "url": "https://www.youtube.com/watch?v=HlGq2IB7MnE",
+      "thumbnail": "https://i.ytimg.com/vi/HlGq2IB7MnE/mqdefault_live.jpg",
+      "published": "2026-06-05T00:40:45Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: CHEGA E JOGA! | LANCES DE ANDRE RAMALHO | CONFIANÇA DE FABINHO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=00zI3a_Tg8E",
       "thumbnail": "https://i.ytimg.com/vi/00zI3a_Tg8E/mqdefault.jpg",
       "published": "2026-06-04T20:37:05Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Mandaca pode chegar | O que a direção viu nele? | Comparação com Arthur",
-      "videoId": "za26gB96p8c",
-      "url": "https://www.youtube.com/watch?v=za26gB96p8c",
-      "thumbnail": "https://i.ytimg.com/vi/za26gB96p8c/mqdefault.jpg",
-      "published": "2026-06-04T16:20:16Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "-GUDmOddI3Q",
       "url": "https://www.youtube.com/watch?v=-GUDmOddI3Q",
       "thumbnail": "https://i.ytimg.com/vi/-GUDmOddI3Q/mqdefault_live.jpg",
-      "published": "2026-06-04T22:58:54Z"
+      "published": "2026-06-05T00:18:59Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ARTHUR RECEBE SONDAGENS EM MEIO À INDEFINIÇÃO NO GRÊMIO | POSSÍVEL TROCA? | REDAÇÃO IMORTAL",
+      "videoId": "UPcGcNFZMsc",
+      "url": "https://www.youtube.com/watch?v=UPcGcNFZMsc",
+      "thumbnail": "https://i.ytimg.com/vi/UPcGcNFZMsc/mqdefault_live.jpg",
+      "published": "2026-06-05T00:56:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO BUSCA MANDACA? | VIERY ENVOLIDO NA NEGOCIAÇÃO DE ARTHUR | NOITES DE GRÊMIO #84 - 04/06",
       "videoId": "R1gIHmS9FOs",
       "url": "https://www.youtube.com/watch?v=R1gIHmS9FOs",
       "thumbnail": "https://i.ytimg.com/vi/R1gIHmS9FOs/mqdefault_live.jpg",
       "published": "2026-06-05T00:00:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS NOVIDADES ENVOLVENDO ARTHUR E VIERY | GRÊMIO E O INTERESSE POR MANDACA | IMORTAL FC",
-      "videoId": "9ZoayYPhZDM",
-      "url": "https://www.youtube.com/watch?v=9ZoayYPhZDM",
-      "thumbnail": "https://i.ytimg.com/vi/9ZoayYPhZDM/mqdefault.jpg",
-      "published": "2026-06-04T22:22:15Z"
     }
   ]
 }
