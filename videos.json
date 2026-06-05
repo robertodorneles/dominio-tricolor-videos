@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:00:40.442670+00:00",
+  "updated_at": "2026-06-05T00:00:44.202584+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨TROCA FEITA PELO GRÊMIO! MAIS REFORÇOS NA MIRA COM MUDANÇA IMPORTANTE | ARTHUR E A “OFENSA”",
+      "videoId": "tRQRCpwrdp0",
+      "url": "https://www.youtube.com/watch?v=tRQRCpwrdp0",
+      "thumbnail": "https://i.ytimg.com/vi/tRQRCpwrdp0/mqdefault.jpg",
+      "published": "2026-06-04T23:29:28Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨BOA NOTÍCIA SOBRE ARTHUR | MANDACA CHEGANDO? | AS FÉRIAS DOS ATLETAS DO GRÊMIO!",
       "videoId": "_GjzvfWKd2E",
       "url": "https://www.youtube.com/watch?v=_GjzvfWKd2E",
       "thumbnail": "https://i.ytimg.com/vi/_GjzvfWKd2E/mqdefault.jpg",
       "published": "2026-06-04T14:39:07Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨REFORÇO: GRÊMIO E INTER DISPUTAM GRANDE JOGADOR | ARTHUR VAI FICAR? | BITELLO VINDO? | UM PRESENTE",
-      "videoId": "9MFiCg-gHMo",
-      "url": "https://www.youtube.com/watch?v=9MFiCg-gHMo",
-      "thumbnail": "https://i.ytimg.com/vi/9MFiCg-gHMo/mqdefault.jpg",
-      "published": "2026-06-03T21:14:10Z"
     },
     {
       "channel": "Canal do CCD",
@@ -215,16 +215,24 @@
       "title": "04/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "vZISoSlEE3I",
       "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
-      "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault_live.jpg",
-      "published": "2026-06-04T23:00:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault.jpg",
+      "published": "2026-06-04T23:30:24Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "TIERLIST: LISTA DE DISPENSA DO INTER | CORTES RÁDIO GRENAL | 03/04/2026",
-      "videoId": "4PR8tJJOhXg",
-      "url": "https://www.youtube.com/watch?v=4PR8tJJOhXg",
-      "thumbnail": "https://i.ytimg.com/vi/4PR8tJJOhXg/mqdefault.jpg",
-      "published": "2026-06-04T16:30:03Z"
+      "title": "04/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "vmcW7hTwyno",
+      "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
+      "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault_live.jpg",
+      "published": "2026-06-04T23:00:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA MANDACA? | VIERY ENVOLIDO NA NEGOCIAÇÃO DE ARTHUR | NOITES DE GRÊMIO #84 - 04/06",
+      "videoId": "R1gIHmS9FOs",
+      "url": "https://www.youtube.com/watch?v=R1gIHmS9FOs",
+      "thumbnail": "https://i.ytimg.com/vi/R1gIHmS9FOs/mqdefault_live.jpg",
+      "published": "2026-06-05T00:00:16Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9ZoayYPhZDM",
       "thumbnail": "https://i.ytimg.com/vi/9ZoayYPhZDM/mqdefault.jpg",
       "published": "2026-06-04T22:22:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA MANDACA? | VIERY ENVOLIDO NA NEGOCIAÇÃO DE ARTHUR | NOITES DE GRÊMIO #84 - 04/06",
-      "videoId": "R1gIHmS9FOs",
-      "url": "https://www.youtube.com/watch?v=R1gIHmS9FOs",
-      "thumbnail": "https://i.ytimg.com/vi/R1gIHmS9FOs/mqdefault_live.jpg",
-      "published": "2026-06-04T21:11:12Z"
     }
   ]
 }
