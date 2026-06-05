@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T21:22:52.573246+00:00",
+  "updated_at": "2026-06-05T22:00:33.448747+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "PORTUGUÊS DE SAÍDA? 🔹 THE TARDE 🔹#166",
       "videoId": "5Q1Ji5VQK9s",
       "url": "https://www.youtube.com/watch?v=5Q1Ji5VQK9s",
-      "thumbnail": "https://i.ytimg.com/vi/5Q1Ji5VQK9s/mqdefault_live.jpg",
-      "published": "2026-06-05T21:06:04Z"
+      "thumbnail": "https://i.ytimg.com/vi/5Q1Ji5VQK9s/mqdefault.jpg",
+      "published": "2026-06-05T21:29:12Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #602: Situação de Mandaca | Weverton na seleção | Vitor Severino | Grêmio sub-20",
+      "videoId": "i-z5QcDTpAk",
+      "url": "https://www.youtube.com/watch?v=i-z5QcDTpAk",
+      "thumbnail": "https://i.ytimg.com/vi/i-z5QcDTpAk/mqdefault.jpg",
+      "published": "2026-06-05T21:22:37Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #601: Pedido da Juventus | Fluminense de olho | Pedro Gabriel | Sul-americana",
       "videoId": "whXs85crafE",
       "url": "https://www.youtube.com/watch?v=whXs85crafE",
       "thumbnail": "https://i.ytimg.com/vi/whXs85crafE/mqdefault.jpg",
       "published": "2026-06-04T21:39:57Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O caminho dos novos negócios do Grêmio",
-      "videoId": "xZHG3dCmqQw",
-      "url": "https://www.youtube.com/watch?v=xZHG3dCmqQw",
-      "thumbnail": "https://i.ytimg.com/vi/xZHG3dCmqQw/mqdefault.jpg",
-      "published": "2026-06-04T17:15:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "O KANNEMANN É UMA INSTITUIÇÃO  #selecaobrasileira #dudagarbi #umassadopara #gremio",
-      "videoId": "-Se-FbQx5D0",
-      "url": "https://www.youtube.com/watch?v=-Se-FbQx5D0",
-      "thumbnail": "https://i.ytimg.com/vi/-Se-FbQx5D0/mqdefault.jpg",
-      "published": "2026-06-05T15:00:29Z"
+      "title": "UM ASSADO PARA...  IBAÑEZ | ZAGUEIRO DA SELEÇÃO BRASILEIRA | #388",
+      "videoId": "tEZM4R1PZwg",
+      "url": "https://www.youtube.com/watch?v=tEZM4R1PZwg",
+      "thumbnail": "https://i.ytimg.com/vi/tEZM4R1PZwg/mqdefault.jpg",
+      "published": "2026-06-05T19:14:26Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "E AS CRÍTICAS DA IMPRENSA A LUÍS CASTRO?  #selecaobrasileira #dudagarbi #umassadopara #gremio",
-      "videoId": "h_lsKICsZzQ",
-      "url": "https://www.youtube.com/watch?v=h_lsKICsZzQ",
-      "thumbnail": "https://i.ytimg.com/vi/h_lsKICsZzQ/mqdefault.jpg",
-      "published": "2026-06-04T22:00:31Z"
+      "title": "O BOTAFOGO NÃO TINHA NADA #selecaobrasileira #dudagarbi #umassadopara #gremio",
+      "videoId": "pNr3XLtUi4g",
+      "url": "https://www.youtube.com/watch?v=pNr3XLtUi4g",
+      "thumbnail": "https://i.ytimg.com/vi/pNr3XLtUi4g/mqdefault.jpg",
+      "published": "2026-06-05T16:00:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "WEVERTON VAI JOGAR! | SEVERINO RECUSA PROPOSTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #85 - 05/06",
+      "videoId": "qT0pgSiZnXc",
+      "url": "https://www.youtube.com/watch?v=qT0pgSiZnXc",
+      "thumbnail": "https://i.ytimg.com/vi/qT0pgSiZnXc/mqdefault_live.jpg",
+      "published": "2026-06-05T21:23:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AS POSSIBILIDADES DO GRÊMIO NO MERCADO DA SÉRIE A | WEVERTON CONFIRMADO EM AMISTOSO | IMORTAL FC",
       "videoId": "1Z2YBS-FMNM",
       "url": "https://www.youtube.com/watch?v=1Z2YBS-FMNM",
       "thumbnail": "https://i.ytimg.com/vi/1Z2YBS-FMNM/mqdefault_live.jpg",
       "published": "2026-06-05T21:01:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS NOVIDADES DO GRÊMIO NO PERÍODO DE FÉRIAS | OS NEGÓCIOS EM ANDAMENTO | PLANTÃO IMORTAL",
-      "videoId": "NxQut0RZX4s",
-      "url": "https://www.youtube.com/watch?v=NxQut0RZX4s",
-      "thumbnail": "https://i.ytimg.com/vi/NxQut0RZX4s/mqdefault_live.jpg",
-      "published": "2026-06-05T20:26:54Z"
     }
   ]
 }
