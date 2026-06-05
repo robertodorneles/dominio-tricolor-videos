@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T21:00:39.997875+00:00",
+  "updated_at": "2026-06-05T21:22:52.573246+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "5Q1Ji5VQK9s",
       "url": "https://www.youtube.com/watch?v=5Q1Ji5VQK9s",
       "thumbnail": "https://i.ytimg.com/vi/5Q1Ji5VQK9s/mqdefault_live.jpg",
-      "published": "2026-06-05T19:31:51Z"
+      "published": "2026-06-05T21:06:04Z"
     },
     {
       "channel": "Bage TV",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "05/06/26 | CONTRA-ATAQUE | RÁDIO GRENAL",
+      "title": "05/06/26 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "vmcW7hTwyno",
       "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
       "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault_live.jpg",
       "published": "2026-06-05T11:01:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AS POSSIBILIDADES DO GRÊMIO NO MERCADO DA SÉRIE A | WEVERTON CONFIRMADO EM AMISTOSO | IMORTAL FC",
+      "videoId": "1Z2YBS-FMNM",
+      "url": "https://www.youtube.com/watch?v=1Z2YBS-FMNM",
+      "thumbnail": "https://i.ytimg.com/vi/1Z2YBS-FMNM/mqdefault_live.jpg",
+      "published": "2026-06-05T21:01:44Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=NxQut0RZX4s",
       "thumbnail": "https://i.ytimg.com/vi/NxQut0RZX4s/mqdefault_live.jpg",
       "published": "2026-06-05T20:26:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CLUBE PORTUGUÊS TENTA AUXILIAR DE LUÍS CASTRO | GRÊMIO SUB-20 EM CAMPO | WEVERTON VAI PRA JOGO!",
-      "videoId": "sfK1pS6yV8c",
-      "url": "https://www.youtube.com/watch?v=sfK1pS6yV8c",
-      "thumbnail": "https://i.ytimg.com/vi/sfK1pS6yV8c/mqdefault.jpg",
-      "published": "2026-06-05T19:50:40Z"
     }
   ]
 }
