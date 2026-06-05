@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-06-05T02:00:41.324913+00:00",
+  "updated_at": "2026-06-05T04:05:06.241454+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: 🔥 MAIS DE UM ZAGUEIRO VIRÁ | FUCHS NA MIRA? | FABINHO REVELOU",
+      "videoId": "Qq9bJaJ7abc",
+      "url": "https://www.youtube.com/watch?v=Qq9bJaJ7abc",
+      "thumbnail": "https://i.ytimg.com/vi/Qq9bJaJ7abc/mqdefault.jpg",
+      "published": "2026-06-05T02:53:59Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla KTO: ÚLTIMA LIVE DO BRASIL ANTES DA COPA | GRÊMIO, INTER E MUITA RESENHA",
       "videoId": "HlGq2IB7MnE",
       "url": "https://www.youtube.com/watch?v=HlGq2IB7MnE",
-      "thumbnail": "https://i.ytimg.com/vi/HlGq2IB7MnE/mqdefault_live.jpg",
-      "published": "2026-06-05T01:37:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: CHEGA E JOGA! | LANCES DE ANDRE RAMALHO | CONFIANÇA DE FABINHO",
-      "videoId": "00zI3a_Tg8E",
-      "url": "https://www.youtube.com/watch?v=00zI3a_Tg8E",
-      "thumbnail": "https://i.ytimg.com/vi/00zI3a_Tg8E/mqdefault.jpg",
-      "published": "2026-06-04T20:37:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/HlGq2IB7MnE/mqdefault.jpg",
+      "published": "2026-06-05T02:52:25Z"
     },
     {
       "channel": "Bage TV",
@@ -156,11 +156,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ESTRELA (CAMPEONATO GAÚCHO SUB-20 2026)",
-      "videoId": "Xre15ibvrb8",
-      "url": "https://www.youtube.com/watch?v=Xre15ibvrb8",
-      "thumbnail": "https://i.ytimg.com/vi/Xre15ibvrb8/mqdefault_live.jpg",
-      "published": "2026-06-03T15:24:05Z"
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-17 2026)",
+      "videoId": "tigaw5i11gA",
+      "url": "https://www.youtube.com/watch?v=tigaw5i11gA",
+      "thumbnail": "https://i.ytimg.com/vi/tigaw5i11gA/mqdefault_live.jpg",
+      "published": "2026-06-03T15:22:43Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Direto da Brain Congress, entrevista com psiquiatra, análises, política e mais | Timeline 04/06/26",
+      "videoId": "HwbjrVDC-Hc",
+      "url": "https://www.youtube.com/watch?v=HwbjrVDC-Hc",
+      "thumbnail": "https://i.ytimg.com/vi/HwbjrVDC-Hc/mqdefault.jpg",
+      "published": "2026-06-05T02:27:08Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=RqnX_DC-0JQ",
       "thumbnail": "https://i.ytimg.com/vi/RqnX_DC-0JQ/mqdefault.jpg",
       "published": "2026-06-05T01:53:20Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ISSO ou AQUILO com MARI KRÜGER | Zero Hora",
-      "videoId": "xP0WYMdl6i0",
-      "url": "https://www.youtube.com/watch?v=xP0WYMdl6i0",
-      "thumbnail": "https://i.ytimg.com/vi/xP0WYMdl6i0/mqdefault.jpg",
-      "published": "2026-06-04T20:35:17Z"
     },
     {
       "channel": "Jeremias Wernek",
