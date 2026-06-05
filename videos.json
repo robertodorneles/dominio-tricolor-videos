@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T17:51:17.710831+00:00",
+  "updated_at": "2026-06-05T18:00:40.901297+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X NOVO HAMBURGO (CAMPEONATO GAÚCHO SUB-20 2026)",
+      "videoId": "PEoakX-RxCY",
+      "url": "https://www.youtube.com/watch?v=PEoakX-RxCY",
+      "thumbnail": "https://i.ytimg.com/vi/PEoakX-RxCY/mqdefault_live.jpg",
+      "published": "2026-06-05T17:51:16Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (CAMPEONATO BRASILEIRO SUB-17 2026)",
       "videoId": "qKFNfdUym6c",
       "url": "https://www.youtube.com/watch?v=qKFNfdUym6c",
       "thumbnail": "https://i.ytimg.com/vi/qKFNfdUym6c/mqdefault.jpg",
       "published": "2026-06-03T20:06:56Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-17 2026)",
-      "videoId": "tigaw5i11gA",
-      "url": "https://www.youtube.com/watch?v=tigaw5i11gA",
-      "thumbnail": "https://i.ytimg.com/vi/tigaw5i11gA/mqdefault_live.jpg",
-      "published": "2026-06-03T15:22:43Z"
     },
     {
       "channel": "GZH Digital",
