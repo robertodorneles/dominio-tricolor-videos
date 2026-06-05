@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T01:00:36.383159+00:00",
+  "updated_at": "2026-06-05T02:00:41.324913+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "HlGq2IB7MnE",
       "url": "https://www.youtube.com/watch?v=HlGq2IB7MnE",
       "thumbnail": "https://i.ytimg.com/vi/HlGq2IB7MnE/mqdefault_live.jpg",
-      "published": "2026-06-05T00:40:45Z"
+      "published": "2026-06-05T01:37:35Z"
     },
     {
       "channel": "A Dupla",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Corpus Christi, South Summit Madrid, últimas notícias e mais | Gaúcha Atualidade | 04/06/2026",
+      "videoId": "RqnX_DC-0JQ",
+      "url": "https://www.youtube.com/watch?v=RqnX_DC-0JQ",
+      "thumbnail": "https://i.ytimg.com/vi/RqnX_DC-0JQ/mqdefault.jpg",
+      "published": "2026-06-05T01:53:20Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ISSO ou AQUILO com MARI KRÜGER | Zero Hora",
       "videoId": "xP0WYMdl6i0",
       "url": "https://www.youtube.com/watch?v=xP0WYMdl6i0",
       "thumbnail": "https://i.ytimg.com/vi/xP0WYMdl6i0/mqdefault.jpg",
       "published": "2026-06-04T20:35:17Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Tecnologia e beleza: como a INOVAÇÃO está transformando o mundo da DERMATOLOGIA | Radar de Inovação",
-      "videoId": "Dc1JF1CKYYI",
-      "url": "https://www.youtube.com/watch?v=Dc1JF1CKYYI",
-      "thumbnail": "https://i.ytimg.com/vi/Dc1JF1CKYYI/mqdefault.jpg",
-      "published": "2026-06-04T20:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ARTHUR RECEBE SONDAGENS EM MEIO À INDEFINIÇÃO NO GRÊMIO | POSSÍVEL TROCA? | REDAÇÃO IMORTAL",
-      "videoId": "UPcGcNFZMsc",
-      "url": "https://www.youtube.com/watch?v=UPcGcNFZMsc",
-      "thumbnail": "https://i.ytimg.com/vi/UPcGcNFZMsc/mqdefault_live.jpg",
-      "published": "2026-06-05T00:56:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO BUSCA MANDACA? | VIERY ENVOLIDO NA NEGOCIAÇÃO DE ARTHUR | NOITES DE GRÊMIO #84 - 04/06",
       "videoId": "R1gIHmS9FOs",
       "url": "https://www.youtube.com/watch?v=R1gIHmS9FOs",
-      "thumbnail": "https://i.ytimg.com/vi/R1gIHmS9FOs/mqdefault_live.jpg",
-      "published": "2026-06-05T00:00:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/R1gIHmS9FOs/mqdefault.jpg",
+      "published": "2026-06-05T01:54:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 05/06",
+      "videoId": "sfK1pS6yV8c",
+      "url": "https://www.youtube.com/watch?v=sfK1pS6yV8c",
+      "thumbnail": "https://i.ytimg.com/vi/sfK1pS6yV8c/mqdefault_live.jpg",
+      "published": "2026-06-05T01:01:27Z"
     }
   ]
 }
