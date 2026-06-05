@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T11:00:43.667917+00:00",
+  "updated_at": "2026-06-05T12:00:43.951447+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "AbXn5_lcXI8",
       "url": "https://www.youtube.com/watch?v=AbXn5_lcXI8",
       "thumbnail": "https://i.ytimg.com/vi/AbXn5_lcXI8/mqdefault_live.jpg",
-      "published": "2026-06-05T09:32:39Z"
+      "published": "2026-06-05T11:59:37Z"
     },
     {
       "channel": "Bage TV",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 05/06/2026",
+      "title": "PCC e CV como \"grupos terroristas\", violência no trânsito e mais | Gaúcha Atualidade | 05/06/2026",
       "videoId": "6cvaUuiVQtc",
       "url": "https://www.youtube.com/watch?v=6cvaUuiVQtc",
       "thumbnail": "https://i.ytimg.com/vi/6cvaUuiVQtc/mqdefault_live.jpg",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "05/06/26 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "vmcW7hTwyno",
+      "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
+      "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault_live.jpg",
+      "published": "2026-06-05T11:01:17Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "04/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "vZISoSlEE3I",
       "url": "https://www.youtube.com/watch?v=vZISoSlEE3I",
       "thumbnail": "https://i.ytimg.com/vi/vZISoSlEE3I/mqdefault.jpg",
       "published": "2026-06-04T23:30:24Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "05/06/26 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "vmcW7hTwyno",
-      "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
-      "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault_live.jpg",
-      "published": "2026-06-04T23:00:31Z"
     },
     {
       "channel": "Radio Imortal",
