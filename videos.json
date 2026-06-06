@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T20:07:14.332055+00:00",
+  "updated_at": "2026-06-06T21:00:38.627047+00:00",
   "total": 30,
   "videos": [
     {
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "PROPOSTA RECUSADA! | WILLIAN DEIXA MENSAGEM E PODE SAIR | PUNIÇÃO CONFIRMADA",
+      "videoId": "RfC7H7lg_ks",
+      "url": "https://www.youtube.com/watch?v=RfC7H7lg_ks",
+      "thumbnail": "https://i.ytimg.com/vi/RfC7H7lg_ks/mqdefault.jpg",
+      "published": "2026-06-06T20:25:40Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "MANDACA NO GRÊMIO? | TITULAR PODE SAIR POR R$60 MILHÕES | VIERY, JUVENTUS E ARTHUR",
       "videoId": "5VUdGK0rzYQ",
       "url": "https://www.youtube.com/watch?v=5VUdGK0rzYQ",
@@ -123,12 +131,12 @@
       "published": "2026-06-04T20:47:35Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "6 REFORÇOS DEFINIDOS EM REUNIÃO | DIREÇÃO E LÍDERES | ARTHUR, FLUMINENSE E MOVIMENTOS DO NEGÓCIO",
-      "videoId": "wCBBIf33fB4",
-      "url": "https://www.youtube.com/watch?v=wCBBIf33fB4",
-      "thumbnail": "https://i.ytimg.com/vi/wCBBIf33fB4/mqdefault.jpg",
-      "published": "2026-06-03T21:03:39Z"
+      "channel": "Duda Garbi",
+      "title": "ELE ME PRESENTEOU COM UM RELÓGIO #dudagarbi  #bolabolacomfalcao #falcao",
+      "videoId": "ng1228rodKI",
+      "url": "https://www.youtube.com/watch?v=ng1228rodKI",
+      "thumbnail": "https://i.ytimg.com/vi/ng1228rodKI/mqdefault.jpg",
+      "published": "2026-06-06T21:00:05Z"
     },
     {
       "channel": "Duda Garbi",
@@ -137,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=vZ9sfq57eu4",
       "thumbnail": "https://i.ytimg.com/vi/vZ9sfq57eu4/mqdefault.jpg",
       "published": "2026-06-06T15:00:37Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "SINAIS DE ALERTA NO CORAÇÃO #dudagarbi #rafaelbarleze #umaaulasobre",
-      "videoId": "fyO4RV-fbEk",
-      "url": "https://www.youtube.com/watch?v=fyO4RV-fbEk",
-      "thumbnail": "https://i.ytimg.com/vi/fyO4RV-fbEk/mqdefault.jpg",
-      "published": "2026-06-06T15:00:00Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL | 06/06/2026",
-      "videoId": "ABfVSZ1wKXA",
-      "url": "https://www.youtube.com/watch?v=ABfVSZ1wKXA",
-      "thumbnail": "https://i.ytimg.com/vi/ABfVSZ1wKXA/mqdefault_live.jpg",
-      "published": "2026-06-06T20:04:26Z"
+      "videoId": "6CyowjksVmw",
+      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
+      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault.jpg",
+      "published": "2026-06-06T20:21:17Z"
     },
     {
       "channel": "Radio Grenal",
       "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL | 06/06/2026",
-      "videoId": "6CyowjksVmw",
-      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
-      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault_live.jpg",
-      "published": "2026-06-06T20:03:57Z"
+      "videoId": "ABfVSZ1wKXA",
+      "url": "https://www.youtube.com/watch?v=ABfVSZ1wKXA",
+      "thumbnail": "https://i.ytimg.com/vi/ABfVSZ1wKXA/mqdefault_live.jpg",
+      "published": "2026-06-06T20:04:26Z"
     },
     {
       "channel": "Radio Imortal",
