@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T10:52:04.075677+00:00",
+  "updated_at": "2026-06-06T11:00:37.028862+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 06/06- GRÊMIO 3x0 SANTA CRUZ (RECOPA GAÚCHA 2021)",
+      "videoId": "uMlGDhmX_mM",
+      "url": "https://www.youtube.com/watch?v=uMlGDhmX_mM",
+      "thumbnail": "https://i.ytimg.com/vi/uMlGDhmX_mM/mqdefault.jpg",
+      "published": "2026-06-06T11:00:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "WEVERTON VAI JOGAR! | SEVERINO RECUSA PROPOSTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #85 - 05/06",
       "videoId": "qT0pgSiZnXc",
       "url": "https://www.youtube.com/watch?v=qT0pgSiZnXc",
       "thumbnail": "https://i.ytimg.com/vi/qT0pgSiZnXc/mqdefault.jpg",
       "published": "2026-06-06T01:57:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ARTHUR RECEBE SONDAGENS EM MEIO À INDEFINIÇÃO NO GRÊMIO | POSSÍVEL TROCA? | REDAÇÃO IMORTAL",
-      "videoId": "UPcGcNFZMsc",
-      "url": "https://www.youtube.com/watch?v=UPcGcNFZMsc",
-      "thumbnail": "https://i.ytimg.com/vi/UPcGcNFZMsc/mqdefault.jpg",
-      "published": "2026-06-06T00:44:35Z"
     }
   ]
 }
