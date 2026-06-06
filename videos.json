@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T23:05:08.160299+00:00",
+  "updated_at": "2026-06-06T00:00:35.460675+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVA LIMPEZA! MAIS SETE SAÍDAS NO GRÊMIO | DESFALQUE MUITO IMPORTANTE NA SUL-AMERICANA!",
+      "videoId": "foYvvC4Epg4",
+      "url": "https://www.youtube.com/watch?v=foYvvC4Epg4",
+      "thumbnail": "https://i.ytimg.com/vi/foYvvC4Epg4/mqdefault.jpg",
+      "published": "2026-06-05T23:26:04Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨ATLETA IRRITADO QUER SAIR | LATERAL CONTATADO | GRÊMIO RECUSOU ARENA PRO FUTEBOL FEMININO",
       "videoId": "n7czSrQcW1w",
       "url": "https://www.youtube.com/watch?v=n7czSrQcW1w",
       "thumbnail": "https://i.ytimg.com/vi/n7czSrQcW1w/mqdefault.jpg",
       "published": "2026-06-05T14:43:38Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TROCA FEITA PELO GRÊMIO! MAIS REFORÇOS NA MIRA COM MUDANÇA IMPORTANTE | ARTHUR E A “OFENSA”",
-      "videoId": "tRQRCpwrdp0",
-      "url": "https://www.youtube.com/watch?v=tRQRCpwrdp0",
-      "thumbnail": "https://i.ytimg.com/vi/tRQRCpwrdp0/mqdefault.jpg",
-      "published": "2026-06-04T23:29:28Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "zdgyYGdvTQk",
       "url": "https://www.youtube.com/watch?v=zdgyYGdvTQk",
       "thumbnail": "https://i.ytimg.com/vi/zdgyYGdvTQk/mqdefault_live.jpg",
-      "published": "2026-06-05T22:36:44Z"
+      "published": "2026-06-05T23:56:40Z"
     },
     {
       "channel": "Canal do Farid",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "05/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "6CyowjksVmw",
-      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
-      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault_live.jpg",
-      "published": "2026-06-05T23:01:51Z"
+      "videoId": "vmcW7hTwyno",
+      "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
+      "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault.jpg",
+      "published": "2026-06-05T23:32:25Z"
     },
     {
       "channel": "Radio Grenal",
       "title": "05/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "vmcW7hTwyno",
-      "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
-      "thumbnail": "https://i.ytimg.com/vi/vmcW7hTwyno/mqdefault_live.jpg",
-      "published": "2026-06-05T23:01:37Z"
+      "videoId": "6CyowjksVmw",
+      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
+      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault_live.jpg",
+      "published": "2026-06-05T23:01:51Z"
     },
     {
       "channel": "Radio Imortal",
