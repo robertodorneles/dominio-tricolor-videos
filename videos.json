@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T19:00:38.380164+00:00",
+  "updated_at": "2026-06-06T20:00:36.039371+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "PLANTÃO IMORTAL — ATUALIZANDO AS NOTÍCIAS DO GRÊMIO!",
+      "videoId": "j-17fIVTq3Y",
+      "url": "https://www.youtube.com/watch?v=j-17fIVTq3Y",
+      "thumbnail": "https://i.ytimg.com/vi/j-17fIVTq3Y/mqdefault_live.jpg",
+      "published": "2026-06-06T19:47:06Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "WILLIAN SE MANIFESTA SOBRE SAÍDA NAS REDES SOCIAIS | ATUALIZAÇÕES DO GRÊMIO NO MERCADO | PLANTÃO",
       "videoId": "NxQut0RZX4s",
       "url": "https://www.youtube.com/watch?v=NxQut0RZX4s",
       "thumbnail": "https://i.ytimg.com/vi/NxQut0RZX4s/mqdefault.jpg",
       "published": "2026-06-06T14:20:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 06/06- GRÊMIO 3x0 SANTA CRUZ (RECOPA GAÚCHA 2021)",
-      "videoId": "uMlGDhmX_mM",
-      "url": "https://www.youtube.com/watch?v=uMlGDhmX_mM",
-      "thumbnail": "https://i.ytimg.com/vi/uMlGDhmX_mM/mqdefault.jpg",
-      "published": "2026-06-06T11:00:11Z"
     }
   ]
 }
