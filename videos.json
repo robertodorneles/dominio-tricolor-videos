@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:00:50.065579+00:00",
+  "updated_at": "2026-06-06T14:00:35.082112+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UMA AULA SOBRE… ENTENDA O CORAÇÃO! com Dr. Luís Smidt | #35",
+      "videoId": "buCLz_JpQVE",
+      "url": "https://www.youtube.com/watch?v=buCLz_JpQVE",
+      "thumbnail": "https://i.ytimg.com/vi/buCLz_JpQVE/mqdefault.jpg",
+      "published": "2026-06-06T13:00:39Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA...  IBAÑEZ | ZAGUEIRO DA SELEÇÃO BRASILEIRA | #388",
       "videoId": "tEZM4R1PZwg",
       "url": "https://www.youtube.com/watch?v=tEZM4R1PZwg",
@@ -139,12 +147,12 @@
       "published": "2026-06-05T19:14:26Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "O BOTAFOGO NÃO TINHA NADA #selecaobrasileira #dudagarbi #umassadopara #gremio",
-      "videoId": "pNr3XLtUi4g",
-      "url": "https://www.youtube.com/watch?v=pNr3XLtUi4g",
-      "thumbnail": "https://i.ytimg.com/vi/pNr3XLtUi4g/mqdefault.jpg",
-      "published": "2026-06-05T16:00:12Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-17 2026)",
+      "videoId": "tigaw5i11gA",
+      "url": "https://www.youtube.com/watch?v=tigaw5i11gA",
+      "thumbnail": "https://i.ytimg.com/vi/tigaw5i11gA/mqdefault_live.jpg",
+      "published": "2026-06-06T13:47:26Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=PEoakX-RxCY",
       "thumbnail": "https://i.ytimg.com/vi/PEoakX-RxCY/mqdefault.jpg",
       "published": "2026-06-05T20:06:00Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (CAMPEONATO BRASILEIRO SUB-17 2026)",
-      "videoId": "qKFNfdUym6c",
-      "url": "https://www.youtube.com/watch?v=qKFNfdUym6c",
-      "thumbnail": "https://i.ytimg.com/vi/qKFNfdUym6c/mqdefault.jpg",
-      "published": "2026-06-03T20:06:56Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO DO CT HÉLIO DOURADO | GRÊMIO 0 x 0 INTER | GAUCHÃO SUB-17 | 05/06/2026",
+      "videoId": "6CyowjksVmw",
+      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
+      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault_live.jpg",
+      "published": "2026-06-06T13:44:25Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "05/06/26 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "vmcW7hTwyno",
       "url": "https://www.youtube.com/watch?v=vmcW7hTwyno",
@@ -219,12 +227,12 @@
       "published": "2026-06-05T23:32:25Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | GRÊMIO x INTER –GAUCHÃO SUB-17 | 05/06/26",
-      "videoId": "6CyowjksVmw",
-      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
-      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault_live.jpg",
-      "published": "2026-06-05T23:01:51Z"
+      "channel": "Radio Imortal",
+      "title": "WILLIAN SE MANIFESTA SOBRE SAÍDA NAS REDES SOCIAIS | ATUALIZAÇÕES DO GRÊMIO NO MERCADO | PLANTÃO",
+      "videoId": "NxQut0RZX4s",
+      "url": "https://www.youtube.com/watch?v=NxQut0RZX4s",
+      "thumbnail": "https://i.ytimg.com/vi/NxQut0RZX4s/mqdefault_live.jpg",
+      "published": "2026-06-06T13:06:01Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=uMlGDhmX_mM",
       "thumbnail": "https://i.ytimg.com/vi/uMlGDhmX_mM/mqdefault.jpg",
       "published": "2026-06-06T11:00:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "WEVERTON VAI JOGAR! | SEVERINO RECUSA PROPOSTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #85 - 05/06",
-      "videoId": "qT0pgSiZnXc",
-      "url": "https://www.youtube.com/watch?v=qT0pgSiZnXc",
-      "thumbnail": "https://i.ytimg.com/vi/qT0pgSiZnXc/mqdefault.jpg",
-      "published": "2026-06-06T01:57:23Z"
     }
   ]
 }
