@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T01:00:34.186061+00:00",
+  "updated_at": "2026-06-06T02:00:39.572136+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "PCC e CV como \"grupos terroristas\", violência no trânsito e mais | Gaúcha Atualidade | 05/06/2026",
+      "videoId": "6cvaUuiVQtc",
+      "url": "https://www.youtube.com/watch?v=6cvaUuiVQtc",
+      "thumbnail": "https://i.ytimg.com/vi/6cvaUuiVQtc/mqdefault.jpg",
+      "published": "2026-06-06T01:38:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Séries parecidas com \"OFF CAMPUS\" para maratonar | Zero Hora",
       "videoId": "UMswPO1kfzE",
       "url": "https://www.youtube.com/watch?v=UMswPO1kfzE",
       "thumbnail": "https://i.ytimg.com/vi/UMswPO1kfzE/mqdefault.jpg",
       "published": "2026-06-06T00:30:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "\"Tenho obrigação de brigar\", diz Duca Leindecker sobre luta contra os algoritmos | Paralelas",
-      "videoId": "dGgTpRPPKNw",
-      "url": "https://www.youtube.com/watch?v=dGgTpRPPKNw",
-      "thumbnail": "https://i.ytimg.com/vi/dGgTpRPPKNw/mqdefault.jpg",
-      "published": "2026-06-06T00:00:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "WEVERTON VAI JOGAR! | SEVERINO RECUSA PROPOSTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #85 - 05/06",
+      "videoId": "qT0pgSiZnXc",
+      "url": "https://www.youtube.com/watch?v=qT0pgSiZnXc",
+      "thumbnail": "https://i.ytimg.com/vi/qT0pgSiZnXc/mqdefault.jpg",
+      "published": "2026-06-06T01:57:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ARTHUR RECEBE SONDAGENS EM MEIO À INDEFINIÇÃO NO GRÊMIO | POSSÍVEL TROCA? | REDAÇÃO IMORTAL",
       "videoId": "UPcGcNFZMsc",
       "url": "https://www.youtube.com/watch?v=UPcGcNFZMsc",
       "thumbnail": "https://i.ytimg.com/vi/UPcGcNFZMsc/mqdefault.jpg",
       "published": "2026-06-06T00:44:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "WEVERTON VAI JOGAR! | SEVERINO RECUSA PROPOSTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #85 - 05/06",
-      "videoId": "qT0pgSiZnXc",
-      "url": "https://www.youtube.com/watch?v=qT0pgSiZnXc",
-      "thumbnail": "https://i.ytimg.com/vi/qT0pgSiZnXc/mqdefault_live.jpg",
-      "published": "2026-06-06T00:00:57Z"
     }
   ]
 }
