@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-07T02:00:40.464853+00:00",
+  "updated_at": "2026-06-07T04:15:13.456133+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Diário do Inter KTO: NOTÍCIA NADA BOA PARA ELE | ATACANTE NA MIRA | TRETA ENTRE DIREÇÕES?",
+      "videoId": "csiWuqnRYsA",
+      "url": "https://www.youtube.com/watch?v=csiWuqnRYsA",
+      "thumbnail": "https://i.ytimg.com/vi/csiWuqnRYsA/mqdefault.jpg",
+      "published": "2026-06-07T03:20:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Diário do Inter KTO: SAÍDAS ESQUENTAM! | INTERESSE POR ZAGUEIROS | CARBONERO É A BOLA DA VEZ",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=N4RmQQGDsrQ",
       "thumbnail": "https://i.ytimg.com/vi/N4RmQQGDsrQ/mqdefault.jpg",
       "published": "2026-06-06T07:43:50Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Willian responde rumores | Mandaca no radar | Carlos Vinícius punido",
-      "videoId": "CUeo__gCzoA",
-      "url": "https://www.youtube.com/watch?v=CUeo__gCzoA",
-      "thumbnail": "https://i.ytimg.com/vi/CUeo__gCzoA/mqdefault.jpg",
-      "published": "2026-06-06T05:00:18Z"
     },
     {
       "channel": "Bage TV",
