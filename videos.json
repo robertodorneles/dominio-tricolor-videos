@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T19:17:37.418479+00:00",
+  "updated_at": "2026-06-07T20:00:35.518182+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM BERNARDO PESSI - PRESIDENTE DO AVAÍ | 07/06/2026 | RÁDIO GRENAL",
+      "videoId": "gqwdAGQhw9s",
+      "url": "https://www.youtube.com/watch?v=gqwdAGQhw9s",
+      "thumbnail": "https://i.ytimg.com/vi/gqwdAGQhw9s/mqdefault.jpg",
+      "published": "2026-06-07T19:37:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "07/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ABfVSZ1wKXA",
       "url": "https://www.youtube.com/watch?v=ABfVSZ1wKXA",
       "thumbnail": "https://i.ytimg.com/vi/ABfVSZ1wKXA/mqdefault.jpg",
       "published": "2026-06-07T19:14:37Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL",
-      "videoId": "6CyowjksVmw",
-      "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
-      "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault.jpg",
-      "published": "2026-06-06T20:21:17Z"
     },
     {
       "channel": "Radio Imortal",
