@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T11:00:38.256039+00:00",
+  "updated_at": "2026-06-07T11:07:04.351237+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 07/06- GRÊMIO 2x1 PALMEIRAS (COPA DO BRASIL 1996)",
+      "videoId": "E2ymPMtlPWc",
+      "url": "https://www.youtube.com/watch?v=E2ymPMtlPWc",
+      "thumbnail": "https://i.ytimg.com/vi/E2ymPMtlPWc/mqdefault.jpg",
+      "published": "2026-06-07T11:00:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PLANTÃO IMORTAL — ATUALIZANDO AS NOTÍCIAS DO GRÊMIO!",
       "videoId": "j-17fIVTq3Y",
       "url": "https://www.youtube.com/watch?v=j-17fIVTq3Y",
       "thumbnail": "https://i.ytimg.com/vi/j-17fIVTq3Y/mqdefault_live.jpg",
       "published": "2026-06-06T19:47:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "WILLIAN SE MANIFESTA SOBRE SAÍDA NAS REDES SOCIAIS | ATUALIZAÇÕES DO GRÊMIO NO MERCADO | PLANTÃO",
-      "videoId": "NxQut0RZX4s",
-      "url": "https://www.youtube.com/watch?v=NxQut0RZX4s",
-      "thumbnail": "https://i.ytimg.com/vi/NxQut0RZX4s/mqdefault.jpg",
-      "published": "2026-06-06T14:20:13Z"
     }
   ]
 }
