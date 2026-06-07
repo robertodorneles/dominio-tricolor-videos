@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T13:00:42.215126+00:00",
+  "updated_at": "2026-06-07T13:45:55.138148+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "POLÊMICA WILLIAN #gremio #Futebol",
+      "videoId": "xGlHSxgQuhM",
+      "url": "https://www.youtube.com/watch?v=xGlHSxgQuhM",
+      "thumbnail": "https://i.ytimg.com/vi/xGlHSxgQuhM/mqdefault.jpg",
+      "published": "2026-06-07T13:00:34Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "WILLIAN: POLÊMICA | VILLASANTI: JOELHO EM DÚVIDA NO GRÊMIO?",
       "videoId": "nVGooI89JAY",
       "url": "https://www.youtube.com/watch?v=nVGooI89JAY",
       "thumbnail": "https://i.ytimg.com/vi/nVGooI89JAY/mqdefault.jpg",
       "published": "2026-06-06T21:09:59Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CONVITE PARA SAIR? #gremio #futebol",
-      "videoId": "h101wMy0lqQ",
-      "url": "https://www.youtube.com/watch?v=h101wMy0lqQ",
-      "thumbnail": "https://i.ytimg.com/vi/h101wMy0lqQ/mqdefault.jpg",
-      "published": "2026-06-06T18:00:08Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL | 06/06/2026",
+      "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL",
       "videoId": "6CyowjksVmw",
       "url": "https://www.youtube.com/watch?v=6CyowjksVmw",
       "thumbnail": "https://i.ytimg.com/vi/6CyowjksVmw/mqdefault.jpg",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/06/2026 | JOGO COMPLETO | GRÊMIO 2 X 1 INTER | RÁDIO GRENAL | 06/06/2026",
+      "title": "07/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "ABfVSZ1wKXA",
       "url": "https://www.youtube.com/watch?v=ABfVSZ1wKXA",
       "thumbnail": "https://i.ytimg.com/vi/ABfVSZ1wKXA/mqdefault_live.jpg",
       "published": "2026-06-06T20:04:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "PLANTÃO IMORTAL — ATUALIZANDO AS NOTÍCIAS DO GRÊMIO!",
+      "videoId": "j-17fIVTq3Y",
+      "url": "https://www.youtube.com/watch?v=j-17fIVTq3Y",
+      "thumbnail": "https://i.ytimg.com/vi/j-17fIVTq3Y/mqdefault_live.jpg",
+      "published": "2026-06-07T13:02:18Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=E2ymPMtlPWc",
       "thumbnail": "https://i.ytimg.com/vi/E2ymPMtlPWc/mqdefault.jpg",
       "published": "2026-06-07T11:00:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PLANTÃO IMORTAL — ATUALIZANDO AS NOTÍCIAS DO GRÊMIO!",
-      "videoId": "j-17fIVTq3Y",
-      "url": "https://www.youtube.com/watch?v=j-17fIVTq3Y",
-      "thumbnail": "https://i.ytimg.com/vi/j-17fIVTq3Y/mqdefault_live.jpg",
-      "published": "2026-06-06T19:47:06Z"
     }
   ]
 }
