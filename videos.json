@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T17:20:45.256043+00:00",
+  "updated_at": "2026-06-08T18:00:40.783555+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - ARTHUR | RETORNOS | JOGADORES DE SAÍDA?",
+      "videoId": "HLuuPbVSRdw",
+      "url": "https://www.youtube.com/watch?v=HLuuPbVSRdw",
+      "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault_live.jpg",
+      "published": "2026-06-08T17:53:41Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "A verdade sobre o caso Arthur e Grêmio",
       "videoId": "mfGoGgFdxMk",
       "url": "https://www.youtube.com/watch?v=mfGoGgFdxMk",
       "thumbnail": "https://i.ytimg.com/vi/mfGoGgFdxMk/mqdefault.jpg",
       "published": "2026-06-08T15:17:47Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - ATUALIZANDO AS ÚLTIMAS DO GRÊMIO",
-      "videoId": "d6qVSCtePVs",
-      "url": "https://www.youtube.com/watch?v=d6qVSCtePVs",
-      "thumbnail": "https://i.ytimg.com/vi/d6qVSCtePVs/mqdefault.jpg",
-      "published": "2026-06-08T00:41:01Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "08/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "08/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "oZ81ccL9MiU",
       "url": "https://www.youtube.com/watch?v=oZ81ccL9MiU",
       "thumbnail": "https://i.ytimg.com/vi/oZ81ccL9MiU/mqdefault_live.jpg",
