@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-08T02:00:36.711677+00:00",
+  "updated_at": "2026-06-08T04:19:50.503628+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO: ENTREVISTA DEIXOU CLARO QUE VAI SAIR | GUI NEGÃO ESTÁ NO RS",
+      "videoId": "5OKZRm6cjNM",
+      "url": "https://www.youtube.com/watch?v=5OKZRm6cjNM",
+      "thumbnail": "https://i.ytimg.com/vi/5OKZRm6cjNM/mqdefault.jpg",
+      "published": "2026-06-08T04:04:09Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: Obrigações colocadas pela direção | A boa notícia que chegou do Paraguai",
@@ -11,28 +19,20 @@
       "published": "2026-06-07T05:00:30Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Diário do Inter KTO: NOTÍCIA NADA BOA PARA ELE | ATACANTE NA MIRA | TRETA ENTRE DIREÇÕES?",
-      "videoId": "csiWuqnRYsA",
-      "url": "https://www.youtube.com/watch?v=csiWuqnRYsA",
-      "thumbnail": "https://i.ytimg.com/vi/csiWuqnRYsA/mqdefault.jpg",
-      "published": "2026-06-07T03:20:06Z"
+      "channel": "Bage TV",
+      "title": "FUTEBOL ALEGRIA DO GRÊMIO - 07/06 - #563",
+      "videoId": "QyPIsiNfpLo",
+      "url": "https://www.youtube.com/watch?v=QyPIsiNfpLo",
+      "thumbnail": "https://i.ytimg.com/vi/QyPIsiNfpLo/mqdefault_live.jpg",
+      "published": "2026-06-08T02:15:43Z"
     },
     {
       "channel": "Bage TV",
-      "title": "PORTUGUÊS DE SAÍDA? 🔹 THE TARDE 🔹#166",
-      "videoId": "5Q1Ji5VQK9s",
-      "url": "https://www.youtube.com/watch?v=5Q1Ji5VQK9s",
-      "thumbnail": "https://i.ytimg.com/vi/5Q1Ji5VQK9s/mqdefault.jpg",
-      "published": "2026-06-05T21:29:12Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CONCORRÊNCIA POR ARTHUR - DESEJO POR FELIX TORRES🔸RESENHA FORA DA SALA🔸#060",
-      "videoId": "HcfVHMAr8ec",
-      "url": "https://www.youtube.com/watch?v=HcfVHMAr8ec",
-      "thumbnail": "https://i.ytimg.com/vi/HcfVHMAr8ec/mqdefault.jpg",
-      "published": "2026-06-05T18:35:56Z"
+      "title": "🌅🔵 BOM DIA GRÊMIO #045",
+      "videoId": "lrxgJb0DC3g",
+      "url": "https://www.youtube.com/watch?v=lrxgJb0DC3g",
+      "thumbnail": "https://i.ytimg.com/vi/lrxgJb0DC3g/mqdefault_live.jpg",
+      "published": "2026-06-08T02:13:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
