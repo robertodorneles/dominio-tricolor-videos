@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T15:00:44.087272+00:00",
+  "updated_at": "2026-06-08T16:00:48.196189+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "SEMANA INICIA COM POLÊMICAS DE DOIS JOGADORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 08/06 - #563",
       "videoId": "QyPIsiNfpLo",
       "url": "https://www.youtube.com/watch?v=QyPIsiNfpLo",
-      "thumbnail": "https://i.ytimg.com/vi/QyPIsiNfpLo/mqdefault_live.jpg",
-      "published": "2026-06-08T14:39:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/QyPIsiNfpLo/mqdefault.jpg",
+      "published": "2026-06-08T15:21:49Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A verdade sobre o caso Arthur e Grêmio",
+      "videoId": "mfGoGgFdxMk",
+      "url": "https://www.youtube.com/watch?v=mfGoGgFdxMk",
+      "thumbnail": "https://i.ytimg.com/vi/mfGoGgFdxMk/mqdefault.jpg",
+      "published": "2026-06-08T15:17:47Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "LIVE DE DOMINGO - ATUALIZANDO AS ÚLTIMAS DO GRÊMIO",
       "videoId": "d6qVSCtePVs",
       "url": "https://www.youtube.com/watch?v=d6qVSCtePVs",
@@ -59,28 +67,20 @@
       "published": "2026-06-08T00:41:01Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #604: Zagueiro peruano | Ibañez | André Henrique de saída? | Gabriel Mec e mais",
-      "videoId": "vKvFvpNzl3c",
-      "url": "https://www.youtube.com/watch?v=vKvFvpNzl3c",
-      "thumbnail": "https://i.ytimg.com/vi/vKvFvpNzl3c/mqdefault.jpg",
-      "published": "2026-06-07T21:36:19Z"
+      "channel": "Canal do Farid",
+      "title": "VAMOOO FARIDO 09.06.26",
+      "videoId": "xzhDpapFPec",
+      "url": "https://www.youtube.com/watch?v=xzhDpapFPec",
+      "thumbnail": "https://i.ytimg.com/vi/xzhDpapFPec/mqdefault_live.jpg",
+      "published": "2026-06-08T15:54:37Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "ENTREVISTA COM JARDEL- FALA, COSTA! #09",
-      "videoId": "A5sE-HsA3HI",
-      "url": "https://www.youtube.com/watch?v=A5sE-HsA3HI",
-      "thumbnail": "https://i.ytimg.com/vi/A5sE-HsA3HI/mqdefault.jpg",
-      "published": "2026-06-06T23:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GREMISTAS DE PESO #009",
-      "videoId": "zdgyYGdvTQk",
-      "url": "https://www.youtube.com/watch?v=zdgyYGdvTQk",
-      "thumbnail": "https://i.ytimg.com/vi/zdgyYGdvTQk/mqdefault.jpg",
-      "published": "2026-06-06T12:25:42Z"
+      "title": "HÁ MOTIVOS PARA CONFIAR NO SEGUNDO SEMESTRE ? - VAMOOO FARIDO 08.06.26",
+      "videoId": "Sl4zSoHTfeQ",
+      "url": "https://www.youtube.com/watch?v=Sl4zSoHTfeQ",
+      "thumbnail": "https://i.ytimg.com/vi/Sl4zSoHTfeQ/mqdefault_live.jpg",
+      "published": "2026-06-08T15:48:04Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "08/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "08/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "oZ81ccL9MiU",
       "url": "https://www.youtube.com/watch?v=oZ81ccL9MiU",
       "thumbnail": "https://i.ytimg.com/vi/oZ81ccL9MiU/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 08/06",
+      "videoId": "TT_8LO2qVEk",
+      "url": "https://www.youtube.com/watch?v=TT_8LO2qVEk",
+      "thumbnail": "https://i.ytimg.com/vi/TT_8LO2qVEk/mqdefault_live.jpg",
+      "published": "2026-06-08T15:53:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #86 — O GRÊMIO ESTÁ SE MOVIMENTANDO PARA SAÍDAS? | WILLIAN RESPONDE NAS REDES",
       "videoId": "DL84gE0DDSs",
       "url": "https://www.youtube.com/watch?v=DL84gE0DDSs",
       "thumbnail": "https://i.ytimg.com/vi/DL84gE0DDSs/mqdefault_live.jpg",
-      "published": "2026-06-08T13:51:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GABRIEL MEC SE DESTACA NO BRASIL SUB-20 | A POLÊMICA DO FINAL DE SEMANA | REDAÇÃO IMORTAL",
-      "videoId": "pnyy_cMnROo",
-      "url": "https://www.youtube.com/watch?v=pnyy_cMnROo",
-      "thumbnail": "https://i.ytimg.com/vi/pnyy_cMnROo/mqdefault.jpg",
-      "published": "2026-06-08T13:11:57Z"
+      "published": "2026-06-08T15:00:25Z"
     }
   ]
 }
