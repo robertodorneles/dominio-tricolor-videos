@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T23:02:10.693004+00:00",
+  "updated_at": "2026-06-08T00:00:36.115368+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨ACORDO FECHADO COM JOVEM | NOVIDADE NO FUTURO DE ARTHUR | INTERESSE POR ATACANTE DO GRÊMIO!",
+      "videoId": "nUuXIc_3oDg",
+      "url": "https://www.youtube.com/watch?v=nUuXIc_3oDg",
+      "thumbnail": "https://i.ytimg.com/vi/nUuXIc_3oDg/mqdefault.jpg",
+      "published": "2026-06-07T23:50:43Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨MARCELO MARQUES TÁ VOLTANDO PRO GRÊMIO? | É A VEZ DO WEVERTON NO BRASIL | CRÍTICAS EXAGERADAS!",
       "videoId": "kq_b7v09hHM",
       "url": "https://www.youtube.com/watch?v=kq_b7v09hHM",
@@ -43,20 +51,12 @@
       "published": "2026-06-07T14:24:18Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TROCA DE ATLETAS: A BUSCA POR NOVOS REFORÇOS NO GRÊMIO | UMA PROPOSTA OFICIAL | NOVA DO VILLASANTI",
-      "videoId": "A17VBzc_WIY",
-      "url": "https://www.youtube.com/watch?v=A17VBzc_WIY",
-      "thumbnail": "https://i.ytimg.com/vi/A17VBzc_WIY/mqdefault.jpg",
-      "published": "2026-06-06T23:57:53Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "LIVE DE DOMINGO - ATUALIZANDO AS ÚLTIMAS DO GRÊMIO",
       "videoId": "d6qVSCtePVs",
       "url": "https://www.youtube.com/watch?v=d6qVSCtePVs",
       "thumbnail": "https://i.ytimg.com/vi/d6qVSCtePVs/mqdefault_live.jpg",
-      "published": "2026-06-07T21:43:39Z"
+      "published": "2026-06-07T23:03:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -140,11 +140,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA...  IBAÑEZ | ZAGUEIRO DA SELEÇÃO BRASILEIRA | #388",
-      "videoId": "tEZM4R1PZwg",
-      "url": "https://www.youtube.com/watch?v=tEZM4R1PZwg",
-      "thumbnail": "https://i.ytimg.com/vi/tEZM4R1PZwg/mqdefault.jpg",
-      "published": "2026-06-07T22:00:08Z"
+      "title": "RELAÇÃO COM NEYMAR: COMO É TENTAR O HEXA AO LADO DO ÍDOLO? | Cortes do Duda",
+      "videoId": "cvCwpyJhNYA",
+      "url": "https://www.youtube.com/watch?v=cvCwpyJhNYA",
+      "thumbnail": "https://i.ytimg.com/vi/cvCwpyJhNYA/mqdefault.jpg",
+      "published": "2026-06-07T22:45:39Z"
     },
     {
       "channel": "GremioTV Oficial",
