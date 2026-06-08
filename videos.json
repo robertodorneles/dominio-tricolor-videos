@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T10:00:41.692008+00:00",
+  "updated_at": "2026-06-08T11:00:41.707755+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 08/06/2026",
+      "videoId": "7FB6LJWK6pM",
+      "url": "https://www.youtube.com/watch?v=7FB6LJWK6pM",
+      "thumbnail": "https://i.ytimg.com/vi/7FB6LJWK6pM/mqdefault_live.jpg",
+      "published": "2026-06-08T10:58:47Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "NOVA GUERRA TARIFÁRIA, NOVA PROPOSTA DE DELAÇÃO DE VORCARO E ADULTA ADOTADA | RivoNews #134",
       "videoId": "lm4ipwCUL08",
       "url": "https://www.youtube.com/watch?v=lm4ipwCUL08",
       "thumbnail": "https://i.ytimg.com/vi/lm4ipwCUL08/mqdefault.jpg",
       "published": "2026-06-07T17:41:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como a Guerra Guaranítica mudou a história do RS | 400 anos das Missões | Episódio 6",
-      "videoId": "bWrNdfv8iKs",
-      "url": "https://www.youtube.com/watch?v=bWrNdfv8iKs",
-      "thumbnail": "https://i.ytimg.com/vi/bWrNdfv8iKs/mqdefault.jpg",
-      "published": "2026-06-07T15:00:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "07/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "oZ81ccL9MiU",
+      "url": "https://www.youtube.com/watch?v=oZ81ccL9MiU",
+      "thumbnail": "https://i.ytimg.com/vi/oZ81ccL9MiU/mqdefault_live.jpg",
+      "published": "2026-06-08T10:40:09Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM BERNARDO PESSI - PRESIDENTE DO AVAÍ | 07/06/2026 | RÁDIO GRENAL",
       "videoId": "gqwdAGQhw9s",
       "url": "https://www.youtube.com/watch?v=gqwdAGQhw9s",
@@ -219,28 +227,20 @@
       "published": "2026-06-07T19:37:02Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "07/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "ABfVSZ1wKXA",
-      "url": "https://www.youtube.com/watch?v=ABfVSZ1wKXA",
-      "thumbnail": "https://i.ytimg.com/vi/ABfVSZ1wKXA/mqdefault.jpg",
-      "published": "2026-06-07T19:14:37Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 08/06- PALMEIRAS 2X1 GRÊMIO (ROBERTÃO 1967)",
+      "videoId": "--jCJwP74qo",
+      "url": "https://www.youtube.com/watch?v=--jCJwP74qo",
+      "thumbnail": "https://i.ytimg.com/vi/--jCJwP74qo/mqdefault.jpg",
+      "published": "2026-06-08T11:00:22Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 08/06",
-      "videoId": "D5BnjLr6j-A",
-      "url": "https://www.youtube.com/watch?v=D5BnjLr6j-A",
-      "thumbnail": "https://i.ytimg.com/vi/D5BnjLr6j-A/mqdefault_live.jpg",
-      "published": "2026-06-08T00:25:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #86 — O GRÊMIO ESTÁ SE MOVIMENTANDO PARA SAÍDAS? | WILLIAN RESPONDE NAS REDES",
-      "videoId": "DL84gE0DDSs",
-      "url": "https://www.youtube.com/watch?v=DL84gE0DDSs",
-      "thumbnail": "https://i.ytimg.com/vi/DL84gE0DDSs/mqdefault_live.jpg",
-      "published": "2026-06-08T00:19:37Z"
+      "title": "GABRIEL MEC SE DESTACA NO BRASIL SUB-20 | A POLÊMICA DO FINAL DE SEMANA | REDAÇÃO IMORTAL",
+      "videoId": "pnyy_cMnROo",
+      "url": "https://www.youtube.com/watch?v=pnyy_cMnROo",
+      "thumbnail": "https://i.ytimg.com/vi/pnyy_cMnROo/mqdefault_live.jpg",
+      "published": "2026-06-08T10:47:53Z"
     }
   ]
 }
