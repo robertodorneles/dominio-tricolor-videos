@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T00:03:02.098013+00:00",
+  "updated_at": "2026-06-09T01:00:35.657919+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - ARTHUR | RETORNOS | JOGADORES DE SAÍDA?",
+      "videoId": "HLuuPbVSRdw",
+      "url": "https://www.youtube.com/watch?v=HLuuPbVSRdw",
+      "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault_live.jpg",
+      "published": "2026-06-09T00:00:10Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #605: Novo meio-campo | Janela | Saídas do Grêmio | Finanças e mais",
       "videoId": "lPrr-mbfaZc",
       "url": "https://www.youtube.com/watch?v=lPrr-mbfaZc",
       "thumbnail": "https://i.ytimg.com/vi/lPrr-mbfaZc/mqdefault.jpg",
       "published": "2026-06-08T23:37:01Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "É O GRÊMIO NA COPA! 🇪🇪🇺🇸",
-      "videoId": "clnMVtg-q1k",
-      "url": "https://www.youtube.com/watch?v=clnMVtg-q1k",
-      "thumbnail": "https://i.ytimg.com/vi/clnMVtg-q1k/mqdefault.jpg",
-      "published": "2026-06-08T23:25:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "08/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "QTYiADNQMmw",
+      "url": "https://www.youtube.com/watch?v=QTYiADNQMmw",
+      "thumbnail": "https://i.ytimg.com/vi/QTYiADNQMmw/mqdefault_live.jpg",
+      "published": "2026-06-09T00:55:58Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "08/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "oZ81ccL9MiU",
       "url": "https://www.youtube.com/watch?v=oZ81ccL9MiU",
       "thumbnail": "https://i.ytimg.com/vi/oZ81ccL9MiU/mqdefault.jpg",
       "published": "2026-06-08T23:32:54Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "MONTE SEU TRIO! JOGADORES DA SELEÇÃO BRASILEIRA | CORTES RÁDIO GRENAL | 08/06/2026",
-      "videoId": "sJOG9IaaQ3k",
-      "url": "https://www.youtube.com/watch?v=sJOG9IaaQ3k",
-      "thumbnail": "https://i.ytimg.com/vi/sJOG9IaaQ3k/mqdefault.jpg",
-      "published": "2026-06-08T20:32:48Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #87 — A LISTA DE RENOVAÇÕES DO GRÊMIO | QUEM DEVE PERMANECER?",
+      "videoId": "b6kAjmdLoZI",
+      "url": "https://www.youtube.com/watch?v=b6kAjmdLoZI",
+      "thumbnail": "https://i.ytimg.com/vi/b6kAjmdLoZI/mqdefault_live.jpg",
+      "published": "2026-06-09T00:57:17Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=1E3bHsOST2E",
       "thumbnail": "https://i.ytimg.com/vi/1E3bHsOST2E/mqdefault_live.jpg",
       "published": "2026-06-08T23:59:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEMANA DE COPA! OLHO NOS CONVOCADOS DO GRÊMIO | REAPRESENTAÇÃO ANTECIPADA | INVESTIMENTO NA BASE",
-      "videoId": "TT_8LO2qVEk",
-      "url": "https://www.youtube.com/watch?v=TT_8LO2qVEk",
-      "thumbnail": "https://i.ytimg.com/vi/TT_8LO2qVEk/mqdefault.jpg",
-      "published": "2026-06-08T22:36:35Z"
     }
   ]
 }
