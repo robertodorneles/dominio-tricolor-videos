@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T17:01:04.476670+00:00",
-  "total": 28,
+  "updated_at": "2026-06-09T17:59:40.245677+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -28,7 +28,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#168",
+      "title": "GRÊMIO TERÁ REUNIÃO IMPORTANTE COM LEITÃO🔹 THE TARDE 🔹#168",
       "videoId": "QNalSXfFcOE",
       "url": "https://www.youtube.com/watch?v=QNalSXfFcOE",
       "thumbnail": "https://i.ytimg.com/vi/QNalSXfFcOE/mqdefault_live.jpg",
@@ -49,6 +49,22 @@
       "url": "https://www.youtube.com/watch?v=KxadjDoiq2M",
       "thumbnail": "https://i.ytimg.com/vi/KxadjDoiq2M/mqdefault.jpg",
       "published": "2026-06-08T23:10:23Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "A história do gremista dos Estados Unidos #gremio #copa #rbsnacopa",
+      "videoId": "_8zIyiLIcqk",
+      "url": "https://www.youtube.com/watch?v=_8zIyiLIcqk",
+      "thumbnail": "https://i.ytimg.com/vi/_8zIyiLIcqk/mqdefault.jpg",
+      "published": "2026-06-09T16:15:17Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - ARTHUR | RETORNOS | JOGADORES DE SAÍDA?",
+      "videoId": "HLuuPbVSRdw",
+      "url": "https://www.youtube.com/watch?v=HLuuPbVSRdw",
+      "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault.jpg",
+      "published": "2026-06-09T02:23:01Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Vacina do Butantan suspensa, assalto a joalheria, informações do trânsito e + | Gaúcha+ | 09/06/2026",
+      "title": "Vacina da dengue suspensa, assalto a joalheria, informações do trânsito e + | Gaúcha+ | 09/06/2026",
       "videoId": "YRp80Hpurjk",
       "url": "https://www.youtube.com/watch?v=YRp80Hpurjk",
       "thumbnail": "https://i.ytimg.com/vi/YRp80Hpurjk/mqdefault_live.jpg",
@@ -212,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 09/06",
+      "videoId": "fy7qxZtFFog",
+      "url": "https://www.youtube.com/watch?v=fy7qxZtFFog",
+      "thumbnail": "https://i.ytimg.com/vi/fy7qxZtFFog/mqdefault_live.jpg",
+      "published": "2026-06-09T17:21:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #87 — A LISTA DE RENOVAÇÕES DO GRÊMIO | QUEM DEVE PERMANECER?",
       "videoId": "b6kAjmdLoZI",
       "url": "https://www.youtube.com/watch?v=b6kAjmdLoZI",
       "thumbnail": "https://i.ytimg.com/vi/b6kAjmdLoZI/mqdefault_live.jpg",
       "published": "2026-06-09T15:00:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DODI PROCURADO PELA CHAPECOENSE? | TRÊS JOGADORES SE REAPRESENTAM | NOITES DE GRÊMIO #86 - 08/06",
-      "videoId": "1E3bHsOST2E",
-      "url": "https://www.youtube.com/watch?v=1E3bHsOST2E",
-      "thumbnail": "https://i.ytimg.com/vi/1E3bHsOST2E/mqdefault.jpg",
-      "published": "2026-06-09T13:45:26Z"
     }
   ]
 }
