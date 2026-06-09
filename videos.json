@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T02:00:36.588742+00:00",
+  "updated_at": "2026-06-09T03:51:04.584175+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla KTO: THE GUYS ARE ON AMERICA! | THINGS THEN  YOU NEVER SEE BEFORE",
       "videoId": "OwAzUdpSJC8",
       "url": "https://www.youtube.com/watch?v=OwAzUdpSJC8",
-      "thumbnail": "https://i.ytimg.com/vi/OwAzUdpSJC8/mqdefault_live.jpg",
-      "published": "2026-06-09T01:58:47Z"
+      "thumbnail": "https://i.ytimg.com/vi/OwAzUdpSJC8/mqdefault.jpg",
+      "published": "2026-06-09T03:34:21Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BAGÉ DEFENDE NEYMAR E DIZ QUE BRASIL AMA ODIAR SEUS ÍDOLOS!",
+      "videoId": "bDcnbDKPuNk",
+      "url": "https://www.youtube.com/watch?v=bDcnbDKPuNk",
+      "thumbnail": "https://i.ytimg.com/vi/bDcnbDKPuNk/mqdefault.jpg",
+      "published": "2026-06-09T02:48:00Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔸RESENHA FORA DA SALA🔸#065",
       "videoId": "1x33m9JPPfg",
       "url": "https://www.youtube.com/watch?v=1x33m9JPPfg",
       "thumbnail": "https://i.ytimg.com/vi/1x33m9JPPfg/mqdefault_live.jpg",
       "published": "2026-06-09T01:20:42Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#064",
-      "videoId": "rijBqbLfH4s",
-      "url": "https://www.youtube.com/watch?v=rijBqbLfH4s",
-      "thumbnail": "https://i.ytimg.com/vi/rijBqbLfH4s/mqdefault_live.jpg",
-      "published": "2026-06-09T01:19:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - ARTHUR | RETORNOS | JOGADORES DE SAÍDA?",
       "videoId": "HLuuPbVSRdw",
       "url": "https://www.youtube.com/watch?v=HLuuPbVSRdw",
-      "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault_live.jpg",
-      "published": "2026-06-09T01:24:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault.jpg",
+      "published": "2026-06-09T02:23:01Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #86 — O GRÊMIO ESTÁ SE MOVIMENTANDO PARA SAÍDAS? | WILLIAN RESPONDE NAS REDES",
+      "videoId": "DL84gE0DDSs",
+      "url": "https://www.youtube.com/watch?v=DL84gE0DDSs",
+      "thumbnail": "https://i.ytimg.com/vi/DL84gE0DDSs/mqdefault.jpg",
+      "published": "2026-06-09T03:22:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DODI PROCURADO PELA CHAPECOENSE? | TRÊS JOGADORES SE REAPRESENTAM | NOITES DE GRÊMIO #86 - 08/06",
       "videoId": "1E3bHsOST2E",
       "url": "https://www.youtube.com/watch?v=1E3bHsOST2E",
       "thumbnail": "https://i.ytimg.com/vi/1E3bHsOST2E/mqdefault_live.jpg",
       "published": "2026-06-09T01:30:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 09/06",
-      "videoId": "ezquF0Q2WIM",
-      "url": "https://www.youtube.com/watch?v=ezquF0Q2WIM",
-      "thumbnail": "https://i.ytimg.com/vi/ezquF0Q2WIM/mqdefault_live.jpg",
-      "published": "2026-06-09T01:01:24Z"
     }
   ]
 }
