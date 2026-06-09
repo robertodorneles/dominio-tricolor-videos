@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-09T01:00:35.657919+00:00",
+  "updated_at": "2026-06-09T02:00:36.588742+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: THE GUYS ARE ON AMERICA! | THINGS THEN  YOU NEVER SEE BEFORE",
+      "videoId": "OwAzUdpSJC8",
+      "url": "https://www.youtube.com/watch?v=OwAzUdpSJC8",
+      "thumbnail": "https://i.ytimg.com/vi/OwAzUdpSJC8/mqdefault_live.jpg",
+      "published": "2026-06-09T01:58:47Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: Valorização cada vez maior da joias | Revelação sobre Villasanti | Saída",
@@ -11,28 +19,20 @@
       "published": "2026-06-08T06:00:30Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: ENTREVISTA DEIXOU CLARO QUE VAI SAIR | GUI NEGÃO ESTÁ NO RS",
-      "videoId": "5OKZRm6cjNM",
-      "url": "https://www.youtube.com/watch?v=5OKZRm6cjNM",
-      "thumbnail": "https://i.ytimg.com/vi/5OKZRm6cjNM/mqdefault.jpg",
-      "published": "2026-06-08T04:04:09Z"
+      "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#065",
+      "videoId": "1x33m9JPPfg",
+      "url": "https://www.youtube.com/watch?v=1x33m9JPPfg",
+      "thumbnail": "https://i.ytimg.com/vi/1x33m9JPPfg/mqdefault_live.jpg",
+      "published": "2026-06-09T01:20:42Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO DEVE DEIXAR VOLANTE SAIR 🔹 THE TARDE 🔹#167",
-      "videoId": "pE5xCqMX7mg",
-      "url": "https://www.youtube.com/watch?v=pE5xCqMX7mg",
-      "thumbnail": "https://i.ytimg.com/vi/pE5xCqMX7mg/mqdefault.jpg",
-      "published": "2026-06-08T20:39:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CONTRATO MILIONÁRIO COM ARTHUR? SERÁ QUE ELE FICA?🔵 FUTEBOL ALEGRIA DO GRÊMIO",
-      "videoId": "0dne_JRLl5A",
-      "url": "https://www.youtube.com/watch?v=0dne_JRLl5A",
-      "thumbnail": "https://i.ytimg.com/vi/0dne_JRLl5A/mqdefault.jpg",
-      "published": "2026-06-08T20:33:29Z"
+      "title": "🔸RESENHA FORA DA SALA🔸#064",
+      "videoId": "rijBqbLfH4s",
+      "url": "https://www.youtube.com/watch?v=rijBqbLfH4s",
+      "thumbnail": "https://i.ytimg.com/vi/rijBqbLfH4s/mqdefault_live.jpg",
+      "published": "2026-06-09T01:19:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -56,7 +56,7 @@
       "videoId": "HLuuPbVSRdw",
       "url": "https://www.youtube.com/watch?v=HLuuPbVSRdw",
       "thumbnail": "https://i.ytimg.com/vi/HLuuPbVSRdw/mqdefault_live.jpg",
-      "published": "2026-06-09T00:00:10Z"
+      "published": "2026-06-09T01:24:05Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #87 — A LISTA DE RENOVAÇÕES DO GRÊMIO | QUEM DEVE PERMANECER?",
-      "videoId": "b6kAjmdLoZI",
-      "url": "https://www.youtube.com/watch?v=b6kAjmdLoZI",
-      "thumbnail": "https://i.ytimg.com/vi/b6kAjmdLoZI/mqdefault_live.jpg",
-      "published": "2026-06-09T00:57:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "DODI PROCURADO PELA CHAPECOENSE? | TRÊS JOGADORES SE REAPRESENTAM | NOITES DE GRÊMIO #86 - 08/06",
       "videoId": "1E3bHsOST2E",
       "url": "https://www.youtube.com/watch?v=1E3bHsOST2E",
       "thumbnail": "https://i.ytimg.com/vi/1E3bHsOST2E/mqdefault_live.jpg",
-      "published": "2026-06-08T23:59:50Z"
+      "published": "2026-06-09T01:30:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 09/06",
+      "videoId": "ezquF0Q2WIM",
+      "url": "https://www.youtube.com/watch?v=ezquF0Q2WIM",
+      "thumbnail": "https://i.ytimg.com/vi/ezquF0Q2WIM/mqdefault_live.jpg",
+      "published": "2026-06-09T01:01:24Z"
     }
   ]
 }
