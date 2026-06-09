@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T11:00:50.609123+00:00",
+  "updated_at": "2026-06-09T11:58:15.957269+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #01 - 09.06 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "gZt_X52vSP4",
+      "url": "https://www.youtube.com/watch?v=gZt_X52vSP4",
+      "thumbnail": "https://i.ytimg.com/vi/gZt_X52vSP4/mqdefault_live.jpg",
+      "published": "2026-06-09T11:57:16Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "COMO A FAMÍLIA DESSE GAÚCHO REAGIU À CONVOCAÇÃO PARA A COPA? | Cortes do Duda",
       "videoId": "ou-pD6SxhFI",
       "url": "https://www.youtube.com/watch?v=ou-pD6SxhFI",
       "thumbnail": "https://i.ytimg.com/vi/ou-pD6SxhFI/mqdefault.jpg",
       "published": "2026-06-08T21:30:10Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "IBAÑEZ CONTA DETALHES DA CONVOCAÇÃO E O SENTIMENTO DE REALIZAR UM SONHO | Cortes do Duda",
-      "videoId": "A6ox6LgOumk",
-      "url": "https://www.youtube.com/watch?v=A6ox6LgOumk",
-      "thumbnail": "https://i.ytimg.com/vi/A6ox6LgOumk/mqdefault.jpg",
-      "published": "2026-06-08T21:00:34Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -216,7 +216,7 @@
       "videoId": "QTYiADNQMmw",
       "url": "https://www.youtube.com/watch?v=QTYiADNQMmw",
       "thumbnail": "https://i.ytimg.com/vi/QTYiADNQMmw/mqdefault_live.jpg",
-      "published": "2026-06-09T00:55:58Z"
+      "published": "2026-06-09T11:01:16Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "LUÍS CASTRO VAI MUDAR O MODELO DO GRÊMIO? | PESQUISA COM A TORCIDA | GRÊMIO NO GUINESS BOOK",
+      "videoId": "92kRxTsvg34",
+      "url": "https://www.youtube.com/watch?v=92kRxTsvg34",
+      "thumbnail": "https://i.ytimg.com/vi/92kRxTsvg34/mqdefault_live.jpg",
+      "published": "2026-06-09T11:00:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 09/06- GRÊMIO 5x1 FLAMENGO (1949)",
       "videoId": "im8hjgATpsc",
       "url": "https://www.youtube.com/watch?v=im8hjgATpsc",
       "thumbnail": "https://i.ytimg.com/vi/im8hjgATpsc/mqdefault.jpg",
       "published": "2026-06-09T11:00:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #86 — O GRÊMIO ESTÁ SE MOVIMENTANDO PARA SAÍDAS? | WILLIAN RESPONDE NAS REDES",
-      "videoId": "DL84gE0DDSs",
-      "url": "https://www.youtube.com/watch?v=DL84gE0DDSs",
-      "thumbnail": "https://i.ytimg.com/vi/DL84gE0DDSs/mqdefault.jpg",
-      "published": "2026-06-09T03:22:08Z"
     }
   ]
 }
