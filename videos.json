@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-10T01:00:35.388799+00:00",
+  "updated_at": "2026-06-10T02:00:39.884080+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: UBER DA DUPLA EM NY! | ELA COMO VC NUNCA VIU | IRL DE MILHÕES",
+      "videoId": "SZcftt89mnA",
+      "url": "https://www.youtube.com/watch?v=SZcftt89mnA",
+      "thumbnail": "https://i.ytimg.com/vi/SZcftt89mnA/mqdefault_live.jpg",
+      "published": "2026-06-10T01:30:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diario do Inter KTO: AVANÇO COM GUi NEGÃO? | TAFFAREL?| F5 TUDO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=z00zKVQ5nlc",
       "thumbnail": "https://i.ytimg.com/vi/z00zKVQ5nlc/mqdefault.jpg",
       "published": "2026-06-09T05:25:08Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: BITELLO DESEMBARCA! | TRIO RETORNA ESTA SEMANA! | QUEM VOLTA?",
-      "videoId": "1ggkUhFizwc",
-      "url": "https://www.youtube.com/watch?v=1ggkUhFizwc",
-      "thumbnail": "https://i.ytimg.com/vi/1ggkUhFizwc/mqdefault.jpg",
-      "published": "2026-06-09T05:17:25Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com pré-candidato Hertz Dias, ataque no Oriente Médio e +| Gaúcha Atualidade | 09/06/2026",
+      "videoId": "FstreSOkqpY",
+      "url": "https://www.youtube.com/watch?v=FstreSOkqpY",
+      "thumbnail": "https://i.ytimg.com/vi/FstreSOkqpY/mqdefault.jpg",
+      "published": "2026-06-10T01:46:12Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ANIVERSÁRIO DA KELLY DIRETO DOS EUA! | COPANDO TUDO | 09/06/2026",
       "videoId": "B3oT0iLbM70",
       "url": "https://www.youtube.com/watch?v=B3oT0iLbM70",
       "thumbnail": "https://i.ytimg.com/vi/B3oT0iLbM70/mqdefault_live.jpg",
       "published": "2026-06-09T23:33:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "CASO HENRY BOREL: PERDÃO judicial à MONIQUE BOREL deve ser ANULADO? |  Conversas Cruzadas",
-      "videoId": "Ell3OeoJyZw",
-      "url": "https://www.youtube.com/watch?v=Ell3OeoJyZw",
-      "thumbnail": "https://i.ytimg.com/vi/Ell3OeoJyZw/mqdefault.jpg",
-      "published": "2026-06-09T23:30:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "9wfa6QuUsYE",
       "url": "https://www.youtube.com/watch?v=9wfa6QuUsYE",
       "thumbnail": "https://i.ytimg.com/vi/9wfa6QuUsYE/mqdefault_live.jpg",
-      "published": "2026-06-10T00:01:37Z"
+      "published": "2026-06-10T01:30:55Z"
     },
     {
       "channel": "Radio Imortal",
