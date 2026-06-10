@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T17:00:58.181099+00:00",
+  "updated_at": "2026-06-10T18:00:47.242536+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "A carreira do jogador Felipão  | Cortes do Bola-Bola",
+      "videoId": "uBlJ5E6C5ok",
+      "url": "https://www.youtube.com/watch?v=uBlJ5E6C5ok",
+      "thumbnail": "https://i.ytimg.com/vi/uBlJ5E6C5ok/mqdefault.jpg",
+      "published": "2026-06-10T18:00:07Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "Por que o Felipão cortou o Romário da Copa de 2002 #dudagarbi  #bolabolacomfalcao #falcao",
       "videoId": "ZhlPyBf8Hcc",
       "url": "https://www.youtube.com/watch?v=ZhlPyBf8Hcc",
@@ -139,12 +147,12 @@
       "published": "2026-06-10T16:55:51Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #02 - 10.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "KmBDYiadtE4",
-      "url": "https://www.youtube.com/watch?v=KmBDYiadtE4",
-      "thumbnail": "https://i.ytimg.com/vi/KmBDYiadtE4/mqdefault.jpg",
-      "published": "2026-06-10T16:55:16Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FLUMINENSE (CAMPEONATO BRASILEIRO SUB-20 2026)",
+      "videoId": "bcAsYzmpL7o",
+      "url": "https://www.youtube.com/watch?v=bcAsYzmpL7o",
+      "thumbnail": "https://i.ytimg.com/vi/bcAsYzmpL7o/mqdefault_live.jpg",
+      "published": "2026-06-10T17:48:17Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-06-10T13:47:59Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-20 2026)",
-      "videoId": "RISMvlL1nSo",
-      "url": "https://www.youtube.com/watch?v=RISMvlL1nSo",
-      "thumbnail": "https://i.ytimg.com/vi/RISMvlL1nSo/mqdefault_live.jpg",
-      "published": "2026-06-10T13:46:38Z"
+      "channel": "GZH Digital",
+      "title": "É gripe? Saiba identificar os sinais e prevenir doenças | Conversas Cruzadas | 10/06/2026",
+      "videoId": "GiyqZ7liDX8",
+      "url": "https://www.youtube.com/watch?v=GiyqZ7liDX8",
+      "thumbnail": "https://i.ytimg.com/vi/GiyqZ7liDX8/mqdefault_live.jpg",
+      "published": "2026-06-10T17:06:58Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Aborto legal em crianças: o que muda após aprovação de PDL? | Conversas Cruzadas | 10/06/2026",
+      "title": "Aborto legal em crianças e adolescentes: o que ato do Senado muda | Conversas Cruzadas | 10/06/2026",
       "videoId": "f1__7kz8v-A",
       "url": "https://www.youtube.com/watch?v=f1__7kz8v-A",
       "thumbnail": "https://i.ytimg.com/vi/f1__7kz8v-A/mqdefault_live.jpg",
       "published": "2026-06-10T16:46:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Vídeo mostra como foi assalto a joalheria em shopping de Porto Alegre",
-      "videoId": "QgDnaeQX-2k",
-      "url": "https://www.youtube.com/watch?v=QgDnaeQX-2k",
-      "thumbnail": "https://i.ytimg.com/vi/QgDnaeQX-2k/mqdefault.jpg",
-      "published": "2026-06-10T14:35:15Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 10/06",
+      "videoId": "1BKJ4yxefL8",
+      "url": "https://www.youtube.com/watch?v=1BKJ4yxefL8",
+      "thumbnail": "https://i.ytimg.com/vi/1BKJ4yxefL8/mqdefault_live.jpg",
+      "published": "2026-06-10T17:37:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #88 — ATUALIZANDO AS INFORMAÇÕES DO GRÊMIO | JOGADORES SE REAPRESENTAM HOJE",
       "videoId": "obTP9XxrB9Y",
       "url": "https://www.youtube.com/watch?v=obTP9XxrB9Y",
       "thumbnail": "https://i.ytimg.com/vi/obTP9XxrB9Y/mqdefault_live.jpg",
       "published": "2026-06-10T15:00:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ANDRÉ HENRIQUE PODE ESTAR DE SAÍDA | ALEX LEITÃO SE REÚNE COM A CBF | NOITES DE GRÊMIO #87 - 09/06",
-      "videoId": "9wfa6QuUsYE",
-      "url": "https://www.youtube.com/watch?v=9wfa6QuUsYE",
-      "thumbnail": "https://i.ytimg.com/vi/9wfa6QuUsYE/mqdefault.jpg",
-      "published": "2026-06-10T13:54:36Z"
     }
   ]
 }
