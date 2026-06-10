@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T19:00:41.378545+00:00",
+  "updated_at": "2026-06-10T19:32:35.019394+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "A Arena do Grêmio como você nunca viu",
+      "videoId": "FgE1nV8TYto",
+      "url": "https://www.youtube.com/watch?v=FgE1nV8TYto",
+      "thumbnail": "https://i.ytimg.com/vi/FgE1nV8TYto/mqdefault.jpg",
+      "published": "2026-06-10T19:07:04Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Reunião em NY organizada pela CBF terá presença de Grêmio, Inter e Juventude; saiba qual a pauta",
       "videoId": "Wo1WhuiysuY",
       "url": "https://www.youtube.com/watch?v=Wo1WhuiysuY",
       "thumbnail": "https://i.ytimg.com/vi/Wo1WhuiysuY/mqdefault.jpg",
       "published": "2026-06-09T14:11:40Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Entrevista com Regis ex-Inter nos Estados Unidos",
-      "videoId": "6huRj4rvtao",
-      "url": "https://www.youtube.com/watch?v=6huRj4rvtao",
-      "thumbnail": "https://i.ytimg.com/vi/6huRj4rvtao/mqdefault.jpg",
-      "published": "2026-06-07T17:20:42Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Como Felipão decidiu não convocar Romário para a Copa de 2002  | Cortes do Bola-Bola",
+      "videoId": "JU4aiQlmDQg",
+      "url": "https://www.youtube.com/watch?v=JU4aiQlmDQg",
+      "thumbnail": "https://i.ytimg.com/vi/JU4aiQlmDQg/mqdefault.jpg",
+      "published": "2026-06-10T19:09:26Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "A carreira do jogador Felipão  | Cortes do Bola-Bola",
       "videoId": "uBlJ5E6C5ok",
       "url": "https://www.youtube.com/watch?v=uBlJ5E6C5ok",
       "thumbnail": "https://i.ytimg.com/vi/uBlJ5E6C5ok/mqdefault.jpg",
       "published": "2026-06-10T18:00:07Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Por que o Felipão cortou o Romário da Copa de 2002 #dudagarbi  #bolabolacomfalcao #falcao",
-      "videoId": "ZhlPyBf8Hcc",
-      "url": "https://www.youtube.com/watch?v=ZhlPyBf8Hcc",
-      "thumbnail": "https://i.ytimg.com/vi/ZhlPyBf8Hcc/mqdefault.jpg",
-      "published": "2026-06-10T16:55:51Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "ARY FONTOURA: os conselhos do ator e fenômeno das redes sociais",
-      "videoId": "7u60fnOwiI0",
-      "url": "https://www.youtube.com/watch?v=7u60fnOwiI0",
-      "thumbnail": "https://i.ytimg.com/vi/7u60fnOwiI0/mqdefault.jpg",
-      "published": "2026-06-10T18:36:56Z"
+      "title": "Copa do Mundo 2026 já começa cercada por polêmicas nos Estados Unidos",
+      "videoId": "dTL-heBinxM",
+      "url": "https://www.youtube.com/watch?v=dTL-heBinxM",
+      "thumbnail": "https://i.ytimg.com/vi/dTL-heBinxM/mqdefault.jpg",
+      "published": "2026-06-10T19:27:05Z"
     },
     {
       "channel": "GZH Digital",
@@ -232,7 +232,7 @@
       "videoId": "Qy9eucCReHU",
       "url": "https://www.youtube.com/watch?v=Qy9eucCReHU",
       "thumbnail": "https://i.ytimg.com/vi/Qy9eucCReHU/mqdefault_live.jpg",
-      "published": "2026-06-10T18:32:11Z"
+      "published": "2026-06-10T19:32:05Z"
     },
     {
       "channel": "Radio Imortal",
