@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-10T23:00:43.010710+00:00",
+  "updated_at": "2026-06-10T23:38:47.069502+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: GO KNICKS! | TIMES SQUARE IS NICE! | EUA IS THE BASKETBALLS COUNTRY",
+      "videoId": "C-nYyZfVC_8",
+      "url": "https://www.youtube.com/watch?v=C-nYyZfVC_8",
+      "thumbnail": "https://i.ytimg.com/vi/C-nYyZfVC_8/mqdefault_live.jpg",
+      "published": "2026-06-10T23:21:46Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 FOI SINCERO E FALOU TUDO | A ENTREVISTA DE ABEL | F5 MERCADO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8brKdzSkg54",
       "thumbnail": "https://i.ytimg.com/vi/8brKdzSkg54/mqdefault.jpg",
       "published": "2026-06-10T06:26:00Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Impasse com Dodi | Inter sonda Mandaca | André Henrique",
-      "videoId": "AsUgF_1euME",
-      "url": "https://www.youtube.com/watch?v=AsUgF_1euME",
-      "thumbnail": "https://i.ytimg.com/vi/AsUgF_1euME/mqdefault.jpg",
-      "published": "2026-06-10T04:20:02Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "AREZO E ADRIEL VOLTAM? | CUSTO ARTHUR: GRÊMIO PAGA?",
+      "videoId": "BQlv53FMUV4",
+      "url": "https://www.youtube.com/watch?v=BQlv53FMUV4",
+      "thumbnail": "https://i.ytimg.com/vi/BQlv53FMUV4/mqdefault.jpg",
+      "published": "2026-06-10T23:02:00Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "FECHAR NEGÓCIO NOS EUA? | GRÊMIO DISSE NÃO: VIERY",
       "videoId": "tpfEtEWH58Q",
       "url": "https://www.youtube.com/watch?v=tpfEtEWH58Q",
       "thumbnail": "https://i.ytimg.com/vi/tpfEtEWH58Q/mqdefault.jpg",
       "published": "2026-06-09T21:37:16Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "BITELLO EM POA | SAÍDAS? VALORES E ECONOMIA PARA O GRÊMIO.",
-      "videoId": "hgGXIRg4ipY",
-      "url": "https://www.youtube.com/watch?v=hgGXIRg4ipY",
-      "thumbnail": "https://i.ytimg.com/vi/hgGXIRg4ipY/mqdefault.jpg",
-      "published": "2026-06-08T21:25:48Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -168,15 +168,15 @@
       "videoId": "FuTAG0cBKYI",
       "url": "https://www.youtube.com/watch?v=FuTAG0cBKYI",
       "thumbnail": "https://i.ytimg.com/vi/FuTAG0cBKYI/mqdefault_live.jpg",
-      "published": "2026-06-10T21:58:26Z"
+      "published": "2026-06-10T23:34:57Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Aborto legal em crianças e adolescentes: o que ato do Senado muda | Conversas Cruzadas | 10/06/2026",
-      "videoId": "f1__7kz8v-A",
-      "url": "https://www.youtube.com/watch?v=f1__7kz8v-A",
-      "thumbnail": "https://i.ytimg.com/vi/f1__7kz8v-A/mqdefault.jpg",
-      "published": "2026-06-10T21:45:29Z"
+      "title": "ABORTO LEGAL PARA CRIANÇAS E ADOLESCENTES: proteção ou retrocesso? | Conversas Cruzadas",
+      "videoId": "-60-TQHDnXo",
+      "url": "https://www.youtube.com/watch?v=-60-TQHDnXo",
+      "thumbnail": "https://i.ytimg.com/vi/-60-TQHDnXo/mqdefault.jpg",
+      "published": "2026-06-10T23:30:37Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "10/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "xyYoXfct15o",
       "url": "https://www.youtube.com/watch?v=xyYoXfct15o",
-      "thumbnail": "https://i.ytimg.com/vi/xyYoXfct15o/mqdefault_live.jpg",
-      "published": "2026-06-10T11:02:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/xyYoXfct15o/mqdefault.jpg",
+      "published": "2026-06-10T23:33:43Z"
     },
     {
       "channel": "Radio Grenal",
