@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T22:00:42.995426+00:00",
+  "updated_at": "2026-06-10T23:00:43.010710+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #607: Volante chileno |  Viery | Arezo | Lesões | Mudança na política | Base",
+      "videoId": "Xpy38QzvWMQ",
+      "url": "https://www.youtube.com/watch?v=Xpy38QzvWMQ",
+      "thumbnail": "https://i.ytimg.com/vi/Xpy38QzvWMQ/mqdefault.jpg",
+      "published": "2026-06-10T22:29:26Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "5 possíveis vendas e vexame do Grêmio na base",
       "videoId": "mKHpdp-rIUE",
       "url": "https://www.youtube.com/watch?v=mKHpdp-rIUE",
@@ -59,20 +67,12 @@
       "published": "2026-06-10T15:08:47Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "A busca de um lateral direito para o Grêmio",
-      "videoId": "UkoJTyoAhB8",
-      "url": "https://www.youtube.com/watch?v=UkoJTyoAhB8",
-      "thumbnail": "https://i.ytimg.com/vi/UkoJTyoAhB8/mqdefault.jpg",
-      "published": "2026-06-10T11:44:46Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "CADÊ O PATROCINADOR MASTER? - VAMOOO FARIDO 10.06.26",
       "videoId": "zzRzPi1vsxk",
       "url": "https://www.youtube.com/watch?v=zzRzPi1vsxk",
       "thumbnail": "https://i.ytimg.com/vi/zzRzPi1vsxk/mqdefault_live.jpg",
-      "published": "2026-06-10T20:43:06Z"
+      "published": "2026-06-10T22:12:18Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "+ DE 100 MILHÕES POR VIERY? | A DEFINIÇÃO DO GRÊMIO NA JANELA DE TRANSFERÊNCIAS | AMANHÃ TEM COPA!",
+      "videoId": "1BKJ4yxefL8",
+      "url": "https://www.youtube.com/watch?v=1BKJ4yxefL8",
+      "thumbnail": "https://i.ytimg.com/vi/1BKJ4yxefL8/mqdefault.jpg",
+      "published": "2026-06-10T22:53:15Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO NEGA BUSCA POR ECHEVERRÍA | MUDANÇA NO PERFIL DAS CONTRATAÇÕES | NOITES DE GRÊMIO #88 - 10/06",
       "videoId": "7qhIZzqMMLE",
       "url": "https://www.youtube.com/watch?v=7qhIZzqMMLE",
       "thumbnail": "https://i.ytimg.com/vi/7qhIZzqMMLE/mqdefault_live.jpg",
       "published": "2026-06-10T21:35:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "+ DE 100 MILHÕES POR VIERY? | A DEFINIÇÃO DO GRÊMIO NA JANELA DE TRANSFERÊNCIAS | AMANHÃ TEM COPA!",
-      "videoId": "1BKJ4yxefL8",
-      "url": "https://www.youtube.com/watch?v=1BKJ4yxefL8",
-      "thumbnail": "https://i.ytimg.com/vi/1BKJ4yxefL8/mqdefault_live.jpg",
-      "published": "2026-06-10T21:01:00Z"
     }
   ]
 }
