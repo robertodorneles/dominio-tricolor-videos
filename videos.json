@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T00:00:42.102785+00:00",
+  "updated_at": "2026-06-10T00:10:00.277123+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ANDRÉ HENRIQUE PODE ESTAR DE SAÍDA | ALEX LEITÃO SE REÚNE COM A CBF | NOITES DE GRÊMIO #87 - 09/06",
+      "videoId": "9wfa6QuUsYE",
+      "url": "https://www.youtube.com/watch?v=9wfa6QuUsYE",
+      "thumbnail": "https://i.ytimg.com/vi/9wfa6QuUsYE/mqdefault_live.jpg",
+      "published": "2026-06-10T00:01:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 10/06",
       "videoId": "Qy9eucCReHU",
       "url": "https://www.youtube.com/watch?v=Qy9eucCReHU",
       "thumbnail": "https://i.ytimg.com/vi/Qy9eucCReHU/mqdefault_live.jpg",
       "published": "2026-06-09T23:05:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #88 — ATUALIZANDO AS INFORMAÇÕES DO GRÊMIO | JOGADORES SE REAPRESENTAM HOJE",
-      "videoId": "obTP9XxrB9Y",
-      "url": "https://www.youtube.com/watch?v=obTP9XxrB9Y",
-      "thumbnail": "https://i.ytimg.com/vi/obTP9XxrB9Y/mqdefault_live.jpg",
-      "published": "2026-06-09T23:04:14Z"
     }
   ]
 }
