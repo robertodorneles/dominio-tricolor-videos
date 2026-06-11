@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T10:00:40.261631+00:00",
+  "updated_at": "2026-06-11T11:00:47.602902+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #048",
+      "title": "VAI COMEÇAR A MAIOR FESTA MUNDIAL🌅🔵 BOM DIA GRÊMIO #048",
       "videoId": "2eLF6a8HRF4",
       "url": "https://www.youtube.com/watch?v=2eLF6a8HRF4",
       "thumbnail": "https://i.ytimg.com/vi/2eLF6a8HRF4/mqdefault_live.jpg",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "CADÊ O PATROCINADOR MASTER? - VAMOOO FARIDO 10.06.26",
+      "videoId": "zzRzPi1vsxk",
+      "url": "https://www.youtube.com/watch?v=zzRzPi1vsxk",
+      "thumbnail": "https://i.ytimg.com/vi/zzRzPi1vsxk/mqdefault.jpg",
+      "published": "2026-06-11T10:50:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "FARID ERROU ALGO??",
       "videoId": "yXwc9sCdWU8",
       "url": "https://www.youtube.com/watch?v=yXwc9sCdWU8",
       "thumbnail": "https://i.ytimg.com/vi/yXwc9sCdWU8/mqdefault.jpg",
       "published": "2026-06-10T23:53:20Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "CADÊ O PATROCINADOR MASTER? - VAMOOO FARIDO 10.06.26",
-      "videoId": "zzRzPi1vsxk",
-      "url": "https://www.youtube.com/watch?v=zzRzPi1vsxk",
-      "thumbnail": "https://i.ytimg.com/vi/zzRzPi1vsxk/mqdefault_live.jpg",
-      "published": "2026-06-10T22:12:18Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 11/06/2026",
+      "videoId": "v5wlMBj9Q_k",
+      "url": "https://www.youtube.com/watch?v=v5wlMBj9Q_k",
+      "thumbnail": "https://i.ytimg.com/vi/v5wlMBj9Q_k/mqdefault_live.jpg",
+      "published": "2026-06-11T10:56:00Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Obras do DMAE, Copa do Mundo, 400 anos das missões, trânsito e mais | Gaúcha+ | 10/06/2026",
       "videoId": "rcyZRN3Hgps",
       "url": "https://www.youtube.com/watch?v=rcyZRN3Hgps",
       "thumbnail": "https://i.ytimg.com/vi/rcyZRN3Hgps/mqdefault.jpg",
       "published": "2026-06-11T08:13:57Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 11/06/26",
-      "videoId": "W5w4E9QAxwI",
-      "url": "https://www.youtube.com/watch?v=W5w4E9QAxwI",
-      "thumbnail": "https://i.ytimg.com/vi/W5w4E9QAxwI/mqdefault_live.jpg",
-      "published": "2026-06-11T07:40:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "11/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "fvRMsh8FQ6s",
       "url": "https://www.youtube.com/watch?v=fvRMsh8FQ6s",
       "thumbnail": "https://i.ytimg.com/vi/fvRMsh8FQ6s/mqdefault_live.jpg",
       "published": "2026-06-10T23:53:44Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 11/06- MANO MENEZES",
+      "videoId": "d2BHC_R-qqo",
+      "url": "https://www.youtube.com/watch?v=d2BHC_R-qqo",
+      "thumbnail": "https://i.ytimg.com/vi/d2BHC_R-qqo/mqdefault.jpg",
+      "published": "2026-06-11T11:00:32Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Z9qCLMn-VQo",
       "thumbnail": "https://i.ytimg.com/vi/Z9qCLMn-VQo/mqdefault_live.jpg",
       "published": "2026-06-11T03:13:30Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #89 — O QUE APURAMOS SOBRE WILLIAM NO GRÊMIO | INDEFINIÇÃO NA BOLÍVIA",
-      "videoId": "-ISqq2HM02w",
-      "url": "https://www.youtube.com/watch?v=-ISqq2HM02w",
-      "thumbnail": "https://i.ytimg.com/vi/-ISqq2HM02w/mqdefault_live.jpg",
-      "published": "2026-06-11T03:12:33Z"
     }
   ]
 }
