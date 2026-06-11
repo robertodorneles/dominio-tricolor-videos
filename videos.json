@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T15:00:52.597258+00:00",
+  "updated_at": "2026-06-11T16:00:49.995940+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "TUDO SOBRE GRÊMIO E ABERTURA DA COPA🔵 FUTEBOL ALEGRIA DO GRÊMIO - 11/06 - #566",
       "videoId": "huLpQhMs75Q",
       "url": "https://www.youtube.com/watch?v=huLpQhMs75Q",
-      "thumbnail": "https://i.ytimg.com/vi/huLpQhMs75Q/mqdefault_live.jpg",
-      "published": "2026-06-11T14:56:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/huLpQhMs75Q/mqdefault.jpg",
+      "published": "2026-06-11T15:58:53Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #89 — O QUE APURAMOS SOBRE WILLIAM NO GRÊMIO | INDEFINIÇÃO NA BOLÍVIA",
+      "videoId": "-ISqq2HM02w",
+      "url": "https://www.youtube.com/watch?v=-ISqq2HM02w",
+      "thumbnail": "https://i.ytimg.com/vi/-ISqq2HM02w/mqdefault_live.jpg",
+      "published": "2026-06-11T15:00:44Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO NEGA BUSCA POR ECHEVERRÍA | MUDANÇA NO PERFIL DAS CONTRATAÇÕES | NOITES DE GRÊMIO #88 - 10/06",
       "videoId": "7qhIZzqMMLE",
       "url": "https://www.youtube.com/watch?v=7qhIZzqMMLE",
       "thumbnail": "https://i.ytimg.com/vi/7qhIZzqMMLE/mqdefault.jpg",
       "published": "2026-06-11T14:14:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #89 — O QUE APURAMOS SOBRE WILLIAM NO GRÊMIO | INDEFINIÇÃO NA BOLÍVIA",
-      "videoId": "-ISqq2HM02w",
-      "url": "https://www.youtube.com/watch?v=-ISqq2HM02w",
-      "thumbnail": "https://i.ytimg.com/vi/-ISqq2HM02w/mqdefault_live.jpg",
-      "published": "2026-06-11T13:53:18Z"
     }
   ]
 }
