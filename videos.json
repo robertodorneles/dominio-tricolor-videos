@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T14:00:50.442742+00:00",
+  "updated_at": "2026-06-11T15:00:52.597258+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "huLpQhMs75Q",
       "url": "https://www.youtube.com/watch?v=huLpQhMs75Q",
       "thumbnail": "https://i.ytimg.com/vi/huLpQhMs75Q/mqdefault_live.jpg",
-      "published": "2026-06-11T13:01:33Z"
+      "published": "2026-06-11T14:56:24Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨VAZOU NOVO NEGÓCIO ABERTO | VIERY E A SOLUÇÃO | RENOVAÇÃO AVANÇA NO GRÊMIO | Part. LH Benfica",
+      "videoId": "no6nX408ukw",
+      "url": "https://www.youtube.com/watch?v=no6nX408ukw",
+      "thumbnail": "https://i.ytimg.com/vi/no6nX408ukw/mqdefault.jpg",
+      "published": "2026-06-11T14:43:22Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨EX-INTER E FLAMENGO NO GRÊMIO? BOM REFORÇO? | JOGADOR VOLTANDO PRO CLUBE | PROPOSTA MILIONÁRIA",
       "videoId": "M9je4a84Mog",
       "url": "https://www.youtube.com/watch?v=M9je4a84Mog",
       "thumbnail": "https://i.ytimg.com/vi/M9je4a84Mog/mqdefault.jpg",
       "published": "2026-06-10T23:41:41Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DE VOLTA! TRIO TÁ RETORNANDO | ALERTA LIGADO | O PÓS COPA DO GRÊMIO | Part. Carlos Guimarães",
-      "videoId": "IJAy1JONn4s",
-      "url": "https://www.youtube.com/watch?v=IJAy1JONn4s",
-      "thumbnail": "https://i.ytimg.com/vi/IJAy1JONn4s/mqdefault.jpg",
-      "published": "2026-06-10T14:42:43Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,7 +68,7 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "VAMOOO FARIDO 11.06.26",
+      "title": "O QUE ESTÁ ACONTECENDO NO GRÊMIO? GOLEADAS, LESÕES E VENDA MILIONÁRIA - VAMOOO FARIDO 11.06.26",
       "videoId": "rIrUR0wEswo",
       "url": "https://www.youtube.com/watch?v=rIrUR0wEswo",
       "thumbnail": "https://i.ytimg.com/vi/rIrUR0wEswo/mqdefault_live.jpg",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "As novidades do vestiário do Grêmio",
+      "videoId": "WdRDMmX7KzM",
+      "url": "https://www.youtube.com/watch?v=WdRDMmX7KzM",
+      "thumbnail": "https://i.ytimg.com/vi/WdRDMmX7KzM/mqdefault.jpg",
+      "published": "2026-06-11T14:13:01Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Um tour pela sala do Luis Castro #gremio",
       "videoId": "05fL_McaXlw",
       "url": "https://www.youtube.com/watch?v=05fL_McaXlw",
       "thumbnail": "https://i.ytimg.com/vi/05fL_McaXlw/mqdefault.jpg",
       "published": "2026-06-10T21:23:48Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "A Arena do Grêmio como você nunca viu",
-      "videoId": "FgE1nV8TYto",
-      "url": "https://www.youtube.com/watch?v=FgE1nV8TYto",
-      "thumbnail": "https://i.ytimg.com/vi/FgE1nV8TYto/mqdefault.jpg",
-      "published": "2026-06-10T19:07:04Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GRÊMIO DE ESTRANGEIROS? 🇪🇪 #shorts #Grêmio #Tricolor #EmersonRosa #volante #estrangeiro",
+      "videoId": "LQAEbY2yIkU",
+      "url": "https://www.youtube.com/watch?v=LQAEbY2yIkU",
+      "thumbnail": "https://i.ytimg.com/vi/LQAEbY2yIkU/mqdefault.jpg",
+      "published": "2026-06-11T14:34:08Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM EMERSON ROSA - EX-VOLANTE DO GRÊMIO E DA SELEÇÃO BRASILEIRA | RÁDIO GRENAL",
       "videoId": "RwvlST9js8A",
       "url": "https://www.youtube.com/watch?v=RwvlST9js8A",
@@ -219,12 +227,12 @@
       "published": "2026-06-11T13:34:42Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "11/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "fvRMsh8FQ6s",
-      "url": "https://www.youtube.com/watch?v=fvRMsh8FQ6s",
-      "thumbnail": "https://i.ytimg.com/vi/fvRMsh8FQ6s/mqdefault_live.jpg",
-      "published": "2026-06-11T11:01:17Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO NEGA BUSCA POR ECHEVERRÍA | MUDANÇA NO PERFIL DAS CONTRATAÇÕES | NOITES DE GRÊMIO #88 - 10/06",
+      "videoId": "7qhIZzqMMLE",
+      "url": "https://www.youtube.com/watch?v=7qhIZzqMMLE",
+      "thumbnail": "https://i.ytimg.com/vi/7qhIZzqMMLE/mqdefault.jpg",
+      "published": "2026-06-11T14:14:37Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=-ISqq2HM02w",
       "thumbnail": "https://i.ytimg.com/vi/-ISqq2HM02w/mqdefault_live.jpg",
       "published": "2026-06-11T13:53:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ATRÁS DE WILLIAM? IMPRENSA MINEIRA REVELA CONSULTA | NOVA DERROTA NA BASE | REDAÇÃO IMORTAL",
-      "videoId": "1VK-OW-l9S0",
-      "url": "https://www.youtube.com/watch?v=1VK-OW-l9S0",
-      "thumbnail": "https://i.ytimg.com/vi/1VK-OW-l9S0/mqdefault.jpg",
-      "published": "2026-06-11T13:10:36Z"
     }
   ]
 }
