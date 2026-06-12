@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-11T23:45:46.813469+00:00",
+  "updated_at": "2026-06-12T00:00:37.663516+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: É COPA DO MUNDO AMIGOS | COMEÇOU A LOUCURADA! | QUEM VAI GANHAR?",
+      "videoId": "9N3G78LfoQk",
+      "url": "https://www.youtube.com/watch?v=9N3G78LfoQk",
+      "thumbnail": "https://i.ytimg.com/vi/9N3G78LfoQk/mqdefault_live.jpg",
+      "published": "2026-06-11T23:46:30Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ IDiário do Inter KTO: ABELÃO ENTROU NO CURCUITO | ALAN DE ADEUS? | F5 MERCADO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=VbYn1KLpSDc",
       "thumbnail": "https://i.ytimg.com/vi/VbYn1KLpSDc/mqdefault.jpg",
       "published": "2026-06-11T06:52:34Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Valor esperado é sugerido a direção por Viery | Zagueiro sofre acidente",
-      "videoId": "VkNdMTwtIcM",
-      "url": "https://www.youtube.com/watch?v=VkNdMTwtIcM",
-      "thumbnail": "https://i.ytimg.com/vi/VkNdMTwtIcM/mqdefault.jpg",
-      "published": "2026-06-11T04:25:26Z"
     },
     {
       "channel": "Bage TV",
