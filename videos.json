@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T12:00:44.152277+00:00",
+  "updated_at": "2026-06-12T12:16:47.868559+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "xJCg6R2KJkU",
       "url": "https://www.youtube.com/watch?v=xJCg6R2KJkU",
       "thumbnail": "https://i.ytimg.com/vi/xJCg6R2KJkU/mqdefault_live.jpg",
-      "published": "2026-06-12T09:33:00Z"
+      "published": "2026-06-12T12:07:54Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ACIDENTE GRAVE COM JOGADOR DO GRÊMIO! #grêmio #futebol",
+      "videoId": "qc-pph8KmoA",
+      "url": "https://www.youtube.com/watch?v=qc-pph8KmoA",
+      "thumbnail": "https://i.ytimg.com/vi/qc-pph8KmoA/mqdefault.jpg",
+      "published": "2026-06-12T12:00:25Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRAVE: ACIDENTE COM ZAGUEIRO DO GRÊMIO | MONSALVE: SÓ ASSINAR? | ARENA  VERDE?",
       "videoId": "OlI6Y7Tzt2o",
       "url": "https://www.youtube.com/watch?v=OlI6Y7Tzt2o",
       "thumbnail": "https://i.ytimg.com/vi/OlI6Y7Tzt2o/mqdefault.jpg",
       "published": "2026-06-12T00:01:41Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ACHEI A CAMISA DO GRÊMIO PRA VENDER EM NOVA YORK? #gremio #futebol",
-      "videoId": "9s8vAGXqs5w",
-      "url": "https://www.youtube.com/watch?v=9s8vAGXqs5w",
-      "thumbnail": "https://i.ytimg.com/vi/9s8vAGXqs5w/mqdefault.jpg",
-      "published": "2026-06-11T18:02:16Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -184,7 +184,7 @@
       "videoId": "ajYVnUxEYrk",
       "url": "https://www.youtube.com/watch?v=ajYVnUxEYrk",
       "thumbnail": "https://i.ytimg.com/vi/ajYVnUxEYrk/mqdefault_live.jpg",
-      "published": "2026-06-12T11:03:18Z"
+      "published": "2026-06-12T12:02:39Z"
     },
     {
       "channel": "Jeremias Wernek",
