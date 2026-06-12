@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T21:00:51.743126+00:00",
+  "updated_at": "2026-06-12T21:29:16.220119+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "É SEGURO BEBER ÁGUA DA TORNEIRA? | GZH",
+      "videoId": "UTinbaGvQi4",
+      "url": "https://www.youtube.com/watch?v=UTinbaGvQi4",
+      "thumbnail": "https://i.ytimg.com/vi/UTinbaGvQi4/mqdefault.jpg",
+      "published": "2026-06-12T21:03:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CASO HENRY BOREL: gênero é justificativa para perdão judicial? Promotora debate | Conversas Cruzadas",
       "videoId": "o9ELWM3-eWM",
       "url": "https://www.youtube.com/watch?v=o9ELWM3-eWM",
       "thumbnail": "https://i.ytimg.com/vi/o9ELWM3-eWM/mqdefault.jpg",
       "published": "2026-06-12T21:00:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "CASO HENRY BOREL pode ter JULGAMENTO ANULADO? Especialistas explicam | Conversas Cruzadas",
-      "videoId": "2KHLXWX8hQo",
-      "url": "https://www.youtube.com/watch?v=2KHLXWX8hQo",
-      "thumbnail": "https://i.ytimg.com/vi/2KHLXWX8hQo/mqdefault.jpg",
-      "published": "2026-06-12T20:38:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "12/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
+      "title": "12/06/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "LvskVvOWbj4",
       "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
       "thumbnail": "https://i.ytimg.com/vi/LvskVvOWbj4/mqdefault_live.jpg",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "A DÍVIDA DO GRÊMIO POR AMUZU! CLUBE BATEU NA PORTA | TORNEIO AMISTOSO CANCELADO | ESPLANADA",
-      "videoId": "QAAAINM3ae8",
-      "url": "https://www.youtube.com/watch?v=QAAAINM3ae8",
-      "thumbnail": "https://i.ytimg.com/vi/QAAAINM3ae8/mqdefault.jpg",
-      "published": "2026-06-12T18:58:42Z"
+      "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
+      "videoId": "ujnBVGzEbQc",
+      "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
+      "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault_live.jpg",
+      "published": "2026-06-12T21:24:03Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "Tlw7zOQydck",
       "url": "https://www.youtube.com/watch?v=Tlw7zOQydck",
       "thumbnail": "https://i.ytimg.com/vi/Tlw7zOQydck/mqdefault_live.jpg",
-      "published": "2026-06-12T16:42:59Z"
+      "published": "2026-06-12T21:05:43Z"
     }
   ]
 }
