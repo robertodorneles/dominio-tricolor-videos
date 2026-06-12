@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:00:43.173354+00:00",
+  "updated_at": "2026-06-12T23:01:05.277318+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #609: Situação de Arthur | Cobrança por Amuzu | Renovações | Torneio em Brasília",
+      "videoId": "wrub8p7ednk",
+      "url": "https://www.youtube.com/watch?v=wrub8p7ednk",
+      "thumbnail": "https://i.ytimg.com/vi/wrub8p7ednk/mqdefault.jpg",
+      "published": "2026-06-12T22:35:54Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Alex Leitão fala direto de Nova York: Liga Brasileira, patrocinador master do Grêmio e mais",
       "videoId": "CFCRvDArB_4",
       "url": "https://www.youtube.com/watch?v=CFCRvDArB_4",
@@ -59,20 +67,12 @@
       "published": "2026-06-12T17:50:05Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #608: Saída de jogadores | Busca por reforços | William e muito mais",
-      "videoId": "dvTFRqFcWXE",
-      "url": "https://www.youtube.com/watch?v=dvTFRqFcWXE",
-      "thumbnail": "https://i.ytimg.com/vi/dvTFRqFcWXE/mqdefault.jpg",
-      "published": "2026-06-11T23:12:43Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "VAMOOO FARIDO 12.06.26",
       "videoId": "lOiZakX9a6o",
       "url": "https://www.youtube.com/watch?v=lOiZakX9a6o",
       "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault_live.jpg",
-      "published": "2026-06-12T20:48:00Z"
+      "published": "2026-06-12T22:06:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "O que tirou o Felipão do fundo do poço depois do 7 a 1 | Cortes do Bola-Bola",
+      "videoId": "VWE-B_KXF9U",
+      "url": "https://www.youtube.com/watch?v=VWE-B_KXF9U",
+      "thumbnail": "https://i.ytimg.com/vi/VWE-B_KXF9U/mqdefault.jpg",
+      "published": "2026-06-12T22:00:24Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "Felipão x Figo: \"quem vai jogar sou eu\" #dudagarbi  #bolabolacomfalcao #falcao",
       "videoId": "tFCYOIkDcpA",
       "url": "https://www.youtube.com/watch?v=tFCYOIkDcpA",
       "thumbnail": "https://i.ytimg.com/vi/tFCYOIkDcpA/mqdefault.jpg",
       "published": "2026-06-12T21:00:35Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Felipão e Murtosa: 30 anos de parceria e lealdade  | Cortes do Bola-Bola",
-      "videoId": "Z_dKFQdvsVY",
-      "url": "https://www.youtube.com/watch?v=Z_dKFQdvsVY",
-      "thumbnail": "https://i.ytimg.com/vi/Z_dKFQdvsVY/mqdefault.jpg",
-      "published": "2026-06-12T21:00:20Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Flávio Leite canta e explica quais são as ÓPERAS mais famosas da história | Paralelas",
+      "videoId": "ghOctGa2z-A",
+      "url": "https://www.youtube.com/watch?v=ghOctGa2z-A",
+      "thumbnail": "https://i.ytimg.com/vi/ghOctGa2z-A/mqdefault.jpg",
+      "published": "2026-06-12T22:30:07Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "GIRO PELA AMÉRICA DO NORTE, JOGO DO BRASIL AMANHÃ E TATIQUÊS COM LISCA | COPANDO TUDO | 12/06/2026",
       "videoId": "hKeJyFbBpgM",
       "url": "https://www.youtube.com/watch?v=hKeJyFbBpgM",
       "thumbnail": "https://i.ytimg.com/vi/hKeJyFbBpgM/mqdefault_live.jpg",
       "published": "2026-06-12T21:57:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "É SEGURO BEBER ÁGUA DA TORNEIRA? | GZH",
-      "videoId": "UTinbaGvQi4",
-      "url": "https://www.youtube.com/watch?v=UTinbaGvQi4",
-      "thumbnail": "https://i.ytimg.com/vi/UTinbaGvQi4/mqdefault.jpg",
-      "published": "2026-06-12T21:03:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "12/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "12/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "LvskVvOWbj4",
       "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
       "thumbnail": "https://i.ytimg.com/vi/LvskVvOWbj4/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
-      "videoId": "ujnBVGzEbQc",
-      "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
-      "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault_live.jpg",
-      "published": "2026-06-12T21:24:03Z"
+      "title": "ARTHUR VAI FICAR? | CLUBE EUROPEU COBRA GRÊMIO POR DÍVIDA | FIM DE SEMANA DE CLÁSSICOSNA BASE",
+      "videoId": "cmC04HUwqbI",
+      "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
+      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
+      "published": "2026-06-12T22:27:00Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "REPERCUSSÃO DE MAIS UM JOGO DE COPA! | TEM INFORMAÇÃO IMPORTANTE DE GRÊMIO | IMORTAL FC - 12/06",
       "videoId": "Tlw7zOQydck",
       "url": "https://www.youtube.com/watch?v=Tlw7zOQydck",
-      "thumbnail": "https://i.ytimg.com/vi/Tlw7zOQydck/mqdefault_live.jpg",
-      "published": "2026-06-12T21:05:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/Tlw7zOQydck/mqdefault.jpg",
+      "published": "2026-06-12T22:08:18Z"
     }
   ]
 }
