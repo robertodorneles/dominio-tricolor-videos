@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T20:00:44.993965+00:00",
+  "updated_at": "2026-06-12T21:00:51.743126+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🚨 CLUBE AMEAÇA ACIONAR O GRÊMIO NA FIFA🔹 THE TARDE 🔹#170",
-      "videoId": "LEZH_MENgFg",
-      "url": "https://www.youtube.com/watch?v=LEZH_MENgFg",
-      "thumbnail": "https://i.ytimg.com/vi/LEZH_MENgFg/mqdefault_live.jpg",
-      "published": "2026-06-12T19:59:09Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "JOGADORES VOLTANDO NO GRÊMIO E NO INTER! / AMANHÃ TEM BRASIL!🔸RESENHA FORA DA SALA🔸#065",
       "videoId": "1x33m9JPPfg",
       "url": "https://www.youtube.com/watch?v=1x33m9JPPfg",
-      "thumbnail": "https://i.ytimg.com/vi/1x33m9JPPfg/mqdefault_live.jpg",
-      "published": "2026-06-12T18:31:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/1x33m9JPPfg/mqdefault.jpg",
+      "published": "2026-06-12T20:22:47Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🚨 CLUBE AMEAÇA ACIONAR O GRÊMIO NA FIFA🔹 THE TARDE 🔹#170",
+      "videoId": "LEZH_MENgFg",
+      "url": "https://www.youtube.com/watch?v=LEZH_MENgFg",
+      "thumbnail": "https://i.ytimg.com/vi/LEZH_MENgFg/mqdefault.jpg",
+      "published": "2026-06-12T20:14:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMOOO FARIDO 12.06.26",
+      "videoId": "lOiZakX9a6o",
+      "url": "https://www.youtube.com/watch?v=lOiZakX9a6o",
+      "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault_live.jpg",
+      "published": "2026-06-12T20:48:00Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP03",
       "videoId": "baOgxKjiHhg",
       "url": "https://www.youtube.com/watch?v=baOgxKjiHhg",
       "thumbnail": "https://i.ytimg.com/vi/baOgxKjiHhg/mqdefault.jpg",
       "published": "2026-06-12T12:25:15Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRANDE NOVIDADE NO CANAL!! - VAMOOO FARIDO 11.06.26",
-      "videoId": "rIrUR0wEswo",
-      "url": "https://www.youtube.com/watch?v=rIrUR0wEswo",
-      "thumbnail": "https://i.ytimg.com/vi/rIrUR0wEswo/mqdefault.jpg",
-      "published": "2026-06-12T11:00:29Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,27 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Felipão x Figo: a briga na Seleção de Portugal | Cortes do Bola-Bola",
-      "videoId": "38L_1Wb0u8Q",
-      "url": "https://www.youtube.com/watch?v=38L_1Wb0u8Q",
-      "thumbnail": "https://i.ytimg.com/vi/38L_1Wb0u8Q/mqdefault.jpg",
-      "published": "2026-06-11T22:00:27Z"
+      "title": "Felipão x Figo: \"quem vai jogar sou eu\" #dudagarbi  #bolabolacomfalcao #falcao",
+      "videoId": "tFCYOIkDcpA",
+      "url": "https://www.youtube.com/watch?v=tFCYOIkDcpA",
+      "thumbnail": "https://i.ytimg.com/vi/tFCYOIkDcpA/mqdefault.jpg",
+      "published": "2026-06-12T21:00:35Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "IBAÑEZ CONTA COMO FEZ PARA MARCAR CRISTIANO RONALDO | Cortes do Duda",
-      "videoId": "P2kQeQ7B55o",
-      "url": "https://www.youtube.com/watch?v=P2kQeQ7B55o",
-      "thumbnail": "https://i.ytimg.com/vi/P2kQeQ7B55o/mqdefault.jpg",
-      "published": "2026-06-11T21:00:05Z"
+      "title": "Felipão e Murtosa: 30 anos de parceria e lealdade  | Cortes do Bola-Bola",
+      "videoId": "Z_dKFQdvsVY",
+      "url": "https://www.youtube.com/watch?v=Z_dKFQdvsVY",
+      "thumbnail": "https://i.ytimg.com/vi/Z_dKFQdvsVY/mqdefault.jpg",
+      "published": "2026-06-12T21:00:20Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "Abertura da exposição Presença Imortal na GrêmioMania Megastore",
+      "videoId": "5qLPrzW7A98",
+      "url": "https://www.youtube.com/watch?v=5qLPrzW7A98",
+      "thumbnail": "https://i.ytimg.com/vi/5qLPrzW7A98/mqdefault.jpg",
+      "published": "2026-06-12T20:50:37Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-06-10T20:03:31Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X VITÓRIA (CAMPEONATO BRASILEIRO SUB-17 2026)",
-      "videoId": "AYl_KSM2OIo",
-      "url": "https://www.youtube.com/watch?v=AYl_KSM2OIo",
-      "thumbnail": "https://i.ytimg.com/vi/AYl_KSM2OIo/mqdefault_live.jpg",
-      "published": "2026-06-10T13:47:59Z"
+      "channel": "GZH Digital",
+      "title": "CASO HENRY BOREL: gênero é justificativa para perdão judicial? Promotora debate | Conversas Cruzadas",
+      "videoId": "o9ELWM3-eWM",
+      "url": "https://www.youtube.com/watch?v=o9ELWM3-eWM",
+      "thumbnail": "https://i.ytimg.com/vi/o9ELWM3-eWM/mqdefault.jpg",
+      "published": "2026-06-12T21:00:36Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "DIA DOS NAMORADOS: pedido de namoro ainda é essencial nos relacionamentos modernos?",
-      "videoId": "_60Hh7H3ABM",
-      "url": "https://www.youtube.com/watch?v=_60Hh7H3ABM",
-      "thumbnail": "https://i.ytimg.com/vi/_60Hh7H3ABM/mqdefault.jpg",
-      "published": "2026-06-12T19:48:40Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Deise Nunes, a primeira Miss Brasil negra | Paralelas",
-      "videoId": "nZ2_pj9y0Vk",
-      "url": "https://www.youtube.com/watch?v=nZ2_pj9y0Vk",
-      "thumbnail": "https://i.ytimg.com/vi/nZ2_pj9y0Vk/mqdefault.jpg",
-      "published": "2026-06-12T19:00:27Z"
+      "title": "CASO HENRY BOREL pode ter JULGAMENTO ANULADO? Especialistas explicam | Conversas Cruzadas",
+      "videoId": "2KHLXWX8hQo",
+      "url": "https://www.youtube.com/watch?v=2KHLXWX8hQo",
+      "thumbnail": "https://i.ytimg.com/vi/2KHLXWX8hQo/mqdefault.jpg",
+      "published": "2026-06-12T20:38:21Z"
     },
     {
       "channel": "Jeremias Wernek",
