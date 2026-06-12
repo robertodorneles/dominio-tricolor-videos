@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T14:00:47.574510+00:00",
+  "updated_at": "2026-06-12T15:00:58.586386+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "DIREÇÃO DESCARTA VINDA DE LATERAL 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 12/06 - #567",
+      "videoId": "brcAoroslNo",
+      "url": "https://www.youtube.com/watch?v=brcAoroslNo",
+      "thumbnail": "https://i.ytimg.com/vi/brcAoroslNo/mqdefault.jpg",
+      "published": "2026-06-12T14:57:10Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔹 THE TARDE 🔹#170",
       "videoId": "LEZH_MENgFg",
       "url": "https://www.youtube.com/watch?v=LEZH_MENgFg",
@@ -27,12 +35,12 @@
       "published": "2026-06-12T13:16:26Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "DIREÇÃO DESCARTA VINDA DE LATERAL 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 12/06 - #567",
-      "videoId": "brcAoroslNo",
-      "url": "https://www.youtube.com/watch?v=brcAoroslNo",
-      "thumbnail": "https://i.ytimg.com/vi/brcAoroslNo/mqdefault_live.jpg",
-      "published": "2026-06-12T13:01:43Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MEIA ESCOLHIDO E NEGÓCIO ABERTO | TEM JOGO AMISTOSO MARCADO | A PROJEÇÃO DO ANO DO GRÊMIO!",
+      "videoId": "GIBZClMSguM",
+      "url": "https://www.youtube.com/watch?v=GIBZClMSguM",
+      "thumbnail": "https://i.ytimg.com/vi/GIBZClMSguM/mqdefault.jpg",
+      "published": "2026-06-12T14:45:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=GCk2fO2FNg0",
       "thumbnail": "https://i.ytimg.com/vi/GCk2fO2FNg0/mqdefault.jpg",
       "published": "2026-06-11T23:26:43Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨VAZOU NOVO NEGÓCIO ABERTO | VIERY E A SOLUÇÃO | RENOVAÇÃO AVANÇA NO GRÊMIO | Part. LH Benfica",
-      "videoId": "no6nX408ukw",
-      "url": "https://www.youtube.com/watch?v=no6nX408ukw",
-      "thumbnail": "https://i.ytimg.com/vi/no6nX408ukw/mqdefault.jpg",
-      "published": "2026-06-11T14:43:22Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "The Beatles no Acordeon e Vera Loca no coração  as histórias de Diego Dias | Paralelas",
-      "videoId": "q4be8_O790Y",
-      "url": "https://www.youtube.com/watch?v=q4be8_O790Y",
-      "thumbnail": "https://i.ytimg.com/vi/q4be8_O790Y/mqdefault.jpg",
-      "published": "2026-06-12T14:00:33Z"
+      "title": "Sem pedestal: Flávio Leite explica por que a ÓPERA está mais viva do que nunca | Paralelas",
+      "videoId": "xONwYG8tL2I",
+      "url": "https://www.youtube.com/watch?v=xONwYG8tL2I",
+      "thumbnail": "https://i.ytimg.com/vi/xONwYG8tL2I/mqdefault.jpg",
+      "published": "2026-06-12T15:00:26Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "DIA DOS NAMORADOS: psicanalista sobre relacionamento, origem do fondue e mais | Timeline 10/06/26",
-      "videoId": "fm1T3nBojhk",
-      "url": "https://www.youtube.com/watch?v=fm1T3nBojhk",
-      "thumbnail": "https://i.ytimg.com/vi/fm1T3nBojhk/mqdefault_live.jpg",
-      "published": "2026-06-12T13:57:32Z"
+      "title": "Segurança do RS, fechamento de agências dos Correios, trânsito e + | Gaúcha Atualidade | 12/06/2026",
+      "videoId": "dmRiQgOQ7BY",
+      "url": "https://www.youtube.com/watch?v=dmRiQgOQ7BY",
+      "thumbnail": "https://i.ytimg.com/vi/dmRiQgOQ7BY/mqdefault.jpg",
+      "published": "2026-06-12T14:58:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "12/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "12/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "LvskVvOWbj4",
       "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
       "thumbnail": "https://i.ytimg.com/vi/LvskVvOWbj4/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO NEGA CONTATO POR WILLIAN | ARENA EM CLIMA DE COPA | NOITES DE GRÊMIO #89 - 11/06",
+      "videoId": "rfzfYOXMky4",
+      "url": "https://www.youtube.com/watch?v=rfzfYOXMky4",
+      "thumbnail": "https://i.ytimg.com/vi/rfzfYOXMky4/mqdefault.jpg",
+      "published": "2026-06-12T14:00:57Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #90 — AO VIVO DIRETO DA ARENA DO GRÊMIO | EXPOSIÇÃO DA COPA  NA GRÊMIOMANIA",
       "videoId": "05RYM0dEhUg",
       "url": "https://www.youtube.com/watch?v=05RYM0dEhUg",
       "thumbnail": "https://i.ytimg.com/vi/05RYM0dEhUg/mqdefault_live.jpg",
       "published": "2026-06-12T13:49:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "BALBUENA É O GRÊMIO NA COPA HOJE! | FINAL DE SEMANA DE CLÁSSICOS NA BASE | REDAÇÃO IMORTAL",
-      "videoId": "1yCA108y_RM",
-      "url": "https://www.youtube.com/watch?v=1yCA108y_RM",
-      "thumbnail": "https://i.ytimg.com/vi/1yCA108y_RM/mqdefault.jpg",
-      "published": "2026-06-12T13:11:59Z"
     }
   ]
 }
