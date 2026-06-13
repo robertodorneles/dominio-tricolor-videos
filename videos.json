@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T14:00:52.151861+00:00",
-  "total": 30,
+  "updated_at": "2026-06-13T15:01:03.307827+00:00",
+  "total": 28,
   "videos": [
     {
       "channel": "A Dupla",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨BOA NOTÍCIA: 150 MILHÕES | MAIS UM VAI EMBORA DO GRÊMIO | CRÍTICAS PRA JOVEM | ESTREIA DO BRASIL",
+      "videoId": "YINd1YDLvmI",
+      "url": "https://www.youtube.com/watch?v=YINd1YDLvmI",
+      "thumbnail": "https://i.ytimg.com/vi/YINd1YDLvmI/mqdefault.jpg",
+      "published": "2026-06-13T14:30:10Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨VAZOU NOME DE MEIA NA PAUTA | NOVIDADE SOBRE ARTHUR | DÍVIDA PREOCUPA | O GRÊMIO E A SELEÇÃO BR",
       "videoId": "qeIA4OIANbc",
       "url": "https://www.youtube.com/watch?v=qeIA4OIANbc",
@@ -43,12 +51,12 @@
       "published": "2026-06-12T23:46:35Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MEIA ESCOLHIDO E NEGÓCIO ABERTO | TEM JOGO AMISTOSO MARCADO | A PROJEÇÃO DO ANO DO GRÊMIO!",
-      "videoId": "GIBZClMSguM",
-      "url": "https://www.youtube.com/watch?v=GIBZClMSguM",
-      "thumbnail": "https://i.ytimg.com/vi/GIBZClMSguM/mqdefault.jpg",
-      "published": "2026-06-12T14:45:51Z"
+      "channel": "Canal do CCD",
+      "title": "Os bastidores da invasão da torcida do Grêmio nos Estados Unidos",
+      "videoId": "0wjuGxvcuNc",
+      "url": "https://www.youtube.com/watch?v=0wjuGxvcuNc",
+      "thumbnail": "https://i.ytimg.com/vi/0wjuGxvcuNc/mqdefault.jpg",
+      "published": "2026-06-13T14:35:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,30 +65,6 @@
       "url": "https://www.youtube.com/watch?v=wrub8p7ednk",
       "thumbnail": "https://i.ytimg.com/vi/wrub8p7ednk/mqdefault.jpg",
       "published": "2026-06-12T22:35:54Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Alex Leitão fala direto de Nova York: Liga Brasileira, patrocinador master do Grêmio e mais",
-      "videoId": "CFCRvDArB_4",
-      "url": "https://www.youtube.com/watch?v=CFCRvDArB_4",
-      "thumbnail": "https://i.ytimg.com/vi/CFCRvDArB_4/mqdefault.jpg",
-      "published": "2026-06-12T17:50:05Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMOOO FARIDO 12.06.26",
-      "videoId": "lOiZakX9a6o",
-      "url": "https://www.youtube.com/watch?v=lOiZakX9a6o",
-      "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault.jpg",
-      "published": "2026-06-13T10:33:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP03",
-      "videoId": "baOgxKjiHhg",
-      "url": "https://www.youtube.com/watch?v=baOgxKjiHhg",
-      "thumbnail": "https://i.ytimg.com/vi/baOgxKjiHhg/mqdefault.jpg",
-      "published": "2026-06-12T12:25:15Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +116,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #04 - 13.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "jPTPNfG93nM",
-      "url": "https://www.youtube.com/watch?v=jPTPNfG93nM",
-      "thumbnail": "https://i.ytimg.com/vi/jPTPNfG93nM/mqdefault.jpg",
-      "published": "2026-06-13T13:17:34Z"
+      "title": "JOGADOR DE FUTEBOL É ATLETA? ENTENDA A DIFERENÇA | Uma Aula Sobre… Vida de Atleta",
+      "videoId": "QFy0mQEHEY0",
+      "url": "https://www.youtube.com/watch?v=QFy0mQEHEY0",
+      "thumbnail": "https://i.ytimg.com/vi/QFy0mQEHEY0/mqdefault.jpg",
+      "published": "2026-06-13T14:30:38Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "UMA AULA SOBRE… VIDA DE ATLETA com Rafael Sóbis | #36",
-      "videoId": "w3eVwWr9-DE",
-      "url": "https://www.youtube.com/watch?v=w3eVwWr9-DE",
-      "thumbnail": "https://i.ytimg.com/vi/w3eVwWr9-DE/mqdefault.jpg",
-      "published": "2026-06-13T13:00:00Z"
+      "title": "\"O BRASIL TEM MUITO MEDO DE PERDER\" #dudagarbi #rafaelbarleze #umaaulasobre",
+      "videoId": "y5e7top3rqI",
+      "url": "https://www.youtube.com/watch?v=y5e7top3rqI",
+      "thumbnail": "https://i.ytimg.com/vi/y5e7top3rqI/mqdefault.jpg",
+      "published": "2026-06-13T14:30:30Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +148,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "FIM DO MORANGO DO AMOR? 🍓",
-      "videoId": "HD81pxjYk8s",
-      "url": "https://www.youtube.com/watch?v=HD81pxjYk8s",
-      "thumbnail": "https://i.ytimg.com/vi/HD81pxjYk8s/mqdefault.jpg",
-      "published": "2026-06-13T13:00:02Z"
+      "title": "DIA D: o novo filmaço de SPIELBERG sobre EXTRATERRESTRES | Dica do Ticiano",
+      "videoId": "UwSM1o7hUBI",
+      "url": "https://www.youtube.com/watch?v=UwSM1o7hUBI",
+      "thumbnail": "https://i.ytimg.com/vi/UwSM1o7hUBI/mqdefault.jpg",
+      "published": "2026-06-13T14:55:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "GIRO PELA AMÉRICA DO NORTE, JOGO DO BRASIL AMANHÃ E TATIQUÊS COM LISCA | COPANDO TUDO | 12/06/2026",
-      "videoId": "hKeJyFbBpgM",
-      "url": "https://www.youtube.com/watch?v=hKeJyFbBpgM",
-      "thumbnail": "https://i.ytimg.com/vi/hKeJyFbBpgM/mqdefault.jpg",
-      "published": "2026-06-13T12:06:23Z"
+      "title": "Estreia do Brasil na Copa do Mundo, batalha musical e mais | SuperSábado | 13/06/2026",
+      "videoId": "wl-HwX-yzPM",
+      "url": "https://www.youtube.com/watch?v=wl-HwX-yzPM",
+      "thumbnail": "https://i.ytimg.com/vi/wl-HwX-yzPM/mqdefault_live.jpg",
+      "published": "2026-06-13T14:54:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +196,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "13/06/2026 | ESQUENTANDO JOGO | INTER X GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
+      "title": "13/06/2026 | JORNADA ESPORTIVA  | INTER 0 X 0 GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
       "videoId": "Zi0cupIfASs",
       "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
       "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
@@ -228,19 +212,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ARTHUR VAI FICAR? | CLUBE EUROPEU COBRA GRÊMIO POR DÍVIDA | FIM DE SEMANA DE CLÁSSICOSNA BASE",
+      "videoId": "cmC04HUwqbI",
+      "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
+      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
+      "published": "2026-06-13T14:06:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
       "videoId": "ujnBVGzEbQc",
       "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
       "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault.jpg",
       "published": "2026-06-13T13:33:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ARTHUR VAI FICAR? | CLUBE EUROPEU COBRA GRÊMIO POR DÍVIDA | FIM DE SEMANA DE CLÁSSICOSNA BASE",
-      "videoId": "cmC04HUwqbI",
-      "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
-      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
-      "published": "2026-06-13T13:02:51Z"
     }
   ]
 }
