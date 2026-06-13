@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:00:53.298275+00:00",
+  "updated_at": "2026-06-13T13:52:48.272083+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #04 - 13.06 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "jPTPNfG93nM",
+      "url": "https://www.youtube.com/watch?v=jPTPNfG93nM",
+      "thumbnail": "https://i.ytimg.com/vi/jPTPNfG93nM/mqdefault.jpg",
+      "published": "2026-06-13T13:17:34Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UMA AULA SOBRE… VIDA DE ATLETA com Rafael Sóbis | #36",
       "videoId": "w3eVwWr9-DE",
       "url": "https://www.youtube.com/watch?v=w3eVwWr9-DE",
       "thumbnail": "https://i.ytimg.com/vi/w3eVwWr9-DE/mqdefault.jpg",
       "published": "2026-06-13T13:00:00Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #04 - 13.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "jPTPNfG93nM",
-      "url": "https://www.youtube.com/watch?v=jPTPNfG93nM",
-      "thumbnail": "https://i.ytimg.com/vi/jPTPNfG93nM/mqdefault_live.jpg",
-      "published": "2026-06-13T11:58:41Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "13/06/2026 | ESQUENTANDO JOGO | INTER X GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
+      "videoId": "Zi0cupIfASs",
+      "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
+      "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
+      "published": "2026-06-13T13:36:40Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "12/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "LvskVvOWbj4",
       "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
@@ -219,28 +227,20 @@
       "published": "2026-06-12T23:31:38Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "13/06/2026 | ESQUENTANDO JOGO | INTER X GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
-      "videoId": "Zi0cupIfASs",
-      "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
-      "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
-      "published": "2026-06-12T23:08:15Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
+      "videoId": "ujnBVGzEbQc",
+      "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
+      "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault.jpg",
+      "published": "2026-06-13T13:33:29Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 13/06- GIULIANO",
-      "videoId": "R6hDxEEqv3A",
-      "url": "https://www.youtube.com/watch?v=R6hDxEEqv3A",
-      "thumbnail": "https://i.ytimg.com/vi/R6hDxEEqv3A/mqdefault.jpg",
-      "published": "2026-06-13T11:00:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #90 — AO VIVO DIRETO DA ARENA DO GRÊMIO | EXPOSIÇÃO DA COPA  NA GRÊMIOMANIA",
-      "videoId": "05RYM0dEhUg",
-      "url": "https://www.youtube.com/watch?v=05RYM0dEhUg",
-      "thumbnail": "https://i.ytimg.com/vi/05RYM0dEhUg/mqdefault.jpg",
-      "published": "2026-06-13T03:59:14Z"
+      "title": "ARTHUR VAI FICAR? | CLUBE EUROPEU COBRA GRÊMIO POR DÍVIDA | FIM DE SEMANA DE CLÁSSICOSNA BASE",
+      "videoId": "cmC04HUwqbI",
+      "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
+      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
+      "published": "2026-06-13T13:02:51Z"
     }
   ]
 }
