@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T23:14:20.934704+00:00",
+  "updated_at": "2026-06-13T00:00:52.479085+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨VAZOU NOME DE MEIA NA PAUTA | NOVIDADE SOBRE ARTHUR | DÍVIDA PREOCUPA | O GRÊMIO E A SELEÇÃO BR",
+      "videoId": "qeIA4OIANbc",
+      "url": "https://www.youtube.com/watch?v=qeIA4OIANbc",
+      "thumbnail": "https://i.ytimg.com/vi/qeIA4OIANbc/mqdefault.jpg",
+      "published": "2026-06-12T23:46:35Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨MEIA ESCOLHIDO E NEGÓCIO ABERTO | TEM JOGO AMISTOSO MARCADO | A PROJEÇÃO DO ANO DO GRÊMIO!",
       "videoId": "GIBZClMSguM",
       "url": "https://www.youtube.com/watch?v=GIBZClMSguM",
       "thumbnail": "https://i.ytimg.com/vi/GIBZClMSguM/mqdefault.jpg",
       "published": "2026-06-12T14:45:51Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨JOGADOR AVISA QUE VAI SAIR | REFORÇO ESCOLHIDO | OFERTA POR ATACANTE | GRÊMIO SE MOVIMENTA!",
-      "videoId": "GCk2fO2FNg0",
-      "url": "https://www.youtube.com/watch?v=GCk2fO2FNg0",
-      "thumbnail": "https://i.ytimg.com/vi/GCk2fO2FNg0/mqdefault.jpg",
-      "published": "2026-06-11T23:26:43Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "BOMBA: IMPEDIDO DE CONTRATAR? | SITUAÇÃO DO PATROCÍNIO NO GRÊMIO.",
+      "videoId": "dZ9Buo9ArA8",
+      "url": "https://www.youtube.com/watch?v=dZ9Buo9ArA8",
+      "thumbnail": "https://i.ytimg.com/vi/dZ9Buo9ArA8/mqdefault.jpg",
+      "published": "2026-06-12T23:26:26Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ARENA DO GRÊMIO FICOU VERDE! | E A ESTRELA NA BANDEIRA, TÁ CARECA DE SABER? #gremio #Futebol",
       "videoId": "V2O3ovII0VY",
       "url": "https://www.youtube.com/watch?v=V2O3ovII0VY",
       "thumbnail": "https://i.ytimg.com/vi/V2O3ovII0VY/mqdefault.jpg",
       "published": "2026-06-12T17:00:32Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ACIDENTE GRAVE COM JOGADOR DO GRÊMIO! #grêmio #futebol",
-      "videoId": "qc-pph8KmoA",
-      "url": "https://www.youtube.com/watch?v=qc-pph8KmoA",
-      "thumbnail": "https://i.ytimg.com/vi/qc-pph8KmoA/mqdefault.jpg",
-      "published": "2026-06-12T12:00:25Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "GIRO PELA AMÉRICA DO NORTE, JOGO DO BRASIL AMANHÃ E TATIQUÊS COM LISCA | COPANDO TUDO | 12/06/2026",
+      "videoId": "hKeJyFbBpgM",
+      "url": "https://www.youtube.com/watch?v=hKeJyFbBpgM",
+      "thumbnail": "https://i.ytimg.com/vi/hKeJyFbBpgM/mqdefault_live.jpg",
+      "published": "2026-06-12T23:31:28Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Flávio Leite canta e explica quais são as ÓPERAS mais famosas da história | Paralelas",
       "videoId": "ghOctGa2z-A",
       "url": "https://www.youtube.com/watch?v=ghOctGa2z-A",
       "thumbnail": "https://i.ytimg.com/vi/ghOctGa2z-A/mqdefault.jpg",
       "published": "2026-06-12T22:30:07Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "GIRO PELA AMÉRICA DO NORTE, JOGO DO BRASIL AMANHÃ E TATIQUÊS COM LISCA | COPANDO TUDO | 12/06/2026",
-      "videoId": "hKeJyFbBpgM",
-      "url": "https://www.youtube.com/watch?v=hKeJyFbBpgM",
-      "thumbnail": "https://i.ytimg.com/vi/hKeJyFbBpgM/mqdefault_live.jpg",
-      "published": "2026-06-12T21:57:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "12/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "LvskVvOWbj4",
+      "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
+      "thumbnail": "https://i.ytimg.com/vi/LvskVvOWbj4/mqdefault.jpg",
+      "published": "2026-06-12T23:31:38Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "12/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Zi0cupIfASs",
       "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
       "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
       "published": "2026-06-12T23:08:15Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "12/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "LvskVvOWbj4",
-      "url": "https://www.youtube.com/watch?v=LvskVvOWbj4",
-      "thumbnail": "https://i.ytimg.com/vi/LvskVvOWbj4/mqdefault_live.jpg",
-      "published": "2026-06-12T23:01:13Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
+      "videoId": "ujnBVGzEbQc",
+      "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
+      "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault_live.jpg",
+      "published": "2026-06-13T00:00:36Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
       "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
       "published": "2026-06-12T22:27:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "REPERCUSSÃO DE MAIS UM JOGO DE COPA! | TEM INFORMAÇÃO IMPORTANTE DE GRÊMIO | IMORTAL FC - 12/06",
-      "videoId": "Tlw7zOQydck",
-      "url": "https://www.youtube.com/watch?v=Tlw7zOQydck",
-      "thumbnail": "https://i.ytimg.com/vi/Tlw7zOQydck/mqdefault.jpg",
-      "published": "2026-06-12T22:08:18Z"
     }
   ]
 }
