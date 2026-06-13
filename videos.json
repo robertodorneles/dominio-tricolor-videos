@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T15:01:03.307827+00:00",
-  "total": 28,
+  "updated_at": "2026-06-13T15:41:08.015845+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨BOA NOTÍCIA: 150 MILHÕES | MAIS UM VAI EMBORA DO GRÊMIO | CRÍTICAS PRA JOVEM | ESTREIA DO BRASIL",
+      "title": "🚨TÁ FORA! MAIS UM VAI EMBORA | 150 MILHÕES PRO GRÊMIO | CRÍTICAS PRA JOVEM | A ESTREIA DO BRASIL!",
       "videoId": "YINd1YDLvmI",
       "url": "https://www.youtube.com/watch?v=YINd1YDLvmI",
       "thumbnail": "https://i.ytimg.com/vi/YINd1YDLvmI/mqdefault.jpg",
@@ -65,6 +65,22 @@
       "url": "https://www.youtube.com/watch?v=wrub8p7ednk",
       "thumbnail": "https://i.ytimg.com/vi/wrub8p7ednk/mqdefault.jpg",
       "published": "2026-06-12T22:35:54Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "VAMOOO FARIDO 12.06.26",
+      "videoId": "lOiZakX9a6o",
+      "url": "https://www.youtube.com/watch?v=lOiZakX9a6o",
+      "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault.jpg",
+      "published": "2026-06-13T10:33:06Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP03",
+      "videoId": "baOgxKjiHhg",
+      "url": "https://www.youtube.com/watch?v=baOgxKjiHhg",
+      "thumbnail": "https://i.ytimg.com/vi/baOgxKjiHhg/mqdefault.jpg",
+      "published": "2026-06-12T12:25:15Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "JOGADOR DE FUTEBOL É ATLETA? ENTENDA A DIFERENÇA | Uma Aula Sobre… Vida de Atleta",
-      "videoId": "QFy0mQEHEY0",
-      "url": "https://www.youtube.com/watch?v=QFy0mQEHEY0",
-      "thumbnail": "https://i.ytimg.com/vi/QFy0mQEHEY0/mqdefault.jpg",
-      "published": "2026-06-13T14:30:38Z"
+      "title": "AS DENÚNCIAS DA VIDA DE ATLETA DE ALTO RENDIMENTO | Uma Aula Sobre… Vida de Atleta",
+      "videoId": "PHiOfbP4nsM",
+      "url": "https://www.youtube.com/watch?v=PHiOfbP4nsM",
+      "thumbnail": "https://i.ytimg.com/vi/PHiOfbP4nsM/mqdefault.jpg",
+      "published": "2026-06-13T15:00:27Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "\"O BRASIL TEM MUITO MEDO DE PERDER\" #dudagarbi #rafaelbarleze #umaaulasobre",
-      "videoId": "y5e7top3rqI",
-      "url": "https://www.youtube.com/watch?v=y5e7top3rqI",
-      "thumbnail": "https://i.ytimg.com/vi/y5e7top3rqI/mqdefault.jpg",
-      "published": "2026-06-13T14:30:30Z"
+      "title": "É MUITO DIFÍCIL SER ATLETA PROFISSIONAL? #dudagarbi #rafaelbarleze #umaaulasobre",
+      "videoId": "hN-HauyS9Ms",
+      "url": "https://www.youtube.com/watch?v=hN-HauyS9Ms",
+      "thumbnail": "https://i.ytimg.com/vi/hN-HauyS9Ms/mqdefault.jpg",
+      "published": "2026-06-13T15:00:02Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -196,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "13/06/2026 | JORNADA ESPORTIVA  | INTER 0 X 0 GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
+      "title": "13/06/2026 | JORNADA ESPORTIVA  | INTER 1 X 1 GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
       "videoId": "Zi0cupIfASs",
       "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
       "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
