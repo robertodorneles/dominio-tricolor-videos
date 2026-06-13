@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:00:54.800104+00:00",
+  "updated_at": "2026-06-13T17:00:53.657904+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Carlinhos Carneiro descobriu que existe rock depois do álcool | Paralelas",
+      "videoId": "bDx1N-obW6M",
+      "url": "https://www.youtube.com/watch?v=bDx1N-obW6M",
+      "thumbnail": "https://i.ytimg.com/vi/bDx1N-obW6M/mqdefault.jpg",
+      "published": "2026-06-13T17:00:25Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Por que Thiago Lacerda se sente quase gaúcho | Paralelas",
       "videoId": "54fCQEpedmo",
       "url": "https://www.youtube.com/watch?v=54fCQEpedmo",
       "thumbnail": "https://i.ytimg.com/vi/54fCQEpedmo/mqdefault.jpg",
       "published": "2026-06-13T16:00:20Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "#ConteudoParaMarcas | DESIGN NO COTIDIANO",
-      "videoId": "fX2wSvOG9xc",
-      "url": "https://www.youtube.com/watch?v=fX2wSvOG9xc",
-      "thumbnail": "https://i.ytimg.com/vi/fX2wSvOG9xc/mqdefault.jpg",
-      "published": "2026-06-13T16:00:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "13/06/2026 | JORNADA ESPORTIVA  | INTER 1 X 1 GRÊMIO | GAUCHÃO SUB-17 | RÁDIO GRENAL",
+      "title": "13/06/2026 | SABADAÇO GRENAL | RÁDIO GRENAL",
       "videoId": "Zi0cupIfASs",
       "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
       "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "ARTHUR VAI FICAR? | CLUBE EUROPEU COBRA GRÊMIO POR DÍVIDA | FIM DE SEMANA DE CLÁSSICOSNA BASE",
       "videoId": "cmC04HUwqbI",
       "url": "https://www.youtube.com/watch?v=cmC04HUwqbI",
-      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault_live.jpg",
-      "published": "2026-06-13T14:06:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/cmC04HUwqbI/mqdefault.jpg",
+      "published": "2026-06-13T16:06:21Z"
     },
     {
       "channel": "Radio Imortal",
