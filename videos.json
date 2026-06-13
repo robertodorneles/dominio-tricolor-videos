@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T10:00:44.224063+00:00",
+  "updated_at": "2026-06-13T11:00:49.296123+00:00",
   "total": 30,
   "videos": [
     {
@@ -71,8 +71,8 @@
       "title": "VAMOOO FARIDO 12.06.26",
       "videoId": "lOiZakX9a6o",
       "url": "https://www.youtube.com/watch?v=lOiZakX9a6o",
-      "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault_live.jpg",
-      "published": "2026-06-12T22:06:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/lOiZakX9a6o/mqdefault.jpg",
+      "published": "2026-06-13T10:33:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "SuperSábado | 13/06/2026",
+      "videoId": "wl-HwX-yzPM",
+      "url": "https://www.youtube.com/watch?v=wl-HwX-yzPM",
+      "thumbnail": "https://i.ytimg.com/vi/wl-HwX-yzPM/mqdefault_live.jpg",
+      "published": "2026-06-13T10:57:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Pedido de namoro AINDA é importante?",
       "videoId": "QM3zlo5cz6I",
       "url": "https://www.youtube.com/watch?v=QM3zlo5cz6I",
       "thumbnail": "https://i.ytimg.com/vi/QM3zlo5cz6I/mqdefault.jpg",
       "published": "2026-06-13T10:00:00Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "GIRO PELA AMÉRICA DO NORTE, JOGO DO BRASIL AMANHÃ E TATIQUÊS COM LISCA | COPANDO TUDO | 12/06/2026",
-      "videoId": "hKeJyFbBpgM",
-      "url": "https://www.youtube.com/watch?v=hKeJyFbBpgM",
-      "thumbnail": "https://i.ytimg.com/vi/hKeJyFbBpgM/mqdefault_live.jpg",
-      "published": "2026-06-12T23:31:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 13/06- GIULIANO",
+      "videoId": "R6hDxEEqv3A",
+      "url": "https://www.youtube.com/watch?v=R6hDxEEqv3A",
+      "thumbnail": "https://i.ytimg.com/vi/R6hDxEEqv3A/mqdefault.jpg",
+      "published": "2026-06-13T11:00:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #90 — AO VIVO DIRETO DA ARENA DO GRÊMIO | EXPOSIÇÃO DA COPA  NA GRÊMIOMANIA",
       "videoId": "05RYM0dEhUg",
       "url": "https://www.youtube.com/watch?v=05RYM0dEhUg",
       "thumbnail": "https://i.ytimg.com/vi/05RYM0dEhUg/mqdefault.jpg",
       "published": "2026-06-13T03:59:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ACIONADO POR DÍVIDA? | TORNEIO CANCELADO | DECISÃO NO SUB-17 | NOITES DE GRÊMIO #90 - 12/06",
-      "videoId": "ujnBVGzEbQc",
-      "url": "https://www.youtube.com/watch?v=ujnBVGzEbQc",
-      "thumbnail": "https://i.ytimg.com/vi/ujnBVGzEbQc/mqdefault_live.jpg",
-      "published": "2026-06-13T00:59:49Z"
     }
   ]
 }
