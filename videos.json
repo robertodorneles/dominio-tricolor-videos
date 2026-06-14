@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T11:27:55.275822+00:00",
-  "total": 29,
+  "updated_at": "2026-06-14T12:00:48.250141+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #05 - 14.06 - PÓS BRASIL X MARROCOS - PERRONE, DUDA GARBI e LISCA",
+      "videoId": "8J53QarVGlc",
+      "url": "https://www.youtube.com/watch?v=8J53QarVGlc",
+      "thumbnail": "https://i.ytimg.com/vi/8J53QarVGlc/mqdefault_live.jpg",
+      "published": "2026-06-14T11:56:23Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "A lealdade que o Felipão nunca tinha visto em ninguém  #dudagarbi  #bolabolacomfalcao #falcao",
       "videoId": "bvfkDkYixbY",
       "url": "https://www.youtube.com/watch?v=bvfkDkYixbY",
       "thumbnail": "https://i.ytimg.com/vi/bvfkDkYixbY/mqdefault.jpg",
       "published": "2026-06-13T21:00:11Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "AS DENÚNCIAS DA VIDA DE ATLETA DE ALTO RENDIMENTO | Uma Aula Sobre… Vida de Atleta",
-      "videoId": "PHiOfbP4nsM",
-      "url": "https://www.youtube.com/watch?v=PHiOfbP4nsM",
-      "thumbnail": "https://i.ytimg.com/vi/PHiOfbP4nsM/mqdefault.jpg",
-      "published": "2026-06-13T15:00:27Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -209,6 +209,14 @@
       "url": "https://www.youtube.com/watch?v=qNEjlDsWqt4",
       "thumbnail": "https://i.ytimg.com/vi/qNEjlDsWqt4/mqdefault.jpg",
       "published": "2026-06-12T21:35:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "14/06/2026 | JORNADA ESPORTIVA GRÊMIO X INTER SUB-20 | RÁDIO GRENAL",
+      "videoId": "E6f3kq_fBNQ",
+      "url": "https://www.youtube.com/watch?v=E6f3kq_fBNQ",
+      "thumbnail": "https://i.ytimg.com/vi/E6f3kq_fBNQ/mqdefault_live.jpg",
+      "published": "2026-06-14T11:41:43Z"
     },
     {
       "channel": "Radio Grenal",
