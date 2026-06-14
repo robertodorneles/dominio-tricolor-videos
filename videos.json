@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T13:00:50.961579+00:00",
+  "updated_at": "2026-06-14T13:55:09.593769+00:00",
   "total": 30,
   "videos": [
     {
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO - #05 - 14.06 - PÓS BRASIL X MARROCOS - PERRONE, DUDA GARBI e LISCA",
       "videoId": "8J53QarVGlc",
       "url": "https://www.youtube.com/watch?v=8J53QarVGlc",
-      "thumbnail": "https://i.ytimg.com/vi/8J53QarVGlc/mqdefault_live.jpg",
-      "published": "2026-06-14T11:56:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/8J53QarVGlc/mqdefault.jpg",
+      "published": "2026-06-14T13:13:44Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-20 2026)",
+      "videoId": "RISMvlL1nSo",
+      "url": "https://www.youtube.com/watch?v=RISMvlL1nSo",
+      "thumbnail": "https://i.ytimg.com/vi/RISMvlL1nSo/mqdefault_live.jpg",
+      "published": "2026-06-14T13:50:06Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "Abertura da exposição Presença Imortal na GrêmioMania Megastore",
       "videoId": "5qLPrzW7A98",
       "url": "https://www.youtube.com/watch?v=5qLPrzW7A98",
       "thumbnail": "https://i.ytimg.com/vi/5qLPrzW7A98/mqdefault.jpg",
       "published": "2026-06-12T20:50:37Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FLUMINENSE (CAMPEONATO BRASILEIRO SUB-20 2026)",
-      "videoId": "bcAsYzmpL7o",
-      "url": "https://www.youtube.com/watch?v=bcAsYzmpL7o",
-      "thumbnail": "https://i.ytimg.com/vi/bcAsYzmpL7o/mqdefault.jpg",
-      "published": "2026-06-10T20:03:31Z"
     },
     {
       "channel": "GZH Digital",
@@ -216,7 +216,7 @@
       "videoId": "E6f3kq_fBNQ",
       "url": "https://www.youtube.com/watch?v=E6f3kq_fBNQ",
       "thumbnail": "https://i.ytimg.com/vi/E6f3kq_fBNQ/mqdefault_live.jpg",
-      "published": "2026-06-14T11:41:43Z"
+      "published": "2026-06-14T13:36:19Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "SEMANA DE REAPRESENTAÇÃO NO GRÊMIO! | GRENAL SUB-20 LOGO MAIS | ATUALIZAÇÃO DO NEGÓCIO POR ARTHUR",
+      "videoId": "6nI6l3OzfR4",
+      "url": "https://www.youtube.com/watch?v=6nI6l3OzfR4",
+      "thumbnail": "https://i.ytimg.com/vi/6nI6l3OzfR4/mqdefault_live.jpg",
+      "published": "2026-06-14T13:01:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 14/06 - GRÊMIO 3X0 INTER (GAUCHÃO 1987)",
       "videoId": "pwjv9CpZ4JU",
       "url": "https://www.youtube.com/watch?v=pwjv9CpZ4JU",
       "thumbnail": "https://i.ytimg.com/vi/pwjv9CpZ4JU/mqdefault.jpg",
       "published": "2026-06-14T11:00:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEMANA DE REAPRESENTAÇÃO NO GRÊMIO! | GRENAL SUB-20 LOGO MAIS | ATUALIZAÇÃO DO NEGÓCIO POR ARTHUR",
-      "videoId": "6nI6l3OzfR4",
-      "url": "https://www.youtube.com/watch?v=6nI6l3OzfR4",
-      "thumbnail": "https://i.ytimg.com/vi/6nI6l3OzfR4/mqdefault_live.jpg",
-      "published": "2026-06-13T23:01:38Z"
     }
   ]
 }
