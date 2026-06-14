@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T18:00:49.113466+00:00",
-  "total": 29,
+  "updated_at": "2026-06-14T19:00:47.174462+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi ESTREiA AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #001",
+      "videoId": "dbSSP_XxXpc",
+      "url": "https://www.youtube.com/watch?v=dbSSP_XxXpc",
+      "thumbnail": "https://i.ytimg.com/vi/dbSSP_XxXpc/mqdefault_live.jpg",
+      "published": "2026-06-14T18:40:33Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "JOGADORES VOLTANDO NO GRÊMIO E NO INTER! / AMANHÃ TEM BRASIL!🔸RESENHA FORA DA SALA🔸#065",
       "videoId": "1x33m9JPPfg",
       "url": "https://www.youtube.com/watch?v=1x33m9JPPfg",
       "thumbnail": "https://i.ytimg.com/vi/1x33m9JPPfg/mqdefault.jpg",
       "published": "2026-06-12T20:22:47Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🚨 CLUBE AMEAÇA ACIONAR O GRÊMIO NA FIFA🔹 THE TARDE 🔹#170",
-      "videoId": "LEZH_MENgFg",
-      "url": "https://www.youtube.com/watch?v=LEZH_MENgFg",
-      "thumbnail": "https://i.ytimg.com/vi/LEZH_MENgFg/mqdefault.jpg",
-      "published": "2026-06-12T20:14:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "JOÃO PEDRO E MONSALVE NO GRÊMIO #gremio #Futebol",
+      "videoId": "AoE1GhwDY2I",
+      "url": "https://www.youtube.com/watch?v=AoE1GhwDY2I",
+      "thumbnail": "https://i.ytimg.com/vi/AoE1GhwDY2I/mqdefault.jpg",
+      "published": "2026-06-14T18:30:28Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRINGO É GRÊMIO? #gremio #futebol  #copa",
       "videoId": "BP4Af8b60UE",
       "url": "https://www.youtube.com/watch?v=BP4Af8b60UE",
       "thumbnail": "https://i.ytimg.com/vi/BP4Af8b60UE/mqdefault.jpg",
       "published": "2026-06-14T14:50:15Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "SAI OU FICA? A INFORMAÇÃO DELES | URGENTE: A META PRA PAGAR CONTAS NO GRÊMIO.",
-      "videoId": "8mbH9Of2mWc",
-      "url": "https://www.youtube.com/watch?v=8mbH9Of2mWc",
-      "thumbnail": "https://i.ytimg.com/vi/8mbH9Of2mWc/mqdefault.jpg",
-      "published": "2026-06-13T17:14:58Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O dia em que três amigos surfaram no Arroio Dilúvio | Perimetral Podcast",
+      "videoId": "TL8db3DhIwM",
+      "url": "https://www.youtube.com/watch?v=TL8db3DhIwM",
+      "thumbnail": "https://i.ytimg.com/vi/TL8db3DhIwM/mqdefault.jpg",
+      "published": "2026-06-14T19:00:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "\"Bah, Armandinho é o terror, né, meu\": quem é o guri por trás do áudio | Perimetral Podcast",
       "videoId": "4X2_LI5kHxc",
       "url": "https://www.youtube.com/watch?v=4X2_LI5kHxc",
       "thumbnail": "https://i.ytimg.com/vi/4X2_LI5kHxc/mqdefault.jpg",
       "published": "2026-06-14T18:00:25Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "\"Que delícia de dia”  o tombo na chuva que virou meme | Perimetral Podcast",
-      "videoId": "yAEomj8w8gg",
-      "url": "https://www.youtube.com/watch?v=yAEomj8w8gg",
-      "thumbnail": "https://i.ytimg.com/vi/yAEomj8w8gg/mqdefault.jpg",
-      "published": "2026-06-14T17:00:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -209,6 +209,14 @@
       "url": "https://www.youtube.com/watch?v=qNEjlDsWqt4",
       "thumbnail": "https://i.ytimg.com/vi/qNEjlDsWqt4/mqdefault.jpg",
       "published": "2026-06-12T21:35:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "ESCAPOU DE PERDER?! 🇧🇷",
+      "videoId": "Pk0YqM-9xUc",
+      "url": "https://www.youtube.com/watch?v=Pk0YqM-9xUc",
+      "thumbnail": "https://i.ytimg.com/vi/Pk0YqM-9xUc/mqdefault.jpg",
+      "published": "2026-06-14T19:00:27Z"
     },
     {
       "channel": "Radio Grenal",
