@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T23:00:51.433249+00:00",
+  "updated_at": "2026-06-14T23:05:40.154176+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - AS ÚLTIMAS DO GRÊMIO | EMPATE DA SELEÇÃO",
+      "videoId": "PsJUPWnawak",
+      "url": "https://www.youtube.com/watch?v=PsJUPWnawak",
+      "thumbnail": "https://i.ytimg.com/vi/PsJUPWnawak/mqdefault_live.jpg",
+      "published": "2026-06-14T23:02:38Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O plano do Grêmio para sobreviver ao buraco financeiro do futebol brasileiro",
       "videoId": "Q0Gio72Lego",
       "url": "https://www.youtube.com/watch?v=Q0Gio72Lego",
       "thumbnail": "https://i.ytimg.com/vi/Q0Gio72Lego/mqdefault.jpg",
       "published": "2026-06-14T14:10:59Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Os bastidores da invasão da torcida do Grêmio nos Estados Unidos",
-      "videoId": "0wjuGxvcuNc",
-      "url": "https://www.youtube.com/watch?v=0wjuGxvcuNc",
-      "thumbnail": "https://i.ytimg.com/vi/0wjuGxvcuNc/mqdefault.jpg",
-      "published": "2026-06-13T14:35:24Z"
     },
     {
       "channel": "Canal do Farid",
