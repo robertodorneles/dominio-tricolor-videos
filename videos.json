@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T16:00:52.597790+00:00",
-  "total": 30,
+  "updated_at": "2026-06-14T17:00:56.233629+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS PERTO? NOVIDADE SOBRE ARTHUR | JOVEM VIROU INCÓGNITA NO GRÊMIO | O TIME DO BRASIL VAI MUDAR!",
+      "title": "🚨MAIS PERTO? NOVO CAPÍTULO SOBRE ARTHUR E O GRÊMIO | O MEIA ESQUECIDO | O TIME DO BRASIL VAI MUDAR!",
       "videoId": "vZv8cv7te00",
       "url": "https://www.youtube.com/watch?v=vZv8cv7te00",
       "thumbnail": "https://i.ytimg.com/vi/vZv8cv7te00/mqdefault.jpg",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - AS ÚLTIMAS DO GRÊMIO E A ESTREIA DA SELEÇÃO COM EMPATE",
+      "videoId": "KHTP5IOzQ_s",
+      "url": "https://www.youtube.com/watch?v=KHTP5IOzQ_s",
+      "thumbnail": "https://i.ytimg.com/vi/KHTP5IOzQ_s/mqdefault_live.jpg",
+      "published": "2026-06-14T16:46:01Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O plano do Grêmio para sobreviver ao buraco financeiro do futebol brasileiro",
       "videoId": "Q0Gio72Lego",
       "url": "https://www.youtube.com/watch?v=Q0Gio72Lego",
       "thumbnail": "https://i.ytimg.com/vi/Q0Gio72Lego/mqdefault.jpg",
       "published": "2026-06-14T14:10:59Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Os bastidores da invasão da torcida do Grêmio nos Estados Unidos",
-      "videoId": "0wjuGxvcuNc",
-      "url": "https://www.youtube.com/watch?v=0wjuGxvcuNc",
-      "thumbnail": "https://i.ytimg.com/vi/0wjuGxvcuNc/mqdefault.jpg",
-      "published": "2026-06-13T14:35:24Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "DIFERENÇA ENTRE JOGADOR E ATLETA #dudagarbi #rafaelbarleze #umaaulasobre",
+      "videoId": "bwtDzJ6Y2H0",
+      "url": "https://www.youtube.com/watch?v=bwtDzJ6Y2H0",
+      "thumbnail": "https://i.ytimg.com/vi/bwtDzJ6Y2H0/mqdefault.jpg",
+      "published": "2026-06-14T17:00:17Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "\"ABANDONEI A SELEÇÃO BRASILEIRA\"  #dudagarbi #rafaelbarleze #umaaulasobre",
       "videoId": "pbsmegljAGM",
       "url": "https://www.youtube.com/watch?v=pbsmegljAGM",
@@ -139,20 +147,12 @@
       "published": "2026-06-14T15:00:15Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "QUAL DEVE SER A POSTURA DE UM JOGADOR PROFISSIONAL DE FUTEBOL? | Uma Aula Sobre… Vida de Atleta",
-      "videoId": "Fqc4fKTXd34",
-      "url": "https://www.youtube.com/watch?v=Fqc4fKTXd34",
-      "thumbnail": "https://i.ytimg.com/vi/Fqc4fKTXd34/mqdefault.jpg",
-      "published": "2026-06-14T15:00:03Z"
-    },
-    {
       "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-20 2026)",
       "videoId": "RISMvlL1nSo",
       "url": "https://www.youtube.com/watch?v=RISMvlL1nSo",
-      "thumbnail": "https://i.ytimg.com/vi/RISMvlL1nSo/mqdefault_live.jpg",
-      "published": "2026-06-14T13:50:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/RISMvlL1nSo/mqdefault.jpg",
+      "published": "2026-06-14T16:09:31Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "\"Que delícia de dia”  o tombo na chuva que virou meme | Perimetral Podcast",
+      "videoId": "yAEomj8w8gg",
+      "url": "https://www.youtube.com/watch?v=yAEomj8w8gg",
+      "thumbnail": "https://i.ytimg.com/vi/yAEomj8w8gg/mqdefault.jpg",
+      "published": "2026-06-14T17:00:36Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Como um inusitado leão virou monumento em Porto Alegre | Perimetral Podcast",
       "videoId": "1HiG2_-Jm5I",
       "url": "https://www.youtube.com/watch?v=1HiG2_-Jm5I",
       "thumbnail": "https://i.ytimg.com/vi/1HiG2_-Jm5I/mqdefault.jpg",
       "published": "2026-06-14T16:00:20Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Detetive Aline: quem é e o que faz a mulher do cartaz | Perimetral Podcast",
-      "videoId": "b-P0XgGoCSI",
-      "url": "https://www.youtube.com/watch?v=b-P0XgGoCSI",
-      "thumbnail": "https://i.ytimg.com/vi/b-P0XgGoCSI/mqdefault.jpg",
-      "published": "2026-06-14T15:45:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "14/06/2026 | JORNADA ESPORTIVA | GRÊMIO 0 X 1 INTER SUB-20 | RÁDIO GRENAL",
+      "title": "14/06/2026 | DOMINGÂO GRENAL | RÁDIO GRENAL",
       "videoId": "E6f3kq_fBNQ",
       "url": "https://www.youtube.com/watch?v=E6f3kq_fBNQ",
       "thumbnail": "https://i.ytimg.com/vi/E6f3kq_fBNQ/mqdefault_live.jpg",
       "published": "2026-06-14T13:36:19Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "13/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Zi0cupIfASs",
-      "url": "https://www.youtube.com/watch?v=Zi0cupIfASs",
-      "thumbnail": "https://i.ytimg.com/vi/Zi0cupIfASs/mqdefault.jpg",
-      "published": "2026-06-13T19:18:41Z"
     },
     {
       "channel": "Radio Imortal",
