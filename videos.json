@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T17:00:51.204282+00:00",
+  "updated_at": "2026-06-15T18:03:55.049072+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "REACT ARÁBIA SAUDITA X URUGUAI 🔵 AO VIVO 🔵 JORNADA DO BAGÉ ESPECIAL COPA🔵",
+      "videoId": "FK9A1113-Sc",
+      "url": "https://www.youtube.com/watch?v=FK9A1113-Sc",
+      "thumbnail": "https://i.ytimg.com/vi/FK9A1113-Sc/mqdefault_live.jpg",
+      "published": "2026-06-15T17:10:27Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ARTHUR VALE TUDO ISSO?  /NOVO CT COLORADO🔸RESENHA FORA DA SALA🔸#066",
       "videoId": "VUv1IXRkakA",
       "url": "https://www.youtube.com/watch?v=VUv1IXRkakA",
       "thumbnail": "https://i.ytimg.com/vi/VUv1IXRkakA/mqdefault_live.jpg",
       "published": "2026-06-15T16:30:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi ESTREiA AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #001",
-      "videoId": "dbSSP_XxXpc",
-      "url": "https://www.youtube.com/watch?v=dbSSP_XxXpc",
-      "thumbnail": "https://i.ytimg.com/vi/dbSSP_XxXpc/mqdefault.jpg",
-      "published": "2026-06-15T15:03:42Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Ataque russo mata 11 na Ucrânia e provoca incêndio em catedral de Kiev | Zero Hora",
-      "videoId": "gm4W90cxq5Y",
-      "url": "https://www.youtube.com/watch?v=gm4W90cxq5Y",
-      "thumbnail": "https://i.ytimg.com/vi/gm4W90cxq5Y/mqdefault.jpg",
-      "published": "2026-06-15T16:17:54Z"
+      "title": "O CRIME DA MALA | Partes de um corpo surgem em Porto Alegre e intrigam a polícia #01",
+      "videoId": "RAhoGhzyhpQ",
+      "url": "https://www.youtube.com/watch?v=RAhoGhzyhpQ",
+      "thumbnail": "https://i.ytimg.com/vi/RAhoGhzyhpQ/mqdefault.jpg",
+      "published": "2026-06-15T18:00:08Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Agricultura Familiar e Vinhos Finos: Histórias da Serra Gaúcha | No Caminho do Agro #02",
-      "videoId": "goiJ0KYqPpE",
-      "url": "https://www.youtube.com/watch?v=goiJ0KYqPpE",
-      "thumbnail": "https://i.ytimg.com/vi/goiJ0KYqPpE/mqdefault.jpg",
-      "published": "2026-06-15T15:00:06Z"
+      "title": "Trump afirma que navios 'começam a sair' do Estreito de Ormuz | Zero Hora",
+      "videoId": "7iduNhWE4yM",
+      "url": "https://www.youtube.com/watch?v=7iduNhWE4yM",
+      "thumbnail": "https://i.ytimg.com/vi/7iduNhWE4yM/mqdefault.jpg",
+      "published": "2026-06-15T17:39:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "15/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "15/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "2DPv7eym7bM",
       "url": "https://www.youtube.com/watch?v=2DPv7eym7bM",
       "thumbnail": "https://i.ytimg.com/vi/2DPv7eym7bM/mqdefault_live.jpg",
       "published": "2026-06-15T11:01:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 15/06",
+      "videoId": "RLLeNk2oblw",
+      "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
+      "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault_live.jpg",
+      "published": "2026-06-15T17:00:42Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=OaNEI78La8A",
       "thumbnail": "https://i.ytimg.com/vi/OaNEI78La8A/mqdefault.jpg",
       "published": "2026-06-15T15:20:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VOLTA AOS TREINOS NESTA SEMANA! | ARTHUR ESTARÁ PRESENTE? | TÍTULO E DERROTA NA BASE",
-      "videoId": "oFVi0diKbso",
-      "url": "https://www.youtube.com/watch?v=oFVi0diKbso",
-      "thumbnail": "https://i.ytimg.com/vi/oFVi0diKbso/mqdefault.jpg",
-      "published": "2026-06-15T13:12:35Z"
     }
   ]
 }
