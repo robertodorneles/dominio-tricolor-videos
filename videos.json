@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T22:00:54.502334+00:00",
+  "updated_at": "2026-06-15T22:16:20.739832+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "F8BZ4Uab9mU",
       "url": "https://www.youtube.com/watch?v=F8BZ4Uab9mU",
       "thumbnail": "https://i.ytimg.com/vi/F8BZ4Uab9mU/mqdefault_live.jpg",
-      "published": "2026-06-15T20:49:26Z"
+      "published": "2026-06-15T22:05:30Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Conversas Cruzadas | 16/06/2026",
+      "videoId": "qSmkUc52-2I",
+      "url": "https://www.youtube.com/watch?v=qSmkUc52-2I",
+      "thumbnail": "https://i.ytimg.com/vi/qSmkUc52-2I/mqdefault_live.jpg",
+      "published": "2026-06-15T22:01:53Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CLIMA URUGUAIO, A EMOÇÃO DE CURAÇAU E A TENSÃO DA SELEÇÃO DO IRÃ | COPANDO TUDO | 15/06/2026",
       "videoId": "cLVRau4oWDE",
       "url": "https://www.youtube.com/watch?v=cLVRau4oWDE",
       "thumbnail": "https://i.ytimg.com/vi/cLVRau4oWDE/mqdefault_live.jpg",
       "published": "2026-06-15T22:00:46Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Especialista analisa o impacto do ESCÂNDALO MASTER na disputa presidencial | Conversas Cruzadas",
-      "videoId": "PWmJg9IBwGI",
-      "url": "https://www.youtube.com/watch?v=PWmJg9IBwGI",
-      "thumbnail": "https://i.ytimg.com/vi/PWmJg9IBwGI/mqdefault.jpg",
-      "published": "2026-06-15T21:18:00Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "A REPERCUSSÃO DOS JOGOS DA COPA | ÚLTIMAS INFORMAÇÕES DO GRÊMIO | IMORTAL FC — 15/06",
       "videoId": "RLLeNk2oblw",
       "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
-      "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault_live.jpg",
-      "published": "2026-06-15T21:59:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault.jpg",
+      "published": "2026-06-15T22:15:57Z"
     },
     {
       "channel": "Radio Imortal",
