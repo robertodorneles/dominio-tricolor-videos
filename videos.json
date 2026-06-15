@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:00:50.229197+00:00",
+  "updated_at": "2026-06-15T11:00:48.369708+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 15/06/2026",
+      "videoId": "yUKY8INvRbY",
+      "url": "https://www.youtube.com/watch?v=yUKY8INvRbY",
+      "thumbnail": "https://i.ytimg.com/vi/yUKY8INvRbY/mqdefault_live.jpg",
+      "published": "2026-06-15T10:58:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Por que uma torre de igreja está submersa em SC?",
       "videoId": "kjT503zQ_eo",
       "url": "https://www.youtube.com/watch?v=kjT503zQ_eo",
       "thumbnail": "https://i.ytimg.com/vi/kjT503zQ_eo/mqdefault.jpg",
       "published": "2026-06-14T21:00:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Maior risco de INFARTO no FRIO ? ❄️",
-      "videoId": "wp-78v32rbo",
-      "url": "https://www.youtube.com/watch?v=wp-78v32rbo",
-      "thumbnail": "https://i.ytimg.com/vi/wp-78v32rbo/mqdefault.jpg",
-      "published": "2026-06-14T20:00:11Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 15/06",
-      "videoId": "4BEAtvgdVos",
-      "url": "https://www.youtube.com/watch?v=4BEAtvgdVos",
-      "thumbnail": "https://i.ytimg.com/vi/4BEAtvgdVos/mqdefault_live.jpg",
-      "published": "2026-06-15T03:45:13Z"
+      "title": "GRÊMIO VOLTA AOS TREINOS NESTA SEMANA! | ARTHUR ESTARÁ PRESENTE? | TÍTULO E DERROTA NA BASE",
+      "videoId": "oFVi0diKbso",
+      "url": "https://www.youtube.com/watch?v=oFVi0diKbso",
+      "thumbnail": "https://i.ytimg.com/vi/oFVi0diKbso/mqdefault_live.jpg",
+      "published": "2026-06-15T11:00:16Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #91 — A PROPOSTA DO GRÊMIO PARA A RENOVAÇÃO DE ARTHUR",
-      "videoId": "OaNEI78La8A",
-      "url": "https://www.youtube.com/watch?v=OaNEI78La8A",
-      "thumbnail": "https://i.ytimg.com/vi/OaNEI78La8A/mqdefault_live.jpg",
-      "published": "2026-06-15T03:44:00Z"
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 15/06- PAULO SANT'ANA",
+      "videoId": "saIFSCEzi3E",
+      "url": "https://www.youtube.com/watch?v=saIFSCEzi3E",
+      "thumbnail": "https://i.ytimg.com/vi/saIFSCEzi3E/mqdefault.jpg",
+      "published": "2026-06-15T11:00:03Z"
     }
   ]
 }
