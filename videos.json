@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T21:00:59.007421+00:00",
+  "updated_at": "2026-06-15T22:00:54.502334+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "URUGUAI X ARÁBIA SAUDITA - AO VIVO - JORNADA DO BAGÉ ESPECIAL COPA",
+      "videoId": "FK9A1113-Sc",
+      "url": "https://www.youtube.com/watch?v=FK9A1113-Sc",
+      "thumbnail": "https://i.ytimg.com/vi/FK9A1113-Sc/mqdefault_live.jpg",
+      "published": "2026-06-15T21:01:35Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ARTHUR VALE TUDO ISSO?  /NOVO CT COLORADO🔸RESENHA FORA DA SALA🔸#066",
       "videoId": "VUv1IXRkakA",
       "url": "https://www.youtube.com/watch?v=VUv1IXRkakA",
       "thumbnail": "https://i.ytimg.com/vi/VUv1IXRkakA/mqdefault.jpg",
       "published": "2026-06-15T18:41:50Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "REACT ARÁBIA SAUDITA X URUGUAI 🔵 AO VIVO 🔵 JORNADA DO BAGÉ ESPECIAL COPA🔵",
-      "videoId": "FK9A1113-Sc",
-      "url": "https://www.youtube.com/watch?v=FK9A1113-Sc",
-      "thumbnail": "https://i.ytimg.com/vi/FK9A1113-Sc/mqdefault_live.jpg",
-      "published": "2026-06-15T17:10:27Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista: o que é direita e esquerda no Brasil atual? | Conversas Cruzadas | 15/06/2026",
-      "videoId": "SHlwZW6TXbY",
-      "url": "https://www.youtube.com/watch?v=SHlwZW6TXbY",
-      "thumbnail": "https://i.ytimg.com/vi/SHlwZW6TXbY/mqdefault_live.jpg",
-      "published": "2026-06-15T20:02:01Z"
+      "title": "CLIMA URUGUAIO, A EMOÇÃO DE CURAÇAU E A TENSÃO DA SELEÇÃO DO IRÃ | COPANDO TUDO | 15/06/2026",
+      "videoId": "cLVRau4oWDE",
+      "url": "https://www.youtube.com/watch?v=cLVRau4oWDE",
+      "thumbnail": "https://i.ytimg.com/vi/cLVRau4oWDE/mqdefault_live.jpg",
+      "published": "2026-06-15T22:00:46Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Oliver Tree morre aos 32 anos em acidente entre helicópteros no Rio de Janeiro",
-      "videoId": "WjbkQkf2sLA",
-      "url": "https://www.youtube.com/watch?v=WjbkQkf2sLA",
-      "thumbnail": "https://i.ytimg.com/vi/WjbkQkf2sLA/mqdefault.jpg",
-      "published": "2026-06-15T18:15:32Z"
+      "title": "Especialista analisa o impacto do ESCÂNDALO MASTER na disputa presidencial | Conversas Cruzadas",
+      "videoId": "PWmJg9IBwGI",
+      "url": "https://www.youtube.com/watch?v=PWmJg9IBwGI",
+      "thumbnail": "https://i.ytimg.com/vi/PWmJg9IBwGI/mqdefault.jpg",
+      "published": "2026-06-15T21:18:00Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "15/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "2DPv7eym7bM",
+      "url": "https://www.youtube.com/watch?v=2DPv7eym7bM",
+      "thumbnail": "https://i.ytimg.com/vi/2DPv7eym7bM/mqdefault.jpg",
+      "published": "2026-06-15T21:27:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "15/06/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "dxFYYo0wjvs",
       "url": "https://www.youtube.com/watch?v=dxFYYo0wjvs",
       "thumbnail": "https://i.ytimg.com/vi/dxFYYo0wjvs/mqdefault_live.jpg",
-      "published": "2026-06-15T20:59:51Z"
+      "published": "2026-06-15T21:01:09Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "15/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "2DPv7eym7bM",
-      "url": "https://www.youtube.com/watch?v=2DPv7eym7bM",
-      "thumbnail": "https://i.ytimg.com/vi/2DPv7eym7bM/mqdefault_live.jpg",
-      "published": "2026-06-15T20:59:38Z"
+      "channel": "Radio Imortal",
+      "title": "A REPERCUSSÃO DOS JOGOS DA COPA | ÚLTIMAS INFORMAÇÕES DO GRÊMIO | IMORTAL FC — 15/06",
+      "videoId": "RLLeNk2oblw",
+      "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
+      "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault_live.jpg",
+      "published": "2026-06-15T21:59:55Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
       "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault_live.jpg",
       "published": "2026-06-15T19:47:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É HORA DE ATUALIZAR AS COISAS DO GRÊMIO! | VOLTA AOS TREINOS NESTA SEMANA | PROPOSTA POR ARTHUR",
-      "videoId": "4BEAtvgdVos",
-      "url": "https://www.youtube.com/watch?v=4BEAtvgdVos",
-      "thumbnail": "https://i.ytimg.com/vi/4BEAtvgdVos/mqdefault.jpg",
-      "published": "2026-06-15T19:14:55Z"
     }
   ]
 }
