@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T20:00:56.000869+00:00",
+  "updated_at": "2026-06-15T21:00:59.007421+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #610: Retorno | Situação de Arthur | Dívida | Patrocínio e mais",
+      "videoId": "ubiT3G3oaIQ",
+      "url": "https://www.youtube.com/watch?v=ubiT3G3oaIQ",
+      "thumbnail": "https://i.ytimg.com/vi/ubiT3G3oaIQ/mqdefault.jpg",
+      "published": "2026-06-15T20:58:17Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - REFORÇOS, SAÍDAS, REAPRESENTAÇÃO E MAIS",
       "videoId": "hIfMjmA5GlM",
       "url": "https://www.youtube.com/watch?v=hIfMjmA5GlM",
@@ -59,20 +67,12 @@
       "published": "2026-06-15T16:59:18Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "As movimentações do Grêmio no mercado e um alerta ligado ⚠️",
-      "videoId": "67SqEd_bxnQ",
-      "url": "https://www.youtube.com/watch?v=67SqEd_bxnQ",
-      "thumbnail": "https://i.ytimg.com/vi/67SqEd_bxnQ/mqdefault.jpg",
-      "published": "2026-06-15T15:24:17Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "CRISE FINANCEIRA FORA DE CONTROLE? - VAMOOO FARIDO 15.06.26",
       "videoId": "F8BZ4Uab9mU",
       "url": "https://www.youtube.com/watch?v=F8BZ4Uab9mU",
       "thumbnail": "https://i.ytimg.com/vi/F8BZ4Uab9mU/mqdefault_live.jpg",
-      "published": "2026-06-15T14:08:45Z"
+      "published": "2026-06-15T20:49:26Z"
     },
     {
       "channel": "Canal do Farid",
@@ -168,7 +168,7 @@
       "videoId": "SHlwZW6TXbY",
       "url": "https://www.youtube.com/watch?v=SHlwZW6TXbY",
       "thumbnail": "https://i.ytimg.com/vi/SHlwZW6TXbY/mqdefault_live.jpg",
-      "published": "2026-06-15T19:00:10Z"
+      "published": "2026-06-15T20:02:01Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "QUEM É O REI DA LATERAL-ESQUERDA? | CORTES RÁDIO GRENAL | 15/06/2026",
-      "videoId": "pid-YxopG8I",
-      "url": "https://www.youtube.com/watch?v=pid-YxopG8I",
-      "thumbnail": "https://i.ytimg.com/vi/pid-YxopG8I/mqdefault.jpg",
-      "published": "2026-06-15T18:32:25Z"
+      "title": "15/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "videoId": "dxFYYo0wjvs",
+      "url": "https://www.youtube.com/watch?v=dxFYYo0wjvs",
+      "thumbnail": "https://i.ytimg.com/vi/dxFYYo0wjvs/mqdefault_live.jpg",
+      "published": "2026-06-15T20:59:51Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE INTER 2 X 1 GRÊMIO | NARRAÇÃO PC CARVALHO | RÁDIO GRENAL | 13/06/2026",
-      "videoId": "JTO8Yz228Lo",
-      "url": "https://www.youtube.com/watch?v=JTO8Yz228Lo",
-      "thumbnail": "https://i.ytimg.com/vi/JTO8Yz228Lo/mqdefault.jpg",
-      "published": "2026-06-15T16:50:58Z"
+      "title": "15/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "2DPv7eym7bM",
+      "url": "https://www.youtube.com/watch?v=2DPv7eym7bM",
+      "thumbnail": "https://i.ytimg.com/vi/2DPv7eym7bM/mqdefault_live.jpg",
+      "published": "2026-06-15T20:59:38Z"
     },
     {
       "channel": "Radio Imortal",
