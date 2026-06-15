@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-15T00:00:42.867920+00:00",
+  "updated_at": "2026-06-15T01:00:54.244954+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: PUERTO RICO DAY | SELEÇÃO MIXURUQUINHA | E AGORA?",
+      "videoId": "_Xg8L1esJEg",
+      "url": "https://www.youtube.com/watch?v=_Xg8L1esJEg",
+      "thumbnail": "https://i.ytimg.com/vi/_Xg8L1esJEg/mqdefault_live.jpg",
+      "published": "2026-06-15T00:30:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO:  Primeira oferta por Arthur enviada | Jogos cancelados em julho",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=3CqYsuY1_74",
       "thumbnail": "https://i.ytimg.com/vi/3CqYsuY1_74/mqdefault.jpg",
       "published": "2026-06-14T08:00:01Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 NOME PERTO DO ANUNCIO | TINGA AVANÇA COM CT | MERCADO ESQUENTA",
-      "videoId": "PS88hyKji-k",
-      "url": "https://www.youtube.com/watch?v=PS88hyKji-k",
-      "thumbnail": "https://i.ytimg.com/vi/PS88hyKji-k/mqdefault.jpg",
-      "published": "2026-06-14T07:18:26Z"
     },
     {
       "channel": "Bage TV",
@@ -55,8 +55,8 @@
       "title": "LIVE DE DOMINGO - AS ÚLTIMAS DO GRÊMIO | EMPATE DA SELEÇÃO",
       "videoId": "PsJUPWnawak",
       "url": "https://www.youtube.com/watch?v=PsJUPWnawak",
-      "thumbnail": "https://i.ytimg.com/vi/PsJUPWnawak/mqdefault_live.jpg",
-      "published": "2026-06-14T23:12:02Z"
+      "thumbnail": "https://i.ytimg.com/vi/PsJUPWnawak/mqdefault.jpg",
+      "published": "2026-06-15T00:25:19Z"
     },
     {
       "channel": "Canal do CCD",
