@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T19:44:53.977423+00:00",
+  "updated_at": "2026-06-15T20:00:56.000869+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "SITUAÇÃO DE ARTHUR | GRÊMIO VOLTA EM 2 DIAS | PÓS URUGUAI X ARÁBIA | NOITES DE GRÊMIO #91 - 15/06",
+      "videoId": "u3K74apd2k0",
+      "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
+      "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault_live.jpg",
+      "published": "2026-06-15T19:47:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É HORA DE ATUALIZAR AS COISAS DO GRÊMIO! | VOLTA AOS TREINOS NESTA SEMANA | PROPOSTA POR ARTHUR",
       "videoId": "4BEAtvgdVos",
       "url": "https://www.youtube.com/watch?v=4BEAtvgdVos",
       "thumbnail": "https://i.ytimg.com/vi/4BEAtvgdVos/mqdefault.jpg",
       "published": "2026-06-15T19:14:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 15/06",
-      "videoId": "RLLeNk2oblw",
-      "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
-      "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault_live.jpg",
-      "published": "2026-06-15T17:00:42Z"
     }
   ]
 }
