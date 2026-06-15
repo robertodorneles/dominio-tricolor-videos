@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T18:03:55.049072+00:00",
+  "updated_at": "2026-06-15T19:01:04.965036+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ARTHUR VALE TUDO ISSO?  /NOVO CT COLORADO🔸RESENHA FORA DA SALA🔸#066",
+      "videoId": "VUv1IXRkakA",
+      "url": "https://www.youtube.com/watch?v=VUv1IXRkakA",
+      "thumbnail": "https://i.ytimg.com/vi/VUv1IXRkakA/mqdefault.jpg",
+      "published": "2026-06-15T18:41:50Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "REACT ARÁBIA SAUDITA X URUGUAI 🔵 AO VIVO 🔵 JORNADA DO BAGÉ ESPECIAL COPA🔵",
       "videoId": "FK9A1113-Sc",
       "url": "https://www.youtube.com/watch?v=FK9A1113-Sc",
@@ -27,12 +35,12 @@
       "published": "2026-06-15T17:10:27Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "ARTHUR VALE TUDO ISSO?  /NOVO CT COLORADO🔸RESENHA FORA DA SALA🔸#066",
-      "videoId": "VUv1IXRkakA",
-      "url": "https://www.youtube.com/watch?v=VUv1IXRkakA",
-      "thumbnail": "https://i.ytimg.com/vi/VUv1IXRkakA/mqdefault_live.jpg",
-      "published": "2026-06-15T16:30:09Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ÓTIMA NOTÍCIA SOBRE ARTHUR | NOVA PREOCUPAÇÃO | O GOLEIRO MUITO ELOGIADO NO GRÊMIO!",
+      "videoId": "CqrbDA-Pn08",
+      "url": "https://www.youtube.com/watch?v=CqrbDA-Pn08",
+      "thumbnail": "https://i.ytimg.com/vi/CqrbDA-Pn08/mqdefault.jpg",
+      "published": "2026-06-15T18:08:46Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=I_J-3wqsn3U",
       "thumbnail": "https://i.ytimg.com/vi/I_J-3wqsn3U/mqdefault.jpg",
       "published": "2026-06-14T23:42:43Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS PERTO? NOVO CAPÍTULO SOBRE ARTHUR E O GRÊMIO | O MEIA ESQUECIDO | O TIME DO BRASIL VAI MUDAR!",
-      "videoId": "vZv8cv7te00",
-      "url": "https://www.youtube.com/watch?v=vZv8cv7te00",
-      "thumbnail": "https://i.ytimg.com/vi/vZv8cv7te00/mqdefault.jpg",
-      "published": "2026-06-14T14:08:06Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Atualizando a situação de Arthur, Grêmio e Juventus",
+      "videoId": "uuTFOsydVnM",
+      "url": "https://www.youtube.com/watch?v=uuTFOsydVnM",
+      "thumbnail": "https://i.ytimg.com/vi/uuTFOsydVnM/mqdefault.jpg",
+      "published": "2026-06-15T18:58:58Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "A proposta do Grêmio por Arthur | A dívida com o Anderlecht | Entrevista de Assis",
       "videoId": "EwqMUWSFE1k",
       "url": "https://www.youtube.com/watch?v=EwqMUWSFE1k",
@@ -91,12 +99,12 @@
       "published": "2026-06-15T16:24:01Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "As exigências da FIFA para a Copa do Mundo de 2027 no Brasil #inter",
-      "videoId": "RTXomRo7y0s",
-      "url": "https://www.youtube.com/watch?v=RTXomRo7y0s",
-      "thumbnail": "https://i.ytimg.com/vi/RTXomRo7y0s/mqdefault.jpg",
-      "published": "2026-06-12T18:14:30Z"
+      "channel": "Careca de Saber TV",
+      "title": "RENOVAÇÕES: ARTHUR. CARLOS VINÍCIUS, PAVON E AMUZU 💰#gremio #Futebol",
+      "videoId": "TFhD-Az1mbo",
+      "url": "https://www.youtube.com/watch?v=TFhD-Az1mbo",
+      "thumbnail": "https://i.ytimg.com/vi/TFhD-Az1mbo/mqdefault.jpg",
+      "published": "2026-06-15T19:00:22Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=TUmdRWInRLg",
       "thumbnail": "https://i.ytimg.com/vi/TUmdRWInRLg/mqdefault.jpg",
       "published": "2026-06-15T16:00:17Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ESTÃO TENTANDO: RONALDINHO | RENOVAÇÕES NO GRÊMIO: NA MESA!",
-      "videoId": "1AK8kd9cmw0",
-      "url": "https://www.youtube.com/watch?v=1AK8kd9cmw0",
-      "thumbnail": "https://i.ytimg.com/vi/1AK8kd9cmw0/mqdefault.jpg",
-      "published": "2026-06-14T22:28:30Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "O CRIME DA MALA | Partes de um corpo surgem em Porto Alegre e intrigam a polícia #01",
-      "videoId": "RAhoGhzyhpQ",
-      "url": "https://www.youtube.com/watch?v=RAhoGhzyhpQ",
-      "thumbnail": "https://i.ytimg.com/vi/RAhoGhzyhpQ/mqdefault.jpg",
-      "published": "2026-06-15T18:00:08Z"
+      "title": "Entrevista: o que é direita e esquerda no Brasil atual? | Conversas Cruzadas | 15/06/2026",
+      "videoId": "SHlwZW6TXbY",
+      "url": "https://www.youtube.com/watch?v=SHlwZW6TXbY",
+      "thumbnail": "https://i.ytimg.com/vi/SHlwZW6TXbY/mqdefault_live.jpg",
+      "published": "2026-06-15T19:00:10Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Trump afirma que navios 'começam a sair' do Estreito de Ormuz | Zero Hora",
-      "videoId": "7iduNhWE4yM",
-      "url": "https://www.youtube.com/watch?v=7iduNhWE4yM",
-      "thumbnail": "https://i.ytimg.com/vi/7iduNhWE4yM/mqdefault.jpg",
-      "published": "2026-06-15T17:39:52Z"
+      "title": "Oliver Tree morre aos 32 anos em acidente entre helicópteros no Rio de Janeiro",
+      "videoId": "WjbkQkf2sLA",
+      "url": "https://www.youtube.com/watch?v=WjbkQkf2sLA",
+      "thumbnail": "https://i.ytimg.com/vi/WjbkQkf2sLA/mqdefault.jpg",
+      "published": "2026-06-15T18:15:32Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "QUEM É O REI DA LATERAL-ESQUERDA? | CORTES RÁDIO GRENAL | 15/06/2026",
+      "videoId": "pid-YxopG8I",
+      "url": "https://www.youtube.com/watch?v=pid-YxopG8I",
+      "thumbnail": "https://i.ytimg.com/vi/pid-YxopG8I/mqdefault.jpg",
+      "published": "2026-06-15T18:32:25Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE INTER 2 X 1 GRÊMIO | NARRAÇÃO PC CARVALHO | RÁDIO GRENAL | 13/06/2026",
       "videoId": "JTO8Yz228Lo",
       "url": "https://www.youtube.com/watch?v=JTO8Yz228Lo",
@@ -219,12 +227,12 @@
       "published": "2026-06-15T16:50:58Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "15/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
-      "videoId": "2DPv7eym7bM",
-      "url": "https://www.youtube.com/watch?v=2DPv7eym7bM",
-      "thumbnail": "https://i.ytimg.com/vi/2DPv7eym7bM/mqdefault_live.jpg",
-      "published": "2026-06-15T11:01:10Z"
+      "channel": "Radio Imortal",
+      "title": "É HORA DE ATUALIZAR AS COISAS DO GRÊMIO! | VOLTA AOS TREINOS NESTA SEMANA | PROPOSTA POR ARTHUR",
+      "videoId": "4BEAtvgdVos",
+      "url": "https://www.youtube.com/watch?v=4BEAtvgdVos",
+      "thumbnail": "https://i.ytimg.com/vi/4BEAtvgdVos/mqdefault_live.jpg",
+      "published": "2026-06-15T18:55:51Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
       "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault_live.jpg",
       "published": "2026-06-15T17:00:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #91 — A PROPOSTA DO GRÊMIO PARA A RENOVAÇÃO DE ARTHUR",
-      "videoId": "OaNEI78La8A",
-      "url": "https://www.youtube.com/watch?v=OaNEI78La8A",
-      "thumbnail": "https://i.ytimg.com/vi/OaNEI78La8A/mqdefault.jpg",
-      "published": "2026-06-15T15:20:55Z"
     }
   ]
 }
