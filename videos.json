@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T17:01:03.235725+00:00",
+  "updated_at": "2026-06-16T18:01:02.612572+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ARGENTINA X ARGÉLIA - 🟢AO VIVO🟢 - JORNADA DO BAGÉ ESPECIAL COPA",
+      "videoId": "Kd_7EFGxjMs",
+      "url": "https://www.youtube.com/watch?v=Kd_7EFGxjMs",
+      "thumbnail": "https://i.ytimg.com/vi/Kd_7EFGxjMs/mqdefault_live.jpg",
+      "published": "2026-06-16T17:22:57Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO TRAVA RENOVAÇÃO DE CARLOS VINÍCIUS / TINGA PRESENTEIA O INTER🔸RESENHA FORA DA SALA🔸#067",
       "videoId": "QqwQA44kPos",
       "url": "https://www.youtube.com/watch?v=QqwQA44kPos",
       "thumbnail": "https://i.ytimg.com/vi/QqwQA44kPos/mqdefault_live.jpg",
       "published": "2026-06-16T16:43:57Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #002",
-      "videoId": "yhDVLOCJ_zE",
-      "url": "https://www.youtube.com/watch?v=yhDVLOCJ_zE",
-      "thumbnail": "https://i.ytimg.com/vi/yhDVLOCJ_zE/mqdefault.jpg",
-      "published": "2026-06-16T15:03:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Operações da Amazon no RS, novas lojas da Renner e tecnologia de POA na Copa do Mundo | Giane Guerra",
+      "videoId": "WcicI4CK7TQ",
+      "url": "https://www.youtube.com/watch?v=WcicI4CK7TQ",
+      "thumbnail": "https://i.ytimg.com/vi/WcicI4CK7TQ/mqdefault.jpg",
+      "published": "2026-06-16T17:39:58Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O MANÍACO DO CASSINO | Novos ataques e uma testemunha #03",
       "videoId": "4e-A8K35gdo",
       "url": "https://www.youtube.com/watch?v=4e-A8K35gdo",
       "thumbnail": "https://i.ytimg.com/vi/4e-A8K35gdo/mqdefault.jpg",
       "published": "2026-06-16T16:00:15Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 17/06/26",
-      "videoId": "9gPgGAf2jSM",
-      "url": "https://www.youtube.com/watch?v=9gPgGAf2jSM",
-      "thumbnail": "https://i.ytimg.com/vi/9gPgGAf2jSM/mqdefault_live.jpg",
-      "published": "2026-06-16T14:11:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO RETOMA A TEMPORADA A PARTIR DE AMANHÃ! | A ESTREIA DE UMA DAS FAVORITAS À COPA | IMORTAL FC",
+      "videoId": "cmB1Nci4AJY",
+      "url": "https://www.youtube.com/watch?v=cmB1Nci4AJY",
+      "thumbnail": "https://i.ytimg.com/vi/cmB1Nci4AJY/mqdefault_live.jpg",
+      "published": "2026-06-16T17:12:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #92 — AS POSSÍVEIS NOVIDADES DO GRÊMIO NA REAPRESENTAÇÃO",
       "videoId": "EMI4H6oxMmk",
       "url": "https://www.youtube.com/watch?v=EMI4H6oxMmk",
       "thumbnail": "https://i.ytimg.com/vi/EMI4H6oxMmk/mqdefault.jpg",
       "published": "2026-06-16T15:18:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SITUAÇÃO DE ARTHUR | GRÊMIO VOLTA EM 2 DIAS | PÓS URUGUAI X ARÁBIA | NOITES DE GRÊMIO #91 - 15/06",
-      "videoId": "u3K74apd2k0",
-      "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
-      "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault.jpg",
-      "published": "2026-06-16T13:12:59Z"
     }
   ]
 }
