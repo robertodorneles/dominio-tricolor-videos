@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T00:00:44.006097+00:00",
+  "updated_at": "2026-06-16T00:28:18.406273+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "URUGUAI X ARÁBIA SAUDITA - AO VIVO - JORNADA DO BAGÉ ESPECIAL COPA",
       "videoId": "FK9A1113-Sc",
       "url": "https://www.youtube.com/watch?v=FK9A1113-Sc",
-      "thumbnail": "https://i.ytimg.com/vi/FK9A1113-Sc/mqdefault_live.jpg",
-      "published": "2026-06-15T21:01:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/FK9A1113-Sc/mqdefault.jpg",
+      "published": "2026-06-16T00:12:46Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - REFORÇOS, SAÍDAS, REAPRESENTAÇÃO E MAIS",
+      "videoId": "hIfMjmA5GlM",
+      "url": "https://www.youtube.com/watch?v=hIfMjmA5GlM",
+      "thumbnail": "https://i.ytimg.com/vi/hIfMjmA5GlM/mqdefault_live.jpg",
+      "published": "2026-06-16T00:04:53Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #610: Retorno | Situação de Arthur | Dívida | Patrocínio e mais",
       "videoId": "ubiT3G3oaIQ",
       "url": "https://www.youtube.com/watch?v=ubiT3G3oaIQ",
       "thumbnail": "https://i.ytimg.com/vi/ubiT3G3oaIQ/mqdefault.jpg",
       "published": "2026-06-15T20:58:17Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - REFORÇOS, SAÍDAS, REAPRESENTAÇÃO E MAIS",
-      "videoId": "hIfMjmA5GlM",
-      "url": "https://www.youtube.com/watch?v=hIfMjmA5GlM",
-      "thumbnail": "https://i.ytimg.com/vi/hIfMjmA5GlM/mqdefault_live.jpg",
-      "published": "2026-06-15T16:59:18Z"
     },
     {
       "channel": "Canal do Farid",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: O Brasil de Ancelotti é um golpe? Grêmio e Arthur ⏳ + Inter e reforço 🤝",
+      "videoId": "sARZhJA9xR8",
+      "url": "https://www.youtube.com/watch?v=sARZhJA9xR8",
+      "thumbnail": "https://i.ytimg.com/vi/sARZhJA9xR8/mqdefault.jpg",
+      "published": "2026-06-16T00:19:24Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "As primeiras imagens do projeto pro CT do Inter. Quanto custa e como vai ficar",
       "videoId": "qH2_ytboLT4",
       "url": "https://www.youtube.com/watch?v=qH2_ytboLT4",
       "thumbnail": "https://i.ytimg.com/vi/qH2_ytboLT4/mqdefault.jpg",
       "published": "2026-06-15T22:18:11Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: O Brasil de Ancelotti é um golpe? Grêmio e Arthur ⏳ + Inter e reforço 🤝",
-      "videoId": "sARZhJA9xR8",
-      "url": "https://www.youtube.com/watch?v=sARZhJA9xR8",
-      "thumbnail": "https://i.ytimg.com/vi/sARZhJA9xR8/mqdefault_live.jpg",
-      "published": "2026-06-15T12:12:01Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "SITUAÇÃO DE ARTHUR | GRÊMIO VOLTA EM 2 DIAS | PÓS URUGUAI X ARÁBIA | NOITES DE GRÊMIO #91 - 15/06",
+      "videoId": "u3K74apd2k0",
+      "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
+      "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault_live.jpg",
+      "published": "2026-06-16T00:04:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "A REPERCUSSÃO DOS JOGOS DA COPA | ÚLTIMAS INFORMAÇÕES DO GRÊMIO | IMORTAL FC — 15/06",
       "videoId": "RLLeNk2oblw",
       "url": "https://www.youtube.com/watch?v=RLLeNk2oblw",
       "thumbnail": "https://i.ytimg.com/vi/RLLeNk2oblw/mqdefault.jpg",
       "published": "2026-06-15T22:15:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SITUAÇÃO DE ARTHUR | GRÊMIO VOLTA EM 2 DIAS | PÓS URUGUAI X ARÁBIA | NOITES DE GRÊMIO #91 - 15/06",
-      "videoId": "u3K74apd2k0",
-      "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
-      "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault_live.jpg",
-      "published": "2026-06-15T19:47:13Z"
     }
   ]
 }
