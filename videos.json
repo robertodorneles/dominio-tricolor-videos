@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T14:00:57.058331+00:00",
+  "updated_at": "2026-06-16T15:01:04.126274+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #002",
+      "videoId": "yhDVLOCJ_zE",
+      "url": "https://www.youtube.com/watch?v=yhDVLOCJ_zE",
+      "thumbnail": "https://i.ytimg.com/vi/yhDVLOCJ_zE/mqdefault_live.jpg",
+      "published": "2026-06-16T14:49:39Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CORINTHIANS QUER CARLOS VINÍCIUS?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 16/06 - #569",
       "videoId": "Tlon3DvdSrA",
       "url": "https://www.youtube.com/watch?v=Tlon3DvdSrA",
       "thumbnail": "https://i.ytimg.com/vi/Tlon3DvdSrA/mqdefault.jpg",
       "published": "2026-06-16T13:54:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #002",
-      "videoId": "yhDVLOCJ_zE",
-      "url": "https://www.youtube.com/watch?v=yhDVLOCJ_zE",
-      "thumbnail": "https://i.ytimg.com/vi/yhDVLOCJ_zE/mqdefault_live.jpg",
-      "published": "2026-06-16T13:49:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "O MANÍACO DO CASSINO | Terror noite adentro #02",
-      "videoId": "2LsePpWgHP8",
-      "url": "https://www.youtube.com/watch?v=2LsePpWgHP8",
-      "thumbnail": "https://i.ytimg.com/vi/2LsePpWgHP8/mqdefault.jpg",
-      "published": "2026-06-16T14:00:01Z"
+      "title": "| Timeline 17/06/26",
+      "videoId": "9gPgGAf2jSM",
+      "url": "https://www.youtube.com/watch?v=9gPgGAf2jSM",
+      "thumbnail": "https://i.ytimg.com/vi/9gPgGAf2jSM/mqdefault_live.jpg",
+      "published": "2026-06-16T14:11:31Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Repórter de Cabo Verde sobre a seleção e o goleiro Vozinha, Neymar e mais | Timeline 16/06/26",
-      "videoId": "osegxaur3OE",
-      "url": "https://www.youtube.com/watch?v=osegxaur3OE",
-      "thumbnail": "https://i.ytimg.com/vi/osegxaur3OE/mqdefault_live.jpg",
-      "published": "2026-06-16T13:58:52Z"
+      "title": "| Gaúcha Atualidade | 17/06/2026",
+      "videoId": "01iTDP1gNRo",
+      "url": "https://www.youtube.com/watch?v=01iTDP1gNRo",
+      "thumbnail": "https://i.ytimg.com/vi/01iTDP1gNRo/mqdefault_live.jpg",
+      "published": "2026-06-16T14:10:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM GUSTAVO JUCHEM - PRESIDENTE DO CONSELHO DELIBERATIVO DO INTER | 16/06/26",
+      "videoId": "XY1y6Gig_NQ",
+      "url": "https://www.youtube.com/watch?v=XY1y6Gig_NQ",
+      "thumbnail": "https://i.ytimg.com/vi/XY1y6Gig_NQ/mqdefault.jpg",
+      "published": "2026-06-16T14:00:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM CLÉBER XAVIER - EX-AUXILIAR-TÉCNICO DA SELEÇÃO BRASILEIRA | 16/06/26",
       "videoId": "z1kvukm_PL0",
       "url": "https://www.youtube.com/watch?v=z1kvukm_PL0",
@@ -219,20 +227,12 @@
       "published": "2026-06-16T13:33:37Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "16/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "AXaBlfnusOY",
-      "url": "https://www.youtube.com/watch?v=AXaBlfnusOY",
-      "thumbnail": "https://i.ytimg.com/vi/AXaBlfnusOY/mqdefault_live.jpg",
-      "published": "2026-06-16T11:00:52Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #92 — AS POSSÍVEIS NOVIDADES DO GRÊMIO NA REAPRESENTAÇÃO",
       "videoId": "EMI4H6oxMmk",
       "url": "https://www.youtube.com/watch?v=EMI4H6oxMmk",
       "thumbnail": "https://i.ytimg.com/vi/EMI4H6oxMmk/mqdefault_live.jpg",
-      "published": "2026-06-16T13:47:02Z"
+      "published": "2026-06-16T15:00:35Z"
     },
     {
       "channel": "Radio Imortal",
