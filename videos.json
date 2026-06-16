@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-16T00:28:18.406273+00:00",
+  "updated_at": "2026-06-16T01:00:48.892808+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: LAVAR A ROUPA SUJA | BRASIL VOLTOU | | EM NY!",
+      "videoId": "VFUyvsjFjRQ",
+      "url": "https://www.youtube.com/watch?v=VFUyvsjFjRQ",
+      "thumbnail": "https://i.ytimg.com/vi/VFUyvsjFjRQ/mqdefault_live.jpg",
+      "published": "2026-06-16T00:30:27Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: Os movimentos de mercados até aqui | Reforços e a busca por soluções",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=GL3CNCi_6j4",
       "thumbnail": "https://i.ytimg.com/vi/GL3CNCi_6j4/mqdefault.jpg",
       "published": "2026-06-15T06:00:07Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: TROCA DE GOLEIROS! | COINCIDENCIA NÃO É | PROBLEMA DE MILHÕES",
-      "videoId": "-wm35KqtI1g",
-      "url": "https://www.youtube.com/watch?v=-wm35KqtI1g",
-      "thumbnail": "https://i.ytimg.com/vi/-wm35KqtI1g/mqdefault.jpg",
-      "published": "2026-06-15T05:37:45Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O CRIME DA MALA | Bia, a vítima por trás das manchetes #04",
+      "videoId": "6tu8RlTaS4E",
+      "url": "https://www.youtube.com/watch?v=6tu8RlTaS4E",
+      "thumbnail": "https://i.ytimg.com/vi/6tu8RlTaS4E/mqdefault.jpg",
+      "published": "2026-06-16T00:45:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CLIMA URUGUAIO, A EMOÇÃO DE CURAÇAU E A TENSÃO DA SELEÇÃO DO IRÃ | COPANDO TUDO | 15/06/2026",
       "videoId": "cLVRau4oWDE",
       "url": "https://www.youtube.com/watch?v=cLVRau4oWDE",
       "thumbnail": "https://i.ytimg.com/vi/cLVRau4oWDE/mqdefault_live.jpg",
       "published": "2026-06-15T23:37:15Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "O CRIME DA MALA | Eu não quis cometer os mesmos erros dele #03",
-      "videoId": "e3XEBvsglHY",
-      "url": "https://www.youtube.com/watch?v=e3XEBvsglHY",
-      "thumbnail": "https://i.ytimg.com/vi/e3XEBvsglHY/mqdefault.jpg",
-      "published": "2026-06-15T23:30:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "15/06/2026 | CLUBE GRENAL | RÁDIO GRENAL",
+      "title": "15/06/2026 | LIVE COMPLETA PARTE 2 | RÁDIO GRENAL",
       "videoId": "dxFYYo0wjvs",
       "url": "https://www.youtube.com/watch?v=dxFYYo0wjvs",
       "thumbnail": "https://i.ytimg.com/vi/dxFYYo0wjvs/mqdefault_live.jpg",
@@ -232,7 +232,7 @@
       "videoId": "u3K74apd2k0",
       "url": "https://www.youtube.com/watch?v=u3K74apd2k0",
       "thumbnail": "https://i.ytimg.com/vi/u3K74apd2k0/mqdefault_live.jpg",
-      "published": "2026-06-16T00:04:16Z"
+      "published": "2026-06-16T01:00:31Z"
     },
     {
       "channel": "Radio Imortal",
