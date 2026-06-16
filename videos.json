@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T23:01:01.063800+00:00",
+  "updated_at": "2026-06-16T23:22:06.315470+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Salto sem corda: quem errou e quem pode ser responsabilizado? | Conversas Cruzadas",
-      "videoId": "NkBxL1BUXoM",
-      "url": "https://www.youtube.com/watch?v=NkBxL1BUXoM",
-      "thumbnail": "https://i.ytimg.com/vi/NkBxL1BUXoM/mqdefault.jpg",
-      "published": "2026-06-16T22:45:51Z"
+      "title": "JOVEM LANÇADA SEM CORDA: tragédia pode ser considerada um crime \"sem intenção\"? | Conversas Cruzadas",
+      "videoId": "86IPSALjBlk",
+      "url": "https://www.youtube.com/watch?v=86IPSALjBlk",
+      "thumbnail": "https://i.ytimg.com/vi/86IPSALjBlk/mqdefault.jpg",
+      "published": "2026-06-16T23:05:54Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "16/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "AXaBlfnusOY",
+      "url": "https://www.youtube.com/watch?v=AXaBlfnusOY",
+      "thumbnail": "https://i.ytimg.com/vi/AXaBlfnusOY/mqdefault_live.jpg",
+      "published": "2026-06-16T23:01:50Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "QUEM É O REI DA ZAGA PELO LADO DIREITO? | CORTES RÁDIO GRENAL | 16/06/2026",
       "videoId": "EpDh_Jky9Xg",
       "url": "https://www.youtube.com/watch?v=EpDh_Jky9Xg",
@@ -219,12 +227,12 @@
       "published": "2026-06-16T21:00:24Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GRÊMIO SEM ARTHUR 🇪🇪",
-      "videoId": "kPvpaXg9r7U",
-      "url": "https://www.youtube.com/watch?v=kPvpaXg9r7U",
-      "thumbnail": "https://i.ytimg.com/vi/kPvpaXg9r7U/mqdefault.jpg",
-      "published": "2026-06-16T19:32:49Z"
+      "channel": "Radio Imortal",
+      "title": "GABRIEL MEC DE SAÍDA? GRÊMIO RECEBE PROPOSTA DA INGLATERRA",
+      "videoId": "0SDZnXPN25A",
+      "url": "https://www.youtube.com/watch?v=0SDZnXPN25A",
+      "thumbnail": "https://i.ytimg.com/vi/0SDZnXPN25A/mqdefault.jpg",
+      "published": "2026-06-16T23:17:08Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cmB1Nci4AJY",
       "thumbnail": "https://i.ytimg.com/vi/cmB1Nci4AJY/mqdefault.jpg",
       "published": "2026-06-16T22:39:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 16/06",
-      "videoId": "wLVylJhc0bk",
-      "url": "https://www.youtube.com/watch?v=wLVylJhc0bk",
-      "thumbnail": "https://i.ytimg.com/vi/wLVylJhc0bk/mqdefault_live.jpg",
-      "published": "2026-06-16T22:33:29Z"
     }
   ]
 }
