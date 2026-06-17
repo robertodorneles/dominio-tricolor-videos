@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-17T00:00:51.883421+00:00",
+  "updated_at": "2026-06-17T01:00:47.158016+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: ARGELINOS DESDE BERÇO! | SECANDO OS CARAS EM NY",
+      "videoId": "3embD-T-ilo",
+      "url": "https://www.youtube.com/watch?v=3embD-T-ilo",
+      "thumbnail": "https://i.ytimg.com/vi/3embD-T-ilo/mqdefault_live.jpg",
+      "published": "2026-06-17T00:15:47Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 ANUNCIO ESTA SEMANA? | POLÊMICA COM ROCHET | FOLHA EM DISCUSSÃO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=FR_RQNzEkeE",
       "thumbnail": "https://i.ytimg.com/vi/FR_RQNzEkeE/mqdefault.jpg",
       "published": "2026-06-16T08:43:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Castro começou a trabalhar | Volta aos treinos | futuro",
-      "videoId": "_i0mG-ov4CI",
-      "url": "https://www.youtube.com/watch?v=_i0mG-ov4CI",
-      "thumbnail": "https://i.ytimg.com/vi/_i0mG-ov4CI/mqdefault.jpg",
-      "published": "2026-06-16T06:00:39Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O MANÍACO DO CASSINO | Detalhes e bastidores do julgamento que parou o Rio Grande do Sul #06",
+      "videoId": "3ap8Cg5359U",
+      "url": "https://www.youtube.com/watch?v=3ap8Cg5359U",
+      "thumbnail": "https://i.ytimg.com/vi/3ap8Cg5359U/mqdefault.jpg",
+      "published": "2026-06-17T00:30:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "COPANDO TUDO NA COLA DOS HERMANOS NA ESTREIA DA ARGENTINA NO MUNDIAL | COPANDO TUDO | 16/06/2026",
       "videoId": "yhi1teKR1-8",
       "url": "https://www.youtube.com/watch?v=yhi1teKR1-8",
       "thumbnail": "https://i.ytimg.com/vi/yhi1teKR1-8/mqdefault_live.jpg",
       "published": "2026-06-16T23:35:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Conversas Cruzadas | 17/06/2026",
-      "videoId": "Ls0u4pArad4",
-      "url": "https://www.youtube.com/watch?v=Ls0u4pArad4",
-      "thumbnail": "https://i.ytimg.com/vi/Ls0u4pArad4/mqdefault_live.jpg",
-      "published": "2026-06-16T23:29:54Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ANUNCIA SAÍDA DE ARTHUR | VICE DE FUTEBOL DARÁ EXPLICAÇÕES | NOITES DE GRÊMIO #92 - 16/06",
+      "videoId": "BATnIk02m4A",
+      "url": "https://www.youtube.com/watch?v=BATnIk02m4A",
+      "thumbnail": "https://i.ytimg.com/vi/BATnIk02m4A/mqdefault_live.jpg",
+      "published": "2026-06-17T00:04:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GABRIEL MEC DE SAÍDA? GRÊMIO RECEBE PROPOSTA DA INGLATERRA",
       "videoId": "0SDZnXPN25A",
       "url": "https://www.youtube.com/watch?v=0SDZnXPN25A",
       "thumbnail": "https://i.ytimg.com/vi/0SDZnXPN25A/mqdefault.jpg",
       "published": "2026-06-16T23:17:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA SAÍDA DE ARTHUR | REPERCUSSÕES E BASTIDORES | REAPRESENTAÇÃO AMANHÃ | IMORTAL FC",
-      "videoId": "cmB1Nci4AJY",
-      "url": "https://www.youtube.com/watch?v=cmB1Nci4AJY",
-      "thumbnail": "https://i.ytimg.com/vi/cmB1Nci4AJY/mqdefault.jpg",
-      "published": "2026-06-16T22:39:54Z"
     }
   ]
 }
