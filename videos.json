@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T15:01:10.773836+00:00",
+  "updated_at": "2026-06-17T16:01:10.039380+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #003",
-      "videoId": "PuriUPSM25Q",
-      "url": "https://www.youtube.com/watch?v=PuriUPSM25Q",
-      "thumbnail": "https://i.ytimg.com/vi/PuriUPSM25Q/mqdefault_live.jpg",
-      "published": "2026-06-17T14:49:31Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "🔵AO VIVO🔵 | RAFAEL LIMA DIRETO DO CT LUIZ CARVALHO",
       "videoId": "5Fk4zPqveFY",
       "url": "https://www.youtube.com/watch?v=5Fk4zPqveFY",
-      "thumbnail": "https://i.ytimg.com/vi/5Fk4zPqveFY/mqdefault_live.jpg",
-      "published": "2026-06-17T14:20:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/5Fk4zPqveFY/mqdefault.jpg",
+      "published": "2026-06-17T15:35:51Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #003",
+      "videoId": "PuriUPSM25Q",
+      "url": "https://www.youtube.com/watch?v=PuriUPSM25Q",
+      "thumbnail": "https://i.ytimg.com/vi/PuriUPSM25Q/mqdefault.jpg",
+      "published": "2026-06-17T15:25:02Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MAIS UM TITULAR SAINDO | O NEGÓCIO CONFIRMADO | COLETIVA DE DIRIGENTE DO GRÊMIO | PROTESTO FORTE",
+      "videoId": "ODrQkm9Q4vw",
+      "url": "https://www.youtube.com/watch?v=ODrQkm9Q4vw",
+      "thumbnail": "https://i.ytimg.com/vi/ODrQkm9Q4vw/mqdefault.jpg",
+      "published": "2026-06-17T15:12:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=3QDhcjwmj-U",
       "thumbnail": "https://i.ytimg.com/vi/3QDhcjwmj-U/mqdefault.jpg",
       "published": "2026-06-16T23:59:22Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨BOMBA! ARTHUR TÁ FORA! DIREÇÃO BURRA! INCOMPETENTES PERDERAM O MELHOR DO GRÊMIO! E AGORA? Z-4?",
-      "videoId": "eW99__sicuA",
-      "url": "https://www.youtube.com/watch?v=eW99__sicuA",
-      "thumbnail": "https://i.ytimg.com/vi/eW99__sicuA/mqdefault.jpg",
-      "published": "2026-06-16T18:47:40Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Vitória da Argentina com três gols de Messi, caso do rope jump, CIC Caxias e + | Timeline 17/06/26",
+      "videoId": "9gPgGAf2jSM",
+      "url": "https://www.youtube.com/watch?v=9gPgGAf2jSM",
+      "thumbnail": "https://i.ytimg.com/vi/9gPgGAf2jSM/mqdefault.jpg",
+      "published": "2026-06-17T15:16:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Do Interior à Capital: A Origem dos Restaurantes Tradicionais de Porto Alegre | Zero Hora",
       "videoId": "HqqeVc_jhtY",
       "url": "https://www.youtube.com/watch?v=HqqeVc_jhtY",
       "thumbnail": "https://i.ytimg.com/vi/HqqeVc_jhtY/mqdefault.jpg",
       "published": "2026-06-17T14:57:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 18/06/26",
-      "videoId": "JSUdlS7ruDY",
-      "url": "https://www.youtube.com/watch?v=JSUdlS7ruDY",
-      "thumbnail": "https://i.ytimg.com/vi/JSUdlS7ruDY/mqdefault_live.jpg",
-      "published": "2026-06-17T14:56:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "ANLxvznziDw",
-      "url": "https://www.youtube.com/watch?v=ANLxvznziDw",
-      "thumbnail": "https://i.ytimg.com/vi/ANLxvznziDw/mqdefault_live.jpg",
-      "published": "2026-06-17T11:04:49Z"
+      "title": "COLETIVA DE RAFAEL LIMA - VICE-PRESIDENTE DE FUTEBOL DO GRÊMIO | 17/06/2026",
+      "videoId": "zF5rt2EfWgA",
+      "url": "https://www.youtube.com/watch?v=zF5rt2EfWgA",
+      "thumbnail": "https://i.ytimg.com/vi/zF5rt2EfWgA/mqdefault.jpg",
+      "published": "2026-06-17T15:12:42Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "16/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "AXaBlfnusOY",
-      "url": "https://www.youtube.com/watch?v=AXaBlfnusOY",
-      "thumbnail": "https://i.ytimg.com/vi/AXaBlfnusOY/mqdefault.jpg",
-      "published": "2026-06-16T23:42:06Z"
+      "title": "FIZERAM O POSSÍVEL! 😢🇪🇪 #shorts #Grêmio #Tricolor #Arthur #MercadoDaBola #Transferências",
+      "videoId": "Fhk8TG65rkY",
+      "url": "https://www.youtube.com/watch?v=Fhk8TG65rkY",
+      "thumbnail": "https://i.ytimg.com/vi/Fhk8TG65rkY/mqdefault.jpg",
+      "published": "2026-06-17T15:10:19Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO | COLETIVA DE RAFAEL LIMA, VICE DE FUTEBOL DO GRÊMIO | DIRETO DO CT | TIMELINE IMORTAL #93",
       "videoId": "zzhbILD7GT0",
       "url": "https://www.youtube.com/watch?v=zzhbILD7GT0",
-      "thumbnail": "https://i.ytimg.com/vi/zzhbILD7GT0/mqdefault_live.jpg",
-      "published": "2026-06-17T14:57:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/zzhbILD7GT0/mqdefault.jpg",
+      "published": "2026-06-17T15:25:22Z"
     },
     {
       "channel": "Radio Imortal",
