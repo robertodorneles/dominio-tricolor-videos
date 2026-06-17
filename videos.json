@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T23:01:00.655917+00:00",
+  "updated_at": "2026-06-17T23:42:08.811489+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO! GRÊMIO FECHA NOVO NEGÓCIO | OFERTA MILIONÁRIA NA MESA | ARTHUR, RETORNOS E AMISTOSOS",
+      "videoId": "ZFlpa98J9cY",
+      "url": "https://www.youtube.com/watch?v=ZFlpa98J9cY",
+      "thumbnail": "https://i.ytimg.com/vi/ZFlpa98J9cY/mqdefault.jpg",
+      "published": "2026-06-17T23:07:16Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨MAIS UM TITULAR SAINDO | O NEGÓCIO CONFIRMADO | COLETIVA DE DIRIGENTE DO GRÊMIO | PROTESTO FORTE",
       "videoId": "ODrQkm9Q4vw",
       "url": "https://www.youtube.com/watch?v=ODrQkm9Q4vw",
       "thumbnail": "https://i.ytimg.com/vi/ODrQkm9Q4vw/mqdefault.jpg",
       "published": "2026-06-17T15:12:31Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨REVIRAVOLTA? ARTHUR AINDA PODE FICAR? | VAZOU O REAL MOTIVO DO DESACERTO COM O GRÊMIO | OS VALORES",
-      "videoId": "3QDhcjwmj-U",
-      "url": "https://www.youtube.com/watch?v=3QDhcjwmj-U",
-      "thumbnail": "https://i.ytimg.com/vi/3QDhcjwmj-U/mqdefault.jpg",
-      "published": "2026-06-16T23:59:22Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... EMERSON E RICA PERRONE  | #390",
+      "videoId": "XC_48cSLBDk",
+      "url": "https://www.youtube.com/watch?v=XC_48cSLBDk",
+      "thumbnail": "https://i.ytimg.com/vi/XC_48cSLBDk/mqdefault_live.jpg",
+      "published": "2026-06-17T22:46:43Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "CRISTIANO RONALDO: O SURGIMENTO DE CRAQUE GLOBAL VISTO DE PERTO | Cortes do Duda",
       "videoId": "xS8-cPPkvmk",
       "url": "https://www.youtube.com/watch?v=xS8-cPPkvmk",
@@ -139,12 +147,12 @@
       "published": "2026-06-17T22:00:22Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "A REAL SOBRE NEYMAR: PENTACAMPEÃO ANALISOU POTENCIAL E PROBLEMAS FÍSICOS DO CRAQUE | Cortes do Duda",
-      "videoId": "ObbrL4LbOOc",
-      "url": "https://www.youtube.com/watch?v=ObbrL4LbOOc",
-      "thumbnail": "https://i.ytimg.com/vi/ObbrL4LbOOc/mqdefault.jpg",
-      "published": "2026-06-17T21:00:27Z"
+      "channel": "GremioTV Oficial",
+      "title": "DE VOLTA AOS TRABALHOS: GRÊMIO RETORNA AOS TREINAMENTOS",
+      "videoId": "uv_zGqI_UBw",
+      "url": "https://www.youtube.com/watch?v=uv_zGqI_UBw",
+      "thumbnail": "https://i.ytimg.com/vi/uv_zGqI_UBw/mqdefault.jpg",
+      "published": "2026-06-17T23:37:34Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-06-17T20:06:08Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA DE APRESENTAÇÃO: RAFAEL LIMA I VICE-PRESIDENTE DE FUTEBOL",
-      "videoId": "HlN7ET4Ue1c",
-      "url": "https://www.youtube.com/watch?v=HlN7ET4Ue1c",
-      "thumbnail": "https://i.ytimg.com/vi/HlN7ET4Ue1c/mqdefault.jpg",
-      "published": "2026-06-17T14:51:26Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "EDUARDO BOLSONARO pede SANÇÕES CONTRA MORAES após condenação no STF | Conversas Cruzadas",
-      "videoId": "6D6hy0JSBvE",
-      "url": "https://www.youtube.com/watch?v=6D6hy0JSBvE",
-      "thumbnail": "https://i.ytimg.com/vi/6D6hy0JSBvE/mqdefault.jpg",
-      "published": "2026-06-17T22:35:10Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "HAT TRICK DE MESSI, ESTREIA DE CR7 E CONGO FAZENDO HISTÓRIA | COPANDO TUDO | 17/06/2026",
       "videoId": "L2QqafuAPIg",
       "url": "https://www.youtube.com/watch?v=L2QqafuAPIg",
       "thumbnail": "https://i.ytimg.com/vi/L2QqafuAPIg/mqdefault_live.jpg",
-      "published": "2026-06-17T21:59:01Z"
+      "published": "2026-06-17T23:33:14Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Como funciona uma estação de tratamento de esgoto e por que ela depende de você 🫵 | GZH",
+      "videoId": "VdoSXVaf1G0",
+      "url": "https://www.youtube.com/watch?v=VdoSXVaf1G0",
+      "thumbnail": "https://i.ytimg.com/vi/VdoSXVaf1G0/mqdefault.jpg",
+      "published": "2026-06-17T23:17:53Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "TIERLIST: PERSONAGENS DAS COPAS DO MUNDO | CORTES RÁDIO GRENAL | 17/06/2026",
-      "videoId": "WP1MmnxVDhk",
-      "url": "https://www.youtube.com/watch?v=WP1MmnxVDhk",
-      "thumbnail": "https://i.ytimg.com/vi/WP1MmnxVDhk/mqdefault.jpg",
-      "published": "2026-06-17T22:13:58Z"
+      "title": "17/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "ANLxvznziDw",
+      "url": "https://www.youtube.com/watch?v=ANLxvznziDw",
+      "thumbnail": "https://i.ytimg.com/vi/ANLxvznziDw/mqdefault.jpg",
+      "published": "2026-06-17T23:26:18Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "QUEM É O REI DA ZAGA PELO LADO ESQUERDO? | CORTES RÁDIO GRENAL | 17/06/2026",
-      "videoId": "CR4Ll89mXNk",
-      "url": "https://www.youtube.com/watch?v=CR4Ll89mXNk",
-      "thumbnail": "https://i.ytimg.com/vi/CR4Ll89mXNk/mqdefault.jpg",
-      "published": "2026-06-17T18:42:51Z"
+      "title": "17/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "c7Sencej1N8",
+      "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
+      "thumbnail": "https://i.ytimg.com/vi/c7Sencej1N8/mqdefault_live.jpg",
+      "published": "2026-06-17T23:02:01Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "COMO FOI A REAPRESENTAÇÃO DO GRÊMIO | AUSÊNCIAS E RETORNOS | TRANSFERÊNCIA ENCAMINHADA | IMORTAL FC",
       "videoId": "eBgLwigCB_I",
       "url": "https://www.youtube.com/watch?v=eBgLwigCB_I",
-      "thumbnail": "https://i.ytimg.com/vi/eBgLwigCB_I/mqdefault_live.jpg",
-      "published": "2026-06-17T23:00:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/eBgLwigCB_I/mqdefault.jpg",
+      "published": "2026-06-17T23:08:04Z"
     },
     {
       "channel": "Radio Imortal",
