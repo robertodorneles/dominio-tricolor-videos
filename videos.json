@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T14:01:15.326510+00:00",
+  "updated_at": "2026-06-17T15:01:10.773836+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "PuriUPSM25Q",
       "url": "https://www.youtube.com/watch?v=PuriUPSM25Q",
       "thumbnail": "https://i.ytimg.com/vi/PuriUPSM25Q/mqdefault_live.jpg",
-      "published": "2026-06-17T13:54:26Z"
+      "published": "2026-06-17T14:49:31Z"
     },
     {
       "channel": "Bage TV",
-      "title": "OS BASTIDORES DA SAÍDA DO ARTHUR 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/06 - #570",
-      "videoId": "gz7wt5SBuCA",
-      "url": "https://www.youtube.com/watch?v=gz7wt5SBuCA",
-      "thumbnail": "https://i.ytimg.com/vi/gz7wt5SBuCA/mqdefault_live.jpg",
-      "published": "2026-06-17T13:50:30Z"
+      "title": "🔵AO VIVO🔵 | RAFAEL LIMA DIRETO DO CT LUIZ CARVALHO",
+      "videoId": "5Fk4zPqveFY",
+      "url": "https://www.youtube.com/watch?v=5Fk4zPqveFY",
+      "thumbnail": "https://i.ytimg.com/vi/5Fk4zPqveFY/mqdefault_live.jpg",
+      "published": "2026-06-17T14:20:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Negociações por jogadores do Grêmio | Repercussão da saída de Arthur",
+      "videoId": "8UgRfao0HJo",
+      "url": "https://www.youtube.com/watch?v=8UgRfao0HJo",
+      "thumbnail": "https://i.ytimg.com/vi/8UgRfao0HJo/mqdefault.jpg",
+      "published": "2026-06-17T14:51:57Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Arthur fora do Grêmio",
       "videoId": "JsDtEPXOKM0",
       "url": "https://www.youtube.com/watch?v=JsDtEPXOKM0",
@@ -59,12 +67,12 @@
       "published": "2026-06-16T20:03:38Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Grêmio anuncia fim das negociações e Arthur não permanecerá no Grêmio",
-      "videoId": "x_mweaaAjbY",
-      "url": "https://www.youtube.com/watch?v=x_mweaaAjbY",
-      "thumbnail": "https://i.ytimg.com/vi/x_mweaaAjbY/mqdefault.jpg",
-      "published": "2026-06-16T18:49:38Z"
+      "channel": "Canal do Farid",
+      "title": "ODORICO ABRE O JOGO SOBRE ARTHUR",
+      "videoId": "wcplz26vhpY",
+      "url": "https://www.youtube.com/watch?v=wcplz26vhpY",
+      "thumbnail": "https://i.ytimg.com/vi/wcplz26vhpY/mqdefault.jpg",
+      "published": "2026-06-17T14:59:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=_MP4-qEn8KE",
       "thumbnail": "https://i.ytimg.com/vi/_MP4-qEn8KE/mqdefault.jpg",
       "published": "2026-06-17T11:38:03Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ALÍVIO PARA O GRÊMIO - GIRO DO MERCADO #01",
-      "videoId": "g3mInZkczaY",
-      "url": "https://www.youtube.com/watch?v=g3mInZkczaY",
-      "thumbnail": "https://i.ytimg.com/vi/g3mInZkczaY/mqdefault.jpg",
-      "published": "2026-06-16T23:30:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,27 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Bola-Bola com Falcão #3 - Dunga",
-      "videoId": "cAnp3KfeLUQ",
-      "url": "https://www.youtube.com/watch?v=cAnp3KfeLUQ",
-      "thumbnail": "https://i.ytimg.com/vi/cAnp3KfeLUQ/mqdefault.jpg",
-      "published": "2026-06-17T14:00:02Z"
+      "title": "A carreira do jogador Felipão | Cortes do Bola-Bola",
+      "videoId": "4pQZzOUxS0o",
+      "url": "https://www.youtube.com/watch?v=4pQZzOUxS0o",
+      "thumbnail": "https://i.ytimg.com/vi/4pQZzOUxS0o/mqdefault.jpg",
+      "published": "2026-06-17T15:00:17Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #08 - 17.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "PkuJ3jgtCc0",
-      "url": "https://www.youtube.com/watch?v=PkuJ3jgtCc0",
-      "thumbnail": "https://i.ytimg.com/vi/PkuJ3jgtCc0/mqdefault.jpg",
-      "published": "2026-06-17T13:26:18Z"
+      "title": "Como Felipão decidiu não convocar Romário para a Copa de 2002 | Cortes do Bola-Bola",
+      "videoId": "yHv8fuDzPBM",
+      "url": "https://www.youtube.com/watch?v=yHv8fuDzPBM",
+      "thumbnail": "https://i.ytimg.com/vi/yHv8fuDzPBM/mqdefault.jpg",
+      "published": "2026-06-17T14:30:17Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "COLETIVA DE APRESENTAÇÃO: RAFAEL LIMA I VICE-PRESIDENTE DE FUTEBOL",
+      "videoId": "HlN7ET4Ue1c",
+      "url": "https://www.youtube.com/watch?v=HlN7ET4Ue1c",
+      "thumbnail": "https://i.ytimg.com/vi/HlN7ET4Ue1c/mqdefault.jpg",
+      "published": "2026-06-17T14:51:26Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-06-16T22:48:14Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | INTERNACIONAL 2 (3) X (4) 1 GRÊMIO (CAMPEONATO GAÚCHO SUB-17)",
-      "videoId": "QoyFNjg-ADs",
-      "url": "https://www.youtube.com/watch?v=QoyFNjg-ADs",
-      "thumbnail": "https://i.ytimg.com/vi/QoyFNjg-ADs/mqdefault.jpg",
-      "published": "2026-06-16T20:00:07Z"
+      "channel": "GZH Digital",
+      "title": "Do Interior à Capital: A Origem dos Restaurantes Tradicionais de Porto Alegre | Zero Hora",
+      "videoId": "HqqeVc_jhtY",
+      "url": "https://www.youtube.com/watch?v=HqqeVc_jhtY",
+      "thumbnail": "https://i.ytimg.com/vi/HqqeVc_jhtY/mqdefault.jpg",
+      "published": "2026-06-17T14:57:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Endividamento de produtores rurais, Copa do Mundo, trânsito e mais | Gaúcha Atualidade | 17/06/2026",
-      "videoId": "01iTDP1gNRo",
-      "url": "https://www.youtube.com/watch?v=01iTDP1gNRo",
-      "thumbnail": "https://i.ytimg.com/vi/01iTDP1gNRo/mqdefault.jpg",
-      "published": "2026-06-17T13:37:31Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Vitória da Argentina com três gols de Messi, caso do rope jump, CIC Caxias e + | Timeline 17/06/26",
-      "videoId": "9gPgGAf2jSM",
-      "url": "https://www.youtube.com/watch?v=9gPgGAf2jSM",
-      "thumbnail": "https://i.ytimg.com/vi/9gPgGAf2jSM/mqdefault_live.jpg",
-      "published": "2026-06-17T13:05:26Z"
+      "title": "| Timeline 18/06/26",
+      "videoId": "JSUdlS7ruDY",
+      "url": "https://www.youtube.com/watch?v=JSUdlS7ruDY",
+      "thumbnail": "https://i.ytimg.com/vi/JSUdlS7ruDY/mqdefault_live.jpg",
+      "published": "2026-06-17T14:56:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "zzhbILD7GT0",
       "url": "https://www.youtube.com/watch?v=zzhbILD7GT0",
       "thumbnail": "https://i.ytimg.com/vi/zzhbILD7GT0/mqdefault_live.jpg",
-      "published": "2026-06-17T13:30:30Z"
+      "published": "2026-06-17T14:57:44Z"
     },
     {
       "channel": "Radio Imortal",
