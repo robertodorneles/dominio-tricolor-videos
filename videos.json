@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T01:00:47.158016+00:00",
+  "updated_at": "2026-06-17T02:00:47.068425+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "3embD-T-ilo",
       "url": "https://www.youtube.com/watch?v=3embD-T-ilo",
       "thumbnail": "https://i.ytimg.com/vi/3embD-T-ilo/mqdefault_live.jpg",
-      "published": "2026-06-17T00:15:47Z"
+      "published": "2026-06-17T01:08:52Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ARGENTINA X ARGÉLIA - 🟢AO VIVO🟢 - JORNADA DO BAGÉ ESPECIAL COPA",
+      "videoId": "Kd_7EFGxjMs",
+      "url": "https://www.youtube.com/watch?v=Kd_7EFGxjMs",
+      "thumbnail": "https://i.ytimg.com/vi/Kd_7EFGxjMs/mqdefault_live.jpg",
+      "published": "2026-06-17T01:01:38Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "💣BOMBA - ARTHUR VAI DEIXAR O GREMIO | FRANÇA X SENEGAL - 🟢AO VIVO🟢 - JORNADA DO BAGÉ ESPECIAL COPA",
       "videoId": "cVvZjcbJK_0",
       "url": "https://www.youtube.com/watch?v=cVvZjcbJK_0",
       "thumbnail": "https://i.ytimg.com/vi/cVvZjcbJK_0/mqdefault.jpg",
       "published": "2026-06-16T21:20:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "URGENTE! GRÊMIO ANUNCIA SAÍDA DE ARTHUR🔸RESENHA FORA DA SALA🔸#067",
-      "videoId": "QqwQA44kPos",
-      "url": "https://www.youtube.com/watch?v=QqwQA44kPos",
-      "thumbnail": "https://i.ytimg.com/vi/QqwQA44kPos/mqdefault.jpg",
-      "published": "2026-06-16T18:36:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Fim da escala 6x1, Argentina na Copa do Mundo, trânsito e mais | Gaúcha Atualidade | 16/06/2026",
+      "videoId": "XT7FNd827G4",
+      "url": "https://www.youtube.com/watch?v=XT7FNd827G4",
+      "thumbnail": "https://i.ytimg.com/vi/XT7FNd827G4/mqdefault.jpg",
+      "published": "2026-06-17T01:33:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O MANÍACO DO CASSINO | Detalhes e bastidores do julgamento que parou o Rio Grande do Sul #06",
       "videoId": "3ap8Cg5359U",
       "url": "https://www.youtube.com/watch?v=3ap8Cg5359U",
       "thumbnail": "https://i.ytimg.com/vi/3ap8Cg5359U/mqdefault.jpg",
       "published": "2026-06-17T00:30:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "COPANDO TUDO NA COLA DOS HERMANOS NA ESTREIA DA ARGENTINA NO MUNDIAL | COPANDO TUDO | 16/06/2026",
-      "videoId": "yhi1teKR1-8",
-      "url": "https://www.youtube.com/watch?v=yhi1teKR1-8",
-      "thumbnail": "https://i.ytimg.com/vi/yhi1teKR1-8/mqdefault_live.jpg",
-      "published": "2026-06-16T23:35:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "BATnIk02m4A",
       "url": "https://www.youtube.com/watch?v=BATnIk02m4A",
       "thumbnail": "https://i.ytimg.com/vi/BATnIk02m4A/mqdefault_live.jpg",
-      "published": "2026-06-17T00:04:50Z"
+      "published": "2026-06-17T01:00:35Z"
     },
     {
       "channel": "Radio Imortal",
