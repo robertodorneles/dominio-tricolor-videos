@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-17T10:00:58.102757+00:00",
+  "updated_at": "2026-06-17T11:00:54.673623+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter KTO:  SAMIR E FASSON! | INDEPENDIENTE QUER ALAN | ELEIÇÕES",
+      "videoId": "jkOLl1WlAPg",
+      "url": "https://www.youtube.com/watch?v=jkOLl1WlAPg",
+      "thumbnail": "https://i.ytimg.com/vi/jkOLl1WlAPg/mqdefault.jpg",
+      "published": "2026-06-17T10:19:11Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: Castro e a saída de Arthur confirmada | Venda de atacante | Mec oferta",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=DSE83T7LjgA",
       "thumbnail": "https://i.ytimg.com/vi/DSE83T7LjgA/mqdefault.jpg",
       "published": "2026-06-17T04:39:50Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: ARGELINOS DESDE BERÇO! | SECANDO OS CARAS EM NY",
-      "videoId": "3embD-T-ilo",
-      "url": "https://www.youtube.com/watch?v=3embD-T-ilo",
-      "thumbnail": "https://i.ytimg.com/vi/3embD-T-ilo/mqdefault.jpg",
-      "published": "2026-06-17T03:42:28Z"
     },
     {
       "channel": "Bage TV",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "17/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "ANLxvznziDw",
+      "url": "https://www.youtube.com/watch?v=ANLxvznziDw",
+      "thumbnail": "https://i.ytimg.com/vi/ANLxvznziDw/mqdefault_live.jpg",
+      "published": "2026-06-17T10:33:54Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "16/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "AXaBlfnusOY",
       "url": "https://www.youtube.com/watch?v=AXaBlfnusOY",
@@ -219,12 +227,12 @@
       "published": "2026-06-16T23:42:06Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "QUEM É O REI DA ZAGA PELO LADO DIREITO? | CORTES RÁDIO GRENAL | 16/06/2026",
-      "videoId": "EpDh_Jky9Xg",
-      "url": "https://www.youtube.com/watch?v=EpDh_Jky9Xg",
-      "thumbnail": "https://i.ytimg.com/vi/EpDh_Jky9Xg/mqdefault.jpg",
-      "published": "2026-06-16T21:00:24Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 17/06- CORINTHIANS 1X3 GRÊMIO (COPA DO BRASIL 2001)",
+      "videoId": "s3yziIsWwec",
+      "url": "https://www.youtube.com/watch?v=s3yziIsWwec",
+      "thumbnail": "https://i.ytimg.com/vi/s3yziIsWwec/mqdefault.jpg",
+      "published": "2026-06-17T11:00:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=BATnIk02m4A",
       "thumbnail": "https://i.ytimg.com/vi/BATnIk02m4A/mqdefault_live.jpg",
       "published": "2026-06-17T01:00:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GABRIEL MEC DE SAÍDA? GRÊMIO RECEBE PROPOSTA DA INGLATERRA",
-      "videoId": "0SDZnXPN25A",
-      "url": "https://www.youtube.com/watch?v=0SDZnXPN25A",
-      "thumbnail": "https://i.ytimg.com/vi/0SDZnXPN25A/mqdefault.jpg",
-      "published": "2026-06-16T23:17:08Z"
     }
   ]
 }
