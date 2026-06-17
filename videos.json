@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T21:00:51.286795+00:00",
+  "updated_at": "2026-06-17T21:58:09.678578+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #611: Entrevista de Odorico e Rafael Lima | Amistosos do Grêmio | André Henrique",
+      "videoId": "oimGYenTkWo",
+      "url": "https://www.youtube.com/watch?v=oimGYenTkWo",
+      "thumbnail": "https://i.ytimg.com/vi/oimGYenTkWo/mqdefault.jpg",
+      "published": "2026-06-17T21:41:07Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Negociações por jogadores do Grêmio | Repercussão da saída de Arthur",
       "videoId": "8UgRfao0HJo",
       "url": "https://www.youtube.com/watch?v=8UgRfao0HJo",
       "thumbnail": "https://i.ytimg.com/vi/8UgRfao0HJo/mqdefault.jpg",
       "published": "2026-06-17T14:51:57Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Arthur fora do Grêmio",
-      "videoId": "JsDtEPXOKM0",
-      "url": "https://www.youtube.com/watch?v=JsDtEPXOKM0",
-      "thumbnail": "https://i.ytimg.com/vi/JsDtEPXOKM0/mqdefault.jpg",
-      "published": "2026-06-16T20:03:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "HAT TRICK DE MESSI, ESTREIA DE CR7 E CONGO FAZENDO HISTÓRIA | COPANDO TUDO | 17/06/2026",
+      "videoId": "L2QqafuAPIg",
+      "url": "https://www.youtube.com/watch?v=L2QqafuAPIg",
+      "thumbnail": "https://i.ytimg.com/vi/L2QqafuAPIg/mqdefault_live.jpg",
+      "published": "2026-06-17T21:40:36Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Eduardo Bolsonaro condenado: STF acertou ou errou na decisão? | Conversas Cruzadas | 17/06/2026",
       "videoId": "znKSz-NcqgI",
       "url": "https://www.youtube.com/watch?v=znKSz-NcqgI",
       "thumbnail": "https://i.ytimg.com/vi/znKSz-NcqgI/mqdefault_live.jpg",
-      "published": "2026-06-17T20:32:32Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Bergamota o ano inteiro? Conheça as variedades do RS!",
-      "videoId": "6vCoMvPJMhI",
-      "url": "https://www.youtube.com/watch?v=6vCoMvPJMhI",
-      "thumbnail": "https://i.ytimg.com/vi/6vCoMvPJMhI/mqdefault.jpg",
-      "published": "2026-06-17T19:45:27Z"
+      "published": "2026-06-17T21:25:37Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO DE VOLTA AOS TREINOS | JOGOS CONTRA CHAPE E CRUZEIRO | NOITES DE GRÊMIO #93 - 17/06",
+      "videoId": "CYVS0RlUT74",
+      "url": "https://www.youtube.com/watch?v=CYVS0RlUT74",
+      "thumbnail": "https://i.ytimg.com/vi/CYVS0RlUT74/mqdefault_live.jpg",
+      "published": "2026-06-17T21:00:44Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENDENDO ATACANTE! | AUSÊNCIAS NA REAPRESENTAÇÃO | AMISTOSOS PROGRAMADOS | ESPLANADA",
       "videoId": "wLVylJhc0bk",
       "url": "https://www.youtube.com/watch?v=wLVylJhc0bk",
       "thumbnail": "https://i.ytimg.com/vi/wLVylJhc0bk/mqdefault.jpg",
       "published": "2026-06-17T20:18:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 17/06",
-      "videoId": "eBgLwigCB_I",
-      "url": "https://www.youtube.com/watch?v=eBgLwigCB_I",
-      "thumbnail": "https://i.ytimg.com/vi/eBgLwigCB_I/mqdefault_live.jpg",
-      "published": "2026-06-17T16:46:58Z"
     }
   ]
 }
