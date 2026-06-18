@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T17:00:58.067007+00:00",
+  "updated_at": "2026-06-18T18:00:56.042240+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "MESSI É O PROTEGIDO DA COPA? #dudagarbi #umassadopara #copadomundo",
+      "videoId": "GC8_mnt3JZM",
+      "url": "https://www.youtube.com/watch?v=GC8_mnt3JZM",
+      "thumbnail": "https://i.ytimg.com/vi/GC8_mnt3JZM/mqdefault.jpg",
+      "published": "2026-06-18T17:03:54Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DECLARAÇÃO POLÊMICA DE RONALDO SOBRE MESSI - RICA PERRONE ENLOUQUECEU | Cortes do Duda",
       "videoId": "l9vxPZN-fmw",
       "url": "https://www.youtube.com/watch?v=l9vxPZN-fmw",
       "thumbnail": "https://i.ytimg.com/vi/l9vxPZN-fmw/mqdefault.jpg",
       "published": "2026-06-18T17:00:37Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... EMERSON E RICA PERRONE  | #390",
-      "videoId": "XC_48cSLBDk",
-      "url": "https://www.youtube.com/watch?v=XC_48cSLBDk",
-      "thumbnail": "https://i.ytimg.com/vi/XC_48cSLBDk/mqdefault.jpg",
-      "published": "2026-06-18T16:13:06Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 18/06",
+      "videoId": "g2srazbwAl4",
+      "url": "https://www.youtube.com/watch?v=g2srazbwAl4",
+      "thumbnail": "https://i.ytimg.com/vi/g2srazbwAl4/mqdefault_live.jpg",
+      "published": "2026-06-18T17:11:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #94 — AS NOVIDADES E OS PROBLEMAS DO GRÊMIO NO RETORNO AOS TRABALHOS",
       "videoId": "sFI1ra1_kLU",
       "url": "https://www.youtube.com/watch?v=sFI1ra1_kLU",
       "thumbnail": "https://i.ytimg.com/vi/sFI1ra1_kLU/mqdefault.jpg",
       "published": "2026-06-18T15:49:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO RETOMA OS TRABALHOS | O VALOR NECESSÁRIO EM VENDAS | AMISTOSOS CONFIRMADOS | REDAÇÃO IMORTAL",
-      "videoId": "meLTCQFlwZs",
-      "url": "https://www.youtube.com/watch?v=meLTCQFlwZs",
-      "thumbnail": "https://i.ytimg.com/vi/meLTCQFlwZs/mqdefault.jpg",
-      "published": "2026-06-18T13:19:50Z"
     }
   ]
 }
