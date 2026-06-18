@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T01:00:51.671025+00:00",
+  "updated_at": "2026-06-18T02:00:58.331330+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "aL9b3wT7A-A",
       "url": "https://www.youtube.com/watch?v=aL9b3wT7A-A",
       "thumbnail": "https://i.ytimg.com/vi/aL9b3wT7A-A/mqdefault_live.jpg",
-      "published": "2026-06-17T19:13:57Z"
+      "published": "2026-06-18T01:03:08Z"
     },
     {
       "channel": "A Dupla",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO DE VOLTA AOS TREINOS | JOGOS CONTRA CHAPE E CRUZEIRO | NOITES DE GRÊMIO #93 - 17/06",
+      "videoId": "CYVS0RlUT74",
+      "url": "https://www.youtube.com/watch?v=CYVS0RlUT74",
+      "thumbnail": "https://i.ytimg.com/vi/CYVS0RlUT74/mqdefault_live.jpg",
+      "published": "2026-06-18T01:59:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COMO FOI A REAPRESENTAÇÃO DO GRÊMIO | AUSÊNCIAS E RETORNOS | TRANSFERÊNCIA ENCAMINHADA | IMORTAL FC",
       "videoId": "eBgLwigCB_I",
       "url": "https://www.youtube.com/watch?v=eBgLwigCB_I",
       "thumbnail": "https://i.ytimg.com/vi/eBgLwigCB_I/mqdefault.jpg",
       "published": "2026-06-17T23:08:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO DE VOLTA AOS TREINOS | JOGOS CONTRA CHAPE E CRUZEIRO | NOITES DE GRÊMIO #93 - 17/06",
-      "videoId": "CYVS0RlUT74",
-      "url": "https://www.youtube.com/watch?v=CYVS0RlUT74",
-      "thumbnail": "https://i.ytimg.com/vi/CYVS0RlUT74/mqdefault_live.jpg",
-      "published": "2026-06-17T21:00:44Z"
     }
   ]
 }
