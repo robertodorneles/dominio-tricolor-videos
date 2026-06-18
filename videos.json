@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:00:53.900368+00:00",
+  "updated_at": "2026-06-18T16:01:10.017149+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,24 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #004",
       "videoId": "BbwPzk-guNw",
       "url": "https://www.youtube.com/watch?v=BbwPzk-guNw",
-      "thumbnail": "https://i.ytimg.com/vi/BbwPzk-guNw/mqdefault_live.jpg",
-      "published": "2026-06-18T14:51:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/BbwPzk-guNw/mqdefault.jpg",
+      "published": "2026-06-18T15:38:40Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO SE PREPARA PARA ATRASOS SALARIAIS 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 18/06 - #571",
-      "videoId": "yT128Xs3TUo",
-      "url": "https://www.youtube.com/watch?v=yT128Xs3TUo",
-      "thumbnail": "https://i.ytimg.com/vi/yT128Xs3TUo/mqdefault.jpg",
-      "published": "2026-06-18T14:06:11Z"
+      "title": "🔹 THE TARDE 🔹#170",
+      "videoId": "dTbEmHjo2KE",
+      "url": "https://www.youtube.com/watch?v=dTbEmHjo2KE",
+      "thumbnail": "https://i.ytimg.com/vi/dTbEmHjo2KE/mqdefault_live.jpg",
+      "published": "2026-06-18T15:15:46Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨SEIS TITULARES PODEM DEIXAR O GRÊMIO | O NOVO MEIO SEM ARTHUR | UM BOM REFORÇO CASEIRO!",
+      "videoId": "mnYKfCTWn5U",
+      "url": "https://www.youtube.com/watch?v=mnYKfCTWn5U",
+      "thumbnail": "https://i.ytimg.com/vi/mnYKfCTWn5U/mqdefault.jpg",
+      "published": "2026-06-18T15:03:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=ZFlpa98J9cY",
       "thumbnail": "https://i.ytimg.com/vi/ZFlpa98J9cY/mqdefault.jpg",
       "published": "2026-06-17T23:07:16Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS UM TITULAR SAINDO | O NEGÓCIO CONFIRMADO | COLETIVA DE DIRIGENTE DO GRÊMIO | PROTESTO FORTE",
-      "videoId": "ODrQkm9Q4vw",
-      "url": "https://www.youtube.com/watch?v=ODrQkm9Q4vw",
-      "thumbnail": "https://i.ytimg.com/vi/ODrQkm9Q4vw/mqdefault.jpg",
-      "published": "2026-06-17T15:12:31Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "O que tirou o Felipão do fundo do poço depois do 7 a 1 #dudagarbi  #bolabolacomfalcao #falcao",
-      "videoId": "aeA1_3dKu_Y",
-      "url": "https://www.youtube.com/watch?v=aeA1_3dKu_Y",
-      "thumbnail": "https://i.ytimg.com/vi/aeA1_3dKu_Y/mqdefault.jpg",
-      "published": "2026-06-18T15:00:19Z"
+      "title": "O CORTE POLÊMICO DA COPA #dudagarbi #umassadopara #copadomundo",
+      "videoId": "Zd1oSCNqU-s",
+      "url": "https://www.youtube.com/watch?v=Zd1oSCNqU-s",
+      "thumbnail": "https://i.ytimg.com/vi/Zd1oSCNqU-s/mqdefault.jpg",
+      "published": "2026-06-18T15:22:37Z"
     },
     {
       "channel": "Duda Garbi",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "18/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "18/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "c7Sencej1N8",
       "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
       "thumbnail": "https://i.ytimg.com/vi/c7Sencej1N8/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #94 — AS NOVIDADES E OS PROBLEMAS DO GRÊMIO NO RETORNO AOS TRABALHOS",
       "videoId": "sFI1ra1_kLU",
       "url": "https://www.youtube.com/watch?v=sFI1ra1_kLU",
-      "thumbnail": "https://i.ytimg.com/vi/sFI1ra1_kLU/mqdefault_live.jpg",
-      "published": "2026-06-18T13:49:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/sFI1ra1_kLU/mqdefault.jpg",
+      "published": "2026-06-18T15:49:34Z"
     },
     {
       "channel": "Radio Imortal",
