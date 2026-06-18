@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:04:04.165013+00:00",
+  "updated_at": "2026-06-18T23:00:45.073968+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ECONOMIZAR OU COMPETIR? O DILEMA QUE DIVIDE O GRÊMIO! - VAMOOO FARIDO 18.06.26",
+      "videoId": "xgKf8LHmoAQ",
+      "url": "https://www.youtube.com/watch?v=xgKf8LHmoAQ",
+      "thumbnail": "https://i.ytimg.com/vi/xgKf8LHmoAQ/mqdefault_live.jpg",
+      "published": "2026-06-18T22:19:27Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SEM FIRULA COM NADO GROSS E FARID GERMANO - #EP04",
       "videoId": "5HZFc0ixLQQ",
       "url": "https://www.youtube.com/watch?v=5HZFc0ixLQQ",
       "thumbnail": "https://i.ytimg.com/vi/5HZFc0ixLQQ/mqdefault_live.jpg",
       "published": "2026-06-18T21:34:08Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ECONOMIZAR OU COMPETIR? O DILEMA QUE DIVIDE O GRÊMIO! - VAMOOO FARIDO 18.06.26",
-      "videoId": "xgKf8LHmoAQ",
-      "url": "https://www.youtube.com/watch?v=xgKf8LHmoAQ",
-      "thumbnail": "https://i.ytimg.com/vi/xgKf8LHmoAQ/mqdefault_live.jpg",
-      "published": "2026-06-18T20:54:37Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MARLON: DATA DE VOLTA | A OPERAÇÃO ANDRÉ HENRIQUE NO GRÊMIO!",
+      "videoId": "COABPhCz4r0",
+      "url": "https://www.youtube.com/watch?v=COABPhCz4r0",
+      "thumbnail": "https://i.ytimg.com/vi/COABPhCz4r0/mqdefault.jpg",
+      "published": "2026-06-18T22:57:50Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "O MUSEU DA COPA! #futebol #copa",
       "videoId": "pJnYUXoVPgY",
       "url": "https://www.youtube.com/watch?v=pJnYUXoVPgY",
       "thumbnail": "https://i.ytimg.com/vi/pJnYUXoVPgY/mqdefault.jpg",
       "published": "2026-06-18T20:39:58Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "SITUAÇÃO CRÍTICA: PERDAS, ATRASOS E AUSÊNCIAS | ERRO NA COLETIVA | GRÊMIO VOLTA TREINAR.",
-      "videoId": "fURlRz6qvZM",
-      "url": "https://www.youtube.com/watch?v=fURlRz6qvZM",
-      "thumbnail": "https://i.ytimg.com/vi/fURlRz6qvZM/mqdefault.jpg",
-      "published": "2026-06-17T20:50:22Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,7 +180,7 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "Montando o time do Grêmio do segundo semestre",
+      "title": "Qual vai ser time do Grêmio do segundo semestre?",
       "videoId": "VruhQxuIpqY",
       "url": "https://www.youtube.com/watch?v=VruhQxuIpqY",
       "thumbnail": "https://i.ytimg.com/vi/VruhQxuIpqY/mqdefault.jpg",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨CARLOS VINÍCIUS DE SAÍDA DO GRÊMIO!? | GRÊMIO PODE PERDER CENTROAVANTE | O MEIO-CAMPO DEFINIDO",
+      "videoId": "i-5fBXNGgwg",
+      "url": "https://www.youtube.com/watch?v=i-5fBXNGgwg",
+      "thumbnail": "https://i.ytimg.com/vi/i-5fBXNGgwg/mqdefault.jpg",
+      "published": "2026-06-18T22:23:32Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨R$ 120 MILHÕES POR JOGADOR | PROPOSTA MILIONÁRIA | MAIS DOIS DEIXANDO O GRÊMIO",
       "videoId": "sGHE-W3m_nE",
       "url": "https://www.youtube.com/watch?v=sGHE-W3m_nE",
       "thumbnail": "https://i.ytimg.com/vi/sGHE-W3m_nE/mqdefault.jpg",
       "published": "2026-06-17T22:46:24Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO JÁ ESCOLHEU O SUBSTITUTO DE ARTHUR | O RISCO DE REBAIXAMENTO | DECISÃO PODE CUSTAR CARO",
-      "videoId": "VX76IieRSB0",
-      "url": "https://www.youtube.com/watch?v=VX76IieRSB0",
-      "thumbnail": "https://i.ytimg.com/vi/VX76IieRSB0/mqdefault.jpg",
-      "published": "2026-06-16T19:34:00Z"
     },
     {
       "channel": "Radio Grenal",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "18/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "18/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "c7Sencej1N8",
       "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
       "thumbnail": "https://i.ytimg.com/vi/c7Sencej1N8/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "MARLON VOLTA A CORRER E REFORÇA O GRÊMIO EM BREVE | OS TRABALHOS DE LUÍS CASTRO NO CT | IMORTAL FC",
       "videoId": "g2srazbwAl4",
       "url": "https://www.youtube.com/watch?v=g2srazbwAl4",
-      "thumbnail": "https://i.ytimg.com/vi/g2srazbwAl4/mqdefault_live.jpg",
-      "published": "2026-06-18T21:04:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/g2srazbwAl4/mqdefault.jpg",
+      "published": "2026-06-18T22:27:14Z"
     },
     {
       "channel": "Radio Imortal",
