@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T10:01:03.478595+00:00",
+  "updated_at": "2026-06-18T11:00:54.866696+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com Eduardo Leite, Jaques Wagner no caso Master e mais | Gaúcha Atualidade | 18/06/2026",
+      "videoId": "-4kG_31FrBA",
+      "url": "https://www.youtube.com/watch?v=-4kG_31FrBA",
+      "thumbnail": "https://i.ytimg.com/vi/-4kG_31FrBA/mqdefault_live.jpg",
+      "published": "2026-06-18T10:57:53Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Eduardo Bolsonaro condenado: STF acertou ou errou na decisão? | Conversas Cruzadas | 17/06/2026",
       "videoId": "znKSz-NcqgI",
       "url": "https://www.youtube.com/watch?v=znKSz-NcqgI",
       "thumbnail": "https://i.ytimg.com/vi/znKSz-NcqgI/mqdefault.jpg",
       "published": "2026-06-18T09:39:04Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "HAT TRICK DE MESSI, ESTREIA DE CR7 E CONGO FAZENDO HISTÓRIA | COPANDO TUDO | 17/06/2026",
-      "videoId": "L2QqafuAPIg",
-      "url": "https://www.youtube.com/watch?v=L2QqafuAPIg",
-      "thumbnail": "https://i.ytimg.com/vi/L2QqafuAPIg/mqdefault_live.jpg",
-      "published": "2026-06-17T23:33:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "18/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "c7Sencej1N8",
       "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
       "thumbnail": "https://i.ytimg.com/vi/c7Sencej1N8/mqdefault_live.jpg",
       "published": "2026-06-17T23:02:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 18/06- INTER 1X10 GRÊMIO (1911)",
+      "videoId": "Le2lb0JTjTA",
+      "url": "https://www.youtube.com/watch?v=Le2lb0JTjTA",
+      "thumbnail": "https://i.ytimg.com/vi/Le2lb0JTjTA/mqdefault.jpg",
+      "published": "2026-06-18T11:00:27Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=lnZbQqQT450",
       "thumbnail": "https://i.ytimg.com/vi/lnZbQqQT450/mqdefault_live.jpg",
       "published": "2026-06-18T03:41:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #94 — AS NOVIDADES E OS PROBLEMAS DO GRÊMIO NO RETORNO AOS TRABALHOS",
-      "videoId": "sFI1ra1_kLU",
-      "url": "https://www.youtube.com/watch?v=sFI1ra1_kLU",
-      "thumbnail": "https://i.ytimg.com/vi/sFI1ra1_kLU/mqdefault_live.jpg",
-      "published": "2026-06-18T03:40:49Z"
     }
   ]
 }
