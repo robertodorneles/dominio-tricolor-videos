@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-19T00:00:51.418389+00:00",
+  "updated_at": "2026-06-19T00:23:46.648649+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: CONCRET JUNGLE! | MANHATTAN IS CRAZY | VESPERA DE BRASA",
+      "videoId": "uTC9-wf8ORM",
+      "url": "https://www.youtube.com/watch?v=uTC9-wf8ORM",
+      "thumbnail": "https://i.ytimg.com/vi/uTC9-wf8ORM/mqdefault_live.jpg",
+      "published": "2026-06-19T00:02:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 REFORÇO DE PESO | ZAGUEIRO RENOVOU! | SAÍDAS CONFIRMADAS!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ah_o-ylndig",
       "thumbnail": "https://i.ytimg.com/vi/ah_o-ylndig/mqdefault.jpg",
       "published": "2026-06-18T07:05:41Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Retorno aos treinamentos | Novidades para o time | Novo dirigente",
-      "videoId": "r8KQX__7ADA",
-      "url": "https://www.youtube.com/watch?v=r8KQX__7ADA",
-      "thumbnail": "https://i.ytimg.com/vi/r8KQX__7ADA/mqdefault.jpg",
-      "published": "2026-06-18T05:00:31Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #612: Tetê | Marlon | Novidades na Arena | Allan Guimarães e mais",
+      "videoId": "JpOU9n-1ZaU",
+      "url": "https://www.youtube.com/watch?v=JpOU9n-1ZaU",
+      "thumbnail": "https://i.ytimg.com/vi/JpOU9n-1ZaU/mqdefault.jpg",
+      "published": "2026-06-19T00:19:33Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Situação de Marlon | Folha do Grêmio e reforços",
       "videoId": "GCCoCg2UH-c",
       "url": "https://www.youtube.com/watch?v=GCCoCg2UH-c",
@@ -59,12 +67,12 @@
       "published": "2026-06-18T14:46:25Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #611: Entrevista de Odorico e Rafael Lima | Amistosos do Grêmio | André Henrique",
-      "videoId": "oimGYenTkWo",
-      "url": "https://www.youtube.com/watch?v=oimGYenTkWo",
-      "thumbnail": "https://i.ytimg.com/vi/oimGYenTkWo/mqdefault.jpg",
-      "published": "2026-06-17T21:41:07Z"
+      "channel": "Canal do Farid",
+      "title": "TUDO SOBRE A COPA  AO VIVO | HORA DA COPA #1",
+      "videoId": "adv1E3jZDFg",
+      "url": "https://www.youtube.com/watch?v=adv1E3jZDFg",
+      "thumbnail": "https://i.ytimg.com/vi/adv1E3jZDFg/mqdefault_live.jpg",
+      "published": "2026-06-19T00:15:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -72,15 +80,7 @@
       "videoId": "5HZFc0ixLQQ",
       "url": "https://www.youtube.com/watch?v=5HZFc0ixLQQ",
       "thumbnail": "https://i.ytimg.com/vi/5HZFc0ixLQQ/mqdefault_live.jpg",
-      "published": "2026-06-18T23:06:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ECONOMIZAR OU COMPETIR? O DILEMA QUE DIVIDE O GRÊMIO! - VAMOOO FARIDO 18.06.26",
-      "videoId": "xgKf8LHmoAQ",
-      "url": "https://www.youtube.com/watch?v=xgKf8LHmoAQ",
-      "thumbnail": "https://i.ytimg.com/vi/xgKf8LHmoAQ/mqdefault_live.jpg",
-      "published": "2026-06-18T22:19:27Z"
+      "published": "2026-06-19T00:11:28Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "REFORÇO NA LATERAL DO GRÊMIO | ÚLTIMAS NOTÍCIAS DO TRICOLOR | NOITES DE GRÊMIO #94 - 18/06",
+      "videoId": "RQCFerjKnh8",
+      "url": "https://www.youtube.com/watch?v=RQCFerjKnh8",
+      "thumbnail": "https://i.ytimg.com/vi/RQCFerjKnh8/mqdefault_live.jpg",
+      "published": "2026-06-19T00:03:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 19/06",
       "videoId": "dbZfJmjsgQk",
       "url": "https://www.youtube.com/watch?v=dbZfJmjsgQk",
       "thumbnail": "https://i.ytimg.com/vi/dbZfJmjsgQk/mqdefault_live.jpg",
       "published": "2026-06-18T23:38:09Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #95 — O NOVO VISUAL DA ARENA | CORTEZ É \"PROMOVIDO\" | MOVIMENTAÇÕES NO MERCADO",
-      "videoId": "kMFnRTf3lwg",
-      "url": "https://www.youtube.com/watch?v=kMFnRTf3lwg",
-      "thumbnail": "https://i.ytimg.com/vi/kMFnRTf3lwg/mqdefault_live.jpg",
-      "published": "2026-06-18T23:35:54Z"
     }
   ]
 }
