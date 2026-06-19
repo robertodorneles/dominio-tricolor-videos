@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T10:00:52.905779+00:00",
+  "updated_at": "2026-06-19T11:00:53.878213+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ECONOMIZAR OU COMPETIR? O DILEMA QUE DIVIDE O GRÊMIO! - VAMOOO FARIDO 18.06.26",
+      "videoId": "xgKf8LHmoAQ",
+      "url": "https://www.youtube.com/watch?v=xgKf8LHmoAQ",
+      "thumbnail": "https://i.ytimg.com/vi/xgKf8LHmoAQ/mqdefault.jpg",
+      "published": "2026-06-19T10:29:42Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "TUDO SOBRE A COPA  AO VIVO | HORA DA COPA #1",
       "videoId": "adv1E3jZDFg",
       "url": "https://www.youtube.com/watch?v=adv1E3jZDFg",
       "thumbnail": "https://i.ytimg.com/vi/adv1E3jZDFg/mqdefault_live.jpg",
       "published": "2026-06-19T01:44:41Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "FARID E NANDO GROSS - REAÇÕES AO VIVO - RUMO AO HEXA #02",
-      "videoId": "PsodcciaW1o",
-      "url": "https://www.youtube.com/watch?v=PsodcciaW1o",
-      "thumbnail": "https://i.ytimg.com/vi/PsodcciaW1o/mqdefault_live.jpg",
-      "published": "2026-06-19T01:30:32Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 19/06/2026",
+      "videoId": "1f0L6BWALXQ",
+      "url": "https://www.youtube.com/watch?v=1f0L6BWALXQ",
+      "thumbnail": "https://i.ytimg.com/vi/1f0L6BWALXQ/mqdefault_live.jpg",
+      "published": "2026-06-19T10:58:00Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O que Porto Alegre precisa para modernizar o transporte público? | Conversas Cruzadas | 18/06/2026",
       "videoId": "-SVfsreJuqI",
       "url": "https://www.youtube.com/watch?v=-SVfsreJuqI",
       "thumbnail": "https://i.ytimg.com/vi/-SVfsreJuqI/mqdefault.jpg",
       "published": "2026-06-19T09:40:19Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Entrevista com Eduardo Leite, Jaques Wagner no caso Master e mais | Gaúcha Atualidade | 18/06/2026",
-      "videoId": "-4kG_31FrBA",
-      "url": "https://www.youtube.com/watch?v=-4kG_31FrBA",
-      "thumbnail": "https://i.ytimg.com/vi/-4kG_31FrBA/mqdefault.jpg",
-      "published": "2026-06-19T01:18:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "19/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "ftpazesKxHU",
+      "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
+      "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault_live.jpg",
+      "published": "2026-06-19T10:55:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "18/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "c7Sencej1N8",
       "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
@@ -219,12 +227,12 @@
       "published": "2026-06-18T23:38:36Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "QUEM É O REI DA POSIÇÃO DE VOLANTE? | CORTES RÁDIO GRENAL | 18/06/2026",
-      "videoId": "tlE7DBfGrwI",
-      "url": "https://www.youtube.com/watch?v=tlE7DBfGrwI",
-      "thumbnail": "https://i.ytimg.com/vi/tlE7DBfGrwI/mqdefault.jpg",
-      "published": "2026-06-18T19:20:55Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 19/06- GRÊMIO 2X0 CRUZEIRO (BRASILEIRÃO 2016)",
+      "videoId": "NhWX6r6l5zE",
+      "url": "https://www.youtube.com/watch?v=NhWX6r6l5zE",
+      "thumbnail": "https://i.ytimg.com/vi/NhWX6r6l5zE/mqdefault.jpg",
+      "published": "2026-06-19T11:00:31Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=RQCFerjKnh8",
       "thumbnail": "https://i.ytimg.com/vi/RQCFerjKnh8/mqdefault_live.jpg",
       "published": "2026-06-19T01:01:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 19/06",
-      "videoId": "dbZfJmjsgQk",
-      "url": "https://www.youtube.com/watch?v=dbZfJmjsgQk",
-      "thumbnail": "https://i.ytimg.com/vi/dbZfJmjsgQk/mqdefault_live.jpg",
-      "published": "2026-06-18T23:38:09Z"
     }
   ]
 }
