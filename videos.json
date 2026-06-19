@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T14:00:53.065532+00:00",
+  "updated_at": "2026-06-19T15:00:57.635375+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "5ObRRAfMFO0",
       "url": "https://www.youtube.com/watch?v=5ObRRAfMFO0",
       "thumbnail": "https://i.ytimg.com/vi/5ObRRAfMFO0/mqdefault_live.jpg",
-      "published": "2026-06-19T13:51:52Z"
+      "published": "2026-06-19T14:51:23Z"
     },
     {
       "channel": "Bage TV",
       "title": "RENATO LIVRE COLOCA PRESSÃO EM LUÍS CASTRO?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 19/06 - #572",
       "videoId": "nGJ0vKeQKY8",
       "url": "https://www.youtube.com/watch?v=nGJ0vKeQKY8",
-      "thumbnail": "https://i.ytimg.com/vi/nGJ0vKeQKY8/mqdefault_live.jpg",
-      "published": "2026-06-19T13:51:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/nGJ0vKeQKY8/mqdefault.jpg",
+      "published": "2026-06-19T14:10:05Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO ANUNCIA MAIS UMA SAÍDA | RENATO DE VOLTA? | O TRABALHO DE LUÍS CASTRO!",
+      "videoId": "PkQVUfVX3fo",
+      "url": "https://www.youtube.com/watch?v=PkQVUfVX3fo",
+      "thumbnail": "https://i.ytimg.com/vi/PkQVUfVX3fo/mqdefault.jpg",
+      "published": "2026-06-19T14:35:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=Vtjxqx73_qk",
       "thumbnail": "https://i.ytimg.com/vi/Vtjxqx73_qk/mqdefault.jpg",
       "published": "2026-06-18T23:47:42Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨SEIS TITULARES PODEM DEIXAR O GRÊMIO | O NOVO MEIO SEM ARTHUR | UM BOM REFORÇO CASEIRO!",
-      "videoId": "mnYKfCTWn5U",
-      "url": "https://www.youtube.com/watch?v=mnYKfCTWn5U",
-      "thumbnail": "https://i.ytimg.com/vi/mnYKfCTWn5U/mqdefault.jpg",
-      "published": "2026-06-18T15:03:12Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "TUDO SOBRE A COPA  AO VIVO | HORA DA COPA #1",
+      "videoId": "adv1E3jZDFg",
+      "url": "https://www.youtube.com/watch?v=adv1E3jZDFg",
+      "thumbnail": "https://i.ytimg.com/vi/adv1E3jZDFg/mqdefault.jpg",
+      "published": "2026-06-19T14:00:39Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SEM FIRULA COM NANDO GROSS E FARID GERMANO - #EP04",
       "videoId": "5HZFc0ixLQQ",
       "url": "https://www.youtube.com/watch?v=5HZFc0ixLQQ",
       "thumbnail": "https://i.ytimg.com/vi/5HZFc0ixLQQ/mqdefault.jpg",
       "published": "2026-06-19T12:25:51Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ECONOMIZAR OU COMPETIR? O DILEMA QUE DIVIDE O GRÊMIO! - VAMOOO FARIDO 18.06.26",
-      "videoId": "xgKf8LHmoAQ",
-      "url": "https://www.youtube.com/watch?v=xgKf8LHmoAQ",
-      "thumbnail": "https://i.ytimg.com/vi/xgKf8LHmoAQ/mqdefault.jpg",
-      "published": "2026-06-19T10:29:42Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #10 - 19.06 - PRÉ-JOGO BRASIL X HAITI - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "5a-TZ7O0uOM",
-      "url": "https://www.youtube.com/watch?v=5a-TZ7O0uOM",
-      "thumbnail": "https://i.ytimg.com/vi/5a-TZ7O0uOM/mqdefault.jpg",
-      "published": "2026-06-19T13:41:36Z"
+      "title": "As dificuldades da Copa de 2010 | Cortes do Bola-Bola",
+      "videoId": "HvLwI8lJb8I",
+      "url": "https://www.youtube.com/watch?v=HvLwI8lJb8I",
+      "thumbnail": "https://i.ytimg.com/vi/HvLwI8lJb8I/mqdefault.jpg",
+      "published": "2026-06-19T15:00:05Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "NEYMAR PODE JOGAR A COPA? #selecaobrasileira #dudagarbi #umassadopara #copadomundo",
-      "videoId": "5TdM1rNpxA0",
-      "url": "https://www.youtube.com/watch?v=5TdM1rNpxA0",
-      "thumbnail": "https://i.ytimg.com/vi/5TdM1rNpxA0/mqdefault.jpg",
-      "published": "2026-06-18T22:00:35Z"
+      "title": "MESSI MELHOR DE TODOS TEMPOS? #dudagarbi #umassadopara #copadomundo",
+      "videoId": "X0Zvd9C4Wgg",
+      "url": "https://www.youtube.com/watch?v=X0Zvd9C4Wgg",
+      "thumbnail": "https://i.ytimg.com/vi/X0Zvd9C4Wgg/mqdefault.jpg",
+      "published": "2026-06-19T14:40:09Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Segredos para lidar melhor com o estresse e a ansiedade, com a Dra. Ana Maria Rossi | Paralelas",
+      "videoId": "0FdVi5Y1nA4",
+      "url": "https://www.youtube.com/watch?v=0FdVi5Y1nA4",
+      "thumbnail": "https://i.ytimg.com/vi/0FdVi5Y1nA4/mqdefault.jpg",
+      "published": "2026-06-19T14:58:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Dia de Brasil x Haiti na Copa do Mundo, entrevista com Gregório Duvivier e mais | Timeline 19/06/26",
       "videoId": "huwfZH0rdls",
       "url": "https://www.youtube.com/watch?v=huwfZH0rdls",
       "thumbnail": "https://i.ytimg.com/vi/huwfZH0rdls/mqdefault_live.jpg",
       "published": "2026-06-19T13:56:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Jogo do Brasil na Copa do Mundo, últimas da política, economia e + | Gaúcha Atualidade | 19/06/2026",
-      "videoId": "1f0L6BWALXQ",
-      "url": "https://www.youtube.com/watch?v=1f0L6BWALXQ",
-      "thumbnail": "https://i.ytimg.com/vi/1f0L6BWALXQ/mqdefault_live.jpg",
-      "published": "2026-06-19T13:04:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "kMFnRTf3lwg",
       "url": "https://www.youtube.com/watch?v=kMFnRTf3lwg",
       "thumbnail": "https://i.ytimg.com/vi/kMFnRTf3lwg/mqdefault_live.jpg",
-      "published": "2026-06-19T13:51:19Z"
+      "published": "2026-06-19T15:00:06Z"
     },
     {
       "channel": "Radio Imortal",
