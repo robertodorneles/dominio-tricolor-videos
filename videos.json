@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:00:47.651568+00:00",
+  "updated_at": "2026-06-19T22:00:49.408099+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "TITULAR PODE SAIR? | VALORES VENDA ANDRÉ HENRIQUE | RENATO LIVRE: PRESSÃO NO GRÊMIO?",
+      "videoId": "74VxXJA-EhQ",
+      "url": "https://www.youtube.com/watch?v=74VxXJA-EhQ",
+      "thumbnail": "https://i.ytimg.com/vi/74VxXJA-EhQ/mqdefault.jpg",
+      "published": "2026-06-19T21:46:30Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "RENATO NO GRÊMIO? SEMPRE SERÁ LEMBRADO. #gremio #Futebol",
       "videoId": "U-A76Q073bA",
       "url": "https://www.youtube.com/watch?v=U-A76Q073bA",
       "thumbnail": "https://i.ytimg.com/vi/U-A76Q073bA/mqdefault.jpg",
       "published": "2026-06-19T11:54:30Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "MARLON: DATA DE VOLTA | A OPERAÇÃO ANDRÉ HENRIQUE NO GRÊMIO!",
-      "videoId": "COABPhCz4r0",
-      "url": "https://www.youtube.com/watch?v=COABPhCz4r0",
-      "thumbnail": "https://i.ytimg.com/vi/COABPhCz4r0/mqdefault.jpg",
-      "published": "2026-06-18T22:57:50Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Conversas Cruzadas | 22/06/2026",
+      "videoId": "8_yCaXMzGiU",
+      "url": "https://www.youtube.com/watch?v=8_yCaXMzGiU",
+      "thumbnail": "https://i.ytimg.com/vi/8_yCaXMzGiU/mqdefault_live.jpg",
+      "published": "2026-06-19T21:15:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "É GRIPE? Quais VACINAS protegem CONTRA INFECÇÕES e onde realizá-las | GZH",
       "videoId": "K0iwLm1VUa4",
       "url": "https://www.youtube.com/watch?v=K0iwLm1VUa4",
       "thumbnail": "https://i.ytimg.com/vi/K0iwLm1VUa4/mqdefault.jpg",
       "published": "2026-06-19T21:00:31Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "É GRIPE? Quando devo buscar atendimento médico? | GZH",
-      "videoId": "MUZauHKN0p0",
-      "url": "https://www.youtube.com/watch?v=MUZauHKN0p0",
-      "thumbnail": "https://i.ytimg.com/vi/MUZauHKN0p0/mqdefault.jpg",
-      "published": "2026-06-19T19:45:33Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "19/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
+      "title": "19/06/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "ftpazesKxHU",
       "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
       "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault_live.jpg",
       "published": "2026-06-19T11:04:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO VENDEU MAL? | AS MELHORIAS DO CT DO GRÊMIO | REPERCUSSÃO DE MAIS UM JOGO DA COPA | IMORTAL FC",
+      "videoId": "7uC0aFgraDA",
+      "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
+      "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault_live.jpg",
+      "published": "2026-06-19T21:07:41Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
       "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault_live.jpg",
       "published": "2026-06-19T20:05:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VENDA OFICIALIZADA E OS VALORES FINAIS QUE O GRÊMIO RECEBE | AS NOVIDADES NO CT | ESPLANADA",
-      "videoId": "dbZfJmjsgQk",
-      "url": "https://www.youtube.com/watch?v=dbZfJmjsgQk",
-      "thumbnail": "https://i.ytimg.com/vi/dbZfJmjsgQk/mqdefault.jpg",
-      "published": "2026-06-19T18:56:55Z"
     }
   ]
 }
