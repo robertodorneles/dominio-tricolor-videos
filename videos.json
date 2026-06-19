@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:01:58.126698+00:00",
+  "updated_at": "2026-06-19T23:00:48.391063+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "BRASIL X HAITI - FARID E NANDO GROSS - REAÇÕES AO VIVO - RUMO AO HEXA #02",
+      "videoId": "PsodcciaW1o",
+      "url": "https://www.youtube.com/watch?v=PsodcciaW1o",
+      "thumbnail": "https://i.ytimg.com/vi/PsodcciaW1o/mqdefault_live.jpg",
+      "published": "2026-06-19T22:32:29Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "TUDO SOBRE A COPA  AO VIVO | HORA DA COPA #1",
       "videoId": "adv1E3jZDFg",
       "url": "https://www.youtube.com/watch?v=adv1E3jZDFg",
       "thumbnail": "https://i.ytimg.com/vi/adv1E3jZDFg/mqdefault.jpg",
       "published": "2026-06-19T14:00:39Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SEM FIRULA COM NANDO GROSS E FARID GERMANO - #EP04",
-      "videoId": "5HZFc0ixLQQ",
-      "url": "https://www.youtube.com/watch?v=5HZFc0ixLQQ",
-      "thumbnail": "https://i.ytimg.com/vi/5HZFc0ixLQQ/mqdefault.jpg",
-      "published": "2026-06-19T12:25:51Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "19/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "ftpazesKxHU",
+      "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
+      "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault_live.jpg",
+      "published": "2026-06-19T23:00:32Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "QUEM É O REI DA POSIÇÃO DE MEIO-CAMPO? | CORTES RÁDIO GRENAL | 19/06/2026",
       "videoId": "qwHbTp-FCL4",
       "url": "https://www.youtube.com/watch?v=qwHbTp-FCL4",
@@ -219,20 +227,12 @@
       "published": "2026-06-19T18:18:31Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "19/06/2026 | GRENAL FC | RÁDIO GRENAL",
-      "videoId": "ftpazesKxHU",
-      "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
-      "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault_live.jpg",
-      "published": "2026-06-19T11:04:38Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "GRÊMIO VENDEU MAL? | AS MELHORIAS DO CT DO GRÊMIO | REPERCUSSÃO DE MAIS UM JOGO DA COPA | IMORTAL FC",
       "videoId": "7uC0aFgraDA",
       "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
-      "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault_live.jpg",
-      "published": "2026-06-19T21:07:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault.jpg",
+      "published": "2026-06-19T22:10:42Z"
     },
     {
       "channel": "Radio Imortal",
