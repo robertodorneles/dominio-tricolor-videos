@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T20:00:46.907782+00:00",
+  "updated_at": "2026-06-19T20:25:24.183285+00:00",
   "total": 30,
   "videos": [
     {
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "Uma visita ao CT do Grêmio com a nova reforma e custo das obras",
+      "videoId": "UAdj7t0CVS4",
+      "url": "https://www.youtube.com/watch?v=UAdj7t0CVS4",
+      "thumbnail": "https://i.ytimg.com/vi/UAdj7t0CVS4/mqdefault.jpg",
+      "published": "2026-06-19T20:05:06Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "Qual vai ser time do Grêmio do segundo semestre?",
       "videoId": "VruhQxuIpqY",
       "url": "https://www.youtube.com/watch?v=VruhQxuIpqY",
       "thumbnail": "https://i.ytimg.com/vi/VruhQxuIpqY/mqdefault.jpg",
       "published": "2026-06-18T21:54:30Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Veja como joga Maripán, o novo zagueiro do Inter",
-      "videoId": "8mXtgrVNjZU",
-      "url": "https://www.youtube.com/watch?v=8mXtgrVNjZU",
-      "thumbnail": "https://i.ytimg.com/vi/8mXtgrVNjZU/mqdefault.jpg",
-      "published": "2026-06-17T22:10:52Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
+      "videoId": "iEWCJPvybpA",
+      "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
+      "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault_live.jpg",
+      "published": "2026-06-19T20:05:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VENDA OFICIALIZADA E OS VALORES FINAIS QUE O GRÊMIO RECEBE | AS NOVIDADES NO CT | ESPLANADA",
       "videoId": "dbZfJmjsgQk",
       "url": "https://www.youtube.com/watch?v=dbZfJmjsgQk",
       "thumbnail": "https://i.ytimg.com/vi/dbZfJmjsgQk/mqdefault.jpg",
       "published": "2026-06-19T18:56:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 19/06",
-      "videoId": "7uC0aFgraDA",
-      "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
-      "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault_live.jpg",
-      "published": "2026-06-19T16:19:46Z"
     }
   ]
 }
