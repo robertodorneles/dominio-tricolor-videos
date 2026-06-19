@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T18:02:29.070334+00:00",
+  "updated_at": "2026-06-19T19:01:18.308061+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "DIA DE BRASIL! DINHEIRO NO COFRE E ADEUS A ANDRÉ HENRIQUE 🔸RESENHA FORA DA SALA🔸#070",
       "videoId": "etUYM16zv0w",
       "url": "https://www.youtube.com/watch?v=etUYM16zv0w",
-      "thumbnail": "https://i.ytimg.com/vi/etUYM16zv0w/mqdefault_live.jpg",
-      "published": "2026-06-19T16:28:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/etUYM16zv0w/mqdefault.jpg",
+      "published": "2026-06-19T18:59:02Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,7 @@
       "videoId": "5Atm_gD29BQ",
       "url": "https://www.youtube.com/watch?v=5Atm_gD29BQ",
       "thumbnail": "https://i.ytimg.com/vi/5Atm_gD29BQ/mqdefault_live.jpg",
-      "published": "2026-06-19T16:18:36Z"
+      "published": "2026-06-19T18:14:53Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "A Daiso inaugurou nesta sexta-feira (19) a primeira loja do Rio Grande do Sul, em Porto Alegre.",
+      "videoId": "0Q4VKZZ_KKE",
+      "url": "https://www.youtube.com/watch?v=0Q4VKZZ_KKE",
+      "thumbnail": "https://i.ytimg.com/vi/0Q4VKZZ_KKE/mqdefault.jpg",
+      "published": "2026-06-19T18:35:07Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Quem perdeu a guerra EUA x Irã? | GZH",
       "videoId": "LvY2af1NUTg",
       "url": "https://www.youtube.com/watch?v=LvY2af1NUTg",
       "thumbnail": "https://i.ytimg.com/vi/LvY2af1NUTg/mqdefault.jpg",
       "published": "2026-06-19T18:00:22Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Copa do Mundo 2026, Batalha Musical, notícias do RS e mais | SuperSábado | 19/06/2026",
-      "videoId": "VkvUipo8Hnk",
-      "url": "https://www.youtube.com/watch?v=VkvUipo8Hnk",
-      "thumbnail": "https://i.ytimg.com/vi/VkvUipo8Hnk/mqdefault_live.jpg",
-      "published": "2026-06-19T17:18:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "QUEM É O REI DA POSIÇÃO DE MEIO-CAMPO? | CORTES RÁDIO GRENAL | 19/06/2026",
+      "videoId": "qwHbTp-FCL4",
+      "url": "https://www.youtube.com/watch?v=qwHbTp-FCL4",
+      "thumbnail": "https://i.ytimg.com/vi/qwHbTp-FCL4/mqdefault.jpg",
+      "published": "2026-06-19T18:18:31Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "19/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "ftpazesKxHU",
       "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
@@ -219,12 +227,12 @@
       "published": "2026-06-19T11:04:38Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "18/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "c7Sencej1N8",
-      "url": "https://www.youtube.com/watch?v=c7Sencej1N8",
-      "thumbnail": "https://i.ytimg.com/vi/c7Sencej1N8/mqdefault.jpg",
-      "published": "2026-06-18T23:38:36Z"
+      "channel": "Radio Imortal",
+      "title": "VENDA OFICIALIZADA E OS VALORES FINAIS QUE O GRÊMIO RECEBE | AS NOVIDADES NO CT | ESPLANADA",
+      "videoId": "dbZfJmjsgQk",
+      "url": "https://www.youtube.com/watch?v=dbZfJmjsgQk",
+      "thumbnail": "https://i.ytimg.com/vi/dbZfJmjsgQk/mqdefault.jpg",
+      "published": "2026-06-19T18:56:55Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
       "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault_live.jpg",
       "published": "2026-06-19T16:19:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #95 — O NOVO VISUAL DA ARENA | CORTEZ É \"PROMOVIDO\" | MOVIMENTAÇÕES NO MERCADO",
-      "videoId": "kMFnRTf3lwg",
-      "url": "https://www.youtube.com/watch?v=kMFnRTf3lwg",
-      "thumbnail": "https://i.ytimg.com/vi/kMFnRTf3lwg/mqdefault.jpg",
-      "published": "2026-06-19T15:53:32Z"
     }
   ]
 }
