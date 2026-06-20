@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T13:00:47.637460+00:00",
+  "updated_at": "2026-06-20T13:54:39.645727+00:00",
   "total": 30,
   "videos": [
     {
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO - #11 - 20.06 - PÓS-JOGO BRASIL 3 X 0 HAITI - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "fnrH84351Dk",
       "url": "https://www.youtube.com/watch?v=fnrH84351Dk",
-      "thumbnail": "https://i.ytimg.com/vi/fnrH84351Dk/mqdefault_live.jpg",
-      "published": "2026-06-20T11:58:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/fnrH84351Dk/mqdefault.jpg",
+      "published": "2026-06-20T13:33:12Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A PREPARAÇÃO DO GRÊMIO APÓS RETORNO AOS TREINOS | ATUALIZAÇÃO DOS NEGÓCIOS | PLANTÃO IMORTAL",
+      "videoId": "HqggooEudz4",
+      "url": "https://www.youtube.com/watch?v=HqggooEudz4",
+      "thumbnail": "https://i.ytimg.com/vi/HqggooEudz4/mqdefault_live.jpg",
+      "published": "2026-06-20T13:03:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
       "videoId": "iEWCJPvybpA",
       "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
       "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault.jpg",
       "published": "2026-06-20T12:31:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 20/06- GRÊMIO 1X0 INTER (GAUCHÃO 1999)",
-      "videoId": "lBzzJTavwEk",
-      "url": "https://www.youtube.com/watch?v=lBzzJTavwEk",
-      "thumbnail": "https://i.ytimg.com/vi/lBzzJTavwEk/mqdefault.jpg",
-      "published": "2026-06-20T11:00:37Z"
     }
   ]
 }
