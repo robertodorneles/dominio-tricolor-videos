@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T21:14:03.282291+00:00",
+  "updated_at": "2026-06-20T22:00:49.303492+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨DOIS REFORÇOS SÃO CONFIRMADOS | ATACANTE NA PAUTA | GRÊMIO NO MERCADO | A VITÓRIA DO BRASIL!",
+      "title": "🚨SÃO DOIS REFORÇOS CONFIRMADOS | ATACANTE NA PAUTA | GRÊMIO NO MERCADO | A VITÓRIA DO BRASIL!",
       "videoId": "oG6r6rUK2uc",
       "url": "https://www.youtube.com/watch?v=oG6r6rUK2uc",
       "thumbnail": "https://i.ytimg.com/vi/oG6r6rUK2uc/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
+      "videoId": "jkm2s7KhSs0",
+      "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
+      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault_live.jpg",
+      "published": "2026-06-20T21:35:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "A PREPARAÇÃO DO GRÊMIO APÓS RETORNO AOS TREINOS | ATUALIZAÇÃO DOS NEGÓCIOS | PLANTÃO IMORTAL",
       "videoId": "HqggooEudz4",
       "url": "https://www.youtube.com/watch?v=HqggooEudz4",
       "thumbnail": "https://i.ytimg.com/vi/HqggooEudz4/mqdefault.jpg",
       "published": "2026-06-20T14:37:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
-      "videoId": "iEWCJPvybpA",
-      "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
-      "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault.jpg",
-      "published": "2026-06-20T12:31:25Z"
     }
   ]
 }
