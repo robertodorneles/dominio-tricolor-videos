@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:23:11.105523+00:00",
+  "updated_at": "2026-06-20T18:00:56.424772+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA (CAMPEONATO BRASILEIRO SUB-20 2026)",
+      "videoId": "FvO9MsMsBgo",
+      "url": "https://www.youtube.com/watch?v=FvO9MsMsBgo",
+      "thumbnail": "https://i.ytimg.com/vi/FvO9MsMsBgo/mqdefault_live.jpg",
+      "published": "2026-06-20T17:49:46Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "Reformas no CT Luiz Carvalho",
       "videoId": "AB7b-2YJIBc",
       "url": "https://www.youtube.com/watch?v=AB7b-2YJIBc",
       "thumbnail": "https://i.ytimg.com/vi/AB7b-2YJIBc/mqdefault.jpg",
       "published": "2026-06-20T13:00:17Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "ELENCO GREMISTA TREINA NO CT LUIZ CARVALHO",
-      "videoId": "nWKjLXTfaRQ",
-      "url": "https://www.youtube.com/watch?v=nWKjLXTfaRQ",
-      "thumbnail": "https://i.ytimg.com/vi/nWKjLXTfaRQ/mqdefault.jpg",
-      "published": "2026-06-19T20:51:52Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "20/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "20/06/2026 | SABADAÇO GRENAL | RÁDIO GRENAL",
       "videoId": "gAQ_4EQYxVM",
       "url": "https://www.youtube.com/watch?v=gAQ_4EQYxVM",
       "thumbnail": "https://i.ytimg.com/vi/gAQ_4EQYxVM/mqdefault_live.jpg",
