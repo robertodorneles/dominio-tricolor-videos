@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T00:06:35.548820+00:00",
+  "updated_at": "2026-06-20T01:00:44.462975+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A PREPARAÇÃO DO GRÊMIO APÓS RETORNO AOS TREINOS | ATUALIZAÇÃO DOS NEGÓCIOS | PLANTÃO IMORTAL",
+      "videoId": "HqggooEudz4",
+      "url": "https://www.youtube.com/watch?v=HqggooEudz4",
+      "thumbnail": "https://i.ytimg.com/vi/HqggooEudz4/mqdefault_live.jpg",
+      "published": "2026-06-20T00:50:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
       "videoId": "iEWCJPvybpA",
       "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
       "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault_live.jpg",
-      "published": "2026-06-19T23:15:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENDEU MAL? | AS MELHORIAS DO CT DO GRÊMIO | REPERCUSSÃO DE MAIS UM JOGO DA COPA | IMORTAL FC",
-      "videoId": "7uC0aFgraDA",
-      "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
-      "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault.jpg",
-      "published": "2026-06-19T22:10:42Z"
+      "published": "2026-06-20T00:15:33Z"
     }
   ]
 }
