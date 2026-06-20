@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T23:00:48.391063+00:00",
+  "updated_at": "2026-06-20T00:00:46.336591+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨$ 200 MILHÕES SE APROXIMAM DO GRÊMIO | ÍDOLO MAIS PRESENTE? | TEREMOS RECOMEÇO DE ATACANTE?",
+      "videoId": "NCnajeBETpQ",
+      "url": "https://www.youtube.com/watch?v=NCnajeBETpQ",
+      "thumbnail": "https://i.ytimg.com/vi/NCnajeBETpQ/mqdefault.jpg",
+      "published": "2026-06-19T23:57:23Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRÊMIO ANUNCIA MAIS UMA SAÍDA | RENATO DE VOLTA? | O TRABALHO DE LUÍS CASTRO!",
       "videoId": "PkQVUfVX3fo",
       "url": "https://www.youtube.com/watch?v=PkQVUfVX3fo",
       "thumbnail": "https://i.ytimg.com/vi/PkQVUfVX3fo/mqdefault.jpg",
       "published": "2026-06-19T14:35:34Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MEIA! CAMISA 10 NA PAUTA: MARTELO BATIDO | O NEGÓCIO QUE PODE MELAR | O TIME DO GRÊMIO NO 2º SEMEST",
-      "videoId": "Vtjxqx73_qk",
-      "url": "https://www.youtube.com/watch?v=Vtjxqx73_qk",
-      "thumbnail": "https://i.ytimg.com/vi/Vtjxqx73_qk/mqdefault.jpg",
-      "published": "2026-06-18T23:47:42Z"
     },
     {
       "channel": "Canal do CCD",
@@ -215,16 +215,24 @@
       "title": "19/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ftpazesKxHU",
       "url": "https://www.youtube.com/watch?v=ftpazesKxHU",
-      "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault_live.jpg",
-      "published": "2026-06-19T23:00:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/ftpazesKxHU/mqdefault.jpg",
+      "published": "2026-06-19T23:29:05Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "QUEM É O REI DA POSIÇÃO DE MEIO-CAMPO? | CORTES RÁDIO GRENAL | 19/06/2026",
-      "videoId": "qwHbTp-FCL4",
-      "url": "https://www.youtube.com/watch?v=qwHbTp-FCL4",
-      "thumbnail": "https://i.ytimg.com/vi/qwHbTp-FCL4/mqdefault.jpg",
-      "published": "2026-06-19T18:18:31Z"
+      "title": "19/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "gAQ_4EQYxVM",
+      "url": "https://www.youtube.com/watch?v=gAQ_4EQYxVM",
+      "thumbnail": "https://i.ytimg.com/vi/gAQ_4EQYxVM/mqdefault_live.jpg",
+      "published": "2026-06-19T23:01:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
+      "videoId": "iEWCJPvybpA",
+      "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
+      "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault_live.jpg",
+      "published": "2026-06-19T23:15:22Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=7uC0aFgraDA",
       "thumbnail": "https://i.ytimg.com/vi/7uC0aFgraDA/mqdefault.jpg",
       "published": "2026-06-19T22:10:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PRIMEIRA VENDA | CORTEZ ESTREIA COM TUDO | PROJETANDO BRASIL X HAITI | NOITES DE GRÊMIO #95 - 19/06",
-      "videoId": "iEWCJPvybpA",
-      "url": "https://www.youtube.com/watch?v=iEWCJPvybpA",
-      "thumbnail": "https://i.ytimg.com/vi/iEWCJPvybpA/mqdefault_live.jpg",
-      "published": "2026-06-19T20:05:13Z"
     }
   ]
 }
