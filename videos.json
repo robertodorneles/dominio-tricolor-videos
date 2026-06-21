@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-21T19:00:59.299798+00:00",
+  "updated_at": "2026-06-21T20:00:52.303019+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO",
+      "videoId": "w6GBqBcwrqk",
+      "url": "https://www.youtube.com/watch?v=w6GBqBcwrqk",
+      "thumbnail": "https://i.ytimg.com/vi/w6GBqBcwrqk/mqdefault_live.jpg",
+      "published": "2026-06-21T19:59:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: O plano que coloca o Flamengo na pauta | Mais liberações | Sub 20",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=yjOba6BvqrQ",
       "thumbnail": "https://i.ytimg.com/vi/yjOba6BvqrQ/mqdefault.jpg",
       "published": "2026-06-21T05:00:23Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 DIREÇÃO DECIDE VENDER ATACANTE | WILLIAM NA PAUTA | BOCA ESTRAGOU?",
-      "videoId": "h1Njuwf7Qbo",
-      "url": "https://www.youtube.com/watch?v=h1Njuwf7Qbo",
-      "thumbnail": "https://i.ytimg.com/vi/h1Njuwf7Qbo/mqdefault.jpg",
-      "published": "2026-06-21T05:00:22Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "NEYMAR AJUDARÁ O BRASIL?? | HORA DA COPA #2",
+      "videoId": "b2VH90yW3kw",
+      "url": "https://www.youtube.com/watch?v=b2VH90yW3kw",
+      "thumbnail": "https://i.ytimg.com/vi/b2VH90yW3kw/mqdefault_live.jpg",
+      "published": "2026-06-21T19:44:02Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "CLIMA LEVE DA ATUAL CAMPEÃ DO MUNDO",
       "videoId": "uXfN5fP1zpk",
       "url": "https://www.youtube.com/watch?v=uXfN5fP1zpk",
       "thumbnail": "https://i.ytimg.com/vi/uXfN5fP1zpk/mqdefault.jpg",
       "published": "2026-06-21T14:14:21Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "BRASIL X HAITI - FARID E NANDO GROSS - REAÇÕES AO VIVO - RUMO AO HEXA #02",
-      "videoId": "PsodcciaW1o",
-      "url": "https://www.youtube.com/watch?v=PsodcciaW1o",
-      "thumbnail": "https://i.ytimg.com/vi/PsodcciaW1o/mqdefault.jpg",
-      "published": "2026-06-20T03:17:04Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -215,8 +215,8 @@
       "title": "21/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "PHV5-59wqoM",
       "url": "https://www.youtube.com/watch?v=PHV5-59wqoM",
-      "thumbnail": "https://i.ytimg.com/vi/PHV5-59wqoM/mqdefault_live.jpg",
-      "published": "2026-06-21T14:03:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/PHV5-59wqoM/mqdefault.jpg",
+      "published": "2026-06-21T19:16:45Z"
     },
     {
       "channel": "Radio Grenal",
