@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T14:02:10.588900+00:00",
-  "total": 29,
+  "updated_at": "2026-06-21T15:00:52.479858+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨EX-INTER PRA SER REFORÇO | MAIS TRÊS SAÍDAS NO GRÊMIO? INTERESSE FORTE | O MOMENTO DE COPA!",
+      "videoId": "b8ZK7xKBfck",
+      "url": "https://www.youtube.com/watch?v=b8ZK7xKBfck",
+      "thumbnail": "https://i.ytimg.com/vi/b8ZK7xKBfck/mqdefault.jpg",
+      "published": "2026-06-21T14:53:42Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨ESCOLHIDO O SUBSTITUTO DO ARTHUR | ÍDOLO QUER VOLTAR PRO GRÊMIO | EL É DESTAQUE NOS TREINOS!",
       "videoId": "l9PSg-D9AJQ",
       "url": "https://www.youtube.com/watch?v=l9PSg-D9AJQ",
       "thumbnail": "https://i.ytimg.com/vi/l9PSg-D9AJQ/mqdefault.jpg",
       "published": "2026-06-20T23:59:33Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨SÃO DOIS REFORÇOS CONFIRMADOS | ATACANTE NA PAUTA | GRÊMIO NO MERCADO | A VITÓRIA DO BRASIL!",
-      "videoId": "oG6r6rUK2uc",
-      "url": "https://www.youtube.com/watch?v=oG6r6rUK2uc",
-      "thumbnail": "https://i.ytimg.com/vi/oG6r6rUK2uc/mqdefault.jpg",
-      "published": "2026-06-20T15:30:33Z"
     },
     {
       "channel": "Canal do CCD",
@@ -65,6 +65,14 @@
       "url": "https://www.youtube.com/watch?v=HojF3N8Ymk4",
       "thumbnail": "https://i.ytimg.com/vi/HojF3N8Ymk4/mqdefault.jpg",
       "published": "2026-06-19T16:14:59Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "CLIMA LEVE DA ATUAL CAMPEÃ DO MUNDO",
+      "videoId": "uXfN5fP1zpk",
+      "url": "https://www.youtube.com/watch?v=uXfN5fP1zpk",
+      "thumbnail": "https://i.ytimg.com/vi/uXfN5fP1zpk/mqdefault.jpg",
+      "published": "2026-06-21T14:14:21Z"
     },
     {
       "channel": "Canal do Farid",
@@ -208,7 +216,7 @@
       "videoId": "PHV5-59wqoM",
       "url": "https://www.youtube.com/watch?v=PHV5-59wqoM",
       "thumbnail": "https://i.ytimg.com/vi/PHV5-59wqoM/mqdefault_live.jpg",
-      "published": "2026-06-21T12:43:37Z"
+      "published": "2026-06-21T14:03:05Z"
     },
     {
       "channel": "Radio Grenal",
@@ -223,8 +231,8 @@
       "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
       "videoId": "jkm2s7KhSs0",
       "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
-      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault_live.jpg",
-      "published": "2026-06-21T13:10:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault.jpg",
+      "published": "2026-06-21T14:49:23Z"
     },
     {
       "channel": "Radio Imortal",
