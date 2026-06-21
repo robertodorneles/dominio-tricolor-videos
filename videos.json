@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T13:00:52.737181+00:00",
-  "total": 30,
+  "updated_at": "2026-06-21T14:00:52.203747+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -75,14 +75,6 @@
       "published": "2026-06-20T03:17:04Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "TUDO SOBRE A COPA  AO VIVO | HORA DA COPA #1",
-      "videoId": "adv1E3jZDFg",
-      "url": "https://www.youtube.com/watch?v=adv1E3jZDFg",
-      "thumbnail": "https://i.ytimg.com/vi/adv1E3jZDFg/mqdefault.jpg",
-      "published": "2026-06-19T14:00:39Z"
-    },
-    {
       "channel": "Canal do Gabardo",
       "title": "Como joga o novo zagueiro do Inter",
       "videoId": "ImfyKlRdTxU",
@@ -135,8 +127,8 @@
       "title": "HOSPÍCIO - #12 - 21.06 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "g-qzNz_L678",
       "url": "https://www.youtube.com/watch?v=g-qzNz_L678",
-      "thumbnail": "https://i.ytimg.com/vi/g-qzNz_L678/mqdefault_live.jpg",
-      "published": "2026-06-21T11:57:39Z"
+      "thumbnail": "https://i.ytimg.com/vi/g-qzNz_L678/mqdefault.jpg",
+      "published": "2026-06-21T13:47:28Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,11 +156,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "POR QUE SENTIMOS MAIS FOME NO FRIO? | GZH",
-      "videoId": "sibVcICCmh8",
-      "url": "https://www.youtube.com/watch?v=sibVcICCmh8",
-      "thumbnail": "https://i.ytimg.com/vi/sibVcICCmh8/mqdefault.jpg",
-      "published": "2026-06-21T13:00:29Z"
+      "title": "\"Lagarteada\" faz bem pra saúde? Veja cinco benefícios do hábito gaúcho | GZH Passo Fundo",
+      "videoId": "wLLEEC47D9c",
+      "url": "https://www.youtube.com/watch?v=wLLEEC47D9c",
+      "thumbnail": "https://i.ytimg.com/vi/wLLEEC47D9c/mqdefault.jpg",
+      "published": "2026-06-21T13:30:40Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +220,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
+      "videoId": "jkm2s7KhSs0",
+      "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
+      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault_live.jpg",
+      "published": "2026-06-21T13:10:53Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 21/06- GRÊMIO 2x1 ESTUDIANTES (LIBERTADORES 1983)",
       "videoId": "lTqaOE53FjE",
       "url": "https://www.youtube.com/watch?v=lTqaOE53FjE",
       "thumbnail": "https://i.ytimg.com/vi/lTqaOE53FjE/mqdefault.jpg",
       "published": "2026-06-21T11:00:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
-      "videoId": "jkm2s7KhSs0",
-      "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
-      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault_live.jpg",
-      "published": "2026-06-20T21:35:00Z"
     }
   ]
 }
