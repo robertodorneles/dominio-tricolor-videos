@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T10:00:51.301367+00:00",
+  "updated_at": "2026-06-21T11:00:46.493462+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 21/06",
+      "videoId": "g-qzNz_L678",
+      "url": "https://www.youtube.com/watch?v=g-qzNz_L678",
+      "thumbnail": "https://i.ytimg.com/vi/g-qzNz_L678/mqdefault_live.jpg",
+      "published": "2026-06-21T10:47:05Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "A TÁTICA DO TIME DO HEXA #dudagarbi #umassadopara #copadomundo",
       "videoId": "BDw3M-XQTHA",
       "url": "https://www.youtube.com/watch?v=BDw3M-XQTHA",
       "thumbnail": "https://i.ytimg.com/vi/BDw3M-XQTHA/mqdefault.jpg",
       "published": "2026-06-20T21:00:16Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A TÁTICA DO TIME DO HEXA | Cortes do Duda",
-      "videoId": "huA9AS15-4s",
-      "url": "https://www.youtube.com/watch?v=huA9AS15-4s",
-      "thumbnail": "https://i.ytimg.com/vi/huA9AS15-4s/mqdefault.jpg",
-      "published": "2026-06-20T21:00:08Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 21/06- GRÊMIO 2x1 ESTUDIANTES (LIBERTADORES 1983)",
+      "videoId": "lTqaOE53FjE",
+      "url": "https://www.youtube.com/watch?v=lTqaOE53FjE",
+      "thumbnail": "https://i.ytimg.com/vi/lTqaOE53FjE/mqdefault.jpg",
+      "published": "2026-06-21T11:00:15Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
       "videoId": "jkm2s7KhSs0",
       "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
       "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault_live.jpg",
       "published": "2026-06-20T21:35:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A PREPARAÇÃO DO GRÊMIO APÓS RETORNO AOS TREINOS | ATUALIZAÇÃO DOS NEGÓCIOS | PLANTÃO IMORTAL",
-      "videoId": "HqggooEudz4",
-      "url": "https://www.youtube.com/watch?v=HqggooEudz4",
-      "thumbnail": "https://i.ytimg.com/vi/HqggooEudz4/mqdefault.jpg",
-      "published": "2026-06-20T14:37:21Z"
     }
   ]
 }
