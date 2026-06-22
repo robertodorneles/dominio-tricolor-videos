@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T00:08:38.552798+00:00",
+  "updated_at": "2026-06-22T01:00:42.685432+00:00",
   "total": 30,
   "videos": [
     {
@@ -55,8 +55,8 @@
       "title": "LIVE DE DOMINGO - AS ÚLTIMAS DO GRÊMIO",
       "videoId": "2y3CtCaS0Pk",
       "url": "https://www.youtube.com/watch?v=2y3CtCaS0Pk",
-      "thumbnail": "https://i.ytimg.com/vi/2y3CtCaS0Pk/mqdefault_live.jpg",
-      "published": "2026-06-22T00:05:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/2y3CtCaS0Pk/mqdefault.jpg",
+      "published": "2026-06-22T00:37:15Z"
     },
     {
       "channel": "Canal do CCD",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "Uma visita ao CT do Grêmio com a nova reforma e custo das obras",
+      "title": "AQUELA LIVE: Grêmio e reforços, Inter e saídas + Brasil e Copa",
+      "videoId": "MbG_4x24GbE",
+      "url": "https://www.youtube.com/watch?v=MbG_4x24GbE",
+      "thumbnail": "https://i.ytimg.com/vi/MbG_4x24GbE/mqdefault_live.jpg",
+      "published": "2026-06-22T00:18:59Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "Visitei o CT do Grêmio depois da nova reforma",
       "videoId": "UAdj7t0CVS4",
       "url": "https://www.youtube.com/watch?v=UAdj7t0CVS4",
       "thumbnail": "https://i.ytimg.com/vi/UAdj7t0CVS4/mqdefault.jpg",
       "published": "2026-06-19T20:05:06Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Qual vai ser time do Grêmio do segundo semestre?",
-      "videoId": "VruhQxuIpqY",
-      "url": "https://www.youtube.com/watch?v=VruhQxuIpqY",
-      "thumbnail": "https://i.ytimg.com/vi/VruhQxuIpqY/mqdefault.jpg",
-      "published": "2026-06-18T21:54:30Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "DIA DE FOLGA NO GRÊMIO | VITÓRIA IMPORTANTE NO BRASILEIRÃO SUB-20 | QUANDO CHEGAM OS REFORÇOS?",
-      "videoId": "jkm2s7KhSs0",
-      "url": "https://www.youtube.com/watch?v=jkm2s7KhSs0",
-      "thumbnail": "https://i.ytimg.com/vi/jkm2s7KhSs0/mqdefault.jpg",
-      "published": "2026-06-21T14:49:23Z"
+      "title": "IMORTAL FC — 22/06",
+      "videoId": "63rXJ3Xgrvc",
+      "url": "https://www.youtube.com/watch?v=63rXJ3Xgrvc",
+      "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault_live.jpg",
+      "published": "2026-06-22T00:43:49Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 21/06- GRÊMIO 2x1 ESTUDIANTES (LIBERTADORES 1983)",
-      "videoId": "lTqaOE53FjE",
-      "url": "https://www.youtube.com/watch?v=lTqaOE53FjE",
-      "thumbnail": "https://i.ytimg.com/vi/lTqaOE53FjE/mqdefault.jpg",
-      "published": "2026-06-21T11:00:15Z"
+      "title": "ESPLANADA — 22/06",
+      "videoId": "rbKkU6stArc",
+      "url": "https://www.youtube.com/watch?v=rbKkU6stArc",
+      "thumbnail": "https://i.ytimg.com/vi/rbKkU6stArc/mqdefault_live.jpg",
+      "published": "2026-06-22T00:40:04Z"
     }
   ]
 }
