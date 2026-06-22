@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T10:00:59.547314+00:00",
+  "updated_at": "2026-06-22T11:01:04.879839+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "22/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "L1jAmeYwE9Q",
+      "url": "https://www.youtube.com/watch?v=L1jAmeYwE9Q",
+      "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault_live.jpg",
+      "published": "2026-06-22T10:59:57Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "21/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "PHV5-59wqoM",
       "url": "https://www.youtube.com/watch?v=PHV5-59wqoM",
@@ -219,12 +227,12 @@
       "published": "2026-06-21T19:16:45Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "20/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "gAQ_4EQYxVM",
-      "url": "https://www.youtube.com/watch?v=gAQ_4EQYxVM",
-      "thumbnail": "https://i.ytimg.com/vi/gAQ_4EQYxVM/mqdefault.jpg",
-      "published": "2026-06-20T19:14:36Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 22/06- PAULO LUMUMBA",
+      "videoId": "9s6RsZlY_x4",
+      "url": "https://www.youtube.com/watch?v=9s6RsZlY_x4",
+      "thumbnail": "https://i.ytimg.com/vi/9s6RsZlY_x4/mqdefault.jpg",
+      "published": "2026-06-22T11:00:18Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=63rXJ3Xgrvc",
       "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault_live.jpg",
       "published": "2026-06-22T00:43:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 22/06",
-      "videoId": "rbKkU6stArc",
-      "url": "https://www.youtube.com/watch?v=rbKkU6stArc",
-      "thumbnail": "https://i.ytimg.com/vi/rbKkU6stArc/mqdefault_live.jpg",
-      "published": "2026-06-22T00:40:04Z"
     }
   ]
 }
