@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T19:00:55.493492+00:00",
+  "updated_at": "2026-06-22T20:01:01.382013+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "fkIwal843rA",
       "url": "https://www.youtube.com/watch?v=fkIwal843rA",
       "thumbnail": "https://i.ytimg.com/vi/fkIwal843rA/mqdefault_live.jpg",
-      "published": "2026-06-22T18:20:25Z"
+      "published": "2026-06-22T19:58:16Z"
     },
     {
       "channel": "Bage TV",
       "title": "CARLOS VINÍCIUS DE SAÍDA? / NEYMAR ESTÁ DE VOLTA! 🔸 RESENHA FORA DA SALA 🔶 #071",
       "videoId": "W29dTLZ2sZA",
       "url": "https://www.youtube.com/watch?v=W29dTLZ2sZA",
-      "thumbnail": "https://i.ytimg.com/vi/W29dTLZ2sZA/mqdefault_live.jpg",
-      "published": "2026-06-22T18:13:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/W29dTLZ2sZA/mqdefault.jpg",
+      "published": "2026-06-22T19:35:36Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "MESSI SE TORNOU UM REI?? | HORA DA COPA #3",
+      "videoId": "7pmpDKqSjMY",
+      "url": "https://www.youtube.com/watch?v=7pmpDKqSjMY",
+      "thumbnail": "https://i.ytimg.com/vi/7pmpDKqSjMY/mqdefault_live.jpg",
+      "published": "2026-06-22T19:06:58Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMOOO FARIDO 23.06.26",
       "videoId": "-iSDPH29AA8",
       "url": "https://www.youtube.com/watch?v=-iSDPH29AA8",
       "thumbnail": "https://i.ytimg.com/vi/-iSDPH29AA8/mqdefault_live.jpg",
       "published": "2026-06-22T14:00:48Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ALERTA LIGADO NO GRÊMIO! - VAMOOO FARIDO 22.06.26",
-      "videoId": "v1NG5Bw48HY",
-      "url": "https://www.youtube.com/watch?v=v1NG5Bw48HY",
-      "thumbnail": "https://i.ytimg.com/vi/v1NG5Bw48HY/mqdefault_live.jpg",
-      "published": "2026-06-22T13:57:43Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "TOMER ACABOU COM O DUDA COM AS IMITAÇÕES DE SOTAQUES DA COPA | Cortes do Duda",
-      "videoId": "UjSdQ2efAWk",
-      "url": "https://www.youtube.com/watch?v=UjSdQ2efAWk",
-      "thumbnail": "https://i.ytimg.com/vi/UjSdQ2efAWk/mqdefault.jpg",
-      "published": "2026-06-22T16:18:42Z"
-    },
-    {
-      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... 🇺🇸 TOMER SAVOIA | #391",
       "videoId": "HLrtXQymnsA",
       "url": "https://www.youtube.com/watch?v=HLrtXQymnsA",
       "thumbnail": "https://i.ytimg.com/vi/HLrtXQymnsA/mqdefault_live.jpg",
       "published": "2026-06-22T15:55:45Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "TOMER SAVOIA E A TORCIDA BRASILEIRA NA COPA - O FASCÍNIO DO AMOR AO FUTEBOL | Cortes do Duda",
+      "videoId": "BGLb9KlL0u4",
+      "url": "https://www.youtube.com/watch?v=BGLb9KlL0u4",
+      "thumbnail": "https://i.ytimg.com/vi/BGLb9KlL0u4/mqdefault.jpg",
+      "published": "2026-06-22T15:37:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "OPINIÃO PAULO GERMANO: \"A fama que os homens merecem\"",
+      "videoId": "5G5uslzQ05s",
+      "url": "https://www.youtube.com/watch?v=5G5uslzQ05s",
+      "thumbnail": "https://i.ytimg.com/vi/5G5uslzQ05s/mqdefault.jpg",
+      "published": "2026-06-22T20:00:37Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A memória e a preservação do legado das reduções jesuíticas | 400 anos das Missões | Episódio 7",
       "videoId": "VSnCPsSA8U8",
       "url": "https://www.youtube.com/watch?v=VSnCPsSA8U8",
       "thumbnail": "https://i.ytimg.com/vi/VSnCPsSA8U8/mqdefault.jpg",
       "published": "2026-06-22T17:20:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 23/06/26",
-      "videoId": "NXzMRaVmKOM",
-      "url": "https://www.youtube.com/watch?v=NXzMRaVmKOM",
-      "thumbnail": "https://i.ytimg.com/vi/NXzMRaVmKOM/mqdefault_live.jpg",
-      "published": "2026-06-22T14:56:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "QUEM É O REI DA POSIÇÃO DE MEIA-ATACANTE? | CORTES RÁDIO GRENAL | 22/06/2026",
+      "videoId": "2Us-m9ipdOI",
+      "url": "https://www.youtube.com/watch?v=2Us-m9ipdOI",
+      "thumbnail": "https://i.ytimg.com/vi/2Us-m9ipdOI/mqdefault.jpg",
+      "published": "2026-06-22T19:51:41Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LÁ ELE! 🤣 #shorts #CopaDoMundo #Futebol #resenha #vozinha #doku",
       "videoId": "Iu307G1HOJc",
       "url": "https://www.youtube.com/watch?v=Iu307G1HOJc",
@@ -219,12 +227,12 @@
       "published": "2026-06-22T18:10:03Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "22/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
-      "videoId": "L1jAmeYwE9Q",
-      "url": "https://www.youtube.com/watch?v=L1jAmeYwE9Q",
-      "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault_live.jpg",
-      "published": "2026-06-22T10:59:57Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO SE REAPRESENTA EM SEMANA DE AMISTOSO | COMO ANDAM AS NEGOCIAÇÕES? | ESPLANADA",
+      "videoId": "rbKkU6stArc",
+      "url": "https://www.youtube.com/watch?v=rbKkU6stArc",
+      "thumbnail": "https://i.ytimg.com/vi/rbKkU6stArc/mqdefault_live.jpg",
+      "published": "2026-06-22T19:04:15Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=lda4Z2I3Yq0",
       "thumbnail": "https://i.ytimg.com/vi/lda4Z2I3Yq0/mqdefault.jpg",
       "published": "2026-06-22T15:22:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO E A SEMANA DE TREINOS ANTES DO PRIMEIRO TESTE | A SITUAÇÃO DA BASE | REDAÇÃO IMORTAL",
-      "videoId": "GdLZCABZJQM",
-      "url": "https://www.youtube.com/watch?v=GdLZCABZJQM",
-      "thumbnail": "https://i.ytimg.com/vi/GdLZCABZJQM/mqdefault.jpg",
-      "published": "2026-06-22T13:13:15Z"
     }
   ]
 }
