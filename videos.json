@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T21:00:53.921274+00:00",
+  "updated_at": "2026-06-22T21:30:20.759758+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "O que o PERU e a COLÔMBIA sinalizam para as ELEIÇÕES NO BRASIL",
-      "videoId": "2PdjBwKnGZ8",
-      "url": "https://www.youtube.com/watch?v=2PdjBwKnGZ8",
-      "thumbnail": "https://i.ytimg.com/vi/2PdjBwKnGZ8/mqdefault.jpg",
-      "published": "2026-06-22T20:44:36Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "EUA X IRÃ: o que representa acordo após um ano de conflito | Conversas Cruzadas | 22/06/26",
       "videoId": "8_yCaXMzGiU",
       "url": "https://www.youtube.com/watch?v=8_yCaXMzGiU",
       "thumbnail": "https://i.ytimg.com/vi/8_yCaXMzGiU/mqdefault_live.jpg",
-      "published": "2026-06-22T20:30:17Z"
+      "published": "2026-06-22T21:29:55Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "TERCEIRA SEMANA DE COPA: MESSI ARTILHEIRO ABSOLUTO E GIRO PELOS STATES | COPANDO TUDO | 22/06/2026",
+      "videoId": "8pvmuM9rgTA",
+      "url": "https://www.youtube.com/watch?v=8pvmuM9rgTA",
+      "thumbnail": "https://i.ytimg.com/vi/8pvmuM9rgTA/mqdefault_live.jpg",
+      "published": "2026-06-22T21:22:42Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "Cebolinha no Grêmio? O futuro de Amuzu e o meia citado",
+      "videoId": "G9tIShdMf34",
+      "url": "https://www.youtube.com/watch?v=G9tIShdMf34",
+      "thumbnail": "https://i.ytimg.com/vi/G9tIShdMf34/mqdefault.jpg",
+      "published": "2026-06-22T21:12:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=MbG_4x24GbE",
       "thumbnail": "https://i.ytimg.com/vi/MbG_4x24GbE/mqdefault.jpg",
       "published": "2026-06-22T12:19:19Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Visitei o CT do Grêmio depois da nova reforma",
-      "videoId": "UAdj7t0CVS4",
-      "url": "https://www.youtube.com/watch?v=UAdj7t0CVS4",
-      "thumbnail": "https://i.ytimg.com/vi/UAdj7t0CVS4/mqdefault.jpg",
-      "published": "2026-06-19T20:05:06Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO | TREINO COM NOVIDADES | SEMANA DE TESTE | IMORTAL FC",
       "videoId": "63rXJ3Xgrvc",
       "url": "https://www.youtube.com/watch?v=63rXJ3Xgrvc",
-      "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault_live.jpg",
-      "published": "2026-06-22T21:00:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault.jpg",
+      "published": "2026-06-22T21:10:27Z"
     },
     {
       "channel": "Radio Imortal",
