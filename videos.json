@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:00:50.631312+00:00",
+  "updated_at": "2026-06-22T23:16:38.134903+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "TOMER FAZ TODOS OS SOTAQUES DO BRASIL | Cortes do Duda",
+      "videoId": "qCvzR4NVzFw",
+      "url": "https://www.youtube.com/watch?v=qCvzR4NVzFw",
+      "thumbnail": "https://i.ytimg.com/vi/qCvzR4NVzFw/mqdefault.jpg",
+      "published": "2026-06-22T23:00:35Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "TEM BRIGA DE JORNALISTA X INFLUENCER NA COPA DO MUNDO? TOMER EXPLICA | Cortes do Duda",
       "videoId": "R6uICJc3tKE",
       "url": "https://www.youtube.com/watch?v=R6uICJc3tKE",
       "thumbnail": "https://i.ytimg.com/vi/R6uICJc3tKE/mqdefault.jpg",
       "published": "2026-06-22T23:00:16Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "TEVE TRETA COM JORNALISTAS? #dudagarbi #umassadopara #copadomundo",
-      "videoId": "ieDeI_ghsGo",
-      "url": "https://www.youtube.com/watch?v=ieDeI_ghsGo",
-      "thumbnail": "https://i.ytimg.com/vi/ieDeI_ghsGo/mqdefault.jpg",
-      "published": "2026-06-22T23:00:09Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Conversas Cruzadas | 23/06/26",
-      "videoId": "I4xf0oEJlTQ",
-      "url": "https://www.youtube.com/watch?v=I4xf0oEJlTQ",
-      "thumbnail": "https://i.ytimg.com/vi/I4xf0oEJlTQ/mqdefault_live.jpg",
-      "published": "2026-06-22T22:35:17Z"
+      "title": "EUA X IRÃ: o CONFLITO no oriente médio ACABOU? | Conversas Cruzadas |",
+      "videoId": "hnBGogFEELw",
+      "url": "https://www.youtube.com/watch?v=hnBGogFEELw",
+      "thumbnail": "https://i.ytimg.com/vi/hnBGogFEELw/mqdefault.jpg",
+      "published": "2026-06-22T23:07:23Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "22/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "L1jAmeYwE9Q",
+      "url": "https://www.youtube.com/watch?v=L1jAmeYwE9Q",
+      "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault_live.jpg",
+      "published": "2026-06-22T23:01:55Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "QUEM É O REI DA POSIÇÃO DE MEIA-ATACANTE? | CORTES RÁDIO GRENAL | 22/06/2026",
       "videoId": "2Us-m9ipdOI",
       "url": "https://www.youtube.com/watch?v=2Us-m9ipdOI",
@@ -219,12 +227,12 @@
       "published": "2026-06-22T19:51:41Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LÁ ELE! 🤣 #shorts #CopaDoMundo #Futebol #resenha #vozinha #doku",
-      "videoId": "Iu307G1HOJc",
-      "url": "https://www.youtube.com/watch?v=Iu307G1HOJc",
-      "thumbnail": "https://i.ytimg.com/vi/Iu307G1HOJc/mqdefault.jpg",
-      "published": "2026-06-22T18:10:03Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO SE PREPARA PARA AMISTOSO | 4 JOGADORES RETORNAM AOS TREINOS | NOITES DE GRÊMIO #96 - 22/06",
+      "videoId": "9hR0rXyfUVk",
+      "url": "https://www.youtube.com/watch?v=9hR0rXyfUVk",
+      "thumbnail": "https://i.ytimg.com/vi/9hR0rXyfUVk/mqdefault_live.jpg",
+      "published": "2026-06-22T23:00:46Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=63rXJ3Xgrvc",
       "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault.jpg",
       "published": "2026-06-22T21:10:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SE PREPARA PARA AMISTOSO | 4 JOGADORES RETORNAM AOS TREINOS | NOITES DE GRÊMIO #96 - 22/06",
-      "videoId": "9hR0rXyfUVk",
-      "url": "https://www.youtube.com/watch?v=9hR0rXyfUVk",
-      "thumbnail": "https://i.ytimg.com/vi/9hR0rXyfUVk/mqdefault_live.jpg",
-      "published": "2026-06-22T20:53:53Z"
     }
   ]
 }
