@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T15:01:06.515194+00:00",
+  "updated_at": "2026-06-22T16:01:01.856086+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #006",
       "videoId": "PaZpU3Ku79g",
       "url": "https://www.youtube.com/watch?v=PaZpU3Ku79g",
-      "thumbnail": "https://i.ytimg.com/vi/PaZpU3Ku79g/mqdefault_live.jpg",
-      "published": "2026-06-22T14:51:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/PaZpU3Ku79g/mqdefault.jpg",
+      "published": "2026-06-22T15:15:01Z"
     },
     {
       "channel": "Bage TV",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONTATA ATLETAS JOVENS | OFERTA REALIZADA | INTERESSES EM ATACANTE",
+      "videoId": "mb7HGypUDWc",
+      "url": "https://www.youtube.com/watch?v=mb7HGypUDWc",
+      "thumbnail": "https://i.ytimg.com/vi/mb7HGypUDWc/mqdefault.jpg",
+      "published": "2026-06-22T15:06:51Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨PROPOSTA POR CEBOLINHA? | QUEM VAI CHEGAR PRA REFORÇAR | O PRÓXIMO TALENTO DO GRÊMIO!",
       "videoId": "KQ6U-1Isibs",
       "url": "https://www.youtube.com/watch?v=KQ6U-1Isibs",
@@ -43,12 +51,12 @@
       "published": "2026-06-21T23:00:26Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨EX-INTER PRA SER REFORÇO DO GRÊMIO | MAIS TRÊS SAÍDAS? INTERESSE FORTE | O MOMENTO DE COPA!",
-      "videoId": "b8ZK7xKBfck",
-      "url": "https://www.youtube.com/watch?v=b8ZK7xKBfck",
-      "thumbnail": "https://i.ytimg.com/vi/b8ZK7xKBfck/mqdefault.jpg",
-      "published": "2026-06-21T14:53:42Z"
+      "channel": "Canal do CCD",
+      "title": "Situação contratual de Carlos Vinícius | Grêmio é destaque em eventos nos Estados Unidos",
+      "videoId": "XdhKnNNRPCQ",
+      "url": "https://www.youtube.com/watch?v=XdhKnNNRPCQ",
+      "thumbnail": "https://i.ytimg.com/vi/XdhKnNNRPCQ/mqdefault.jpg",
+      "published": "2026-06-22T15:08:51Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=2y3CtCaS0Pk",
       "thumbnail": "https://i.ytimg.com/vi/2y3CtCaS0Pk/mqdefault.jpg",
       "published": "2026-06-22T00:37:15Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Quatro reforços e a busca do Grêmio por identidade",
-      "videoId": "GY6RRO0oqug",
-      "url": "https://www.youtube.com/watch?v=GY6RRO0oqug",
-      "thumbnail": "https://i.ytimg.com/vi/GY6RRO0oqug/mqdefault.jpg",
-      "published": "2026-06-21T16:16:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -136,15 +136,15 @@
       "videoId": "HLrtXQymnsA",
       "url": "https://www.youtube.com/watch?v=HLrtXQymnsA",
       "thumbnail": "https://i.ytimg.com/vi/HLrtXQymnsA/mqdefault_live.jpg",
-      "published": "2026-06-22T13:59:26Z"
+      "published": "2026-06-22T15:55:45Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #13 - 22.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "7AYuqMBxcBQ",
-      "url": "https://www.youtube.com/watch?v=7AYuqMBxcBQ",
-      "thumbnail": "https://i.ytimg.com/vi/7AYuqMBxcBQ/mqdefault.jpg",
-      "published": "2026-06-22T13:22:17Z"
+      "title": "TOMER SAVOIA E A TORCIDA BRASILEIRA NA COPA - O FASCÍNIO DO AMOR AO FUTEBOL | Cortes do Duda",
+      "videoId": "BGLb9KlL0u4",
+      "url": "https://www.youtube.com/watch?v=BGLb9KlL0u4",
+      "thumbnail": "https://i.ytimg.com/vi/BGLb9KlL0u4/mqdefault.jpg",
+      "published": "2026-06-22T15:37:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "22/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "L1jAmeYwE9Q",
       "url": "https://www.youtube.com/watch?v=L1jAmeYwE9Q",
       "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #96 — SEMANA DO GRÊMIO COM AMISTOSO EM CASCAVEL! | GRÊMIO TEM ALÍVIO NA BASE",
       "videoId": "lda4Z2I3Yq0",
       "url": "https://www.youtube.com/watch?v=lda4Z2I3Yq0",
-      "thumbnail": "https://i.ytimg.com/vi/lda4Z2I3Yq0/mqdefault_live.jpg",
-      "published": "2026-06-22T13:51:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/lda4Z2I3Yq0/mqdefault.jpg",
+      "published": "2026-06-22T15:22:19Z"
     },
     {
       "channel": "Radio Imortal",
