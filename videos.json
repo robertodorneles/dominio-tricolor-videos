@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T11:01:04.879839+00:00",
+  "updated_at": "2026-06-22T12:03:01.698249+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "SNWaTNj7VWg",
       "url": "https://www.youtube.com/watch?v=SNWaTNj7VWg",
       "thumbnail": "https://i.ytimg.com/vi/SNWaTNj7VWg/mqdefault_live.jpg",
-      "published": "2026-06-22T09:31:01Z"
+      "published": "2026-06-22T11:59:03Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #13 - 22.06 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "7AYuqMBxcBQ",
+      "url": "https://www.youtube.com/watch?v=7AYuqMBxcBQ",
+      "thumbnail": "https://i.ytimg.com/vi/7AYuqMBxcBQ/mqdefault_live.jpg",
+      "published": "2026-06-22T11:57:52Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... 🇺🇸 TOMER SAVOIA E SAULO MENDONÇA DO MOVIMENTO VERDE AMARELO | #391",
       "videoId": "HLrtXQymnsA",
       "url": "https://www.youtube.com/watch?v=HLrtXQymnsA",
       "thumbnail": "https://i.ytimg.com/vi/HLrtXQymnsA/mqdefault_live.jpg",
       "published": "2026-06-22T04:12:49Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #12 - 21.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "7AYuqMBxcBQ",
-      "url": "https://www.youtube.com/watch?v=7AYuqMBxcBQ",
-      "thumbnail": "https://i.ytimg.com/vi/7AYuqMBxcBQ/mqdefault_live.jpg",
-      "published": "2026-06-22T02:06:06Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Primeiro-ministro britânico renuncia, Copa do Mundo, trânsito e mais| Gaúcha Atualidade | 22/06/2026",
+      "videoId": "Uw4iBz1wf00",
+      "url": "https://www.youtube.com/watch?v=Uw4iBz1wf00",
+      "thumbnail": "https://i.ytimg.com/vi/Uw4iBz1wf00/mqdefault_live.jpg",
+      "published": "2026-06-22T11:04:48Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "TURISMO DE AVENTURA: como saber se um salto é seguro antes de pular? | Conversas Cruzadas",
       "videoId": "osYtjbHj66k",
       "url": "https://www.youtube.com/watch?v=osYtjbHj66k",
@@ -171,20 +179,12 @@
       "published": "2026-06-21T18:00:27Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "TOY STORY 5: o filme mais FRACO da franquia? 👀 | Dica do Ticiano",
-      "videoId": "3PSiUY_xZwQ",
-      "url": "https://www.youtube.com/watch?v=3PSiUY_xZwQ",
-      "thumbnail": "https://i.ytimg.com/vi/3PSiUY_xZwQ/mqdefault.jpg",
-      "published": "2026-06-21T16:30:14Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: Grêmio e reforços, Inter e saídas + Brasil e Copa",
       "videoId": "MbG_4x24GbE",
       "url": "https://www.youtube.com/watch?v=MbG_4x24GbE",
       "thumbnail": "https://i.ytimg.com/vi/MbG_4x24GbE/mqdefault_live.jpg",
-      "published": "2026-06-22T00:18:59Z"
+      "published": "2026-06-22T11:03:33Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO E A SEMANA DE TREINOS ANTES DO PRIMEIRO TESTE | A SITUAÇÃO DA BASE | REDAÇÃO IMORTAL",
+      "videoId": "GdLZCABZJQM",
+      "url": "https://www.youtube.com/watch?v=GdLZCABZJQM",
+      "thumbnail": "https://i.ytimg.com/vi/GdLZCABZJQM/mqdefault_live.jpg",
+      "published": "2026-06-22T11:03:03Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 22/06- PAULO LUMUMBA",
       "videoId": "9s6RsZlY_x4",
       "url": "https://www.youtube.com/watch?v=9s6RsZlY_x4",
       "thumbnail": "https://i.ytimg.com/vi/9s6RsZlY_x4/mqdefault.jpg",
       "published": "2026-06-22T11:00:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 22/06",
-      "videoId": "63rXJ3Xgrvc",
-      "url": "https://www.youtube.com/watch?v=63rXJ3Xgrvc",
-      "thumbnail": "https://i.ytimg.com/vi/63rXJ3Xgrvc/mqdefault_live.jpg",
-      "published": "2026-06-22T00:43:49Z"
     }
   ]
 }
