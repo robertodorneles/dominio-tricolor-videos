@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T14:01:05.644034+00:00",
+  "updated_at": "2026-06-23T14:55:37.390753+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "YluuyFHyIrE",
       "url": "https://www.youtube.com/watch?v=YluuyFHyIrE",
       "thumbnail": "https://i.ytimg.com/vi/YluuyFHyIrE/mqdefault_live.jpg",
-      "published": "2026-06-23T13:53:23Z"
+      "published": "2026-06-23T14:51:44Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO DEFINE PERFIL DE CONTRATAÇÕES🔵 FUTEBOL ALEGRIA DO GRÊMIO - 23/06 - #574",
       "videoId": "6X_XDcf-y6M",
       "url": "https://www.youtube.com/watch?v=6X_XDcf-y6M",
-      "thumbnail": "https://i.ytimg.com/vi/6X_XDcf-y6M/mqdefault_live.jpg",
-      "published": "2026-06-23T13:52:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/6X_XDcf-y6M/mqdefault.jpg",
+      "published": "2026-06-23T14:06:24Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨REVIRAVOLTA! SAÍDA SURPRESA DE TITULAR DO GRÊMIO? | JORNALISTA ERROU FEIO COM ÍDOLO | VOLTA ANTES",
+      "videoId": "p-S71iyb_fo",
+      "url": "https://www.youtube.com/watch?v=p-S71iyb_fo",
+      "thumbnail": "https://i.ytimg.com/vi/p-S71iyb_fo/mqdefault.jpg",
+      "published": "2026-06-23T14:38:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=dRnkCxnak5U",
       "thumbnail": "https://i.ytimg.com/vi/dRnkCxnak5U/mqdefault.jpg",
       "published": "2026-06-23T00:06:38Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONTATA ATLETAS JOVENS | OFERTA REALIZADA | INTERESSES EM ATACANTE",
-      "videoId": "mb7HGypUDWc",
-      "url": "https://www.youtube.com/watch?v=mb7HGypUDWc",
-      "thumbnail": "https://i.ytimg.com/vi/mb7HGypUDWc/mqdefault.jpg",
-      "published": "2026-06-22T15:06:51Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "ELE FAZ TODOS OS SOTAQUES DO BRASIL #dudagarbi #umassadopara #copadomundo",
+      "videoId": "H6JTdYBGWbw",
+      "url": "https://www.youtube.com/watch?v=H6JTdYBGWbw",
+      "thumbnail": "https://i.ytimg.com/vi/H6JTdYBGWbw/mqdefault.jpg",
+      "published": "2026-06-23T14:03:26Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO - #14 - 23.06 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "8yDqhVoi-vM",
       "url": "https://www.youtube.com/watch?v=8yDqhVoi-vM",
       "thumbnail": "https://i.ytimg.com/vi/8yDqhVoi-vM/mqdefault.jpg",
       "published": "2026-06-23T13:24:52Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... 🇺🇸 TOMER SAVOIA | #391",
-      "videoId": "HLrtXQymnsA",
-      "url": "https://www.youtube.com/watch?v=HLrtXQymnsA",
-      "thumbnail": "https://i.ytimg.com/vi/HLrtXQymnsA/mqdefault.jpg",
-      "published": "2026-06-23T04:37:38Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com Gregorio Duvivier, Copa do Mundo, últimas da política e mais | Timeline 23/06/26",
-      "videoId": "NXzMRaVmKOM",
-      "url": "https://www.youtube.com/watch?v=NXzMRaVmKOM",
-      "thumbnail": "https://i.ytimg.com/vi/NXzMRaVmKOM/mqdefault_live.jpg",
-      "published": "2026-06-23T13:59:21Z"
+      "title": "| Timeline 24/06/26",
+      "videoId": "ng2TvXhZZYo",
+      "url": "https://www.youtube.com/watch?v=ng2TvXhZZYo",
+      "thumbnail": "https://i.ytimg.com/vi/ng2TvXhZZYo/mqdefault_live.jpg",
+      "published": "2026-06-23T14:22:02Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Direto de Rio Grande, Edir Macedo e Banco Digimais, trânsito e mais | Gaúcha Atualidade | 23/06/2026",
-      "videoId": "QFGg5YJT9_Q",
-      "url": "https://www.youtube.com/watch?v=QFGg5YJT9_Q",
-      "thumbnail": "https://i.ytimg.com/vi/QFGg5YJT9_Q/mqdefault_live.jpg",
-      "published": "2026-06-23T13:04:43Z"
+      "title": "| Gaúcha Atualidade | 24/06/2026",
+      "videoId": "sCvFpd0P_F8",
+      "url": "https://www.youtube.com/watch?v=sCvFpd0P_F8",
+      "thumbnail": "https://i.ytimg.com/vi/sCvFpd0P_F8/mqdefault_live.jpg",
+      "published": "2026-06-23T14:21:40Z"
     },
     {
       "channel": "Jeremias Wernek",
