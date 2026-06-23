@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T17:15:57.304419+00:00",
+  "updated_at": "2026-06-23T18:01:07.523509+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X BAHIA (CAMPEONATO BRASILEIRO SUB-20 2026)",
+      "videoId": "_216fvo_VBI",
+      "url": "https://www.youtube.com/watch?v=_216fvo_VBI",
+      "thumbnail": "https://i.ytimg.com/vi/_216fvo_VBI/mqdefault_live.jpg",
+      "published": "2026-06-23T17:40:26Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA (CAMPEONATO BRASILEIRO SUB-20 2026)",
       "videoId": "FvO9MsMsBgo",
       "url": "https://www.youtube.com/watch?v=FvO9MsMsBgo",
       "thumbnail": "https://i.ytimg.com/vi/FvO9MsMsBgo/mqdefault.jpg",
       "published": "2026-06-20T20:16:31Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "Reformas no CT Luiz Carvalho",
-      "videoId": "AB7b-2YJIBc",
-      "url": "https://www.youtube.com/watch?v=AB7b-2YJIBc",
-      "thumbnail": "https://i.ytimg.com/vi/AB7b-2YJIBc/mqdefault.jpg",
-      "published": "2026-06-20T13:00:17Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "23/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "23/06/2026 |CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "8-BKr3FWo-8",
       "url": "https://www.youtube.com/watch?v=8-BKr3FWo-8",
       "thumbnail": "https://i.ytimg.com/vi/8-BKr3FWo-8/mqdefault_live.jpg",
