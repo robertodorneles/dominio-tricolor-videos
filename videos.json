@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-23T02:01:00.949055+00:00",
+  "updated_at": "2026-06-23T03:52:19.401365+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: POR QUE MD FOI EMBORA? A VERDADE SERÁ POSTA!",
+      "videoId": "w6GBqBcwrqk",
+      "url": "https://www.youtube.com/watch?v=w6GBqBcwrqk",
+      "thumbnail": "https://i.ytimg.com/vi/w6GBqBcwrqk/mqdefault_live.jpg",
+      "published": "2026-06-23T03:32:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ 🔥 Diário do Inter KTO: EXPECTATIVA AUMENTA | A NOVELA URUGUAIA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=37U3Qrpqdws",
       "thumbnail": "https://i.ytimg.com/vi/37U3Qrpqdws/mqdefault.jpg",
       "published": "2026-06-22T05:21:43Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: TORCIDA NÃO VAI GOSTAR | ALANZINHO VEM? | PROTEJAM A JOIA",
-      "videoId": "gGsp5-1J4TY",
-      "url": "https://www.youtube.com/watch?v=gGsp5-1J4TY",
-      "thumbnail": "https://i.ytimg.com/vi/gGsp5-1J4TY/mqdefault.jpg",
-      "published": "2026-06-22T04:51:35Z"
     },
     {
       "channel": "Bage TV",
