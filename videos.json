@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:00:59.651587+00:00",
+  "updated_at": "2026-06-23T16:01:16.325677+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #007",
       "videoId": "YluuyFHyIrE",
       "url": "https://www.youtube.com/watch?v=YluuyFHyIrE",
-      "thumbnail": "https://i.ytimg.com/vi/YluuyFHyIrE/mqdefault_live.jpg",
-      "published": "2026-06-23T14:51:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/YluuyFHyIrE/mqdefault.jpg",
+      "published": "2026-06-23T15:37:00Z"
     },
     {
       "channel": "Bage TV",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "23/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "23/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "8-BKr3FWo-8",
       "url": "https://www.youtube.com/watch?v=8-BKr3FWo-8",
       "thumbnail": "https://i.ytimg.com/vi/8-BKr3FWo-8/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #97 — GRÊMIO VAI MUDAR O PLANEJAMENTO? | O CALENDÁRIO DO RETORNO",
-      "videoId": "a4Ay3xN0mVk",
-      "url": "https://www.youtube.com/watch?v=a4Ay3xN0mVk",
-      "thumbnail": "https://i.ytimg.com/vi/a4Ay3xN0mVk/mqdefault_live.jpg",
-      "published": "2026-06-23T15:00:27Z"
+      "title": "IMORTAL FC — 23/06",
+      "videoId": "tCOSzxK4uXk",
+      "url": "https://www.youtube.com/watch?v=tCOSzxK4uXk",
+      "thumbnail": "https://i.ytimg.com/vi/tCOSzxK4uXk/mqdefault_live.jpg",
+      "published": "2026-06-23T15:44:16Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "MUDANÇA IMPORTANTE! GRÊMIO JOGARÁ ANTES DO FINAL DA COPA | DATAS DIVULGADAS | REDAÇÃO IMORTAL",
-      "videoId": "R8oKH8nMwe0",
-      "url": "https://www.youtube.com/watch?v=R8oKH8nMwe0",
-      "thumbnail": "https://i.ytimg.com/vi/R8oKH8nMwe0/mqdefault.jpg",
-      "published": "2026-06-23T13:12:47Z"
+      "title": "TIMELINE IMORTAL #97 — GRÊMIO VAI MUDAR O PLANEJAMENTO? | O CALENDÁRIO DO RETORNO",
+      "videoId": "a4Ay3xN0mVk",
+      "url": "https://www.youtube.com/watch?v=a4Ay3xN0mVk",
+      "thumbnail": "https://i.ytimg.com/vi/a4Ay3xN0mVk/mqdefault.jpg",
+      "published": "2026-06-23T15:30:00Z"
     }
   ]
 }
