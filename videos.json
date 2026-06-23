@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:16:38.134903+00:00",
+  "updated_at": "2026-06-23T00:00:47.438538+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "MESSI SE TORNOU UM REI?? | HORA DA COPA #3",
+      "videoId": "7pmpDKqSjMY",
+      "url": "https://www.youtube.com/watch?v=7pmpDKqSjMY",
+      "thumbnail": "https://i.ytimg.com/vi/7pmpDKqSjMY/mqdefault_live.jpg",
+      "published": "2026-06-22T23:30:35Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO MIRA 4 REFORÇOS - VAMOOO FARIDO 22.06.26",
       "videoId": "v1NG5Bw48HY",
       "url": "https://www.youtube.com/watch?v=v1NG5Bw48HY",
@@ -75,12 +83,12 @@
       "published": "2026-06-22T22:07:39Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "VINI DA POSE FICA!!",
-      "videoId": "W5Fn48qsvzQ",
-      "url": "https://www.youtube.com/watch?v=W5Fn48qsvzQ",
-      "thumbnail": "https://i.ytimg.com/vi/W5Fn48qsvzQ/mqdefault.jpg",
-      "published": "2026-06-22T20:54:41Z"
+      "channel": "Canal do Gabardo",
+      "title": "Grêmio jogará pelo Brasileirão durante a Copa | Perfil de contratações  | O contrato do artilheiro",
+      "videoId": "Xo8eShfMwoI",
+      "url": "https://www.youtube.com/watch?v=Xo8eShfMwoI",
+      "thumbnail": "https://i.ytimg.com/vi/Xo8eShfMwoI/mqdefault.jpg",
+      "published": "2026-06-22T23:56:48Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=3pLfb02WSzw",
       "thumbnail": "https://i.ytimg.com/vi/3pLfb02WSzw/mqdefault.jpg",
       "published": "2026-06-21T17:53:45Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Como joga o novo zagueiro do Inter",
-      "videoId": "ImfyKlRdTxU",
-      "url": "https://www.youtube.com/watch?v=ImfyKlRdTxU",
-      "thumbnail": "https://i.ytimg.com/vi/ImfyKlRdTxU/mqdefault.jpg",
-      "published": "2026-06-18T18:12:21Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "EUA X IRÃ: o CONFLITO no oriente médio ACABOU? | Conversas Cruzadas |",
-      "videoId": "hnBGogFEELw",
-      "url": "https://www.youtube.com/watch?v=hnBGogFEELw",
-      "thumbnail": "https://i.ytimg.com/vi/hnBGogFEELw/mqdefault.jpg",
-      "published": "2026-06-22T23:07:23Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "TERCEIRA SEMANA DE COPA: MESSI ARTILHEIRO ABSOLUTO E GIRO PELOS STATES | COPANDO TUDO | 22/06/2026",
       "videoId": "8pvmuM9rgTA",
       "url": "https://www.youtube.com/watch?v=8pvmuM9rgTA",
       "thumbnail": "https://i.ytimg.com/vi/8pvmuM9rgTA/mqdefault_live.jpg",
-      "published": "2026-06-22T21:57:46Z"
+      "published": "2026-06-22T23:33:21Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "ACORDO DE PAZ EUA-IRÃ: a GUERRA no ORIENTE MÉDIO acabou? | Conversas Cruzadas",
+      "videoId": "faz6S3QCn38",
+      "url": "https://www.youtube.com/watch?v=faz6S3QCn38",
+      "thumbnail": "https://i.ytimg.com/vi/faz6S3QCn38/mqdefault.jpg",
+      "published": "2026-06-22T23:28:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -215,8 +215,8 @@
       "title": "22/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "L1jAmeYwE9Q",
       "url": "https://www.youtube.com/watch?v=L1jAmeYwE9Q",
-      "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault_live.jpg",
-      "published": "2026-06-22T23:01:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/L1jAmeYwE9Q/mqdefault.jpg",
+      "published": "2026-06-22T23:38:31Z"
     },
     {
       "channel": "Radio Grenal",
@@ -232,7 +232,7 @@
       "videoId": "9hR0rXyfUVk",
       "url": "https://www.youtube.com/watch?v=9hR0rXyfUVk",
       "thumbnail": "https://i.ytimg.com/vi/9hR0rXyfUVk/mqdefault_live.jpg",
-      "published": "2026-06-22T23:00:46Z"
+      "published": "2026-06-22T23:55:54Z"
     },
     {
       "channel": "Radio Imortal",
