@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T01:00:59.738734+00:00",
+  "updated_at": "2026-06-24T02:00:49.439115+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "11pkR6xo-KU",
       "url": "https://www.youtube.com/watch?v=11pkR6xo-KU",
       "thumbnail": "https://i.ytimg.com/vi/11pkR6xo-KU/mqdefault_live.jpg",
-      "published": "2026-06-23T19:06:46Z"
+      "published": "2026-06-24T01:01:25Z"
     },
     {
       "channel": "A Dupla",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "REFORÇO CONTRATADO! | VEM MAIS 4 AÍ NESTA JANELA! QUEM SÃO? QUAIS POSIÇÕES?",
+      "videoId": "TOwJHVdd8t8",
+      "url": "https://www.youtube.com/watch?v=TOwJHVdd8t8",
+      "thumbnail": "https://i.ytimg.com/vi/TOwJHVdd8t8/mqdefault.jpg",
+      "published": "2026-06-24T01:23:58Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "ALAN SENDO CONTRATADO? | CARLOS VINÍCIUS NO CORINTHIANS? | VENDA PRÓXIMA | LATERAL BEM PRÓXIMO",
       "videoId": "H3btfF4Fx0M",
       "url": "https://www.youtube.com/watch?v=H3btfF4Fx0M",
       "thumbnail": "https://i.ytimg.com/vi/H3btfF4Fx0M/mqdefault.jpg",
       "published": "2026-06-18T20:58:13Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "HULL CITY FAZ PROPOSTA POR GABRIEL MEC! VAI SAIR? | SALÁRIOS ATRASADOS | REFORÇOS E MAIS",
-      "videoId": "ZEP2UlV5T7s",
-      "url": "https://www.youtube.com/watch?v=ZEP2UlV5T7s",
-      "thumbnail": "https://i.ytimg.com/vi/ZEP2UlV5T7s/mqdefault.jpg",
-      "published": "2026-06-17T12:57:51Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Direto de Rio Grande, Edir Macedo e Banco Digimais, trânsito e mais | Gaúcha Atualidade | 23/06/2026",
+      "videoId": "QFGg5YJT9_Q",
+      "url": "https://www.youtube.com/watch?v=QFGg5YJT9_Q",
+      "thumbnail": "https://i.ytimg.com/vi/QFGg5YJT9_Q/mqdefault.jpg",
+      "published": "2026-06-24T01:21:33Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "BANCO DIGIMAIS: colunistas analisam operação da PF contra banco de Edir Macedo",
       "videoId": "6bO4xnITkdU",
       "url": "https://www.youtube.com/watch?v=6bO4xnITkdU",
       "thumbnail": "https://i.ytimg.com/vi/6bO4xnITkdU/mqdefault.jpg",
       "published": "2026-06-24T01:00:35Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "PRÉ BRASIL X ESCÓCIA, TATIQUÊS COM LISCA E HISTÓRIAS DE COPA COM ZÉ ALBERTO | COPANDO TUDO 23/6/2026",
-      "videoId": "94_9iiz012A",
-      "url": "https://www.youtube.com/watch?v=94_9iiz012A",
-      "thumbnail": "https://i.ytimg.com/vi/94_9iiz012A/mqdefault_live.jpg",
-      "published": "2026-06-23T23:35:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🚨🚨 URGENTE: GRÊMIO FAZ PRIMEIRA CONTRATAÇÃO | NOITES DE GRÊMIO #97 - 23/06",
+      "videoId": "7io_R1rSUo4",
+      "url": "https://www.youtube.com/watch?v=7io_R1rSUo4",
+      "thumbnail": "https://i.ytimg.com/vi/7io_R1rSUo4/mqdefault_live.jpg",
+      "published": "2026-06-24T01:59:44Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO ENCARA IMPORTANTE MUDANÇA NO CALENDÁRIO | VITÓRIAS IMPORTANTES NA BASE | IMORTAL FC",
       "videoId": "tCOSzxK4uXk",
       "url": "https://www.youtube.com/watch?v=tCOSzxK4uXk",
       "thumbnail": "https://i.ytimg.com/vi/tCOSzxK4uXk/mqdefault.jpg",
       "published": "2026-06-23T23:12:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ATUALIZANDO O NOTICIÁRIO DO GRÊMIO | IMAGENS DO TREINO DE HOJE | CALENDÁRIO DEFINIDO NO RETORNO",
-      "videoId": "4kC_32HGegw",
-      "url": "https://www.youtube.com/watch?v=4kC_32HGegw",
-      "thumbnail": "https://i.ytimg.com/vi/4kC_32HGegw/mqdefault.jpg",
-      "published": "2026-06-23T20:07:13Z"
     }
   ]
 }
