@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-24T19:01:01.933971+00:00",
+  "updated_at": "2026-06-24T19:41:53.760647+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO",
+      "videoId": "SBxPcLkbylk",
+      "url": "https://www.youtube.com/watch?v=SBxPcLkbylk",
+      "thumbnail": "https://i.ytimg.com/vi/SBxPcLkbylk/mqdefault_live.jpg",
+      "published": "2026-06-24T19:14:11Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio:  VEJA COMO JOGA O ZAGUEIRO WALLACE CONTRATADO | ALTO, MAS NÃO PRONTO...",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=MfFiF5HnSG4",
       "thumbnail": "https://i.ytimg.com/vi/MfFiF5HnSG4/mqdefault.jpg",
       "published": "2026-06-24T16:30:09Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: DETALHES SEGURAM BORRÉ | ABELÃO DEU A REAL | F5 WILLIAM",
-      "videoId": "m6guNr4ztxk",
-      "url": "https://www.youtube.com/watch?v=m6guNr4ztxk",
-      "thumbnail": "https://i.ytimg.com/vi/m6guNr4ztxk/mqdefault.jpg",
-      "published": "2026-06-24T08:19:32Z"
     },
     {
       "channel": "Bage TV",
@@ -232,7 +232,7 @@
       "videoId": "sqs4mf321ho",
       "url": "https://www.youtube.com/watch?v=sqs4mf321ho",
       "thumbnail": "https://i.ytimg.com/vi/sqs4mf321ho/mqdefault_live.jpg",
-      "published": "2026-06-24T18:01:48Z"
+      "published": "2026-06-24T19:01:28Z"
     },
     {
       "channel": "Radio Imortal",
