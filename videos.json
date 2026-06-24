@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T11:43:13.660643+00:00",
-  "total": 30,
+  "updated_at": "2026-06-24T12:01:03.202650+00:00",
+  "total": 28,
   "videos": [
     {
       "channel": "A Dupla",
@@ -24,7 +24,7 @@
       "videoId": "2O2CrAz4_1o",
       "url": "https://www.youtube.com/watch?v=2O2CrAz4_1o",
       "thumbnail": "https://i.ytimg.com/vi/2O2CrAz4_1o/mqdefault_live.jpg",
-      "published": "2026-06-24T09:36:09Z"
+      "published": "2026-06-24T11:58:53Z"
     },
     {
       "channel": "Bage TV",
@@ -131,22 +131,6 @@
       "published": "2026-06-18T20:58:13Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "TEVE TRETA COM MAURO CEZAR? #dudagarbi #umassadopara #copadomundo",
-      "videoId": "RE0So15sjfk",
-      "url": "https://www.youtube.com/watch?v=RE0So15sjfk",
-      "thumbnail": "https://i.ytimg.com/vi/RE0So15sjfk/mqdefault.jpg",
-      "published": "2026-06-23T22:30:39Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O QUE ACONTECE EM DIA DE JOGO DO BRASIL? BASTIDOR DA COPA | Cortes do Duda",
-      "videoId": "zHJv6OiKVA4",
-      "url": "https://www.youtube.com/watch?v=zHJv6OiKVA4",
-      "thumbnail": "https://i.ytimg.com/vi/zHJv6OiKVA4/mqdefault.jpg",
-      "published": "2026-06-23T22:30:31Z"
-    },
-    {
       "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X BAHIA (CAMPEONATO BRASILEIRO SUB-20 2026)",
       "videoId": "_216fvo_VBI",
@@ -164,19 +148,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "PRÉ BRASIL X ESCÓCIA, TATIQUÊS COM LISCA E HISTÓRIAS DE COPA COM ZÉ ALBERTO | COPANDO TUDO 23/6/2026",
+      "videoId": "94_9iiz012A",
+      "url": "https://www.youtube.com/watch?v=94_9iiz012A",
+      "thumbnail": "https://i.ytimg.com/vi/94_9iiz012A/mqdefault.jpg",
+      "published": "2026-06-24T11:59:59Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Frio no RS, jogo do Brasil na Copa do Mundo, trânsito e mais | Gaúcha Atualidade | 24/06/2026",
       "videoId": "sCvFpd0P_F8",
       "url": "https://www.youtube.com/watch?v=sCvFpd0P_F8",
       "thumbnail": "https://i.ytimg.com/vi/sCvFpd0P_F8/mqdefault_live.jpg",
       "published": "2026-06-24T10:58:02Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "El Niño no RS e onda de calor na Europa: o que esperar do clima? | Conversas Cruzadas | 23/06/26",
-      "videoId": "I4xf0oEJlTQ",
-      "url": "https://www.youtube.com/watch?v=I4xf0oEJlTQ",
-      "thumbnail": "https://i.ytimg.com/vi/I4xf0oEJlTQ/mqdefault.jpg",
-      "published": "2026-06-24T09:17:19Z"
     },
     {
       "channel": "Jeremias Wernek",
