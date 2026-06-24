@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T11:00:57.292299+00:00",
+  "updated_at": "2026-06-24T11:43:13.660643+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO SURPREENDE E CONTRATA ZAGUEIRO DA SÉRIE B | VALORES DA NEGOCIAÇÃO | REDAÇÃO IMORTAL",
+      "videoId": "vvgeKvMW_qw",
+      "url": "https://www.youtube.com/watch?v=vvgeKvMW_qw",
+      "thumbnail": "https://i.ytimg.com/vi/vvgeKvMW_qw/mqdefault_live.jpg",
+      "published": "2026-06-24T11:01:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 24/06- INTER 0X2 GRÊMIO (BRASILEIRÃO 2007)",
       "videoId": "NUScUv73obY",
       "url": "https://www.youtube.com/watch?v=NUScUv73obY",
       "thumbnail": "https://i.ytimg.com/vi/NUScUv73obY/mqdefault.jpg",
       "published": "2026-06-24T11:00:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 24/06",
-      "videoId": "sqs4mf321ho",
-      "url": "https://www.youtube.com/watch?v=sqs4mf321ho",
-      "thumbnail": "https://i.ytimg.com/vi/sqs4mf321ho/mqdefault_live.jpg",
-      "published": "2026-06-24T04:15:02Z"
     }
   ]
 }
