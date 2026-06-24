@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T02:00:49.439115+00:00",
+  "updated_at": "2026-06-24T03:53:39.000690+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla KTO: AMANHA TEM BRASA | NEW YORK PULSA? | O QUE VEM POR AI?",
       "videoId": "11pkR6xo-KU",
       "url": "https://www.youtube.com/watch?v=11pkR6xo-KU",
-      "thumbnail": "https://i.ytimg.com/vi/11pkR6xo-KU/mqdefault_live.jpg",
-      "published": "2026-06-24T01:01:25Z"
+      "thumbnail": "https://i.ytimg.com/vi/11pkR6xo-KU/mqdefault.jpg",
+      "published": "2026-06-24T02:28:48Z"
     },
     {
       "channel": "A Dupla",
@@ -72,7 +72,7 @@
       "videoId": "qs0FQMgj48M",
       "url": "https://www.youtube.com/watch?v=qs0FQMgj48M",
       "thumbnail": "https://i.ytimg.com/vi/qs0FQMgj48M/mqdefault_live.jpg",
-      "published": "2026-06-24T00:35:34Z"
+      "published": "2026-06-24T02:15:58Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com Gregorio Duvivier, Copa do Mundo, últimas da política e mais | Timeline 23/06/26",
+      "videoId": "NXzMRaVmKOM",
+      "url": "https://www.youtube.com/watch?v=NXzMRaVmKOM",
+      "thumbnail": "https://i.ytimg.com/vi/NXzMRaVmKOM/mqdefault.jpg",
+      "published": "2026-06-24T02:13:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Direto de Rio Grande, Edir Macedo e Banco Digimais, trânsito e mais | Gaúcha Atualidade | 23/06/2026",
       "videoId": "QFGg5YJT9_Q",
       "url": "https://www.youtube.com/watch?v=QFGg5YJT9_Q",
       "thumbnail": "https://i.ytimg.com/vi/QFGg5YJT9_Q/mqdefault.jpg",
       "published": "2026-06-24T01:21:33Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "BANCO DIGIMAIS: colunistas analisam operação da PF contra banco de Edir Macedo",
-      "videoId": "6bO4xnITkdU",
-      "url": "https://www.youtube.com/watch?v=6bO4xnITkdU",
-      "thumbnail": "https://i.ytimg.com/vi/6bO4xnITkdU/mqdefault.jpg",
-      "published": "2026-06-24T01:00:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "🚨🚨 URGENTE: GRÊMIO FAZ PRIMEIRA CONTRATAÇÃO | NOITES DE GRÊMIO #97 - 23/06",
       "videoId": "7io_R1rSUo4",
       "url": "https://www.youtube.com/watch?v=7io_R1rSUo4",
-      "thumbnail": "https://i.ytimg.com/vi/7io_R1rSUo4/mqdefault_live.jpg",
-      "published": "2026-06-24T01:59:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/7io_R1rSUo4/mqdefault.jpg",
+      "published": "2026-06-24T02:05:11Z"
     },
     {
       "channel": "Radio Imortal",
