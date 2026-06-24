@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-24T16:01:01.951126+00:00",
+  "updated_at": "2026-06-24T17:00:56.361138+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio:  VEJA COMO JOGA O ZAGUEIRO WALLACE CONTRATADO | ALTO, MAS NÃO PRONTO...",
+      "videoId": "MfFiF5HnSG4",
+      "url": "https://www.youtube.com/watch?v=MfFiF5HnSG4",
+      "thumbnail": "https://i.ytimg.com/vi/MfFiF5HnSG4/mqdefault.jpg",
+      "published": "2026-06-24T16:30:09Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: DETALHES SEGURAM BORRÉ | ABELÃO DEU A REAL | F5 WILLIAM",
@@ -11,12 +19,12 @@
       "published": "2026-06-24T08:19:32Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: Nova aposta do clube| Investimento milionário | Dinheiro chegando",
-      "videoId": "5sQmN66w2Cc",
-      "url": "https://www.youtube.com/watch?v=5sQmN66w2Cc",
-      "thumbnail": "https://i.ytimg.com/vi/5sQmN66w2Cc/mqdefault.jpg",
-      "published": "2026-06-24T05:00:05Z"
+      "channel": "Bage TV",
+      "title": "NOVO REFORÇO GREMISTA! / PAGODE EM DIA DE BRASIL🔸RESENHA FORA DA SALA🔸#073",
+      "videoId": "7p7tcCIoqAw",
+      "url": "https://www.youtube.com/watch?v=7p7tcCIoqAw",
+      "thumbnail": "https://i.ytimg.com/vi/7p7tcCIoqAw/mqdefault_live.jpg",
+      "published": "2026-06-24T16:35:25Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=wWSnpNkyh_k",
       "thumbnail": "https://i.ytimg.com/vi/wWSnpNkyh_k/mqdefault.jpg",
       "published": "2026-06-24T15:10:36Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ACERTA CONTRATAÇÃO DE ZAGUEIRO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 24/06 - #575",
-      "videoId": "UGLm2PlXULE",
-      "url": "https://www.youtube.com/watch?v=UGLm2PlXULE",
-      "thumbnail": "https://i.ytimg.com/vi/UGLm2PlXULE/mqdefault.jpg",
-      "published": "2026-06-24T14:08:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "24/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "24/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "0h2nokdMuPs",
       "url": "https://www.youtube.com/watch?v=0h2nokdMuPs",
       "thumbnail": "https://i.ytimg.com/vi/0h2nokdMuPs/mqdefault_live.jpg",
       "published": "2026-06-24T11:00:09Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "WALLACE E A NOVA REALIDADE DO GRÊMIO | PRÉ-JOGO BRASIL X ESCÓCIA | IMORTAL FC",
+      "videoId": "cBr_0Ldb53I",
+      "url": "https://www.youtube.com/watch?v=cBr_0Ldb53I",
+      "thumbnail": "https://i.ytimg.com/vi/cBr_0Ldb53I/mqdefault_live.jpg",
+      "published": "2026-06-24T16:37:50Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=A06dl-oa8rg",
       "thumbnail": "https://i.ytimg.com/vi/A06dl-oa8rg/mqdefault.jpg",
       "published": "2026-06-24T15:13:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SURPREENDE E CONTRATA ZAGUEIRO DA SÉRIE B | VALORES DA NEGOCIAÇÃO | REDAÇÃO IMORTAL",
-      "videoId": "vvgeKvMW_qw",
-      "url": "https://www.youtube.com/watch?v=vvgeKvMW_qw",
-      "thumbnail": "https://i.ytimg.com/vi/vvgeKvMW_qw/mqdefault.jpg",
-      "published": "2026-06-24T13:09:13Z"
     }
   ]
 }
