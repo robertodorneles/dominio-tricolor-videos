@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:23:34.338292+00:00",
+  "updated_at": "2026-06-24T15:00:55.080654+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #008",
+      "videoId": "wWSnpNkyh_k",
+      "url": "https://www.youtube.com/watch?v=wWSnpNkyh_k",
+      "thumbnail": "https://i.ytimg.com/vi/wWSnpNkyh_k/mqdefault_live.jpg",
+      "published": "2026-06-24T14:51:19Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ACERTA CONTRATAÇÃO DE ZAGUEIRO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 24/06 - #575",
       "videoId": "UGLm2PlXULE",
       "url": "https://www.youtube.com/watch?v=UGLm2PlXULE",
@@ -27,12 +35,12 @@
       "published": "2026-06-24T14:08:16Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #008",
-      "videoId": "wWSnpNkyh_k",
-      "url": "https://www.youtube.com/watch?v=wWSnpNkyh_k",
-      "thumbnail": "https://i.ytimg.com/vi/wWSnpNkyh_k/mqdefault_live.jpg",
-      "published": "2026-06-24T13:56:31Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨CELSO RIGO EM AÇÃO NO GRÊMIO | A GRANDE ATITUDE | DETALHES DO NEGÓCIO | HISTÓRIA DO MANO | O BRASIL",
+      "videoId": "PF5nfWzl4mU",
+      "url": "https://www.youtube.com/watch?v=PF5nfWzl4mU",
+      "thumbnail": "https://i.ytimg.com/vi/PF5nfWzl4mU/mqdefault.jpg",
+      "published": "2026-06-24T14:58:54Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=wGmhaicNO2s",
       "thumbnail": "https://i.ytimg.com/vi/wGmhaicNO2s/mqdefault.jpg",
       "published": "2026-06-24T00:47:06Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FECHA NOVO ACORDO | INFORMAÇÃO IMPACTANTE SOBRE REFORÇOS AVALIADOS | OS AMISTOSOS MARCADOS",
-      "videoId": "fLd8LD6Vwj8",
-      "url": "https://www.youtube.com/watch?v=fLd8LD6Vwj8",
-      "thumbnail": "https://i.ytimg.com/vi/fLd8LD6Vwj8/mqdefault.jpg",
-      "published": "2026-06-24T00:09:12Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "CR7 ESTÁ VIVO E QUER A COPA! | HORA DA COPA #4",
+      "videoId": "qs0FQMgj48M",
+      "url": "https://www.youtube.com/watch?v=qs0FQMgj48M",
+      "thumbnail": "https://i.ytimg.com/vi/qs0FQMgj48M/mqdefault.jpg",
+      "published": "2026-06-24T14:26:01Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAI COMEÇAR A MARATONA DO GRÊMIO! - VAMOOO FARIDO 23.06.26",
       "videoId": "-iSDPH29AA8",
       "url": "https://www.youtube.com/watch?v=-iSDPH29AA8",
       "thumbnail": "https://i.ytimg.com/vi/-iSDPH29AA8/mqdefault.jpg",
       "published": "2026-06-24T10:33:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "CR7 ESTÁ VIVO E QUER A COPA! | HORA DA COPA #4",
-      "videoId": "qs0FQMgj48M",
-      "url": "https://www.youtube.com/watch?v=qs0FQMgj48M",
-      "thumbnail": "https://i.ytimg.com/vi/qs0FQMgj48M/mqdefault_live.jpg",
-      "published": "2026-06-24T02:15:58Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Bola-Bola com Falcão #4 - Mano Menezes",
-      "videoId": "h9Z-oSN3ln4",
-      "url": "https://www.youtube.com/watch?v=h9Z-oSN3ln4",
-      "thumbnail": "https://i.ytimg.com/vi/h9Z-oSN3ln4/mqdefault.jpg",
-      "published": "2026-06-24T14:00:20Z"
+      "title": "\"FOI AÍ QUE EU DECIDI LARGAR O FUTEBOL E COMEÇAR A ESTUDAR\" | Cortes do Bola-Bola",
+      "videoId": "0AC5mJOjwF4",
+      "url": "https://www.youtube.com/watch?v=0AC5mJOjwF4",
+      "thumbnail": "https://i.ytimg.com/vi/0AC5mJOjwF4/mqdefault.jpg",
+      "published": "2026-06-24T15:00:04Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #15 - 24.06 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "5HOZukdTz5w",
-      "url": "https://www.youtube.com/watch?v=5HOZukdTz5w",
-      "thumbnail": "https://i.ytimg.com/vi/5HOZukdTz5w/mqdefault.jpg",
-      "published": "2026-06-24T13:29:48Z"
+      "title": "\"FOI AÍ QUE EU DECIDI LARGAR O FUTEBOL E COMEÇAR A ESTUDAR\"  #dudagarbi  #bolabolacomfalcao #falcao",
+      "videoId": "D45VjkpWg70",
+      "url": "https://www.youtube.com/watch?v=D45VjkpWg70",
+      "thumbnail": "https://i.ytimg.com/vi/D45VjkpWg70/mqdefault.jpg",
+      "published": "2026-06-24T14:30:17Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Direto dos EUA: tudo sobre Brasil x Escócia, outros jogos da Copa e mais | Timeline 24/06/26",
-      "videoId": "ng2TvXhZZYo",
-      "url": "https://www.youtube.com/watch?v=ng2TvXhZZYo",
-      "thumbnail": "https://i.ytimg.com/vi/ng2TvXhZZYo/mqdefault.jpg",
-      "published": "2026-06-24T14:22:08Z"
+      "title": "Marcio Carvalho (CMO Claro) | Liderança em Sala #01",
+      "videoId": "QRQjzAnrr0o",
+      "url": "https://www.youtube.com/watch?v=QRQjzAnrr0o",
+      "thumbnail": "https://i.ytimg.com/vi/QRQjzAnrr0o/mqdefault.jpg",
+      "published": "2026-06-24T14:57:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Frio no RS, jogo do Brasil na Copa do Mundo, trânsito e mais | Gaúcha Atualidade | 24/06/2026",
-      "videoId": "sCvFpd0P_F8",
-      "url": "https://www.youtube.com/watch?v=sCvFpd0P_F8",
-      "thumbnail": "https://i.ytimg.com/vi/sCvFpd0P_F8/mqdefault_live.jpg",
-      "published": "2026-06-24T13:05:15Z"
+      "title": "| Timeline 25/06/26",
+      "videoId": "SidIAg4kdfk",
+      "url": "https://www.youtube.com/watch?v=SidIAg4kdfk",
+      "thumbnail": "https://i.ytimg.com/vi/SidIAg4kdfk/mqdefault_live.jpg",
+      "published": "2026-06-24T14:33:58Z"
     },
     {
       "channel": "Jeremias Wernek",
