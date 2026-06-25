@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T10:00:41.461506+00:00",
+  "updated_at": "2026-06-25T11:01:03.062008+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Direto da Festa do Peixe em Tramandaí, terremoto na Venezuela, e + | Gaúcha Atualidade | 25/06/2026",
+      "videoId": "DQK_WgUInWo",
+      "url": "https://www.youtube.com/watch?v=DQK_WgUInWo",
+      "thumbnail": "https://i.ytimg.com/vi/DQK_WgUInWo/mqdefault_live.jpg",
+      "published": "2026-06-25T10:58:32Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista: Ana Maria Gonçalves, escritora e imortal da ABL | Conversas Cruzadas | 24/06/2026",
       "videoId": "Oydtrc5Gb9w",
       "url": "https://www.youtube.com/watch?v=Oydtrc5Gb9w",
       "thumbnail": "https://i.ytimg.com/vi/Oydtrc5Gb9w/mqdefault.jpg",
       "published": "2026-06-25T09:37:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Frio no RS, jogo do Brasil na Copa do Mundo, trânsito e mais | Gaúcha Atualidade | 24/06/2026",
-      "videoId": "sCvFpd0P_F8",
-      "url": "https://www.youtube.com/watch?v=sCvFpd0P_F8",
-      "thumbnail": "https://i.ytimg.com/vi/sCvFpd0P_F8/mqdefault.jpg",
-      "published": "2026-06-25T01:49:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "24/06/2026 | ESPECIAL DE OLHO NO HEXA | LIVE COMPLETA",
+      "title": "25/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "KWtmqI_x8Lc",
       "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
       "thumbnail": "https://i.ytimg.com/vi/KWtmqI_x8Lc/mqdefault_live.jpg",
       "published": "2026-06-25T01:03:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 25/06 - GRÊMIO 5X1 CORITIBA (BRASILEIRÃO 2023)",
+      "videoId": "3ObSYOebHE0",
+      "url": "https://www.youtube.com/watch?v=3ObSYOebHE0",
+      "thumbnail": "https://i.ytimg.com/vi/3ObSYOebHE0/mqdefault.jpg",
+      "published": "2026-06-25T11:00:06Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=sqs4mf321ho",
       "thumbnail": "https://i.ytimg.com/vi/sqs4mf321ho/mqdefault.jpg",
       "published": "2026-06-25T07:23:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 25/06",
-      "videoId": "R1SWWGx4om8",
-      "url": "https://www.youtube.com/watch?v=R1SWWGx4om8",
-      "thumbnail": "https://i.ytimg.com/vi/R1SWWGx4om8/mqdefault_live.jpg",
-      "published": "2026-06-25T03:39:50Z"
     }
   ]
 }
