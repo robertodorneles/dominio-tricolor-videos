@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-25T19:00:46.051774+00:00",
+  "updated_at": "2026-06-25T19:54:36.226667+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO",
+      "videoId": "2THtfnoyZIk",
+      "url": "https://www.youtube.com/watch?v=2THtfnoyZIk",
+      "thumbnail": "https://i.ytimg.com/vi/2THtfnoyZIk/mqdefault_live.jpg",
+      "published": "2026-06-25T19:04:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O problema de Carlos Vinícius para os dirigentes | Caso Amuzu é urgente...",
@@ -11,12 +19,12 @@
       "published": "2026-06-25T16:30:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 ROCHET COM DESTINO NOVO | DIREÇÃO QUER RESCINDIR | PROBLEMA SOLUCIONADO?",
-      "videoId": "s6JBs8R3q2Y",
-      "url": "https://www.youtube.com/watch?v=s6JBs8R3q2Y",
-      "thumbnail": "https://i.ytimg.com/vi/s6JBs8R3q2Y/mqdefault.jpg",
-      "published": "2026-06-25T05:04:32Z"
+      "channel": "Bage TV",
+      "title": "🔹 THE TARDE 🔹#175",
+      "videoId": "ZY5YUIALxC8",
+      "url": "https://www.youtube.com/watch?v=ZY5YUIALxC8",
+      "thumbnail": "https://i.ytimg.com/vi/ZY5YUIALxC8/mqdefault_live.jpg",
+      "published": "2026-06-25T19:43:13Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=IK8_BH0Y8LM",
       "thumbnail": "https://i.ytimg.com/vi/IK8_BH0Y8LM/mqdefault.jpg",
       "published": "2026-06-25T18:32:11Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#175",
-      "videoId": "ZY5YUIALxC8",
-      "url": "https://www.youtube.com/watch?v=ZY5YUIALxC8",
-      "thumbnail": "https://i.ytimg.com/vi/ZY5YUIALxC8/mqdefault_live.jpg",
-      "published": "2026-06-25T18:21:49Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "GOLEADA DO BRASIL, POSSÍVEIS ADVERSÁRIOS NA PRÓXIMA FASE E COMIDA JAPONESA | COPANDO TUDO 25/06/2026",
+      "videoId": "3VB11JNFirA",
+      "url": "https://www.youtube.com/watch?v=3VB11JNFirA",
+      "thumbnail": "https://i.ytimg.com/vi/3VB11JNFirA/mqdefault_live.jpg",
+      "published": "2026-06-25T19:02:07Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Bastidores da rotina de jornalista entre a TV e a Rádio",
       "videoId": "PBk8YjQ8CJE",
       "url": "https://www.youtube.com/watch?v=PBk8YjQ8CJE",
       "thumbnail": "https://i.ytimg.com/vi/PBk8YjQ8CJE/mqdefault.jpg",
       "published": "2026-06-25T17:00:32Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 26/06/26",
-      "videoId": "xIYNg2cWkfc",
-      "url": "https://www.youtube.com/watch?v=xIYNg2cWkfc",
-      "thumbnail": "https://i.ytimg.com/vi/xIYNg2cWkfc/mqdefault_live.jpg",
-      "published": "2026-06-25T14:48:40Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "REFORÇO DO GRÊMIO DESEMBARCA EM PORTO ALEGRE | AS DEFINIÇÕES PARA O AMISTOSO | ESPLANADA",
+      "videoId": "R1SWWGx4om8",
+      "url": "https://www.youtube.com/watch?v=R1SWWGx4om8",
+      "thumbnail": "https://i.ytimg.com/vi/R1SWWGx4om8/mqdefault_live.jpg",
+      "published": "2026-06-25T19:29:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ADVERSÁRIO DO BRASIL DEFINIDO! | FORA DA COPA #15",
       "videoId": "00gCjiq96q0",
       "url": "https://www.youtube.com/watch?v=00gCjiq96q0",
       "thumbnail": "https://i.ytimg.com/vi/00gCjiq96q0/mqdefault_live.jpg",
       "published": "2026-06-25T18:44:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "REFORÇO DO GRÊMIO DESEMBARCA EM PORTO ALEGRE | AS DEFINIÇÕES PARA O AMISTOSO | ESPLANADA",
-      "videoId": "R1SWWGx4om8",
-      "url": "https://www.youtube.com/watch?v=R1SWWGx4om8",
-      "thumbnail": "https://i.ytimg.com/vi/R1SWWGx4om8/mqdefault_live.jpg",
-      "published": "2026-06-25T18:33:34Z"
     }
   ]
 }
