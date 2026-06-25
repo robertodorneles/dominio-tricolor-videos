@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:00:48.657644+00:00",
+  "updated_at": "2026-06-25T23:14:49.940038+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "25/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "qBt0kex1j1E",
+      "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
+      "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
+      "published": "2026-06-25T23:01:26Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "25/06/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "KWtmqI_x8Lc",
       "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
       "thumbnail": "https://i.ytimg.com/vi/KWtmqI_x8Lc/mqdefault_live.jpg",
-      "published": "2026-06-25T11:02:49Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "24/06/2026 | ESPECIAL DE OLHO NO HEXA | LIVE COMPLETA",
-      "videoId": "ZwloqE65RxM",
-      "url": "https://www.youtube.com/watch?v=ZwloqE65RxM",
-      "thumbnail": "https://i.ytimg.com/vi/ZwloqE65RxM/mqdefault.jpg",
-      "published": "2026-06-25T01:12:07Z"
+      "published": "2026-06-25T23:01:02Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "VIERY É VENDIDO PARA A ITÁLIA | VALORES HISTÓRICOS | GRÊMIO FAZ PROPOSTA POR LATERAL | IMORTAL FC",
       "videoId": "O3IL2o0z5vg",
       "url": "https://www.youtube.com/watch?v=O3IL2o0z5vg",
-      "thumbnail": "https://i.ytimg.com/vi/O3IL2o0z5vg/mqdefault_live.jpg",
-      "published": "2026-06-25T22:02:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/O3IL2o0z5vg/mqdefault.jpg",
+      "published": "2026-06-25T23:08:56Z"
     },
     {
       "channel": "Radio Imortal",
