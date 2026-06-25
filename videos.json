@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T15:00:58.437620+00:00",
+  "updated_at": "2026-06-25T16:00:52.958369+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #009",
       "videoId": "hb1WWe6CtM8",
       "url": "https://www.youtube.com/watch?v=hb1WWe6CtM8",
-      "thumbnail": "https://i.ytimg.com/vi/hb1WWe6CtM8/mqdefault_live.jpg",
-      "published": "2026-06-25T14:51:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/hb1WWe6CtM8/mqdefault.jpg",
+      "published": "2026-06-25T15:07:05Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A ideia de time do Grêmio e um alerta perigoso ligado",
+      "videoId": "U7BXrGiNQjg",
+      "url": "https://www.youtube.com/watch?v=U7BXrGiNQjg",
+      "thumbnail": "https://i.ytimg.com/vi/U7BXrGiNQjg/mqdefault.jpg",
+      "published": "2026-06-25T15:15:54Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio traz zagueiro do CRB | A real sobre o amistoso em Cascavel",
       "videoId": "r19dcLLJ3EU",
       "url": "https://www.youtube.com/watch?v=r19dcLLJ3EU",
@@ -59,12 +67,12 @@
       "published": "2026-06-24T13:57:53Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #614: Vitória na base | Amistosos | Renovações | Interesse em Mec | Próximo jogo",
-      "videoId": "gW_rnFKl0yI",
-      "url": "https://www.youtube.com/watch?v=gW_rnFKl0yI",
-      "thumbnail": "https://i.ytimg.com/vi/gW_rnFKl0yI/mqdefault.jpg",
-      "published": "2026-06-23T22:31:37Z"
+      "channel": "Canal do Farid",
+      "title": "DEVIA SER ASSIM",
+      "videoId": "suq7_CqZd8M",
+      "url": "https://www.youtube.com/watch?v=suq7_CqZd8M",
+      "thumbnail": "https://i.ytimg.com/vi/suq7_CqZd8M/mqdefault.jpg",
+      "published": "2026-06-25T15:34:25Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=rd6fexOcf8Q",
       "thumbnail": "https://i.ytimg.com/vi/rd6fexOcf8Q/mqdefault_live.jpg",
       "published": "2026-06-25T11:54:13Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO DEVE RENOVAR COM AMUZU? - VAMOOO FARIDO 25.06.26",
-      "videoId": "wEMJzlzdJ4U",
-      "url": "https://www.youtube.com/watch?v=wEMJzlzdJ4U",
-      "thumbnail": "https://i.ytimg.com/vi/wEMJzlzdJ4U/mqdefault_live.jpg",
-      "published": "2026-06-25T11:49:16Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "BASTIDORES DO DIA EM QUE UM FUSCA PAROU A TIMES SQUARE NOS EUA | Cortes do Duda",
+      "videoId": "sddjaFi8vTE",
+      "url": "https://www.youtube.com/watch?v=sddjaFi8vTE",
+      "thumbnail": "https://i.ytimg.com/vi/sddjaFi8vTE/mqdefault.jpg",
+      "published": "2026-06-25T15:50:39Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... 🇺🇸 ATÉ DE FUSCA NÓS IREMOS | #392",
       "videoId": "lw7vTNvOq7w",
       "url": "https://www.youtube.com/watch?v=lw7vTNvOq7w",
       "thumbnail": "https://i.ytimg.com/vi/lw7vTNvOq7w/mqdefault_live.jpg",
       "published": "2026-06-25T14:31:52Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #16 - 25.06 - PÓS-JOGO BRASIL 3 X 0 ESCÓCIA - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "pM7vj5S5csM",
-      "url": "https://www.youtube.com/watch?v=pM7vj5S5csM",
-      "thumbnail": "https://i.ytimg.com/vi/pM7vj5S5csM/mqdefault.jpg",
-      "published": "2026-06-25T13:43:26Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -180,7 +180,7 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "Os jogos que vão definir o futuro de Grêmio e Inter depois da Copa",
+      "title": "O calendário que pode derrubar Grêmio e Inter?",
       "videoId": "mzrr6TJmbk8",
       "url": "https://www.youtube.com/watch?v=mzrr6TJmbk8",
       "thumbnail": "https://i.ytimg.com/vi/mzrr6TJmbk8/mqdefault.jpg",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "25/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "25/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "KWtmqI_x8Lc",
       "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
       "thumbnail": "https://i.ytimg.com/vi/KWtmqI_x8Lc/mqdefault_live.jpg",
@@ -231,16 +231,16 @@
       "title": "TIMELINE IMORTAL #99 — LUÍS CASTRO COMEÇA A PROJETAR O GRÊMIO PARA SÁBADO | REFORÇO CHEGANDO EM POA",
       "videoId": "AimSfEnBt_E",
       "url": "https://www.youtube.com/watch?v=AimSfEnBt_E",
-      "thumbnail": "https://i.ytimg.com/vi/AimSfEnBt_E/mqdefault_live.jpg",
-      "published": "2026-06-25T13:45:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/AimSfEnBt_E/mqdefault.jpg",
+      "published": "2026-06-25T15:35:24Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "O QUE VALE O AMISTOSO DESTE SÁBADO? | NOVO ZAGUEIRO DO GRÊMIO CHEGA HOJE | REDAÇÃO IMORTAL",
-      "videoId": "6nCGyrMYepA",
-      "url": "https://www.youtube.com/watch?v=6nCGyrMYepA",
-      "thumbnail": "https://i.ytimg.com/vi/6nCGyrMYepA/mqdefault.jpg",
-      "published": "2026-06-25T13:12:38Z"
+      "title": "ÚLTIMAS NOTÍCIAS DO GRÊMIO | GRÊMIO PAGA POUCO POR ZAGUEIRO | NOITES DE GRÊMIO #98 - 24/06",
+      "videoId": "lz0mvcH4M-M",
+      "url": "https://www.youtube.com/watch?v=lz0mvcH4M-M",
+      "thumbnail": "https://i.ytimg.com/vi/lz0mvcH4M-M/mqdefault.jpg",
+      "published": "2026-06-25T15:16:59Z"
     }
   ]
 }
