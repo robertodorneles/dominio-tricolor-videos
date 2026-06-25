@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-25T16:00:52.958369+00:00",
+  "updated_at": "2026-06-25T17:00:49.856784+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O problema de Carlos Vinícius para os dirigentes | Caso Amuzu é urgente...",
+      "videoId": "pxz33ACRY1A",
+      "url": "https://www.youtube.com/watch?v=pxz33ACRY1A",
+      "thumbnail": "https://i.ytimg.com/vi/pxz33ACRY1A/mqdefault.jpg",
+      "published": "2026-06-25T16:30:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 ROCHET COM DESTINO NOVO | DIREÇÃO QUER RESCINDIR | PROBLEMA SOLUCIONADO?",
@@ -11,12 +19,12 @@
       "published": "2026-06-25T05:04:32Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO:  WALLACE CHEGA | VILLASANTI VOLTA | CHANCE PARA GRANDO",
-      "videoId": "jV9INe8bXJ4",
-      "url": "https://www.youtube.com/watch?v=jV9INe8bXJ4",
-      "thumbnail": "https://i.ytimg.com/vi/jV9INe8bXJ4/mqdefault.jpg",
-      "published": "2026-06-25T05:00:28Z"
+      "channel": "Bage TV",
+      "title": "REFORÇO EM PORTO ALEGRE | CLASSIFICAÇÃO DO BRASIL NA COPA🔸RESENHA FORA DA SALA🔸#074",
+      "videoId": "IK8_BH0Y8LM",
+      "url": "https://www.youtube.com/watch?v=IK8_BH0Y8LM",
+      "thumbnail": "https://i.ytimg.com/vi/IK8_BH0Y8LM/mqdefault_live.jpg",
+      "published": "2026-06-25T16:30:43Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=hb1WWe6CtM8",
       "thumbnail": "https://i.ytimg.com/vi/hb1WWe6CtM8/mqdefault.jpg",
       "published": "2026-06-25T15:07:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/06 - #576",
-      "videoId": "xzIZfrtUA-8",
-      "url": "https://www.youtube.com/watch?v=xzIZfrtUA-8",
-      "thumbnail": "https://i.ytimg.com/vi/xzIZfrtUA-8/mqdefault.jpg",
-      "published": "2026-06-25T14:08:39Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "BASTIDORES DO DIA EM QUE UM FUSCA PAROU A TIMES SQUARE NOS EUA | Cortes do Duda",
-      "videoId": "sddjaFi8vTE",
-      "url": "https://www.youtube.com/watch?v=sddjaFi8vTE",
-      "thumbnail": "https://i.ytimg.com/vi/sddjaFi8vTE/mqdefault.jpg",
-      "published": "2026-06-25T15:50:39Z"
+      "title": "DERAM BOA NOITE CINDERELA PRO CARA DO FUSCA #dudagarbi #umassadopara #copadomundo",
+      "videoId": "X5xLWY8t7tg",
+      "url": "https://www.youtube.com/watch?v=X5xLWY8t7tg",
+      "thumbnail": "https://i.ytimg.com/vi/X5xLWY8t7tg/mqdefault.jpg",
+      "published": "2026-06-25T16:49:52Z"
     },
     {
       "channel": "Duda Garbi",
@@ -144,7 +144,7 @@
       "videoId": "lw7vTNvOq7w",
       "url": "https://www.youtube.com/watch?v=lw7vTNvOq7w",
       "thumbnail": "https://i.ytimg.com/vi/lw7vTNvOq7w/mqdefault_live.jpg",
-      "published": "2026-06-25T14:31:52Z"
+      "published": "2026-06-25T16:22:01Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Bastidores da rotina de jornalista entre a TV e a Rádio",
+      "videoId": "PBk8YjQ8CJE",
+      "url": "https://www.youtube.com/watch?v=PBk8YjQ8CJE",
+      "thumbnail": "https://i.ytimg.com/vi/PBk8YjQ8CJE/mqdefault.jpg",
+      "published": "2026-06-25T17:00:32Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Timeline 26/06/26",
       "videoId": "xIYNg2cWkfc",
       "url": "https://www.youtube.com/watch?v=xIYNg2cWkfc",
       "thumbnail": "https://i.ytimg.com/vi/xIYNg2cWkfc/mqdefault_live.jpg",
       "published": "2026-06-25T14:48:40Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 26/06/2026",
-      "videoId": "aCvlGWvBeBU",
-      "url": "https://www.youtube.com/watch?v=aCvlGWvBeBU",
-      "thumbnail": "https://i.ytimg.com/vi/aCvlGWvBeBU/mqdefault_live.jpg",
-      "published": "2026-06-25T14:48:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 25/06",
+      "videoId": "O3IL2o0z5vg",
+      "url": "https://www.youtube.com/watch?v=O3IL2o0z5vg",
+      "thumbnail": "https://i.ytimg.com/vi/O3IL2o0z5vg/mqdefault_live.jpg",
+      "published": "2026-06-25T16:38:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #99 — LUÍS CASTRO COMEÇA A PROJETAR O GRÊMIO PARA SÁBADO | REFORÇO CHEGANDO EM POA",
       "videoId": "AimSfEnBt_E",
       "url": "https://www.youtube.com/watch?v=AimSfEnBt_E",
       "thumbnail": "https://i.ytimg.com/vi/AimSfEnBt_E/mqdefault.jpg",
       "published": "2026-06-25T15:35:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ÚLTIMAS NOTÍCIAS DO GRÊMIO | GRÊMIO PAGA POUCO POR ZAGUEIRO | NOITES DE GRÊMIO #98 - 24/06",
-      "videoId": "lz0mvcH4M-M",
-      "url": "https://www.youtube.com/watch?v=lz0mvcH4M-M",
-      "thumbnail": "https://i.ytimg.com/vi/lz0mvcH4M-M/mqdefault.jpg",
-      "published": "2026-06-25T15:16:59Z"
     }
   ]
 }
