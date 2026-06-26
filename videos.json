@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T15:00:52.581950+00:00",
+  "updated_at": "2026-06-26T16:00:44.334364+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #010",
       "videoId": "_rgggMOvkV4",
       "url": "https://www.youtube.com/watch?v=_rgggMOvkV4",
-      "thumbnail": "https://i.ytimg.com/vi/_rgggMOvkV4/mqdefault_live.jpg",
-      "published": "2026-06-26T14:52:50Z"
+      "thumbnail": "https://i.ytimg.com/vi/_rgggMOvkV4/mqdefault.jpg",
+      "published": "2026-06-26T15:36:50Z"
     },
     {
       "channel": "Bage TV",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO AVANÇA POR DOIS REFORÇOS PRO TIME TIME TITULAR | O ESCOLHIDO DA ZAGA | OPÇÕES PRO MEIO",
+      "title": "🚨GRÊMIO AVANÇA POR DOIS NOVOS REFORÇOS PRO TIME TIME TITULAR | O ESCOLHIDO DA ZAGA | OPÇÕES PRO MEIO",
       "videoId": "n_JgiWWsQx4",
       "url": "https://www.youtube.com/watch?v=n_JgiWWsQx4",
       "thumbnail": "https://i.ytimg.com/vi/n_JgiWWsQx4/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Carlos Slim e a Claro Brasil: até onde vai a autonomia da gestão local? | Liderança em Sala",
+      "videoId": "Ol35uAC8mUc",
+      "url": "https://www.youtube.com/watch?v=Ol35uAC8mUc",
+      "thumbnail": "https://i.ytimg.com/vi/Ol35uAC8mUc/mqdefault.jpg",
+      "published": "2026-06-26T16:00:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Marco Matos, apresentador do Jornal do Almoço | Paralelas",
       "videoId": "WuQGGqEx4aA",
       "url": "https://www.youtube.com/watch?v=WuQGGqEx4aA",
       "thumbnail": "https://i.ytimg.com/vi/WuQGGqEx4aA/mqdefault.jpg",
       "published": "2026-06-26T14:57:26Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Valdemar Costa Neto sobre vídeo de Michelle Bolsonaro, Reynaldo Gianecchini e + | Timeline 26/06/26",
-      "videoId": "xIYNg2cWkfc",
-      "url": "https://www.youtube.com/watch?v=xIYNg2cWkfc",
-      "thumbnail": "https://i.ytimg.com/vi/xIYNg2cWkfc/mqdefault.jpg",
-      "published": "2026-06-26T14:29:49Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "26/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "BOMBA NO ESTÁDIO? 💣 #shorts",
+      "videoId": "WtG3kEWLHWs",
+      "url": "https://www.youtube.com/watch?v=WtG3kEWLHWs",
+      "thumbnail": "https://i.ytimg.com/vi/WtG3kEWLHWs/mqdefault.jpg",
+      "published": "2026-06-26T15:59:09Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "26/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "qBt0kex1j1E",
       "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
       "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
       "published": "2026-06-26T11:02:55Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "25/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "KWtmqI_x8Lc",
-      "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
-      "thumbnail": "https://i.ytimg.com/vi/KWtmqI_x8Lc/mqdefault.jpg",
-      "published": "2026-06-25T23:30:55Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #100 — AS NEGOCIAÇÕES EM ANDAMENTO DO GRÊMIO",
+      "videoId": "osIURxlcHgk",
+      "url": "https://www.youtube.com/watch?v=osIURxlcHgk",
+      "thumbnail": "https://i.ytimg.com/vi/osIURxlcHgk/mqdefault.jpg",
+      "published": "2026-06-26T15:21:43Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9RMvKW2G7OQ",
       "thumbnail": "https://i.ytimg.com/vi/9RMvKW2G7OQ/mqdefault.jpg",
       "published": "2026-06-26T14:40:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #100 — AS NEGOCIAÇÕES EM ANDAMENTO DO GRÊMIO",
-      "videoId": "osIURxlcHgk",
-      "url": "https://www.youtube.com/watch?v=osIURxlcHgk",
-      "thumbnail": "https://i.ytimg.com/vi/osIURxlcHgk/mqdefault_live.jpg",
-      "published": "2026-06-26T13:47:03Z"
     }
   ]
 }
