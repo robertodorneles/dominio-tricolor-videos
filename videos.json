@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T10:00:47.904863+00:00",
+  "updated_at": "2026-06-26T11:00:48.355698+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 26/06/2026",
+      "videoId": "aCvlGWvBeBU",
+      "url": "https://www.youtube.com/watch?v=aCvlGWvBeBU",
+      "thumbnail": "https://i.ytimg.com/vi/aCvlGWvBeBU/mqdefault_live.jpg",
+      "published": "2026-06-26T10:59:12Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Por que homens atacam filhos para causar sofrimento à mulher? | Conversas Cruzadas | 25/06/26",
       "videoId": "DPhuTeA64UY",
       "url": "https://www.youtube.com/watch?v=DPhuTeA64UY",
       "thumbnail": "https://i.ytimg.com/vi/DPhuTeA64UY/mqdefault.jpg",
       "published": "2026-06-26T09:35:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Repórter repercute terremotos da Venezuela, vídeo de Michelle Bolsonaro e mais | Timeline 25/06/26",
-      "videoId": "SidIAg4kdfk",
-      "url": "https://www.youtube.com/watch?v=SidIAg4kdfk",
-      "thumbnail": "https://i.ytimg.com/vi/SidIAg4kdfk/mqdefault.jpg",
-      "published": "2026-06-26T02:13:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "25/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "25/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "KWtmqI_x8Lc",
       "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
       "thumbnail": "https://i.ytimg.com/vi/KWtmqI_x8Lc/mqdefault.jpg",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "25/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "26/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "qBt0kex1j1E",
       "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
       "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
       "published": "2026-06-25T23:01:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 26/06 - GRÊMIO 5X1 FLAMENGO (LIBERTADORES 1984)",
+      "videoId": "KboIC-1WvHE",
+      "url": "https://www.youtube.com/watch?v=KboIC-1WvHE",
+      "thumbnail": "https://i.ytimg.com/vi/KboIC-1WvHE/mqdefault.jpg",
+      "published": "2026-06-26T11:00:30Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9RMvKW2G7OQ",
       "thumbnail": "https://i.ytimg.com/vi/9RMvKW2G7OQ/mqdefault_live.jpg",
       "published": "2026-06-26T02:05:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 26/06",
-      "videoId": "-kP60E_przs",
-      "url": "https://www.youtube.com/watch?v=-kP60E_przs",
-      "thumbnail": "https://i.ytimg.com/vi/-kP60E_przs/mqdefault_live.jpg",
-      "published": "2026-06-26T00:12:31Z"
     }
   ]
 }
