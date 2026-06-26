@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:00:47.462914+00:00",
+  "updated_at": "2026-06-26T18:00:58.134268+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CASCAVEL X GRÊMIO",
+      "videoId": "cjfV1aTalEk",
+      "url": "https://www.youtube.com/watch?v=cjfV1aTalEk",
+      "thumbnail": "https://i.ytimg.com/vi/cjfV1aTalEk/mqdefault_live.jpg",
+      "published": "2026-06-26T17:23:52Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "VENDA ASTRÔNOMICA / FABINHO SOLDADO DÁ A REAL🔸RESENHA FORA DA SALA🔸#075",
       "videoId": "Pa2QsvErsG8",
       "url": "https://www.youtube.com/watch?v=Pa2QsvErsG8",
       "thumbnail": "https://i.ytimg.com/vi/Pa2QsvErsG8/mqdefault_live.jpg",
       "published": "2026-06-26T16:30:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #010",
-      "videoId": "_rgggMOvkV4",
-      "url": "https://www.youtube.com/watch?v=_rgggMOvkV4",
-      "thumbnail": "https://i.ytimg.com/vi/_rgggMOvkV4/mqdefault.jpg",
-      "published": "2026-06-26T15:36:50Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Mandaca na pauta do Grêmio | Lateral do Goiás | Substituto de Viery",
+      "videoId": "sZk4Lo_v6nY",
+      "url": "https://www.youtube.com/watch?v=sZk4Lo_v6nY",
+      "thumbnail": "https://i.ytimg.com/vi/sZk4Lo_v6nY/mqdefault.jpg",
+      "published": "2026-06-26T17:20:28Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Borré se aproxima do River Plate #inter",
       "videoId": "ctTKH9vy8TE",
       "url": "https://www.youtube.com/watch?v=ctTKH9vy8TE",
       "thumbnail": "https://i.ytimg.com/vi/ctTKH9vy8TE/mqdefault.jpg",
       "published": "2026-06-26T14:41:12Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Rochet bate de frente com Bielsa | Borré se aproxima do River Plate",
-      "videoId": "MdiamIO5B_k",
-      "url": "https://www.youtube.com/watch?v=MdiamIO5B_k",
-      "thumbnail": "https://i.ytimg.com/vi/MdiamIO5B_k/mqdefault.jpg",
-      "published": "2026-06-26T14:30:21Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #100 — AS NEGOCIAÇÕES EM ANDAMENTO DO GRÊMIO",
-      "videoId": "osIURxlcHgk",
-      "url": "https://www.youtube.com/watch?v=osIURxlcHgk",
-      "thumbnail": "https://i.ytimg.com/vi/osIURxlcHgk/mqdefault.jpg",
-      "published": "2026-06-26T15:21:43Z"
+      "title": "AO VIVO | PRÉ-JOGO CASCAVEL X GRÊMIO | DIRETO DO ESTÁDIO OLÍMPICO DE CASCAVEL | AMISTOSO",
+      "videoId": "gLbltOnRUJ8",
+      "url": "https://www.youtube.com/watch?v=gLbltOnRUJ8",
+      "thumbnail": "https://i.ytimg.com/vi/gLbltOnRUJ8/mqdefault_live.jpg",
+      "published": "2026-06-26T17:36:51Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "LATERAL NA MIRA DO GRÊMIO | A VENDA DE VIERY | NOITES DE GRÊMIO #99 - 25/06",
-      "videoId": "9RMvKW2G7OQ",
-      "url": "https://www.youtube.com/watch?v=9RMvKW2G7OQ",
-      "thumbnail": "https://i.ytimg.com/vi/9RMvKW2G7OQ/mqdefault.jpg",
-      "published": "2026-06-26T14:40:59Z"
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CASCAVEL | LISTA DE RELACIONADOS PARA O AMISTOSO | DIRETO DO PARANÁ",
+      "videoId": "wVqPCe9nURQ",
+      "url": "https://www.youtube.com/watch?v=wVqPCe9nURQ",
+      "thumbnail": "https://i.ytimg.com/vi/wVqPCe9nURQ/mqdefault_live.jpg",
+      "published": "2026-06-26T17:33:21Z"
     }
   ]
 }
