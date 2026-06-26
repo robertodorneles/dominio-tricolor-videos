@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T11:00:48.355698+00:00",
+  "updated_at": "2026-06-26T11:43:10.898827+00:00",
   "total": 30,
   "videos": [
     {
@@ -71,8 +71,8 @@
       "title": "GRÊMIO DEVE RENOVAR COM AMUZU? - VAMOOO FARIDO 25.06.26",
       "videoId": "wEMJzlzdJ4U",
       "url": "https://www.youtube.com/watch?v=wEMJzlzdJ4U",
-      "thumbnail": "https://i.ytimg.com/vi/wEMJzlzdJ4U/mqdefault_live.jpg",
-      "published": "2026-06-25T22:07:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/wEMJzlzdJ4U/mqdefault.jpg",
+      "published": "2026-06-26T11:02:34Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 26/06/2026",
+      "title": "Minha Cidade Tem um Porto, exclusiva com Valdemar Costa Neto e mais| Gaúcha Atualidade | 26/06/2026",
       "videoId": "aCvlGWvBeBU",
       "url": "https://www.youtube.com/watch?v=aCvlGWvBeBU",
       "thumbnail": "https://i.ytimg.com/vi/aCvlGWvBeBU/mqdefault_live.jpg",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "26/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "qBt0kex1j1E",
+      "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
+      "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
+      "published": "2026-06-26T11:02:55Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "25/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "KWtmqI_x8Lc",
       "url": "https://www.youtube.com/watch?v=KWtmqI_x8Lc",
@@ -219,12 +227,12 @@
       "published": "2026-06-25T23:30:55Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "26/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "qBt0kex1j1E",
-      "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
-      "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
-      "published": "2026-06-25T23:01:26Z"
+      "channel": "Radio Imortal",
+      "title": "VIERY É VENDIDO; VAI TER REPOSIÇÃO? | LATERAL-DIREITO DO GOIÁS ESTÁ NA MIRA | REDAÇÃO IMORTAL",
+      "videoId": "f_25dUT9NJg",
+      "url": "https://www.youtube.com/watch?v=f_25dUT9NJg",
+      "thumbnail": "https://i.ytimg.com/vi/f_25dUT9NJg/mqdefault_live.jpg",
+      "published": "2026-06-26T11:04:18Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=KboIC-1WvHE",
       "thumbnail": "https://i.ytimg.com/vi/KboIC-1WvHE/mqdefault.jpg",
       "published": "2026-06-26T11:00:30Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "LATERAL NA MIRA DO GRÊMIO | A VENDA DE VIERY | NOITES DE GRÊMIO #99 - 25/06",
-      "videoId": "9RMvKW2G7OQ",
-      "url": "https://www.youtube.com/watch?v=9RMvKW2G7OQ",
-      "thumbnail": "https://i.ytimg.com/vi/9RMvKW2G7OQ/mqdefault_live.jpg",
-      "published": "2026-06-26T02:05:33Z"
     }
   ]
 }
