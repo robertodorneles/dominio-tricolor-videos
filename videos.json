@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T18:00:58.134268+00:00",
+  "updated_at": "2026-06-26T18:55:52.727747+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CASCAVEL X GRÊMIO",
-      "videoId": "cjfV1aTalEk",
-      "url": "https://www.youtube.com/watch?v=cjfV1aTalEk",
-      "thumbnail": "https://i.ytimg.com/vi/cjfV1aTalEk/mqdefault_live.jpg",
-      "published": "2026-06-26T17:23:52Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "VENDA ASTRÔNOMICA / FABINHO SOLDADO DÁ A REAL🔸RESENHA FORA DA SALA🔸#075",
       "videoId": "Pa2QsvErsG8",
       "url": "https://www.youtube.com/watch?v=Pa2QsvErsG8",
-      "thumbnail": "https://i.ytimg.com/vi/Pa2QsvErsG8/mqdefault_live.jpg",
-      "published": "2026-06-26T16:30:33Z"
+      "thumbnail": "https://i.ytimg.com/vi/Pa2QsvErsG8/mqdefault.jpg",
+      "published": "2026-06-26T18:27:36Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "CASTRO PREPARA SURPRESA NA ZAGA🔹 THE TARDE 🔹#176",
+      "videoId": "Ag6iIUc__1g",
+      "url": "https://www.youtube.com/watch?v=Ag6iIUc__1g",
+      "thumbnail": "https://i.ytimg.com/vi/Ag6iIUc__1g/mqdefault_live.jpg",
+      "published": "2026-06-26T18:27:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "SuperSábado | 27/06/2026",
+      "videoId": "Ao2yWMA7nb8",
+      "url": "https://www.youtube.com/watch?v=Ao2yWMA7nb8",
+      "thumbnail": "https://i.ytimg.com/vi/Ao2yWMA7nb8/mqdefault_live.jpg",
+      "published": "2026-06-26T18:09:24Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Carlos Slim e a Claro Brasil: até onde vai a autonomia da gestão local? | Liderança em Sala",
       "videoId": "Ol35uAC8mUc",
       "url": "https://www.youtube.com/watch?v=Ol35uAC8mUc",
       "thumbnail": "https://i.ytimg.com/vi/Ol35uAC8mUc/mqdefault.jpg",
       "published": "2026-06-26T16:00:04Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Marco Matos, apresentador do Jornal do Almoço | Paralelas",
-      "videoId": "WuQGGqEx4aA",
-      "url": "https://www.youtube.com/watch?v=WuQGGqEx4aA",
-      "thumbnail": "https://i.ytimg.com/vi/WuQGGqEx4aA/mqdefault.jpg",
-      "published": "2026-06-26T14:57:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "26/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "26/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "qBt0kex1j1E",
       "url": "https://www.youtube.com/watch?v=qBt0kex1j1E",
       "thumbnail": "https://i.ytimg.com/vi/qBt0kex1j1E/mqdefault_live.jpg",
       "published": "2026-06-26T11:02:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "QUAL SERÁ O TIME DO GRÊMIO NO AMISTOSO? | AS NEGOCIAÇÕES DO GRÊMIO EM ANDAMENTO | ESPLANADA",
+      "videoId": "-kP60E_przs",
+      "url": "https://www.youtube.com/watch?v=-kP60E_przs",
+      "thumbnail": "https://i.ytimg.com/vi/-kP60E_przs/mqdefault_live.jpg",
+      "published": "2026-06-26T18:48:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=gLbltOnRUJ8",
       "thumbnail": "https://i.ytimg.com/vi/gLbltOnRUJ8/mqdefault_live.jpg",
       "published": "2026-06-26T17:36:51Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CASCAVEL | LISTA DE RELACIONADOS PARA O AMISTOSO | DIRETO DO PARANÁ",
-      "videoId": "wVqPCe9nURQ",
-      "url": "https://www.youtube.com/watch?v=wVqPCe9nURQ",
-      "thumbnail": "https://i.ytimg.com/vi/wVqPCe9nURQ/mqdefault_live.jpg",
-      "published": "2026-06-26T17:33:21Z"
     }
   ]
 }
