@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-27T21:00:38.342531+00:00",
+  "updated_at": "2026-06-27T22:00:46.018230+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 2x1 Cascavél: VENCEU, MAS PREOCUPA | MESMOS PROBLEMAS | MONSALVE PEDE PASSAGEM",
+      "videoId": "G6n-kbpOjCs",
+      "url": "https://www.youtube.com/watch?v=G6n-kbpOjCs",
+      "thumbnail": "https://i.ytimg.com/vi/G6n-kbpOjCs/mqdefault.jpg",
+      "published": "2026-06-27T21:19:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: ATITUDE MATOU O CLIMA | F5 BORRÉ | DOIS CENTROAVANTES A CAMINHO",
@@ -11,12 +19,12 @@
       "published": "2026-06-27T06:47:32Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO:  Gabriel Mec PERTO da venda | Amistoso definido | Wallace pode estrear",
-      "videoId": "Q2uHSKCqRFQ",
-      "url": "https://www.youtube.com/watch?v=Q2uHSKCqRFQ",
-      "thumbnail": "https://i.ytimg.com/vi/Q2uHSKCqRFQ/mqdefault.jpg",
-      "published": "2026-06-27T05:00:15Z"
+      "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 GRÊMIO JOGOU POUCO E GANHOU DE VIRADA DO CASCAVEL.",
+      "videoId": "H7-aKYAARL8",
+      "url": "https://www.youtube.com/watch?v=H7-aKYAARL8",
+      "thumbnail": "https://i.ytimg.com/vi/H7-aKYAARL8/mqdefault.jpg",
+      "published": "2026-06-27T21:27:21Z"
     },
     {
       "channel": "Bage TV",
@@ -27,12 +35,12 @@
       "published": "2026-06-27T17:00:45Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE CASCAVEL",
-      "videoId": "WG5-Hw00Ov0",
-      "url": "https://www.youtube.com/watch?v=WG5-Hw00Ov0",
-      "thumbnail": "https://i.ytimg.com/vi/WG5-Hw00Ov0/mqdefault.jpg",
-      "published": "2026-06-27T02:04:09Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO! SURPRESA! MAIS DUAS SAÍDAS? DESMANCHE NO TIME DO GRÊMIO | AMISTOSO FOI JOGO DE VÁRZEA!",
+      "videoId": "rPtUmCHATs4",
+      "url": "https://www.youtube.com/watch?v=rPtUmCHATs4",
+      "thumbnail": "https://i.ytimg.com/vi/rPtUmCHATs4/mqdefault.jpg",
+      "published": "2026-06-27T21:39:30Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=MY-HzKo3qNo",
       "thumbnail": "https://i.ytimg.com/vi/MY-HzKo3qNo/mqdefault.jpg",
       "published": "2026-06-26T23:27:53Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO AVANÇA POR DOIS NOVOS REFORÇOS PRO TIME TIME TITULAR | O ESCOLHIDO DA ZAGA | OPÇÕES PRO MEIO",
-      "videoId": "n_JgiWWsQx4",
-      "url": "https://www.youtube.com/watch?v=n_JgiWWsQx4",
-      "thumbnail": "https://i.ytimg.com/vi/n_JgiWWsQx4/mqdefault.jpg",
-      "published": "2026-06-26T15:00:05Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO  GRÊMIO VS CASCAVEL  27.06 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
+      "videoId": "lsJnXjdxtrI",
+      "url": "https://www.youtube.com/watch?v=lsJnXjdxtrI",
+      "thumbnail": "https://i.ytimg.com/vi/lsJnXjdxtrI/mqdefault.jpg",
+      "published": "2026-06-27T21:26:24Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "CASCAVEL 1x0 GRÊMIO E FARID REAGE",
       "videoId": "KU-STKSWxVY",
       "url": "https://www.youtube.com/watch?v=KU-STKSWxVY",
       "thumbnail": "https://i.ytimg.com/vi/KU-STKSWxVY/mqdefault.jpg",
       "published": "2026-06-27T19:25:37Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO  GRÊMIO VS CASCAVEL  27.06 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
-      "videoId": "lsJnXjdxtrI",
-      "url": "https://www.youtube.com/watch?v=lsJnXjdxtrI",
-      "thumbnail": "https://i.ytimg.com/vi/lsJnXjdxtrI/mqdefault_live.jpg",
-      "published": "2026-06-27T18:02:25Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "GUSTAVO MARTINS PODE SAIR? #gremio #futebol",
-      "videoId": "if24aNljaio",
-      "url": "https://www.youtube.com/watch?v=if24aNljaio",
-      "thumbnail": "https://i.ytimg.com/vi/if24aNljaio/mqdefault.jpg",
-      "published": "2026-06-27T17:20:27Z"
+      "title": "QUE TIME FOI ESSE? | SINAL FOI DADO | ESTREIA! | COMENTÁRIO CASCAVEL 2 X1 GRÊMIO.",
+      "videoId": "9lQuPpB9b_I",
+      "url": "https://www.youtube.com/watch?v=9lQuPpB9b_I",
+      "thumbnail": "https://i.ytimg.com/vi/9lQuPpB9b_I/mqdefault.jpg",
+      "published": "2026-06-27T21:49:41Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "GRÊMIO NEGOCIA 2 JOGADORES! DIEGO CAITO E MANDACA#grêmio #Futebol",
-      "videoId": "vcP78qgwXs8",
-      "url": "https://www.youtube.com/watch?v=vcP78qgwXs8",
-      "thumbnail": "https://i.ytimg.com/vi/vcP78qgwXs8/mqdefault.jpg",
-      "published": "2026-06-27T14:00:04Z"
+      "title": "CASCAVEL 1 X 2 GRÊMIO | #grêmio #Futebol",
+      "videoId": "_gzkyV7JqmA",
+      "url": "https://www.youtube.com/watch?v=_gzkyV7JqmA",
+      "thumbnail": "https://i.ytimg.com/vi/_gzkyV7JqmA/mqdefault.jpg",
+      "published": "2026-06-27T21:05:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO E COM IMAGENS | CASCAVEL X GRÊMIO (AMISTOSO 2026)",
       "videoId": "Ws-XpYxF-I4",
       "url": "https://www.youtube.com/watch?v=Ws-XpYxF-I4",
-      "thumbnail": "https://i.ytimg.com/vi/Ws-XpYxF-I4/mqdefault_live.jpg",
-      "published": "2026-06-27T17:31:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/Ws-XpYxF-I4/mqdefault.jpg",
+      "published": "2026-06-27T21:43:27Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -220,19 +220,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO CASCAVEL (1) X (2) GRÊMIO | DIRETO DO ESTÁDIO OLÍMPICO DE CASCAVEL | AMISTOSO",
+      "videoId": "gLbltOnRUJ8",
+      "url": "https://www.youtube.com/watch?v=gLbltOnRUJ8",
+      "thumbnail": "https://i.ytimg.com/vi/gLbltOnRUJ8/mqdefault.jpg",
+      "published": "2026-06-27T21:25:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪🗣️ O centroavante Carlos Vinícius fala sobre a saída do volante  Arthur.",
       "videoId": "vOdUouO31T4",
       "url": "https://www.youtube.com/watch?v=vOdUouO31T4",
       "thumbnail": "https://i.ytimg.com/vi/vOdUouO31T4/mqdefault.jpg",
       "published": "2026-06-27T16:40:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO CASCAVEL (1) X (2) GRÊMIO | DIRETO DO ESTÁDIO OLÍMPICO DE CASCAVEL | AMISTOSO",
-      "videoId": "gLbltOnRUJ8",
-      "url": "https://www.youtube.com/watch?v=gLbltOnRUJ8",
-      "thumbnail": "https://i.ytimg.com/vi/gLbltOnRUJ8/mqdefault_live.jpg",
-      "published": "2026-06-27T16:02:56Z"
     }
   ]
 }
