@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T00:03:13.386898+00:00",
+  "updated_at": "2026-06-27T01:00:49.541296+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE CASCAVEL",
+      "videoId": "WG5-Hw00Ov0",
+      "url": "https://www.youtube.com/watch?v=WG5-Hw00Ov0",
+      "thumbnail": "https://i.ytimg.com/vi/WG5-Hw00Ov0/mqdefault_live.jpg",
+      "published": "2026-06-27T00:49:52Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CASTRO PREPARA SURPRESA NA ZAGA🔹 THE TARDE 🔹#176",
       "videoId": "Ag6iIUc__1g",
       "url": "https://www.youtube.com/watch?v=Ag6iIUc__1g",
       "thumbnail": "https://i.ytimg.com/vi/Ag6iIUc__1g/mqdefault.jpg",
       "published": "2026-06-26T19:58:31Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "VENDA ASTRÔNOMICA / FABINHO SOLDADO DÁ A REAL🔸RESENHA FORA DA SALA🔸#075",
-      "videoId": "Pa2QsvErsG8",
-      "url": "https://www.youtube.com/watch?v=Pa2QsvErsG8",
-      "thumbnail": "https://i.ytimg.com/vi/Pa2QsvErsG8/mqdefault.jpg",
-      "published": "2026-06-26T18:27:36Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CASCAVEL | LISTA DE RELACIONADOS PARA O AMISTOSO | DIRETO DO PARANÁ",
+      "videoId": "wVqPCe9nURQ",
+      "url": "https://www.youtube.com/watch?v=wVqPCe9nURQ",
+      "thumbnail": "https://i.ytimg.com/vi/wVqPCe9nURQ/mqdefault_live.jpg",
+      "published": "2026-06-27T00:46:03Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! | TUDO SOBRE O AMISTOSO EM CASCAVEL | DECISÃO NA BASE | PLANTÃO IMORTAL",
       "videoId": "ESjAgY0uKxQ",
       "url": "https://www.youtube.com/watch?v=ESjAgY0uKxQ",
       "thumbnail": "https://i.ytimg.com/vi/ESjAgY0uKxQ/mqdefault_live.jpg",
       "published": "2026-06-26T23:21:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA PRIMEIRO REFORÇO DA JANELA | AUSÊNCIA CONFIRMADA PARA AMISTOSO | IMORTAL FC",
-      "videoId": "bzSA3YseF2I",
-      "url": "https://www.youtube.com/watch?v=bzSA3YseF2I",
-      "thumbnail": "https://i.ytimg.com/vi/bzSA3YseF2I/mqdefault.jpg",
-      "published": "2026-06-26T22:11:46Z"
     }
   ]
 }
