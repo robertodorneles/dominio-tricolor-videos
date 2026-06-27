@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T19:00:39.934854+00:00",
-  "total": 28,
+  "updated_at": "2026-06-27T19:38:16.440778+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "CASCAVEL 1x0 GRÊMIO E FARID REAGE",
+      "videoId": "KU-STKSWxVY",
+      "url": "https://www.youtube.com/watch?v=KU-STKSWxVY",
+      "thumbnail": "https://i.ytimg.com/vi/KU-STKSWxVY/mqdefault.jpg",
+      "published": "2026-06-27T19:25:37Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO  GRÊMIO VS CASCAVEL  27.06 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
       "videoId": "lsJnXjdxtrI",
       "url": "https://www.youtube.com/watch?v=lsJnXjdxtrI",
       "thumbnail": "https://i.ytimg.com/vi/lsJnXjdxtrI/mqdefault_live.jpg",
       "published": "2026-06-27T18:02:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "BRASIL ESTÁ CLASSIFICADO | HORA DA COPA #5",
-      "videoId": "nZei3sXfw0o",
-      "url": "https://www.youtube.com/watch?v=nZei3sXfw0o",
-      "thumbnail": "https://i.ytimg.com/vi/nZei3sXfw0o/mqdefault.jpg",
-      "published": "2026-06-27T13:15:23Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -211,6 +211,14 @@
       "published": "2026-06-25T21:26:47Z"
     },
     {
+      "channel": "Radio Grenal",
+      "title": "GOLS DE INTER 4 X 2 GRÊMIO | NARRAÇÃO BERNARDO BURTET | SEMIFINAIS DO GAUCHÃO SUB-20 | RÁDIO GRENAL",
+      "videoId": "eMlxMR_QjPk",
+      "url": "https://www.youtube.com/watch?v=eMlxMR_QjPk",
+      "thumbnail": "https://i.ytimg.com/vi/eMlxMR_QjPk/mqdefault.jpg",
+      "published": "2026-06-27T19:34:33Z"
+    },
+    {
       "channel": "Radio Imortal",
       "title": "🇪🇪🗣️ O centroavante Carlos Vinícius fala sobre a saída do volante  Arthur.",
       "videoId": "vOdUouO31T4",
@@ -220,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CASCAVEL (0) X (0) GRÊMIO | DIRETO DO ESTÁDIO OLÍMPICO DE CASCAVEL | AMISTOSO",
+      "title": "AO VIVO | CASCAVEL (1) X (0) GRÊMIO | DIRETO DO ESTÁDIO OLÍMPICO DE CASCAVEL | AMISTOSO",
       "videoId": "gLbltOnRUJ8",
       "url": "https://www.youtube.com/watch?v=gLbltOnRUJ8",
       "thumbnail": "https://i.ytimg.com/vi/gLbltOnRUJ8/mqdefault_live.jpg",
