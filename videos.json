@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T10:55:59.963283+00:00",
+  "updated_at": "2026-06-27T11:00:46.780220+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "SuperSábado | 27/06/2026",
+      "videoId": "Ao2yWMA7nb8",
+      "url": "https://www.youtube.com/watch?v=Ao2yWMA7nb8",
+      "thumbnail": "https://i.ytimg.com/vi/Ao2yWMA7nb8/mqdefault_live.jpg",
+      "published": "2026-06-27T10:59:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Noite de Baile – A Cultura Ballroom ferve em Porto Alegre",
       "videoId": "be65Ba-QWuo",
       "url": "https://www.youtube.com/watch?v=be65Ba-QWuo",
       "thumbnail": "https://i.ytimg.com/vi/be65Ba-QWuo/mqdefault.jpg",
       "published": "2026-06-27T03:05:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "COMO FUNCIONA UMA CASA DE BOMBAS? | GZH",
-      "videoId": "-8nTrIPV2BY",
-      "url": "https://www.youtube.com/watch?v=-8nTrIPV2BY",
-      "thumbnail": "https://i.ytimg.com/vi/-8nTrIPV2BY/mqdefault.jpg",
-      "published": "2026-06-27T00:00:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 27/06 - GRÊMIO CAMPEÃO TAÇA FRONTEIRA DA PAZ",
+      "videoId": "T9Q4a_WB_Bo",
+      "url": "https://www.youtube.com/watch?v=T9Q4a_WB_Bo",
+      "thumbnail": "https://i.ytimg.com/vi/T9Q4a_WB_Bo/mqdefault.jpg",
+      "published": "2026-06-27T11:00:14Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM CASCAVEL | LISTA DE RELACIONADOS PARA O AMISTOSO | DIRETO DO PARANÁ",
       "videoId": "wVqPCe9nURQ",
       "url": "https://www.youtube.com/watch?v=wVqPCe9nURQ",
       "thumbnail": "https://i.ytimg.com/vi/wVqPCe9nURQ/mqdefault.jpg",
       "published": "2026-06-27T02:47:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! | TUDO SOBRE O AMISTOSO EM CASCAVEL | DECISÃO NA BASE | PLANTÃO IMORTAL",
-      "videoId": "ESjAgY0uKxQ",
-      "url": "https://www.youtube.com/watch?v=ESjAgY0uKxQ",
-      "thumbnail": "https://i.ytimg.com/vi/ESjAgY0uKxQ/mqdefault_live.jpg",
-      "published": "2026-06-26T23:21:48Z"
     }
   ]
 }
