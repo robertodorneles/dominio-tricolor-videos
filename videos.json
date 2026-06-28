@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-28T20:00:46.420161+00:00",
+  "updated_at": "2026-06-28T20:57:42.017658+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: MUITA COISA NA DUPLA GRENAL | JAPAS NOS 16",
+      "videoId": "wOimk8_fxII",
+      "url": "https://www.youtube.com/watch?v=wOimk8_fxII",
+      "thumbnail": "https://i.ytimg.com/vi/wOimk8_fxII/mqdefault_live.jpg",
+      "published": "2026-06-28T20:37:45Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: AMISTOSO DEIXA ALERTA | ROGER NO DM? | CASTRO DEFINE ESQUEMA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Oe_918Jnjwk",
       "thumbnail": "https://i.ytimg.com/vi/Oe_918Jnjwk/mqdefault.jpg",
       "published": "2026-06-28T05:00:18Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: PEZZOLANO NÃO É O FAVORITO! | BORRÉ FOI DE VEZ! | VITÔRIA NO GRENAL",
-      "videoId": "npN3Tlf5KZE",
-      "url": "https://www.youtube.com/watch?v=npN3Tlf5KZE",
-      "thumbnail": "https://i.ytimg.com/vi/npN3Tlf5KZE/mqdefault.jpg",
-      "published": "2026-06-28T04:53:22Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MEC: DESPEDIDA? | LUÍS CASTRO ANUNCIA MUDANÇA | MEIA FICA NO GRÊMIO?",
+      "videoId": "CFKDpHIXwGc",
+      "url": "https://www.youtube.com/watch?v=CFKDpHIXwGc",
+      "thumbnail": "https://i.ytimg.com/vi/CFKDpHIXwGc/mqdefault.jpg",
+      "published": "2026-06-28T20:55:39Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "QUE TIME FOI ESSE? | SINAL FOI DADO | ESTREIA! | COMENTÁRIO CASCAVEL 2 X1 GRÊMIO.",
       "videoId": "9lQuPpB9b_I",
       "url": "https://www.youtube.com/watch?v=9lQuPpB9b_I",
       "thumbnail": "https://i.ytimg.com/vi/9lQuPpB9b_I/mqdefault.jpg",
       "published": "2026-06-27T21:49:41Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CASCAVEL 1 X 2 GRÊMIO | #grêmio #Futebol",
-      "videoId": "_gzkyV7JqmA",
-      "url": "https://www.youtube.com/watch?v=_gzkyV7JqmA",
-      "thumbnail": "https://i.ytimg.com/vi/_gzkyV7JqmA/mqdefault.jpg",
-      "published": "2026-06-27T21:05:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨AMUZU DE SAÍDA DO GRÊMIO!? | O FUTURO DE GABRIEL MEC | MAIS DUAS SAÍDAS DESENHADAS",
+      "videoId": "fRHnpZL6cSU",
+      "url": "https://www.youtube.com/watch?v=fRHnpZL6cSU",
+      "thumbnail": "https://i.ytimg.com/vi/fRHnpZL6cSU/mqdefault.jpg",
+      "published": "2026-06-28T20:12:47Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨MAIS UM NEGÓCIO FECHADO | GRÊMIO ASSUSTA A TORCIDA | OS ÚNICOS QUE SE SALVARAM",
       "videoId": "DEmgUJ7-OeA",
       "url": "https://www.youtube.com/watch?v=DEmgUJ7-OeA",
       "thumbnail": "https://i.ytimg.com/vi/DEmgUJ7-OeA/mqdefault.jpg",
       "published": "2026-06-27T22:14:24Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨NOVOS REFORÇOS PRO GRÊMIO | O SUBSTITUTO DE VIERY | O DESTINO DOS R$ 100 MILHÕES",
-      "videoId": "2EZNbyFEY_E",
-      "url": "https://www.youtube.com/watch?v=2EZNbyFEY_E",
-      "thumbnail": "https://i.ytimg.com/vi/2EZNbyFEY_E/mqdefault.jpg",
-      "published": "2026-06-26T20:47:08Z"
     },
     {
       "channel": "Radio Grenal",
