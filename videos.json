@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:00:43.372792+00:00",
+  "updated_at": "2026-06-28T11:00:46.117415+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 28/06 - GRÊMIO CAMPEÃO DA COPA SOLIDARIEDADE",
+      "videoId": "Hg_R1NTX_xU",
+      "url": "https://www.youtube.com/watch?v=Hg_R1NTX_xU",
+      "thumbnail": "https://i.ytimg.com/vi/Hg_R1NTX_xU/mqdefault.jpg",
+      "published": "2026-06-28T11:00:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE AMISTOSO MAS DEIXA PÉSSIMA IMPRESSÃO | REPERCUSSÕES DO JOGO | PLANTÃO IMORTAL",
       "videoId": "V9OoB9oRcLA",
       "url": "https://www.youtube.com/watch?v=V9OoB9oRcLA",
       "thumbnail": "https://i.ytimg.com/vi/V9OoB9oRcLA/mqdefault_live.jpg",
       "published": "2026-06-27T22:24:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GABRIEL MEC RESPONDE SOBRE POSSÍVEL SAÍDA DO GRÊMIO",
-      "videoId": "G_uk8SKQVV4",
-      "url": "https://www.youtube.com/watch?v=G_uk8SKQVV4",
-      "thumbnail": "https://i.ytimg.com/vi/G_uk8SKQVV4/mqdefault.jpg",
-      "published": "2026-06-27T22:12:06Z"
     }
   ]
 }
