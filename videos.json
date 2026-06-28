@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-28T21:00:42.215300+00:00",
+  "updated_at": "2026-06-28T22:00:56.866826+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A real sobre Otávio Monteiro no Tricolor | O contato feito | Dinheiro",
+      "videoId": "ChmR-K9wK7o",
+      "url": "https://www.youtube.com/watch?v=ChmR-K9wK7o",
+      "thumbnail": "https://i.ytimg.com/vi/ChmR-K9wK7o/mqdefault.jpg",
+      "published": "2026-06-28T21:00:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla KTO: MUITA COISA NA DUPLA GRENAL | JAPAS NOS 16",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=wOimk8_fxII",
       "thumbnail": "https://i.ytimg.com/vi/wOimk8_fxII/mqdefault_live.jpg",
       "published": "2026-06-28T20:37:45Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: AMISTOSO DEIXA ALERTA | ROGER NO DM? | CASTRO DEFINE ESQUEMA",
-      "videoId": "Oe_918Jnjwk",
-      "url": "https://www.youtube.com/watch?v=Oe_918Jnjwk",
-      "thumbnail": "https://i.ytimg.com/vi/Oe_918Jnjwk/mqdefault.jpg",
-      "published": "2026-06-28T05:00:18Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... 🇺🇸 EDILSON CAPETINHA | #393",
+      "videoId": "ML6NuHkVym4",
+      "url": "https://www.youtube.com/watch?v=ML6NuHkVym4",
+      "thumbnail": "https://i.ytimg.com/vi/ML6NuHkVym4/mqdefault.jpg",
+      "published": "2026-06-28T22:00:07Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO - #19 - 28.06 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "DKY29TRTZ70",
       "url": "https://www.youtube.com/watch?v=DKY29TRTZ70",
       "thumbnail": "https://i.ytimg.com/vi/DKY29TRTZ70/mqdefault.jpg",
       "published": "2026-06-28T13:32:09Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... 🇺🇸 EDILSON CAPETINHA | #393",
-      "videoId": "ML6NuHkVym4",
-      "url": "https://www.youtube.com/watch?v=ML6NuHkVym4",
-      "thumbnail": "https://i.ytimg.com/vi/ML6NuHkVym4/mqdefault.jpg",
-      "published": "2026-06-28T00:18:00Z"
     },
     {
       "channel": "GremioTV Oficial",
