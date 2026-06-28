@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T13:00:46.186292+00:00",
+  "updated_at": "2026-06-28T13:29:12.182940+00:00",
   "total": 30,
   "videos": [
     {
@@ -136,7 +136,7 @@
       "videoId": "DKY29TRTZ70",
       "url": "https://www.youtube.com/watch?v=DKY29TRTZ70",
       "thumbnail": "https://i.ytimg.com/vi/DKY29TRTZ70/mqdefault_live.jpg",
-      "published": "2026-06-28T12:02:45Z"
+      "published": "2026-06-28T13:05:10Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE AMISTOSO MAS DEIXA PÉSSIMA IMPRESSÃO | REPERCUSSÕES DO JOGO | PLANTÃO IMORTAL",
+      "videoId": "V9OoB9oRcLA",
+      "url": "https://www.youtube.com/watch?v=V9OoB9oRcLA",
+      "thumbnail": "https://i.ytimg.com/vi/V9OoB9oRcLA/mqdefault_live.jpg",
+      "published": "2026-06-28T13:05:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 28/06 - GRÊMIO CAMPEÃO DA COPA SOLIDARIEDADE",
       "videoId": "Hg_R1NTX_xU",
       "url": "https://www.youtube.com/watch?v=Hg_R1NTX_xU",
       "thumbnail": "https://i.ytimg.com/vi/Hg_R1NTX_xU/mqdefault.jpg",
       "published": "2026-06-28T11:00:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE AMISTOSO MAS DEIXA PÉSSIMA IMPRESSÃO | REPERCUSSÕES DO JOGO | PLANTÃO IMORTAL",
-      "videoId": "V9OoB9oRcLA",
-      "url": "https://www.youtube.com/watch?v=V9OoB9oRcLA",
-      "thumbnail": "https://i.ytimg.com/vi/V9OoB9oRcLA/mqdefault_live.jpg",
-      "published": "2026-06-27T22:24:48Z"
     }
   ]
 }
