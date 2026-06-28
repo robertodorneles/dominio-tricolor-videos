@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T00:00:56.865269+00:00",
-  "total": 29,
+  "updated_at": "2026-06-28T01:00:42.336595+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -212,11 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE INTER 4 X 2 GRÊMIO | NARRAÇÃO BERNARDO BURTET | SEMIFINAIS DO GAUCHÃO SUB-20 | RÁDIO GRENAL",
-      "videoId": "eMlxMR_QjPk",
-      "url": "https://www.youtube.com/watch?v=eMlxMR_QjPk",
-      "thumbnail": "https://i.ytimg.com/vi/eMlxMR_QjPk/mqdefault.jpg",
-      "published": "2026-06-27T19:34:33Z"
+      "title": "LIVE COMPLETA | CASCAVEL 1 X 2 GRÊMIO | AMISTOSO | 27/06/2026",
+      "videoId": "FUpShkovL0M",
+      "url": "https://www.youtube.com/watch?v=FUpShkovL0M",
+      "thumbnail": "https://i.ytimg.com/vi/FUpShkovL0M/mqdefault.jpg",
+      "published": "2026-06-28T00:32:27Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "GOLS DE CASCAVEL 1 X 2 GRÊMIO | NARRAÇÃO PC CARVALHO | AMISTOSO | 27/06/26 | RÁDIO GRENAL",
+      "videoId": "Hg73-GIDar8",
+      "url": "https://www.youtube.com/watch?v=Hg73-GIDar8",
+      "thumbnail": "https://i.ytimg.com/vi/Hg73-GIDar8/mqdefault.jpg",
+      "published": "2026-06-28T00:03:13Z"
     },
     {
       "channel": "Radio Imortal",
