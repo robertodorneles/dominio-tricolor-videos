@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-29T01:00:48.425441+00:00",
+  "updated_at": "2026-06-29T02:01:02.526188+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: MUITA COISA NA DUPLA GRENAL | JAPAS NOS 16",
+      "videoId": "wOimk8_fxII",
+      "url": "https://www.youtube.com/watch?v=wOimk8_fxII",
+      "thumbnail": "https://i.ytimg.com/vi/wOimk8_fxII/mqdefault_live.jpg",
+      "published": "2026-06-29T01:02:45Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A real sobre Otávio Monteiro no Tricolor | O contato feito | Dinheiro",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ChmR-K9wK7o",
       "thumbnail": "https://i.ytimg.com/vi/ChmR-K9wK7o/mqdefault.jpg",
       "published": "2026-06-28T21:00:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla KTO: MUITA COISA NA DUPLA GRENAL | JAPAS NOS 16",
-      "videoId": "wOimk8_fxII",
-      "url": "https://www.youtube.com/watch?v=wOimk8_fxII",
-      "thumbnail": "https://i.ytimg.com/vi/wOimk8_fxII/mqdefault_live.jpg",
-      "published": "2026-06-28T20:37:45Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO - BRASIL  X  JAPÃO - FARID GERMANO E NANDO GROSS REAGEM AO JOGO DO BRASIL #04",
+      "videoId": "kV3J52Dlm6o",
+      "url": "https://www.youtube.com/watch?v=kV3J52Dlm6o",
+      "thumbnail": "https://i.ytimg.com/vi/kV3J52Dlm6o/mqdefault_live.jpg",
+      "published": "2026-06-29T01:42:59Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO  GRÊMIO VS CASCAVEL  27.06 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
       "videoId": "lsJnXjdxtrI",
       "url": "https://www.youtube.com/watch?v=lsJnXjdxtrI",
       "thumbnail": "https://i.ytimg.com/vi/lsJnXjdxtrI/mqdefault.jpg",
       "published": "2026-06-27T21:26:24Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "BRASIL ESTÁ CLASSIFICADO | HORA DA COPA #5",
-      "videoId": "nZei3sXfw0o",
-      "url": "https://www.youtube.com/watch?v=nZei3sXfw0o",
-      "thumbnail": "https://i.ytimg.com/vi/nZei3sXfw0o/mqdefault.jpg",
-      "published": "2026-06-27T13:15:23Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: 🇧🇷 vs Goku + Grêmio vendendo todo mundo e Inter agitando geral",
+      "videoId": "dS9yLwnlXoY",
+      "url": "https://www.youtube.com/watch?v=dS9yLwnlXoY",
+      "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault_live.jpg",
+      "published": "2026-06-29T01:47:34Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "Novidades sobre a situação de Amuzu e Grêmio 🇪🇪",
       "videoId": "_mRo87z6kO8",
       "url": "https://www.youtube.com/watch?v=_mRo87z6kO8",
       "thumbnail": "https://i.ytimg.com/vi/_mRo87z6kO8/mqdefault.jpg",
       "published": "2026-06-27T18:00:48Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "INTER ATRÁS DE DOIS ATACANTES 🇵🇱",
-      "videoId": "g7lOGyH_z_4",
-      "url": "https://www.youtube.com/watch?v=g7lOGyH_z_4",
-      "thumbnail": "https://i.ytimg.com/vi/g7lOGyH_z_4/mqdefault.jpg",
-      "published": "2026-06-27T16:00:26Z"
     },
     {
       "channel": "LH Benfica",
