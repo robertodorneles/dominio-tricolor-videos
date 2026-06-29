@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T13:00:56.533245+00:00",
+  "updated_at": "2026-06-29T13:04:18.130475+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 29/06 - #578",
+      "videoId": "t-BKqTBixSY",
+      "url": "https://www.youtube.com/watch?v=t-BKqTBixSY",
+      "thumbnail": "https://i.ytimg.com/vi/t-BKqTBixSY/mqdefault_live.jpg",
+      "published": "2026-06-29T13:01:51Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO VENCE AMISTOSO MAS PREOCUPA 🌅🔵 BOM DIA GRÊMIO #060",
       "videoId": "G_G39PwLMp4",
       "url": "https://www.youtube.com/watch?v=G_G39PwLMp4",
       "thumbnail": "https://i.ytimg.com/vi/G_G39PwLMp4/mqdefault.jpg",
       "published": "2026-06-29T12:10:14Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#180",
-      "videoId": "7i_9d2Y4mlE",
-      "url": "https://www.youtube.com/watch?v=7i_9d2Y4mlE",
-      "thumbnail": "https://i.ytimg.com/vi/7i_9d2Y4mlE/mqdefault_live.jpg",
-      "published": "2026-06-29T02:55:05Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -232,7 +232,7 @@
       "videoId": "Ef8m90jHQ3Y",
       "url": "https://www.youtube.com/watch?v=Ef8m90jHQ3Y",
       "thumbnail": "https://i.ytimg.com/vi/Ef8m90jHQ3Y/mqdefault_live.jpg",
-      "published": "2026-06-29T11:02:01Z"
+      "published": "2026-06-29T13:02:39Z"
     },
     {
       "channel": "Radio Imortal",
