@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T12:00:42.063806+00:00",
+  "updated_at": "2026-06-29T13:00:56.533245+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO VENCE AMISTOSO MAS PREOCUPA 🌅🔵 BOM DIA GRÊMIO #060",
       "videoId": "G_G39PwLMp4",
       "url": "https://www.youtube.com/watch?v=G_G39PwLMp4",
-      "thumbnail": "https://i.ytimg.com/vi/G_G39PwLMp4/mqdefault_live.jpg",
-      "published": "2026-06-29T12:00:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/G_G39PwLMp4/mqdefault.jpg",
+      "published": "2026-06-29T12:10:14Z"
     },
     {
       "channel": "Bage TV",
@@ -136,7 +136,7 @@
       "videoId": "7hKercDp4bA",
       "url": "https://www.youtube.com/watch?v=7hKercDp4bA",
       "thumbnail": "https://i.ytimg.com/vi/7hKercDp4bA/mqdefault_live.jpg",
-      "published": "2026-06-29T11:23:47Z"
+      "published": "2026-06-29T12:08:20Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "ORGULHO LGBT+",
+      "videoId": "opLwK9fXzvw",
+      "url": "https://www.youtube.com/watch?v=opLwK9fXzvw",
+      "thumbnail": "https://i.ytimg.com/vi/opLwK9fXzvw/mqdefault.jpg",
+      "published": "2026-06-29T13:00:16Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Estragos da chuva no RS, jogo do Brasil na Copa, trânsito e + | Gaúcha Atualidade | 29/06/2026",
       "videoId": "3SjyfTuUUBM",
       "url": "https://www.youtube.com/watch?v=3SjyfTuUUBM",
@@ -171,20 +179,12 @@
       "published": "2026-06-29T10:57:52Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Marco Matos critica venda de animais de estimação | Paralelas",
-      "videoId": "p4Yg9CZ6u9w",
-      "url": "https://www.youtube.com/watch?v=p4Yg9CZ6u9w",
-      "thumbnail": "https://i.ytimg.com/vi/p4Yg9CZ6u9w/mqdefault.jpg",
-      "published": "2026-06-28T23:00:11Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: 🇧🇷 vs Goku + Grêmio vendendo todo mundo e Inter agitando geral",
       "videoId": "dS9yLwnlXoY",
       "url": "https://www.youtube.com/watch?v=dS9yLwnlXoY",
       "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault_live.jpg",
-      "published": "2026-06-29T11:01:06Z"
+      "published": "2026-06-29T12:10:27Z"
     },
     {
       "channel": "Jeremias Wernek",
