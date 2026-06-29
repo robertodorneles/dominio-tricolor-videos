@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-29T20:00:43.166026+00:00",
+  "updated_at": "2026-06-29T21:00:43.980077+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A boa oportunidade de negócio que surge | João Pedro de saída?! | Lateral direita",
+      "videoId": "ljsJKwgmgkU",
+      "url": "https://www.youtube.com/watch?v=ljsJKwgmgkU",
+      "thumbnail": "https://i.ytimg.com/vi/ljsJKwgmgkU/mqdefault.jpg",
+      "published": "2026-06-29T20:00:27Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO:  META FOI ATINGIDA | NOVAS VENDAS? | AMUZU FALA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=6I8lqAwahK4",
       "thumbnail": "https://i.ytimg.com/vi/6I8lqAwahK4/mqdefault.jpg",
       "published": "2026-06-29T05:00:26Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 CARBONERO PEDIU PRA SAIR | A VERDADE SOBRE PEZZOLANO | NOVOS JOGOS",
-      "videoId": "UBALGNtBzpo",
-      "url": "https://www.youtube.com/watch?v=UBALGNtBzpo",
-      "thumbnail": "https://i.ytimg.com/vi/UBALGNtBzpo/mqdefault.jpg",
-      "published": "2026-06-29T04:28:33Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "PÓS-JOGO DO BRASIL: O GRÊMIO ENTRA EM PAUTA!  - VAMOOO FARIDO 29.06.26",
+      "videoId": "2KkCkSJN1yU",
+      "url": "https://www.youtube.com/watch?v=2KkCkSJN1yU",
+      "thumbnail": "https://i.ytimg.com/vi/2KkCkSJN1yU/mqdefault_live.jpg",
+      "published": "2026-06-29T20:48:31Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "REACT AO VIVO - BRASIL X JAPÃO",
       "videoId": "wIDlCa9bjHE",
       "url": "https://www.youtube.com/watch?v=wIDlCa9bjHE",
       "thumbnail": "https://i.ytimg.com/vi/wIDlCa9bjHE/mqdefault_live.jpg",
       "published": "2026-06-29T19:19:05Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO - BRASIL  X  JAPÃO - FARID GERMANO E NANDO GROSS REAGEM AO JOGO DO BRASIL #04",
-      "videoId": "kV3J52Dlm6o",
-      "url": "https://www.youtube.com/watch?v=kV3J52Dlm6o",
-      "thumbnail": "https://i.ytimg.com/vi/kV3J52Dlm6o/mqdefault_live.jpg",
-      "published": "2026-06-29T18:10:02Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "#ConteudoParaMarcas BASTIDORES DO DESIGN ✏️ | GZH",
+      "videoId": "l5O5zHlcbn8",
+      "url": "https://www.youtube.com/watch?v=l5O5zHlcbn8",
+      "thumbnail": "https://i.ytimg.com/vi/l5O5zHlcbn8/mqdefault.jpg",
+      "published": "2026-06-29T20:32:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Governo lança Desenrola Adimplentes, programa para quem paga as contas em dia",
       "videoId": "N8NjVvUhuPc",
       "url": "https://www.youtube.com/watch?v=N8NjVvUhuPc",
       "thumbnail": "https://i.ytimg.com/vi/N8NjVvUhuPc/mqdefault.jpg",
       "published": "2026-06-29T19:52:35Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Cinco pessoas morreram em um tiroteio na Alemanha | Zero Hora",
-      "videoId": "ilqIRVz8nd0",
-      "url": "https://www.youtube.com/watch?v=ilqIRVz8nd0",
-      "thumbnail": "https://i.ytimg.com/vi/ilqIRVz8nd0/mqdefault.jpg",
-      "published": "2026-06-29T17:15:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "29/06/2026 | DE OLHO NO HEXA | RÁDIO GRENAL",
+      "title": "29/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
       "videoId": "KjPT_s0JNTM",
       "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
       "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault_live.jpg",
