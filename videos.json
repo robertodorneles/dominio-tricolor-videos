@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T10:00:41.070488+00:00",
+  "updated_at": "2026-06-29T11:00:42.315028+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Estragos da chuva no RS, jogo do Brasil na Copa, trânsito e + | Gaúcha Atualidade | 29/06/2026",
+      "videoId": "3SjyfTuUUBM",
+      "url": "https://www.youtube.com/watch?v=3SjyfTuUUBM",
+      "thumbnail": "https://i.ytimg.com/vi/3SjyfTuUUBM/mqdefault_live.jpg",
+      "published": "2026-06-29T10:57:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Marco Matos critica venda de animais de estimação | Paralelas",
       "videoId": "p4Yg9CZ6u9w",
       "url": "https://www.youtube.com/watch?v=p4Yg9CZ6u9w",
       "thumbnail": "https://i.ytimg.com/vi/p4Yg9CZ6u9w/mqdefault.jpg",
       "published": "2026-06-28T23:00:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "\"Um Defeito de Cor\": A visão da autora Ana Maria Gonçalves | Conversas Cruzadas",
-      "videoId": "S2FESZJt_4g",
-      "url": "https://www.youtube.com/watch?v=S2FESZJt_4g",
-      "thumbnail": "https://i.ytimg.com/vi/S2FESZJt_4g/mqdefault.jpg",
-      "published": "2026-06-28T21:00:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "29/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "KjPT_s0JNTM",
+      "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
+      "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault_live.jpg",
+      "published": "2026-06-29T10:26:57Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "28/06/2026 | LIVE COMPLETA | RADIO GRENAL",
       "videoId": "hMEaGMKGTsQ",
       "url": "https://www.youtube.com/watch?v=hMEaGMKGTsQ",
@@ -219,12 +227,12 @@
       "published": "2026-06-28T18:43:23Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | CASCAVEL 1 X 2 GRÊMIO | AMISTOSO | 27/06/2026",
-      "videoId": "FUpShkovL0M",
-      "url": "https://www.youtube.com/watch?v=FUpShkovL0M",
-      "thumbnail": "https://i.ytimg.com/vi/FUpShkovL0M/mqdefault.jpg",
-      "published": "2026-06-28T00:32:27Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 29/06 - GRÊMIO 3X2 SANTOS (BRASILEIRÃO 2016)",
+      "videoId": "--bS3QE3AhY",
+      "url": "https://www.youtube.com/watch?v=--bS3QE3AhY",
+      "thumbnail": "https://i.ytimg.com/vi/--bS3QE3AhY/mqdefault.jpg",
+      "published": "2026-06-29T11:00:03Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=iBj89T2ExXE",
       "thumbnail": "https://i.ytimg.com/vi/iBj89T2ExXE/mqdefault_live.jpg",
       "published": "2026-06-28T19:11:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O GRÊMIO VOLTOU! MAS OS PROBLEMAS CONTINUAM | GABRIEL MEC FALA SOBRE SAÍDA | REDAÇÃO IMORTAL",
-      "videoId": "Ef8m90jHQ3Y",
-      "url": "https://www.youtube.com/watch?v=Ef8m90jHQ3Y",
-      "thumbnail": "https://i.ytimg.com/vi/Ef8m90jHQ3Y/mqdefault_live.jpg",
-      "published": "2026-06-28T19:07:37Z"
     }
   ]
 }
