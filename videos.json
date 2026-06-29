@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:00:42.315028+00:00",
+  "updated_at": "2026-06-29T12:00:42.063806+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "G_G39PwLMp4",
       "url": "https://www.youtube.com/watch?v=G_G39PwLMp4",
       "thumbnail": "https://i.ytimg.com/vi/G_G39PwLMp4/mqdefault_live.jpg",
-      "published": "2026-06-29T09:30:05Z"
+      "published": "2026-06-29T12:00:03Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #20 - 29.06 - PRÉ-JOGO BRASIL X JAPÃO - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "7hKercDp4bA",
+      "url": "https://www.youtube.com/watch?v=7hKercDp4bA",
+      "thumbnail": "https://i.ytimg.com/vi/7hKercDp4bA/mqdefault_live.jpg",
+      "published": "2026-06-29T11:23:47Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "CONFUSÃO COM VAMPETA, FELIPÃO E EDILSON: OS BASTIDORES DA FAMÍLIA SCOLARI EM 2002 | Cortes do Duda",
       "videoId": "mxknDoeGVo4",
       "url": "https://www.youtube.com/watch?v=mxknDoeGVo4",
       "thumbnail": "https://i.ytimg.com/vi/mxknDoeGVo4/mqdefault.jpg",
       "published": "2026-06-28T23:30:39Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "EDILSON AINDA É ÍDOLO DO BRASIL #dudagarbi #umassadopara #copadomundo",
-      "videoId": "SNPJhxc0-Xc",
-      "url": "https://www.youtube.com/watch?v=SNPJhxc0-Xc",
-      "thumbnail": "https://i.ytimg.com/vi/SNPJhxc0-Xc/mqdefault.jpg",
-      "published": "2026-06-28T23:00:37Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "dS9yLwnlXoY",
       "url": "https://www.youtube.com/watch?v=dS9yLwnlXoY",
       "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault_live.jpg",
-      "published": "2026-06-29T01:47:34Z"
+      "published": "2026-06-29T11:01:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "KjPT_s0JNTM",
       "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
       "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault_live.jpg",
-      "published": "2026-06-29T10:26:57Z"
+      "published": "2026-06-29T11:06:10Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "O GRÊMIO VOLTOU! MAS OS PROBLEMAS CONTINUAM | GABRIEL MEC FALA SOBRE SAÍDA | REDAÇÃO IMORTAL",
+      "videoId": "Ef8m90jHQ3Y",
+      "url": "https://www.youtube.com/watch?v=Ef8m90jHQ3Y",
+      "thumbnail": "https://i.ytimg.com/vi/Ef8m90jHQ3Y/mqdefault_live.jpg",
+      "published": "2026-06-29T11:02:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 29/06 - GRÊMIO 3X2 SANTOS (BRASILEIRÃO 2016)",
       "videoId": "--bS3QE3AhY",
       "url": "https://www.youtube.com/watch?v=--bS3QE3AhY",
       "thumbnail": "https://i.ytimg.com/vi/--bS3QE3AhY/mqdefault.jpg",
       "published": "2026-06-29T11:00:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #101 — GRÊMIO PODE TER NOVA VENDA NOS PRÓXIMOS DIAS | FOLGA APÓS AMISTOSO",
-      "videoId": "iBj89T2ExXE",
-      "url": "https://www.youtube.com/watch?v=iBj89T2ExXE",
-      "thumbnail": "https://i.ytimg.com/vi/iBj89T2ExXE/mqdefault_live.jpg",
-      "published": "2026-06-28T19:11:57Z"
     }
   ]
 }
