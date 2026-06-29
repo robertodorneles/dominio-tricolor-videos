@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:00:49.482369+00:00",
+  "updated_at": "2026-06-29T15:00:50.838549+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "N2R1u_w60Tc",
       "url": "https://www.youtube.com/watch?v=N2R1u_w60Tc",
       "thumbnail": "https://i.ytimg.com/vi/N2R1u_w60Tc/mqdefault_live.jpg",
-      "published": "2026-06-29T13:52:21Z"
+      "published": "2026-06-29T14:51:31Z"
     },
     {
       "channel": "Bage TV",
       "title": "O CONSTRANGEDOR AMISTOSO CONTRA O CASCAVEL🔵 FUTEBOL ALEGRIA DO GRÊMIO - 29/06 - #578",
       "videoId": "t-BKqTBixSY",
       "url": "https://www.youtube.com/watch?v=t-BKqTBixSY",
-      "thumbnail": "https://i.ytimg.com/vi/t-BKqTBixSY/mqdefault_live.jpg",
-      "published": "2026-06-29T13:49:02Z"
+      "thumbnail": "https://i.ytimg.com/vi/t-BKqTBixSY/mqdefault.jpg",
+      "published": "2026-06-29T14:12:20Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨BOA OPORTUNIDADE COM LATERAL | SAÍDA IMINENTE | MUDANÇA DRÁSTICA NO MEIO DO GRÊMIO | COPA: PALPITES",
+      "videoId": "1JAdBLvt1A0",
+      "url": "https://www.youtube.com/watch?v=1JAdBLvt1A0",
+      "thumbnail": "https://i.ytimg.com/vi/1JAdBLvt1A0/mqdefault.jpg",
+      "published": "2026-06-29T14:42:32Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=QM7UKpcTjRw",
       "thumbnail": "https://i.ytimg.com/vi/QM7UKpcTjRw/mqdefault.jpg",
       "published": "2026-06-28T23:19:09Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MEIA EX-INTER NA PAUTA DO GRÊMIO? | MAIS UM ZAGUEIRO? | RETORNOS IMPORTANTES | A 2ª FASE DA COPA",
-      "videoId": "q1O058ruqVI",
-      "url": "https://www.youtube.com/watch?v=q1O058ruqVI",
-      "thumbnail": "https://i.ytimg.com/vi/q1O058ruqVI/mqdefault.jpg",
-      "published": "2026-06-28T15:08:57Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "PÓS-JOGO DO BRASIL: O GRÊMIO ENTRA EM PAUTA!  - VAMOOO FARIDO 26.06.26",
+      "videoId": "2KkCkSJN1yU",
+      "url": "https://www.youtube.com/watch?v=2KkCkSJN1yU",
+      "thumbnail": "https://i.ytimg.com/vi/2KkCkSJN1yU/mqdefault_live.jpg",
+      "published": "2026-06-29T14:25:48Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO - BRASIL  X  JAPÃO - FARID GERMANO E NANDO GROSS REAGEM AO JOGO DO BRASIL #04",
       "videoId": "kV3J52Dlm6o",
       "url": "https://www.youtube.com/watch?v=kV3J52Dlm6o",
       "thumbnail": "https://i.ytimg.com/vi/kV3J52Dlm6o/mqdefault_live.jpg",
       "published": "2026-06-29T01:42:59Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO  GRÊMIO VS CASCAVEL  27.06 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
-      "videoId": "lsJnXjdxtrI",
-      "url": "https://www.youtube.com/watch?v=lsJnXjdxtrI",
-      "thumbnail": "https://i.ytimg.com/vi/lsJnXjdxtrI/mqdefault.jpg",
-      "published": "2026-06-27T21:26:24Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 30/06",
+      "videoId": "YcionUKZESM",
+      "url": "https://www.youtube.com/watch?v=YcionUKZESM",
+      "thumbnail": "https://i.ytimg.com/vi/YcionUKZESM/mqdefault_live.jpg",
+      "published": "2026-06-29T14:29:47Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO - #20 - 29.06 - PRÉ-JOGO BRASIL X JAPÃO - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "7hKercDp4bA",
       "url": "https://www.youtube.com/watch?v=7hKercDp4bA",
       "thumbnail": "https://i.ytimg.com/vi/7hKercDp4bA/mqdefault.jpg",
       "published": "2026-06-29T13:26:45Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "CONFUSÃO COM VAMPETA, FELIPÃO E EDILSON: OS BASTIDORES DA FAMÍLIA SCOLARI EM 2002 | Cortes do Duda",
-      "videoId": "mxknDoeGVo4",
-      "url": "https://www.youtube.com/watch?v=mxknDoeGVo4",
-      "thumbnail": "https://i.ytimg.com/vi/mxknDoeGVo4/mqdefault.jpg",
-      "published": "2026-06-28T23:30:39Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Timeline 30/06/26",
+      "videoId": "M7gQUEBWNsE",
+      "url": "https://www.youtube.com/watch?v=M7gQUEBWNsE",
+      "thumbnail": "https://i.ytimg.com/vi/M7gQUEBWNsE/mqdefault_live.jpg",
+      "published": "2026-06-29T14:28:58Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Jair Soares | Memórias do Piratini",
       "videoId": "0GggcduI4Wk",
       "url": "https://www.youtube.com/watch?v=0GggcduI4Wk",
       "thumbnail": "https://i.ytimg.com/vi/0GggcduI4Wk/mqdefault.jpg",
       "published": "2026-06-29T14:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Direto dos Estados Unidos: tudo sobre Brasil x Japão, últimas da Copa e mais | Timeline 29/06/26",
-      "videoId": "_nViXKS2vH4",
-      "url": "https://www.youtube.com/watch?v=_nViXKS2vH4",
-      "thumbnail": "https://i.ytimg.com/vi/_nViXKS2vH4/mqdefault_live.jpg",
-      "published": "2026-06-29T13:04:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 29/06",
+      "videoId": "2P3S_CUbs5o",
+      "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
+      "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault_live.jpg",
+      "published": "2026-06-29T14:14:05Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #101 — GRÊMIO PODE TER NOVA VENDA NOS PRÓXIMOS DIAS | FOLGA APÓS AMISTOSO",
       "videoId": "iBj89T2ExXE",
       "url": "https://www.youtube.com/watch?v=iBj89T2ExXE",
       "thumbnail": "https://i.ytimg.com/vi/iBj89T2ExXE/mqdefault_live.jpg",
       "published": "2026-06-29T13:50:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O GRÊMIO VOLTOU! MAS OS PROBLEMAS CONTINUAM | GABRIEL MEC FALA SOBRE SAÍDA | REDAÇÃO IMORTAL",
-      "videoId": "Ef8m90jHQ3Y",
-      "url": "https://www.youtube.com/watch?v=Ef8m90jHQ3Y",
-      "thumbnail": "https://i.ytimg.com/vi/Ef8m90jHQ3Y/mqdefault.jpg",
-      "published": "2026-06-29T13:08:03Z"
     }
   ]
 }
