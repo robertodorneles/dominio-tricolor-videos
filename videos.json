@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:00:43.980077+00:00",
+  "updated_at": "2026-06-29T21:22:55.960571+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #617: Grêmio tem novo atacante | Situação de Gabriel Mec | Polêmica com Amuzu",
+      "videoId": "PZ74_0X-kjI",
+      "url": "https://www.youtube.com/watch?v=PZ74_0X-kjI",
+      "thumbnail": "https://i.ytimg.com/vi/PZ74_0X-kjI/mqdefault.jpg",
+      "published": "2026-06-29T21:04:15Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #616: As próximas saídas do Grêmio | Situação de Amuzu | Sub-20 e mais",
       "videoId": "zc5PpyVhGhc",
       "url": "https://www.youtube.com/watch?v=zc5PpyVhGhc",
       "thumbnail": "https://i.ytimg.com/vi/zc5PpyVhGhc/mqdefault.jpg",
       "published": "2026-06-28T19:41:46Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Cascavel 1 x 2 Grêmio: os pontos positivos e negativos do amistoso",
-      "videoId": "sUkfzH6zndM",
-      "url": "https://www.youtube.com/watch?v=sUkfzH6zndM",
-      "thumbnail": "https://i.ytimg.com/vi/sUkfzH6zndM/mqdefault.jpg",
-      "published": "2026-06-27T22:16:02Z"
     },
     {
       "channel": "Canal do Farid",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "ATACANTE CONTRATADO! | MATHEUS NASCIMENTO CHEGANDO | GABRIEL MEC SAINDO?",
+      "videoId": "Hke-bvETIbQ",
+      "url": "https://www.youtube.com/watch?v=Hke-bvETIbQ",
+      "thumbnail": "https://i.ytimg.com/vi/Hke-bvETIbQ/mqdefault.jpg",
+      "published": "2026-06-29T21:08:46Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "VIERY VENDIDO! | SAIBA OS VALORES, DETALHES DO NEGÓCIO! | REPOSIÇÃO? NOVAS VENDAS?",
       "videoId": "BmoUuTaexq4",
       "url": "https://www.youtube.com/watch?v=BmoUuTaexq4",
       "thumbnail": "https://i.ytimg.com/vi/BmoUuTaexq4/mqdefault.jpg",
       "published": "2026-06-25T20:38:01Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "REFORÇO CONTRATADO! | VEM MAIS 4 AÍ NESTA JANELA! QUEM SÃO? QUAIS POSIÇÕES?",
-      "videoId": "TOwJHVdd8t8",
-      "url": "https://www.youtube.com/watch?v=TOwJHVdd8t8",
-      "thumbnail": "https://i.ytimg.com/vi/TOwJHVdd8t8/mqdefault.jpg",
-      "published": "2026-06-24T01:23:58Z"
     },
     {
       "channel": "Duda Garbi",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "29/06/2026 | CONTRA-ATAQUE | RÁDIO GRENAL",
+      "title": "29/06/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "KjPT_s0JNTM",
       "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
       "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "MATHEUS NASCIMENTO É DO GRÊMIO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO # 100 - 29/06",
+      "videoId": "M3a8UP5cwv4",
+      "url": "https://www.youtube.com/watch?v=M3a8UP5cwv4",
+      "thumbnail": "https://i.ytimg.com/vi/M3a8UP5cwv4/mqdefault_live.jpg",
+      "published": "2026-06-29T21:20:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #101 — GRÊMIO PODE TER NOVA VENDA NOS PRÓXIMOS DIAS | FOLGA APÓS AMISTOSO",
       "videoId": "iBj89T2ExXE",
       "url": "https://www.youtube.com/watch?v=iBj89T2ExXE",
       "thumbnail": "https://i.ytimg.com/vi/iBj89T2ExXE/mqdefault.jpg",
       "published": "2026-06-29T15:40:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 29/06",
-      "videoId": "2P3S_CUbs5o",
-      "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
-      "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault_live.jpg",
-      "published": "2026-06-29T14:14:05Z"
     }
   ]
 }
