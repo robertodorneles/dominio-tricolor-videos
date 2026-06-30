@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-29T23:00:47.427076+00:00",
+  "updated_at": "2026-06-30T00:00:45.540736+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: PASSAMOS! | VAI COMER SUSHI JAPONES",
+      "videoId": "IF2TLgIHxKg",
+      "url": "https://www.youtube.com/watch?v=IF2TLgIHxKg",
+      "thumbnail": "https://i.ytimg.com/vi/IF2TLgIHxKg/mqdefault_live.jpg",
+      "published": "2026-06-29T23:09:53Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A boa oportunidade de negócio que surge | João Pedro de saída?! | Lateral direita",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ljsJKwgmgkU",
       "thumbnail": "https://i.ytimg.com/vi/ljsJKwgmgkU/mqdefault.jpg",
       "published": "2026-06-29T20:00:27Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO:  META FOI ATINGIDA | NOVAS VENDAS? | AMUZU FALA",
-      "videoId": "6I8lqAwahK4",
-      "url": "https://www.youtube.com/watch?v=6I8lqAwahK4",
-      "thumbnail": "https://i.ytimg.com/vi/6I8lqAwahK4/mqdefault.jpg",
-      "published": "2026-06-29T05:00:26Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "CAPETINHA X MESSI #dudagarbi #umassadopara #copadomundo",
-      "videoId": "_SwgJD4H51U",
-      "url": "https://www.youtube.com/watch?v=_SwgJD4H51U",
-      "thumbnail": "https://i.ytimg.com/vi/_SwgJD4H51U/mqdefault.jpg",
-      "published": "2026-06-29T23:00:20Z"
+      "title": "ELE JOGOU MAIS QUE MESSI? OLHA O QUE O EDILSON CAPETINHA FALOU | Cortes do Duda",
+      "videoId": "D1G9y2inq0o",
+      "url": "https://www.youtube.com/watch?v=D1G9y2inq0o",
+      "thumbnail": "https://i.ytimg.com/vi/D1G9y2inq0o/mqdefault.jpg",
+      "published": "2026-06-29T23:30:20Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "FLAMENGO X VASCO: O DIA QUE EDILSON E PET ACABARAM COM O JOGO | Cortes do Duda",
-      "videoId": "OfxnPqn9W7Y",
-      "url": "https://www.youtube.com/watch?v=OfxnPqn9W7Y",
-      "thumbnail": "https://i.ytimg.com/vi/OfxnPqn9W7Y/mqdefault.jpg",
-      "published": "2026-06-29T23:00:05Z"
+      "title": "OS “PENTA” TORCEM CONTRA O BRASIL? #dudagarbi #umassadopara #copadomundo",
+      "videoId": "dwbIO3FjdKc",
+      "url": "https://www.youtube.com/watch?v=dwbIO3FjdKc",
+      "thumbnail": "https://i.ytimg.com/vi/dwbIO3FjdKc/mqdefault.jpg",
+      "published": "2026-06-29T23:30:10Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨GRÊMIO CONTRATA GRANDE PROMESSA | ELE SABE FAZER GOLS | QUEM INDICOU",
+      "videoId": "bhsu0HWWe1s",
+      "url": "https://www.youtube.com/watch?v=bhsu0HWWe1s",
+      "thumbnail": "https://i.ytimg.com/vi/bhsu0HWWe1s/mqdefault.jpg",
+      "published": "2026-06-29T23:30:20Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨AMUZU DE SAÍDA DO GRÊMIO!? | O FUTURO DE GABRIEL MEC | MAIS DUAS SAÍDAS DESENHADAS",
       "videoId": "fRHnpZL6cSU",
       "url": "https://www.youtube.com/watch?v=fRHnpZL6cSU",
@@ -203,20 +211,12 @@
       "published": "2026-06-28T20:12:47Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨MAIS UM NEGÓCIO FECHADO | GRÊMIO ASSUSTA A TORCIDA | OS ÚNICOS QUE SE SALVARAM",
-      "videoId": "DEmgUJ7-OeA",
-      "url": "https://www.youtube.com/watch?v=DEmgUJ7-OeA",
-      "thumbnail": "https://i.ytimg.com/vi/DEmgUJ7-OeA/mqdefault.jpg",
-      "published": "2026-06-27T22:14:24Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "29/06/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "29/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "KjPT_s0JNTM",
       "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
-      "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault_live.jpg",
-      "published": "2026-06-29T11:06:10Z"
+      "thumbnail": "https://i.ytimg.com/vi/KjPT_s0JNTM/mqdefault.jpg",
+      "published": "2026-06-29T23:28:47Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "MATHEUS NASCIMENTO É DO GRÊMIO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO # 100 - 29/06",
-      "videoId": "M3a8UP5cwv4",
-      "url": "https://www.youtube.com/watch?v=M3a8UP5cwv4",
-      "thumbnail": "https://i.ytimg.com/vi/M3a8UP5cwv4/mqdefault_live.jpg",
-      "published": "2026-06-29T21:20:42Z"
+      "title": "TEM CENTROAVANTE CHEGANDO NO GRÊMIO! | OS DETALHES DA CONTRATAÇÃO | IMORTAL FC",
+      "videoId": "2P3S_CUbs5o",
+      "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
+      "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault_live.jpg",
+      "published": "2026-06-29T23:32:27Z"
     },
     {
       "channel": "Radio Imortal",
