@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T17:03:35.335843+00:00",
+  "updated_at": "2026-06-30T18:00:55.036896+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ATLÉTICO/GO (CAMPEONATO BRASILEIRO SUB-17 2026)",
+      "videoId": "upuMFrEu_t0",
+      "url": "https://www.youtube.com/watch?v=upuMFrEu_t0",
+      "thumbnail": "https://i.ytimg.com/vi/upuMFrEu_t0/mqdefault_live.jpg",
+      "published": "2026-06-30T17:49:26Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GOLS | GRÊMIO 2x1 CASCAVEL (AMISTOSO)",
       "videoId": "YPXytObmpeY",
       "url": "https://www.youtube.com/watch?v=YPXytObmpeY",
@@ -155,28 +163,20 @@
       "published": "2026-06-27T22:01:55Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | CASCAVEL X GRÊMIO (AMISTOSO 2026)",
-      "videoId": "Ws-XpYxF-I4",
-      "url": "https://www.youtube.com/watch?v=Ws-XpYxF-I4",
-      "thumbnail": "https://i.ytimg.com/vi/Ws-XpYxF-I4/mqdefault.jpg",
-      "published": "2026-06-27T21:43:27Z"
+      "channel": "GZH Digital",
+      "title": "Epidemia de EBOLA se espalha na República Democrática do Congo | Zero Hora",
+      "videoId": "9u8DkSjU89w",
+      "url": "https://www.youtube.com/watch?v=9u8DkSjU89w",
+      "thumbnail": "https://i.ytimg.com/vi/9u8DkSjU89w/mqdefault.jpg",
+      "published": "2026-06-30T17:45:23Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Plantar hoje, colher por décadas: a história da noz-pecã no Vale do Taquari | No Caminho do Agro #03",
-      "videoId": "eaX6y9dynak",
-      "url": "https://www.youtube.com/watch?v=eaX6y9dynak",
-      "thumbnail": "https://i.ytimg.com/vi/eaX6y9dynak/mqdefault.jpg",
-      "published": "2026-06-30T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 01/07/26",
-      "videoId": "yUM16U7OejI",
-      "url": "https://www.youtube.com/watch?v=yUM16U7OejI",
-      "thumbnail": "https://i.ytimg.com/vi/yUM16U7OejI/mqdefault_live.jpg",
-      "published": "2026-06-30T14:15:21Z"
+      "title": "Açaí no RS: produção nativa da Mata Atlântica ganha espaço no litoral gaúcho",
+      "videoId": "-fI8uWXQNC4",
+      "url": "https://www.youtube.com/watch?v=-fI8uWXQNC4",
+      "thumbnail": "https://i.ytimg.com/vi/-fI8uWXQNC4/mqdefault.jpg",
+      "published": "2026-06-30T17:20:25Z"
     },
     {
       "channel": "Jeremias Wernek",
