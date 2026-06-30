@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T21:25:28.485411+00:00",
+  "updated_at": "2026-06-30T22:00:46.558546+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CHAPECOENSE (AMISTOSO 2026)",
+      "videoId": "Zp7qa6Aq6YU",
+      "url": "https://www.youtube.com/watch?v=Zp7qa6Aq6YU",
+      "thumbnail": "https://i.ytimg.com/vi/Zp7qa6Aq6YU/mqdefault_live.jpg",
+      "published": "2026-06-30T21:30:32Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X ATLÉTICO/GO (CAMPEONATO BRASILEIRO SUB-17 2026)",
       "videoId": "upuMFrEu_t0",
       "url": "https://www.youtube.com/watch?v=upuMFrEu_t0",
@@ -155,28 +163,20 @@
       "published": "2026-06-30T20:12:49Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ATLÉTICO/GO (CAMPEONATO BRASILEIRO SUB-17 2026)",
-      "videoId": "dUOpIMElnIo",
-      "url": "https://www.youtube.com/watch?v=dUOpIMElnIo",
-      "thumbnail": "https://i.ytimg.com/vi/dUOpIMElnIo/mqdefault_live.jpg",
-      "published": "2026-06-30T20:05:33Z"
+      "channel": "GZH Digital",
+      "title": "SAYONARA JAPÃO, PAQUETÁ LESIONADO E O QUE ESPERAR DOS NORUEGUESES? | COPANDO TUDO | 30/06/2026",
+      "videoId": "hDLTKBmklXE",
+      "url": "https://www.youtube.com/watch?v=hDLTKBmklXE",
+      "thumbnail": "https://i.ytimg.com/vi/hDLTKBmklXE/mqdefault_live.jpg",
+      "published": "2026-06-30T21:56:26Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Bolsonaro deve continuar em prisão domiciliar? | Conversas Cruzadas | 30/06/2026",
-      "videoId": "K-8NCEHyDoA",
-      "url": "https://www.youtube.com/watch?v=K-8NCEHyDoA",
-      "thumbnail": "https://i.ytimg.com/vi/K-8NCEHyDoA/mqdefault_live.jpg",
-      "published": "2026-06-30T21:13:45Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Professor da FGV REBATE CRÍTICA de que Pix prejudicou empresas dos EUA | Giane Guerra",
-      "videoId": "NKML1BxeXKk",
-      "url": "https://www.youtube.com/watch?v=NKML1BxeXKk",
-      "thumbnail": "https://i.ytimg.com/vi/NKML1BxeXKk/mqdefault.jpg",
-      "published": "2026-06-30T20:32:59Z"
+      "title": "Direita disputa herança de Bolsonaro e Suprema Corte contraria Trump | Andei Pensando | 30/06/2026",
+      "videoId": "v9NE8a18lB0",
+      "url": "https://www.youtube.com/watch?v=v9NE8a18lB0",
+      "thumbnail": "https://i.ytimg.com/vi/v9NE8a18lB0/mqdefault.jpg",
+      "published": "2026-06-30T21:30:18Z"
     },
     {
       "channel": "Jeremias Wernek",
