@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:00:45.321732+00:00",
+  "updated_at": "2026-06-30T11:43:06.322650+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "nQFUbust6BI",
       "url": "https://www.youtube.com/watch?v=nQFUbust6BI",
       "thumbnail": "https://i.ytimg.com/vi/nQFUbust6BI/mqdefault_live.jpg",
-      "published": "2026-06-30T10:38:20Z"
+      "published": "2026-06-30T11:01:55Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 30/06 - GRÊMIO CAMPEÃO GAÚCHO DE 1996",
+      "videoId": "nYwdHBXkbVc",
+      "url": "https://www.youtube.com/watch?v=nYwdHBXkbVc",
+      "thumbnail": "https://i.ytimg.com/vi/nYwdHBXkbVc/mqdefault.jpg",
+      "published": "2026-06-30T11:00:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MATHEUS NASCIMENTO É O NOVO REFORÇO DO GRÊMIO | O MODELO DA NEGOCIAÇÃO | REDAÇÃO IMORTAL",
       "videoId": "9DF_h0Rc_AI",
       "url": "https://www.youtube.com/watch?v=9DF_h0Rc_AI",
       "thumbnail": "https://i.ytimg.com/vi/9DF_h0Rc_AI/mqdefault_live.jpg",
       "published": "2026-06-30T11:00:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "MATHEUS NASCIMENTO É DO GRÊMIO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO # 100 - 29/06 + IMORTAL FC",
-      "videoId": "2P3S_CUbs5o",
-      "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
-      "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault.jpg",
-      "published": "2026-06-30T01:23:21Z"
     }
   ]
 }
