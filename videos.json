@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:01:00.392683+00:00",
+  "updated_at": "2026-06-30T16:00:55.419804+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #012",
       "videoId": "ch9k5GtXk28",
       "url": "https://www.youtube.com/watch?v=ch9k5GtXk28",
-      "thumbnail": "https://i.ytimg.com/vi/ch9k5GtXk28/mqdefault_live.jpg",
-      "published": "2026-06-30T14:51:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/ch9k5GtXk28/mqdefault.jpg",
+      "published": "2026-06-30T15:30:42Z"
     },
     {
       "channel": "Bage TV",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Clube da Premier League faz proposta por Gabriel Mec do Grêmio",
+      "videoId": "pk5gHev2Yo4",
+      "url": "https://www.youtube.com/watch?v=pk5gHev2Yo4",
+      "thumbnail": "https://i.ytimg.com/vi/pk5gHev2Yo4/mqdefault.jpg",
+      "published": "2026-06-30T15:09:13Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "O valor da proposta do Hull City para comprar Gabriel Mec | Chegou o novo centroavante do Grêmio",
       "videoId": "5FmTRU7TNZg",
       "url": "https://www.youtube.com/watch?v=5FmTRU7TNZg",
@@ -91,12 +99,12 @@
       "published": "2026-06-30T14:09:37Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Quem se destacou e quem foi mal contra o Cascavel | Valor atualizado que o Grêmio receberá da FIFA",
-      "videoId": "jr1gyZmhtnE",
-      "url": "https://www.youtube.com/watch?v=jr1gyZmhtnE",
-      "thumbnail": "https://i.ytimg.com/vi/jr1gyZmhtnE/mqdefault.jpg",
-      "published": "2026-06-28T17:28:53Z"
+      "channel": "Careca de Saber TV",
+      "title": "MANDACA: 24 HORAS PARA ASSINAR PRÉ-CONTRATO? #gremio #Futebol #juventude",
+      "videoId": "-Z0kzV3qXos",
+      "url": "https://www.youtube.com/watch?v=-Z0kzV3qXos",
+      "thumbnail": "https://i.ytimg.com/vi/-Z0kzV3qXos/mqdefault.jpg",
+      "published": "2026-06-30T16:00:15Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=CalNrAqd2Z0",
       "thumbnail": "https://i.ytimg.com/vi/CalNrAqd2Z0/mqdefault.jpg",
       "published": "2026-06-30T13:00:01Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "É DO GRÊMIO: MATHEUS NASCIMENTO | MANDACA VAI ASSINAR ?",
-      "videoId": "WIO__8QtL_Y",
-      "url": "https://www.youtube.com/watch?v=WIO__8QtL_Y",
-      "thumbnail": "https://i.ytimg.com/vi/WIO__8QtL_Y/mqdefault.jpg",
-      "published": "2026-06-29T21:42:28Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "30/06/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "30/06/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "nQFUbust6BI",
       "url": "https://www.youtube.com/watch?v=nQFUbust6BI",
       "thumbnail": "https://i.ytimg.com/vi/nQFUbust6BI/mqdefault_live.jpg",
       "published": "2026-06-30T11:01:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #102 — DETALHES DO NOVO REFORÇO DO GRÊMIO | TRICOLOR SEGUE NA COPA!",
+      "videoId": "FmvKpXteLZk",
+      "url": "https://www.youtube.com/watch?v=FmvKpXteLZk",
+      "thumbnail": "https://i.ytimg.com/vi/FmvKpXteLZk/mqdefault.jpg",
+      "published": "2026-06-30T15:49:49Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=22jkuUq9vQY",
       "thumbnail": "https://i.ytimg.com/vi/22jkuUq9vQY/mqdefault_live.jpg",
       "published": "2026-06-30T14:19:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #102 — DETALHES DO NOVO REFORÇO DO GRÊMIO | TRICOLOR SEGUE NA COPA!",
-      "videoId": "FmvKpXteLZk",
-      "url": "https://www.youtube.com/watch?v=FmvKpXteLZk",
-      "thumbnail": "https://i.ytimg.com/vi/FmvKpXteLZk/mqdefault_live.jpg",
-      "published": "2026-06-30T13:45:21Z"
     }
   ]
 }
