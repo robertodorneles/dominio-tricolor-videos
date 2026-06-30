@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:00:51.267588+00:00",
+  "updated_at": "2026-06-30T11:00:45.321732+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "PÓS-JOGO DO BRASIL: O GRÊMIO ENTRA EM PAUTA!  - VAMOOO FARIDO 29.06.26",
+      "videoId": "2KkCkSJN1yU",
+      "url": "https://www.youtube.com/watch?v=2KkCkSJN1yU",
+      "thumbnail": "https://i.ytimg.com/vi/2KkCkSJN1yU/mqdefault.jpg",
+      "published": "2026-06-30T10:38:54Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "REACT AO VIVO - BRASIL X JAPÃO",
       "videoId": "wIDlCa9bjHE",
       "url": "https://www.youtube.com/watch?v=wIDlCa9bjHE",
       "thumbnail": "https://i.ytimg.com/vi/wIDlCa9bjHE/mqdefault.jpg",
       "published": "2026-06-30T07:30:05Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO - BRASIL  X  JAPÃO - FARID GERMANO E NANDO GROSS REAGEM AO JOGO DO BRASIL #04",
-      "videoId": "kV3J52Dlm6o",
-      "url": "https://www.youtube.com/watch?v=kV3J52Dlm6o",
-      "thumbnail": "https://i.ytimg.com/vi/kV3J52Dlm6o/mqdefault.jpg",
-      "published": "2026-06-30T06:19:00Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Brasil avança para as oitavas da Copa, blitz na BR-290 e mais | Gaúcha Atualidade | 30/06/2026",
+      "videoId": "fyIpfX54XMU",
+      "url": "https://www.youtube.com/watch?v=fyIpfX54XMU",
+      "thumbnail": "https://i.ytimg.com/vi/fyIpfX54XMU/mqdefault_live.jpg",
+      "published": "2026-06-30T10:58:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O QUE É O DESENROLA ADIMPLENTES? PROGRAMA É LANÇADO PELO GOV DO BRASIL",
       "videoId": "wgXJM8sKAlM",
       "url": "https://www.youtube.com/watch?v=wgXJM8sKAlM",
       "thumbnail": "https://i.ytimg.com/vi/wgXJM8sKAlM/mqdefault.jpg",
       "published": "2026-06-29T21:44:16Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "#ConteudoParaMarcas BASTIDORES DO DESIGN ✏️ | GZH",
-      "videoId": "l5O5zHlcbn8",
-      "url": "https://www.youtube.com/watch?v=l5O5zHlcbn8",
-      "thumbnail": "https://i.ytimg.com/vi/l5O5zHlcbn8/mqdefault.jpg",
-      "published": "2026-06-29T20:32:34Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "30/06/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "nQFUbust6BI",
+      "url": "https://www.youtube.com/watch?v=nQFUbust6BI",
+      "thumbnail": "https://i.ytimg.com/vi/nQFUbust6BI/mqdefault_live.jpg",
+      "published": "2026-06-30T10:38:20Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "29/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "KjPT_s0JNTM",
       "url": "https://www.youtube.com/watch?v=KjPT_s0JNTM",
@@ -219,12 +227,12 @@
       "published": "2026-06-29T23:28:47Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "28/06/2026 | LIVE COMPLETA | RADIO GRENAL",
-      "videoId": "hMEaGMKGTsQ",
-      "url": "https://www.youtube.com/watch?v=hMEaGMKGTsQ",
-      "thumbnail": "https://i.ytimg.com/vi/hMEaGMKGTsQ/mqdefault.jpg",
-      "published": "2026-06-28T18:43:23Z"
+      "channel": "Radio Imortal",
+      "title": "MATHEUS NASCIMENTO É O NOVO REFORÇO DO GRÊMIO | O MODELO DA NEGOCIAÇÃO | REDAÇÃO IMORTAL",
+      "videoId": "9DF_h0Rc_AI",
+      "url": "https://www.youtube.com/watch?v=9DF_h0Rc_AI",
+      "thumbnail": "https://i.ytimg.com/vi/9DF_h0Rc_AI/mqdefault_live.jpg",
+      "published": "2026-06-30T11:00:24Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
       "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault.jpg",
       "published": "2026-06-30T01:23:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 30/06",
-      "videoId": "VgN7C-kVYAE",
-      "url": "https://www.youtube.com/watch?v=VgN7C-kVYAE",
-      "thumbnail": "https://i.ytimg.com/vi/VgN7C-kVYAE/mqdefault_live.jpg",
-      "published": "2026-06-30T00:56:46Z"
     }
   ]
 }
