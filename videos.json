@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T00:00:45.540736+00:00",
+  "updated_at": "2026-06-30T01:00:42.430177+00:00",
   "total": 30,
   "videos": [
     {
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: 🇧🇷 vs Goku + Grêmio vendendo todo mundo e Inter agitando geral",
       "videoId": "dS9yLwnlXoY",
       "url": "https://www.youtube.com/watch?v=dS9yLwnlXoY",
-      "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault_live.jpg",
-      "published": "2026-06-29T12:10:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault.jpg",
+      "published": "2026-06-30T00:25:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TEM CENTROAVANTE CHEGANDO NO GRÊMIO! | OS DETALHES DA CONTRATAÇÃO | IMORTAL FC",
+      "title": "ESPLANADA — 30/06",
+      "videoId": "VgN7C-kVYAE",
+      "url": "https://www.youtube.com/watch?v=VgN7C-kVYAE",
+      "thumbnail": "https://i.ytimg.com/vi/VgN7C-kVYAE/mqdefault_live.jpg",
+      "published": "2026-06-30T00:56:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "MATHEUS NASCIMENTO É DO GRÊMIO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO # 100 - 29/06 + IMORTAL FC",
       "videoId": "2P3S_CUbs5o",
       "url": "https://www.youtube.com/watch?v=2P3S_CUbs5o",
       "thumbnail": "https://i.ytimg.com/vi/2P3S_CUbs5o/mqdefault_live.jpg",
       "published": "2026-06-29T23:32:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #101 — GRÊMIO PODE TER NOVA VENDA NOS PRÓXIMOS DIAS | FOLGA APÓS AMISTOSO",
-      "videoId": "iBj89T2ExXE",
-      "url": "https://www.youtube.com/watch?v=iBj89T2ExXE",
-      "thumbnail": "https://i.ytimg.com/vi/iBj89T2ExXE/mqdefault.jpg",
-      "published": "2026-06-29T15:40:55Z"
     }
   ]
 }
