@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T10:00:46.192616+00:00",
+  "updated_at": "2026-07-01T11:00:46.981207+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #062",
+      "title": "GRÊMIO PODE PERDER 7 JOGADORES 🌅🔵 BOM DIA GRÊMIO #062",
       "videoId": "4MRlxXOtmKg",
       "url": "https://www.youtube.com/watch?v=4MRlxXOtmKg",
       "thumbnail": "https://i.ytimg.com/vi/4MRlxXOtmKg/mqdefault_live.jpg",
@@ -71,8 +71,8 @@
       "title": "É DO GRÊMIO! MAIS UM REFORÇO CONFIRMADO!  - VAMOOO FARIDO 30.06.26",
       "videoId": "2kXominulJo",
       "url": "https://www.youtube.com/watch?v=2kXominulJo",
-      "thumbnail": "https://i.ytimg.com/vi/2kXominulJo/mqdefault_live.jpg",
-      "published": "2026-06-30T22:07:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/2kXominulJo/mqdefault.jpg",
+      "published": "2026-07-01T10:14:07Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Governo lança Plano Safra, blitz na BR-290, obras na BR-734 e mais | Gaúcha Atualidade | 01/07/2026",
+      "videoId": "I3-h6PGL3uE",
+      "url": "https://www.youtube.com/watch?v=I3-h6PGL3uE",
+      "thumbnail": "https://i.ytimg.com/vi/I3-h6PGL3uE/mqdefault_live.jpg",
+      "published": "2026-07-01T10:58:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Bolsonaro deve continuar em prisão domiciliar? | Conversas Cruzadas | 30/06/2026",
       "videoId": "K-8NCEHyDoA",
       "url": "https://www.youtube.com/watch?v=K-8NCEHyDoA",
       "thumbnail": "https://i.ytimg.com/vi/K-8NCEHyDoA/mqdefault.jpg",
       "published": "2026-07-01T09:35:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "SAYONARA JAPÃO, PAQUETÁ LESIONADO E O QUE ESPERAR DOS NORUEGUESES? | COPANDO TUDO | 30/06/2026",
-      "videoId": "hDLTKBmklXE",
-      "url": "https://www.youtube.com/watch?v=hDLTKBmklXE",
-      "thumbnail": "https://i.ytimg.com/vi/hDLTKBmklXE/mqdefault_live.jpg",
-      "published": "2026-06-30T23:33:12Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "30/06/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "01/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "UUw1fAudDMg",
       "url": "https://www.youtube.com/watch?v=UUw1fAudDMg",
       "thumbnail": "https://i.ytimg.com/vi/UUw1fAudDMg/mqdefault_live.jpg",
       "published": "2026-06-30T23:03:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 01/07 - GRÊMIO 1X0 CRUZEIRO (BRASILEIRÃO 2015)",
+      "videoId": "wAPB5JXtuU8",
+      "url": "https://www.youtube.com/watch?v=wAPB5JXtuU8",
+      "thumbnail": "https://i.ytimg.com/vi/wAPB5JXtuU8/mqdefault.jpg",
+      "published": "2026-07-01T11:00:20Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=I6N7KUds4Mg",
       "thumbnail": "https://i.ytimg.com/vi/I6N7KUds4Mg/mqdefault_live.jpg",
       "published": "2026-07-01T01:59:43Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #103 — QUEM DO GRÊMIO PODE ASSINAR PRÉ-CONTRATO | APENAS DOIS JOGADORES NO DM",
-      "videoId": "jUxamGxqmaw",
-      "url": "https://www.youtube.com/watch?v=jUxamGxqmaw",
-      "thumbnail": "https://i.ytimg.com/vi/jUxamGxqmaw/mqdefault_live.jpg",
-      "published": "2026-07-01T01:59:12Z"
     }
   ]
 }
