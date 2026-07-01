@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:49:05.213728+00:00",
+  "updated_at": "2026-07-01T20:00:39.449064+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O FIM DA PUBLICIDADE DE MASSA? Fábio Bernardi e o maior desafio das agências | Liderança em Sala",
+      "videoId": "ezQCrUZlY8U",
+      "url": "https://www.youtube.com/watch?v=ezQCrUZlY8U",
+      "thumbnail": "https://i.ytimg.com/vi/ezQCrUZlY8U/mqdefault.jpg",
+      "published": "2026-07-01T20:00:13Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Trump ganhou quase US$ 1,2 bilhão com criptomoedas em 2025 | Zero Hora",
       "videoId": "oWigvdr5yQc",
       "url": "https://www.youtube.com/watch?v=oWigvdr5yQc",
       "thumbnail": "https://i.ytimg.com/vi/oWigvdr5yQc/mqdefault.jpg",
       "published": "2026-07-01T19:45:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Maduro é processado nos EUA por execuções sumárias na Venezuela | Zero Hora",
-      "videoId": "eCFq_zhHkzk",
-      "url": "https://www.youtube.com/watch?v=eCFq_zhHkzk",
-      "thumbnail": "https://i.ytimg.com/vi/eCFq_zhHkzk/mqdefault.jpg",
-      "published": "2026-07-01T19:15:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "MUDANÇA DE DATA (DE NOVO) NO RETORNO DO GRÊMIO AO BRASILEIRÃO | MAIS UM DIA DE TREINOS | ESPLANADA",
+      "videoId": "I6N7KUds4Mg",
+      "url": "https://www.youtube.com/watch?v=I6N7KUds4Mg",
+      "thumbnail": "https://i.ytimg.com/vi/I6N7KUds4Mg/mqdefault.jpg",
+      "published": "2026-07-01T19:52:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "QUEM RENOVA E QUEM SAI? | GRÊMIO SE PREPARA PARA AMISTOSO | NOITES DE GRÊMIO #102 - 01/07",
       "videoId": "AXont3eU2Tk",
       "url": "https://www.youtube.com/watch?v=AXont3eU2Tk",
       "thumbnail": "https://i.ytimg.com/vi/AXont3eU2Tk/mqdefault_live.jpg",
       "published": "2026-07-01T19:45:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "MUDANÇA DE DATA (DE NOVO) NO RETORNO DO GRÊMIO AO BRASILEIRÃO | MAIS UM DIA DE TREINOS | ESPLANADA",
-      "videoId": "I6N7KUds4Mg",
-      "url": "https://www.youtube.com/watch?v=I6N7KUds4Mg",
-      "thumbnail": "https://i.ytimg.com/vi/I6N7KUds4Mg/mqdefault_live.jpg",
-      "published": "2026-07-01T19:30:29Z"
     }
   ]
 }
