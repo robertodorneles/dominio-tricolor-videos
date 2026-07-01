@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T22:01:00.690983+00:00",
+  "updated_at": "2026-07-01T23:01:00.086851+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "Px4nTOx75aw",
       "url": "https://www.youtube.com/watch?v=Px4nTOx75aw",
       "thumbnail": "https://i.ytimg.com/vi/Px4nTOx75aw/mqdefault_live.jpg",
-      "published": "2026-07-01T21:04:22Z"
+      "published": "2026-07-01T22:17:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Empresa chinesa lança robô humanoide ultrarrealista | Zero Hora",
+      "videoId": "hgMFUMaOl5o",
+      "url": "https://www.youtube.com/watch?v=hgMFUMaOl5o",
+      "thumbnail": "https://i.ytimg.com/vi/hgMFUMaOl5o/mqdefault.jpg",
+      "published": "2026-07-01T23:00:18Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CAMINHO DO BRASIL DEFINIDO NA COPA DOS ARTILHEIROS | COPANDO TUDO | 01/07/2026",
       "videoId": "KJ2ggrPdtjc",
       "url": "https://www.youtube.com/watch?v=KJ2ggrPdtjc",
       "thumbnail": "https://i.ytimg.com/vi/KJ2ggrPdtjc/mqdefault_live.jpg",
       "published": "2026-07-01T21:58:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Michelle Bolsonaro sai do PL Mulher em meio a racha com Flávio | Andei Pensando | 01/07/2026",
-      "videoId": "5T1lgZIU-gc",
-      "url": "https://www.youtube.com/watch?v=5T1lgZIU-gc",
-      "thumbnail": "https://i.ytimg.com/vi/5T1lgZIU-gc/mqdefault.jpg",
-      "published": "2026-07-01T21:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "QUEM RENOVA E QUEM SAI? | GRÊMIO SE PREPARA PARA AMISTOSO | NOITES DE GRÊMIO #102 - 01/07",
+      "videoId": "AXont3eU2Tk",
+      "url": "https://www.youtube.com/watch?v=AXont3eU2Tk",
+      "thumbnail": "https://i.ytimg.com/vi/AXont3eU2Tk/mqdefault_live.jpg",
+      "published": "2026-07-01T23:00:14Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MUDANÇA DE DATA (DE NOVO) NO RETORNO DO GRÊMIO AO BRASILEIRÃO | MAIS UM DIA DE TREINOS | ESPLANADA",
       "videoId": "I6N7KUds4Mg",
       "url": "https://www.youtube.com/watch?v=I6N7KUds4Mg",
       "thumbnail": "https://i.ytimg.com/vi/I6N7KUds4Mg/mqdefault.jpg",
       "published": "2026-07-01T19:52:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "QUEM RENOVA E QUEM SAI? | GRÊMIO SE PREPARA PARA AMISTOSO | NOITES DE GRÊMIO #102 - 01/07",
-      "videoId": "AXont3eU2Tk",
-      "url": "https://www.youtube.com/watch?v=AXont3eU2Tk",
-      "thumbnail": "https://i.ytimg.com/vi/AXont3eU2Tk/mqdefault_live.jpg",
-      "published": "2026-07-01T19:45:39Z"
     }
   ]
 }
