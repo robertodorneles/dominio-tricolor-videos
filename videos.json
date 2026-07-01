@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T11:58:04.488779+00:00",
+  "updated_at": "2026-07-01T12:00:53.425081+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "4MRlxXOtmKg",
       "url": "https://www.youtube.com/watch?v=4MRlxXOtmKg",
       "thumbnail": "https://i.ytimg.com/vi/4MRlxXOtmKg/mqdefault_live.jpg",
-      "published": "2026-07-01T09:34:33Z"
+      "published": "2026-07-01T11:59:01Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #22 - 01.07 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "E7awrZYaArM",
+      "url": "https://www.youtube.com/watch?v=E7awrZYaArM",
+      "thumbnail": "https://i.ytimg.com/vi/E7awrZYaArM/mqdefault_live.jpg",
+      "published": "2026-07-01T12:00:22Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O REAL MOTIVO QUE TIROU EDILSON CAPETINHA DO BBB | Cortes do Duda",
       "videoId": "Z6ErIu9sy-I",
       "url": "https://www.youtube.com/watch?v=Z6ErIu9sy-I",
       "thumbnail": "https://i.ytimg.com/vi/Z6ErIu9sy-I/mqdefault.jpg",
       "published": "2026-07-01T00:00:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "MUNDIAL DO CORINTHIANS ERA PARA SER DO PALMEIRAS? EDILSON FALOU TUDO | Cortes do Duda",
-      "videoId": "dtG3qR30ddk",
-      "url": "https://www.youtube.com/watch?v=dtG3qR30ddk",
-      "thumbnail": "https://i.ytimg.com/vi/dtG3qR30ddk/mqdefault.jpg",
-      "published": "2026-06-30T23:30:10Z"
     },
     {
       "channel": "GremioTV Oficial",
