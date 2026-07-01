@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-01T19:00:42.252332+00:00",
+  "updated_at": "2026-07-01T19:49:05.213728+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: JULHO É O MÊS DO PROBLEMA... OU DA SELEÇÃO... | A LISTA DE ALTERNATIVAS AO MERCADO",
+      "videoId": "7OzINBZcI4M",
+      "url": "https://www.youtube.com/watch?v=7OzINBZcI4M",
+      "thumbnail": "https://i.ytimg.com/vi/7OzINBZcI4M/mqdefault.jpg",
+      "published": "2026-07-01T19:00:24Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: VEJA O QUE ELE DISSE! | EXISTE O RISCO | CALEBE VINDO",
@@ -11,24 +19,16 @@
       "published": "2026-07-01T07:15:41Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO:  PROPOSTA RECUSADA! | GABRIEL MEC | ADEUS DE VIERY | AREZO",
-      "videoId": "f7AF_MX2Oz0",
-      "url": "https://www.youtube.com/watch?v=f7AF_MX2Oz0",
-      "thumbnail": "https://i.ytimg.com/vi/f7AF_MX2Oz0/mqdefault.jpg",
-      "published": "2026-07-01T05:00:07Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CHAPECOENSE X GRÊMIO",
+      "videoId": "aJrHi8Vr_XE",
+      "url": "https://www.youtube.com/watch?v=aJrHi8Vr_XE",
+      "thumbnail": "https://i.ytimg.com/vi/aJrHi8Vr_XE/mqdefault_live.jpg",
+      "published": "2026-07-01T19:21:00Z"
     },
     {
       "channel": "Bage TV",
-      "title": "SETE SAÍDAS NO GRÊMIO? E A DEFINIÇÃO SOBRE ROCHET NO INTER 🔸RESENHA FORA DA SALA🔸#077",
-      "videoId": "x7-p5vhwm0o",
-      "url": "https://www.youtube.com/watch?v=x7-p5vhwm0o",
-      "thumbnail": "https://i.ytimg.com/vi/x7-p5vhwm0o/mqdefault.jpg",
-      "published": "2026-07-01T18:38:27Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#178",
+      "title": "GRÊMIO PODE PERDER AMUZU E CARLOS VINÍCIUS🔹 THE TARDE 🔹#178",
       "videoId": "zOpW0gJ2tXw",
       "url": "https://www.youtube.com/watch?v=zOpW0gJ2tXw",
       "thumbnail": "https://i.ytimg.com/vi/zOpW0gJ2tXw/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Ética na política: Pedro Simon conta como manteve seus princípios ao governar | Memórias do Piratini",
-      "videoId": "rgMz85pcWjk",
-      "url": "https://www.youtube.com/watch?v=rgMz85pcWjk",
-      "thumbnail": "https://i.ytimg.com/vi/rgMz85pcWjk/mqdefault.jpg",
-      "published": "2026-07-01T18:12:45Z"
+      "title": "Trump ganhou quase US$ 1,2 bilhão com criptomoedas em 2025 | Zero Hora",
+      "videoId": "oWigvdr5yQc",
+      "url": "https://www.youtube.com/watch?v=oWigvdr5yQc",
+      "thumbnail": "https://i.ytimg.com/vi/oWigvdr5yQc/mqdefault.jpg",
+      "published": "2026-07-01T19:45:27Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Pedro Simon relembra momentos dramáticos da ditadura: \"Crise violenta\" | Memórias do Piratini",
-      "videoId": "oS1Zo7pW__Y",
-      "url": "https://www.youtube.com/watch?v=oS1Zo7pW__Y",
-      "thumbnail": "https://i.ytimg.com/vi/oS1Zo7pW__Y/mqdefault.jpg",
-      "published": "2026-07-01T16:58:49Z"
+      "title": "Maduro é processado nos EUA por execuções sumárias na Venezuela | Zero Hora",
+      "videoId": "eCFq_zhHkzk",
+      "url": "https://www.youtube.com/watch?v=eCFq_zhHkzk",
+      "thumbnail": "https://i.ytimg.com/vi/eCFq_zhHkzk/mqdefault.jpg",
+      "published": "2026-07-01T19:15:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "QUEM RENOVA E QUEM SAI? | GRÊMIO SE PREPARA PARA AMISTOSO | NOITES DE GRÊMIO #102 - 01/07",
+      "videoId": "AXont3eU2Tk",
+      "url": "https://www.youtube.com/watch?v=AXont3eU2Tk",
+      "thumbnail": "https://i.ytimg.com/vi/AXont3eU2Tk/mqdefault_live.jpg",
+      "published": "2026-07-01T19:45:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MUDANÇA DE DATA (DE NOVO) NO RETORNO DO GRÊMIO AO BRASILEIRÃO | MAIS UM DIA DE TREINOS | ESPLANADA",
       "videoId": "I6N7KUds4Mg",
       "url": "https://www.youtube.com/watch?v=I6N7KUds4Mg",
       "thumbnail": "https://i.ytimg.com/vi/I6N7KUds4Mg/mqdefault_live.jpg",
-      "published": "2026-07-01T18:34:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 01/07",
-      "videoId": "-7PXkwx7uhE",
-      "url": "https://www.youtube.com/watch?v=-7PXkwx7uhE",
-      "thumbnail": "https://i.ytimg.com/vi/-7PXkwx7uhE/mqdefault_live.jpg",
-      "published": "2026-07-01T15:27:29Z"
+      "published": "2026-07-01T19:30:29Z"
     }
   ]
 }
