@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T23:11:19.511584+00:00",
+  "updated_at": "2026-07-02T00:01:05.595047+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #619: Cobrança | Mandaca | Monsalve | Amistosos | Base e muito mais",
+      "videoId": "C51ckgi81gA",
+      "url": "https://www.youtube.com/watch?v=C51ckgi81gA",
+      "thumbnail": "https://i.ytimg.com/vi/C51ckgi81gA/mqdefault.jpg",
+      "published": "2026-07-01T23:53:22Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O que há de concreto no trabalho do Grêmio neste momento",
       "videoId": "Zfva5Yf1kz4",
       "url": "https://www.youtube.com/watch?v=Zfva5Yf1kz4",
       "thumbnail": "https://i.ytimg.com/vi/Zfva5Yf1kz4/mqdefault.jpg",
       "published": "2026-07-01T14:58:02Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #618: Proposta da Premier League por Mec | Situação de Arezo | Chegada de  Matheus",
-      "videoId": "ZBZN4DQzPfo",
-      "url": "https://www.youtube.com/watch?v=ZBZN4DQzPfo",
-      "thumbnail": "https://i.ytimg.com/vi/ZBZN4DQzPfo/mqdefault.jpg",
-      "published": "2026-06-30T20:12:03Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Empresa chinesa lança robô humanoide ultrarrealista | Zero Hora",
-      "videoId": "hgMFUMaOl5o",
-      "url": "https://www.youtube.com/watch?v=hgMFUMaOl5o",
-      "thumbnail": "https://i.ytimg.com/vi/hgMFUMaOl5o/mqdefault.jpg",
-      "published": "2026-07-01T23:00:18Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "CAMINHO DO BRASIL DEFINIDO NA COPA DOS ARTILHEIROS | COPANDO TUDO | 01/07/2026",
       "videoId": "KJ2ggrPdtjc",
       "url": "https://www.youtube.com/watch?v=KJ2ggrPdtjc",
       "thumbnail": "https://i.ytimg.com/vi/KJ2ggrPdtjc/mqdefault_live.jpg",
-      "published": "2026-07-01T21:58:21Z"
+      "published": "2026-07-01T23:31:56Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Veja como está a obra de duplicação da RS-734 | GZH Zona Sul",
+      "videoId": "uSUbHS4cI4Q",
+      "url": "https://www.youtube.com/watch?v=uSUbHS4cI4Q",
+      "thumbnail": "https://i.ytimg.com/vi/uSUbHS4cI4Q/mqdefault.jpg",
+      "published": "2026-07-01T23:30:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "VEM AÍ O QUE ESTAVA FALTANDO PARA O GRÊMIO",
+      "videoId": "go0rex1tVxQ",
+      "url": "https://www.youtube.com/watch?v=go0rex1tVxQ",
+      "thumbnail": "https://i.ytimg.com/vi/go0rex1tVxQ/mqdefault.jpg",
+      "published": "2026-07-01T23:21:21Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨DINHEIRÃO CHEGANDO NOS COFRES DO GRÊMIO | ELE VALE R$ 118 MILHÕES | A REVELAÇÃO CHEGOU",
       "videoId": "FeqWjoWoZoE",
       "url": "https://www.youtube.com/watch?v=FeqWjoWoZoE",
@@ -203,20 +211,12 @@
       "published": "2026-06-30T22:01:44Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO CONTRATA GRANDE PROMESSA | ELE SABE FAZER GOLS | QUEM INDICOU",
-      "videoId": "bhsu0HWWe1s",
-      "url": "https://www.youtube.com/watch?v=bhsu0HWWe1s",
-      "thumbnail": "https://i.ytimg.com/vi/bhsu0HWWe1s/mqdefault.jpg",
-      "published": "2026-06-29T23:30:20Z"
-    },
-    {
       "channel": "Radio Grenal",
       "title": "01/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "UUw1fAudDMg",
       "url": "https://www.youtube.com/watch?v=UUw1fAudDMg",
-      "thumbnail": "https://i.ytimg.com/vi/UUw1fAudDMg/mqdefault_live.jpg",
-      "published": "2026-07-01T23:02:33Z"
+      "thumbnail": "https://i.ytimg.com/vi/UUw1fAudDMg/mqdefault.jpg",
+      "published": "2026-07-01T23:35:10Z"
     },
     {
       "channel": "Radio Grenal",
@@ -232,7 +232,7 @@
       "videoId": "AXont3eU2Tk",
       "url": "https://www.youtube.com/watch?v=AXont3eU2Tk",
       "thumbnail": "https://i.ytimg.com/vi/AXont3eU2Tk/mqdefault_live.jpg",
-      "published": "2026-07-01T23:00:14Z"
+      "published": "2026-07-01T23:59:04Z"
     },
     {
       "channel": "Radio Imortal",
