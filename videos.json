@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T10:00:49.676148+00:00",
+  "updated_at": "2026-07-02T11:01:00.531240+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AREZO VENDIDO! E AGORA O GRÊMIO PODE PERDER MAIS TRÊS TITULARES! - VAMOOO FARIDO 01.07.26",
+      "videoId": "Px4nTOx75aw",
+      "url": "https://www.youtube.com/watch?v=Px4nTOx75aw",
+      "thumbnail": "https://i.ytimg.com/vi/Px4nTOx75aw/mqdefault.jpg",
+      "published": "2026-07-02T10:22:57Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ONDE VAI JOGAR MEC?",
       "videoId": "0ZxaZneePoI",
       "url": "https://www.youtube.com/watch?v=0ZxaZneePoI",
       "thumbnail": "https://i.ytimg.com/vi/0ZxaZneePoI/mqdefault.jpg",
       "published": "2026-07-02T01:34:50Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AREZO VENDIDO! E AGORA O GRÊMIO PODE PERDER MAIS TRÊS TITULARES! - VAMOOO FARIDO 01.07.26",
-      "videoId": "Px4nTOx75aw",
-      "url": "https://www.youtube.com/watch?v=Px4nTOx75aw",
-      "thumbnail": "https://i.ytimg.com/vi/Px4nTOx75aw/mqdefault_live.jpg",
-      "published": "2026-07-01T22:17:36Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Estragos da chuva no RS, blitz na BR-290, trânsito e mais | Gaúcha Atualidade | 02/07/2026",
+      "videoId": "9SdzhJRV_zM",
+      "url": "https://www.youtube.com/watch?v=9SdzhJRV_zM",
+      "thumbnail": "https://i.ytimg.com/vi/9SdzhJRV_zM/mqdefault_live.jpg",
+      "published": "2026-07-02T10:58:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CAMINHO DO BRASIL DEFINIDO NA COPA DOS ARTILHEIROS | COPANDO TUDO | 01/07/2026",
       "videoId": "KJ2ggrPdtjc",
       "url": "https://www.youtube.com/watch?v=KJ2ggrPdtjc",
       "thumbnail": "https://i.ytimg.com/vi/KJ2ggrPdtjc/mqdefault_live.jpg",
       "published": "2026-07-01T23:31:56Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Veja como está a obra de duplicação da RS-734 | GZH Zona Sul",
-      "videoId": "uSUbHS4cI4Q",
-      "url": "https://www.youtube.com/watch?v=uSUbHS4cI4Q",
-      "thumbnail": "https://i.ytimg.com/vi/uSUbHS4cI4Q/mqdefault.jpg",
-      "published": "2026-07-01T23:30:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "02/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "LaON9uLDxeE",
+      "url": "https://www.youtube.com/watch?v=LaON9uLDxeE",
+      "thumbnail": "https://i.ytimg.com/vi/LaON9uLDxeE/mqdefault_live.jpg",
+      "published": "2026-07-02T10:32:32Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "01/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "UUw1fAudDMg",
       "url": "https://www.youtube.com/watch?v=UUw1fAudDMg",
@@ -219,12 +227,12 @@
       "published": "2026-07-01T23:35:10Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ÚLTIMAS PALAVRAS! 🇪🇪",
-      "videoId": "OspEms-nLKQ",
-      "url": "https://www.youtube.com/watch?v=OspEms-nLKQ",
-      "thumbnail": "https://i.ytimg.com/vi/OspEms-nLKQ/mqdefault.jpg",
-      "published": "2026-07-01T21:24:47Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 02/07 - HONDURAS 1X1 GRÊMIO",
+      "videoId": "VBPyHAzKSZk",
+      "url": "https://www.youtube.com/watch?v=VBPyHAzKSZk",
+      "thumbnail": "https://i.ytimg.com/vi/VBPyHAzKSZk/mqdefault.jpg",
+      "published": "2026-07-02T11:00:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=jBVN146Tx8c",
       "thumbnail": "https://i.ytimg.com/vi/jBVN146Tx8c/mqdefault_live.jpg",
       "published": "2026-07-02T04:06:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 02/07",
-      "videoId": "viYiCXVnIr0",
-      "url": "https://www.youtube.com/watch?v=viYiCXVnIr0",
-      "thumbnail": "https://i.ytimg.com/vi/viYiCXVnIr0/mqdefault_live.jpg",
-      "published": "2026-07-02T03:15:05Z"
     }
   ]
 }
