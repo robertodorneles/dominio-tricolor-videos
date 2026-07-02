@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T13:00:45.642023+00:00",
+  "updated_at": "2026-07-02T13:51:05.908918+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO DEVE LIBERAR MONSALVE?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 02/07 - #581",
+      "videoId": "EBaWcrhk7_M",
+      "url": "https://www.youtube.com/watch?v=EBaWcrhk7_M",
+      "thumbnail": "https://i.ytimg.com/vi/EBaWcrhk7_M/mqdefault_live.jpg",
+      "published": "2026-07-02T13:02:29Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "MONSALVE DE SAÍDA? 🌅🔵 BOM DIA GRÊMIO #063",
       "videoId": "N-MwUBA154M",
       "url": "https://www.youtube.com/watch?v=N-MwUBA154M",
       "thumbnail": "https://i.ytimg.com/vi/N-MwUBA154M/mqdefault.jpg",
       "published": "2026-07-02T12:12:17Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PODE PERDER AMUZU E CARLOS VINÍCIUS🔹 THE TARDE 🔹#178",
-      "videoId": "zOpW0gJ2tXw",
-      "url": "https://www.youtube.com/watch?v=zOpW0gJ2tXw",
-      "thumbnail": "https://i.ytimg.com/vi/zOpW0gJ2tXw/mqdefault.jpg",
-      "published": "2026-07-01T20:09:25Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "O MÊS DE JULHO É A NOSSA COPA! #gremio #Futebol",
+      "videoId": "JvuNjnY1z3Q",
+      "url": "https://www.youtube.com/watch?v=JvuNjnY1z3Q",
+      "thumbnail": "https://i.ytimg.com/vi/JvuNjnY1z3Q/mqdefault.jpg",
+      "published": "2026-07-02T13:00:16Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CORTES, GASTOS E SAÍDAS: LISTA DE CHAMADA | JOGOS DO GRÊMIO EM JULHO: URGÊNCIA.",
       "videoId": "-fFPo6MrgVc",
       "url": "https://www.youtube.com/watch?v=-fFPo6MrgVc",
       "thumbnail": "https://i.ytimg.com/vi/-fFPo6MrgVc/mqdefault.jpg",
       "published": "2026-07-01T21:17:26Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "AREZO DEVE SER COMPRADO POR PENAROL. #gremio #Futebol",
-      "videoId": "LNiQVJOdPYg",
-      "url": "https://www.youtube.com/watch?v=LNiQVJOdPYg",
-      "thumbnail": "https://i.ytimg.com/vi/LNiQVJOdPYg/mqdefault.jpg",
-      "published": "2026-07-01T13:00:24Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO - #23 - 02.07 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "6Ox1FiAJzJg",
       "url": "https://www.youtube.com/watch?v=6Ox1FiAJzJg",
-      "thumbnail": "https://i.ytimg.com/vi/6Ox1FiAJzJg/mqdefault_live.jpg",
-      "published": "2026-07-02T12:01:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/6Ox1FiAJzJg/mqdefault.jpg",
+      "published": "2026-07-02T13:38:21Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "EDUCAÇÃO CORPORATIVA: Como ela transforma o mercado de trabalho? | Governança pra Quem Decide #05",
-      "videoId": "KswJIU98GxQ",
-      "url": "https://www.youtube.com/watch?v=KswJIU98GxQ",
-      "thumbnail": "https://i.ytimg.com/vi/KswJIU98GxQ/mqdefault.jpg",
-      "published": "2026-07-02T12:42:09Z"
+      "title": "Professor de balé agredido, erva-mate gaúcha patrocina Seleção Argentina e mais | Timeline 02/07/26",
+      "videoId": "oSacTXCJW_k",
+      "url": "https://www.youtube.com/watch?v=oSacTXCJW_k",
+      "thumbnail": "https://i.ytimg.com/vi/oSacTXCJW_k/mqdefault_live.jpg",
+      "published": "2026-07-02T13:04:37Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,15 @@
       "videoId": "9SdzhJRV_zM",
       "url": "https://www.youtube.com/watch?v=9SdzhJRV_zM",
       "thumbnail": "https://i.ytimg.com/vi/9SdzhJRV_zM/mqdefault_live.jpg",
-      "published": "2026-07-02T10:58:52Z"
+      "published": "2026-07-02T13:04:31Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "React e infos sobre Matheus Nascimento, o novo atacante do Grêmio",
+      "videoId": "gHuq0pU1zWU",
+      "url": "https://www.youtube.com/watch?v=gHuq0pU1zWU",
+      "thumbnail": "https://i.ytimg.com/vi/gHuq0pU1zWU/mqdefault.jpg",
+      "published": "2026-07-02T13:12:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=dS9yLwnlXoY",
       "thumbnail": "https://i.ytimg.com/vi/dS9yLwnlXoY/mqdefault.jpg",
       "published": "2026-06-30T00:25:48Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Novidades sobre a situação de Amuzu e Grêmio 🇪🇪",
-      "videoId": "_mRo87z6kO8",
-      "url": "https://www.youtube.com/watch?v=_mRo87z6kO8",
-      "thumbnail": "https://i.ytimg.com/vi/_mRo87z6kO8/mqdefault.jpg",
-      "published": "2026-06-27T18:00:48Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #104 — GRÊMIO CONFIRMA AMISTOSO | NOVO REFORÇO, WALLACE CONCEDE ENTREVISTA",
+      "videoId": "SZOoq5Eo2PM",
+      "url": "https://www.youtube.com/watch?v=SZOoq5Eo2PM",
+      "thumbnail": "https://i.ytimg.com/vi/SZOoq5Eo2PM/mqdefault_live.jpg",
+      "published": "2026-07-02T13:49:56Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESTUDIANTES QUER MIGUEL MONSALVE? | GRÊMIO SEGUE EM BUSCA DE REFORÇOS | REDAÇÃO IMORTAL",
       "videoId": "7m3XlB7mAFw",
       "url": "https://www.youtube.com/watch?v=7m3XlB7mAFw",
       "thumbnail": "https://i.ytimg.com/vi/7m3XlB7mAFw/mqdefault_live.jpg",
-      "published": "2026-07-02T11:01:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 02/07 - HONDURAS 1X1 GRÊMIO",
-      "videoId": "VBPyHAzKSZk",
-      "url": "https://www.youtube.com/watch?v=VBPyHAzKSZk",
-      "thumbnail": "https://i.ytimg.com/vi/VBPyHAzKSZk/mqdefault.jpg",
-      "published": "2026-07-02T11:00:12Z"
+      "published": "2026-07-02T13:11:31Z"
     }
   ]
 }
