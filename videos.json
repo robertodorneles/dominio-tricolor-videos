@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T14:00:52.117349+00:00",
+  "updated_at": "2026-07-02T15:01:00.871947+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "OANYg104QWA",
       "url": "https://www.youtube.com/watch?v=OANYg104QWA",
       "thumbnail": "https://i.ytimg.com/vi/OANYg104QWA/mqdefault_live.jpg",
-      "published": "2026-07-02T13:56:16Z"
+      "published": "2026-07-02T14:51:59Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO DEVE LIBERAR MONSALVE?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 02/07 - #581",
       "videoId": "EBaWcrhk7_M",
       "url": "https://www.youtube.com/watch?v=EBaWcrhk7_M",
-      "thumbnail": "https://i.ytimg.com/vi/EBaWcrhk7_M/mqdefault_live.jpg",
-      "published": "2026-07-02T13:53:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/EBaWcrhk7_M/mqdefault.jpg",
+      "published": "2026-07-02T14:24:18Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MAIS REFORÇOS! AVANÇO POR DOIS NOVOS ATLETAS | A PRINCIPAL DOR DE CABEÇA DO TIME DO GRÊMIO | COPA",
+      "videoId": "PRUVkQYO3yw",
+      "url": "https://www.youtube.com/watch?v=PRUVkQYO3yw",
+      "thumbnail": "https://i.ytimg.com/vi/PRUVkQYO3yw/mqdefault.jpg",
+      "published": "2026-07-02T14:18:36Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=7k0QrWWUtMU",
       "thumbnail": "https://i.ytimg.com/vi/7k0QrWWUtMU/mqdefault.jpg",
       "published": "2026-07-01T23:09:20Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨UM NOVO NEGÓCIO DE SURPRESA? | MEIA VIRA DESTAQUE NO GRÊMIO | A DECISÃO DA COPA",
-      "videoId": "jif3a-YOkGE",
-      "url": "https://www.youtube.com/watch?v=jif3a-YOkGE",
-      "thumbnail": "https://i.ytimg.com/vi/jif3a-YOkGE/mqdefault.jpg",
-      "published": "2026-07-01T14:54:25Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Ganhar Cannes basta? A visão de Fábio Bernardi sobre os prêmios | Liderança em Sala",
-      "videoId": "3TwEJYLOkkk",
-      "url": "https://www.youtube.com/watch?v=3TwEJYLOkkk",
-      "thumbnail": "https://i.ytimg.com/vi/3TwEJYLOkkk/mqdefault.jpg",
-      "published": "2026-07-02T14:00:33Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Professor de balé agredido, erva-mate gaúcha patrocina Seleção Argentina e mais | Timeline 02/07/26",
       "videoId": "oSacTXCJW_k",
       "url": "https://www.youtube.com/watch?v=oSacTXCJW_k",
-      "thumbnail": "https://i.ytimg.com/vi/oSacTXCJW_k/mqdefault_live.jpg",
-      "published": "2026-07-02T13:58:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/oSacTXCJW_k/mqdefault.jpg",
+      "published": "2026-07-02T14:42:15Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Estragos da chuva no RS, blitz na BR-290, trânsito e mais | Gaúcha Atualidade | 02/07/2026",
+      "videoId": "9SdzhJRV_zM",
+      "url": "https://www.youtube.com/watch?v=9SdzhJRV_zM",
+      "thumbnail": "https://i.ytimg.com/vi/9SdzhJRV_zM/mqdefault.jpg",
+      "published": "2026-07-02T14:07:43Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "02/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "02/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "LaON9uLDxeE",
       "url": "https://www.youtube.com/watch?v=LaON9uLDxeE",
       "thumbnail": "https://i.ytimg.com/vi/LaON9uLDxeE/mqdefault_live.jpg",
