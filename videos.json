@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:01:00.531240+00:00",
+  "updated_at": "2026-07-02T11:31:38.257834+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "LaON9uLDxeE",
       "url": "https://www.youtube.com/watch?v=LaON9uLDxeE",
       "thumbnail": "https://i.ytimg.com/vi/LaON9uLDxeE/mqdefault_live.jpg",
-      "published": "2026-07-02T10:32:32Z"
+      "published": "2026-07-02T11:01:29Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ESTUDIANTES QUER MIGUEL MONSALVE? | GRÊMIO SEGUE EM BUSCA DE REFORÇOS | REDAÇÃO IMORTAL",
+      "videoId": "7m3XlB7mAFw",
+      "url": "https://www.youtube.com/watch?v=7m3XlB7mAFw",
+      "thumbnail": "https://i.ytimg.com/vi/7m3XlB7mAFw/mqdefault_live.jpg",
+      "published": "2026-07-02T11:01:14Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 02/07 - HONDURAS 1X1 GRÊMIO",
       "videoId": "VBPyHAzKSZk",
       "url": "https://www.youtube.com/watch?v=VBPyHAzKSZk",
       "thumbnail": "https://i.ytimg.com/vi/VBPyHAzKSZk/mqdefault.jpg",
       "published": "2026-07-02T11:00:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ENTREVISTA COM GUGA, CRIA DA BASE DO GRÊMIO | ATUALIZANDO AS NOTÍCIAS DO GRÊMIO | IMORTAL FC",
-      "videoId": "jBVN146Tx8c",
-      "url": "https://www.youtube.com/watch?v=jBVN146Tx8c",
-      "thumbnail": "https://i.ytimg.com/vi/jBVN146Tx8c/mqdefault_live.jpg",
-      "published": "2026-07-02T04:06:17Z"
     }
   ]
 }
