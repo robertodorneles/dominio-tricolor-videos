@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T15:01:00.871947+00:00",
+  "updated_at": "2026-07-02T16:01:04.660271+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: MAIS UM DIA DE TIMES | USA EM CAMPO | LOUCURAS GOSTOSAS",
+      "videoId": "KWiMpppu2_k",
+      "url": "https://www.youtube.com/watch?v=KWiMpppu2_k",
+      "thumbnail": "https://i.ytimg.com/vi/KWiMpppu2_k/mqdefault.jpg",
+      "published": "2026-07-02T15:49:13Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: MAIS UM ZAGUEIRO? | NICO LOPEZ VEM? | MARIPAN FALOU!",
@@ -11,20 +19,12 @@
       "published": "2026-07-02T05:02:57Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: CRUZEIRO CONFIRMADO | JULHO DECISIVO | MONSALVE NA MIRA | CASCAVEL COBRA",
-      "videoId": "TJd-bbCett4",
-      "url": "https://www.youtube.com/watch?v=TJd-bbCett4",
-      "thumbnail": "https://i.ytimg.com/vi/TJd-bbCett4/mqdefault.jpg",
-      "published": "2026-07-02T05:00:13Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #014",
       "videoId": "OANYg104QWA",
       "url": "https://www.youtube.com/watch?v=OANYg104QWA",
-      "thumbnail": "https://i.ytimg.com/vi/OANYg104QWA/mqdefault_live.jpg",
-      "published": "2026-07-02T14:51:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/OANYg104QWA/mqdefault.jpg",
+      "published": "2026-07-02T15:36:04Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "O chocante relatório que impacta a realidade do Grêmio",
+      "videoId": "HWWjINCxp7w",
+      "url": "https://www.youtube.com/watch?v=HWWjINCxp7w",
+      "thumbnail": "https://i.ytimg.com/vi/HWWjINCxp7w/mqdefault.jpg",
+      "published": "2026-07-02T15:18:49Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #619: Cobrança | Mandaca | Monsalve | Amistosos | Base e muito mais",
       "videoId": "C51ckgi81gA",
       "url": "https://www.youtube.com/watch?v=C51ckgi81gA",
       "thumbnail": "https://i.ytimg.com/vi/C51ckgi81gA/mqdefault.jpg",
       "published": "2026-07-01T23:53:22Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O que há de concreto no trabalho do Grêmio neste momento",
-      "videoId": "Zfva5Yf1kz4",
-      "url": "https://www.youtube.com/watch?v=Zfva5Yf1kz4",
-      "thumbnail": "https://i.ytimg.com/vi/Zfva5Yf1kz4/mqdefault.jpg",
-      "published": "2026-07-01T14:58:02Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #23 - 02.07 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "6Ox1FiAJzJg",
-      "url": "https://www.youtube.com/watch?v=6Ox1FiAJzJg",
-      "thumbnail": "https://i.ytimg.com/vi/6Ox1FiAJzJg/mqdefault.jpg",
-      "published": "2026-07-02T13:38:21Z"
+      "title": "A PALESTRA DE CUSCO #dudagarbi  #bolabolacomfalcao #tite",
+      "videoId": "EcNmx860dnI",
+      "url": "https://www.youtube.com/watch?v=EcNmx860dnI",
+      "thumbnail": "https://i.ytimg.com/vi/EcNmx860dnI/mqdefault.jpg",
+      "published": "2026-07-02T15:00:19Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "LIÇÕES QUE APRENDI NO BBB  #dudagarbi #umassadopara #copadomundo",
-      "videoId": "12lZ2JaQDUw",
-      "url": "https://www.youtube.com/watch?v=12lZ2JaQDUw",
-      "thumbnail": "https://i.ytimg.com/vi/12lZ2JaQDUw/mqdefault.jpg",
-      "published": "2026-07-01T21:00:39Z"
+      "title": "EU SENTIA QUE ÍAMOS FICAR COM UM JOGADOR A MENOS | Cortes do Bola-Bola",
+      "videoId": "YUkVcfnFKpA",
+      "url": "https://www.youtube.com/watch?v=YUkVcfnFKpA",
+      "thumbnail": "https://i.ytimg.com/vi/YUkVcfnFKpA/mqdefault.jpg",
+      "published": "2026-07-02T15:00:05Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Professor de balé agredido, erva-mate gaúcha patrocina Seleção Argentina e mais | Timeline 02/07/26",
-      "videoId": "oSacTXCJW_k",
-      "url": "https://www.youtube.com/watch?v=oSacTXCJW_k",
-      "thumbnail": "https://i.ytimg.com/vi/oSacTXCJW_k/mqdefault.jpg",
-      "published": "2026-07-02T14:42:15Z"
+      "title": "VENEZUELA: Homem é resgatado OITO DIAS após TERREMOTOS",
+      "videoId": "ljFkSPVOEtg",
+      "url": "https://www.youtube.com/watch?v=ljFkSPVOEtg",
+      "thumbnail": "https://i.ytimg.com/vi/ljFkSPVOEtg/mqdefault.jpg",
+      "published": "2026-07-02T15:33:55Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Estragos da chuva no RS, blitz na BR-290, trânsito e mais | Gaúcha Atualidade | 02/07/2026",
-      "videoId": "9SdzhJRV_zM",
-      "url": "https://www.youtube.com/watch?v=9SdzhJRV_zM",
-      "thumbnail": "https://i.ytimg.com/vi/9SdzhJRV_zM/mqdefault.jpg",
-      "published": "2026-07-02T14:07:43Z"
+      "title": "| SuperSábado | 04/07/2026",
+      "videoId": "zyTnvGL4pUg",
+      "url": "https://www.youtube.com/watch?v=zyTnvGL4pUg",
+      "thumbnail": "https://i.ytimg.com/vi/zyTnvGL4pUg/mqdefault_live.jpg",
+      "published": "2026-07-02T15:18:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "02/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "02/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "LaON9uLDxeE",
       "url": "https://www.youtube.com/watch?v=LaON9uLDxeE",
       "thumbnail": "https://i.ytimg.com/vi/LaON9uLDxeE/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #104 — GRÊMIO CONFIRMA AMISTOSO | NOVO REFORÇO, WALLACE CONCEDE ENTREVISTA",
+      "videoId": "SZOoq5Eo2PM",
+      "url": "https://www.youtube.com/watch?v=SZOoq5Eo2PM",
+      "thumbnail": "https://i.ytimg.com/vi/SZOoq5Eo2PM/mqdefault.jpg",
+      "published": "2026-07-02T15:34:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESTUDIANTES QUER MIGUEL MONSALVE? | GRÊMIO SEGUE EM BUSCA DE REFORÇOS | REDAÇÃO IMORTAL",
       "videoId": "7m3XlB7mAFw",
       "url": "https://www.youtube.com/watch?v=7m3XlB7mAFw",
       "thumbnail": "https://i.ytimg.com/vi/7m3XlB7mAFw/mqdefault.jpg",
       "published": "2026-07-02T13:56:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #104 — GRÊMIO CONFIRMA AMISTOSO | NOVO REFORÇO, WALLACE CONCEDE ENTREVISTA",
-      "videoId": "SZOoq5Eo2PM",
-      "url": "https://www.youtube.com/watch?v=SZOoq5Eo2PM",
-      "thumbnail": "https://i.ytimg.com/vi/SZOoq5Eo2PM/mqdefault_live.jpg",
-      "published": "2026-07-02T13:49:56Z"
     }
   ]
 }
