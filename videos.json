@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:00:46.810298+00:00",
+  "updated_at": "2026-07-02T18:24:17.290367+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "Ab-IwLoh8FE",
       "url": "https://www.youtube.com/watch?v=Ab-IwLoh8FE",
       "thumbnail": "https://i.ytimg.com/vi/Ab-IwLoh8FE/mqdefault_live.jpg",
-      "published": "2026-07-02T16:33:11Z"
+      "published": "2026-07-02T18:16:40Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ATUALIZANDO O NOTICIÁRIO GREMISTA | MAIS UM DIA DE TREINOS | ESPLANADA",
+      "videoId": "viYiCXVnIr0",
+      "url": "https://www.youtube.com/watch?v=viYiCXVnIr0",
+      "thumbnail": "https://i.ytimg.com/vi/viYiCXVnIr0/mqdefault_live.jpg",
+      "published": "2026-07-02T18:07:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO AGUARDA NOVAS PROPOSTAS E MONSALVE PODE SAIR | NOITES DE GRÊMIO #103 - 02/07",
       "videoId": "7_xqTtjDUSc",
       "url": "https://www.youtube.com/watch?v=7_xqTtjDUSc",
       "thumbnail": "https://i.ytimg.com/vi/7_xqTtjDUSc/mqdefault_live.jpg",
       "published": "2026-07-02T17:41:28Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #104 — GRÊMIO CONFIRMA AMISTOSO | NOVO REFORÇO, WALLACE CONCEDE ENTREVISTA",
-      "videoId": "SZOoq5Eo2PM",
-      "url": "https://www.youtube.com/watch?v=SZOoq5Eo2PM",
-      "thumbnail": "https://i.ytimg.com/vi/SZOoq5Eo2PM/mqdefault.jpg",
-      "published": "2026-07-02T15:34:47Z"
     }
   ]
 }
