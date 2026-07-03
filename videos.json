@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T11:00:49.842719+00:00",
+  "updated_at": "2026-07-03T11:29:31.355799+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 03/07",
+      "videoId": "UAF_4yR67i0",
+      "url": "https://www.youtube.com/watch?v=UAF_4yR67i0",
+      "thumbnail": "https://i.ytimg.com/vi/UAF_4yR67i0/mqdefault_live.jpg",
+      "published": "2026-07-03T11:25:11Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "E-BBB E PENTACAMPEÃO: SÓ O CAPETINHA #dudagarbi #umassadopara #copadomundo",
       "videoId": "LUbgQD5nnjU",
       "url": "https://www.youtube.com/watch?v=LUbgQD5nnjU",
       "thumbnail": "https://i.ytimg.com/vi/LUbgQD5nnjU/mqdefault.jpg",
       "published": "2026-07-02T21:00:31Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A PALESTRA DE CUSCO #dudagarbi  #bolabolacomfalcao #tite",
-      "videoId": "EcNmx860dnI",
-      "url": "https://www.youtube.com/watch?v=EcNmx860dnI",
-      "thumbnail": "https://i.ytimg.com/vi/EcNmx860dnI/mqdefault.jpg",
-      "published": "2026-07-02T15:00:19Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "nlr1ZHGhvI8",
       "url": "https://www.youtube.com/watch?v=nlr1ZHGhvI8",
       "thumbnail": "https://i.ytimg.com/vi/nlr1ZHGhvI8/mqdefault_live.jpg",
-      "published": "2026-07-03T02:33:58Z"
+      "published": "2026-07-03T11:02:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "vEo_uWeH94E",
       "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
       "thumbnail": "https://i.ytimg.com/vi/vEo_uWeH94E/mqdefault_live.jpg",
-      "published": "2026-07-03T10:51:52Z"
+      "published": "2026-07-03T11:04:22Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "O TERCEIRO REFORÇO DA JANELA DO GRÊMIO | MANDACA VAI ACRESCENTAR? | REDAÇÃO IMORTAL",
+      "videoId": "1H1hhlHAscs",
+      "url": "https://www.youtube.com/watch?v=1H1hhlHAscs",
+      "thumbnail": "https://i.ytimg.com/vi/1H1hhlHAscs/mqdefault_live.jpg",
+      "published": "2026-07-03T11:05:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 03/07 - INTER 0X1 GRÊMIO (BRASILEIRÃO 2016)",
       "videoId": "exIq3qR9arQ",
       "url": "https://www.youtube.com/watch?v=exIq3qR9arQ",
       "thumbnail": "https://i.ytimg.com/vi/exIq3qR9arQ/mqdefault.jpg",
       "published": "2026-07-03T11:00:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ASSINA PRÉ CONTRATO COM MANDACA | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO #103 - 02/07",
-      "videoId": "7_xqTtjDUSc",
-      "url": "https://www.youtube.com/watch?v=7_xqTtjDUSc",
-      "thumbnail": "https://i.ytimg.com/vi/7_xqTtjDUSc/mqdefault.jpg",
-      "published": "2026-07-03T02:20:13Z"
     }
   ]
 }
