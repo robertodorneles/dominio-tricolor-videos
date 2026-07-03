@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T17:21:30.488020+00:00",
+  "updated_at": "2026-07-03T18:00:52.291771+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA DE APRESENTAÇÃO I WALLACE",
+      "videoId": "6fkfQlipoOk",
+      "url": "https://www.youtube.com/watch?v=6fkfQlipoOk",
+      "thumbnail": "https://i.ytimg.com/vi/6fkfQlipoOk/mqdefault.jpg",
+      "published": "2026-07-03T17:47:40Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO ENTREGA PROJETO DA ALÇA DE ACESSO À FREEWAY À PREFEITURA DE PORTO ALEGRE",
       "videoId": "heoWOZ48KM8",
       "url": "https://www.youtube.com/watch?v=heoWOZ48KM8",
@@ -155,12 +163,12 @@
       "published": "2026-07-02T22:07:25Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA DE APRESENTAÇÃO I WALLACE",
-      "videoId": "6fkfQlipoOk",
-      "url": "https://www.youtube.com/watch?v=6fkfQlipoOk",
-      "thumbnail": "https://i.ytimg.com/vi/6fkfQlipoOk/mqdefault_live.jpg",
-      "published": "2026-07-02T21:54:00Z"
+      "channel": "GZH Digital",
+      "title": "Obra que respira: já ouviu falar no pulmão do Túnel da Conceição? | Zero Hora",
+      "videoId": "69ZuhTcgqjs",
+      "url": "https://www.youtube.com/watch?v=69ZuhTcgqjs",
+      "thumbnail": "https://i.ytimg.com/vi/69ZuhTcgqjs/mqdefault.jpg",
+      "published": "2026-07-03T17:30:26Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=uFeAarYh8ic",
       "thumbnail": "https://i.ytimg.com/vi/uFeAarYh8ic/mqdefault.jpg",
       "published": "2026-07-03T16:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Antônio Britto | Memórias do Piratini",
-      "videoId": "j8lbwVfvTDc",
-      "url": "https://www.youtube.com/watch?v=j8lbwVfvTDc",
-      "thumbnail": "https://i.ytimg.com/vi/j8lbwVfvTDc/mqdefault.jpg",
-      "published": "2026-07-03T15:02:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "03/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO  | RÁDIO GRENAL",
+      "title": "03/07/2026 DUPLA EM DEBATE : PRORROGAÇÃO  | RÁDIO GRENAL",
       "videoId": "vEo_uWeH94E",
       "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
       "thumbnail": "https://i.ytimg.com/vi/vEo_uWeH94E/mqdefault_live.jpg",
@@ -232,7 +232,7 @@
       "videoId": "bU9J4ESfiW0",
       "url": "https://www.youtube.com/watch?v=bU9J4ESfiW0",
       "thumbnail": "https://i.ytimg.com/vi/bU9J4ESfiW0/mqdefault_live.jpg",
-      "published": "2026-07-03T17:02:28Z"
+      "published": "2026-07-03T17:48:15Z"
     },
     {
       "channel": "Radio Imortal",
