@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T22:01:05.833607+00:00",
-  "total": 28,
+  "updated_at": "2026-07-03T22:58:41.949783+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #621: Mec e Hull City | Mandaca | Adriel | Monsalve | Wallace e time do Grêmio",
+      "videoId": "hpiRPj7yPkg",
+      "url": "https://www.youtube.com/watch?v=hpiRPj7yPkg",
+      "thumbnail": "https://i.ytimg.com/vi/hpiRPj7yPkg/mqdefault.jpg",
+      "published": "2026-07-03T22:24:24Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O pedido do Juventude para liberar Mandaca ao Grêmio",
       "videoId": "W2W2Gj6BeqY",
       "url": "https://www.youtube.com/watch?v=W2W2Gj6BeqY",
@@ -59,20 +67,12 @@
       "published": "2026-07-03T15:10:37Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Time base do Grêmio | Possíveis saídas | Pedido por Mandaca | Alça de acesso da Arena",
-      "videoId": "TTEjgcHvHeI",
-      "url": "https://www.youtube.com/watch?v=TTEjgcHvHeI",
-      "thumbnail": "https://i.ytimg.com/vi/TTEjgcHvHeI/mqdefault.jpg",
-      "published": "2026-07-03T14:50:49Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "DEPOIS DAS SAÍDAS... QUE GRÊMIO VEREMOS AMANHÃ? - VAMOOO FARIDO 03.07.26",
       "videoId": "NpNX3N8S95M",
       "url": "https://www.youtube.com/watch?v=NpNX3N8S95M",
       "thumbnail": "https://i.ytimg.com/vi/NpNX3N8S95M/mqdefault_live.jpg",
-      "published": "2026-07-03T21:05:21Z"
+      "published": "2026-07-03T22:00:47Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Ali Khamenei é homenageado por líderes iranianos em tributo funerário",
-      "videoId": "DkXbb91dlSg",
-      "url": "https://www.youtube.com/watch?v=DkXbb91dlSg",
-      "thumbnail": "https://i.ytimg.com/vi/DkXbb91dlSg/mqdefault.jpg",
-      "published": "2026-07-03T22:00:34Z"
+      "title": "VIIH TUBE e ELIEZER são INVESTIGADOS após reality com funcionários",
+      "videoId": "pi15sFFO4hA",
+      "url": "https://www.youtube.com/watch?v=pi15sFFO4hA",
+      "thumbnail": "https://i.ytimg.com/vi/pi15sFFO4hA/mqdefault.jpg",
+      "published": "2026-07-03T22:53:26Z"
     },
     {
       "channel": "GZH Digital",
@@ -195,8 +195,24 @@
       "published": "2026-07-03T12:07:41Z"
     },
     {
+      "channel": "LH Benfica",
+      "title": "🚨NOVA OFERTA POR JOGADOR | GRÊMIO VAI SANGRAR POR MANDACA | INGLATERRA, ITALIA E UCRÂNIA DE OLHO",
+      "videoId": "z-wT81YhFF8",
+      "url": "https://www.youtube.com/watch?v=z-wT81YhFF8",
+      "thumbnail": "https://i.ytimg.com/vi/z-wT81YhFF8/mqdefault.jpg",
+      "published": "2026-07-03T22:29:00Z"
+    },
+    {
+      "channel": "LH Benfica",
+      "title": "🚨MAIS UM REFORÇO PRO GRÊMIO | LATERAL ESCOLHIDO | ELE MARCA E FAZ GOLS",
+      "videoId": "2QHRHSgQ5oA",
+      "url": "https://www.youtube.com/watch?v=2QHRHSgQ5oA",
+      "thumbnail": "https://i.ytimg.com/vi/2QHRHSgQ5oA/mqdefault.jpg",
+      "published": "2026-07-02T21:23:02Z"
+    },
+    {
       "channel": "Radio Grenal",
-      "title": "03/07/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "03/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "vEo_uWeH94E",
       "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
       "thumbnail": "https://i.ytimg.com/vi/vEo_uWeH94E/mqdefault_live.jpg",
