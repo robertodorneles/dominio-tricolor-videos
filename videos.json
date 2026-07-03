@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T14:00:50.616461+00:00",
+  "updated_at": "2026-07-03T15:00:57.185848+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "Zuxr4ZnDyO8",
       "url": "https://www.youtube.com/watch?v=Zuxr4ZnDyO8",
       "thumbnail": "https://i.ytimg.com/vi/Zuxr4ZnDyO8/mqdefault_live.jpg",
-      "published": "2026-07-03T13:51:56Z"
+      "published": "2026-07-03T14:51:40Z"
     },
     {
       "channel": "Bage TV",
       "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 03/07 - #582",
       "videoId": "yDVhW6xGwqc",
       "url": "https://www.youtube.com/watch?v=yDVhW6xGwqc",
-      "thumbnail": "https://i.ytimg.com/vi/yDVhW6xGwqc/mqdefault_live.jpg",
-      "published": "2026-07-03T13:50:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/yDVhW6xGwqc/mqdefault.jpg",
+      "published": "2026-07-03T14:12:24Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO COM CAMISA 9 EX-INTER? | JOGADOR VOLTANDO | O PEDIDO POR MANDACA | O GRÊMIO VAI JOGAR!",
+      "videoId": "xXHP-RDmegk",
+      "url": "https://www.youtube.com/watch?v=xXHP-RDmegk",
+      "thumbnail": "https://i.ytimg.com/vi/xXHP-RDmegk/mqdefault.jpg",
+      "published": "2026-07-03T14:24:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-07-03T00:19:19Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO REFORÇO CONFIRMADO NO GRÊMIO! CONTRATAÇÃO ACERTADA! | E OFERTA POR UM SEGUNDO JOGADOR!",
-      "videoId": "9GjseMm1NW4",
-      "url": "https://www.youtube.com/watch?v=9GjseMm1NW4",
-      "thumbnail": "https://i.ytimg.com/vi/9GjseMm1NW4/mqdefault.jpg",
-      "published": "2026-07-02T19:09:42Z"
+      "channel": "Canal do CCD",
+      "title": "Time base do Grêmio | Possíveis saídas | Pedido por Mandaca | Alça de acesso da Arena",
+      "videoId": "TTEjgcHvHeI",
+      "url": "https://www.youtube.com/watch?v=TTEjgcHvHeI",
+      "thumbnail": "https://i.ytimg.com/vi/TTEjgcHvHeI/mqdefault.jpg",
+      "published": "2026-07-03T14:50:49Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=ABeuBnFx__k",
       "thumbnail": "https://i.ytimg.com/vi/ABeuBnFx__k/mqdefault.jpg",
       "published": "2026-07-02T22:41:33Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O chocante relatório que impacta a realidade do Grêmio",
-      "videoId": "HWWjINCxp7w",
-      "url": "https://www.youtube.com/watch?v=HWWjINCxp7w",
-      "thumbnail": "https://i.ytimg.com/vi/HWWjINCxp7w/mqdefault.jpg",
-      "published": "2026-07-02T15:18:49Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Kawasaki Frontale lança uniforme inspirado no Grêmio",
+      "videoId": "tz9ty_xN5A4",
+      "url": "https://www.youtube.com/watch?v=tz9ty_xN5A4",
+      "thumbnail": "https://i.ytimg.com/vi/tz9ty_xN5A4/mqdefault.jpg",
+      "published": "2026-07-03T14:29:50Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Veja estádio onde Grêmio vai jogar | Sondagem na Argentina | Pré-contrato | Novo técnico do Uruguai?",
       "videoId": "7-8-0wR3MT4",
       "url": "https://www.youtube.com/watch?v=7-8-0wR3MT4",
       "thumbnail": "https://i.ytimg.com/vi/7-8-0wR3MT4/mqdefault.jpg",
       "published": "2026-07-03T12:51:10Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Inter anuncia contratação | Negociação avançada com meia | Quatro jogos-treinos",
-      "videoId": "Ree_3dklmlE",
-      "url": "https://www.youtube.com/watch?v=Ree_3dklmlE",
-      "thumbnail": "https://i.ytimg.com/vi/Ree_3dklmlE/mqdefault.jpg",
-      "published": "2026-07-01T15:22:41Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Fraude na Educação de Porto Alegre, pagamentos no TJRS, trânsito e +| Gaúcha Atualidade | 03/07/2026",
-      "videoId": "6KywBbaGaGI",
-      "url": "https://www.youtube.com/watch?v=6KywBbaGaGI",
-      "thumbnail": "https://i.ytimg.com/vi/6KywBbaGaGI/mqdefault.jpg",
-      "published": "2026-07-03T13:22:54Z"
+      "title": "A vida no MAIOR CONDOMÍNIO de Porto Alegre",
+      "videoId": "mptR-Us9fDA",
+      "url": "https://www.youtube.com/watch?v=mptR-Us9fDA",
+      "thumbnail": "https://i.ytimg.com/vi/mptR-Us9fDA/mqdefault.jpg",
+      "published": "2026-07-03T14:47:08Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Festa das Cucas de Santa Cruz do Sul, expectativas Cabo Verde x Argentina e mais | Timeline 03/07/26",
       "videoId": "8gwHb47aSWE",
       "url": "https://www.youtube.com/watch?v=8gwHb47aSWE",
-      "thumbnail": "https://i.ytimg.com/vi/8gwHb47aSWE/mqdefault_live.jpg",
-      "published": "2026-07-03T13:05:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/8gwHb47aSWE/mqdefault.jpg",
+      "published": "2026-07-03T14:26:24Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "03/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "03/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "vEo_uWeH94E",
       "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
       "thumbnail": "https://i.ytimg.com/vi/vEo_uWeH94E/mqdefault_live.jpg",
