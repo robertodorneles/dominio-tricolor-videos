@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T17:00:56.220796+00:00",
+  "updated_at": "2026-07-03T17:21:30.488020+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO  CHAPECOENSE  VS  GRÊMIO  04.07 — AMISTOSO — FARID REAGINDO AO JOGO!!!",
+      "videoId": "pegjOsbx19E",
+      "url": "https://www.youtube.com/watch?v=pegjOsbx19E",
+      "thumbnail": "https://i.ytimg.com/vi/pegjOsbx19E/mqdefault_live.jpg",
+      "published": "2026-07-03T17:13:21Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SEM FIRULA COM NANDO GROSS E FARID GERMANO - #EP05",
       "videoId": "3ftNZtsF6kg",
       "url": "https://www.youtube.com/watch?v=3ftNZtsF6kg",
       "thumbnail": "https://i.ytimg.com/vi/3ftNZtsF6kg/mqdefault.jpg",
       "published": "2026-07-03T12:56:18Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "NÃO EXISTE PROPOSTA POR MEC! - VAMOOO FARIDO 02.07.26",
-      "videoId": "fXlfmfKHilg",
-      "url": "https://www.youtube.com/watch?v=fXlfmfKHilg",
-      "thumbnail": "https://i.ytimg.com/vi/fXlfmfKHilg/mqdefault.jpg",
-      "published": "2026-07-03T10:22:30Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | APRESENTAÇÃO DE WALLACE | COLETIVA DO NOVO ZAGUEIRO DO GRÊMIO",
+      "videoId": "bU9J4ESfiW0",
+      "url": "https://www.youtube.com/watch?v=bU9J4ESfiW0",
+      "thumbnail": "https://i.ytimg.com/vi/bU9J4ESfiW0/mqdefault_live.jpg",
+      "published": "2026-07-03T17:02:28Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O GRÊMIO EM CAMPO AMANHÃ PARA MAIS UM AMISTOSO | TENTATIVA DE ACORDO POR MANDACA | IMORTAL FC",
       "videoId": "spoOFyB2EyI",
       "url": "https://www.youtube.com/watch?v=spoOFyB2EyI",
       "thumbnail": "https://i.ytimg.com/vi/spoOFyB2EyI/mqdefault_live.jpg",
       "published": "2026-07-03T16:28:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #105 — QUANDO CHEGA MANDACA? GRÊMIO TENTA ANTECIPAR CONTRATAÇÃO",
-      "videoId": "ISCgFjhmymQ",
-      "url": "https://www.youtube.com/watch?v=ISCgFjhmymQ",
-      "thumbnail": "https://i.ytimg.com/vi/ISCgFjhmymQ/mqdefault.jpg",
-      "published": "2026-07-03T16:15:54Z"
     }
   ]
 }
