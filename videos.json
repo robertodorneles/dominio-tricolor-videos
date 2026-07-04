@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T20:01:00.746078+00:00",
+  "updated_at": "2026-07-04T20:52:46.317757+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CHAPECOENSE (AMISTOSO 2026)",
+      "videoId": "Zp7qa6Aq6YU",
+      "url": "https://www.youtube.com/watch?v=Zp7qa6Aq6YU",
+      "thumbnail": "https://i.ytimg.com/vi/Zp7qa6Aq6YU/mqdefault_live.jpg",
+      "published": "2026-07-04T20:31:55Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO DESEMBARCA EM SINOP/MT COM FESTA DA TORCIDA",
       "videoId": "Cl3kSPstyoc",
       "url": "https://www.youtube.com/watch?v=Cl3kSPstyoc",
       "thumbnail": "https://i.ytimg.com/vi/Cl3kSPstyoc/mqdefault.jpg",
       "published": "2026-07-04T05:13:51Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO SUB-15 2026)",
-      "videoId": "bpzMFj8U2sg",
-      "url": "https://www.youtube.com/watch?v=bpzMFj8U2sg",
-      "thumbnail": "https://i.ytimg.com/vi/bpzMFj8U2sg/mqdefault.jpg",
-      "published": "2026-07-03T23:38:03Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ESQUENTANDO O JOGO | GRÊMIO X CHAPECOENSE | AMISTOSO | 04/07/2026",
+      "videoId": "Om9cXgbLPCM",
+      "url": "https://www.youtube.com/watch?v=Om9cXgbLPCM",
+      "thumbnail": "https://i.ytimg.com/vi/Om9cXgbLPCM/mqdefault_live.jpg",
+      "published": "2026-07-04T20:00:51Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "03/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "vEo_uWeH94E",
       "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
@@ -219,12 +227,12 @@
       "published": "2026-07-03T23:27:41Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | GRÊMIO X CHAPECOENSE | AMISTOSO | 04/07/2026",
-      "videoId": "Om9cXgbLPCM",
-      "url": "https://www.youtube.com/watch?v=Om9cXgbLPCM",
-      "thumbnail": "https://i.ytimg.com/vi/Om9cXgbLPCM/mqdefault_live.jpg",
-      "published": "2026-07-03T23:03:12Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CHAPECOENSE | AMISTOSO EM SINOP / MATO GROSSO",
+      "videoId": "amca1eza3vI",
+      "url": "https://www.youtube.com/watch?v=amca1eza3vI",
+      "thumbnail": "https://i.ytimg.com/vi/amca1eza3vI/mqdefault_live.jpg",
+      "published": "2026-07-04T20:01:58Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9lhCI1VQtF4",
       "thumbnail": "https://i.ytimg.com/vi/9lhCI1VQtF4/mqdefault.jpg",
       "published": "2026-07-04T14:39:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PROJETANDO GRÊMIO X CHAPE | GOLEIRO VOLTANDO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO #104 - 03/07",
-      "videoId": "HcEU-bbtv_k",
-      "url": "https://www.youtube.com/watch?v=HcEU-bbtv_k",
-      "thumbnail": "https://i.ytimg.com/vi/HcEU-bbtv_k/mqdefault.jpg",
-      "published": "2026-07-04T13:40:57Z"
     }
   ]
 }
