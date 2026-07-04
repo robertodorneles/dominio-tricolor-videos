@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T14:00:51.376465+00:00",
+  "updated_at": "2026-07-04T14:26:24.416905+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE É DIA DE GRÊMIO | TUDO SOBRE O AMISTOSO CONTRA  A CHAPECOENSE | VENDAS E CHEGADAS | PLANTÃO",
+      "videoId": "9lhCI1VQtF4",
+      "url": "https://www.youtube.com/watch?v=9lhCI1VQtF4",
+      "thumbnail": "https://i.ytimg.com/vi/9lhCI1VQtF4/mqdefault_live.jpg",
+      "published": "2026-07-04T14:24:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PROJETANDO GRÊMIO X CHAPE | GOLEIRO VOLTANDO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO #104 - 03/07",
       "videoId": "HcEU-bbtv_k",
       "url": "https://www.youtube.com/watch?v=HcEU-bbtv_k",
       "thumbnail": "https://i.ytimg.com/vi/HcEU-bbtv_k/mqdefault.jpg",
       "published": "2026-07-04T13:40:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE É DIA DE GRÊMIO | TUDO SOBRE O AMISTOSO CONTRA  A CHAPECOENSE | VENDAS E CHEGADAS | PLANTÃO",
-      "videoId": "9lhCI1VQtF4",
-      "url": "https://www.youtube.com/watch?v=9lhCI1VQtF4",
-      "thumbnail": "https://i.ytimg.com/vi/9lhCI1VQtF4/mqdefault_live.jpg",
-      "published": "2026-07-04T13:04:43Z"
     }
   ]
 }
