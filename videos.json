@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T13:00:53.771446+00:00",
+  "updated_at": "2026-07-04T14:00:51.376465+00:00",
   "total": 30,
   "videos": [
     {
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO - #25 - 04.07 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "1LjXX44Gnjk",
       "url": "https://www.youtube.com/watch?v=1LjXX44Gnjk",
-      "thumbnail": "https://i.ytimg.com/vi/1LjXX44Gnjk/mqdefault_live.jpg",
-      "published": "2026-07-04T12:04:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/1LjXX44Gnjk/mqdefault.jpg",
+      "published": "2026-07-04T13:43:53Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 04/07 - GODOY CRUZ 0X1 GRÊMIO (LIBERTADORES 2017)",
-      "videoId": "oYvuZzSvryQ",
-      "url": "https://www.youtube.com/watch?v=oYvuZzSvryQ",
-      "thumbnail": "https://i.ytimg.com/vi/oYvuZzSvryQ/mqdefault.jpg",
-      "published": "2026-07-04T11:00:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "PROJETANDO GRÊMIO X CHAPE | GOLEIRO VOLTANDO | ÚLTIMAS DO TRICOLOR | NOITES DE GRÊMIO #104 - 03/07",
       "videoId": "HcEU-bbtv_k",
       "url": "https://www.youtube.com/watch?v=HcEU-bbtv_k",
-      "thumbnail": "https://i.ytimg.com/vi/HcEU-bbtv_k/mqdefault_live.jpg",
-      "published": "2026-07-04T01:30:40Z"
+      "thumbnail": "https://i.ytimg.com/vi/HcEU-bbtv_k/mqdefault.jpg",
+      "published": "2026-07-04T13:40:57Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE É DIA DE GRÊMIO | TUDO SOBRE O AMISTOSO CONTRA  A CHAPECOENSE | VENDAS E CHEGADAS | PLANTÃO",
+      "videoId": "9lhCI1VQtF4",
+      "url": "https://www.youtube.com/watch?v=9lhCI1VQtF4",
+      "thumbnail": "https://i.ytimg.com/vi/9lhCI1VQtF4/mqdefault_live.jpg",
+      "published": "2026-07-04T13:04:43Z"
     }
   ]
 }
