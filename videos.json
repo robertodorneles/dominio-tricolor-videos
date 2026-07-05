@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T13:01:08.390459+00:00",
+  "updated_at": "2026-07-05T13:23:26.115493+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A trágica receita do Grêmio | Precisamos entender URGENTEMENTE o que está acontecendo",
+      "videoId": "kOauVnb8a5Q",
+      "url": "https://www.youtube.com/watch?v=kOauVnb8a5Q",
+      "thumbnail": "https://i.ytimg.com/vi/kOauVnb8a5Q/mqdefault.jpg",
+      "published": "2026-07-05T13:20:58Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Chape 2 x 1 Grêmio: não evoluímos NADA",
       "videoId": "aEttjRlF4qM",
       "url": "https://www.youtube.com/watch?v=aEttjRlF4qM",
       "thumbnail": "https://i.ytimg.com/vi/aEttjRlF4qM/mqdefault.jpg",
       "published": "2026-07-05T01:10:11Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #621: Mec e Hull City | Mandaca | Adriel | Monsalve | Wallace e time do Grêmio",
-      "videoId": "hpiRPj7yPkg",
-      "url": "https://www.youtube.com/watch?v=hpiRPj7yPkg",
-      "thumbnail": "https://i.ytimg.com/vi/hpiRPj7yPkg/mqdefault.jpg",
-      "published": "2026-07-03T22:24:24Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO PERDE PARA A CHAPECOENSE NO AMISTOSO | LUÍS CASTRO FELIZ COM SEGUNDO TEMPO | PLANTÃO IMORTAL",
+      "videoId": "npIpBbw3W_8",
+      "url": "https://www.youtube.com/watch?v=npIpBbw3W_8",
+      "thumbnail": "https://i.ytimg.com/vi/npIpBbw3W_8/mqdefault_live.jpg",
+      "published": "2026-07-05T13:13:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 05/07 - GRÊMIO 4X1 ATHLETICO PR (BRASILEIRÃO 2009)",
       "videoId": "IbDTSSXopT0",
       "url": "https://www.youtube.com/watch?v=IbDTSSXopT0",
       "thumbnail": "https://i.ytimg.com/vi/IbDTSSXopT0/mqdefault.jpg",
       "published": "2026-07-05T11:00:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) CHAPECOENSE | AMISTOSO EM SINOP / MATO GROSSO",
-      "videoId": "amca1eza3vI",
-      "url": "https://www.youtube.com/watch?v=amca1eza3vI",
-      "thumbnail": "https://i.ytimg.com/vi/amca1eza3vI/mqdefault.jpg",
-      "published": "2026-07-05T01:06:17Z"
     }
   ]
 }
