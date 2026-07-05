@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T10:00:51.725225+00:00",
+  "updated_at": "2026-07-05T11:01:08.477153+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 05/07 - GRÊMIO 4X1 ATHLETICO PR (BRASILEIRÃO 2009)",
+      "videoId": "IbDTSSXopT0",
+      "url": "https://www.youtube.com/watch?v=IbDTSSXopT0",
+      "thumbnail": "https://i.ytimg.com/vi/IbDTSSXopT0/mqdefault.jpg",
+      "published": "2026-07-05T11:00:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) CHAPECOENSE | AMISTOSO EM SINOP / MATO GROSSO",
       "videoId": "amca1eza3vI",
       "url": "https://www.youtube.com/watch?v=amca1eza3vI",
       "thumbnail": "https://i.ytimg.com/vi/amca1eza3vI/mqdefault.jpg",
       "published": "2026-07-05T01:06:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PERDE PARA A CHAPECOENSE NO AMISTOSO | LUÍS CASTRO FELIZ COM SEGUNDO TEMPO | PLANTÃO IMORTAL",
-      "videoId": "npIpBbw3W_8",
-      "url": "https://www.youtube.com/watch?v=npIpBbw3W_8",
-      "thumbnail": "https://i.ytimg.com/vi/npIpBbw3W_8/mqdefault_live.jpg",
-      "published": "2026-07-05T00:55:50Z"
     }
   ]
 }
