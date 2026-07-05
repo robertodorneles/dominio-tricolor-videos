@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T01:00:50.890594+00:00",
+  "updated_at": "2026-07-05T02:01:01.052414+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CHAPECOENSE X GRÊMIO",
+      "videoId": "aJrHi8Vr_XE",
+      "url": "https://www.youtube.com/watch?v=aJrHi8Vr_XE",
+      "thumbnail": "https://i.ytimg.com/vi/aJrHi8Vr_XE/mqdefault.jpg",
+      "published": "2026-07-05T01:21:42Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🇪🇪⚫️⚽️🔵 O GRÊMIO ESTÁ CADA VEZ PIOR",
       "videoId": "LfqvTgMTZXQ",
       "url": "https://www.youtube.com/watch?v=LfqvTgMTZXQ",
       "thumbnail": "https://i.ytimg.com/vi/LfqvTgMTZXQ/mqdefault.jpg",
       "published": "2026-07-05T00:45:57Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CHAPECOENSE X GRÊMIO",
-      "videoId": "aJrHi8Vr_XE",
-      "url": "https://www.youtube.com/watch?v=aJrHi8Vr_XE",
-      "thumbnail": "https://i.ytimg.com/vi/aJrHi8Vr_XE/mqdefault_live.jpg",
-      "published": "2026-07-04T20:00:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Chape 2 x 1 Grêmio: não evoluímos NADA",
+      "videoId": "aEttjRlF4qM",
+      "url": "https://www.youtube.com/watch?v=aEttjRlF4qM",
+      "thumbnail": "https://i.ytimg.com/vi/aEttjRlF4qM/mqdefault.jpg",
+      "published": "2026-07-05T01:10:11Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #621: Mec e Hull City | Mandaca | Adriel | Monsalve | Wallace e time do Grêmio",
       "videoId": "hpiRPj7yPkg",
       "url": "https://www.youtube.com/watch?v=hpiRPj7yPkg",
       "thumbnail": "https://i.ytimg.com/vi/hpiRPj7yPkg/mqdefault.jpg",
       "published": "2026-07-03T22:24:24Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O pedido do Juventude para liberar Mandaca ao Grêmio",
-      "videoId": "W2W2Gj6BeqY",
-      "url": "https://www.youtube.com/watch?v=W2W2Gj6BeqY",
-      "thumbnail": "https://i.ytimg.com/vi/W2W2Gj6BeqY/mqdefault.jpg",
-      "published": "2026-07-03T15:10:37Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DEBATE BOLA | GRÊMIO 1 X 2 CHAPECOENSE | AMISTOSO | 04/07/2026",
+      "title": "04/07/2026 | GRÊMIO 1 X 2 CHAPECOENSE | AMISTOSO | LIVE COMPLETA",
       "videoId": "Om9cXgbLPCM",
       "url": "https://www.youtube.com/watch?v=Om9cXgbLPCM",
-      "thumbnail": "https://i.ytimg.com/vi/Om9cXgbLPCM/mqdefault_live.jpg",
-      "published": "2026-07-04T20:00:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/Om9cXgbLPCM/mqdefault.jpg",
+      "published": "2026-07-05T01:44:30Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "03/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "vEo_uWeH94E",
-      "url": "https://www.youtube.com/watch?v=vEo_uWeH94E",
-      "thumbnail": "https://i.ytimg.com/vi/vEo_uWeH94E/mqdefault.jpg",
-      "published": "2026-07-03T23:27:41Z"
+      "title": "04/07/2026 | GRÊMIO 1 X 2 CHAPECOENSE | AMISTOSO | LIVE COMPLETA",
+      "videoId": "PO4xeSsj69g",
+      "url": "https://www.youtube.com/watch?v=PO4xeSsj69g",
+      "thumbnail": "https://i.ytimg.com/vi/PO4xeSsj69g/mqdefault_live.jpg",
+      "published": "2026-07-05T01:30:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) CHAPECOENSE | AMISTOSO EM SINOP / MATO GROSSO",
+      "videoId": "amca1eza3vI",
+      "url": "https://www.youtube.com/watch?v=amca1eza3vI",
+      "thumbnail": "https://i.ytimg.com/vi/amca1eza3vI/mqdefault.jpg",
+      "published": "2026-07-05T01:06:17Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=npIpBbw3W_8",
       "thumbnail": "https://i.ytimg.com/vi/npIpBbw3W_8/mqdefault_live.jpg",
       "published": "2026-07-05T00:55:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) CHAPECOENSE | AMISTOSO EM SINOP / MATO GROSSO",
-      "videoId": "amca1eza3vI",
-      "url": "https://www.youtube.com/watch?v=amca1eza3vI",
-      "thumbnail": "https://i.ytimg.com/vi/amca1eza3vI/mqdefault_live.jpg",
-      "published": "2026-07-05T00:52:32Z"
     }
   ]
 }
