@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-05T22:01:01.797580+00:00",
+  "updated_at": "2026-07-05T23:01:09.506670+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Processo saiu da FIFA e foi para o TAS | Os riscos do caso Camilo",
+      "videoId": "7jMcH6KZQeA",
+      "url": "https://www.youtube.com/watch?v=7jMcH6KZQeA",
+      "thumbnail": "https://i.ytimg.com/vi/7jMcH6KZQeA/mqdefault.jpg",
+      "published": "2026-07-05T22:53:04Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 QUEM SERÁ O 9? | VITORIA EM TESTE | PAPO COM ALERRANDRO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=2ITOrce0KcM",
       "thumbnail": "https://i.ytimg.com/vi/2ITOrce0KcM/mqdefault.jpg",
       "published": "2026-07-05T05:40:51Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: CASTRO PREOCUPADO! | VILLASANTI ESTÁ DE VOLTA | KANNEMANN MANDA RECADO",
-      "videoId": "mY2mq5qN_cA",
-      "url": "https://www.youtube.com/watch?v=mY2mq5qN_cA",
-      "thumbnail": "https://i.ytimg.com/vi/mY2mq5qN_cA/mqdefault.jpg",
-      "published": "2026-07-05T05:00:37Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "BRASIL PERDE E COMETE OS MESMOS ERROS! #Futebol #haaland",
+      "videoId": "_7Xau-cqoBk",
+      "url": "https://www.youtube.com/watch?v=_7Xau-cqoBk",
+      "thumbnail": "https://i.ytimg.com/vi/_7Xau-cqoBk/mqdefault.jpg",
+      "published": "2026-07-05T22:14:53Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "SALÁRIOS ATRASADOS E DÍVIDA PASSA DE 1 BILHÃO! O PROBLEMA DO GRÊMIO!",
       "videoId": "FU2JDOA6EFw",
       "url": "https://www.youtube.com/watch?v=FU2JDOA6EFw",
       "thumbnail": "https://i.ytimg.com/vi/FU2JDOA6EFw/mqdefault.jpg",
       "published": "2026-07-05T10:00:10Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "O AVISO FOI DADO! MUDANÇA NOS PRÓXIMOS DIAS? | COMENTÁRIO CHAPECOENSE 2 X1 GRÊMIO.",
-      "videoId": "lXj_bS2Jzgk",
-      "url": "https://www.youtube.com/watch?v=lXj_bS2Jzgk",
-      "thumbnail": "https://i.ytimg.com/vi/lXj_bS2Jzgk/mqdefault.jpg",
-      "published": "2026-07-05T00:50:17Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "05/07/2026 | DE OLHO NO HEXA | RÁDIO GRENAL",
+      "title": "05/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "PO4xeSsj69g",
       "url": "https://www.youtube.com/watch?v=PO4xeSsj69g",
       "thumbnail": "https://i.ytimg.com/vi/PO4xeSsj69g/mqdefault_live.jpg",
-      "published": "2026-07-05T16:08:30Z"
+      "published": "2026-07-05T23:00:20Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO PERDE PARA A CHAPECOENSE NO AMISTOSO | LUÍS CASTRO FELIZ COM SEGUNDO TEMPO | PLANTÃO IMORTAL",
-      "videoId": "npIpBbw3W_8",
-      "url": "https://www.youtube.com/watch?v=npIpBbw3W_8",
-      "thumbnail": "https://i.ytimg.com/vi/npIpBbw3W_8/mqdefault.jpg",
-      "published": "2026-07-05T14:36:44Z"
+      "title": "TIMELINE IMORTAL #106 — AMISTOSO GERA PREOCUPAÇÃO NO GRÊMIO | A SEMANA DE PREPARAÇÃO",
+      "videoId": "pRvYD93cHio",
+      "url": "https://www.youtube.com/watch?v=pRvYD93cHio",
+      "thumbnail": "https://i.ytimg.com/vi/pRvYD93cHio/mqdefault_live.jpg",
+      "published": "2026-07-05T22:58:07Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 05/07 - GRÊMIO 4X1 ATHLETICO PR (BRASILEIRÃO 2009)",
-      "videoId": "IbDTSSXopT0",
-      "url": "https://www.youtube.com/watch?v=IbDTSSXopT0",
-      "thumbnail": "https://i.ytimg.com/vi/IbDTSSXopT0/mqdefault.jpg",
-      "published": "2026-07-05T11:00:21Z"
+      "title": "TEVE AMISTOSO E TEVE DERROTA DO GRÊMIO NO FINAL DE SEMANA | REPERCUSSÕES | REDAÇÃO IMORTAL",
+      "videoId": "JrAP-GgaOIk",
+      "url": "https://www.youtube.com/watch?v=JrAP-GgaOIk",
+      "thumbnail": "https://i.ytimg.com/vi/JrAP-GgaOIk/mqdefault_live.jpg",
+      "published": "2026-07-05T22:56:25Z"
     }
   ]
 }
