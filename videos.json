@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T10:01:09.642095+00:00",
+  "updated_at": "2026-07-06T11:01:12.894310+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Brasil eliminado da Copa, últimas da política, economia e mais | Gaúcha Atualidade | 06/07/2026",
+      "videoId": "lFvr1Qir0EA",
+      "url": "https://www.youtube.com/watch?v=lFvr1Qir0EA",
+      "thumbnail": "https://i.ytimg.com/vi/lFvr1Qir0EA/mqdefault_live.jpg",
+      "published": "2026-07-06T11:00:42Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "INDEFINIÇÕES NA DIREITA, CABELEIREIRO AOS SÁBADOS E REALITY DA VIIH TUBE | RivoNews #138 (reprise)",
       "videoId": "ir0Wl3hyHn4",
       "url": "https://www.youtube.com/watch?v=ir0Wl3hyHn4",
       "thumbnail": "https://i.ytimg.com/vi/ir0Wl3hyHn4/mqdefault.jpg",
       "published": "2026-07-05T23:30:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "VENEZUELA: número de mortos sobe para quase 3 mil",
-      "videoId": "82lFAgzVBtY",
-      "url": "https://www.youtube.com/watch?v=82lFAgzVBtY",
-      "thumbnail": "https://i.ytimg.com/vi/82lFAgzVBtY/mqdefault.jpg",
-      "published": "2026-07-05T19:33:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "06/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "zUvOLlVWcdY",
+      "url": "https://www.youtube.com/watch?v=zUvOLlVWcdY",
+      "thumbnail": "https://i.ytimg.com/vi/zUvOLlVWcdY/mqdefault_live.jpg",
+      "published": "2026-07-06T10:31:00Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "05/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "PO4xeSsj69g",
       "url": "https://www.youtube.com/watch?v=PO4xeSsj69g",
@@ -219,28 +227,20 @@
       "published": "2026-07-05T23:18:11Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "04/07/2026 | GRÊMIO 1 X 2 CHAPECOENSE | AMISTOSO | LIVE COMPLETA",
-      "videoId": "Om9cXgbLPCM",
-      "url": "https://www.youtube.com/watch?v=Om9cXgbLPCM",
-      "thumbnail": "https://i.ytimg.com/vi/Om9cXgbLPCM/mqdefault.jpg",
-      "published": "2026-07-05T01:44:30Z"
+      "channel": "Radio Imortal",
+      "title": "TEVE AMISTOSO E TEVE DERROTA DO GRÊMIO NO FINAL DE SEMANA | MANDACA ASSINOU OU NÃO? | REDAÇÃO",
+      "videoId": "JrAP-GgaOIk",
+      "url": "https://www.youtube.com/watch?v=JrAP-GgaOIk",
+      "thumbnail": "https://i.ytimg.com/vi/JrAP-GgaOIk/mqdefault_live.jpg",
+      "published": "2026-07-06T11:00:33Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 06/07",
-      "videoId": "bbqU2d6xkWY",
-      "url": "https://www.youtube.com/watch?v=bbqU2d6xkWY",
-      "thumbnail": "https://i.ytimg.com/vi/bbqU2d6xkWY/mqdefault_live.jpg",
-      "published": "2026-07-06T01:04:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #106 — MANDACA NEGA ACERTO COM O GRÊMIO | AMISTOSO PREOCUPA A TODOS",
-      "videoId": "pRvYD93cHio",
-      "url": "https://www.youtube.com/watch?v=pRvYD93cHio",
-      "thumbnail": "https://i.ytimg.com/vi/pRvYD93cHio/mqdefault_live.jpg",
-      "published": "2026-07-05T22:58:07Z"
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 06/07 - GRÊMIO 2X1 AMÉRICA DE CALI (LIBERTADORES 1983)",
+      "videoId": "cmusDXhJSFQ",
+      "url": "https://www.youtube.com/watch?v=cmusDXhJSFQ",
+      "thumbnail": "https://i.ytimg.com/vi/cmusDXhJSFQ/mqdefault.jpg",
+      "published": "2026-07-06T11:00:21Z"
     }
   ]
 }
