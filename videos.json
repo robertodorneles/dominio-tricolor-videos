@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T22:10:54.708710+00:00",
+  "updated_at": "2026-07-06T23:01:00.752604+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "\"Tamo num mato sem cachorro\": influenciadora Lara Rossato explica gírias que só gaúchos entendem",
+      "videoId": "1CTTthacFAE",
+      "url": "https://www.youtube.com/watch?v=1CTTthacFAE",
+      "thumbnail": "https://i.ytimg.com/vi/1CTTthacFAE/mqdefault.jpg",
+      "published": "2026-07-06T22:24:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A ELIMINAÇÃO DO BRASIL PARA A NORUEGA | DANIEL CARVALHO É O CONVIDADO | COPANDO TUDO | 06/07/2026",
       "videoId": "W5B3WBVF8Jg",
       "url": "https://www.youtube.com/watch?v=W5B3WBVF8Jg",
       "thumbnail": "https://i.ytimg.com/vi/W5B3WBVF8Jg/mqdefault_live.jpg",
       "published": "2026-07-06T21:58:16Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "INCÊNDIO DESTRÓI farmácia e atinge imóveis no Centro de Pelotas | GZH Zona Sul",
-      "videoId": "TiViEtDWLYY",
-      "url": "https://www.youtube.com/watch?v=TiViEtDWLYY",
-      "thumbnail": "https://i.ytimg.com/vi/TiViEtDWLYY/mqdefault.jpg",
-      "published": "2026-07-06T20:00:29Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ATRASA SALÁRIOS | MANDACA NEGA ACERTO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #105 - 06/07",
+      "videoId": "4j0ZQ7BEZHY",
+      "url": "https://www.youtube.com/watch?v=4j0ZQ7BEZHY",
+      "thumbnail": "https://i.ytimg.com/vi/4j0ZQ7BEZHY/mqdefault_live.jpg",
+      "published": "2026-07-06T23:00:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AS PENDÊNCIAS DO GRÊMIO COM O GRUPO DE JOGADORES | ÚLTIMA SEMANA DE TESTES | IMORTAL FC",
       "videoId": "nhZdpL2oJho",
       "url": "https://www.youtube.com/watch?v=nhZdpL2oJho",
       "thumbnail": "https://i.ytimg.com/vi/nhZdpL2oJho/mqdefault.jpg",
       "published": "2026-07-06T22:10:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ATRASA SALÁRIOS | MANDACA NEGA ACERTO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #105 - 06/07",
-      "videoId": "4j0ZQ7BEZHY",
-      "url": "https://www.youtube.com/watch?v=4j0ZQ7BEZHY",
-      "thumbnail": "https://i.ytimg.com/vi/4j0ZQ7BEZHY/mqdefault_live.jpg",
-      "published": "2026-07-06T21:15:32Z"
     }
   ]
 }
