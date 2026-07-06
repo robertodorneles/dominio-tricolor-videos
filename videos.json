@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:01:11.279479+00:00",
+  "updated_at": "2026-07-06T15:01:05.546846+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "KCql5FrA12g",
       "url": "https://www.youtube.com/watch?v=KCql5FrA12g",
       "thumbnail": "https://i.ytimg.com/vi/KCql5FrA12g/mqdefault_live.jpg",
-      "published": "2026-07-06T13:53:58Z"
+      "published": "2026-07-06T14:50:37Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO DÁ FIASCO DE NOVO EM AMISTOSO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 06/07 - #583",
       "videoId": "vW_mrHdM05s",
       "url": "https://www.youtube.com/watch?v=vW_mrHdM05s",
-      "thumbnail": "https://i.ytimg.com/vi/vW_mrHdM05s/mqdefault_live.jpg",
-      "published": "2026-07-06T13:51:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/vW_mrHdM05s/mqdefault.jpg",
+      "published": "2026-07-06T14:21:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Salários atrasados no Grêmio: o impacto é a solução",
+      "videoId": "dnhGR6104hY",
+      "url": "https://www.youtube.com/watch?v=dnhGR6104hY",
+      "thumbnail": "https://i.ytimg.com/vi/dnhGR6104hY/mqdefault.jpg",
+      "published": "2026-07-06T14:50:20Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "A trágica receita do Grêmio | Precisamos entender URGENTEMENTE o que está acontecendo",
       "videoId": "kOauVnb8a5Q",
       "url": "https://www.youtube.com/watch?v=kOauVnb8a5Q",
       "thumbnail": "https://i.ytimg.com/vi/kOauVnb8a5Q/mqdefault.jpg",
       "published": "2026-07-05T13:20:58Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Chape 2 x 1 Grêmio: não evoluímos NADA",
-      "videoId": "aEttjRlF4qM",
-      "url": "https://www.youtube.com/watch?v=aEttjRlF4qM",
-      "thumbnail": "https://i.ytimg.com/vi/aEttjRlF4qM/mqdefault.jpg",
-      "published": "2026-07-05T01:10:11Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "O SEGREDO PARA DEFENDER PÊNALTI #dudagarbi #umassadopara #jogodobrasil",
-      "videoId": "A9GW2xkSnZ0",
-      "url": "https://www.youtube.com/watch?v=A9GW2xkSnZ0",
-      "thumbnail": "https://i.ytimg.com/vi/A9GW2xkSnZ0/mqdefault.jpg",
-      "published": "2026-07-06T13:57:39Z"
+      "title": "OS GOLEIROS DO BRASIL SÃO BONS? #dudagarbi #umassadopara #jogodobrasil",
+      "videoId": "TyJuGXFs7lc",
+      "url": "https://www.youtube.com/watch?v=TyJuGXFs7lc",
+      "thumbnail": "https://i.ytimg.com/vi/TyJuGXFs7lc/mqdefault.jpg",
+      "published": "2026-07-06T14:45:37Z"
     },
     {
       "channel": "Duda Garbi",
@@ -167,8 +167,8 @@
       "title": "BRASIL eliminado da Copa, Fifa suspende cartão vermelho dos EUA e mais | Timeline 06/07/26",
       "videoId": "NteaJr6GzUo",
       "url": "https://www.youtube.com/watch?v=NteaJr6GzUo",
-      "thumbnail": "https://i.ytimg.com/vi/NteaJr6GzUo/mqdefault_live.jpg",
-      "published": "2026-07-06T13:55:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/NteaJr6GzUo/mqdefault.jpg",
+      "published": "2026-07-06T14:39:42Z"
     },
     {
       "channel": "GZH Digital",
