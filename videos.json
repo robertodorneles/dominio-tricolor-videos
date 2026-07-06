@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-06T20:50:34.281721+00:00",
+  "updated_at": "2026-07-06T21:00:57.858143+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O BURACO FINANCEIRO É REAL | A DÍVIDA NO VESTIÁRIO E O ATRASO AOS JOGADORES",
+      "videoId": "T-Yf0PH2rW8",
+      "url": "https://www.youtube.com/watch?v=T-Yf0PH2rW8",
+      "thumbnail": "https://i.ytimg.com/vi/T-Yf0PH2rW8/mqdefault.jpg",
+      "published": "2026-07-06T21:00:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 GAROTO É O NOME DA INTERTEMPORADA | MAIA E O DILEMA | REUNIÃO COM ROCHET",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=fKSSU4Jewp4",
       "thumbnail": "https://i.ytimg.com/vi/fKSSU4Jewp4/mqdefault.jpg",
       "published": "2026-07-06T07:26:57Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: JUVENTUDE DÁ O RECADO | MANDACA EMPACA? | KANNEMANN FALA DO FUTURO",
-      "videoId": "801xRwwwFGQ",
-      "url": "https://www.youtube.com/watch?v=801xRwwwFGQ",
-      "thumbnail": "https://i.ytimg.com/vi/801xRwwwFGQ/mqdefault.jpg",
-      "published": "2026-07-06T06:00:05Z"
     },
     {
       "channel": "Bage TV",
