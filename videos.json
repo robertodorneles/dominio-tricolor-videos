@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T16:17:32.322185+00:00",
+  "updated_at": "2026-07-06T17:00:57.247468+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CRISE SEM FIM! DUPLA COM SALÁRIOS ATRASADOS E PRESSÃO NO BRASILEIRÃO🔸RESENHA FORA DA SALA🔸#080",
+      "videoId": "37MnZzK7G_0",
+      "url": "https://www.youtube.com/watch?v=37MnZzK7G_0",
+      "thumbnail": "https://i.ytimg.com/vi/37MnZzK7G_0/mqdefault_live.jpg",
+      "published": "2026-07-06T16:32:53Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #016",
       "videoId": "KCql5FrA12g",
       "url": "https://www.youtube.com/watch?v=KCql5FrA12g",
@@ -27,12 +35,12 @@
       "published": "2026-07-06T15:09:03Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO DÁ FIASCO DE NOVO EM AMISTOSO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 06/07 - #583",
-      "videoId": "vW_mrHdM05s",
-      "url": "https://www.youtube.com/watch?v=vW_mrHdM05s",
-      "thumbnail": "https://i.ytimg.com/vi/vW_mrHdM05s/mqdefault.jpg",
-      "published": "2026-07-06T14:21:41Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVO REFORÇO NA LISTA DO GRÊMIO | REVIRAVOLTA COM CONTRATAÇÃO? | AINDA SOBRE O BRASIL NA COPA..",
+      "videoId": "bd55vOIm__c",
+      "url": "https://www.youtube.com/watch?v=bd55vOIm__c",
+      "thumbnail": "https://i.ytimg.com/vi/bd55vOIm__c/mqdefault.jpg",
+      "published": "2026-07-06T16:23:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=dXPnsUl1CDs",
       "thumbnail": "https://i.ytimg.com/vi/dXPnsUl1CDs/mqdefault.jpg",
       "published": "2026-07-05T23:04:33Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨VAZOU BOMBA DOS BASTIDORES! CONFLITO INTERNO | NÃO VAMOS NOS ENGANAR COM O ATUAL GRÊMIO!",
-      "videoId": "eV45vD-tleM",
-      "url": "https://www.youtube.com/watch?v=eV45vD-tleM",
-      "thumbnail": "https://i.ytimg.com/vi/eV45vD-tleM/mqdefault.jpg",
-      "published": "2026-07-05T15:30:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "SALÁRIOS ATRASADOS, DÍVIDA E CRISE AUMENTANDO! | MANDACA NÃO VEM MAIS? | O QUE SERÁ DO GRÊMIO?",
+      "videoId": "7UDMEYJQhs4",
+      "url": "https://www.youtube.com/watch?v=7UDMEYJQhs4",
+      "thumbnail": "https://i.ytimg.com/vi/7UDMEYJQhs4/mqdefault.jpg",
+      "published": "2026-07-06T16:57:51Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "GRÊMIO CONTRATOU MANDACA! | JUVENTUDE QUER DINHEIRO, E AGORA? | O SONHO PARA REFORÇO",
       "videoId": "91RM8Dja9tc",
       "url": "https://www.youtube.com/watch?v=91RM8Dja9tc",
       "thumbnail": "https://i.ytimg.com/vi/91RM8Dja9tc/mqdefault.jpg",
       "published": "2026-07-03T13:00:21Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "PROPOSTA RECEBIDA! | MEIA PODE SAIR | DISPUTA ABERTA NO TIME | TITULAR RENOVANDO, OUTRO LONGE",
-      "videoId": "rKMJjEvVvvw",
-      "url": "https://www.youtube.com/watch?v=rKMJjEvVvvw",
-      "thumbnail": "https://i.ytimg.com/vi/rKMJjEvVvvw/mqdefault.jpg",
-      "published": "2026-07-02T20:58:38Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS PENDÊNCIAS DO GRÊMIO COM O GRUPO DE JOGADORES | ÚLTIMA SEMANA DE TESTES | IMORTAL FC",
+      "videoId": "nhZdpL2oJho",
+      "url": "https://www.youtube.com/watch?v=nhZdpL2oJho",
+      "thumbnail": "https://i.ytimg.com/vi/nhZdpL2oJho/mqdefault_live.jpg",
+      "published": "2026-07-06T16:59:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #106 — MANDACA NEGA ACERTO COM O GRÊMIO | AMISTOSO PREOCUPA A TODOS",
       "videoId": "pRvYD93cHio",
       "url": "https://www.youtube.com/watch?v=pRvYD93cHio",
       "thumbnail": "https://i.ytimg.com/vi/pRvYD93cHio/mqdefault.jpg",
       "published": "2026-07-06T15:18:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TEVE AMISTOSO E TEVE DERROTA DO GRÊMIO NO FINAL DE SEMANA | MANDACA ASSINOU OU NÃO? | REDAÇÃO",
-      "videoId": "JrAP-GgaOIk",
-      "url": "https://www.youtube.com/watch?v=JrAP-GgaOIk",
-      "thumbnail": "https://i.ytimg.com/vi/JrAP-GgaOIk/mqdefault.jpg",
-      "published": "2026-07-06T13:14:09Z"
     }
   ]
 }
