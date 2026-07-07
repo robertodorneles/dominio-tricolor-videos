@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:01:11.934476+00:00",
+  "updated_at": "2026-07-07T16:01:01.626809+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #017",
       "videoId": "VDDbQy7g5ro",
       "url": "https://www.youtube.com/watch?v=VDDbQy7g5ro",
-      "thumbnail": "https://i.ytimg.com/vi/VDDbQy7g5ro/mqdefault_live.jpg",
-      "published": "2026-07-07T14:51:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/VDDbQy7g5ro/mqdefault.jpg",
+      "published": "2026-07-07T15:14:46Z"
     },
     {
       "channel": "Bage TV",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PRESIDENTE ODORICO AUSENTE? #futebol #grêmio",
+      "videoId": "9El5kk9sj3Y",
+      "url": "https://www.youtube.com/watch?v=9El5kk9sj3Y",
+      "thumbnail": "https://i.ytimg.com/vi/9El5kk9sj3Y/mqdefault.jpg",
+      "published": "2026-07-07T16:00:20Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VIERY PRA PAGAR A FOLHA ATÉ O FIM DO ANO? #gremio #Futebol.",
       "videoId": "bdTZy7W1V7M",
       "url": "https://www.youtube.com/watch?v=bdTZy7W1V7M",
@@ -107,12 +115,12 @@
       "published": "2026-07-07T13:00:27Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "VIERY PRA PAGAR A FOLHA ATÉ O FIM DO ANO? #gremio #Futebol",
-      "videoId": "241Zfyr2ZB8",
-      "url": "https://www.youtube.com/watch?v=241Zfyr2ZB8",
-      "thumbnail": "https://i.ytimg.com/vi/241Zfyr2ZB8/mqdefault.jpg",
-      "published": "2026-07-07T13:00:20Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "SALÁRIOS PAGOS! | DINHEIRO ENTRANDO E SOLUÇÕES ENCONTRADAS | VENDA FEITA | FOLGA PARA JOGADORES",
+      "videoId": "E7TCeRAHz5w",
+      "url": "https://www.youtube.com/watch?v=E7TCeRAHz5w",
+      "thumbnail": "https://i.ytimg.com/vi/E7TCeRAHz5w/mqdefault.jpg",
+      "published": "2026-07-07T15:32:56Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -123,28 +131,20 @@
       "published": "2026-07-06T16:57:51Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "GRÊMIO CONTRATOU MANDACA! | JUVENTUDE QUER DINHEIRO, E AGORA? | O SONHO PARA REFORÇO",
-      "videoId": "91RM8Dja9tc",
-      "url": "https://www.youtube.com/watch?v=91RM8Dja9tc",
-      "thumbnail": "https://i.ytimg.com/vi/91RM8Dja9tc/mqdefault.jpg",
-      "published": "2026-07-03T13:00:21Z"
+      "channel": "Duda Garbi",
+      "title": "O SEGREDO DO FLAMENGO ERA ESSE  #dudagarbi #umassadopara #jogodobrasil",
+      "videoId": "TnZP7eHZmLY",
+      "url": "https://www.youtube.com/watch?v=TnZP7eHZmLY",
+      "thumbnail": "https://i.ytimg.com/vi/TnZP7eHZmLY/mqdefault.jpg",
+      "published": "2026-07-07T15:27:48Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #28 - 07.07 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "_OO-FpSGh54",
-      "url": "https://www.youtube.com/watch?v=_OO-FpSGh54",
-      "thumbnail": "https://i.ytimg.com/vi/_OO-FpSGh54/mqdefault.jpg",
-      "published": "2026-07-07T13:36:58Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "OS GOLEIROS DO BRASIL SÃO BONS? #dudagarbi #umassadopara #jogodobrasil",
-      "videoId": "TyJuGXFs7lc",
-      "url": "https://www.youtube.com/watch?v=TyJuGXFs7lc",
-      "thumbnail": "https://i.ytimg.com/vi/TyJuGXFs7lc/mqdefault.jpg",
-      "published": "2026-07-06T14:45:37Z"
+      "title": "BASTIDOR INÉDITO DA FINAL HISTÓRICA #dudagarbi #umassadopara #jogodobrasil",
+      "videoId": "vKUog1Olqxg",
+      "url": "https://www.youtube.com/watch?v=vKUog1Olqxg",
+      "thumbnail": "https://i.ytimg.com/vi/vKUog1Olqxg/mqdefault.jpg",
+      "published": "2026-07-07T15:26:57Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #107 — COMO ESTÃO OS NEGÓCIOS DO GRÊMIO? | CONVOCADOS GANHAM DESCANSO",
       "videoId": "Ap-jD1smBkg",
       "url": "https://www.youtube.com/watch?v=Ap-jD1smBkg",
-      "thumbnail": "https://i.ytimg.com/vi/Ap-jD1smBkg/mqdefault_live.jpg",
-      "published": "2026-07-07T15:00:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/Ap-jD1smBkg/mqdefault.jpg",
+      "published": "2026-07-07T15:21:36Z"
     },
     {
       "channel": "Radio Imortal",
