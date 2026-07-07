@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T11:00:59.048878+00:00",
+  "updated_at": "2026-07-07T11:45:01.717190+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 07/07/2026",
+      "title": "Hamas anuncia saída do governo de Gaza, resgates na Venezuela e + | Gaúcha Atualidade | 07/07/2026",
       "videoId": "P5xpOJuZ9aw",
       "url": "https://www.youtube.com/watch?v=P5xpOJuZ9aw",
       "thumbnail": "https://i.ytimg.com/vi/P5xpOJuZ9aw/mqdefault_live.jpg",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "07/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "hZNTXEH8Lb8",
+      "url": "https://www.youtube.com/watch?v=hZNTXEH8Lb8",
+      "thumbnail": "https://i.ytimg.com/vi/hZNTXEH8Lb8/mqdefault_live.jpg",
+      "published": "2026-07-07T11:04:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "06/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "zUvOLlVWcdY",
       "url": "https://www.youtube.com/watch?v=zUvOLlVWcdY",
@@ -219,12 +227,12 @@
       "published": "2026-07-06T23:27:48Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "06/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "hZNTXEH8Lb8",
-      "url": "https://www.youtube.com/watch?v=hZNTXEH8Lb8",
-      "thumbnail": "https://i.ytimg.com/vi/hZNTXEH8Lb8/mqdefault_live.jpg",
-      "published": "2026-07-06T23:03:12Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO TENTA RESOLVER PROBLEMAS FINANCEIROS | A SITUAÇÃO DO GRAMADO DA ARENA | REDAÇÃO IMORTAL",
+      "videoId": "Fg-jOL8d2G8",
+      "url": "https://www.youtube.com/watch?v=Fg-jOL8d2G8",
+      "thumbnail": "https://i.ytimg.com/vi/Fg-jOL8d2G8/mqdefault_live.jpg",
+      "published": "2026-07-07T11:01:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=_3Uh0zY1uc0",
       "thumbnail": "https://i.ytimg.com/vi/_3Uh0zY1uc0/mqdefault.jpg",
       "published": "2026-07-07T11:00:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 07/07",
-      "videoId": "yelXkqRSgDw",
-      "url": "https://www.youtube.com/watch?v=yelXkqRSgDw",
-      "thumbnail": "https://i.ytimg.com/vi/yelXkqRSgDw/mqdefault_live.jpg",
-      "published": "2026-07-07T02:49:41Z"
     }
   ]
 }
