@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-07T18:01:14.124502+00:00",
+  "updated_at": "2026-07-07T19:01:11.613362+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O GRANDE NEGÓCIO DA DIREÇÃO | PREJUÍZO RECUPERADO | AREZO E PENAROL",
+      "videoId": "cWKIO1t0fLI",
+      "url": "https://www.youtube.com/watch?v=cWKIO1t0fLI",
+      "thumbnail": "https://i.ytimg.com/vi/cWKIO1t0fLI/mqdefault.jpg",
+      "published": "2026-07-07T18:10:14Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter KTO: 🔥 A LIMPA SEGUE | REUNIÃO COM ROCHET | MAIS 3 SAINDO",
@@ -11,12 +19,12 @@
       "published": "2026-07-07T08:08:36Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: SALÁRIOS PAGOS | NOVA ETAPA NA ARENA | WEVERTON FORA",
-      "videoId": "rAdStnHVF3c",
-      "url": "https://www.youtube.com/watch?v=rAdStnHVF3c",
-      "thumbnail": "https://i.ytimg.com/vi/rAdStnHVF3c/mqdefault.jpg",
-      "published": "2026-07-07T05:00:19Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO E OS PROBLEMAS SALARIAIS🔹 THE TARDE 🔹#181",
+      "videoId": "HC2kOUcZug4",
+      "url": "https://www.youtube.com/watch?v=HC2kOUcZug4",
+      "thumbnail": "https://i.ytimg.com/vi/HC2kOUcZug4/mqdefault_live.jpg",
+      "published": "2026-07-07T18:22:17Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=VDDbQy7g5ro",
       "thumbnail": "https://i.ytimg.com/vi/VDDbQy7g5ro/mqdefault.jpg",
       "published": "2026-07-07T15:14:46Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIREÇÃO TOMA ATITUDE A FAVOR FOS JOGADORES🔵 FUTEBOL ALEGRIA DO GRÊMIO - 07/07 - #584",
-      "videoId": "0407A9donJs",
-      "url": "https://www.youtube.com/watch?v=0407A9donJs",
-      "thumbnail": "https://i.ytimg.com/vi/0407A9donJs/mqdefault.jpg",
-      "published": "2026-07-07T14:02:44Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (AMISTOSO 2026)",
+      "videoId": "oiJyam82mVo",
+      "url": "https://www.youtube.com/watch?v=oiJyam82mVo",
+      "thumbnail": "https://i.ytimg.com/vi/oiJyam82mVo/mqdefault_live.jpg",
+      "published": "2026-07-07T18:42:08Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X CHAPECOENSE (AMISTOSO 2026)",
       "videoId": "Zp7qa6Aq6YU",
       "url": "https://www.youtube.com/watch?v=Zp7qa6Aq6YU",
       "thumbnail": "https://i.ytimg.com/vi/Zp7qa6Aq6YU/mqdefault.jpg",
       "published": "2026-07-05T00:25:25Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO DESEMBARCA EM SINOP/MT COM FESTA DA TORCIDA",
-      "videoId": "Cl3kSPstyoc",
-      "url": "https://www.youtube.com/watch?v=Cl3kSPstyoc",
-      "thumbnail": "https://i.ytimg.com/vi/Cl3kSPstyoc/mqdefault.jpg",
-      "published": "2026-07-04T05:13:51Z"
     },
     {
       "channel": "GZH Digital",
@@ -172,11 +172,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Morre Benedito Ruy Barbosa, autor de Pantanal, Renascer e O Rei do Gado, aos 95 anos",
-      "videoId": "DPxp4mlmYG4",
-      "url": "https://www.youtube.com/watch?v=DPxp4mlmYG4",
-      "thumbnail": "https://i.ytimg.com/vi/DPxp4mlmYG4/mqdefault.jpg",
-      "published": "2026-07-07T16:32:38Z"
+      "title": "Germano Rigotto | Memórias do Piratini",
+      "videoId": "5KOCH0Ahi-Y",
+      "url": "https://www.youtube.com/watch?v=5KOCH0Ahi-Y",
+      "thumbnail": "https://i.ytimg.com/vi/5KOCH0Ahi-Y/mqdefault.jpg",
+      "published": "2026-07-07T16:38:45Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO E PEÑAROL CONFIRMAM NEGOCIAÇÃO POR AREZO | ÚLTIMAS NOTÍCIAS DO TRICOLOR | ESPLANADA",
+      "videoId": "uk0PZr87npA",
+      "url": "https://www.youtube.com/watch?v=uk0PZr87npA",
+      "thumbnail": "https://i.ytimg.com/vi/uk0PZr87npA/mqdefault.jpg",
+      "published": "2026-07-07T19:00:56Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #107 — COMO ESTÃO OS NEGÓCIOS DO GRÊMIO? | CONVOCADOS GANHAM DESCANSO",
       "videoId": "Ap-jD1smBkg",
       "url": "https://www.youtube.com/watch?v=Ap-jD1smBkg",
       "thumbnail": "https://i.ytimg.com/vi/Ap-jD1smBkg/mqdefault.jpg",
       "published": "2026-07-07T15:21:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO TENTA RESOLVER PROBLEMAS FINANCEIROS | A SITUAÇÃO DO GRAMADO DA ARENA | REDAÇÃO IMORTAL",
-      "videoId": "Fg-jOL8d2G8",
-      "url": "https://www.youtube.com/watch?v=Fg-jOL8d2G8",
-      "thumbnail": "https://i.ytimg.com/vi/Fg-jOL8d2G8/mqdefault.jpg",
-      "published": "2026-07-07T13:14:01Z"
     }
   ]
 }
