@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:24:21.314023+00:00",
+  "updated_at": "2026-07-07T15:01:11.934476+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #017",
+      "videoId": "VDDbQy7g5ro",
+      "url": "https://www.youtube.com/watch?v=VDDbQy7g5ro",
+      "thumbnail": "https://i.ytimg.com/vi/VDDbQy7g5ro/mqdefault_live.jpg",
+      "published": "2026-07-07T14:51:07Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DIREÇÃO TOMA ATITUDE A FAVOR FOS JOGADORES🔵 FUTEBOL ALEGRIA DO GRÊMIO - 07/07 - #584",
       "videoId": "0407A9donJs",
       "url": "https://www.youtube.com/watch?v=0407A9donJs",
@@ -27,12 +35,12 @@
       "published": "2026-07-07T14:02:44Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #017",
-      "videoId": "VDDbQy7g5ro",
-      "url": "https://www.youtube.com/watch?v=VDDbQy7g5ro",
-      "thumbnail": "https://i.ytimg.com/vi/VDDbQy7g5ro/mqdefault_live.jpg",
-      "published": "2026-07-07T13:45:21Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨LUIS CASTRO INDICA REFORÇO | SAÍDA ANUNCIADA | PROBLEMAS ÓBVIOS NO GRÊMIO!",
+      "videoId": "Z7OYMR_eDO8",
+      "url": "https://www.youtube.com/watch?v=Z7OYMR_eDO8",
+      "thumbnail": "https://i.ytimg.com/vi/Z7OYMR_eDO8/mqdefault.jpg",
+      "published": "2026-07-07T14:49:46Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-07-06T23:19:21Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO REFORÇO NA LISTA DO GRÊMIO | REVIRAVOLTA COM CONTRATAÇÃO? | AINDA SOBRE O BRASIL NA COPA..",
-      "videoId": "bd55vOIm__c",
-      "url": "https://www.youtube.com/watch?v=bd55vOIm__c",
-      "thumbnail": "https://i.ytimg.com/vi/bd55vOIm__c/mqdefault.jpg",
-      "published": "2026-07-06T16:23:03Z"
+      "channel": "Canal do CCD",
+      "title": "Status de reforços | Dinheiro de Viery | Time base do Grêmio para o retorno",
+      "videoId": "ynLNUKq3oCE",
+      "url": "https://www.youtube.com/watch?v=ynLNUKq3oCE",
+      "thumbnail": "https://i.ytimg.com/vi/ynLNUKq3oCE/mqdefault.jpg",
+      "published": "2026-07-07T14:42:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=dnhGR6104hY",
       "thumbnail": "https://i.ytimg.com/vi/dnhGR6104hY/mqdefault.jpg",
       "published": "2026-07-06T14:50:20Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "A trágica receita do Grêmio | Precisamos entender URGENTEMENTE o que está acontecendo",
-      "videoId": "kOauVnb8a5Q",
-      "url": "https://www.youtube.com/watch?v=kOauVnb8a5Q",
-      "thumbnail": "https://i.ytimg.com/vi/kOauVnb8a5Q/mqdefault.jpg",
-      "published": "2026-07-05T13:20:58Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "Israel ACABA com o ALÊ DORNELLES no DEBATE! | CORTES RÁDIO GRENAL | 07/07/2026",
+      "videoId": "BxprK-6M3KA",
+      "url": "https://www.youtube.com/watch?v=BxprK-6M3KA",
+      "thumbnail": "https://i.ytimg.com/vi/BxprK-6M3KA/mqdefault.jpg",
+      "published": "2026-07-07T14:58:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM FELIPE ALBARELLO - DIRETOR TESOUREIRO DA FECI | 07/07/26",
       "videoId": "A5QG8YPqAzs",
       "url": "https://www.youtube.com/watch?v=A5QG8YPqAzs",
@@ -219,20 +227,12 @@
       "published": "2026-07-07T13:37:52Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "07/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "hZNTXEH8Lb8",
-      "url": "https://www.youtube.com/watch?v=hZNTXEH8Lb8",
-      "thumbnail": "https://i.ytimg.com/vi/hZNTXEH8Lb8/mqdefault_live.jpg",
-      "published": "2026-07-07T11:04:44Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #107 — COMO ESTÃO OS NEGÓCIOS DO GRÊMIO? | CONVOCADOS GANHAM DESCANSO",
       "videoId": "Ap-jD1smBkg",
       "url": "https://www.youtube.com/watch?v=Ap-jD1smBkg",
       "thumbnail": "https://i.ytimg.com/vi/Ap-jD1smBkg/mqdefault_live.jpg",
-      "published": "2026-07-07T13:50:35Z"
+      "published": "2026-07-07T15:00:36Z"
     },
     {
       "channel": "Radio Imortal",
