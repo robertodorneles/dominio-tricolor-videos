@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:50:06.648189+00:00",
+  "updated_at": "2026-07-07T20:01:03.345815+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "HC2kOUcZug4",
       "url": "https://www.youtube.com/watch?v=HC2kOUcZug4",
       "thumbnail": "https://i.ytimg.com/vi/HC2kOUcZug4/mqdefault_live.jpg",
-      "published": "2026-07-07T18:22:17Z"
+      "published": "2026-07-07T19:50:21Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "SUPERTUFÃO: milhares de pessoas ficam sem energia nos EUA",
+      "videoId": "bgpt9kJsL-U",
+      "url": "https://www.youtube.com/watch?v=bgpt9kJsL-U",
+      "thumbnail": "https://i.ytimg.com/vi/bgpt9kJsL-U/mqdefault.jpg",
+      "published": "2026-07-07T19:50:16Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "5 lugares fora do óbvio para conhecer na Serra Gaúcha | GZH",
       "videoId": "Qdd3VOCzt8g",
       "url": "https://www.youtube.com/watch?v=Qdd3VOCzt8g",
       "thumbnail": "https://i.ytimg.com/vi/Qdd3VOCzt8g/mqdefault.jpg",
       "published": "2026-07-07T19:38:46Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Morre Benedito Ruy Barbosa, autor de Pantanal, Renascer e O Rei do Gado, aos 95 anos",
-      "videoId": "RRzLzGFNnKM",
-      "url": "https://www.youtube.com/watch?v=RRzLzGFNnKM",
-      "thumbnail": "https://i.ytimg.com/vi/RRzLzGFNnKM/mqdefault.jpg",
-      "published": "2026-07-07T19:36:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM LEANDERSON - EX-JOGADOR DO GRÊMIO | 06/07/2026 | RÁDIO GRENAL",
+      "videoId": "7cgHhEDC9s0",
+      "url": "https://www.youtube.com/watch?v=7cgHhEDC9s0",
+      "thumbnail": "https://i.ytimg.com/vi/7cgHhEDC9s0/mqdefault.jpg",
+      "published": "2026-07-07T19:52:51Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "Israel ACABA com o ALÊ DORNELLES no DEBATE! | CORTES RÁDIO GRENAL | 07/07/2026",
       "videoId": "BxprK-6M3KA",
       "url": "https://www.youtube.com/watch?v=BxprK-6M3KA",
@@ -219,20 +227,12 @@
       "published": "2026-07-07T14:58:03Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM FELIPE ALBARELLO - DIRETOR TESOUREIRO DA FECI | 07/07/26",
-      "videoId": "A5QG8YPqAzs",
-      "url": "https://www.youtube.com/watch?v=A5QG8YPqAzs",
-      "thumbnail": "https://i.ytimg.com/vi/A5QG8YPqAzs/mqdefault.jpg",
-      "published": "2026-07-07T13:37:52Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO EM TARDE DE COPA! | TITULAR VOLTA AOS TREINOS | IMORTAL FC",
       "videoId": "yelXkqRSgDw",
       "url": "https://www.youtube.com/watch?v=yelXkqRSgDw",
       "thumbnail": "https://i.ytimg.com/vi/yelXkqRSgDw/mqdefault_live.jpg",
-      "published": "2026-07-07T19:02:37Z"
+      "published": "2026-07-07T19:52:40Z"
     },
     {
       "channel": "Radio Imortal",
