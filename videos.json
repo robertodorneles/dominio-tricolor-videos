@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-07T01:00:57.031253+00:00",
+  "updated_at": "2026-07-07T02:01:04.644995+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: UM OLHO NA COPA E OUTRO NA DUPLA | FIM DE FESTA?!",
+      "videoId": "tVWBzq65WZw",
+      "url": "https://www.youtube.com/watch?v=tVWBzq65WZw",
+      "thumbnail": "https://i.ytimg.com/vi/tVWBzq65WZw/mqdefault_live.jpg",
+      "published": "2026-07-07T01:57:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O BURACO FINANCEIRO É REAL | A DÍVIDA NO VESTIÁRIO E O ATRASO AOS JOGADORES",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=T-Yf0PH2rW8",
       "thumbnail": "https://i.ytimg.com/vi/T-Yf0PH2rW8/mqdefault.jpg",
       "published": "2026-07-06T21:00:06Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 GAROTO É O NOME DA INTERTEMPORADA | MAIA E O DILEMA | REUNIÃO COM ROCHET",
-      "videoId": "fKSSU4Jewp4",
-      "url": "https://www.youtube.com/watch?v=fKSSU4Jewp4",
-      "thumbnail": "https://i.ytimg.com/vi/fKSSU4Jewp4/mqdefault.jpg",
-      "published": "2026-07-06T07:26:57Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Brasil eliminado da Copa, últimas da política, economia e mais | Gaúcha Atualidade | 06/07/2026",
+      "videoId": "lFvr1Qir0EA",
+      "url": "https://www.youtube.com/watch?v=lFvr1Qir0EA",
+      "thumbnail": "https://i.ytimg.com/vi/lFvr1Qir0EA/mqdefault.jpg",
+      "published": "2026-07-07T01:18:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Cortejo fúnebre de ALI KHAMENEI reúne multidão no IRÃ",
       "videoId": "0Z_zTqEPwJY",
       "url": "https://www.youtube.com/watch?v=0Z_zTqEPwJY",
       "thumbnail": "https://i.ytimg.com/vi/0Z_zTqEPwJY/mqdefault.jpg",
       "published": "2026-07-07T00:00:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "A ELIMINAÇÃO DO BRASIL PARA A NORUEGA | DANIEL CARVALHO É O CONVIDADO | COPANDO TUDO | 06/07/2026",
-      "videoId": "W5B3WBVF8Jg",
-      "url": "https://www.youtube.com/watch?v=W5B3WBVF8Jg",
-      "thumbnail": "https://i.ytimg.com/vi/W5B3WBVF8Jg/mqdefault.jpg",
-      "published": "2026-07-06T23:48:49Z"
     },
     {
       "channel": "Jeremias Wernek",
