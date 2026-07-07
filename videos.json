@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:00:56.697106+00:00",
+  "updated_at": "2026-07-07T22:57:40.448356+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #622: Jogador ganha pontos | Retorno importante | Venda de Arezo e mais",
+      "videoId": "jkif_0cPJ2w",
+      "url": "https://www.youtube.com/watch?v=jkif_0cPJ2w",
+      "thumbnail": "https://i.ytimg.com/vi/jkif_0cPJ2w/mqdefault.jpg",
+      "published": "2026-07-07T22:29:08Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Status de reforços | Dinheiro de Viery | Time base do Grêmio para o retorno",
       "videoId": "ynLNUKq3oCE",
       "url": "https://www.youtube.com/watch?v=ynLNUKq3oCE",
@@ -59,12 +67,12 @@
       "published": "2026-07-07T14:42:24Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Salários atrasados no Grêmio: o impacto é a solução",
-      "videoId": "dnhGR6104hY",
-      "url": "https://www.youtube.com/watch?v=dnhGR6104hY",
-      "thumbnail": "https://i.ytimg.com/vi/dnhGR6104hY/mqdefault.jpg",
-      "published": "2026-07-06T14:50:20Z"
+      "channel": "Canal do Farid",
+      "title": "FRACASSO, MEDIOCRIDADE, BURRO - OPNIÃO DO FARID",
+      "videoId": "0a1xnbuIu-Y",
+      "url": "https://www.youtube.com/watch?v=0a1xnbuIu-Y",
+      "thumbnail": "https://i.ytimg.com/vi/0a1xnbuIu-Y/mqdefault.jpg",
+      "published": "2026-07-07T22:37:20Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=Y8z-TtDr76E",
       "thumbnail": "https://i.ytimg.com/vi/Y8z-TtDr76E/mqdefault.jpg",
       "published": "2026-07-04T15:10:38Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "DEPOIS DAS SAÍDAS... QUE GRÊMIO VEREMOS AMANHÃ? - VAMOOO FARIDO 03.07.26",
-      "videoId": "NpNX3N8S95M",
-      "url": "https://www.youtube.com/watch?v=NpNX3N8S95M",
-      "thumbnail": "https://i.ytimg.com/vi/NpNX3N8S95M/mqdefault.jpg",
-      "published": "2026-07-04T10:04:31Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AREZO COMPRADO PELO PEÑAROL | AMUZU DE VOLTA | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #106 - 07/07",
+      "videoId": "79bBlGIwu2M",
+      "url": "https://www.youtube.com/watch?v=79bBlGIwu2M",
+      "thumbnail": "https://i.ytimg.com/vi/79bBlGIwu2M/mqdefault_live.jpg",
+      "published": "2026-07-07T22:10:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO EM TARDE DE COPA! | TITULAR VOLTA AOS TREINOS | IMORTAL FC",
       "videoId": "yelXkqRSgDw",
       "url": "https://www.youtube.com/watch?v=yelXkqRSgDw",
       "thumbnail": "https://i.ytimg.com/vi/yelXkqRSgDw/mqdefault.jpg",
       "published": "2026-07-07T20:06:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO E PEÑAROL CONFIRMAM NEGOCIAÇÃO POR AREZO | ÚLTIMAS NOTÍCIAS DO TRICOLOR | ESPLANADA",
-      "videoId": "uk0PZr87npA",
-      "url": "https://www.youtube.com/watch?v=uk0PZr87npA",
-      "thumbnail": "https://i.ytimg.com/vi/uk0PZr87npA/mqdefault.jpg",
-      "published": "2026-07-07T19:00:56Z"
     }
   ]
 }
