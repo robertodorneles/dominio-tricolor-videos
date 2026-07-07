@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T10:01:10.963039+00:00",
+  "updated_at": "2026-07-07T11:00:59.048878+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 07/07/2026",
+      "videoId": "P5xpOJuZ9aw",
+      "url": "https://www.youtube.com/watch?v=P5xpOJuZ9aw",
+      "thumbnail": "https://i.ytimg.com/vi/P5xpOJuZ9aw/mqdefault_live.jpg",
+      "published": "2026-07-07T10:57:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Brasil eliminado da Copa, últimas da política, economia e mais | Gaúcha Atualidade | 06/07/2026",
       "videoId": "lFvr1Qir0EA",
       "url": "https://www.youtube.com/watch?v=lFvr1Qir0EA",
       "thumbnail": "https://i.ytimg.com/vi/lFvr1Qir0EA/mqdefault.jpg",
       "published": "2026-07-07T01:18:02Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Cortejo fúnebre de ALI KHAMENEI reúne multidão no IRÃ",
-      "videoId": "0Z_zTqEPwJY",
-      "url": "https://www.youtube.com/watch?v=0Z_zTqEPwJY",
-      "thumbnail": "https://i.ytimg.com/vi/0Z_zTqEPwJY/mqdefault.jpg",
-      "published": "2026-07-07T00:00:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "06/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "hZNTXEH8Lb8",
       "url": "https://www.youtube.com/watch?v=hZNTXEH8Lb8",
       "thumbnail": "https://i.ytimg.com/vi/hZNTXEH8Lb8/mqdefault_live.jpg",
       "published": "2026-07-06T23:03:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 07/07 - inter 2X5 GRÊMIO (CITADINO 1940)",
+      "videoId": "_3Uh0zY1uc0",
+      "url": "https://www.youtube.com/watch?v=_3Uh0zY1uc0",
+      "thumbnail": "https://i.ytimg.com/vi/_3Uh0zY1uc0/mqdefault.jpg",
+      "published": "2026-07-07T11:00:23Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=yelXkqRSgDw",
       "thumbnail": "https://i.ytimg.com/vi/yelXkqRSgDw/mqdefault_live.jpg",
       "published": "2026-07-07T02:49:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 07/07",
-      "videoId": "uk0PZr87npA",
-      "url": "https://www.youtube.com/watch?v=uk0PZr87npA",
-      "thumbnail": "https://i.ytimg.com/vi/uk0PZr87npA/mqdefault_live.jpg",
-      "published": "2026-07-07T02:47:36Z"
     }
   ]
 }
