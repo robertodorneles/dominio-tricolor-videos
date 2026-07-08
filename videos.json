@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-08T00:01:06.009474+00:00",
+  "updated_at": "2026-07-08T01:01:00.541625+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla KTO: QUARTAS DA COPA DEFINIDAS | O MILAGRE DA ARGENTINA",
+      "videoId": "2VRoSWJSXVk",
+      "url": "https://www.youtube.com/watch?v=2VRoSWJSXVk",
+      "thumbnail": "https://i.ytimg.com/vi/2VRoSWJSXVk/mqdefault_live.jpg",
+      "published": "2026-07-08T00:42:59Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O GRANDE NEGÓCIO DA DIREÇÃO | PREJUÍZO RECUPERADO | AREZO E PENAROL",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=cWKIO1t0fLI",
       "thumbnail": "https://i.ytimg.com/vi/cWKIO1t0fLI/mqdefault.jpg",
       "published": "2026-07-07T18:10:14Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 A LIMPA SEGUE | REUNIÃO COM ROCHET | MAIS 3 SAINDO",
-      "videoId": "H6wVobeWO0Q",
-      "url": "https://www.youtube.com/watch?v=H6wVobeWO0Q",
-      "thumbnail": "https://i.ytimg.com/vi/H6wVobeWO0Q/mqdefault.jpg",
-      "published": "2026-07-07T08:08:36Z"
     },
     {
       "channel": "Bage TV",
