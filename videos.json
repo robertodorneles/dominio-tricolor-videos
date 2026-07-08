@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T01:01:00.541625+00:00",
+  "updated_at": "2026-07-08T02:01:01.360611+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "2VRoSWJSXVk",
       "url": "https://www.youtube.com/watch?v=2VRoSWJSXVk",
       "thumbnail": "https://i.ytimg.com/vi/2VRoSWJSXVk/mqdefault_live.jpg",
-      "published": "2026-07-08T00:42:59Z"
+      "published": "2026-07-08T01:07:43Z"
     },
     {
       "channel": "A Dupla",
@@ -232,15 +232,15 @@
       "videoId": "79bBlGIwu2M",
       "url": "https://www.youtube.com/watch?v=79bBlGIwu2M",
       "thumbnail": "https://i.ytimg.com/vi/79bBlGIwu2M/mqdefault_live.jpg",
-      "published": "2026-07-08T00:00:08Z"
+      "published": "2026-07-08T01:31:11Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO EM TARDE DE COPA! | TITULAR VOLTA AOS TREINOS | IMORTAL FC",
-      "videoId": "yelXkqRSgDw",
-      "url": "https://www.youtube.com/watch?v=yelXkqRSgDw",
-      "thumbnail": "https://i.ytimg.com/vi/yelXkqRSgDw/mqdefault.jpg",
-      "published": "2026-07-07T20:06:01Z"
+      "title": "ESPLANADA — 08/07",
+      "videoId": "nR2X5myBukU",
+      "url": "https://www.youtube.com/watch?v=nR2X5myBukU",
+      "thumbnail": "https://i.ytimg.com/vi/nR2X5myBukU/mqdefault_live.jpg",
+      "published": "2026-07-08T01:25:48Z"
     }
   ]
 }
