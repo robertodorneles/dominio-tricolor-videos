@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:01:03.485053+00:00",
+  "updated_at": "2026-07-08T11:01:11.454113+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Audiências públicas sobre tarifaço dos EUA, agro brasileiro e mais | Gaúcha Atualidade | 08/07/2026",
+      "videoId": "McWZHLFBB8A",
+      "url": "https://www.youtube.com/watch?v=McWZHLFBB8A",
+      "thumbnail": "https://i.ytimg.com/vi/McWZHLFBB8A/mqdefault_live.jpg",
+      "published": "2026-07-08T10:57:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Eleições 2026: quem sai na frente na disputa? | Conversas Cruzadas | 07/07/2026",
       "videoId": "jG2mdEfKmRE",
       "url": "https://www.youtube.com/watch?v=jG2mdEfKmRE",
       "thumbnail": "https://i.ytimg.com/vi/jG2mdEfKmRE/mqdefault.jpg",
       "published": "2026-07-08T09:45:34Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Vereadora recebe caixa com cachorro morto na câmara de Novo Hamburgo",
-      "videoId": "ib7i_51gMQ8",
-      "url": "https://www.youtube.com/watch?v=ib7i_51gMQ8",
-      "thumbnail": "https://i.ytimg.com/vi/ib7i_51gMQ8/mqdefault.jpg",
-      "published": "2026-07-07T23:47:15Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "07/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "08/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "IwU9sJWlN_U",
       "url": "https://www.youtube.com/watch?v=IwU9sJWlN_U",
       "thumbnail": "https://i.ytimg.com/vi/IwU9sJWlN_U/mqdefault_live.jpg",
       "published": "2026-07-07T23:02:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 08/07 - BATALHA DE LA PLATA",
+      "videoId": "JJbiQwgS6cY",
+      "url": "https://www.youtube.com/watch?v=JJbiQwgS6cY",
+      "thumbnail": "https://i.ytimg.com/vi/JJbiQwgS6cY/mqdefault.jpg",
+      "published": "2026-07-08T11:00:23Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=79bBlGIwu2M",
       "thumbnail": "https://i.ytimg.com/vi/79bBlGIwu2M/mqdefault_live.jpg",
       "published": "2026-07-08T01:31:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 08/07",
-      "videoId": "nR2X5myBukU",
-      "url": "https://www.youtube.com/watch?v=nR2X5myBukU",
-      "thumbnail": "https://i.ytimg.com/vi/nR2X5myBukU/mqdefault_live.jpg",
-      "published": "2026-07-08T01:25:48Z"
     }
   ]
 }
