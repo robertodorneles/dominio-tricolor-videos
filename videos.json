@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T23:01:05.257995+00:00",
+  "updated_at": "2026-07-09T00:01:09.479206+00:00",
   "total": 30,
   "videos": [
     {
@@ -140,11 +140,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA...  🇺🇸 SANDRO SOTILLI | #395",
-      "videoId": "Md-fYbYp6Vg",
-      "url": "https://www.youtube.com/watch?v=Md-fYbYp6Vg",
-      "thumbnail": "https://i.ytimg.com/vi/Md-fYbYp6Vg/mqdefault.jpg",
-      "published": "2026-07-08T22:00:06Z"
+      "title": "O SONHO DO GOLEADOR RAIZ #dudagarbi #umassadopara #copa",
+      "videoId": "nlI5ILoDk54",
+      "url": "https://www.youtube.com/watch?v=nlI5ILoDk54",
+      "thumbnail": "https://i.ytimg.com/vi/nlI5ILoDk54/mqdefault.jpg",
+      "published": "2026-07-08T23:00:15Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Renner: como inovar sem perder a essência da marca? | Liderança em Sala",
+      "videoId": "1Rsf6X98zgU",
+      "url": "https://www.youtube.com/watch?v=1Rsf6X98zgU",
+      "thumbnail": "https://i.ytimg.com/vi/1Rsf6X98zgU/mqdefault.jpg",
+      "published": "2026-07-09T00:00:16Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "LISCA EXPLICA FRANÇA X MARROCOS, CHURRAS NOS EUA E JOGADORES COM VEIA MUSICAL | COPANDO TUDO 8/7/26",
       "videoId": "oS3eT4gijks",
       "url": "https://www.youtube.com/watch?v=oS3eT4gijks",
       "thumbnail": "https://i.ytimg.com/vi/oS3eT4gijks/mqdefault_live.jpg",
-      "published": "2026-07-08T21:57:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "TRUMP faz fortes ameaças ao Irã: \"Pra mim acabou\" | Andei Pensando | 08/07/2026",
-      "videoId": "6chLwlnT3UY",
-      "url": "https://www.youtube.com/watch?v=6chLwlnT3UY",
-      "thumbnail": "https://i.ytimg.com/vi/6chLwlnT3UY/mqdefault.jpg",
-      "published": "2026-07-08T20:25:06Z"
+      "published": "2026-07-08T23:34:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -215,16 +215,24 @@
       "title": "08/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "IwU9sJWlN_U",
       "url": "https://www.youtube.com/watch?v=IwU9sJWlN_U",
-      "thumbnail": "https://i.ytimg.com/vi/IwU9sJWlN_U/mqdefault_live.jpg",
-      "published": "2026-07-08T11:04:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/IwU9sJWlN_U/mqdefault.jpg",
+      "published": "2026-07-08T23:36:22Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "07/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "hZNTXEH8Lb8",
-      "url": "https://www.youtube.com/watch?v=hZNTXEH8Lb8",
-      "thumbnail": "https://i.ytimg.com/vi/hZNTXEH8Lb8/mqdefault.jpg",
-      "published": "2026-07-07T23:30:22Z"
+      "title": "08/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "h2e9aTe4uic",
+      "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
+      "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault_live.jpg",
+      "published": "2026-07-08T23:05:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "JOGADORES CONTESTAM ESTRATÉGIA DE CASTRO | NOVA INVESTIDA POR CAITO | NOITES DE GRÊMIO #106 - 08/07",
+      "videoId": "cSoefn1nz64",
+      "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
+      "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault_live.jpg",
+      "published": "2026-07-09T00:00:37Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=v4JHv4MwKSU",
       "thumbnail": "https://i.ytimg.com/vi/v4JHv4MwKSU/mqdefault.jpg",
       "published": "2026-07-08T22:06:43Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGADORES CONTESTAM ESTRATÉGIA DE CASTRO | NOVA INVESTIDA POR CAITO | NOITES DE GRÊMIO #106 - 08/07",
-      "videoId": "cSoefn1nz64",
-      "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
-      "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault_live.jpg",
-      "published": "2026-07-08T21:39:10Z"
     }
   ]
 }
