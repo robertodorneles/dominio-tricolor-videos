@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T19:39:24.520954+00:00",
+  "updated_at": "2026-07-09T20:01:05.465100+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "YBCOV23jcJQ",
       "url": "https://www.youtube.com/watch?v=YBCOV23jcJQ",
       "thumbnail": "https://i.ytimg.com/vi/YBCOV23jcJQ/mqdefault_live.jpg",
-      "published": "2026-07-09T18:43:03Z"
+      "published": "2026-07-09T20:00:36Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ZAGUEIRO DE SAÍDA? | GRÊMIO AGUARDA RETORNO IMPORTANTE | ANÚNCIO DE ATACANTE FINALMENTE",
+      "videoId": "x6QDc06L9Xw",
+      "url": "https://www.youtube.com/watch?v=x6QDc06L9Xw",
+      "thumbnail": "https://i.ytimg.com/vi/x6QDc06L9Xw/mqdefault_live.jpg",
+      "published": "2026-07-09T19:53:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO ANUNCIA MATHEUS NASCIMENTO | MARLON AVANÇA NA RECUPERAÇÃO | WAGNER LEONARDO DE SAÍDA?",
       "videoId": "kavClkHwXrE",
       "url": "https://www.youtube.com/watch?v=kavClkHwXrE",
       "thumbnail": "https://i.ytimg.com/vi/kavClkHwXrE/mqdefault.jpg",
       "published": "2026-07-09T19:14:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ZAGUEIRO DE SAÍDA? | GRÊMIO AGUARDA RETORNO IMPORTANTE | ANÚNCIO DE ATACANTE FINALMENTE",
-      "videoId": "x6QDc06L9Xw",
-      "url": "https://www.youtube.com/watch?v=x6QDc06L9Xw",
-      "thumbnail": "https://i.ytimg.com/vi/x6QDc06L9Xw/mqdefault_live.jpg",
-      "published": "2026-07-09T19:02:17Z"
     }
   ]
 }
