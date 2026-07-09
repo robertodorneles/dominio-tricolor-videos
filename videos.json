@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T02:01:07.192817+00:00",
+  "updated_at": "2026-07-09T03:35:20.260785+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla: FOLGA DA COPA E OLHO NA DUPLA GRE-NAL",
       "videoId": "LHJ04PPpfgk",
       "url": "https://www.youtube.com/watch?v=LHJ04PPpfgk",
-      "thumbnail": "https://i.ytimg.com/vi/LHJ04PPpfgk/mqdefault_live.jpg",
-      "published": "2026-07-09T01:12:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/LHJ04PPpfgk/mqdefault.jpg",
+      "published": "2026-07-09T02:22:54Z"
     },
     {
       "channel": "A Dupla",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "JOGADORES CONTESTAM ESTRATÉGIA DE CASTRO | NOVA INVESTIDA POR CAITO | NOITES DE GRÊMIO #106 - 08/07",
+      "videoId": "cSoefn1nz64",
+      "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
+      "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault.jpg",
+      "published": "2026-07-09T03:05:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "IMORTAL FC — 09/07",
       "videoId": "x6QDc06L9Xw",
       "url": "https://www.youtube.com/watch?v=x6QDc06L9Xw",
       "thumbnail": "https://i.ytimg.com/vi/x6QDc06L9Xw/mqdefault_live.jpg",
       "published": "2026-07-09T00:55:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGADORES CONTESTAM ESTRATÉGIA DE CASTRO | NOVA INVESTIDA POR CAITO | NOITES DE GRÊMIO #106 - 08/07",
-      "videoId": "cSoefn1nz64",
-      "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
-      "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault_live.jpg",
-      "published": "2026-07-09T00:00:37Z"
     }
   ]
 }
