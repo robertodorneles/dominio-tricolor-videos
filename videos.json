@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T10:01:16.753084+00:00",
+  "updated_at": "2026-07-09T11:01:13.427889+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Renegociação de dívidas do agro, últimas da política, economia e + | Gaúcha Atualidade | 09/07/2026",
+      "videoId": "0rKiii4KuAI",
+      "url": "https://www.youtube.com/watch?v=0rKiii4KuAI",
+      "thumbnail": "https://i.ytimg.com/vi/0rKiii4KuAI/mqdefault_live.jpg",
+      "published": "2026-07-09T10:57:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Tensão no Irã,  Cadeia Pública de POA, informações do trânsito e mais | Gaúcha+ | 08/07/26",
       "videoId": "FOiZzs3tq3M",
       "url": "https://www.youtube.com/watch?v=FOiZzs3tq3M",
       "thumbnail": "https://i.ytimg.com/vi/FOiZzs3tq3M/mqdefault.jpg",
       "published": "2026-07-09T07:40:02Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Renner: como inovar sem perder a essência da marca? | Liderança em Sala",
-      "videoId": "1Rsf6X98zgU",
-      "url": "https://www.youtube.com/watch?v=1Rsf6X98zgU",
-      "thumbnail": "https://i.ytimg.com/vi/1Rsf6X98zgU/mqdefault.jpg",
-      "published": "2026-07-09T00:00:16Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "08/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "09/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "h2e9aTe4uic",
       "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
       "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault_live.jpg",
       "published": "2026-07-08T23:05:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 09/07 - GRÊMIO 5X2 FLAMENGO (BRASILEIRÃO 1978)",
+      "videoId": "Bh5SlkKBF4A",
+      "url": "https://www.youtube.com/watch?v=Bh5SlkKBF4A",
+      "thumbnail": "https://i.ytimg.com/vi/Bh5SlkKBF4A/mqdefault.jpg",
+      "published": "2026-07-09T11:00:11Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
       "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault.jpg",
       "published": "2026-07-09T03:05:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 09/07",
-      "videoId": "x6QDc06L9Xw",
-      "url": "https://www.youtube.com/watch?v=x6QDc06L9Xw",
-      "thumbnail": "https://i.ytimg.com/vi/x6QDc06L9Xw/mqdefault_live.jpg",
-      "published": "2026-07-09T00:55:06Z"
     }
   ]
 }
