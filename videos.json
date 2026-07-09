@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T11:01:13.427889+00:00",
+  "updated_at": "2026-07-09T11:53:57.565069+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 09/07",
+      "videoId": "0s9hW8iXIc0",
+      "url": "https://www.youtube.com/watch?v=0s9hW8iXIc0",
+      "thumbnail": "https://i.ytimg.com/vi/0s9hW8iXIc0/mqdefault_live.jpg",
+      "published": "2026-07-09T11:40:02Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "CRAQUE DE CHAMPIONS? SANDRO SOTILLI EXPLICA COMO REALIZOU SONHO E VIROU ÍDOLO RAIZ | Cortes do Duda",
       "videoId": "2bQiuorz6N4",
       "url": "https://www.youtube.com/watch?v=2bQiuorz6N4",
       "thumbnail": "https://i.ytimg.com/vi/2bQiuorz6N4/mqdefault.jpg",
       "published": "2026-07-08T23:00:39Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O SONHO DO GOLEADOR RAIZ #dudagarbi #umassadopara #copa",
-      "videoId": "nlI5ILoDk54",
-      "url": "https://www.youtube.com/watch?v=nlI5ILoDk54",
-      "thumbnail": "https://i.ytimg.com/vi/nlI5ILoDk54/mqdefault.jpg",
-      "published": "2026-07-08T23:00:15Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "09/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "h2e9aTe4uic",
+      "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
+      "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault_live.jpg",
+      "published": "2026-07-09T11:03:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "08/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "IwU9sJWlN_U",
       "url": "https://www.youtube.com/watch?v=IwU9sJWlN_U",
@@ -219,12 +227,12 @@
       "published": "2026-07-08T23:36:22Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "09/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "h2e9aTe4uic",
-      "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
-      "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault_live.jpg",
-      "published": "2026-07-08T23:05:16Z"
+      "channel": "Radio Imortal",
+      "title": "A MUDANÇA PROPOSTA PELOS JOGADORES PARA O GRÊMIO | SEGUE A BUSCA POR LATERAL | REDAÇÃO IMORTAL",
+      "videoId": "qkBPgzdJXHA",
+      "url": "https://www.youtube.com/watch?v=qkBPgzdJXHA",
+      "thumbnail": "https://i.ytimg.com/vi/qkBPgzdJXHA/mqdefault_live.jpg",
+      "published": "2026-07-09T11:01:51Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Bh5SlkKBF4A",
       "thumbnail": "https://i.ytimg.com/vi/Bh5SlkKBF4A/mqdefault.jpg",
       "published": "2026-07-09T11:00:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGADORES CONTESTAM ESTRATÉGIA DE CASTRO | NOVA INVESTIDA POR CAITO | NOITES DE GRÊMIO #106 - 08/07",
-      "videoId": "cSoefn1nz64",
-      "url": "https://www.youtube.com/watch?v=cSoefn1nz64",
-      "thumbnail": "https://i.ytimg.com/vi/cSoefn1nz64/mqdefault.jpg",
-      "published": "2026-07-09T03:05:13Z"
     }
   ]
 }
