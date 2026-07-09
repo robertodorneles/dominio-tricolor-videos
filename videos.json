@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T23:01:01.663780+00:00",
+  "updated_at": "2026-07-09T23:08:11.658376+00:00",
   "total": 30,
   "videos": [
     {
@@ -180,6 +180,14 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "Grêmio e Inter de volta com Banrisul? Wagner Leonardo, dívida e o Vitória",
+      "videoId": "RmofBAI1tw4",
+      "url": "https://www.youtube.com/watch?v=RmofBAI1tw4",
+      "thumbnail": "https://i.ytimg.com/vi/RmofBAI1tw4/mqdefault.jpg",
+      "published": "2026-07-09T23:05:08Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "CADÊ O DINHEIRO? Sete clubes atrasam salários no Brasileirão",
       "videoId": "yIRuAdrMBm0",
       "url": "https://www.youtube.com/watch?v=yIRuAdrMBm0",
@@ -187,12 +195,12 @@
       "published": "2026-07-08T22:03:20Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "NOVIDADES NO GRÊMIO: Batido martelo por Mandaca + salários e venda confirmada",
-      "videoId": "Vo73khhnBqY",
-      "url": "https://www.youtube.com/watch?v=Vo73khhnBqY",
-      "thumbnail": "https://i.ytimg.com/vi/Vo73khhnBqY/mqdefault.jpg",
-      "published": "2026-07-07T20:55:34Z"
+      "channel": "LH Benfica",
+      "title": "🚨O PATROCINADOR DE R$ 30 MILHÕES DO GRÊMIO | ANÚNCIO DE REFORÇO | MEC: NOVA SITUAÇÃO",
+      "videoId": "AwlX_LKPiuE",
+      "url": "https://www.youtube.com/watch?v=AwlX_LKPiuE",
+      "thumbnail": "https://i.ytimg.com/vi/AwlX_LKPiuE/mqdefault.jpg",
+      "published": "2026-07-09T23:02:07Z"
     },
     {
       "channel": "LH Benfica",
@@ -203,28 +211,20 @@
       "published": "2026-07-08T22:16:12Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨PINTA UM NOVO REFORÇO PRO GRÊMIO | CONTRATAÇÃO CONFIRMADA NO URUGUAI | DO GRÊMIO PARA O CORINTHIANS",
-      "videoId": "QY-yqzRXLGs",
-      "url": "https://www.youtube.com/watch?v=QY-yqzRXLGs",
-      "thumbnail": "https://i.ytimg.com/vi/QY-yqzRXLGs/mqdefault.jpg",
-      "published": "2026-07-07T21:59:27Z"
+      "channel": "Radio Grenal",
+      "title": "09/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "xsSYyFPObX4",
+      "url": "https://www.youtube.com/watch?v=xsSYyFPObX4",
+      "thumbnail": "https://i.ytimg.com/vi/xsSYyFPObX4/mqdefault_live.jpg",
+      "published": "2026-07-09T23:03:49Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM GHEISA NEVES - SUPERVISORA PEDAGÓGICA DAS CATEGORIAS DE BASE DO GRÊMIO",
-      "videoId": "q0VQAt2GVEM",
-      "url": "https://www.youtube.com/watch?v=q0VQAt2GVEM",
-      "thumbnail": "https://i.ytimg.com/vi/q0VQAt2GVEM/mqdefault.jpg",
-      "published": "2026-07-09T18:24:57Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "09/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
+      "title": "09/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "h2e9aTe4uic",
       "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
       "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault_live.jpg",
-      "published": "2026-07-09T11:03:03Z"
+      "published": "2026-07-09T23:03:02Z"
     },
     {
       "channel": "Radio Imortal",
