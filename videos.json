@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-10T16:53:14.015481+00:00",
+  "updated_at": "2026-07-10T17:01:00.152521+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: NOVO ALVO NO MERCADO DE TRANSFERÊNCIAS | ZAGUEIRO TITULAR?! | REALIDADE DO CLUBE",
+      "videoId": "mbMxGRS7OJo",
+      "url": "https://www.youtube.com/watch?v=mbMxGRS7OJo",
+      "thumbnail": "https://i.ytimg.com/vi/mbMxGRS7OJo/mqdefault.jpg",
+      "published": "2026-07-10T17:00:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: MARLON SURPREENDE | REFORÇO ANUNCIADO | PROPOSTA POR WAGNER | SAÍDA NO GRÊMIO",
@@ -11,12 +19,12 @@
       "published": "2026-07-10T05:00:39Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 AS PROPOSTAS POR ENNER! | BARBEIRAGEM NA ÁFRICA | DECISÃO SOBRE GOLEIRO",
-      "videoId": "c2dwx3OsjbY",
-      "url": "https://www.youtube.com/watch?v=c2dwx3OsjbY",
-      "thumbnail": "https://i.ytimg.com/vi/c2dwx3OsjbY/mqdefault.jpg",
-      "published": "2026-07-10T04:06:15Z"
+      "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE MATHEUS NASCIMENTO",
+      "videoId": "qz3wAzWj5k0",
+      "url": "https://www.youtube.com/watch?v=qz3wAzWj5k0",
+      "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault_live.jpg",
+      "published": "2026-07-10T16:53:52Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=rD8R98wYwOE",
       "thumbnail": "https://i.ytimg.com/vi/rD8R98wYwOE/mqdefault_live.jpg",
       "published": "2026-07-10T16:30:49Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE MATHEUS NASCIMENTO",
-      "videoId": "qz3wAzWj5k0",
-      "url": "https://www.youtube.com/watch?v=qz3wAzWj5k0",
-      "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault_live.jpg",
-      "published": "2026-07-10T15:44:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -231,8 +231,8 @@
       "title": "AO VIVO | COLETIVA DE MATHEUS NASCIMENTO | APRESENTAÇÃO DO NOVO ATACANTE DO GRÊMIO | DIRETO DO CT",
       "videoId": "mqMxp3dyldA",
       "url": "https://www.youtube.com/watch?v=mqMxp3dyldA",
-      "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault_live.jpg",
-      "published": "2026-07-10T16:12:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault.jpg",
+      "published": "2026-07-10T16:55:15Z"
     },
     {
       "channel": "Radio Imortal",
