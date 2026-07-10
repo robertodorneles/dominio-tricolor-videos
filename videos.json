@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T16:01:14.169500+00:00",
+  "updated_at": "2026-07-10T16:53:14.015481+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#083",
+      "videoId": "rD8R98wYwOE",
+      "url": "https://www.youtube.com/watch?v=rD8R98wYwOE",
+      "thumbnail": "https://i.ytimg.com/vi/rD8R98wYwOE/mqdefault_live.jpg",
+      "published": "2026-07-10T16:30:49Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE MATHEUS NASCIMENTO",
       "videoId": "qz3wAzWj5k0",
       "url": "https://www.youtube.com/watch?v=qz3wAzWj5k0",
       "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault_live.jpg",
       "published": "2026-07-10T15:44:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #020",
-      "videoId": "RVk3KMCPYGU",
-      "url": "https://www.youtube.com/watch?v=RVk3KMCPYGU",
-      "thumbnail": "https://i.ytimg.com/vi/RVk3KMCPYGU/mqdefault.jpg",
-      "published": "2026-07-10T15:25:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -151,8 +151,8 @@
       "title": "COLETIVA DE APRESENTAÇÃO I MATHEUS NASCIMENTO",
       "videoId": "qeQQVqU8wNY",
       "url": "https://www.youtube.com/watch?v=qeQQVqU8wNY",
-      "thumbnail": "https://i.ytimg.com/vi/qeQQVqU8wNY/mqdefault_live.jpg",
-      "published": "2026-07-10T16:00:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/qeQQVqU8wNY/mqdefault.jpg",
+      "published": "2026-07-10T16:12:50Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "\"Pra celebrar a vida\": Yeda fala sobre tradição de beber espumante no Piratini |Memórias do Piratini",
+      "videoId": "EuGqTduaQ98",
+      "url": "https://www.youtube.com/watch?v=EuGqTduaQ98",
+      "thumbnail": "https://i.ytimg.com/vi/EuGqTduaQ98/mqdefault.jpg",
+      "published": "2026-07-10T16:30:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Lela Zaniol e Diogo Carvalho celebram 20 anos de DESTEMPERADOS e anunciam PREMIAÇÃO | Paralelas",
       "videoId": "kWimiFYperA",
       "url": "https://www.youtube.com/watch?v=kWimiFYperA",
       "thumbnail": "https://i.ytimg.com/vi/kWimiFYperA/mqdefault.jpg",
       "published": "2026-07-10T16:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Yeda Crusius | Memórias do Piratini",
-      "videoId": "x9CBeKbvYJc",
-      "url": "https://www.youtube.com/watch?v=x9CBeKbvYJc",
-      "thumbnail": "https://i.ytimg.com/vi/x9CBeKbvYJc/mqdefault.jpg",
-      "published": "2026-07-10T15:03:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "10/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "xsSYyFPObX4",
       "url": "https://www.youtube.com/watch?v=xsSYyFPObX4",
       "thumbnail": "https://i.ytimg.com/vi/xsSYyFPObX4/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | COLETIVA DE MATHEUS NASCIMENTO | APRESENTAÇÃO DO NOVO ATACANTE DO GRÊMIO | DIRETO DO CT",
+      "videoId": "mqMxp3dyldA",
+      "url": "https://www.youtube.com/watch?v=mqMxp3dyldA",
+      "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault_live.jpg",
+      "published": "2026-07-10T16:12:22Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #110 — GRÊMIO TEM TESTE CONTRA O CRUZEIRO | O ANDAMENTO DAS NEGOCIAÇÕES",
       "videoId": "fvpnN1EjN-0",
       "url": "https://www.youtube.com/watch?v=fvpnN1EjN-0",
       "thumbnail": "https://i.ytimg.com/vi/fvpnN1EjN-0/mqdefault.jpg",
       "published": "2026-07-10T15:54:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE MATHEUS NASCIMENTO | APRESENTAÇÃO DO NOVO ATACANTE DO GRÊMIO | DIRETO DO CT",
-      "videoId": "mqMxp3dyldA",
-      "url": "https://www.youtube.com/watch?v=mqMxp3dyldA",
-      "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault_live.jpg",
-      "published": "2026-07-10T15:46:58Z"
     }
   ]
 }
