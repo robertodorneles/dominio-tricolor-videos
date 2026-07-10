@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T14:14:22.935860+00:00",
+  "updated_at": "2026-07-10T15:00:55.615928+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "RVk3KMCPYGU",
       "url": "https://www.youtube.com/watch?v=RVk3KMCPYGU",
       "thumbnail": "https://i.ytimg.com/vi/RVk3KMCPYGU/mqdefault_live.jpg",
-      "published": "2026-07-10T13:39:13Z"
+      "published": "2026-07-10T14:51:19Z"
     },
     {
       "channel": "Bage TV",
       "title": "CASTRO PROMOVERÁ MUDANÇAS NO TIME🔵 FUTEBOL ALEGRIA DO GRÊMIO - 10/07 - #587",
       "videoId": "Li6BYGpU9iw",
       "url": "https://www.youtube.com/watch?v=Li6BYGpU9iw",
-      "thumbnail": "https://i.ytimg.com/vi/Li6BYGpU9iw/mqdefault_live.jpg",
-      "published": "2026-07-10T13:32:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/Li6BYGpU9iw/mqdefault.jpg",
+      "published": "2026-07-10T14:32:25Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO OFERECE TROCAR JOGADOR POR REFORÇO | RENOVAÇÃO DE JOVEM | RESPOSTA DE OFERTA",
+      "videoId": "JSEYHKr0Jx4",
+      "url": "https://www.youtube.com/watch?v=JSEYHKr0Jx4",
+      "thumbnail": "https://i.ytimg.com/vi/JSEYHKr0Jx4/mqdefault.jpg",
+      "published": "2026-07-10T14:49:49Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=sDtgaMS4-YY",
       "thumbnail": "https://i.ytimg.com/vi/sDtgaMS4-YY/mqdefault.jpg",
       "published": "2026-07-09T23:24:13Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO NEGÓCIO SENDO FECHADO | RENATO É REALIDADE NO GRÊMIO? | RISCO ALTO DE QUEDA PREOCUPA!",
-      "videoId": "luo0KVEg008",
-      "url": "https://www.youtube.com/watch?v=luo0KVEg008",
-      "thumbnail": "https://i.ytimg.com/vi/luo0KVEg008/mqdefault.jpg",
-      "published": "2026-07-09T14:29:27Z"
     },
     {
       "channel": "Canal do CCD",
@@ -232,15 +232,15 @@
       "videoId": "fvpnN1EjN-0",
       "url": "https://www.youtube.com/watch?v=fvpnN1EjN-0",
       "thumbnail": "https://i.ytimg.com/vi/fvpnN1EjN-0/mqdefault_live.jpg",
-      "published": "2026-07-10T13:55:10Z"
+      "published": "2026-07-10T15:00:26Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ATUALIZAÇÃO DAS SAÍDAS E CHEGADAS DO GRÊMIO | VEM AÍ O AMISTOSO CONTRA O CRUZEIRO | REDAÇÃO IMORTAL",
-      "videoId": "PIGzHQMBa6w",
-      "url": "https://www.youtube.com/watch?v=PIGzHQMBa6w",
-      "thumbnail": "https://i.ytimg.com/vi/PIGzHQMBa6w/mqdefault.jpg",
-      "published": "2026-07-10T13:49:19Z"
+      "title": "ESPLANADA — 10/07",
+      "videoId": "E2CjfczZh7U",
+      "url": "https://www.youtube.com/watch?v=E2CjfczZh7U",
+      "thumbnail": "https://i.ytimg.com/vi/E2CjfczZh7U/mqdefault_live.jpg",
+      "published": "2026-07-10T14:59:53Z"
     }
   ]
 }
