@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T11:00:56.506643+00:00",
+  "updated_at": "2026-07-10T11:48:09.974026+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,7 +132,7 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Hospício - 09/07",
+      "title": "Hospício - 10/07",
       "videoId": "rE_tT9otM7U",
       "url": "https://www.youtube.com/watch?v=rE_tT9otM7U",
       "thumbnail": "https://i.ytimg.com/vi/rE_tT9otM7U/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AFTER DE FRANÇA X MARROCOS | LISCA EXPLICA ESPANHA X BÉLGICA | COPANDO TUDO | 09/07/2026",
+      "videoId": "zMmzttaA5HQ",
+      "url": "https://www.youtube.com/watch?v=zMmzttaA5HQ",
+      "thumbnail": "https://i.ytimg.com/vi/zMmzttaA5HQ/mqdefault.jpg",
+      "published": "2026-07-10T11:44:37Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com delegada do caso do menino em Viamão, trânsito e + | Gaúcha Atualidade | 10/07/2026",
       "videoId": "yMJitO5ROSM",
       "url": "https://www.youtube.com/watch?v=yMJitO5ROSM",
       "thumbnail": "https://i.ytimg.com/vi/yMJitO5ROSM/mqdefault_live.jpg",
       "published": "2026-07-10T10:58:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Copa 2027 justifica um mês sem aula? | Conversas Cruzadas | 09/07/2026",
-      "videoId": "dX29aJ8hPzU",
-      "url": "https://www.youtube.com/watch?v=dX29aJ8hPzU",
-      "thumbnail": "https://i.ytimg.com/vi/dX29aJ8hPzU/mqdefault.jpg",
-      "published": "2026-07-10T09:34:30Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "10/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "xsSYyFPObX4",
+      "url": "https://www.youtube.com/watch?v=xsSYyFPObX4",
+      "thumbnail": "https://i.ytimg.com/vi/xsSYyFPObX4/mqdefault_live.jpg",
+      "published": "2026-07-10T11:02:03Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM FILIPE DIAS - TÉCNICO SUB-20 DO JUVENTUDE | 09/07/2026 | RÁDIO GRENAL",
       "videoId": "k6rAfUYID1E",
       "url": "https://www.youtube.com/watch?v=k6rAfUYID1E",
@@ -219,12 +227,12 @@
       "published": "2026-07-10T00:01:05Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "09/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "h2e9aTe4uic",
-      "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
-      "thumbnail": "https://i.ytimg.com/vi/h2e9aTe4uic/mqdefault.jpg",
-      "published": "2026-07-09T23:32:36Z"
+      "channel": "Radio Imortal",
+      "title": "ATUALIZAÇÃO DAS SAÍDAS E CHEGADAS DO GRÊMIO | VEM AÍ O AMISTOSO CONTRA O CRUZEIRO | REDAÇÃO IMORTAL",
+      "videoId": "PIGzHQMBa6w",
+      "url": "https://www.youtube.com/watch?v=PIGzHQMBa6w",
+      "thumbnail": "https://i.ytimg.com/vi/PIGzHQMBa6w/mqdefault_live.jpg",
+      "published": "2026-07-10T11:02:28Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9f12afMDACs",
       "thumbnail": "https://i.ytimg.com/vi/9f12afMDACs/mqdefault.jpg",
       "published": "2026-07-10T11:00:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "MARLON VOLTANDO | WAGNER LEONARDO SAINDO? | ATACANTE ANUNCIADO | NOITES DE GRÊMIO #107 - 09/07",
-      "videoId": "oC-xVB2ujUU",
-      "url": "https://www.youtube.com/watch?v=oC-xVB2ujUU",
-      "thumbnail": "https://i.ytimg.com/vi/oC-xVB2ujUU/mqdefault.jpg",
-      "published": "2026-07-10T02:37:06Z"
     }
   ]
 }
