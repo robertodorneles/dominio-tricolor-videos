@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T17:01:00.152521+00:00",
+  "updated_at": "2026-07-10T18:01:10.634327+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,12 +23,12 @@
       "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE MATHEUS NASCIMENTO",
       "videoId": "qz3wAzWj5k0",
       "url": "https://www.youtube.com/watch?v=qz3wAzWj5k0",
-      "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault_live.jpg",
-      "published": "2026-07-10T16:53:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault.jpg",
+      "published": "2026-07-10T17:11:18Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#083",
+      "title": "REFORÇO PODE SER NOVO 10 DO GRÊMIO? | 2 CENTROAVANTES NO RADAR DO INTER🔸RESENHA FORA DA SALA🔸#083",
       "videoId": "rD8R98wYwOE",
       "url": "https://www.youtube.com/watch?v=rD8R98wYwOE",
       "thumbnail": "https://i.ytimg.com/vi/rD8R98wYwOE/mqdefault_live.jpg",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Veja o teste dos painéis de LED na Arena | Goleiro em Portugal | Patrocínio do Banrisul",
+      "videoId": "LndFt7XzyGU",
+      "url": "https://www.youtube.com/watch?v=LndFt7XzyGU",
+      "thumbnail": "https://i.ytimg.com/vi/LndFt7XzyGU/mqdefault.jpg",
+      "published": "2026-07-10T17:44:36Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Inter negocia com goleiro da Venezuela",
       "videoId": "HMiUmYLu3f0",
       "url": "https://www.youtube.com/watch?v=HMiUmYLu3f0",
       "thumbnail": "https://i.ytimg.com/vi/HMiUmYLu3f0/mqdefault.jpg",
       "published": "2026-07-08T22:22:41Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Inter negocia com goleiro da Venezuela | Rochet de saída? Vitória em jogo-treino",
-      "videoId": "KHBfgUU6ABg",
-      "url": "https://www.youtube.com/watch?v=KHBfgUU6ABg",
-      "thumbnail": "https://i.ytimg.com/vi/KHBfgUU6ABg/mqdefault.jpg",
-      "published": "2026-07-08T22:04:48Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Coreia do Norte busca ‘fortalecer’ força nuclear",
+      "videoId": "P-GvCmQVmYM",
+      "url": "https://www.youtube.com/watch?v=P-GvCmQVmYM",
+      "thumbnail": "https://i.ytimg.com/vi/P-GvCmQVmYM/mqdefault.jpg",
+      "published": "2026-07-10T18:00:19Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "\"Pra celebrar a vida\": Yeda fala sobre tradição de beber espumante no Piratini |Memórias do Piratini",
       "videoId": "EuGqTduaQ98",
       "url": "https://www.youtube.com/watch?v=EuGqTduaQ98",
       "thumbnail": "https://i.ytimg.com/vi/EuGqTduaQ98/mqdefault.jpg",
       "published": "2026-07-10T16:30:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Lela Zaniol e Diogo Carvalho celebram 20 anos de DESTEMPERADOS e anunciam PREMIAÇÃO | Paralelas",
-      "videoId": "kWimiFYperA",
-      "url": "https://www.youtube.com/watch?v=kWimiFYperA",
-      "thumbnail": "https://i.ytimg.com/vi/kWimiFYperA/mqdefault.jpg",
-      "published": "2026-07-10T16:00:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "O QUE ESPERAR DO GRÊMIO CONTRA O CRUZEIRO? | AS NOVIDADES ENVOLVENDO NEGOCIAÇÕES | IMORTAL FC",
+      "videoId": "6m_fcDz8j0c",
+      "url": "https://www.youtube.com/watch?v=6m_fcDz8j0c",
+      "thumbnail": "https://i.ytimg.com/vi/6m_fcDz8j0c/mqdefault_live.jpg",
+      "published": "2026-07-10T17:09:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | COLETIVA DE MATHEUS NASCIMENTO | APRESENTAÇÃO DO NOVO ATACANTE DO GRÊMIO | DIRETO DO CT",
       "videoId": "mqMxp3dyldA",
       "url": "https://www.youtube.com/watch?v=mqMxp3dyldA",
       "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault.jpg",
       "published": "2026-07-10T16:55:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #110 — GRÊMIO TEM TESTE CONTRA O CRUZEIRO | O ANDAMENTO DAS NEGOCIAÇÕES",
-      "videoId": "fvpnN1EjN-0",
-      "url": "https://www.youtube.com/watch?v=fvpnN1EjN-0",
-      "thumbnail": "https://i.ytimg.com/vi/fvpnN1EjN-0/mqdefault.jpg",
-      "published": "2026-07-10T15:54:29Z"
     }
   ]
 }
