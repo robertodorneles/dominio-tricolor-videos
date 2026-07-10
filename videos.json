@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-10T00:01:00.845371+00:00",
+  "updated_at": "2026-07-10T01:01:07.103739+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: A FRANÇA CHEGOU E AGORA FALTAM SÓ 3",
+      "videoId": "Wr2cW6OXIk0",
+      "url": "https://www.youtube.com/watch?v=Wr2cW6OXIk0",
+      "thumbnail": "https://i.ytimg.com/vi/Wr2cW6OXIk0/mqdefault_live.jpg",
+      "published": "2026-07-10T00:45:41Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Wallace cresce e surge como alternativa | Os relatos dos treinamentos | Defesa em crise",
@@ -11,28 +19,20 @@
       "published": "2026-07-09T17:00:11Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: COBRANÇA NO VESTIÁRIO | CAITO TEM RESPOSTA | NORIEGA NA MIRA DA EUROPA",
-      "videoId": "YdG2xSaBtuQ",
-      "url": "https://www.youtube.com/watch?v=YdG2xSaBtuQ",
-      "thumbnail": "https://i.ytimg.com/vi/YdG2xSaBtuQ/mqdefault.jpg",
-      "published": "2026-07-09T05:00:20Z"
+      "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE BRASÍLIA-DF",
+      "videoId": "RsjTgLMw4VA",
+      "url": "https://www.youtube.com/watch?v=RsjTgLMw4VA",
+      "thumbnail": "https://i.ytimg.com/vi/RsjTgLMw4VA/mqdefault_live.jpg",
+      "published": "2026-07-10T00:52:43Z"
     },
     {
       "channel": "Bage TV",
-      "title": "WAGNER LEONARDO DE SAÍDA?🔹 THE TARDE 🔹#183",
-      "videoId": "YBCOV23jcJQ",
-      "url": "https://www.youtube.com/watch?v=YBCOV23jcJQ",
-      "thumbnail": "https://i.ytimg.com/vi/YBCOV23jcJQ/mqdefault.jpg",
-      "published": "2026-07-09T20:10:48Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#082",
-      "videoId": "otR7cqQq7V4",
-      "url": "https://www.youtube.com/watch?v=otR7cqQq7V4",
-      "thumbnail": "https://i.ytimg.com/vi/otR7cqQq7V4/mqdefault.jpg",
-      "published": "2026-07-09T18:37:28Z"
+      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE MATHEUS NASCIMENTO",
+      "videoId": "qz3wAzWj5k0",
+      "url": "https://www.youtube.com/watch?v=qz3wAzWj5k0",
+      "thumbnail": "https://i.ytimg.com/vi/qz3wAzWj5k0/mqdefault_live.jpg",
+      "published": "2026-07-10T00:44:29Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM FILIPE DIAS - TÉCNICO SUB-20 DO JUVENTUDE | 09/07/2026 | RÁDIO GRENAL",
+      "videoId": "k6rAfUYID1E",
+      "url": "https://www.youtube.com/watch?v=k6rAfUYID1E",
+      "thumbnail": "https://i.ytimg.com/vi/k6rAfUYID1E/mqdefault.jpg",
+      "published": "2026-07-10T00:01:05Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "09/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "h2e9aTe4uic",
       "url": "https://www.youtube.com/watch?v=h2e9aTe4uic",
@@ -219,12 +227,12 @@
       "published": "2026-07-09T23:32:36Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "09/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "xsSYyFPObX4",
-      "url": "https://www.youtube.com/watch?v=xsSYyFPObX4",
-      "thumbnail": "https://i.ytimg.com/vi/xsSYyFPObX4/mqdefault_live.jpg",
-      "published": "2026-07-09T23:03:49Z"
+      "channel": "Radio Imortal",
+      "title": "MARLON VOLTANDO | WAGNER LEONARDO SAINDO? | ATACANTE ANUNCIADO | NOITES DE GRÊMIO #107 - 09/07",
+      "videoId": "oC-xVB2ujUU",
+      "url": "https://www.youtube.com/watch?v=oC-xVB2ujUU",
+      "thumbnail": "https://i.ytimg.com/vi/oC-xVB2ujUU/mqdefault_live.jpg",
+      "published": "2026-07-10T00:08:00Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=mqMxp3dyldA",
       "thumbnail": "https://i.ytimg.com/vi/mqMxp3dyldA/mqdefault_live.jpg",
       "published": "2026-07-09T23:20:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #110 — GRÊMIO TEM TESTE CONTRA O CRUZEIRO | O ANDAMENTO DAS NEGOCIAÇÕES",
-      "videoId": "fvpnN1EjN-0",
-      "url": "https://www.youtube.com/watch?v=fvpnN1EjN-0",
-      "thumbnail": "https://i.ytimg.com/vi/fvpnN1EjN-0/mqdefault_live.jpg",
-      "published": "2026-07-09T23:18:36Z"
     }
   ]
 }
