@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T20:00:58.890860+00:00",
+  "updated_at": "2026-07-10T20:19:41.711290+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO TRABALHA PARA TRAZER REFORÇO AGORA🔹 THE TARDE 🔹#184",
       "videoId": "BqjjPFY5Ink",
       "url": "https://www.youtube.com/watch?v=BqjjPFY5Ink",
-      "thumbnail": "https://i.ytimg.com/vi/BqjjPFY5Ink/mqdefault_live.jpg",
-      "published": "2026-07-10T19:57:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/BqjjPFY5Ink/mqdefault.jpg",
+      "published": "2026-07-10T20:12:39Z"
     },
     {
       "channel": "Bage TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO FEMININO SEGUE OS TRABALHOS COM O RETORNO DE GISELE",
+      "videoId": "2F6WY_JfVV8",
+      "url": "https://www.youtube.com/watch?v=2F6WY_JfVV8",
+      "thumbnail": "https://i.ytimg.com/vi/2F6WY_JfVV8/mqdefault.jpg",
+      "published": "2026-07-10T20:11:46Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA DE APRESENTAÇÃO I MATHEUS NASCIMENTO",
       "videoId": "qeQQVqU8wNY",
       "url": "https://www.youtube.com/watch?v=qeQQVqU8wNY",
       "thumbnail": "https://i.ytimg.com/vi/qeQQVqU8wNY/mqdefault.jpg",
       "published": "2026-07-10T16:12:50Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (AMISTOSO 2026)",
-      "videoId": "oiJyam82mVo",
-      "url": "https://www.youtube.com/watch?v=oiJyam82mVo",
-      "thumbnail": "https://i.ytimg.com/vi/oiJyam82mVo/mqdefault_live.jpg",
-      "published": "2026-07-07T18:42:08Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO EM BUSCA DE LATERAL E ATACANTE NO MERCADO | ALTERAÇÕES NO TIME? | PLANTÃO IMORTAL",
+      "videoId": "1ufG1HQHodU",
+      "url": "https://www.youtube.com/watch?v=1ufG1HQHodU",
+      "thumbnail": "https://i.ytimg.com/vi/1ufG1HQHodU/mqdefault_live.jpg",
+      "published": "2026-07-10T20:04:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MUITAS ATUALIZAÇÕES SOBRE O TRICOLOR | GRÊMIO SE PREPARA PARA AMISTOSO | ESPLANADA",
       "videoId": "E2CjfczZh7U",
       "url": "https://www.youtube.com/watch?v=E2CjfczZh7U",
       "thumbnail": "https://i.ytimg.com/vi/E2CjfczZh7U/mqdefault.jpg",
       "published": "2026-07-10T19:00:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O QUE ESPERAR DO GRÊMIO CONTRA O CRUZEIRO? | AS NOVIDADES ENVOLVENDO NEGOCIAÇÕES | IMORTAL FC",
-      "videoId": "6m_fcDz8j0c",
-      "url": "https://www.youtube.com/watch?v=6m_fcDz8j0c",
-      "thumbnail": "https://i.ytimg.com/vi/6m_fcDz8j0c/mqdefault_live.jpg",
-      "published": "2026-07-10T17:09:27Z"
     }
   ]
 }
