@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-11T17:01:09.607048+00:00",
+  "updated_at": "2026-07-11T17:52:53.507174+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA WESLEY | DRIBLADOR APROVADO POR CASTRO | SUBSTITUTO DE AMUZU?!",
+      "videoId": "KHy4fNoIsCY",
+      "url": "https://www.youtube.com/watch?v=KHy4fNoIsCY",
+      "thumbnail": "https://i.ytimg.com/vi/KHy4fNoIsCY/mqdefault.jpg",
+      "published": "2026-07-11T17:00:36Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio KTO: WESLEY NA MIRA | BRAITHWAITE VOLTA | MATHEUS REVELA BASTIDOR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=6xbToTjrWuw",
       "thumbnail": "https://i.ytimg.com/vi/6xbToTjrWuw/mqdefault.jpg",
       "published": "2026-07-11T05:00:34Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 ATACANTE DO SÃO PAULO TENTADO | DÍVIDA COM O ELENCO F5 | F5 THIAGO MAIA",
-      "videoId": "eDTytzrKlQQ",
-      "url": "https://www.youtube.com/watch?v=eDTytzrKlQQ",
-      "thumbnail": "https://i.ytimg.com/vi/eDTytzrKlQQ/mqdefault.jpg",
-      "published": "2026-07-11T03:35:26Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "José Ivo Sartori | Memórias do Piratini",
+      "videoId": "-frimERDnho",
+      "url": "https://www.youtube.com/watch?v=-frimERDnho",
+      "thumbnail": "https://i.ytimg.com/vi/-frimERDnho/mqdefault.jpg",
+      "published": "2026-07-11T17:04:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "5 anos da CEEE Equatorial: o que mudou na distribuição de energia no RS?",
       "videoId": "LPlWRtCOa28",
       "url": "https://www.youtube.com/watch?v=LPlWRtCOa28",
       "thumbnail": "https://i.ytimg.com/vi/LPlWRtCOa28/mqdefault.jpg",
       "published": "2026-07-11T16:14:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "O CONVITE e os filmes em que é melhor EVITAR SPOILERS | Dica do Ticiano",
-      "videoId": "i-IIuAvxEaQ",
-      "url": "https://www.youtube.com/watch?v=i-IIuAvxEaQ",
-      "thumbnail": "https://i.ytimg.com/vi/i-IIuAvxEaQ/mqdefault.jpg",
-      "published": "2026-07-11T16:04:06Z"
     },
     {
       "channel": "Jeremias Wernek",
