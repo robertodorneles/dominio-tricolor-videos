@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T00:00:54.460086+00:00",
+  "updated_at": "2026-07-11T01:00:53.668397+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨SAÍDA APÓS DOIS CONFLITOS | ATACANTE NA MIRA | MEC NÃO VAI MAIS SAIR DO GRÊMIO?",
+      "title": "🚨DOIS CONFLITOS E SAÍDA NO GRÊMO | ATACANTE NA MIRA | MEC NÃO VAI MAIS SAIR?",
       "videoId": "J0qr7mntm14",
       "url": "https://www.youtube.com/watch?v=J0qr7mntm14",
       "thumbnail": "https://i.ytimg.com/vi/J0qr7mntm14/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA CONTRATAÇÃO DE WESLEY? | DIA DE MUITAS NOVIDADES| NOITES DE GRÊMIO #107 - 10/07",
+      "videoId": "A5KJpHJ3hgA",
+      "url": "https://www.youtube.com/watch?v=A5KJpHJ3hgA",
+      "thumbnail": "https://i.ytimg.com/vi/A5KJpHJ3hgA/mqdefault_live.jpg",
+      "published": "2026-07-11T00:03:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO TENTA EMPRÉSTIMO DE ATACANTE | O QUE ESPERAR DO TIME CONTRA O CRUZEIRO | IMORTAL FC",
       "videoId": "6m_fcDz8j0c",
       "url": "https://www.youtube.com/watch?v=6m_fcDz8j0c",
       "thumbnail": "https://i.ytimg.com/vi/6m_fcDz8j0c/mqdefault.jpg",
       "published": "2026-07-10T22:45:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA CONTRATAÇÃO DE WESLEY? | DIA DE MUITAS NOVIDADES| NOITES DE GRÊMIO #107 - 10/07",
-      "videoId": "A5KJpHJ3hgA",
-      "url": "https://www.youtube.com/watch?v=A5KJpHJ3hgA",
-      "thumbnail": "https://i.ytimg.com/vi/A5KJpHJ3hgA/mqdefault_live.jpg",
-      "published": "2026-07-10T21:23:05Z"
     }
   ]
 }
