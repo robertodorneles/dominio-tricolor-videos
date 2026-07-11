@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T19:00:56.166951+00:00",
-  "total": 29,
+  "updated_at": "2026-07-11T20:01:07.579874+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE BRASÍLIA-DF",
+      "videoId": "RsjTgLMw4VA",
+      "url": "https://www.youtube.com/watch?v=RsjTgLMw4VA",
+      "thumbnail": "https://i.ytimg.com/vi/RsjTgLMw4VA/mqdefault_live.jpg",
+      "published": "2026-07-11T19:48:21Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO TRABALHA PARA TRAZER REFORÇO AGORA🔹 THE TARDE 🔹#184",
       "videoId": "BqjjPFY5Ink",
       "url": "https://www.youtube.com/watch?v=BqjjPFY5Ink",
       "thumbnail": "https://i.ytimg.com/vi/BqjjPFY5Ink/mqdefault.jpg",
       "published": "2026-07-10T20:12:39Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "VITÓRIA COBRA O GRÊMIO PUBLICAMENTE | INTER BUSCA CENTROAVANTE NOS EUA🔸RESENHA FORA DA SALA🔸#083",
-      "videoId": "rD8R98wYwOE",
-      "url": "https://www.youtube.com/watch?v=rD8R98wYwOE",
-      "thumbnail": "https://i.ytimg.com/vi/rD8R98wYwOE/mqdefault.jpg",
-      "published": "2026-07-10T18:30:26Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,11 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GOLS DE INTER 1 (5) X (4) 1 JUVENTUDE | NARRAÇÃO DE BERNARDO BURTET | GAUCHÃO SUB-20 | 11/07/26",
+      "videoId": "7hmXcXsTWTU",
+      "url": "https://www.youtube.com/watch?v=7hmXcXsTWTU",
+      "thumbnail": "https://i.ytimg.com/vi/7hmXcXsTWTU/mqdefault.jpg",
+      "published": "2026-07-11T19:54:18Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "11/07/2026 | JOGO COMPLETO | INTER 1(5) X 1(4) JUVENTUDE | RÁDIO GRENAL",
       "videoId": "7wQFxZB8dy8",
       "url": "https://www.youtube.com/watch?v=7wQFxZB8dy8",
-      "thumbnail": "https://i.ytimg.com/vi/7wQFxZB8dy8/mqdefault_live.jpg",
-      "published": "2026-07-11T19:00:40Z"
+      "thumbnail": "https://i.ytimg.com/vi/7wQFxZB8dy8/mqdefault.jpg",
+      "published": "2026-07-11T19:13:20Z"
     },
     {
       "channel": "Radio Imortal",
