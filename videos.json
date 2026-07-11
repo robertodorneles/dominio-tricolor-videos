@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T13:00:52.085786+00:00",
+  "updated_at": "2026-07-11T13:10:13.281775+00:00",
   "total": 30,
   "videos": [
     {
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "JEREMIAS RESPONDE: Qual o teto do Grêmio? Patrocínio master, CDD, dívida do Inter, jejum",
+      "videoId": "K-jY-s_mufE",
+      "url": "https://www.youtube.com/watch?v=K-jY-s_mufE",
+      "thumbnail": "https://i.ytimg.com/vi/K-jY-s_mufE/mqdefault.jpg",
+      "published": "2026-07-11T13:03:28Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "COLEGA DO CR7 NO GRÊMIO? Info e bastidores +F5 no lateral e o novo atacante",
       "videoId": "dj_MYzE9Gsw",
       "url": "https://www.youtube.com/watch?v=dj_MYzE9Gsw",
       "thumbnail": "https://i.ytimg.com/vi/dj_MYzE9Gsw/mqdefault.jpg",
       "published": "2026-07-10T21:53:05Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Grêmio e Inter de volta com Banrisul? Wagner Leonardo, dívida e o Vitória",
-      "videoId": "RmofBAI1tw4",
-      "url": "https://www.youtube.com/watch?v=RmofBAI1tw4",
-      "thumbnail": "https://i.ytimg.com/vi/RmofBAI1tw4/mqdefault.jpg",
-      "published": "2026-07-09T23:05:08Z"
     },
     {
       "channel": "LH Benfica",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "11/07/2026 | ESQUENTANDO JOGO | INTER X JUVENTUDE | GAUCHÃO SUB-20 | RÁDIO GRENAL",
       "videoId": "7wQFxZB8dy8",
       "url": "https://www.youtube.com/watch?v=7wQFxZB8dy8",
       "thumbnail": "https://i.ytimg.com/vi/7wQFxZB8dy8/mqdefault_live.jpg",
       "published": "2026-07-10T23:02:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO EM BUSCA DE LATERAL E ATACANTE NO MERCADO | ALTERAÇÕES NO TIME? | PLANTÃO IMORTAL",
+      "videoId": "1ufG1HQHodU",
+      "url": "https://www.youtube.com/watch?v=1ufG1HQHodU",
+      "thumbnail": "https://i.ytimg.com/vi/1ufG1HQHodU/mqdefault_live.jpg",
+      "published": "2026-07-11T13:02:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=ioNF62fnmNk",
       "thumbnail": "https://i.ytimg.com/vi/ioNF62fnmNk/mqdefault.jpg",
       "published": "2026-07-11T11:00:10Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA CONTRATAÇÃO DE WESLEY? | DIA DE MUITAS NOVIDADES| NOITES DE GRÊMIO #107 - 10/07",
-      "videoId": "A5KJpHJ3hgA",
-      "url": "https://www.youtube.com/watch?v=A5KJpHJ3hgA",
-      "thumbnail": "https://i.ytimg.com/vi/A5KJpHJ3hgA/mqdefault.jpg",
-      "published": "2026-07-11T02:04:50Z"
     }
   ]
 }
