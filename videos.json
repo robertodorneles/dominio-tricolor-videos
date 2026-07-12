@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-12T11:01:06.970279+00:00",
+  "updated_at": "2026-07-12T11:56:23.109446+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 O ASSUNTO QUE TIRA O SONO | TROCA POR MAIA? | CAMPEAO NO SUB20",
+      "videoId": "3jAVms3MwAw",
+      "url": "https://www.youtube.com/watch?v=3jAVms3MwAw",
+      "thumbnail": "https://i.ytimg.com/vi/3jAVms3MwAw/mqdefault.jpg",
+      "published": "2026-07-12T11:34:53Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Dário do Grêmio: BAIXA CONFIRMADA! | MATHEUS NASCIMENTO | ÚLTIMO TESTE DO GRÊMIO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=L0ltjiMIIJc",
       "thumbnail": "https://i.ytimg.com/vi/L0ltjiMIIJc/mqdefault.jpg",
       "published": "2026-07-12T05:00:36Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA WESLEY | DRIBLADOR APROVADO POR CASTRO | SUBSTITUTO DE AMUZU?!",
-      "videoId": "KHy4fNoIsCY",
-      "url": "https://www.youtube.com/watch?v=KHy4fNoIsCY",
-      "thumbnail": "https://i.ytimg.com/vi/KHy4fNoIsCY/mqdefault.jpg",
-      "published": "2026-07-11T17:00:36Z"
     },
     {
       "channel": "Bage TV",
