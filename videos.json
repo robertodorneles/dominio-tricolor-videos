@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:23:57.871749+00:00",
+  "updated_at": "2026-07-12T11:01:06.970279+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 12/07 - GRÊMIO 3X0 CORINTHIANS (BRASILEIRÃO 2009)",
+      "videoId": "8tfnm5UE-0A",
+      "url": "https://www.youtube.com/watch?v=8tfnm5UE-0A",
+      "thumbnail": "https://i.ytimg.com/vi/8tfnm5UE-0A/mqdefault.jpg",
+      "published": "2026-07-12T11:00:07Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O AMISTOSO CONTRA O CRUZEIRO | ATUALIZAÇÕES DOS NEGÓCIOS | PLANTÃO",
       "videoId": "N8FPc9xAttk",
       "url": "https://www.youtube.com/watch?v=N8FPc9xAttk",
       "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault_live.jpg",
       "published": "2026-07-11T16:48:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
-      "videoId": "3-giWpolNrg",
-      "url": "https://www.youtube.com/watch?v=3-giWpolNrg",
-      "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault_live.jpg",
-      "published": "2026-07-11T16:39:09Z"
     }
   ]
 }
