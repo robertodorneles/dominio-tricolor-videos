@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T14:00:55.328477+00:00",
+  "updated_at": "2026-07-12T14:52:46.642410+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO ESCOLHE REFORÇO E ALINHA SAÍDA | MEIA QUINTERO VEM PRO BRASIL? | DIA DE AMISTOSO | COPA",
+      "videoId": "6armq5nc7ew",
+      "url": "https://www.youtube.com/watch?v=6armq5nc7ew",
+      "thumbnail": "https://i.ytimg.com/vi/6armq5nc7ew/mqdefault.jpg",
+      "published": "2026-07-12T14:05:10Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRÊMIO AVANÇA EM 3 REFORÇOS! BOAS NOTÍCIAS | O TIME PROVÁVEL PRO AMISTOSO CONTRA O CRUZEIRO!",
       "videoId": "krMhc1X2D3c",
       "url": "https://www.youtube.com/watch?v=krMhc1X2D3c",
       "thumbnail": "https://i.ytimg.com/vi/krMhc1X2D3c/mqdefault.jpg",
       "published": "2026-07-11T23:44:30Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CRESPO, TITE, RENATO.. 10 TÉCNICOS PRA VIR PRO GRÊMIO PRO LUGAR DE LUÍS CASTRO! É HORA DE MUDAR!",
-      "videoId": "zwt0ChT7BAI",
-      "url": "https://www.youtube.com/watch?v=zwt0ChT7BAI",
-      "thumbnail": "https://i.ytimg.com/vi/zwt0ChT7BAI/mqdefault.jpg",
-      "published": "2026-07-11T14:59:02Z"
     },
     {
       "channel": "Canal do CCD",
@@ -232,7 +232,7 @@
       "videoId": "N8FPc9xAttk",
       "url": "https://www.youtube.com/watch?v=N8FPc9xAttk",
       "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault_live.jpg",
-      "published": "2026-07-12T13:01:52Z"
+      "published": "2026-07-12T14:49:45Z"
     },
     {
       "channel": "Radio Imortal",
