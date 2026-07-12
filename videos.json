@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T23:01:06.528422+00:00",
+  "updated_at": "2026-07-12T23:50:09.471112+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,16 @@
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CRUZEIRO",
       "videoId": "3xTOM7KWf8A",
       "url": "https://www.youtube.com/watch?v=3xTOM7KWf8A",
-      "thumbnail": "https://i.ytimg.com/vi/3xTOM7KWf8A/mqdefault_live.jpg",
-      "published": "2026-07-12T18:00:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/3xTOM7KWf8A/mqdefault.jpg",
+      "published": "2026-07-12T23:40:06Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE BRASÍLIA-DF",
-      "videoId": "RsjTgLMw4VA",
-      "url": "https://www.youtube.com/watch?v=RsjTgLMw4VA",
-      "thumbnail": "https://i.ytimg.com/vi/RsjTgLMw4VA/mqdefault.jpg",
-      "published": "2026-07-11T20:53:02Z"
+      "title": "🇪🇪⚫️⚽️🔵 GRÊMIO TEVE ATITUDE NA VITÓRIA CONTRA O CRUZEIRO",
+      "videoId": "MFER1iXE3Og",
+      "url": "https://www.youtube.com/watch?v=MFER1iXE3Og",
+      "thumbnail": "https://i.ytimg.com/vi/MFER1iXE3Og/mqdefault.jpg",
+      "published": "2026-07-12T23:09:46Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,27 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Grêmio 3 x 1 Cruzeiro: vitória com muitos pontos positivos",
-      "videoId": "ssxvuUMNfm0",
-      "url": "https://www.youtube.com/watch?v=ssxvuUMNfm0",
-      "thumbnail": "https://i.ytimg.com/vi/ssxvuUMNfm0/mqdefault.jpg",
-      "published": "2026-07-12T22:27:10Z"
-    },
-    {
-      "channel": "Canal do CCD",
       "title": "LIVE DE DOMINGO - GRÊMIO 3 X 1 CRUZEIRO | JOVANE CABRAL CONTRATADO",
       "videoId": "KYwQFrcibOc",
       "url": "https://www.youtube.com/watch?v=KYwQFrcibOc",
-      "thumbnail": "https://i.ytimg.com/vi/KYwQFrcibOc/mqdefault_live.jpg",
-      "published": "2026-07-12T22:04:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/KYwQFrcibOc/mqdefault.jpg",
+      "published": "2026-07-12T23:39:48Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Conheça Jovane Cabral de Cabo Verde, o novo reforço do Grêmio",
+      "videoId": "hxROzkHClow",
+      "url": "https://www.youtube.com/watch?v=hxROzkHClow",
+      "thumbnail": "https://i.ytimg.com/vi/hxROzkHClow/mqdefault.jpg",
+      "published": "2026-07-12T23:30:02Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "REFORÇO DE COPA DO MUNDO NO GRÊMIO!!!",
+      "videoId": "2Mras2FGEMU",
+      "url": "https://www.youtube.com/watch?v=2Mras2FGEMU",
+      "thumbnail": "https://i.ytimg.com/vi/2Mras2FGEMU/mqdefault.jpg",
+      "published": "2026-07-12T23:06:27Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=AbT0R9pE1tA",
       "thumbnail": "https://i.ytimg.com/vi/AbT0R9pE1tA/mqdefault.jpg",
       "published": "2026-07-11T00:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "MALAS PRONTAS | GRÊMIO FORTE - OPINIÃO DO FARID",
-      "videoId": "id8CmngYAB4",
-      "url": "https://www.youtube.com/watch?v=id8CmngYAB4",
-      "thumbnail": "https://i.ytimg.com/vi/id8CmngYAB4/mqdefault.jpg",
-      "published": "2026-07-10T23:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "LUIS CASTRO CONFIRMA: JOVANE CABRAL | QUEM É? | COMENTÁRIO GRÊMIO 3 X 1 CRUZEIRO.",
+      "videoId": "eaOqxEs96cY",
+      "url": "https://www.youtube.com/watch?v=eaOqxEs96cY",
+      "thumbnail": "https://i.ytimg.com/vi/eaOqxEs96cY/mqdefault.jpg",
+      "published": "2026-07-12T23:31:52Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X CRUZEIRO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | AMISTOSO",
       "videoId": "bUa1t5U3MJQ",
       "url": "https://www.youtube.com/watch?v=bUa1t5U3MJQ",
       "thumbnail": "https://i.ytimg.com/vi/bUa1t5U3MJQ/mqdefault.jpg",
       "published": "2026-07-12T22:49:20Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO VENCEU! GREMIO 3 X 1 CRUZEIRO #gremio #Futebol #Cruzeiro",
-      "videoId": "4POy2hAFYP8",
-      "url": "https://www.youtube.com/watch?v=4POy2hAFYP8",
-      "thumbnail": "https://i.ytimg.com/vi/4POy2hAFYP8/mqdefault.jpg",
-      "published": "2026-07-12T22:12:22Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨ÓTIMAS NOTÍCIAS NO GRÊMIO | MAIS UM REFORÇO CONFIRMADO | NOVO GOLEADOR",
+      "videoId": "11qIRO_TH4U",
+      "url": "https://www.youtube.com/watch?v=11qIRO_TH4U",
+      "thumbnail": "https://i.ytimg.com/vi/11qIRO_TH4U/mqdefault.jpg",
+      "published": "2026-07-12T23:35:39Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨O REFORÇO MAIS PRÓXIMO DO GRÊMIO | \"TERMINOU A FARRA FINANCEIRA\" | COMO ESTÁ A TRATATIVA COM WESLEY",
       "videoId": "yCt8sZtfN3c",
       "url": "https://www.youtube.com/watch?v=yCt8sZtfN3c",
@@ -203,36 +211,28 @@
       "published": "2026-07-11T21:53:08Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨UM BAITA REFORÇO PRO GRÊMIO | A VERDADE SOBRE PATROCÍNIO | DIRIGENTE DÁ ÓTIMA PISTA",
-      "videoId": "Fdjde5eVEvg",
-      "url": "https://www.youtube.com/watch?v=Fdjde5eVEvg",
-      "thumbnail": "https://i.ytimg.com/vi/Fdjde5eVEvg/mqdefault.jpg",
-      "published": "2026-07-10T22:25:32Z"
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | CRUZEIRO 3 X 1 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
+      "videoId": "cO5VlmEFmL4",
+      "url": "https://www.youtube.com/watch?v=cO5VlmEFmL4",
+      "thumbnail": "https://i.ytimg.com/vi/cO5VlmEFmL4/mqdefault.jpg",
+      "published": "2026-07-12T23:48:16Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "12/07/2026 | DEBATE BOLA | CRUZEIRO 1 X 3 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
-      "videoId": "dr0UkAT5WXc",
-      "url": "https://www.youtube.com/watch?v=dr0UkAT5WXc",
-      "thumbnail": "https://i.ytimg.com/vi/dr0UkAT5WXc/mqdefault_live.jpg",
-      "published": "2026-07-12T18:02:57Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE INTER 1 (5) X (4) 1 JUVENTUDE | NARRAÇÃO DE BERNARDO BURTET | GAUCHÃO SUB-20 | 11/07/26",
-      "videoId": "7hmXcXsTWTU",
-      "url": "https://www.youtube.com/watch?v=7hmXcXsTWTU",
-      "thumbnail": "https://i.ytimg.com/vi/7hmXcXsTWTU/mqdefault.jpg",
-      "published": "2026-07-11T19:54:18Z"
+      "title": "GOLS DE CRUZEIRO 1 X 3 GRÊMIO - NARRAÇÃO PC CARVALHO |  AMISTOSO | 12/07/2026 | RÁDIO GRENAL",
+      "videoId": "iZqFApqD0Qo",
+      "url": "https://www.youtube.com/watch?v=iZqFApqD0Qo",
+      "thumbnail": "https://i.ytimg.com/vi/iZqFApqD0Qo/mqdefault.jpg",
+      "published": "2026-07-12T23:23:06Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (1) CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
       "videoId": "3-giWpolNrg",
       "url": "https://www.youtube.com/watch?v=3-giWpolNrg",
-      "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault_live.jpg",
-      "published": "2026-07-12T18:01:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault.jpg",
+      "published": "2026-07-12T23:15:38Z"
     },
     {
       "channel": "Radio Imortal",
