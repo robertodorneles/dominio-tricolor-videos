@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T18:00:49.870018+00:00",
+  "updated_at": "2026-07-12T19:01:07.911823+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Luan ex-Grêmio reaparece",
+      "videoId": "iQh_rYgxL8M",
+      "url": "https://www.youtube.com/watch?v=iQh_rYgxL8M",
+      "thumbnail": "https://i.ytimg.com/vi/iQh_rYgxL8M/mqdefault.jpg",
+      "published": "2026-07-12T18:35:26Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Luan reaparece | Wagner Leonardo ainda pode sair | Novidade na Fifa e o que muda para o Grêmio",
       "videoId": "t69OwXJKa6M",
       "url": "https://www.youtube.com/watch?v=t69OwXJKa6M",
       "thumbnail": "https://i.ytimg.com/vi/t69OwXJKa6M/mqdefault.jpg",
       "published": "2026-07-12T15:07:35Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Grêmio tenta contratar Wesley do Al Nassr, time do Cristiano Ronaldo",
-      "videoId": "-33WW8afiXo",
-      "url": "https://www.youtube.com/watch?v=-33WW8afiXo",
-      "thumbnail": "https://i.ytimg.com/vi/-33WW8afiXo/mqdefault.jpg",
-      "published": "2026-07-11T16:24:42Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X CRUZEIRO (AMISTOSO 2026)",
+      "videoId": "oiJyam82mVo",
+      "url": "https://www.youtube.com/watch?v=oiJyam82mVo",
+      "thumbnail": "https://i.ytimg.com/vi/oiJyam82mVo/mqdefault_live.jpg",
+      "published": "2026-07-12T18:29:15Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO CHEGA EM BRASÍLIA",
       "videoId": "atqI64181eI",
       "url": "https://www.youtube.com/watch?v=atqI64181eI",
       "thumbnail": "https://i.ytimg.com/vi/atqI64181eI/mqdefault.jpg",
       "published": "2026-07-11T21:53:25Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO FEMININO SEGUE OS TRABALHOS COM O RETORNO DE GISELE",
-      "videoId": "2F6WY_JfVV8",
-      "url": "https://www.youtube.com/watch?v=2F6WY_JfVV8",
-      "thumbnail": "https://i.ytimg.com/vi/2F6WY_JfVV8/mqdefault.jpg",
-      "published": "2026-07-10T20:11:46Z"
     },
     {
       "channel": "GZH Digital",
@@ -216,7 +216,7 @@
       "videoId": "dr0UkAT5WXc",
       "url": "https://www.youtube.com/watch?v=dr0UkAT5WXc",
       "thumbnail": "https://i.ytimg.com/vi/dr0UkAT5WXc/mqdefault_live.jpg",
-      "published": "2026-07-11T20:43:28Z"
+      "published": "2026-07-12T18:02:57Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
+      "videoId": "3-giWpolNrg",
+      "url": "https://www.youtube.com/watch?v=3-giWpolNrg",
+      "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault_live.jpg",
+      "published": "2026-07-12T18:01:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O AMISTOSO CONTRA O CRUZEIRO | ATUALIZAÇÕES DOS NEGÓCIOS | PLANTÃO",
       "videoId": "N8FPc9xAttk",
       "url": "https://www.youtube.com/watch?v=N8FPc9xAttk",
       "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault.jpg",
       "published": "2026-07-12T15:13:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 12/07 - GRÊMIO 3X0 CORINTHIANS (BRASILEIRÃO 2009)",
-      "videoId": "8tfnm5UE-0A",
-      "url": "https://www.youtube.com/watch?v=8tfnm5UE-0A",
-      "thumbnail": "https://i.ytimg.com/vi/8tfnm5UE-0A/mqdefault.jpg",
-      "published": "2026-07-12T11:00:07Z"
     }
   ]
 }
