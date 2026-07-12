@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T15:01:10.116266+00:00",
+  "updated_at": "2026-07-12T15:56:23.560348+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Luan reaparece | Wagner Leonardo ainda pode sair | Novidade na Fifa e o que muda para o Grêmio",
+      "videoId": "t69OwXJKa6M",
+      "url": "https://www.youtube.com/watch?v=t69OwXJKa6M",
+      "thumbnail": "https://i.ytimg.com/vi/t69OwXJKa6M/mqdefault.jpg",
+      "published": "2026-07-12T15:07:35Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Grêmio tenta contratar Wesley do Al Nassr, time do Cristiano Ronaldo",
       "videoId": "-33WW8afiXo",
       "url": "https://www.youtube.com/watch?v=-33WW8afiXo",
@@ -91,12 +99,12 @@
       "published": "2026-07-11T16:24:42Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Grêmio tenta Wesley, atacante do time de CR7 | Veja lances dele | Situação de Diego Caito e Mandaca",
-      "videoId": "yZClSDdJORo",
-      "url": "https://www.youtube.com/watch?v=yZClSDdJORo",
-      "thumbnail": "https://i.ytimg.com/vi/yZClSDdJORo/mqdefault.jpg",
-      "published": "2026-07-11T14:34:32Z"
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO X CRUZEIRO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | AMISTOSO",
+      "videoId": "bUa1t5U3MJQ",
+      "url": "https://www.youtube.com/watch?v=bUa1t5U3MJQ",
+      "thumbnail": "https://i.ytimg.com/vi/bUa1t5U3MJQ/mqdefault_live.jpg",
+      "published": "2026-07-12T15:33:18Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=4vgsgKIMHL8",
       "thumbnail": "https://i.ytimg.com/vi/4vgsgKIMHL8/mqdefault.jpg",
       "published": "2026-07-12T03:56:05Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NOVIDADES NA ARENA | ESTREIA E AUSÊNCIAS: GRÊMIO X CRUZEIRO.",
-      "videoId": "kAn6Ie9C_ms",
-      "url": "https://www.youtube.com/watch?v=kAn6Ie9C_ms",
-      "thumbnail": "https://i.ytimg.com/vi/kAn6Ie9C_ms/mqdefault.jpg",
-      "published": "2026-07-11T22:56:45Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -231,8 +231,8 @@
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O AMISTOSO CONTRA O CRUZEIRO | ATUALIZAÇÕES DOS NEGÓCIOS | PLANTÃO",
       "videoId": "N8FPc9xAttk",
       "url": "https://www.youtube.com/watch?v=N8FPc9xAttk",
-      "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault_live.jpg",
-      "published": "2026-07-12T14:49:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault.jpg",
+      "published": "2026-07-12T15:13:24Z"
     },
     {
       "channel": "Radio Imortal",
