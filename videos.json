@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-12T03:16:37.851027+00:00",
+  "updated_at": "2026-07-12T09:01:06.329965+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Dário do Grêmio: BAIXA CONFIRMADA! | MATHEUS NASCIMENTO | ÚLTIMO TESTE DO GRÊMIO",
+      "videoId": "L0ltjiMIIJc",
+      "url": "https://www.youtube.com/watch?v=L0ltjiMIIJc",
+      "thumbnail": "https://i.ytimg.com/vi/L0ltjiMIIJc/mqdefault.jpg",
+      "published": "2026-07-12T05:00:36Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA COMO JOGA WESLEY | DRIBLADOR APROVADO POR CASTRO | SUBSTITUTO DE AMUZU?!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=KHy4fNoIsCY",
       "thumbnail": "https://i.ytimg.com/vi/KHy4fNoIsCY/mqdefault.jpg",
       "published": "2026-07-11T17:00:36Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio KTO: WESLEY NA MIRA | BRAITHWAITE VOLTA | MATHEUS REVELA BASTIDOR",
-      "videoId": "6xbToTjrWuw",
-      "url": "https://www.youtube.com/watch?v=6xbToTjrWuw",
-      "thumbnail": "https://i.ytimg.com/vi/6xbToTjrWuw/mqdefault.jpg",
-      "published": "2026-07-11T05:00:34Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "EU TENTEI, MAS FOI MAIS FORTE! 🇦🇷3X1🇨🇭 | Argentina x Suíça | #copa #Futebol",
+      "videoId": "4vgsgKIMHL8",
+      "url": "https://www.youtube.com/watch?v=4vgsgKIMHL8",
+      "thumbnail": "https://i.ytimg.com/vi/4vgsgKIMHL8/mqdefault.jpg",
+      "published": "2026-07-12T03:56:05Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "NOVIDADES NA ARENA | ESTREIA E AUSÊNCIAS: GRÊMIO X CRUZEIRO.",
       "videoId": "kAn6Ie9C_ms",
       "url": "https://www.youtube.com/watch?v=kAn6Ie9C_ms",
       "thumbnail": "https://i.ytimg.com/vi/kAn6Ie9C_ms/mqdefault.jpg",
       "published": "2026-07-11T22:56:45Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NOVO ATACANTE NO GRÊMIO? WESLEY! #gremio #Futebol",
-      "videoId": "QmHqGl-3ZEk",
-      "url": "https://www.youtube.com/watch?v=QmHqGl-3ZEk",
-      "thumbnail": "https://i.ytimg.com/vi/QmHqGl-3ZEk/mqdefault.jpg",
-      "published": "2026-07-11T17:00:10Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Copa do Mundo, Batalha Musical, notícias do RS e mais | SuperSábado | 11/07/2026",
+      "videoId": "wMijBbgaiu4",
+      "url": "https://www.youtube.com/watch?v=wMijBbgaiu4",
+      "thumbnail": "https://i.ytimg.com/vi/wMijBbgaiu4/mqdefault.jpg",
+      "published": "2026-07-12T03:22:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A GASTRONOMIA AINDA É ELITISTA? Diogo Carvalho e Lela Zaniol falam SEM FILTRO | Paralelas",
       "videoId": "jHfrIllIotQ",
       "url": "https://www.youtube.com/watch?v=jHfrIllIotQ",
       "thumbnail": "https://i.ytimg.com/vi/jHfrIllIotQ/mqdefault.jpg",
       "published": "2026-07-11T21:00:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Terapia com ChatGPT? Apoio ou risco à saúde mental? | Radar de Inovação",
-      "videoId": "bV2412QIiQI",
-      "url": "https://www.youtube.com/watch?v=bV2412QIiQI",
-      "thumbnail": "https://i.ytimg.com/vi/bV2412QIiQI/mqdefault.jpg",
-      "published": "2026-07-11T19:00:17Z"
     },
     {
       "channel": "Jeremias Wernek",
