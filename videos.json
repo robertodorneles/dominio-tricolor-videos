@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-12T22:00:54.478694+00:00",
+  "updated_at": "2026-07-12T22:42:53.292266+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 3x1 Cruzeiro: O GRÊMIO ESTÁ PRONTO? | VITÓRIA, ALERTAS E UMA CERTEZA",
+      "videoId": "KBLSej74jxc",
+      "url": "https://www.youtube.com/watch?v=KBLSej74jxc",
+      "thumbnail": "https://i.ytimg.com/vi/KBLSej74jxc/mqdefault.jpg",
+      "published": "2026-07-12T22:35:42Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 O ASSUNTO QUE TIRA O SONO | TROCA POR MAIA? | CAMPEAO NO SUB20",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=3jAVms3MwAw",
       "thumbnail": "https://i.ytimg.com/vi/3jAVms3MwAw/mqdefault.jpg",
       "published": "2026-07-12T11:34:53Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Dário do Grêmio: BAIXA CONFIRMADA! | MATHEUS NASCIMENTO | ÚLTIMO TESTE DO GRÊMIO",
-      "videoId": "L0ltjiMIIJc",
-      "url": "https://www.youtube.com/watch?v=L0ltjiMIIJc",
-      "thumbnail": "https://i.ytimg.com/vi/L0ltjiMIIJc/mqdefault.jpg",
-      "published": "2026-07-12T05:00:36Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Grêmio 3 x 1 Cruzeiro: vitória com muitos pontos positivos",
+      "videoId": "ssxvuUMNfm0",
+      "url": "https://www.youtube.com/watch?v=ssxvuUMNfm0",
+      "thumbnail": "https://i.ytimg.com/vi/ssxvuUMNfm0/mqdefault.jpg",
+      "published": "2026-07-12T22:27:10Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "LIVE DE DOMINGO - TUDO SOBRE GRÊMIO X CRUZEIRO",
       "videoId": "KYwQFrcibOc",
       "url": "https://www.youtube.com/watch?v=KYwQFrcibOc",
       "thumbnail": "https://i.ytimg.com/vi/KYwQFrcibOc/mqdefault_live.jpg",
-      "published": "2026-07-11T21:57:43Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #626: Dinheiro extra | Master e Naming Rights | Diego Caito | Mandaca | Wesley e +",
-      "videoId": "qTXjU13bRbI",
-      "url": "https://www.youtube.com/watch?v=qTXjU13bRbI",
-      "thumbnail": "https://i.ytimg.com/vi/qTXjU13bRbI/mqdefault.jpg",
-      "published": "2026-07-11T21:49:23Z"
+      "published": "2026-07-12T22:04:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,11 +100,11 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "VAMOS GRÊMIO! NOVIDADES! #gremio #futebol",
-      "videoId": "jYWiyJao8Uc",
-      "url": "https://www.youtube.com/watch?v=jYWiyJao8Uc",
-      "thumbnail": "https://i.ytimg.com/vi/jYWiyJao8Uc/mqdefault.jpg",
-      "published": "2026-07-12T16:00:22Z"
+      "title": "GRÊMIO VENCEU! GREMIO 3 X 1 CRUZEIRO #gremio #Futebol #Cruzeiro",
+      "videoId": "4POy2hAFYP8",
+      "url": "https://www.youtube.com/watch?v=4POy2hAFYP8",
+      "thumbnail": "https://i.ytimg.com/vi/4POy2hAFYP8/mqdefault.jpg",
+      "published": "2026-07-12T22:12:22Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -112,7 +112,7 @@
       "videoId": "bUa1t5U3MJQ",
       "url": "https://www.youtube.com/watch?v=bUa1t5U3MJQ",
       "thumbnail": "https://i.ytimg.com/vi/bUa1t5U3MJQ/mqdefault_live.jpg",
-      "published": "2026-07-12T15:33:18Z"
+      "published": "2026-07-12T22:08:57Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -152,7 +152,7 @@
       "videoId": "oiJyam82mVo",
       "url": "https://www.youtube.com/watch?v=oiJyam82mVo",
       "thumbnail": "https://i.ytimg.com/vi/oiJyam82mVo/mqdefault_live.jpg",
-      "published": "2026-07-12T18:29:15Z"
+      "published": "2026-07-12T22:37:49Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "12/07/2026 | JORNADA ESPORTIVA | CRUZEIRO 1 X 2 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
+      "title": "12/07/2026 | DEBATE BOLA | CRUZEIRO 1 X 3 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
       "videoId": "dr0UkAT5WXc",
       "url": "https://www.youtube.com/watch?v=dr0UkAT5WXc",
       "thumbnail": "https://i.ytimg.com/vi/dr0UkAT5WXc/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (3) X (1) CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (1) CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
       "videoId": "3-giWpolNrg",
       "url": "https://www.youtube.com/watch?v=3-giWpolNrg",
       "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault_live.jpg",
