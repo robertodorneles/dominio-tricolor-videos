@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:00:56.489898+00:00",
+  "updated_at": "2026-07-13T11:01:10.719442+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#185",
-      "videoId": "yiAGTq71iaM",
-      "url": "https://www.youtube.com/watch?v=yiAGTq71iaM",
-      "thumbnail": "https://i.ytimg.com/vi/yiAGTq71iaM/mqdefault_live.jpg",
-      "published": "2026-07-13T09:59:54Z"
+      "title": "🔹 THE TARDE 🔹#189",
+      "videoId": "A3cfnv9N1ys",
+      "url": "https://www.youtube.com/watch?v=A3cfnv9N1ys",
+      "thumbnail": "https://i.ytimg.com/vi/A3cfnv9N1ys/mqdefault_live.jpg",
+      "published": "2026-07-13T10:05:41Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Super El Niño, greve do transporte público em São Leopoldo e mais | Gaúcha Atualidade | 13/07/2026",
+      "videoId": "LkDMAfnmf_8",
+      "url": "https://www.youtube.com/watch?v=LkDMAfnmf_8",
+      "thumbnail": "https://i.ytimg.com/vi/LkDMAfnmf_8/mqdefault_live.jpg",
+      "published": "2026-07-13T10:57:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O CONVITE: fui ao cinema sem saber NADA e VALEU A PENA | Dica do Ticiano",
       "videoId": "z-HrQ60t7Zc",
       "url": "https://www.youtube.com/watch?v=z-HrQ60t7Zc",
       "thumbnail": "https://i.ytimg.com/vi/z-HrQ60t7Zc/mqdefault.jpg",
       "published": "2026-07-12T16:30:14Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "O QUE AFASTAVA AS PESSOAS DA GASTRONOMIA? Diogo Carvalho e Lela Zaniol falam SEM FILTRO | Paralelas",
-      "videoId": "wag0C8UzFiQ",
-      "url": "https://www.youtube.com/watch?v=wag0C8UzFiQ",
-      "thumbnail": "https://i.ytimg.com/vi/wag0C8UzFiQ/mqdefault.jpg",
-      "published": "2026-07-12T14:00:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "13/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "qyP5ps1kjn4",
+      "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
+      "thumbnail": "https://i.ytimg.com/vi/qyP5ps1kjn4/mqdefault_live.jpg",
+      "published": "2026-07-13T10:24:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "12/07/2026 | JOGO COMPLETO | CRUZEIRO 1 X 3 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
       "videoId": "dr0UkAT5WXc",
       "url": "https://www.youtube.com/watch?v=dr0UkAT5WXc",
@@ -219,12 +227,12 @@
       "published": "2026-07-13T00:56:01Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | CRUZEIRO 3 X 1 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
-      "videoId": "cO5VlmEFmL4",
-      "url": "https://www.youtube.com/watch?v=cO5VlmEFmL4",
-      "thumbnail": "https://i.ytimg.com/vi/cO5VlmEFmL4/mqdefault.jpg",
-      "published": "2026-07-12T23:48:16Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 13/07 - GRÊMIO 2X1 inter (1952)",
+      "videoId": "L5occVPS6vI",
+      "url": "https://www.youtube.com/watch?v=L5occVPS6vI",
+      "thumbnail": "https://i.ytimg.com/vi/L5occVPS6vI/mqdefault.jpg",
+      "published": "2026-07-13T11:00:08Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=lA2OUE_DU08",
       "thumbnail": "https://i.ytimg.com/vi/lA2OUE_DU08/mqdefault_live.jpg",
       "published": "2026-07-13T00:25:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #111 — GRÊMIO CONFIRMA CONTRATAÇÃO E ESTÁ PERTO DE MEIO-CAMPISTA",
-      "videoId": "fFEDFcEx3xM",
-      "url": "https://www.youtube.com/watch?v=fFEDFcEx3xM",
-      "thumbnail": "https://i.ytimg.com/vi/fFEDFcEx3xM/mqdefault_live.jpg",
-      "published": "2026-07-13T00:24:49Z"
     }
   ]
 }
