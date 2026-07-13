@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-13T00:01:06.758997+00:00",
+  "updated_at": "2026-07-13T01:01:10.987101+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: VITÓRIA DO GRÊMIO E RETA FINAL DA COPA | O BRASILEIRÃO VEM AÍ...",
+      "videoId": "FeRHLwT1VP0",
+      "url": "https://www.youtube.com/watch?v=FeRHLwT1VP0",
+      "thumbnail": "https://i.ytimg.com/vi/FeRHLwT1VP0/mqdefault_live.jpg",
+      "published": "2026-07-13T00:05:43Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 3x1 Cruzeiro: O GRÊMIO ESTÁ PRONTO? | VITÓRIA, ALERTAS E UMA CERTEZA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=KBLSej74jxc",
       "thumbnail": "https://i.ytimg.com/vi/KBLSej74jxc/mqdefault.jpg",
       "published": "2026-07-12T22:35:42Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 O ASSUNTO QUE TIRA O SONO | TROCA POR MAIA? | CAMPEAO NO SUB20",
-      "videoId": "3jAVms3MwAw",
-      "url": "https://www.youtube.com/watch?v=3jAVms3MwAw",
-      "thumbnail": "https://i.ytimg.com/vi/3jAVms3MwAw/mqdefault.jpg",
-      "published": "2026-07-12T11:34:53Z"
     },
     {
       "channel": "Bage TV",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Jovane Cabral: conheça o novo atacante do Grêmio que vem de Cabo Verde",
+      "videoId": "AC5pRvTndRI",
+      "url": "https://www.youtube.com/watch?v=AC5pRvTndRI",
+      "thumbnail": "https://i.ytimg.com/vi/AC5pRvTndRI/mqdefault.jpg",
+      "published": "2026-07-13T00:11:06Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Atacante de Cabo Verde contratado | Veja os lances dele | Grêmio prepara anúncio de meia",
       "videoId": "6g7i7RmZJV4",
       "url": "https://www.youtube.com/watch?v=6g7i7RmZJV4",
@@ -91,12 +99,12 @@
       "published": "2026-07-12T23:52:28Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Luan ex-Grêmio reaparece",
-      "videoId": "iQh_rYgxL8M",
-      "url": "https://www.youtube.com/watch?v=iQh_rYgxL8M",
-      "thumbnail": "https://i.ytimg.com/vi/iQh_rYgxL8M/mqdefault.jpg",
-      "published": "2026-07-12T18:35:26Z"
+      "channel": "Careca de Saber TV",
+      "title": "JOVANE CABRAL É DO GRÊMIO | Jogador jogou a copa pela seleção de Cabo Verde. #gremio #Futebol",
+      "videoId": "j3SYFBCn1Ag",
+      "url": "https://www.youtube.com/watch?v=j3SYFBCn1Ag",
+      "thumbnail": "https://i.ytimg.com/vi/j3SYFBCn1Ag/mqdefault.jpg",
+      "published": "2026-07-13T01:00:04Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=eaOqxEs96cY",
       "thumbnail": "https://i.ytimg.com/vi/eaOqxEs96cY/mqdefault.jpg",
       "published": "2026-07-12T23:31:52Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X CRUZEIRO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | AMISTOSO",
-      "videoId": "bUa1t5U3MJQ",
-      "url": "https://www.youtube.com/watch?v=bUa1t5U3MJQ",
-      "thumbnail": "https://i.ytimg.com/vi/bUa1t5U3MJQ/mqdefault.jpg",
-      "published": "2026-07-12T22:49:20Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "12/07/2026 | JOGO COMPLETO | CRUZEIRO 1 X 3 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
+      "videoId": "dr0UkAT5WXc",
+      "url": "https://www.youtube.com/watch?v=dr0UkAT5WXc",
+      "thumbnail": "https://i.ytimg.com/vi/dr0UkAT5WXc/mqdefault.jpg",
+      "published": "2026-07-13T00:56:01Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | CRUZEIRO 3 X 1 GRÊMIO | AMISTOSO | RÁDIO GRENAL",
       "videoId": "cO5VlmEFmL4",
       "url": "https://www.youtube.com/watch?v=cO5VlmEFmL4",
@@ -219,28 +227,20 @@
       "published": "2026-07-12T23:48:16Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE CRUZEIRO 1 X 3 GRÊMIO - NARRAÇÃO PC CARVALHO |  AMISTOSO | 12/07/2026 | RÁDIO GRENAL",
-      "videoId": "iZqFApqD0Qo",
-      "url": "https://www.youtube.com/watch?v=iZqFApqD0Qo",
-      "thumbnail": "https://i.ytimg.com/vi/iZqFApqD0Qo/mqdefault.jpg",
-      "published": "2026-07-12T23:23:06Z"
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 13/07",
+      "videoId": "lA2OUE_DU08",
+      "url": "https://www.youtube.com/watch?v=lA2OUE_DU08",
+      "thumbnail": "https://i.ytimg.com/vi/lA2OUE_DU08/mqdefault_live.jpg",
+      "published": "2026-07-13T00:25:23Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (1) CRUZEIRO | AMISTOSO NO MANÉ GARRINCHA / BRASÍLIA",
-      "videoId": "3-giWpolNrg",
-      "url": "https://www.youtube.com/watch?v=3-giWpolNrg",
-      "thumbnail": "https://i.ytimg.com/vi/3-giWpolNrg/mqdefault.jpg",
-      "published": "2026-07-12T23:15:38Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! TUDO SOBRE O AMISTOSO CONTRA O CRUZEIRO | ATUALIZAÇÕES DOS NEGÓCIOS | PLANTÃO",
-      "videoId": "N8FPc9xAttk",
-      "url": "https://www.youtube.com/watch?v=N8FPc9xAttk",
-      "thumbnail": "https://i.ytimg.com/vi/N8FPc9xAttk/mqdefault.jpg",
-      "published": "2026-07-12T15:13:24Z"
+      "title": "TIMELINE IMORTAL #111 — GRÊMIO CONFIRMA CONTRATAÇÃO E ESTÁ PERTO DE MEIO-CAMPISTA",
+      "videoId": "fFEDFcEx3xM",
+      "url": "https://www.youtube.com/watch?v=fFEDFcEx3xM",
+      "thumbnail": "https://i.ytimg.com/vi/fFEDFcEx3xM/mqdefault_live.jpg",
+      "published": "2026-07-13T00:24:49Z"
     }
   ]
 }
