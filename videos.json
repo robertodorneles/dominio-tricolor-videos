@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T01:01:10.987101+00:00",
+  "updated_at": "2026-07-13T02:00:55.484936+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "FeRHLwT1VP0",
       "url": "https://www.youtube.com/watch?v=FeRHLwT1VP0",
       "thumbnail": "https://i.ytimg.com/vi/FeRHLwT1VP0/mqdefault_live.jpg",
-      "published": "2026-07-13T00:05:43Z"
+      "published": "2026-07-13T01:05:58Z"
     },
     {
       "channel": "A Dupla",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: REFORÇO CONFIRMADO NO GRÊMIO E INTER QUER CENTROAVANTE",
+      "videoId": "tObHevwdGaY",
+      "url": "https://www.youtube.com/watch?v=tObHevwdGaY",
+      "thumbnail": "https://i.ytimg.com/vi/tObHevwdGaY/mqdefault_live.jpg",
+      "published": "2026-07-13T01:46:19Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "Argentina x Inglaterra: O que fazer? Messi x Kane, nós x eles",
       "videoId": "qN_XXmJ_B-M",
       "url": "https://www.youtube.com/watch?v=qN_XXmJ_B-M",
       "thumbnail": "https://i.ytimg.com/vi/qN_XXmJ_B-M/mqdefault.jpg",
       "published": "2026-07-12T17:28:05Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "JEREMIAS RESPONDE: Qual o teto do Grêmio? Por que gaúchos não ganham o Brasileirão?",
-      "videoId": "K-jY-s_mufE",
-      "url": "https://www.youtube.com/watch?v=K-jY-s_mufE",
-      "thumbnail": "https://i.ytimg.com/vi/K-jY-s_mufE/mqdefault.jpg",
-      "published": "2026-07-11T13:03:28Z"
     },
     {
       "channel": "LH Benfica",
