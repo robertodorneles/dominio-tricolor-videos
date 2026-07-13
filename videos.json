@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T14:42:01.672009+00:00",
+  "updated_at": "2026-07-13T15:01:17.070211+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #021",
+      "videoId": "Rg8TaCDnwUU",
+      "url": "https://www.youtube.com/watch?v=Rg8TaCDnwUU",
+      "thumbnail": "https://i.ytimg.com/vi/Rg8TaCDnwUU/mqdefault_live.jpg",
+      "published": "2026-07-13T14:50:36Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO VENCE O CRUZEIRO | NOVIDADES NO FAG🔵 FUTEBOL ALEGRIA DO GRÊMIO - 13/07 - #588",
       "videoId": "l7QwIGNYjUo",
       "url": "https://www.youtube.com/watch?v=l7QwIGNYjUo",
@@ -27,12 +35,12 @@
       "published": "2026-07-13T14:06:23Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #021",
-      "videoId": "Rg8TaCDnwUU",
-      "url": "https://www.youtube.com/watch?v=Rg8TaCDnwUU",
-      "thumbnail": "https://i.ytimg.com/vi/Rg8TaCDnwUU/mqdefault_live.jpg",
-      "published": "2026-07-13T13:40:23Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVO CAMISA 10! UM NOME REVELADO | TRÊS REFORÇOS CHEGANDO | NOVA SAÍDA NO GRÊMIO?",
+      "videoId": "Yzmsww4ptt0",
+      "url": "https://www.youtube.com/watch?v=Yzmsww4ptt0",
+      "thumbnail": "https://i.ytimg.com/vi/Yzmsww4ptt0/mqdefault.jpg",
+      "published": "2026-07-13T14:42:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=5GiGN6RgZCw",
       "thumbnail": "https://i.ytimg.com/vi/5GiGN6RgZCw/mqdefault.jpg",
       "published": "2026-07-12T22:59:50Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO ESCOLHE REFORÇO E ALINHA SAÍDA | MEIA QUINTERO VEM PRO BRASIL? | DIA DE AMISTOSO | COPA",
-      "videoId": "6armq5nc7ew",
-      "url": "https://www.youtube.com/watch?v=6armq5nc7ew",
-      "thumbnail": "https://i.ytimg.com/vi/6armq5nc7ew/mqdefault.jpg",
-      "published": "2026-07-12T14:05:10Z"
     },
     {
       "channel": "Canal do CCD",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "NOVO ATACANTE DO GRÊMIO: Números, infos e vs Amuzu. Quem leva a melhor?",
+      "videoId": "sxyg1y-FaBc",
+      "url": "https://www.youtube.com/watch?v=sxyg1y-FaBc",
+      "thumbnail": "https://i.ytimg.com/vi/sxyg1y-FaBc/mqdefault.jpg",
+      "published": "2026-07-13T14:57:32Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: REFORÇO CONFIRMADO NO GRÊMIO E INTER QUER CENTROAVANTE",
       "videoId": "tObHevwdGaY",
       "url": "https://www.youtube.com/watch?v=tObHevwdGaY",
       "thumbnail": "https://i.ytimg.com/vi/tObHevwdGaY/mqdefault.jpg",
       "published": "2026-07-13T12:32:42Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Argentina x Inglaterra: O que fazer? Messi x Kane, nós x eles",
-      "videoId": "qN_XXmJ_B-M",
-      "url": "https://www.youtube.com/watch?v=qN_XXmJ_B-M",
-      "thumbnail": "https://i.ytimg.com/vi/qN_XXmJ_B-M/mqdefault.jpg",
-      "published": "2026-07-12T17:28:05Z"
     },
     {
       "channel": "LH Benfica",
