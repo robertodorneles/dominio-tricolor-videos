@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-13T17:10:52.215775+00:00",
+  "updated_at": "2026-07-13T18:00:57.002034+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA JOVANE CABRAL | VELOZ, FORTE E IRREGULAR | PONTOS FORTES E FRACOS",
+      "videoId": "h21-nXwxjOk",
+      "url": "https://www.youtube.com/watch?v=h21-nXwxjOk",
+      "thumbnail": "https://i.ytimg.com/vi/h21-nXwxjOk/mqdefault.jpg",
+      "published": "2026-07-13T18:00:02Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: ATACANTE DA MLS OFERECIDO | FORLAN ANUNCIADO | DIFICULDADE ADMITIDA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=FUCrCDawnpM",
       "thumbnail": "https://i.ytimg.com/vi/FUCrCDawnpM/mqdefault.jpg",
       "published": "2026-07-13T07:12:32Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Dário do Grêmio: JOVANE CABRAL | MEIA NA MIRA | CASTRO FALA E MAIS",
-      "videoId": "1gLrybxN4as",
-      "url": "https://www.youtube.com/watch?v=1gLrybxN4as",
-      "thumbnail": "https://i.ytimg.com/vi/1gLrybxN4as/mqdefault.jpg",
-      "published": "2026-07-13T05:00:18Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVOS REFORÇOS REVELADOS! MEIA E ZAGA | POLÊMICA ABERTA | O JOVEM DESTAQUE",
+      "videoId": "s3noZ846Lu0",
+      "url": "https://www.youtube.com/watch?v=s3noZ846Lu0",
+      "thumbnail": "https://i.ytimg.com/vi/s3noZ846Lu0/mqdefault.jpg",
+      "published": "2026-07-13T17:21:12Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨NOVO CAMISA 10! UM NOME REVELADO | TRÊS REFORÇOS CHEGANDO | NOVA SAÍDA NO GRÊMIO?",
       "videoId": "Yzmsww4ptt0",
       "url": "https://www.youtube.com/watch?v=Yzmsww4ptt0",
       "thumbnail": "https://i.ytimg.com/vi/Yzmsww4ptt0/mqdefault.jpg",
       "published": "2026-07-13T14:42:40Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONTRATA ATACANTE DE COPA! CONHEÇA O NOVO REFORÇO | GRANDE VITÓRIA E DESEMPENHO DO TIME!",
-      "videoId": "5GiGN6RgZCw",
-      "url": "https://www.youtube.com/watch?v=5GiGN6RgZCw",
-      "thumbnail": "https://i.ytimg.com/vi/5GiGN6RgZCw/mqdefault.jpg",
-      "published": "2026-07-12T22:59:50Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Conheça o zagueiro argentino que o Grêmio negocia - Matias Moreno",
+      "videoId": "Pw4LCdlYH9w",
+      "url": "https://www.youtube.com/watch?v=Pw4LCdlYH9w",
+      "thumbnail": "https://i.ytimg.com/vi/Pw4LCdlYH9w/mqdefault.jpg",
+      "published": "2026-07-13T17:35:49Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Grêmio negocia contratação do zagueiro argentino Matias Moreno | Veja os lances dele",
       "videoId": "ORyM4LCogGI",
       "url": "https://www.youtube.com/watch?v=ORyM4LCogGI",
       "thumbnail": "https://i.ytimg.com/vi/ORyM4LCogGI/mqdefault.jpg",
       "published": "2026-07-13T16:25:16Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "FIFA cogita mudança para o Mundial de Clubes de 2029 #gremio #inter",
-      "videoId": "4m166n0ujig",
-      "url": "https://www.youtube.com/watch?v=4m166n0ujig",
-      "thumbnail": "https://i.ytimg.com/vi/4m166n0ujig/mqdefault.jpg",
-      "published": "2026-07-13T13:00:43Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -172,7 +172,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 13/07/26",
+      "title": "Temporal em Eldorado, Caso Oliver, informações do trânsito e mais | Gaúcha+ | 13/07/26",
       "videoId": "YQj1py0qDwI",
       "url": "https://www.youtube.com/watch?v=YQj1py0qDwI",
       "thumbnail": "https://i.ytimg.com/vi/YQj1py0qDwI/mqdefault_live.jpg",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "13/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "13/07/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "qyP5ps1kjn4",
       "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
       "thumbnail": "https://i.ytimg.com/vi/qyP5ps1kjn4/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "IMORTAL FC — 13/07",
+      "videoId": "tQ4r183MPY0",
+      "url": "https://www.youtube.com/watch?v=tQ4r183MPY0",
+      "thumbnail": "https://i.ytimg.com/vi/tQ4r183MPY0/mqdefault_live.jpg",
+      "published": "2026-07-13T17:32:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #111 — GRÊMIO CONFIRMA CONTRATAÇÃO E ESTÁ PERTO DE MEIO-CAMPISTA",
       "videoId": "fFEDFcEx3xM",
       "url": "https://www.youtube.com/watch?v=fFEDFcEx3xM",
       "thumbnail": "https://i.ytimg.com/vi/fFEDFcEx3xM/mqdefault.jpg",
       "published": "2026-07-13T15:16:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE O CRUZEIRO | BOAS NOTÍCIAS FINALMENTE? | DOIS REFORÇOS CHEGANDO! | REDAÇÃO IMORTAL",
-      "videoId": "uWQckhSAauY",
-      "url": "https://www.youtube.com/watch?v=uWQckhSAauY",
-      "thumbnail": "https://i.ytimg.com/vi/uWQckhSAauY/mqdefault.jpg",
-      "published": "2026-07-13T13:27:54Z"
     }
   ]
 }
