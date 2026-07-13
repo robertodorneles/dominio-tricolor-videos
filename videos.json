@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:01:10.719442+00:00",
+  "updated_at": "2026-07-13T11:58:11.470595+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔹 THE TARDE 🔹#189",
-      "videoId": "A3cfnv9N1ys",
-      "url": "https://www.youtube.com/watch?v=A3cfnv9N1ys",
-      "thumbnail": "https://i.ytimg.com/vi/A3cfnv9N1ys/mqdefault_live.jpg",
-      "published": "2026-07-13T10:05:41Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "GRÊMIO COMPETE E VENCE O CRUZEIRO🌅🔵 BOM DIA GRÊMIO #070",
       "videoId": "MOGugqtVyq8",
       "url": "https://www.youtube.com/watch?v=MOGugqtVyq8",
       "thumbnail": "https://i.ytimg.com/vi/MOGugqtVyq8/mqdefault_live.jpg",
-      "published": "2026-07-13T09:20:29Z"
+      "published": "2026-07-13T11:56:07Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔹 THE TARDE 🔹#186",
+      "videoId": "yTxY_s6yxCo",
+      "url": "https://www.youtube.com/watch?v=yTxY_s6yxCo",
+      "thumbnail": "https://i.ytimg.com/vi/yTxY_s6yxCo/mqdefault_live.jpg",
+      "published": "2026-07-13T10:04:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #34 - 13.07 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "jfpkD0i0-Rg",
+      "url": "https://www.youtube.com/watch?v=jfpkD0i0-Rg",
+      "thumbnail": "https://i.ytimg.com/vi/jfpkD0i0-Rg/mqdefault_live.jpg",
+      "published": "2026-07-13T11:36:54Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "SOTIGOL TÁ CURTINDO DEMAIS #dudagarbi #umassadopara #copa",
       "videoId": "_H1qnIJvj4o",
       "url": "https://www.youtube.com/watch?v=_H1qnIJvj4o",
       "thumbnail": "https://i.ytimg.com/vi/_H1qnIJvj4o/mqdefault.jpg",
       "published": "2026-07-12T16:30:35Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "SOTIGOL E ARILSON NO BARRO DO INTERIOR #dudagarbi #umassadopara #copa",
-      "videoId": "LC5a7qwnBsw",
-      "url": "https://www.youtube.com/watch?v=LC5a7qwnBsw",
-      "thumbnail": "https://i.ytimg.com/vi/LC5a7qwnBsw/mqdefault.jpg",
-      "published": "2026-07-12T16:00:16Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "tObHevwdGaY",
       "url": "https://www.youtube.com/watch?v=tObHevwdGaY",
       "thumbnail": "https://i.ytimg.com/vi/tObHevwdGaY/mqdefault_live.jpg",
-      "published": "2026-07-13T01:46:19Z"
+      "published": "2026-07-13T11:02:24Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "qyP5ps1kjn4",
       "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
       "thumbnail": "https://i.ytimg.com/vi/qyP5ps1kjn4/mqdefault_live.jpg",
-      "published": "2026-07-13T10:24:53Z"
+      "published": "2026-07-13T11:00:59Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE O CRUZEIRO | BOAS NOTÍCIAS FINALMENTE? | DOIS REFORÇOS CHEGANDO! | REDAÇÃO IMORTAL",
+      "videoId": "uWQckhSAauY",
+      "url": "https://www.youtube.com/watch?v=uWQckhSAauY",
+      "thumbnail": "https://i.ytimg.com/vi/uWQckhSAauY/mqdefault_live.jpg",
+      "published": "2026-07-13T11:02:07Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 13/07 - GRÊMIO 2X1 inter (1952)",
       "videoId": "L5occVPS6vI",
       "url": "https://www.youtube.com/watch?v=L5occVPS6vI",
       "thumbnail": "https://i.ytimg.com/vi/L5occVPS6vI/mqdefault.jpg",
       "published": "2026-07-13T11:00:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 13/07",
-      "videoId": "lA2OUE_DU08",
-      "url": "https://www.youtube.com/watch?v=lA2OUE_DU08",
-      "thumbnail": "https://i.ytimg.com/vi/lA2OUE_DU08/mqdefault_live.jpg",
-      "published": "2026-07-13T00:25:23Z"
     }
   ]
 }
