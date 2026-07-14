@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-14T00:01:08.488720+00:00",
+  "updated_at": "2026-07-14T01:00:53.126847+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: A PREPARAÇÃO PRA SEMIFINAL | MERCADO ESQUENTA NO GRÊMIO",
+      "videoId": "tbE3XeETLUc",
+      "url": "https://www.youtube.com/watch?v=tbE3XeETLUc",
+      "thumbnail": "https://i.ytimg.com/vi/tbE3XeETLUc/mqdefault_live.jpg",
+      "published": "2026-07-14T00:42:24Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA COMO JOGA JOVANE CABRAL | VELOZ, FORTE E IRREGULAR | PONTOS FORTES E FRACOS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=h21-nXwxjOk",
       "thumbnail": "https://i.ytimg.com/vi/h21-nXwxjOk/mqdefault.jpg",
       "published": "2026-07-13T18:00:02Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ATACANTE DA MLS OFERECIDO | FORLAN ANUNCIADO | DIFICULDADE ADMITIDA",
-      "videoId": "FUCrCDawnpM",
-      "url": "https://www.youtube.com/watch?v=FUCrCDawnpM",
-      "thumbnail": "https://i.ytimg.com/vi/FUCrCDawnpM/mqdefault.jpg",
-      "published": "2026-07-13T07:12:32Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO FINALIZADO | NOVAS OFERTAS | GRÊMIO APROVEITA OPORTUNIDADES DE MERCADO!",
+      "videoId": "33FBSbl0ZBY",
+      "url": "https://www.youtube.com/watch?v=33FBSbl0ZBY",
+      "thumbnail": "https://i.ytimg.com/vi/33FBSbl0ZBY/mqdefault.jpg",
+      "published": "2026-07-14T00:51:26Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨ATENÇÃO! REVELADOS NOMES DE REFORÇOS | POLÊMICA ABERTA | O JOVEM AINDA DESTAQUE DO GRÊMIO!",
       "videoId": "s3noZ846Lu0",
       "url": "https://www.youtube.com/watch?v=s3noZ846Lu0",
       "thumbnail": "https://i.ytimg.com/vi/s3noZ846Lu0/mqdefault.jpg",
       "published": "2026-07-13T17:21:12Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO CAMISA 10! UM NOME REVELADO | TRÊS REFORÇOS CHEGANDO | NOVA SAÍDA NO GRÊMIO?",
-      "videoId": "Yzmsww4ptt0",
-      "url": "https://www.youtube.com/watch?v=Yzmsww4ptt0",
-      "thumbnail": "https://i.ytimg.com/vi/Yzmsww4ptt0/mqdefault.jpg",
-      "published": "2026-07-13T14:42:40Z"
     },
     {
       "channel": "Canal do CCD",
