@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:51:25.573379+00:00",
+  "updated_at": "2026-07-14T00:01:08.488720+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - MATIAS MORENO | JOVANE CABRAL | NOVO MEIA | BRASILEIRÃO E MAIS",
+      "videoId": "TArb20n9a5A",
+      "url": "https://www.youtube.com/watch?v=TArb20n9a5A",
+      "thumbnail": "https://i.ytimg.com/vi/TArb20n9a5A/mqdefault_live.jpg",
+      "published": "2026-07-14T00:00:13Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio em busca de um novo zagueiro",
       "videoId": "UcVBA7mkNlo",
       "url": "https://www.youtube.com/watch?v=UcVBA7mkNlo",
@@ -59,12 +67,12 @@
       "published": "2026-07-13T22:35:49Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #627: Matias Moreno | Javi Monteiro | Meia | Caito | Arthur | Wesley e mais",
-      "videoId": "xMz18Uc8NVM",
-      "url": "https://www.youtube.com/watch?v=xMz18Uc8NVM",
-      "thumbnail": "https://i.ytimg.com/vi/xMz18Uc8NVM/mqdefault.jpg",
-      "published": "2026-07-13T21:41:31Z"
+      "channel": "Canal do Farid",
+      "title": "POSSÍVEL REFORÇO NA ZAGA VINDO DA ITÁLIA | GABRIEL MAC FICA! - GIRO ESPORTIVO | 13-07-2026",
+      "videoId": "uQeFn3KCN9c",
+      "url": "https://www.youtube.com/watch?v=uQeFn3KCN9c",
+      "thumbnail": "https://i.ytimg.com/vi/uQeFn3KCN9c/mqdefault.jpg",
+      "published": "2026-07-13T23:57:56Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=2Mras2FGEMU",
       "thumbnail": "https://i.ytimg.com/vi/2Mras2FGEMU/mqdefault.jpg",
       "published": "2026-07-12T23:06:27Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GIRO ESPORTIVO - GRÊMIO MIRA PARCEIRO DE CR7",
-      "videoId": "AbT0R9pE1tA",
-      "url": "https://www.youtube.com/watch?v=AbT0R9pE1tA",
-      "thumbnail": "https://i.ytimg.com/vi/AbT0R9pE1tA/mqdefault.jpg",
-      "published": "2026-07-11T00:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "ANDRÉ LIMA TIROU COLORADOS DO SÉRIO #dudagarbi #umassadopara #copa",
-      "videoId": "jaiJWKdCBBI",
-      "url": "https://www.youtube.com/watch?v=jaiJWKdCBBI",
-      "thumbnail": "https://i.ytimg.com/vi/jaiJWKdCBBI/mqdefault.jpg",
-      "published": "2026-07-13T23:00:37Z"
+      "title": "ANDRÉ LIMA NO INTER? GUERREIRO IMORTAL EXPLICA E REVELA CONVERSA COM FERNANDÃO | Cortes do Duda",
+      "videoId": "t4QL8P1dgsw",
+      "url": "https://www.youtube.com/watch?v=t4QL8P1dgsw",
+      "thumbnail": "https://i.ytimg.com/vi/t4QL8P1dgsw/mqdefault.jpg",
+      "published": "2026-07-13T23:00:35Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... 🇺🇸 ANDRÉ LIMA | #396",
-      "videoId": "8UVSIKy3sdU",
-      "url": "https://www.youtube.com/watch?v=8UVSIKy3sdU",
-      "thumbnail": "https://i.ytimg.com/vi/8UVSIKy3sdU/mqdefault.jpg",
-      "published": "2026-07-13T22:00:06Z"
+      "title": "Hospício - 15/07",
+      "videoId": "_Id2N7f3awY",
+      "url": "https://www.youtube.com/watch?v=_Id2N7f3awY",
+      "thumbnail": "https://i.ytimg.com/vi/_Id2N7f3awY/mqdefault_live.jpg",
+      "published": "2026-07-13T22:46:57Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "13/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "qyP5ps1kjn4",
+      "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
+      "thumbnail": "https://i.ytimg.com/vi/qyP5ps1kjn4/mqdefault.jpg",
+      "published": "2026-07-13T23:59:26Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "13/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "znp26Fefcx8",
       "url": "https://www.youtube.com/watch?v=znp26Fefcx8",
       "thumbnail": "https://i.ytimg.com/vi/znp26Fefcx8/mqdefault_live.jpg",
       "published": "2026-07-13T23:02:13Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "13/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "qyP5ps1kjn4",
-      "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
-      "thumbnail": "https://i.ytimg.com/vi/qyP5ps1kjn4/mqdefault_live.jpg",
-      "published": "2026-07-13T23:01:40Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO EM BUSCA DE NOVOS REFORÇOS | ZAGUEIROS NA MIRA DO GRÊMIO? | NOITES DE GRÊMIO #108 - 13/07",
+      "videoId": "CxYNxGMh6Wc",
+      "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
+      "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault_live.jpg",
+      "published": "2026-07-14T00:00:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=tQ4r183MPY0",
       "thumbnail": "https://i.ytimg.com/vi/tQ4r183MPY0/mqdefault.jpg",
       "published": "2026-07-13T22:22:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO EM BUSCA DE NOVOS REFORÇOS | ZAGUEIROS NA MIRA DO GRÊMIO? | NOITES DE GRÊMIO #108 - 13/07",
-      "videoId": "CxYNxGMh6Wc",
-      "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
-      "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault_live.jpg",
-      "published": "2026-07-13T21:04:27Z"
     }
   ]
 }
