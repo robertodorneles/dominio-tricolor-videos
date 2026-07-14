@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T01:00:53.126847+00:00",
+  "updated_at": "2026-07-14T02:00:59.074895+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "tbE3XeETLUc",
       "url": "https://www.youtube.com/watch?v=tbE3XeETLUc",
       "thumbnail": "https://i.ytimg.com/vi/tbE3XeETLUc/mqdefault_live.jpg",
-      "published": "2026-07-14T00:42:24Z"
+      "published": "2026-07-14T01:03:33Z"
     },
     {
       "channel": "A Dupla",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - MATIAS MORENO | JOVANE CABRAL | NOVO MEIA | BRASILEIRÃO E MAIS",
       "videoId": "TArb20n9a5A",
       "url": "https://www.youtube.com/watch?v=TArb20n9a5A",
-      "thumbnail": "https://i.ytimg.com/vi/TArb20n9a5A/mqdefault_live.jpg",
-      "published": "2026-07-14T00:00:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/TArb20n9a5A/mqdefault.jpg",
+      "published": "2026-07-14T01:24:38Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,7 +68,7 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "POSSÍVEL REFORÇO NA ZAGA VINDO DA ITÁLIA | GABRIEL MAC FICA! - GIRO ESPORTIVO | 13-07-2026",
+      "title": "POSSÍVEL REFORÇO NA ZAGA VINDO DA ITÁLIA | GABRIEL MEC FICA! - GIRO ESPORTIVO | 13-07-2026",
       "videoId": "uQeFn3KCN9c",
       "url": "https://www.youtube.com/watch?v=uQeFn3KCN9c",
       "thumbnail": "https://i.ytimg.com/vi/uQeFn3KCN9c/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "OPINIÃO PAULO GERMANO:  Pena de morte e o pai que matou o filho",
+      "videoId": "J6Jldz7EJQs",
+      "url": "https://www.youtube.com/watch?v=J6Jldz7EJQs",
+      "thumbnail": "https://i.ytimg.com/vi/J6Jldz7EJQs/mqdefault.jpg",
+      "published": "2026-07-14T01:05:15Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "COMEÇAM AS DESPEDIDAS | KELLY ENTREVISTA ANDRÉ RIZEK | LISCA EXPLICA AS SEMIS | COPANDO TUDO 13/7/26",
       "videoId": "PdbEIXzEpJc",
       "url": "https://www.youtube.com/watch?v=PdbEIXzEpJc",
       "thumbnail": "https://i.ytimg.com/vi/PdbEIXzEpJc/mqdefault_live.jpg",
       "published": "2026-07-13T23:33:44Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "MORAES suspende visitas de FLÁVIO a BOLSONARO por 90 dias",
-      "videoId": "xvwPevTgyfc",
-      "url": "https://www.youtube.com/watch?v=xvwPevTgyfc",
-      "thumbnail": "https://i.ytimg.com/vi/xvwPevTgyfc/mqdefault.jpg",
-      "published": "2026-07-13T23:00:24Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TUDO SOBRE O GRÊMIO NAS ÚLTIMAS HORAS! | IMORTAL FC ESPECIAL — 50 ANOS CHURRASCARIA SCHNEIDER",
+      "videoId": "3HmR5sWG25k",
+      "url": "https://www.youtube.com/watch?v=3HmR5sWG25k",
+      "thumbnail": "https://i.ytimg.com/vi/3HmR5sWG25k/mqdefault_live.jpg",
+      "published": "2026-07-14T01:45:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO EM BUSCA DE NOVOS REFORÇOS | ZAGUEIROS NA MIRA DO GRÊMIO? | NOITES DE GRÊMIO #108 - 13/07",
       "videoId": "CxYNxGMh6Wc",
       "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
       "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault_live.jpg",
       "published": "2026-07-14T00:00:07Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO JOGOU BEM NO AMISTOSO? | REFORÇOS CHEGANDO | ZAGUEIROS NA MIRA | MEIA MISTERIOSO | IMORTAL FC",
-      "videoId": "tQ4r183MPY0",
-      "url": "https://www.youtube.com/watch?v=tQ4r183MPY0",
-      "thumbnail": "https://i.ytimg.com/vi/tQ4r183MPY0/mqdefault.jpg",
-      "published": "2026-07-13T22:22:37Z"
     }
   ]
 }
