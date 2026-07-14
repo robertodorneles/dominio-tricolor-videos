@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T16:10:59.281619+00:00",
+  "updated_at": "2026-07-14T17:01:15.357537+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔸RESENHA FORA DA SALA🔸#085",
+      "videoId": "P9lhsigDIpI",
+      "url": "https://www.youtube.com/watch?v=P9lhsigDIpI",
+      "thumbnail": "https://i.ytimg.com/vi/P9lhsigDIpI/mqdefault_live.jpg",
+      "published": "2026-07-14T16:32:09Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #022",
       "videoId": "5NNQbMcgCcg",
       "url": "https://www.youtube.com/watch?v=5NNQbMcgCcg",
       "thumbnail": "https://i.ytimg.com/vi/5NNQbMcgCcg/mqdefault.jpg",
       "published": "2026-07-14T15:13:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO AVANÇA POR REFORÇO NO MEIO-CAMPO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 14/07 - #589",
-      "videoId": "CtPs2TeY3cI",
-      "url": "https://www.youtube.com/watch?v=CtPs2TeY3cI",
-      "thumbnail": "https://i.ytimg.com/vi/CtPs2TeY3cI/mqdefault.jpg",
-      "published": "2026-07-14T14:23:42Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ÚLTIMAS NOTÍCIAS DO GRÊMIO | PREPAÇÃO PARA O RETORNO DO BRASILEIRÃO | NOITES DE GRÊMIO #109-14/07",
+      "videoId": "6j2kUW2dFzE",
+      "url": "https://www.youtube.com/watch?v=6j2kUW2dFzE",
+      "thumbnail": "https://i.ytimg.com/vi/6j2kUW2dFzE/mqdefault_live.jpg",
+      "published": "2026-07-14T16:22:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #112 — REFORÇO DO GRÊMIO CHEGA HOJE | QUEM SERÁ O MEIA?",
       "videoId": "6Iw1WN0_J_Q",
       "url": "https://www.youtube.com/watch?v=6Iw1WN0_J_Q",
       "thumbnail": "https://i.ytimg.com/vi/6Iw1WN0_J_Q/mqdefault.jpg",
       "published": "2026-07-14T15:15:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ZAGUEIROS GRINGOS NA MIRA DO GRÊMIO? | REAPRESENTAÇÃO COM RETORNOS IMPORTANTES | REDAÇÃO IMORTAL",
-      "videoId": "AZA_NmGl2DU",
-      "url": "https://www.youtube.com/watch?v=AZA_NmGl2DU",
-      "thumbnail": "https://i.ytimg.com/vi/AZA_NmGl2DU/mqdefault.jpg",
-      "published": "2026-07-14T13:21:52Z"
     }
   ]
 }
