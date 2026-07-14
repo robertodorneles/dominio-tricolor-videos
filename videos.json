@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:41:54.794122+00:00",
+  "updated_at": "2026-07-14T11:00:58.678944+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Trump anuncia pedágio no Estreito de Ormuz, greve em São Leopoldo e +| Gaúcha Atualidade| 14/07/2026",
+      "videoId": "mCcXBcWLdEY",
+      "url": "https://www.youtube.com/watch?v=mCcXBcWLdEY",
+      "thumbnail": "https://i.ytimg.com/vi/mCcXBcWLdEY/mqdefault_live.jpg",
+      "published": "2026-07-14T10:56:47Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Temporal em Eldorado, Caso Oliver, informações do trânsito e mais | Gaúcha+ | 13/07/26",
       "videoId": "YQj1py0qDwI",
       "url": "https://www.youtube.com/watch?v=YQj1py0qDwI",
       "thumbnail": "https://i.ytimg.com/vi/YQj1py0qDwI/mqdefault.jpg",
       "published": "2026-07-14T07:41:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "OPINIÃO PAULO GERMANO:  Pena de morte e o pai que matou o filho",
-      "videoId": "J6Jldz7EJQs",
-      "url": "https://www.youtube.com/watch?v=J6Jldz7EJQs",
-      "thumbnail": "https://i.ytimg.com/vi/J6Jldz7EJQs/mqdefault.jpg",
-      "published": "2026-07-14T01:05:15Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "14/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "znp26Fefcx8",
+      "url": "https://www.youtube.com/watch?v=znp26Fefcx8",
+      "thumbnail": "https://i.ytimg.com/vi/znp26Fefcx8/mqdefault_live.jpg",
+      "published": "2026-07-14T10:58:23Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "13/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "qyP5ps1kjn4",
       "url": "https://www.youtube.com/watch?v=qyP5ps1kjn4",
@@ -219,12 +227,12 @@
       "published": "2026-07-13T23:59:26Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "13/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "znp26Fefcx8",
-      "url": "https://www.youtube.com/watch?v=znp26Fefcx8",
-      "thumbnail": "https://i.ytimg.com/vi/znp26Fefcx8/mqdefault_live.jpg",
-      "published": "2026-07-13T23:02:13Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 14/07 - GRÊMIO CAMPEÃO GAÚCHO DE 1993",
+      "videoId": "HqSa6cv9Vq4",
+      "url": "https://www.youtube.com/watch?v=HqSa6cv9Vq4",
+      "thumbnail": "https://i.ytimg.com/vi/HqSa6cv9Vq4/mqdefault.jpg",
+      "published": "2026-07-14T11:00:10Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
       "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault.jpg",
       "published": "2026-07-14T02:38:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TUDO SOBRE O GRÊMIO NAS ÚLTIMAS HORAS! | IMORTAL FC ESPECIAL — 50 ANOS CHURRASCARIA SCHNEIDER",
-      "videoId": "3HmR5sWG25k",
-      "url": "https://www.youtube.com/watch?v=3HmR5sWG25k",
-      "thumbnail": "https://i.ytimg.com/vi/3HmR5sWG25k/mqdefault_live.jpg",
-      "published": "2026-07-14T01:45:59Z"
     }
   ]
 }
