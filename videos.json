@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T14:46:03.090847+00:00",
+  "updated_at": "2026-07-14T15:01:00.068994+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #022",
+      "videoId": "5NNQbMcgCcg",
+      "url": "https://www.youtube.com/watch?v=5NNQbMcgCcg",
+      "thumbnail": "https://i.ytimg.com/vi/5NNQbMcgCcg/mqdefault_live.jpg",
+      "published": "2026-07-14T14:50:14Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO AVANÇA POR REFORÇO NO MEIO-CAMPO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 14/07 - #589",
       "videoId": "CtPs2TeY3cI",
       "url": "https://www.youtube.com/watch?v=CtPs2TeY3cI",
@@ -27,12 +35,12 @@
       "published": "2026-07-14T14:23:42Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #022",
-      "videoId": "5NNQbMcgCcg",
-      "url": "https://www.youtube.com/watch?v=5NNQbMcgCcg",
-      "thumbnail": "https://i.ytimg.com/vi/5NNQbMcgCcg/mqdefault_live.jpg",
-      "published": "2026-07-14T13:42:03Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONFIRMA CHEGADA DE NOVO ZAGUEIRO | TITULAR DEVE IR EMBORA | VENDA DE EMPRESTADO | ÍDOLO!!!!",
+      "videoId": "PWNAdlPSb0M",
+      "url": "https://www.youtube.com/watch?v=PWNAdlPSb0M",
+      "thumbnail": "https://i.ytimg.com/vi/PWNAdlPSb0M/mqdefault.jpg",
+      "published": "2026-07-14T14:58:56Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=33FBSbl0ZBY",
       "thumbnail": "https://i.ytimg.com/vi/33FBSbl0ZBY/mqdefault.jpg",
       "published": "2026-07-14T00:51:26Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! REVELADOS NOMES DE REFORÇOS | POLÊMICA ABERTA | O JOVEM AINDA DESTAQUE DO GRÊMIO!",
-      "videoId": "s3noZ846Lu0",
-      "url": "https://www.youtube.com/watch?v=s3noZ846Lu0",
-      "thumbnail": "https://i.ytimg.com/vi/s3noZ846Lu0/mqdefault.jpg",
-      "published": "2026-07-13T17:21:12Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Dos Campos de Cima da Serra para o Brasil: a história da maçã de Vacaria | No Caminho do Agro #04",
+      "videoId": "Vw9X9dz3na4",
+      "url": "https://www.youtube.com/watch?v=Vw9X9dz3na4",
+      "thumbnail": "https://i.ytimg.com/vi/Vw9X9dz3na4/mqdefault.jpg",
+      "published": "2026-07-14T15:00:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Participação do filho de Gilmar Mendes no comando da CBF, Copa do Mundo e mais | Timeline 14/07/26",
       "videoId": "Q9rKBYHZGms",
       "url": "https://www.youtube.com/watch?v=Q9rKBYHZGms",
       "thumbnail": "https://i.ytimg.com/vi/Q9rKBYHZGms/mqdefault.jpg",
       "published": "2026-07-14T14:21:07Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Trump anuncia pedágio no Estreito de Ormuz, greve em São Leopoldo e +| Gaúcha Atualidade| 14/07/2026",
-      "videoId": "mCcXBcWLdEY",
-      "url": "https://www.youtube.com/watch?v=mCcXBcWLdEY",
-      "thumbnail": "https://i.ytimg.com/vi/mCcXBcWLdEY/mqdefault.jpg",
-      "published": "2026-07-14T14:07:27Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "6Iw1WN0_J_Q",
       "url": "https://www.youtube.com/watch?v=6Iw1WN0_J_Q",
       "thumbnail": "https://i.ytimg.com/vi/6Iw1WN0_J_Q/mqdefault_live.jpg",
-      "published": "2026-07-14T13:50:43Z"
+      "published": "2026-07-14T15:00:38Z"
     },
     {
       "channel": "Radio Imortal",
