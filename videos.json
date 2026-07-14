@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-14T20:56:52.161456+00:00",
+  "updated_at": "2026-07-14T21:00:56.338259+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA MATIAS MORENO | ALTO, RÁPIDO E BOM DE BOLA | ZAGUEIRO NA MIRA",
+      "videoId": "S1By1K0QW0w",
+      "url": "https://www.youtube.com/watch?v=S1By1K0QW0w",
+      "thumbnail": "https://i.ytimg.com/vi/S1By1K0QW0w/mqdefault.jpg",
+      "published": "2026-07-14T21:00:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 RELATÓRIO É UMA BOMBA | REFORÇO PRA DIREÇÃO | BRUNO GOMES FICA?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=tT0WuAOWVfc",
       "thumbnail": "https://i.ytimg.com/vi/tT0WuAOWVfc/mqdefault.jpg",
       "published": "2026-07-14T09:41:59Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Dário do Grêmio:  DIREÇÃO ACELERA POR REFORÇOS! | MEIA, ZAGUEIRO E REFORÇO PERTO",
-      "videoId": "U3izzqfn6U8",
-      "url": "https://www.youtube.com/watch?v=U3izzqfn6U8",
-      "thumbnail": "https://i.ytimg.com/vi/U3izzqfn6U8/mqdefault.jpg",
-      "published": "2026-07-14T05:00:19Z"
     },
     {
       "channel": "Bage TV",
