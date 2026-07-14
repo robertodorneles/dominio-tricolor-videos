@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:00:59.074895+00:00",
+  "updated_at": "2026-07-14T02:44:04.782838+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla: A PREPARAÇÃO PRA SEMIFINAL | MERCADO ESQUENTA NO GRÊMIO",
       "videoId": "tbE3XeETLUc",
       "url": "https://www.youtube.com/watch?v=tbE3XeETLUc",
-      "thumbnail": "https://i.ytimg.com/vi/tbE3XeETLUc/mqdefault_live.jpg",
-      "published": "2026-07-14T01:03:33Z"
+      "thumbnail": "https://i.ytimg.com/vi/tbE3XeETLUc/mqdefault.jpg",
+      "published": "2026-07-14T02:27:51Z"
     },
     {
       "channel": "A Dupla",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO EM BUSCA DE NOVOS REFORÇOS | ZAGUEIROS NA MIRA DO GRÊMIO? | NOITES DE GRÊMIO #108 - 13/07",
+      "videoId": "CxYNxGMh6Wc",
+      "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
+      "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault.jpg",
+      "published": "2026-07-14T02:38:44Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TUDO SOBRE O GRÊMIO NAS ÚLTIMAS HORAS! | IMORTAL FC ESPECIAL — 50 ANOS CHURRASCARIA SCHNEIDER",
       "videoId": "3HmR5sWG25k",
       "url": "https://www.youtube.com/watch?v=3HmR5sWG25k",
       "thumbnail": "https://i.ytimg.com/vi/3HmR5sWG25k/mqdefault_live.jpg",
       "published": "2026-07-14T01:45:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO EM BUSCA DE NOVOS REFORÇOS | ZAGUEIROS NA MIRA DO GRÊMIO? | NOITES DE GRÊMIO #108 - 13/07",
-      "videoId": "CxYNxGMh6Wc",
-      "url": "https://www.youtube.com/watch?v=CxYNxGMh6Wc",
-      "thumbnail": "https://i.ytimg.com/vi/CxYNxGMh6Wc/mqdefault_live.jpg",
-      "published": "2026-07-14T00:00:07Z"
     }
   ]
 }
