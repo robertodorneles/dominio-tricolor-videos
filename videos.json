@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T02:42:16.019772+00:00",
+  "updated_at": "2026-07-15T09:00:55.460208+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Dário do Grêmio: NEGOCIAÇÕES AVANÇAM | ZAGUEIRO DA ITÁLIA | AMUZU DE SAÍD?! | DEU RUIM COM LD",
+      "videoId": "YHXzypDdf4Q",
+      "url": "https://www.youtube.com/watch?v=YHXzypDdf4Q",
+      "thumbnail": "https://i.ytimg.com/vi/YHXzypDdf4Q/mqdefault.jpg",
+      "published": "2026-07-15T05:00:37Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: ESPANHA NA FINAL | NINGUEM ENTENDEU NADA | POR MALVINAS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=3QKX1K33yZ8",
       "thumbnail": "https://i.ytimg.com/vi/3QKX1K33yZ8/mqdefault.jpg",
       "published": "2026-07-15T02:08:58Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA MATIAS MORENO | ALTO, RÁPIDO E BOM DE BOLA | ZAGUEIRO NA MIRA",
-      "videoId": "S1By1K0QW0w",
-      "url": "https://www.youtube.com/watch?v=S1By1K0QW0w",
-      "thumbnail": "https://i.ytimg.com/vi/S1By1K0QW0w/mqdefault.jpg",
-      "published": "2026-07-14T21:00:03Z"
     },
     {
       "channel": "Bage TV",
