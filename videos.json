@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:18:03.577367+00:00",
+  "updated_at": "2026-07-15T17:01:00.711768+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🚨 GRÊMIO RECUSA MILHÕES! | FERNANDO CARVALHO DE VOLTA?🔸RESENHA FORA DA SALA🔸#086",
+      "videoId": "HF9AvDgd8yI",
+      "url": "https://www.youtube.com/watch?v=HF9AvDgd8yI",
+      "thumbnail": "https://i.ytimg.com/vi/HF9AvDgd8yI/mqdefault_live.jpg",
+      "published": "2026-07-15T16:31:49Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #023",
       "videoId": "SUU0sU7q4tM",
       "url": "https://www.youtube.com/watch?v=SUU0sU7q4tM",
@@ -27,16 +35,8 @@
       "published": "2026-07-15T15:17:38Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO QUER ZAGUEIRO ARGENTINO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
-      "videoId": "biGiOiDtklE",
-      "url": "https://www.youtube.com/watch?v=biGiOiDtklE",
-      "thumbnail": "https://i.ytimg.com/vi/biGiOiDtklE/mqdefault.jpg",
-      "published": "2026-07-15T14:34:20Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO REFORÇO CONTRATADO! ÓTIMA NOTÍCIA NO GRÊMIO! REVIRAVOLTA ENORME",
+      "title": "🚨GRÊMIO CONTRATA REFORÇO! ÓTIMA NOTÍCIA! REVIRAVOLTA",
       "videoId": "b97zK-TpmE8",
       "url": "https://www.youtube.com/watch?v=b97zK-TpmE8",
       "thumbnail": "https://i.ytimg.com/vi/b97zK-TpmE8/mqdefault.jpg",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "REFORÇO COMPRADO! | GABRIEL MEC QUER SAIR | MATIAS VARGAS TENTADO | VALENTINI | JOVANE CABRAL",
+      "videoId": "ER4ygZ1MIW0",
+      "url": "https://www.youtube.com/watch?v=ER4ygZ1MIW0",
+      "thumbnail": "https://i.ytimg.com/vi/ER4ygZ1MIW0/mqdefault.jpg",
+      "published": "2026-07-15T17:00:21Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "VALENTINI É O ZAGUEIRO QUE O GRÊMIO QUER! | DIEGO CAITO NÃO VEM?",
       "videoId": "4tqUPzYw4dg",
       "url": "https://www.youtube.com/watch?v=4tqUPzYw4dg",
       "thumbnail": "https://i.ytimg.com/vi/4tqUPzYw4dg/mqdefault.jpg",
       "published": "2026-07-14T22:07:58Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "7 REFORÇOS EM PAUTA | A BUSCA PELO NOVO ZAGUEIRO | WAGNER LEONARDO FICA | ARTHUR NO CORINTHIANS",
-      "videoId": "uFzkNWB6EFc",
-      "url": "https://www.youtube.com/watch?v=uFzkNWB6EFc",
-      "thumbnail": "https://i.ytimg.com/vi/uFzkNWB6EFc/mqdefault.jpg",
-      "published": "2026-07-14T14:16:57Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "KANNEMANN COMPLETA 10 ANOS DE GRÊMIO E É HOMENAGEADO PELO GRUPO NO CT",
+      "videoId": "kHXQKGUBPzA",
+      "url": "https://www.youtube.com/watch?v=kHXQKGUBPzA",
+      "thumbnail": "https://i.ytimg.com/vi/kHXQKGUBPzA/mqdefault.jpg",
+      "published": "2026-07-15T17:00:05Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #113 — VALENTINI NO GRÊMIO? | POR QUE O GRÊMIO DESISTIU DE DIEGO CAITO",
       "videoId": "eSP_8LT9lX0",
       "url": "https://www.youtube.com/watch?v=eSP_8LT9lX0",
       "thumbnail": "https://i.ytimg.com/vi/eSP_8LT9lX0/mqdefault.jpg",
       "published": "2026-07-15T15:14:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO EM BUSCA DE ZAGUEIRO DA FIORENTINA | DIEGO CAITO NÃO VEM | REDAÇÃO IMORTAL",
-      "videoId": "Mf_QSisdVg4",
-      "url": "https://www.youtube.com/watch?v=Mf_QSisdVg4",
-      "thumbnail": "https://i.ytimg.com/vi/Mf_QSisdVg4/mqdefault.jpg",
-      "published": "2026-07-15T13:18:10Z"
     }
   ]
 }
