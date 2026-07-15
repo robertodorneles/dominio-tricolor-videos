@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T23:01:09.713921+00:00",
+  "updated_at": "2026-07-15T23:59:20.500972+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: ELES ESTÃO NA FINAL | MESSI VAI PASSAR PELÉ? | RETOMADA DO BRASILEIRÃO",
+      "videoId": "hZkxvbBZSBo",
+      "url": "https://www.youtube.com/watch?v=hZkxvbBZSBo",
+      "thumbnail": "https://i.ytimg.com/vi/hZkxvbBZSBo/mqdefault_live.jpg",
+      "published": "2026-07-15T23:06:54Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: DIREÇÃO MUDA DE POSTURA EM RELAÇÃO AOS CONTRATOS DO GRUPO PROFISSIONAL | LINHA DURA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=vbp3igKalOI",
       "thumbnail": "https://i.ytimg.com/vi/vbp3igKalOI/mqdefault.jpg",
       "published": "2026-07-15T21:00:00Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 O REFORÇO INEXPLICÁVEL | E O ROCHET HEIN? | ALERRANDRO RECUPERADO?",
-      "videoId": "va3FC4r2D_o",
-      "url": "https://www.youtube.com/watch?v=va3FC4r2D_o",
-      "thumbnail": "https://i.ytimg.com/vi/va3FC4r2D_o/mqdefault.jpg",
-      "published": "2026-07-15T09:23:10Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONFIRMA TRÊS SAÍDAS | A VENDA PRÓXIMA | UM PROBLEMA ENORME E DIFÍCIL DE RESOLVER",
+      "videoId": "jRgnRYexM3s",
+      "url": "https://www.youtube.com/watch?v=jRgnRYexM3s",
+      "thumbnail": "https://i.ytimg.com/vi/jRgnRYexM3s/mqdefault.jpg",
+      "published": "2026-07-15T23:41:33Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRÊMIO CONTRATA REFORÇO! ÓTIMA NOTÍCIA! REVIRAVOLTA",
       "videoId": "b97zK-TpmE8",
       "url": "https://www.youtube.com/watch?v=b97zK-TpmE8",
       "thumbnail": "https://i.ytimg.com/vi/b97zK-TpmE8/mqdefault.jpg",
       "published": "2026-07-15T16:17:36Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO: TITULAR PEDE PRA SAIR | MEIA CHEGANDO PRO GRÊMIO | TIME FICARÁ MAIS ENCORPADO?",
-      "videoId": "t_lx2daBSV8",
-      "url": "https://www.youtube.com/watch?v=t_lx2daBSV8",
-      "thumbnail": "https://i.ytimg.com/vi/t_lx2daBSV8/mqdefault.jpg",
-      "published": "2026-07-15T14:28:12Z"
     },
     {
       "channel": "Canal do CCD",
@@ -76,11 +76,11 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GABRIEL MEC PEDIU PARA SER VENDIDO!",
-      "videoId": "xvHg9rhsOQ0",
-      "url": "https://www.youtube.com/watch?v=xvHg9rhsOQ0",
-      "thumbnail": "https://i.ytimg.com/vi/xvHg9rhsOQ0/mqdefault.jpg",
-      "published": "2026-07-15T15:52:02Z"
+      "title": "GRÊMIO DESISTE DE CONTRATAÇÃO - OPINIÃO DO FARID - 14/07/2026",
+      "videoId": "A9V7fF7_U_Q",
+      "url": "https://www.youtube.com/watch?v=A9V7fF7_U_Q",
+      "thumbnail": "https://i.ytimg.com/vi/A9V7fF7_U_Q/mqdefault.jpg",
+      "published": "2026-07-14T23:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -168,15 +168,23 @@
       "videoId": "wf1FOdU_chA",
       "url": "https://www.youtube.com/watch?v=wf1FOdU_chA",
       "thumbnail": "https://i.ytimg.com/vi/wf1FOdU_chA/mqdefault_live.jpg",
-      "published": "2026-07-15T22:02:56Z"
+      "published": "2026-07-15T23:35:16Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Jogo da Argentina: veja como foi a classificação para a final da Copa do Mundo",
-      "videoId": "0ylmahWulZc",
-      "url": "https://www.youtube.com/watch?v=0ylmahWulZc",
-      "thumbnail": "https://i.ytimg.com/vi/0ylmahWulZc/mqdefault.jpg",
-      "published": "2026-07-15T21:41:53Z"
+      "title": "| Gaúcha+ | 16/07/26",
+      "videoId": "Z5_m0-w7sdk",
+      "url": "https://www.youtube.com/watch?v=Z5_m0-w7sdk",
+      "thumbnail": "https://i.ytimg.com/vi/Z5_m0-w7sdk/mqdefault_live.jpg",
+      "published": "2026-07-15T23:23:39Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "A situação financeira do Grêmio tem saída? ⚠️🇪🇪",
+      "videoId": "5s1zkH7Jmds",
+      "url": "https://www.youtube.com/watch?v=5s1zkH7Jmds",
+      "thumbnail": "https://i.ytimg.com/vi/5s1zkH7Jmds/mqdefault.jpg",
+      "published": "2026-07-15T23:02:45Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=rj2rKDTYgjE",
       "thumbnail": "https://i.ytimg.com/vi/rj2rKDTYgjE/mqdefault.jpg",
       "published": "2026-07-15T22:40:37Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Documento vazado escancara as finanças do Inter",
-      "videoId": "8xo2eDh0PPY",
-      "url": "https://www.youtube.com/watch?v=8xo2eDh0PPY",
-      "thumbnail": "https://i.ytimg.com/vi/8xo2eDh0PPY/mqdefault.jpg",
-      "published": "2026-07-14T16:00:18Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10 ANOS DE KANNEMANN | REPORTAGEM ESPECIAL RÁDIO GRENAL | 15/07/2026",
-      "videoId": "xhy4-jHvlqE",
-      "url": "https://www.youtube.com/watch?v=xhy4-jHvlqE",
-      "thumbnail": "https://i.ytimg.com/vi/xhy4-jHvlqE/mqdefault.jpg",
-      "published": "2026-07-15T13:00:26Z"
+      "title": "15/07/2026 | LIVE COMPLETA  | RÁDIO GRENAL",
+      "videoId": "CwfwWigNfbw",
+      "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
+      "thumbnail": "https://i.ytimg.com/vi/CwfwWigNfbw/mqdefault.jpg",
+      "published": "2026-07-15T23:36:14Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "15/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
-      "videoId": "CwfwWigNfbw",
-      "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
-      "thumbnail": "https://i.ytimg.com/vi/CwfwWigNfbw/mqdefault_live.jpg",
-      "published": "2026-07-15T11:07:42Z"
+      "title": "15/07/2026 | LIVE COMPLETA  | RÁDIO GRENAL",
+      "videoId": "Xsu-pJFXlCk",
+      "url": "https://www.youtube.com/watch?v=Xsu-pJFXlCk",
+      "thumbnail": "https://i.ytimg.com/vi/Xsu-pJFXlCk/mqdefault_live.jpg",
+      "published": "2026-07-15T23:03:03Z"
     },
     {
       "channel": "Radio Imortal",
