@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T11:00:55.750607+00:00",
+  "updated_at": "2026-07-15T12:01:08.984435+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
+      "videoId": "biGiOiDtklE",
+      "url": "https://www.youtube.com/watch?v=biGiOiDtklE",
+      "thumbnail": "https://i.ytimg.com/vi/biGiOiDtklE/mqdefault_live.jpg",
+      "published": "2026-07-15T12:00:01Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO BUSCA ZAGUEIRO NO FUTEBOL ITALIANO🌅🔵 BOM DIA GRÊMIO #072",
       "videoId": "4Ve1dnduozI",
       "url": "https://www.youtube.com/watch?v=4Ve1dnduozI",
       "thumbnail": "https://i.ytimg.com/vi/4Ve1dnduozI/mqdefault_live.jpg",
-      "published": "2026-07-15T09:25:41Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA \"D\" NO GRÊMIO | SAF NO INTER?🔸RESENHA FORA DA SALA🔸#085",
-      "videoId": "P9lhsigDIpI",
-      "url": "https://www.youtube.com/watch?v=P9lhsigDIpI",
-      "thumbnail": "https://i.ytimg.com/vi/P9lhsigDIpI/mqdefault.jpg",
-      "published": "2026-07-14T19:01:40Z"
+      "published": "2026-07-15T11:55:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "15/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "CwfwWigNfbw",
+      "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
+      "thumbnail": "https://i.ytimg.com/vi/CwfwWigNfbw/mqdefault_live.jpg",
+      "published": "2026-07-15T11:07:42Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "14/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "znp26Fefcx8",
       "url": "https://www.youtube.com/watch?v=znp26Fefcx8",
@@ -219,12 +227,12 @@
       "published": "2026-07-14T23:28:21Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "15/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "CwfwWigNfbw",
-      "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
-      "thumbnail": "https://i.ytimg.com/vi/CwfwWigNfbw/mqdefault_live.jpg",
-      "published": "2026-07-14T23:01:21Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO EM BUSCA DE ZAGUEIRO DA FIORENTINA | DIEGO CAITO NÃO VEM | REDAÇÃO IMORTAL",
+      "videoId": "Mf_QSisdVg4",
+      "url": "https://www.youtube.com/watch?v=Mf_QSisdVg4",
+      "thumbnail": "https://i.ytimg.com/vi/Mf_QSisdVg4/mqdefault_live.jpg",
+      "published": "2026-07-15T11:05:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=yGijro9CTf0",
       "thumbnail": "https://i.ytimg.com/vi/yGijro9CTf0/mqdefault.jpg",
       "published": "2026-07-15T11:00:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 15/07",
-      "videoId": "7h-UZgoOhHc",
-      "url": "https://www.youtube.com/watch?v=7h-UZgoOhHc",
-      "thumbnail": "https://i.ytimg.com/vi/7h-UZgoOhHc/mqdefault_live.jpg",
-      "published": "2026-07-15T02:08:01Z"
     }
   ]
 }
