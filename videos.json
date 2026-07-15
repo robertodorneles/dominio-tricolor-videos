@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T01:01:05.823670+00:00",
+  "updated_at": "2026-07-15T02:00:54.193362+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "3QKX1K33yZ8",
       "url": "https://www.youtube.com/watch?v=3QKX1K33yZ8",
       "thumbnail": "https://i.ytimg.com/vi/3QKX1K33yZ8/mqdefault_live.jpg",
-      "published": "2026-07-15T01:00:17Z"
+      "published": "2026-07-15T01:58:34Z"
     },
     {
       "channel": "A Dupla",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TUDO SOBRE O GRÊMIO NAS ÚLTIMAS HORAS! | IMORTAL FC ESPECIAL — 50 ANOS CHURRASCARIA SCHNEIDER",
-      "videoId": "3HmR5sWG25k",
-      "url": "https://www.youtube.com/watch?v=3HmR5sWG25k",
-      "thumbnail": "https://i.ytimg.com/vi/3HmR5sWG25k/mqdefault.jpg",
-      "published": "2026-07-14T23:26:07Z"
+      "title": "ESPLANADA — 15/07",
+      "videoId": "p4XRNXk3lNA",
+      "url": "https://www.youtube.com/watch?v=p4XRNXk3lNA",
+      "thumbnail": "https://i.ytimg.com/vi/p4XRNXk3lNA/mqdefault_live.jpg",
+      "published": "2026-07-15T01:38:52Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VIVE DIA DECISIVO PARA TRAZER NOVO LATERAL-DIREITO | ATUALIZAÇÃO SOBRE NEGÓCIOS | ESPLANADA",
-      "videoId": "C3nqwsFYf2g",
-      "url": "https://www.youtube.com/watch?v=C3nqwsFYf2g",
-      "thumbnail": "https://i.ytimg.com/vi/C3nqwsFYf2g/mqdefault.jpg",
-      "published": "2026-07-14T19:06:50Z"
+      "title": "TIMELINE IMORTAL #113 — VALENTINI NO GRÊMIO? | POR QUE O GRÊMIO DESISTIU DE DIEGO CAITO",
+      "videoId": "eSP_8LT9lX0",
+      "url": "https://www.youtube.com/watch?v=eSP_8LT9lX0",
+      "thumbnail": "https://i.ytimg.com/vi/eSP_8LT9lX0/mqdefault_live.jpg",
+      "published": "2026-07-15T01:35:29Z"
     }
   ]
 }
