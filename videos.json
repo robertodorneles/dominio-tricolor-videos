@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T09:00:55.460208+00:00",
+  "updated_at": "2026-07-15T10:00:54.742339+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 O REFORÇO INEXPLICÁVEL | E O ROCHET HEIN? | ALERRANDRO RECUPERADO?",
+      "videoId": "va3FC4r2D_o",
+      "url": "https://www.youtube.com/watch?v=va3FC4r2D_o",
+      "thumbnail": "https://i.ytimg.com/vi/va3FC4r2D_o/mqdefault.jpg",
+      "published": "2026-07-15T09:23:10Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Dário do Grêmio: NEGOCIAÇÕES AVANÇAM | ZAGUEIRO DA ITÁLIA | AMUZU DE SAÍD?! | DEU RUIM COM LD",
@@ -11,12 +19,12 @@
       "published": "2026-07-15T05:00:37Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: ESPANHA NA FINAL | NINGUEM ENTENDEU NADA | POR MALVINAS",
-      "videoId": "3QKX1K33yZ8",
-      "url": "https://www.youtube.com/watch?v=3QKX1K33yZ8",
-      "thumbnail": "https://i.ytimg.com/vi/3QKX1K33yZ8/mqdefault.jpg",
-      "published": "2026-07-15T02:08:58Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO BUSCA ZAGUEIRO NO FUTEBOL ITALIANO🌅🔵 BOM DIA GRÊMIO #072",
+      "videoId": "4Ve1dnduozI",
+      "url": "https://www.youtube.com/watch?v=4Ve1dnduozI",
+      "thumbnail": "https://i.ytimg.com/vi/4Ve1dnduozI/mqdefault_live.jpg",
+      "published": "2026-07-15T09:25:41Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=P9lhsigDIpI",
       "thumbnail": "https://i.ytimg.com/vi/P9lhsigDIpI/mqdefault.jpg",
       "published": "2026-07-14T19:01:40Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #022",
-      "videoId": "5NNQbMcgCcg",
-      "url": "https://www.youtube.com/watch?v=5NNQbMcgCcg",
-      "thumbnail": "https://i.ytimg.com/vi/5NNQbMcgCcg/mqdefault.jpg",
-      "published": "2026-07-14T15:13:06Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Violência contra crianças: quem pode evitar tragédias? | Conversas Cruzadas | 14/07/2026",
+      "videoId": "JWvyLgLjY2E",
+      "url": "https://www.youtube.com/watch?v=JWvyLgLjY2E",
+      "thumbnail": "https://i.ytimg.com/vi/JWvyLgLjY2E/mqdefault.jpg",
+      "published": "2026-07-15T09:48:40Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Mais etanol na gasolina? Entenda quem ganha e quem perde | Zero Hora",
       "videoId": "Nmwhzi5vNNA",
       "url": "https://www.youtube.com/watch?v=Nmwhzi5vNNA",
       "thumbnail": "https://i.ytimg.com/vi/Nmwhzi5vNNA/mqdefault.jpg",
       "published": "2026-07-14T23:45:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ANIVER DA ALICE! | PÓS DE FRANÇA X ESPANHA | PRÉ DE ARGENTINA X INGLATERRA | COPANDO TUDO | 14/07/26",
-      "videoId": "ekwZGnGWr6g",
-      "url": "https://www.youtube.com/watch?v=ekwZGnGWr6g",
-      "thumbnail": "https://i.ytimg.com/vi/ekwZGnGWr6g/mqdefault_live.jpg",
-      "published": "2026-07-14T23:34:39Z"
     },
     {
       "channel": "Jeremias Wernek",
