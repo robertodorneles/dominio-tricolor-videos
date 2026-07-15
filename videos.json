@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T14:00:59.072317+00:00",
+  "updated_at": "2026-07-15T14:46:10.429228+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO QUER ZAGUEIRO ARGENTINO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
+      "videoId": "biGiOiDtklE",
+      "url": "https://www.youtube.com/watch?v=biGiOiDtklE",
+      "thumbnail": "https://i.ytimg.com/vi/biGiOiDtklE/mqdefault.jpg",
+      "published": "2026-07-15T14:34:20Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #023",
       "videoId": "SUU0sU7q4tM",
       "url": "https://www.youtube.com/watch?v=SUU0sU7q4tM",
@@ -27,12 +35,12 @@
       "published": "2026-07-15T13:38:35Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO QUER ZAGUEIRO ARGENTINO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
-      "videoId": "biGiOiDtklE",
-      "url": "https://www.youtube.com/watch?v=biGiOiDtklE",
-      "thumbnail": "https://i.ytimg.com/vi/biGiOiDtklE/mqdefault_live.jpg",
-      "published": "2026-07-15T13:33:26Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO: TITULAR PEDE PRA SAIR | MEIA CHEGANDO PRO GRÊMIO | TIME FICARÁ MAIS ENCORPADO?",
+      "videoId": "t_lx2daBSV8",
+      "url": "https://www.youtube.com/watch?v=t_lx2daBSV8",
+      "thumbnail": "https://i.ytimg.com/vi/t_lx2daBSV8/mqdefault.jpg",
+      "published": "2026-07-15T14:28:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=FwdNPgQz7lg",
       "thumbnail": "https://i.ytimg.com/vi/FwdNPgQz7lg/mqdefault.jpg",
       "published": "2026-07-14T23:17:55Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONFIRMA CHEGADA DE NOVO ZAGUEIRO | TITULAR DEVE IR EMBORA | VENDA DE EMPRESTADO | ÍDOLO!!!!",
-      "videoId": "PWNAdlPSb0M",
-      "url": "https://www.youtube.com/watch?v=PWNAdlPSb0M",
-      "thumbnail": "https://i.ytimg.com/vi/PWNAdlPSb0M/mqdefault.jpg",
-      "published": "2026-07-14T14:58:56Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O que esperar de Argentina x Inglaterra, últimas da política e mais | Timeline 15/07/26",
+      "videoId": "gqpZqvHo35o",
+      "url": "https://www.youtube.com/watch?v=gqpZqvHo35o",
+      "thumbnail": "https://i.ytimg.com/vi/gqpZqvHo35o/mqdefault.jpg",
+      "published": "2026-07-15T14:24:28Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Resiliência climática, últimas da política, economia e + | Gaúcha Atualidade | 15/07/2026",
       "videoId": "huVRDOVEec8",
       "url": "https://www.youtube.com/watch?v=huVRDOVEec8",
       "thumbnail": "https://i.ytimg.com/vi/huVRDOVEec8/mqdefault.jpg",
       "published": "2026-07-15T13:57:35Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "O que esperar de Argentina x Inglaterra, últimas da política e mais | Timeline 15/07/26",
-      "videoId": "gqpZqvHo35o",
-      "url": "https://www.youtube.com/watch?v=gqpZqvHo35o",
-      "thumbnail": "https://i.ytimg.com/vi/gqpZqvHo35o/mqdefault_live.jpg",
-      "published": "2026-07-15T13:57:18Z"
     },
     {
       "channel": "Jeremias Wernek",
