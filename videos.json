@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T10:45:46.847301+00:00",
+  "updated_at": "2026-07-15T11:00:55.750607+00:00",
   "total": 30,
   "videos": [
     {
@@ -168,7 +168,7 @@
       "videoId": "huVRDOVEec8",
       "url": "https://www.youtube.com/watch?v=huVRDOVEec8",
       "thumbnail": "https://i.ytimg.com/vi/huVRDOVEec8/mqdefault_live.jpg",
-      "published": "2026-07-15T10:43:08Z"
+      "published": "2026-07-15T10:57:27Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 15/07 - inter 0x1 GRÊMIO (GAUCHÃO 1990)",
+      "videoId": "yGijro9CTf0",
+      "url": "https://www.youtube.com/watch?v=yGijro9CTf0",
+      "thumbnail": "https://i.ytimg.com/vi/yGijro9CTf0/mqdefault.jpg",
+      "published": "2026-07-15T11:00:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "IMORTAL FC — 15/07",
       "videoId": "7h-UZgoOhHc",
       "url": "https://www.youtube.com/watch?v=7h-UZgoOhHc",
       "thumbnail": "https://i.ytimg.com/vi/7h-UZgoOhHc/mqdefault_live.jpg",
       "published": "2026-07-15T02:08:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 15/07",
-      "videoId": "p4XRNXk3lNA",
-      "url": "https://www.youtube.com/watch?v=p4XRNXk3lNA",
-      "thumbnail": "https://i.ytimg.com/vi/p4XRNXk3lNA/mqdefault_live.jpg",
-      "published": "2026-07-15T01:38:52Z"
     }
   ]
 }
