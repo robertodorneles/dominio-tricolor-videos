@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T12:12:21.242779+00:00",
+  "updated_at": "2026-07-15T13:00:56.667478+00:00",
   "total": 30,
   "videos": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
+      "title": "GRÊMIO QUER ZAGUEIRO ARGENTINO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/07 - #590",
       "videoId": "biGiOiDtklE",
       "url": "https://www.youtube.com/watch?v=biGiOiDtklE",
       "thumbnail": "https://i.ytimg.com/vi/biGiOiDtklE/mqdefault_live.jpg",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "10 ANOS DE WALTER KANNEMANN NO GRÊMIO",
+      "videoId": "fInIFyqdN3M",
+      "url": "https://www.youtube.com/watch?v=fInIFyqdN3M",
+      "thumbnail": "https://i.ytimg.com/vi/fInIFyqdN3M/mqdefault.jpg",
+      "published": "2026-07-15T12:31:50Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "DE VOLTA! VILLASANTI FALA SOBRE RETORNO AOS GRAMADOS APÓS LESÃO",
       "videoId": "c-57sDM6n4o",
       "url": "https://www.youtube.com/watch?v=c-57sDM6n4o",
@@ -155,12 +163,12 @@
       "published": "2026-07-14T22:03:39Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "BEM-VINDA, LETICIA NUNES!",
-      "videoId": "RaxGKzS3UG4",
-      "url": "https://www.youtube.com/watch?v=RaxGKzS3UG4",
-      "thumbnail": "https://i.ytimg.com/vi/RaxGKzS3UG4/mqdefault.jpg",
-      "published": "2026-07-14T14:00:19Z"
+      "channel": "GZH Digital",
+      "title": "ANIVER DA ALICE! | PÓS DE FRANÇA X ESPANHA | PRÉ DE ARGENTINA X INGLATERRA | COPANDO TUDO | 14/07/26",
+      "videoId": "ekwZGnGWr6g",
+      "url": "https://www.youtube.com/watch?v=ekwZGnGWr6g",
+      "thumbnail": "https://i.ytimg.com/vi/ekwZGnGWr6g/mqdefault.jpg",
+      "published": "2026-07-15T12:23:51Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=huVRDOVEec8",
       "thumbnail": "https://i.ytimg.com/vi/huVRDOVEec8/mqdefault_live.jpg",
       "published": "2026-07-15T10:57:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Timeline 15/07/26",
-      "videoId": "gqpZqvHo35o",
-      "url": "https://www.youtube.com/watch?v=gqpZqvHo35o",
-      "thumbnail": "https://i.ytimg.com/vi/gqpZqvHo35o/mqdefault_live.jpg",
-      "published": "2026-07-15T10:42:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "10 ANOS DE KANNEMANN | REPORTAGEM ESPECIAL RÁDIO GRENAL | 15/07/2026",
+      "videoId": "xhy4-jHvlqE",
+      "url": "https://www.youtube.com/watch?v=xhy4-jHvlqE",
+      "thumbnail": "https://i.ytimg.com/vi/xhy4-jHvlqE/mqdefault.jpg",
+      "published": "2026-07-15T13:00:26Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "15/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "CwfwWigNfbw",
       "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
       "thumbnail": "https://i.ytimg.com/vi/CwfwWigNfbw/mqdefault_live.jpg",
       "published": "2026-07-15T11:07:42Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "14/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "znp26Fefcx8",
-      "url": "https://www.youtube.com/watch?v=znp26Fefcx8",
-      "thumbnail": "https://i.ytimg.com/vi/znp26Fefcx8/mqdefault.jpg",
-      "published": "2026-07-14T23:28:21Z"
     },
     {
       "channel": "Radio Imortal",
