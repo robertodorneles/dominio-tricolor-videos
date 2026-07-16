@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:00:38.362463+00:00",
+  "updated_at": "2026-07-16T21:00:49.655393+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE SÃO JOSÉ DO RIO PRETO-SP",
       "videoId": "yTxY_s6yxCo",
       "url": "https://www.youtube.com/watch?v=yTxY_s6yxCo",
-      "thumbnail": "https://i.ytimg.com/vi/yTxY_s6yxCo/mqdefault_live.jpg",
-      "published": "2026-07-16T19:09:47Z"
+      "thumbnail": "https://i.ytimg.com/vi/yTxY_s6yxCo/mqdefault.jpg",
+      "published": "2026-07-16T20:54:29Z"
     },
     {
       "channel": "Bage TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "AHOevrGpEoA",
+      "url": "https://www.youtube.com/watch?v=AHOevrGpEoA",
+      "thumbnail": "https://i.ytimg.com/vi/AHOevrGpEoA/mqdefault_live.jpg",
+      "published": "2026-07-16T20:42:18Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "DE PEITO ABERTO: FUTEBOL, LAZER, TRABALHO, COBRANÇAS | ENTREVISTA EXCLUSIVA COM LUÍS CASTRO",
       "videoId": "9X6GdOrLKyc",
       "url": "https://www.youtube.com/watch?v=9X6GdOrLKyc",
@@ -155,12 +163,12 @@
       "published": "2026-07-16T18:24:02Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "NOVA ATACANTE NO GRÊMIO FEMININO | ENTREVISTA EXCLUSIVA COM LETICIA NUNES",
-      "videoId": "Ogl-7Xt5mJ0",
-      "url": "https://www.youtube.com/watch?v=Ogl-7Xt5mJ0",
-      "thumbnail": "https://i.ytimg.com/vi/Ogl-7Xt5mJ0/mqdefault.jpg",
-      "published": "2026-07-15T19:19:49Z"
+      "channel": "GZH Digital",
+      "title": "Como parcerias fortalecem a reciclagem e geram valor para empresas | Conversas Cruzadas | 16/07/2026",
+      "videoId": "9-lCaYcr7xo",
+      "url": "https://www.youtube.com/watch?v=9-lCaYcr7xo",
+      "thumbnail": "https://i.ytimg.com/vi/9-lCaYcr7xo/mqdefault_live.jpg",
+      "published": "2026-07-16T20:30:21Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=Z5_m0-w7sdk",
       "thumbnail": "https://i.ytimg.com/vi/Z5_m0-w7sdk/mqdefault_live.jpg",
       "published": "2026-07-16T19:34:04Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "\"A ODISSEIA\" é o filme que NOLAN sempre quis fazer e que ele sempre fez | Dica do Ticiano",
-      "videoId": "Tr_7TyQpekI",
-      "url": "https://www.youtube.com/watch?v=Tr_7TyQpekI",
-      "thumbnail": "https://i.ytimg.com/vi/Tr_7TyQpekI/mqdefault.jpg",
-      "published": "2026-07-16T19:30:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO CHEGA EM SÃO PAULO COM NOVIDADES | PROVÁVEL ESCALAÇÃO | DE OLHO NA TABELA | IMORTAL FC",
+      "videoId": "g7Zxq9aPSow",
+      "url": "https://www.youtube.com/watch?v=g7Zxq9aPSow",
+      "thumbnail": "https://i.ytimg.com/vi/g7Zxq9aPSow/mqdefault_live.jpg",
+      "published": "2026-07-16T20:13:14Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO PRONTO PARA O RETORNO AO BRASILEIRÃO! | ESCALAÇÃO COM DÚVIDAS | SALÁRIOS ATRASADOS?",
       "videoId": "v1qez-9rwII",
       "url": "https://www.youtube.com/watch?v=v1qez-9rwII",
       "thumbnail": "https://i.ytimg.com/vi/v1qez-9rwII/mqdefault.jpg",
       "published": "2026-07-16T19:34:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO MIRASSOL X GRÊMIO | DIRETO DO MAIÃO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
-      "videoId": "YzkiKXg-TKs",
-      "url": "https://www.youtube.com/watch?v=YzkiKXg-TKs",
-      "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault_live.jpg",
-      "published": "2026-07-16T17:00:34Z"
     }
   ]
 }
