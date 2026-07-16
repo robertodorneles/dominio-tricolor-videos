@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:00:56.091749+00:00",
+  "updated_at": "2026-07-16T12:00:58.973947+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "77b7Hqtn2to",
       "url": "https://www.youtube.com/watch?v=77b7Hqtn2to",
       "thumbnail": "https://i.ytimg.com/vi/77b7Hqtn2to/mqdefault_live.jpg",
-      "published": "2026-07-16T09:22:39Z"
+      "published": "2026-07-16T11:56:17Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO - #37 - 16.07 - PÓS-JOGO 🇦🇷 2 x 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - RICA PERRONE, DUDA GARBI e LISCA",
+      "videoId": "i6vxvvlHcOM",
+      "url": "https://www.youtube.com/watch?v=i6vxvvlHcOM",
+      "thumbnail": "https://i.ytimg.com/vi/i6vxvvlHcOM/mqdefault_live.jpg",
+      "published": "2026-07-16T11:34:26Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "“FOI POR ISSO QUE SAÍ DO GRÊMIO” #dudagarbi #umassadopara #copa",
       "videoId": "ip9hrDQqS8A",
       "url": "https://www.youtube.com/watch?v=ip9hrDQqS8A",
       "thumbnail": "https://i.ytimg.com/vi/ip9hrDQqS8A/mqdefault.jpg",
       "published": "2026-07-15T22:00:28Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "TATUAGEM EM LUGAR POLÊMICO? O DIA QUE UM TORCEDOR CONSTRANGEU ANDRÉ LIMA| Cortes do Duda",
-      "videoId": "EJzyISr5uc8",
-      "url": "https://www.youtube.com/watch?v=EJzyISr5uc8",
-      "thumbnail": "https://i.ytimg.com/vi/EJzyISr5uc8/mqdefault.jpg",
-      "published": "2026-07-15T22:00:04Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "NO CAMINHO DO AGRO #4 - Os bastidores da produção de maçã em Vacaria 🍎",
-      "videoId": "MqBdbn54Yjg",
-      "url": "https://www.youtube.com/watch?v=MqBdbn54Yjg",
-      "thumbnail": "https://i.ytimg.com/vi/MqBdbn54Yjg/mqdefault.jpg",
-      "published": "2026-07-16T11:00:24Z"
+      "title": "FINAL DEFINIDA | LISCA EXPLICA: QUEM LEVA A COPA? | MEMES DAS SEMIFINAIS | COPANDO TUDO | 15/07/2026",
+      "videoId": "wf1FOdU_chA",
+      "url": "https://www.youtube.com/watch?v=wf1FOdU_chA",
+      "thumbnail": "https://i.ytimg.com/vi/wf1FOdU_chA/mqdefault.jpg",
+      "published": "2026-07-16T11:54:35Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "16/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "Xsu-pJFXlCk",
+      "url": "https://www.youtube.com/watch?v=Xsu-pJFXlCk",
+      "thumbnail": "https://i.ytimg.com/vi/Xsu-pJFXlCk/mqdefault_live.jpg",
+      "published": "2026-07-16T11:02:28Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "15/07/2026 | LIVE COMPLETA  | RÁDIO GRENAL",
       "videoId": "CwfwWigNfbw",
       "url": "https://www.youtube.com/watch?v=CwfwWigNfbw",
@@ -219,12 +227,12 @@
       "published": "2026-07-15T23:36:14Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "16/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "Xsu-pJFXlCk",
-      "url": "https://www.youtube.com/watch?v=Xsu-pJFXlCk",
-      "thumbnail": "https://i.ytimg.com/vi/Xsu-pJFXlCk/mqdefault_live.jpg",
-      "published": "2026-07-15T23:03:03Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO VAI VENDER GABRIEL MEC? | ATUALIZAÇÕES SOBRE O ZAGUEIRO | LATERAL CHEGANDO | REDAÇÃO IMORTAL",
+      "videoId": "EmpdPPTWt-A",
+      "url": "https://www.youtube.com/watch?v=EmpdPPTWt-A",
+      "thumbnail": "https://i.ytimg.com/vi/EmpdPPTWt-A/mqdefault_live.jpg",
+      "published": "2026-07-16T11:01:58Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9LAUaDKzjus",
       "thumbnail": "https://i.ytimg.com/vi/9LAUaDKzjus/mqdefault.jpg",
       "published": "2026-07-16T11:00:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "REFORÇOS COMEÇAM A SE APROXIMAR | NOVIDADES NOS BASTIDORES | NOITES DE GRÊMIO #109 - 15/07",
-      "videoId": "U58IySLD-bY",
-      "url": "https://www.youtube.com/watch?v=U58IySLD-bY",
-      "thumbnail": "https://i.ytimg.com/vi/U58IySLD-bY/mqdefault.jpg",
-      "published": "2026-07-16T02:38:25Z"
     }
   ]
 }
