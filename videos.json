@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T12:18:45.317433+00:00",
+  "updated_at": "2026-07-16T13:00:58.955722+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NOVELA GABRIEL MEC! PEDIU PRA SAIR #gremio #Futebol",
+      "videoId": "EpZhiYL0mK0",
+      "url": "https://www.youtube.com/watch?v=EpZhiYL0mK0",
+      "thumbnail": "https://i.ytimg.com/vi/EpZhiYL0mK0/mqdefault.jpg",
+      "published": "2026-07-16T13:00:22Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MEC PEDE PRA SAIR: BASTIDORES | PAVÓN E AMUZU SAINDO? | DIEGO CAITO CHEGA | NICOLAS NO GRÊMIO.",
       "videoId": "aFsGPfVepxw",
       "url": "https://www.youtube.com/watch?v=aFsGPfVepxw",
       "thumbnail": "https://i.ytimg.com/vi/aFsGPfVepxw/mqdefault.jpg",
       "published": "2026-07-15T21:09:44Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CAFÉ COM PRESIDENTE! MEC SAINDO, PATROCÍNIO E RENOVAÇÕES. #gremio #Futebol",
-      "videoId": "kWIsOn2cKHw",
-      "url": "https://www.youtube.com/watch?v=kWIsOn2cKHw",
-      "thumbnail": "https://i.ytimg.com/vi/kWIsOn2cKHw/mqdefault.jpg",
-      "published": "2026-07-15T13:58:37Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Healthtech gaúcha usa IA para detectar DOENÇAS CEREBRAIS | Radar de Inovação",
-      "videoId": "Rt5j7O10VuQ",
-      "url": "https://www.youtube.com/watch?v=Rt5j7O10VuQ",
-      "thumbnail": "https://i.ytimg.com/vi/Rt5j7O10VuQ/mqdefault.jpg",
-      "published": "2026-07-16T12:01:28Z"
+      "title": "O SEGREDO DA OLYMPIKUS: vender 15 milhões de pares por ano criando comunidade | Liderança em Sala",
+      "videoId": "VTLK_-UvKU0",
+      "url": "https://www.youtube.com/watch?v=VTLK_-UvKU0",
+      "thumbnail": "https://i.ytimg.com/vi/VTLK_-UvKU0/mqdefault.jpg",
+      "published": "2026-07-16T13:00:32Z"
     },
     {
       "channel": "GZH Digital",
@@ -232,7 +232,7 @@
       "videoId": "EmpdPPTWt-A",
       "url": "https://www.youtube.com/watch?v=EmpdPPTWt-A",
       "thumbnail": "https://i.ytimg.com/vi/EmpdPPTWt-A/mqdefault_live.jpg",
-      "published": "2026-07-16T11:01:58Z"
+      "published": "2026-07-16T12:57:41Z"
     },
     {
       "channel": "Radio Imortal",
