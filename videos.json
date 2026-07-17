@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T20:00:44.742033+00:00",
+  "updated_at": "2026-07-17T20:02:46.615249+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "17/07/2026 | ESQUENTANDO O JOGO | MIRASSOL X GRÊMIO | RÁDIO GRENAL",
+      "videoId": "T9nftzwHV_I",
+      "url": "https://www.youtube.com/watch?v=T9nftzwHV_I",
+      "thumbnail": "https://i.ytimg.com/vi/T9nftzwHV_I/mqdefault_live.jpg",
+      "published": "2026-07-17T20:00:48Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "17/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "crIG7QDQCsM",
       "url": "https://www.youtube.com/watch?v=crIG7QDQCsM",
       "thumbnail": "https://i.ytimg.com/vi/crIG7QDQCsM/mqdefault_live.jpg",
       "published": "2026-07-17T19:09:25Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "17/07/2026 | ESQUENTANDO O JOGO | MIRASSOL X GRÊMIO | RÁDIO GRENAL",
-      "videoId": "T9nftzwHV_I",
-      "url": "https://www.youtube.com/watch?v=T9nftzwHV_I",
-      "thumbnail": "https://i.ytimg.com/vi/T9nftzwHV_I/mqdefault_live.jpg",
-      "published": "2026-07-17T19:05:52Z"
     },
     {
       "channel": "Radio Imortal",
