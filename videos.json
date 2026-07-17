@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T14:00:45.973749+00:00",
+  "updated_at": "2026-07-17T14:40:09.570818+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO ENFRENTA MIRASSOL NA VOLTA DO BRASILEIRÃO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/07 - #592",
+      "videoId": "twFAk3AAfkU",
+      "url": "https://www.youtube.com/watch?v=twFAk3AAfkU",
+      "thumbnail": "https://i.ytimg.com/vi/twFAk3AAfkU/mqdefault.jpg",
+      "published": "2026-07-17T14:11:47Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #025",
       "videoId": "o8nMH4IdHI0",
       "url": "https://www.youtube.com/watch?v=o8nMH4IdHI0",
       "thumbnail": "https://i.ytimg.com/vi/o8nMH4IdHI0/mqdefault_live.jpg",
       "published": "2026-07-17T13:40:49Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ENFRENTA MIRASSOL NA VOLTA DO BRASILEIRÃO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/07 - #592",
-      "videoId": "twFAk3AAfkU",
-      "url": "https://www.youtube.com/watch?v=twFAk3AAfkU",
-      "thumbnail": "https://i.ytimg.com/vi/twFAk3AAfkU/mqdefault_live.jpg",
-      "published": "2026-07-17T13:31:06Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -167,8 +167,8 @@
       "title": "Entrevista com PAULO ROBERTO FALCÃO, Copa do Mundo e mais | Timeline 17/07/26",
       "videoId": "LZ3Dorq9yZA",
       "url": "https://www.youtube.com/watch?v=LZ3Dorq9yZA",
-      "thumbnail": "https://i.ytimg.com/vi/LZ3Dorq9yZA/mqdefault_live.jpg",
-      "published": "2026-07-17T13:56:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/LZ3Dorq9yZA/mqdefault.jpg",
+      "published": "2026-07-17T14:11:13Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "17/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "-3Klz4mYfbY",
       "url": "https://www.youtube.com/watch?v=-3Klz4mYfbY",
       "thumbnail": "https://i.ytimg.com/vi/-3Klz4mYfbY/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️O treinador Luís Castro fala sobre o projeto do Grêmio de utilização das categorias de base.",
+      "videoId": "MsiO3_Al7FM",
+      "url": "https://www.youtube.com/watch?v=MsiO3_Al7FM",
+      "thumbnail": "https://i.ytimg.com/vi/MsiO3_Al7FM/mqdefault.jpg",
+      "published": "2026-07-17T14:09:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #115 — QUAL SERÁ A ESCALAÇÃO DO GRÊMIO? | AS DÚVIDAS NA VOLTA AOS GRAMADOS",
       "videoId": "ZTK1MLeqEaM",
       "url": "https://www.youtube.com/watch?v=ZTK1MLeqEaM",
       "thumbnail": "https://i.ytimg.com/vi/ZTK1MLeqEaM/mqdefault_live.jpg",
       "published": "2026-07-17T13:45:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE É DIA DE GRÊMIO! DE VOLTA AO BRASILEIRÃO | NOVIDADES E AUSÊNCIAS EM MIRASSOL | REDAÇÃO IMORTAL",
-      "videoId": "nuYPQdCDflM",
-      "url": "https://www.youtube.com/watch?v=nuYPQdCDflM",
-      "thumbnail": "https://i.ytimg.com/vi/nuYPQdCDflM/mqdefault.jpg",
-      "published": "2026-07-17T13:10:39Z"
     }
   ]
 }
