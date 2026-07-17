@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-17T00:00:43.544360+00:00",
+  "updated_at": "2026-07-17T01:00:45.411503+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: NOVA YORK JA CHEIRA A FINAL | ARGENTINA OU ESPANHA?",
+      "videoId": "EEVdThTPxWY",
+      "url": "https://www.youtube.com/watch?v=EEVdThTPxWY",
+      "thumbnail": "https://i.ytimg.com/vi/EEVdThTPxWY/mqdefault_live.jpg",
+      "published": "2026-07-17T00:26:15Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 ESTÁ EMPILHANDO GOLS | ALEX ARCE É O CARA | MONSTRO PELO ALTO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=s0ljVenwGws",
       "thumbnail": "https://i.ytimg.com/vi/s0ljVenwGws/mqdefault.jpg",
       "published": "2026-07-16T21:38:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA NICOLÁS VALENTINI | XERIFE, FORTE E SEM FRESCURA",
-      "videoId": "NWxI0TtrJXc",
-      "url": "https://www.youtube.com/watch?v=NWxI0TtrJXc",
-      "thumbnail": "https://i.ytimg.com/vi/NWxI0TtrJXc/mqdefault.jpg",
-      "published": "2026-07-16T21:00:13Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "Dez anos atrás o Kannemann era apresentado no gremio em uma coletiva.  #gremio #Futebol",
-      "videoId": "beqtdObYEH0",
-      "url": "https://www.youtube.com/watch?v=beqtdObYEH0",
-      "thumbnail": "https://i.ytimg.com/vi/beqtdObYEH0/mqdefault.jpg",
-      "published": "2026-07-16T23:34:26Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
       "title": "CARLOS VINÍCIUS SAINDO? GRÊMIO SE PREPARA | MEC NÃO ASSINOU: PROBLEMA EXPLODE!",
       "videoId": "QHcCAh7OOSg",
       "url": "https://www.youtube.com/watch?v=QHcCAh7OOSg",
       "thumbnail": "https://i.ytimg.com/vi/QHcCAh7OOSg/mqdefault.jpg",
       "published": "2026-07-16T21:20:13Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "PROBLEMA GIGANTE! DIREÇÃO JÁ FALOU COM CARLOS VINÍCIUS. #gremio #Futebol #carlosvinicius",
+      "videoId": "fsYlrMlO6SI",
+      "url": "https://www.youtube.com/watch?v=fsYlrMlO6SI",
+      "thumbnail": "https://i.ytimg.com/vi/fsYlrMlO6SI/mqdefault.jpg",
+      "published": "2026-07-16T16:31:18Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
