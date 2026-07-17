@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T14:40:09.570818+00:00",
+  "updated_at": "2026-07-17T15:01:07.661981+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #025",
+      "videoId": "o8nMH4IdHI0",
+      "url": "https://www.youtube.com/watch?v=o8nMH4IdHI0",
+      "thumbnail": "https://i.ytimg.com/vi/o8nMH4IdHI0/mqdefault_live.jpg",
+      "published": "2026-07-17T14:50:37Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ENFRENTA MIRASSOL NA VOLTA DO BRASILEIRÃO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/07 - #592",
       "videoId": "twFAk3AAfkU",
       "url": "https://www.youtube.com/watch?v=twFAk3AAfkU",
@@ -27,12 +35,12 @@
       "published": "2026-07-17T14:11:47Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #025",
-      "videoId": "o8nMH4IdHI0",
-      "url": "https://www.youtube.com/watch?v=o8nMH4IdHI0",
-      "thumbnail": "https://i.ytimg.com/vi/o8nMH4IdHI0/mqdefault_live.jpg",
-      "published": "2026-07-17T13:40:49Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨AVANÇO POR DOIS REFORÇOS! MEIA E ZAGUEIRO | UM REFORÇO HOJE | O TIME DO GRÊMIO PRO JOGO!",
+      "videoId": "LFvHvhsIuJM",
+      "url": "https://www.youtube.com/watch?v=LFvHvhsIuJM",
+      "thumbnail": "https://i.ytimg.com/vi/LFvHvhsIuJM/mqdefault.jpg",
+      "published": "2026-07-17T14:48:26Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=fkQDTN-gCS0",
       "thumbnail": "https://i.ytimg.com/vi/fkQDTN-gCS0/mqdefault.jpg",
       "published": "2026-07-16T23:01:33Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FECHA COM NOVO CAMISA 10? | ANÚNCIOS DE REFORÇOS PERTO | ZAGUEIRO EM PAUTA!",
-      "videoId": "RC9Ptjwgbxo",
-      "url": "https://www.youtube.com/watch?v=RC9Ptjwgbxo",
-      "thumbnail": "https://i.ytimg.com/vi/RC9Ptjwgbxo/mqdefault.jpg",
-      "published": "2026-07-16T14:55:17Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Márcio Callage: por que empreender é, acima de tudo, trabalhar com pessoas | Liderança em Sala",
+      "videoId": "LlsZWGfcXYQ",
+      "url": "https://www.youtube.com/watch?v=LlsZWGfcXYQ",
+      "thumbnail": "https://i.ytimg.com/vi/LlsZWGfcXYQ/mqdefault.jpg",
+      "published": "2026-07-17T15:00:29Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com PAULO ROBERTO FALCÃO, Copa do Mundo e mais | Timeline 17/07/26",
       "videoId": "LZ3Dorq9yZA",
       "url": "https://www.youtube.com/watch?v=LZ3Dorq9yZA",
       "thumbnail": "https://i.ytimg.com/vi/LZ3Dorq9yZA/mqdefault.jpg",
       "published": "2026-07-17T14:11:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Temporais no Rio Grande do Sul, Caso Oliver, trânsito e mais | Gaúcha Atualidade | 17/07/2026",
-      "videoId": "eak7CeHUPXI",
-      "url": "https://www.youtube.com/watch?v=eak7CeHUPXI",
-      "thumbnail": "https://i.ytimg.com/vi/eak7CeHUPXI/mqdefault.jpg",
-      "published": "2026-07-17T13:33:02Z"
     },
     {
       "channel": "Jeremias Wernek",
