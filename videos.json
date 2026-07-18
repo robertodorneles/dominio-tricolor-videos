@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-18T22:00:39.260057+00:00",
+  "updated_at": "2026-07-18T22:44:01.829898+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: NOVO CHOQUE NO VESTIÁRIO | LIBERAÇÕES E MEDIDAS DE RECUPERAÇÃO | ALVOS DEFINIDOS",
+      "videoId": "D3VOmrdWxJE",
+      "url": "https://www.youtube.com/watch?v=D3VOmrdWxJE",
+      "thumbnail": "https://i.ytimg.com/vi/D3VOmrdWxJE/mqdefault.jpg",
+      "published": "2026-07-18T22:30:37Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: NEGÓCIO ESTÁ ANDANDO! | O CENTROAVANTE DESEJADO | JOGO-TREINO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=N_M22G0XXaA",
       "thumbnail": "https://i.ytimg.com/vi/N_M22G0XXaA/mqdefault.jpg",
       "published": "2026-07-18T06:19:41Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: JOGADORES NA MIRA DA DIREÇÃO | FEITO INÉDITO NO VESTIÁRIO | REFORÇOS",
-      "videoId": "m_f-vMcg4fA",
-      "url": "https://www.youtube.com/watch?v=m_f-vMcg4fA",
-      "thumbnail": "https://i.ytimg.com/vi/m_f-vMcg4fA/mqdefault.jpg",
-      "published": "2026-07-18T06:00:14Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "ELE LEVANTOU TAÇA NO INTER MAS COMEÇOU JOGANDO NO GRÊMIO! | Cortes do Duda",
+      "videoId": "jOaO6PtPWls",
+      "url": "https://www.youtube.com/watch?v=jOaO6PtPWls",
+      "thumbnail": "https://i.ytimg.com/vi/jOaO6PtPWls/mqdefault.jpg",
+      "published": "2026-07-18T22:30:12Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "“EU TAVA PELADO FALANDO COM ELE” #dudagarbi #umassadopara #copa",
       "videoId": "lJ3a-1oQ_NQ",
       "url": "https://www.youtube.com/watch?v=lJ3a-1oQ_NQ",
       "thumbnail": "https://i.ytimg.com/vi/lJ3a-1oQ_NQ/mqdefault.jpg",
       "published": "2026-07-18T22:00:03Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #39 - 18.07 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "H7TS4jOrUe8",
-      "url": "https://www.youtube.com/watch?v=H7TS4jOrUe8",
-      "thumbnail": "https://i.ytimg.com/vi/H7TS4jOrUe8/mqdefault.jpg",
-      "published": "2026-07-18T13:25:34Z"
     },
     {
       "channel": "GremioTV Oficial",
