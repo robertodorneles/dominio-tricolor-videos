@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T13:00:43.642205+00:00",
+  "updated_at": "2026-07-18T13:05:53.664189+00:00",
   "total": 30,
   "videos": [
     {
@@ -136,7 +136,7 @@
       "videoId": "H7TS4jOrUe8",
       "url": "https://www.youtube.com/watch?v=H7TS4jOrUe8",
       "thumbnail": "https://i.ytimg.com/vi/H7TS4jOrUe8/mqdefault_live.jpg",
-      "published": "2026-07-18T12:00:16Z"
+      "published": "2026-07-18T13:02:30Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VOLTOU IGUAL E PERDEU PARA O MIRASSOL | PELAIPE E ODORICO RESPALDAM LUÍS CASTRO | PLANTÃO",
+      "videoId": "xTljnVEZ-SE",
+      "url": "https://www.youtube.com/watch?v=xTljnVEZ-SE",
+      "thumbnail": "https://i.ytimg.com/vi/xTljnVEZ-SE/mqdefault_live.jpg",
+      "published": "2026-07-18T13:00:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 18/07 - GRENAL DOS 10X0",
       "videoId": "o6djHIKBamM",
       "url": "https://www.youtube.com/watch?v=o6djHIKBamM",
       "thumbnail": "https://i.ytimg.com/vi/o6djHIKBamM/mqdefault.jpg",
       "published": "2026-07-18T11:00:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO MIRASSOL (2) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | DIRETO DO MAIÃO",
-      "videoId": "YzkiKXg-TKs",
-      "url": "https://www.youtube.com/watch?v=YzkiKXg-TKs",
-      "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault.jpg",
-      "published": "2026-07-18T02:52:45Z"
     }
   ]
 }
