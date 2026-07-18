@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T14:00:41.644797+00:00",
+  "updated_at": "2026-07-18T14:48:06.243354+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Como fica a situação de Luís Castro | Manifestação da direção do Grêmio | Contratações",
+      "videoId": "y52lSjaDrac",
+      "url": "https://www.youtube.com/watch?v=y52lSjaDrac",
+      "thumbnail": "https://i.ytimg.com/vi/y52lSjaDrac/mqdefault.jpg",
+      "published": "2026-07-18T14:15:58Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Quem é o meia-atacante argentino que o Grêmio tentou contratar | Escalação provável",
       "videoId": "P-L4M15Y5tA",
       "url": "https://www.youtube.com/watch?v=P-L4M15Y5tA",
       "thumbnail": "https://i.ytimg.com/vi/P-L4M15Y5tA/mqdefault.jpg",
       "published": "2026-07-17T12:44:18Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Gabriel Mec pode ser vendido pelo Grêmio",
-      "videoId": "YLesdNQhGdI",
-      "url": "https://www.youtube.com/watch?v=YLesdNQhGdI",
-      "thumbnail": "https://i.ytimg.com/vi/YLesdNQhGdI/mqdefault.jpg",
-      "published": "2026-07-15T22:00:17Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -216,7 +216,7 @@
       "videoId": "Jddxwh-o1Ss",
       "url": "https://www.youtube.com/watch?v=Jddxwh-o1Ss",
       "thumbnail": "https://i.ytimg.com/vi/Jddxwh-o1Ss/mqdefault_live.jpg",
-      "published": "2026-07-18T13:14:52Z"
+      "published": "2026-07-18T14:00:22Z"
     },
     {
       "channel": "Radio Grenal",
