@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:00:57.067594+00:00",
+  "updated_at": "2026-07-18T02:43:57.927304+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 CASTRO VAI REBAIXAR O GRÊMIO",
+      "videoId": "ns-O7ABWNQU",
+      "url": "https://www.youtube.com/watch?v=ns-O7ABWNQU",
+      "thumbnail": "https://i.ytimg.com/vi/ns-O7ABWNQU/mqdefault.jpg",
+      "published": "2026-07-18T02:15:56Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 MIRASSOL X GRÊMIO [DIRETO DE MIRASSOL-SP]",
       "videoId": "8ma7W4h7O4k",
       "url": "https://www.youtube.com/watch?v=8ma7W4h7O4k",
@@ -27,12 +35,12 @@
       "published": "2026-07-17T20:03:37Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🚨 DIA DE GRÊMIO! Salários atrasados no clube e Pedro Raul no Colorado🔸RESENHA FORA DA SALA🔸#088",
-      "videoId": "U0gtDpx_aFA",
-      "url": "https://www.youtube.com/watch?v=U0gtDpx_aFA",
-      "thumbnail": "https://i.ytimg.com/vi/U0gtDpx_aFA/mqdefault.jpg",
-      "published": "2026-07-17T18:20:49Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨DEMISSÃO: DERROTA DE DEMITIR TREINADOR! O GRÊMIO CAMINHA PRO REBAIXAMENTO COM LUÍS CASTRO!",
+      "videoId": "ldULSglnfn0",
+      "url": "https://www.youtube.com/watch?v=ldULSglnfn0",
+      "thumbnail": "https://i.ytimg.com/vi/ldULSglnfn0/mqdefault.jpg",
+      "published": "2026-07-18T02:24:52Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,28 +51,20 @@
       "published": "2026-07-17T14:48:26Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨”GRANDE JOGADOR” PODE CHEGAR | SAÍDA IMPORTANTE E INESPERADA? | CONFLITOS INTERNOS NO GRÊMIO!",
-      "videoId": "fkQDTN-gCS0",
-      "url": "https://www.youtube.com/watch?v=fkQDTN-gCS0",
-      "thumbnail": "https://i.ytimg.com/vi/fkQDTN-gCS0/mqdefault.jpg",
-      "published": "2026-07-16T23:01:33Z"
+      "channel": "Canal do CCD",
+      "title": "A forte entrevista do presidente Odorico após Mirassol x Grêmio",
+      "videoId": "bKNH3JhOAtA",
+      "url": "https://www.youtube.com/watch?v=bKNH3JhOAtA",
+      "thumbnail": "https://i.ytimg.com/vi/bKNH3JhOAtA/mqdefault.jpg",
+      "published": "2026-07-18T02:16:33Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Jogo muito ruim do Grêmio! Hora de encerrar prazos",
-      "videoId": "9n3-HlzzySQ",
-      "url": "https://www.youtube.com/watch?v=9n3-HlzzySQ",
-      "thumbnail": "https://i.ytimg.com/vi/9n3-HlzzySQ/mqdefault.jpg",
-      "published": "2026-07-18T01:05:33Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #631: Show do milhão | Situação de Valentini e chegada de Diego Caito no Grêmio",
-      "videoId": "lF09WxEbLDA",
-      "url": "https://www.youtube.com/watch?v=lF09WxEbLDA",
-      "thumbnail": "https://i.ytimg.com/vi/lF09WxEbLDA/mqdefault.jpg",
-      "published": "2026-07-17T19:17:21Z"
+      "title": "Mirassol 2 x 1 Grêmio: uma das piores partidas do ano… o trabalho acabou",
+      "videoId": "7Zb-BFe-elM",
+      "url": "https://www.youtube.com/watch?v=7Zb-BFe-elM",
+      "thumbnail": "https://i.ytimg.com/vi/7Zb-BFe-elM/mqdefault.jpg",
+      "published": "2026-07-18T02:02:01Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MIRASSOL X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
+      "videoId": "Pm8_z8_VzPA",
+      "url": "https://www.youtube.com/watch?v=Pm8_z8_VzPA",
+      "thumbnail": "https://i.ytimg.com/vi/Pm8_z8_VzPA/mqdefault.jpg",
+      "published": "2026-07-18T02:37:02Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "NADA DO GRÊMIO! MIRASSOL 2X 1 GRÊMIO. #gremio #brasileirao",
       "videoId": "NqRqsFRtFek",
       "url": "https://www.youtube.com/watch?v=NqRqsFRtFek",
       "thumbnail": "https://i.ytimg.com/vi/NqRqsFRtFek/mqdefault.jpg",
       "published": "2026-07-18T01:06:45Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "MIRASSOL X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "Pm8_z8_VzPA",
-      "url": "https://www.youtube.com/watch?v=Pm8_z8_VzPA",
-      "thumbnail": "https://i.ytimg.com/vi/Pm8_z8_VzPA/mqdefault_live.jpg",
-      "published": "2026-07-18T01:05:25Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PAULO PELAIPE I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "w_KJj9w52L8",
-      "url": "https://www.youtube.com/watch?v=w_KJj9w52L8",
-      "thumbnail": "https://i.ytimg.com/vi/w_KJj9w52L8/mqdefault_live.jpg",
-      "published": "2026-07-18T01:55:06Z"
+      "title": "AO VIVO | COLETIVA PRESIDENTE ODORICO ROMAN I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "kJyW-BQUxLc",
+      "url": "https://www.youtube.com/watch?v=kJyW-BQUxLc",
+      "thumbnail": "https://i.ytimg.com/vi/kJyW-BQUxLc/mqdefault.jpg",
+      "published": "2026-07-18T02:07:57Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "Tpv0wTdAmT0",
-      "url": "https://www.youtube.com/watch?v=Tpv0wTdAmT0",
-      "thumbnail": "https://i.ytimg.com/vi/Tpv0wTdAmT0/mqdefault.jpg",
-      "published": "2026-07-18T01:53:41Z"
+      "title": "AO VIVO | COLETIVA PAULO PELAIPE I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "w_KJj9w52L8",
+      "url": "https://www.youtube.com/watch?v=w_KJj9w52L8",
+      "thumbnail": "https://i.ytimg.com/vi/w_KJj9w52L8/mqdefault.jpg",
+      "published": "2026-07-18T02:04:53Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | MIRASSOL 2X1 GRÊMIO | BRASILEIRÃO | 17/07/2026",
+      "videoId": "bPaVJdZ7JOw",
+      "url": "https://www.youtube.com/watch?v=bPaVJdZ7JOw",
+      "thumbnail": "https://i.ytimg.com/vi/bPaVJdZ7JOw/mqdefault.jpg",
+      "published": "2026-07-18T02:18:17Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE MIRASSOL 2 X 1 GRÊMIO - NARRAÇÃO PC CARVALHO |  BRASILEIRÃO | 17/07/2026 | RÁDIO GRENAL",
       "videoId": "UuiC8mY6bz0",
       "url": "https://www.youtube.com/watch?v=UuiC8mY6bz0",
@@ -219,28 +227,20 @@
       "published": "2026-07-18T01:12:47Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "17/07/2026 | DEBATE BOLA | MIRASSOL 2 X 1 GRÊMIO | RÁDIO GRENAL",
-      "videoId": "T9nftzwHV_I",
-      "url": "https://www.youtube.com/watch?v=T9nftzwHV_I",
-      "thumbnail": "https://i.ytimg.com/vi/T9nftzwHV_I/mqdefault_live.jpg",
-      "published": "2026-07-17T20:00:48Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO MIRASSOL (2) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | DIRETO DO MAIÃO",
       "videoId": "YzkiKXg-TKs",
       "url": "https://www.youtube.com/watch?v=YzkiKXg-TKs",
       "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault_live.jpg",
-      "published": "2026-07-17T19:02:36Z"
+      "published": "2026-07-18T02:31:25Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ Luís Castro fala sobre o mercado de transferências do Grêmio.",
-      "videoId": "_iXbDqTmpGs",
-      "url": "https://www.youtube.com/watch?v=_iXbDqTmpGs",
-      "thumbnail": "https://i.ytimg.com/vi/_iXbDqTmpGs/mqdefault.jpg",
-      "published": "2026-07-17T17:02:23Z"
+      "title": "GRÊMIO VOLTOU IGUAL E PERDEU PARA O MIRASSOL | PELAIPE E ODORICO RESPALDAM LUÍS CASTRO | PLANTÃO",
+      "videoId": "xTljnVEZ-SE",
+      "url": "https://www.youtube.com/watch?v=xTljnVEZ-SE",
+      "thumbnail": "https://i.ytimg.com/vi/xTljnVEZ-SE/mqdefault_live.jpg",
+      "published": "2026-07-18T02:11:01Z"
     }
   ]
 }
