@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-18T01:00:42.611849+00:00",
+  "updated_at": "2026-07-18T02:00:57.067594+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 1x2 Mirassol: CASTRO ACABOU COM O TIME | VOLTOU PIOR DO QUE ERA | FIASCO EM SÃO PAULO",
+      "videoId": "ObKuitFTmSA",
+      "url": "https://www.youtube.com/watch?v=ObKuitFTmSA",
+      "thumbnail": "https://i.ytimg.com/vi/ObKuitFTmSA/mqdefault.jpg",
+      "published": "2026-07-18T01:37:57Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 O 9 ESQUENTOU! | ABEL LIGOU PRA PEDRO RAUL | MAXI GOMES?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=kXyn5BRL21c",
       "thumbnail": "https://i.ytimg.com/vi/kXyn5BRL21c/mqdefault.jpg",
       "published": "2026-07-17T06:10:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: ATRASOU DE NOVO! | RETOMADA DO BRASILEIRÃO | VINI DE SAÍDA?!",
-      "videoId": "vzJFpt7Az0o",
-      "url": "https://www.youtube.com/watch?v=vzJFpt7Az0o",
-      "thumbnail": "https://i.ytimg.com/vi/vzJFpt7Az0o/mqdefault.jpg",
-      "published": "2026-07-17T05:00:12Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Jogo muito ruim do Grêmio! Hora de encerrar prazos",
+      "videoId": "9n3-HlzzySQ",
+      "url": "https://www.youtube.com/watch?v=9n3-HlzzySQ",
+      "thumbnail": "https://i.ytimg.com/vi/9n3-HlzzySQ/mqdefault.jpg",
+      "published": "2026-07-18T01:05:33Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #631: Show do milhão | Situação de Valentini e chegada de Diego Caito no Grêmio",
       "videoId": "lF09WxEbLDA",
       "url": "https://www.youtube.com/watch?v=lF09WxEbLDA",
@@ -59,20 +67,12 @@
       "published": "2026-07-17T19:17:21Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Mirassol x Grêmio: Hoje a nossa Copa | Provável time | Tabela e mais",
-      "videoId": "ikgD32CW8Sw",
-      "url": "https://www.youtube.com/watch?v=ikgD32CW8Sw",
-      "thumbnail": "https://i.ytimg.com/vi/ikgD32CW8Sw/mqdefault.jpg",
-      "published": "2026-07-17T13:09:29Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X MIRASSOL | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 17/07/2026",
       "videoId": "g1i5nT_31Kc",
       "url": "https://www.youtube.com/watch?v=g1i5nT_31Kc",
       "thumbnail": "https://i.ytimg.com/vi/g1i5nT_31Kc/mqdefault_live.jpg",
-      "published": "2026-07-17T19:03:56Z"
+      "published": "2026-07-18T01:58:11Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NADA DO GRÊMIO! MIRASSOL 2X 1 GRÊMIO. #gremio #brasileirao",
+      "videoId": "NqRqsFRtFek",
+      "url": "https://www.youtube.com/watch?v=NqRqsFRtFek",
+      "thumbnail": "https://i.ytimg.com/vi/NqRqsFRtFek/mqdefault.jpg",
+      "published": "2026-07-18T01:06:45Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MIRASSOL X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "Pm8_z8_VzPA",
       "url": "https://www.youtube.com/watch?v=Pm8_z8_VzPA",
       "thumbnail": "https://i.ytimg.com/vi/Pm8_z8_VzPA/mqdefault_live.jpg",
-      "published": "2026-07-17T19:42:52Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "PINGOU PIX | SALÁRIOS DO GRUPO E SALÁRIO DO ZAGUEIRO. #gremio #Futebol",
-      "videoId": "Rql3dAvhYoY",
-      "url": "https://www.youtube.com/watch?v=Rql3dAvhYoY",
-      "thumbnail": "https://i.ytimg.com/vi/Rql3dAvhYoY/mqdefault.jpg",
-      "published": "2026-07-17T15:48:58Z"
+      "published": "2026-07-18T01:05:25Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "Tpv0wTdAmT0",
-      "url": "https://www.youtube.com/watch?v=Tpv0wTdAmT0",
-      "thumbnail": "https://i.ytimg.com/vi/Tpv0wTdAmT0/mqdefault_live.jpg",
-      "published": "2026-07-18T00:29:02Z"
+      "title": "AO VIVO | COLETIVA PAULO PELAIPE I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "w_KJj9w52L8",
+      "url": "https://www.youtube.com/watch?v=w_KJj9w52L8",
+      "thumbnail": "https://i.ytimg.com/vi/w_KJj9w52L8/mqdefault_live.jpg",
+      "published": "2026-07-18T01:55:06Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "AHOevrGpEoA",
-      "url": "https://www.youtube.com/watch?v=AHOevrGpEoA",
-      "thumbnail": "https://i.ytimg.com/vi/AHOevrGpEoA/mqdefault_live.jpg",
-      "published": "2026-07-17T21:27:31Z"
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "Tpv0wTdAmT0",
+      "url": "https://www.youtube.com/watch?v=Tpv0wTdAmT0",
+      "thumbnail": "https://i.ytimg.com/vi/Tpv0wTdAmT0/mqdefault.jpg",
+      "published": "2026-07-18T01:53:41Z"
     },
     {
       "channel": "GZH Digital",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "GRÊMIO PERDE NA VOLTA AO BRASILEIRÃO E CRESCE A PRESSÃO SOBRE CASTRO",
+      "videoId": "51DyX-gVdDw",
+      "url": "https://www.youtube.com/watch?v=51DyX-gVdDw",
+      "thumbnail": "https://i.ytimg.com/vi/51DyX-gVdDw/mqdefault.jpg",
+      "published": "2026-07-18T01:31:41Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨NOVIDADES SOBRE O NOVO MEIA E O NOVO ZAGUEIRO | COMO ESTÃO AS TRATATIVAS | MUDANÇAS NO GRÊMIO",
       "videoId": "lH_5BBhF4Lo",
       "url": "https://www.youtube.com/watch?v=lH_5BBhF4Lo",
@@ -203,28 +211,20 @@
       "published": "2026-07-17T16:13:35Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "GRÊMIO AMEAÇADO DE PERDER O SEU PRINCIPAL JOGADOR",
-      "videoId": "wq9tJ4XVjc4",
-      "url": "https://www.youtube.com/watch?v=wq9tJ4XVjc4",
-      "thumbnail": "https://i.ytimg.com/vi/wq9tJ4XVjc4/mqdefault.jpg",
-      "published": "2026-07-16T23:15:28Z"
+      "channel": "Radio Grenal",
+      "title": "GOLS DE MIRASSOL 2 X 1 GRÊMIO - NARRAÇÃO PC CARVALHO |  BRASILEIRÃO | 17/07/2026 | RÁDIO GRENAL",
+      "videoId": "UuiC8mY6bz0",
+      "url": "https://www.youtube.com/watch?v=UuiC8mY6bz0",
+      "thumbnail": "https://i.ytimg.com/vi/UuiC8mY6bz0/mqdefault.jpg",
+      "published": "2026-07-18T01:12:47Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/07/2026 | JORNADA ESPORTIVA | MIRASSOL 2 X 1 GRÊMIO | RÁDIO GRENAL",
+      "title": "17/07/2026 | DEBATE BOLA | MIRASSOL 2 X 1 GRÊMIO | RÁDIO GRENAL",
       "videoId": "T9nftzwHV_I",
       "url": "https://www.youtube.com/watch?v=T9nftzwHV_I",
       "thumbnail": "https://i.ytimg.com/vi/T9nftzwHV_I/mqdefault_live.jpg",
       "published": "2026-07-17T20:00:48Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "17/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "-3Klz4mYfbY",
-      "url": "https://www.youtube.com/watch?v=-3Klz4mYfbY",
-      "thumbnail": "https://i.ytimg.com/vi/-3Klz4mYfbY/mqdefault.jpg",
-      "published": "2026-07-17T18:26:10Z"
     },
     {
       "channel": "Radio Imortal",
