@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-07-18T02:43:57.927304+00:00",
+  "updated_at": "2026-07-18T09:00:39.539516+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 1x2 Mirassol: CASTRO ACABOU COM O TIME | VOLTOU PIOR DO QUE ERA | FIASCO EM SÃO PAULO",
-      "videoId": "ObKuitFTmSA",
-      "url": "https://www.youtube.com/watch?v=ObKuitFTmSA",
-      "thumbnail": "https://i.ytimg.com/vi/ObKuitFTmSA/mqdefault.jpg",
-      "published": "2026-07-18T01:37:57Z"
+      "title": "🔴⚪️ Diário do Inter: NEGÓCIO ESTÁ ANDANDO! | O CENTROAVANTE DESEJADO | JOGO-TREINO",
+      "videoId": "N_M22G0XXaA",
+      "url": "https://www.youtube.com/watch?v=N_M22G0XXaA",
+      "thumbnail": "https://i.ytimg.com/vi/N_M22G0XXaA/mqdefault.jpg",
+      "published": "2026-07-18T06:19:41Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 O 9 ESQUENTOU! | ABEL LIGOU PRA PEDRO RAUL | MAXI GOMES?",
-      "videoId": "kXyn5BRL21c",
-      "url": "https://www.youtube.com/watch?v=kXyn5BRL21c",
-      "thumbnail": "https://i.ytimg.com/vi/kXyn5BRL21c/mqdefault.jpg",
-      "published": "2026-07-17T06:10:29Z"
+      "title": "🔵⚫️ Diário do Grêmio: JOGADORES NA MIRA DA DIREÇÃO | FEITO INÉDITO NO VESTIÁRIO | REFORÇOS",
+      "videoId": "m_f-vMcg4fA",
+      "url": "https://www.youtube.com/watch?v=m_f-vMcg4fA",
+      "thumbnail": "https://i.ytimg.com/vi/m_f-vMcg4fA/mqdefault.jpg",
+      "published": "2026-07-18T06:00:14Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 MIRASSOL X GRÊMIO [DIRETO DE MIRASSOL-SP]",
+      "videoId": "8ma7W4h7O4k",
+      "url": "https://www.youtube.com/watch?v=8ma7W4h7O4k",
+      "thumbnail": "https://i.ytimg.com/vi/8ma7W4h7O4k/mqdefault.jpg",
+      "published": "2026-07-18T03:19:57Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=ns-O7ABWNQU",
       "thumbnail": "https://i.ytimg.com/vi/ns-O7ABWNQU/mqdefault.jpg",
       "published": "2026-07-18T02:15:56Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 MIRASSOL X GRÊMIO [DIRETO DE MIRASSOL-SP]",
-      "videoId": "8ma7W4h7O4k",
-      "url": "https://www.youtube.com/watch?v=8ma7W4h7O4k",
-      "thumbnail": "https://i.ytimg.com/vi/8ma7W4h7O4k/mqdefault_live.jpg",
-      "published": "2026-07-17T20:03:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,8 +71,8 @@
       "title": "GRÊMIO X MIRASSOL | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 17/07/2026",
       "videoId": "g1i5nT_31Kc",
       "url": "https://www.youtube.com/watch?v=g1i5nT_31Kc",
-      "thumbnail": "https://i.ytimg.com/vi/g1i5nT_31Kc/mqdefault_live.jpg",
-      "published": "2026-07-18T01:58:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/g1i5nT_31Kc/mqdefault.jpg",
+      "published": "2026-07-18T03:00:54Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FORTE COBRANÇA E LIMITE:  VESTIÁRIO \"PEGA FOGO\" | MIRASSOL 2 X 1 GRÊMIO.",
+      "videoId": "U-_ltEQjkIU",
+      "url": "https://www.youtube.com/watch?v=U-_ltEQjkIU",
+      "thumbnail": "https://i.ytimg.com/vi/U-_ltEQjkIU/mqdefault.jpg",
+      "published": "2026-07-18T02:56:08Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MIRASSOL X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "Pm8_z8_VzPA",
       "url": "https://www.youtube.com/watch?v=Pm8_z8_VzPA",
       "thumbnail": "https://i.ytimg.com/vi/Pm8_z8_VzPA/mqdefault.jpg",
       "published": "2026-07-18T02:37:02Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NADA DO GRÊMIO! MIRASSOL 2X 1 GRÊMIO. #gremio #brasileirao",
-      "videoId": "NqRqsFRtFek",
-      "url": "https://www.youtube.com/watch?v=NqRqsFRtFek",
-      "thumbnail": "https://i.ytimg.com/vi/NqRqsFRtFek/mqdefault.jpg",
-      "published": "2026-07-18T01:06:45Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Previsão de chuva no RS, celular nas escolas, informações do trânsito e mais | Gaúcha+ | 17/07/26",
+      "videoId": "CqF4hlweSi0",
+      "url": "https://www.youtube.com/watch?v=CqF4hlweSi0",
+      "thumbnail": "https://i.ytimg.com/vi/CqF4hlweSi0/mqdefault.jpg",
+      "published": "2026-07-18T07:50:25Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "LAST DANCE DO COPANDO TUDO | RETROSPECTIVA DO PROGRAMA | FINAL DA COPA | COPANDO TUDO | 17/07/2026",
       "videoId": "EMi6xkjmyFU",
       "url": "https://www.youtube.com/watch?v=EMi6xkjmyFU",
       "thumbnail": "https://i.ytimg.com/vi/EMi6xkjmyFU/mqdefault_live.jpg",
       "published": "2026-07-17T23:42:09Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Violência contra crianças: como reconhecer os sinais e agir em caso de suspeita | Conversas Cruzadas",
-      "videoId": "uTwN7YC-AEk",
-      "url": "https://www.youtube.com/watch?v=uTwN7YC-AEk",
-      "thumbnail": "https://i.ytimg.com/vi/uTwN7YC-AEk/mqdefault.jpg",
-      "published": "2026-07-17T22:00:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | MIRASSOL 2X1 GRÊMIO | BRASILEIRÃO | 17/07/2026",
-      "videoId": "bPaVJdZ7JOw",
-      "url": "https://www.youtube.com/watch?v=bPaVJdZ7JOw",
-      "thumbnail": "https://i.ytimg.com/vi/bPaVJdZ7JOw/mqdefault.jpg",
-      "published": "2026-07-18T02:18:17Z"
+      "title": "17/07/2026 | JORNADA COMPLETA | MIRASSOL 2 X 1 GRÊMIO | RÁDIO GRENAL",
+      "videoId": "T9nftzwHV_I",
+      "url": "https://www.youtube.com/watch?v=T9nftzwHV_I",
+      "thumbnail": "https://i.ytimg.com/vi/T9nftzwHV_I/mqdefault.jpg",
+      "published": "2026-07-18T04:28:52Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE MIRASSOL 2 X 1 GRÊMIO - NARRAÇÃO PC CARVALHO |  BRASILEIRÃO | 17/07/2026 | RÁDIO GRENAL",
-      "videoId": "UuiC8mY6bz0",
-      "url": "https://www.youtube.com/watch?v=UuiC8mY6bz0",
-      "thumbnail": "https://i.ytimg.com/vi/UuiC8mY6bz0/mqdefault.jpg",
-      "published": "2026-07-18T01:12:47Z"
+      "title": "\"UMA NOITE PARA ESQUECER\" 🇪🇪 #shorts #gremio #tricolor #mirassol #brasileirao #campeonatobrasileiro",
+      "videoId": "xpXzw-iAxL8",
+      "url": "https://www.youtube.com/watch?v=xpXzw-iAxL8",
+      "thumbnail": "https://i.ytimg.com/vi/xpXzw-iAxL8/mqdefault.jpg",
+      "published": "2026-07-18T03:15:53Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO MIRASSOL (2) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | DIRETO DO MAIÃO",
       "videoId": "YzkiKXg-TKs",
       "url": "https://www.youtube.com/watch?v=YzkiKXg-TKs",
-      "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault_live.jpg",
-      "published": "2026-07-18T02:31:25Z"
+      "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault.jpg",
+      "published": "2026-07-18T02:52:45Z"
     },
     {
       "channel": "Radio Imortal",
