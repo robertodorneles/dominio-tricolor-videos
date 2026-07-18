@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:16:02.242130+00:00",
+  "updated_at": "2026-07-18T11:00:40.761229+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Final da Copa do Mundo, Batalha Musical, notícias do RS e mais | SuperSábado | 18/07/2026",
+      "videoId": "P6IC7FJ9x7o",
+      "url": "https://www.youtube.com/watch?v=P6IC7FJ9x7o",
+      "thumbnail": "https://i.ytimg.com/vi/P6IC7FJ9x7o/mqdefault_live.jpg",
+      "published": "2026-07-18T10:58:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Previsão de chuva no RS, celular nas escolas, informações do trânsito e mais | Gaúcha+ | 17/07/26",
       "videoId": "CqF4hlweSi0",
       "url": "https://www.youtube.com/watch?v=CqF4hlweSi0",
       "thumbnail": "https://i.ytimg.com/vi/CqF4hlweSi0/mqdefault.jpg",
       "published": "2026-07-18T07:50:25Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "LAST DANCE DO COPANDO TUDO | RETROSPECTIVA DO PROGRAMA | FINAL DA COPA | COPANDO TUDO | 17/07/2026",
-      "videoId": "EMi6xkjmyFU",
-      "url": "https://www.youtube.com/watch?v=EMi6xkjmyFU",
-      "thumbnail": "https://i.ytimg.com/vi/EMi6xkjmyFU/mqdefault_live.jpg",
-      "published": "2026-07-17T23:42:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 18/07 - GRENAL DOS 10X0",
+      "videoId": "o6djHIKBamM",
+      "url": "https://www.youtube.com/watch?v=o6djHIKBamM",
+      "thumbnail": "https://i.ytimg.com/vi/o6djHIKBamM/mqdefault.jpg",
+      "published": "2026-07-18T11:00:25Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO MIRASSOL (2) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | DIRETO DO MAIÃO",
       "videoId": "YzkiKXg-TKs",
       "url": "https://www.youtube.com/watch?v=YzkiKXg-TKs",
       "thumbnail": "https://i.ytimg.com/vi/YzkiKXg-TKs/mqdefault.jpg",
       "published": "2026-07-18T02:52:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VOLTOU IGUAL E PERDEU PARA O MIRASSOL | PELAIPE E ODORICO RESPALDAM LUÍS CASTRO | PLANTÃO",
-      "videoId": "xTljnVEZ-SE",
-      "url": "https://www.youtube.com/watch?v=xTljnVEZ-SE",
-      "thumbnail": "https://i.ytimg.com/vi/xTljnVEZ-SE/mqdefault_live.jpg",
-      "published": "2026-07-18T02:11:01Z"
     }
   ]
 }
