@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T14:00:43.109621+00:00",
+  "updated_at": "2026-07-19T14:51:45.509813+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨CHEGOU A HORA DO RENATO | ANÚNCIO DE REFORÇOS NO GRÊMIO | É DIA DE DECISÃO NA COPA! QUEM LEVA?",
+      "videoId": "QrQpWjw6_18",
+      "url": "https://www.youtube.com/watch?v=QrQpWjw6_18",
+      "thumbnail": "https://i.ytimg.com/vi/QrQpWjw6_18/mqdefault.jpg",
+      "published": "2026-07-19T14:08:40Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨DECISÃO APÓS REUNIÃO FORTE! BASTIDORES DE LUÍS CASTRO E O AMBIENTE DO GRÊMIO | FINALIZANDO NEGÓCIO!",
       "videoId": "96uVA8ZClA8",
       "url": "https://www.youtube.com/watch?v=96uVA8ZClA8",
       "thumbnail": "https://i.ytimg.com/vi/96uVA8ZClA8/mqdefault.jpg",
       "published": "2026-07-18T23:10:43Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO: GRÊMIO ANUNCIA MUDANÇAS! REFORÇOS TAMBÉM VÃO CHEGAR! OS BASTIDORES DE UM AMBIENTE PESADO!",
-      "videoId": "PJfxqjN0Xn4",
-      "url": "https://www.youtube.com/watch?v=PJfxqjN0Xn4",
-      "thumbnail": "https://i.ytimg.com/vi/PJfxqjN0Xn4/mqdefault.jpg",
-      "published": "2026-07-18T15:04:12Z"
     },
     {
       "channel": "Canal do CCD",
@@ -148,7 +148,7 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO 2026)",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL I FEM I SUB-20 (CAMPEONATO GAÚCHO 2026)",
       "videoId": "BYW3ra0QdZE",
       "url": "https://www.youtube.com/watch?v=BYW3ra0QdZE",
       "thumbnail": "https://i.ytimg.com/vi/BYW3ra0QdZE/mqdefault_live.jpg",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "19/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "videoId": "dLCm-TuZcFY",
+      "url": "https://www.youtube.com/watch?v=dLCm-TuZcFY",
+      "thumbnail": "https://i.ytimg.com/vi/dLCm-TuZcFY/mqdefault_live.jpg",
+      "published": "2026-07-19T14:00:31Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "18/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Jddxwh-o1Ss",
       "url": "https://www.youtube.com/watch?v=Jddxwh-o1Ss",
@@ -219,20 +227,12 @@
       "published": "2026-07-18T19:17:43Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "19/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "dLCm-TuZcFY",
-      "url": "https://www.youtube.com/watch?v=dLCm-TuZcFY",
-      "thumbnail": "https://i.ytimg.com/vi/dLCm-TuZcFY/mqdefault_live.jpg",
-      "published": "2026-07-18T19:01:52Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "GRÊMIO BUSCA ANUNCIAR NOVOS JOGADORES NESTA SEMANA | SEMANA DE SUL-AMERICANA | PLANTÃO IMORTAL",
       "videoId": "NwtcWSk6prM",
       "url": "https://www.youtube.com/watch?v=NwtcWSk6prM",
       "thumbnail": "https://i.ytimg.com/vi/NwtcWSk6prM/mqdefault_live.jpg",
-      "published": "2026-07-19T13:03:32Z"
+      "published": "2026-07-19T14:34:05Z"
     },
     {
       "channel": "Radio Imortal",
