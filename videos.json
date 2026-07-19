@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T11:00:40.178978+00:00",
+  "updated_at": "2026-07-19T11:54:16.054515+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO 2026)",
+      "videoId": "BYW3ra0QdZE",
+      "url": "https://www.youtube.com/watch?v=BYW3ra0QdZE",
+      "thumbnail": "https://i.ytimg.com/vi/BYW3ra0QdZE/mqdefault_live.jpg",
+      "published": "2026-07-19T11:51:34Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PRESIDENTE ODORICO ROMAN I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "kJyW-BQUxLc",
       "url": "https://www.youtube.com/watch?v=kJyW-BQUxLc",
       "thumbnail": "https://i.ytimg.com/vi/kJyW-BQUxLc/mqdefault.jpg",
       "published": "2026-07-18T02:07:57Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PAULO PELAIPE I MIRASSOL X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "w_KJj9w52L8",
-      "url": "https://www.youtube.com/watch?v=w_KJj9w52L8",
-      "thumbnail": "https://i.ytimg.com/vi/w_KJj9w52L8/mqdefault.jpg",
-      "published": "2026-07-18T02:04:53Z"
     },
     {
       "channel": "GZH Digital",
