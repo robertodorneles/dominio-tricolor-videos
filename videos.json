@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:00:31.634060+00:00",
+  "updated_at": "2026-07-19T22:47:26.230418+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PROPOSTA POR PATROCÍNIO | ARENA TERÁ NOVO NOME? | SAÍDAS DO GRÊMIO.",
+      "videoId": "fsW56TWJL44",
+      "url": "https://www.youtube.com/watch?v=fsW56TWJL44",
+      "thumbnail": "https://i.ytimg.com/vi/fsW56TWJL44/mqdefault.jpg",
+      "published": "2026-07-19T22:33:57Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CINCO REFORÇOS ATÉ SEMANA QUE VEM NO GRÊMIO. #gremio #Futebol #notícias",
       "videoId": "anBj5DRVqjM",
       "url": "https://www.youtube.com/watch?v=anBj5DRVqjM",
       "thumbnail": "https://i.ytimg.com/vi/anBj5DRVqjM/mqdefault.jpg",
       "published": "2026-07-19T16:00:07Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ANÚNCIO: 5 REFORÇOS! | URGENTE: PRAZO MEC | DEU A REAL NO GRÊMIO!",
-      "videoId": "EIIgYQicQjo",
-      "url": "https://www.youtube.com/watch?v=EIIgYQicQjo",
-      "thumbnail": "https://i.ytimg.com/vi/EIIgYQicQjo/mqdefault.jpg",
-      "published": "2026-07-18T21:22:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "OS BASTIDORES LOUCOS DO BOTAFOGO CAMPEÃO E CAVADINHA DO LOCO ABREU | Cortes do Duda",
+      "videoId": "ZL65PnN-8ew",
+      "url": "https://www.youtube.com/watch?v=ZL65PnN-8ew",
+      "thumbnail": "https://i.ytimg.com/vi/ZL65PnN-8ew/mqdefault.jpg",
+      "published": "2026-07-19T22:30:35Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO - #40 - 19.07 - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "KhGOl8YxIpI",
       "url": "https://www.youtube.com/watch?v=KhGOl8YxIpI",
       "thumbnail": "https://i.ytimg.com/vi/KhGOl8YxIpI/mqdefault.jpg",
       "published": "2026-07-19T13:23:56Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Hospício - 20/07",
-      "videoId": "Sq9GPAANjms",
-      "url": "https://www.youtube.com/watch?v=Sq9GPAANjms",
-      "thumbnail": "https://i.ytimg.com/vi/Sq9GPAANjms/mqdefault_live.jpg",
-      "published": "2026-07-19T10:33:55Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #116 — GRÊMIO QUER ANUNCIAR REFORÇOS EM BREVE | TEVE COBRANÇA EM MIRASSOL",
+      "videoId": "taGcOE_Ji_0",
+      "url": "https://www.youtube.com/watch?v=taGcOE_Ji_0",
+      "thumbnail": "https://i.ytimg.com/vi/taGcOE_Ji_0/mqdefault_live.jpg",
+      "published": "2026-07-19T22:30:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESTREIA — COMO É BOM SER DO GRÊMIO #01",
       "videoId": "WvXUd3ZG32A",
       "url": "https://www.youtube.com/watch?v=WvXUd3ZG32A",
       "thumbnail": "https://i.ytimg.com/vi/WvXUd3ZG32A/mqdefault_live.jpg",
       "published": "2026-07-19T18:43:38Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A DERROTA DO GRÊMIO NO RETORNO AO BRASILEIRÃO | ODORICO E PELAIPE FALARAM | REDAÇÃO IMORTAL",
-      "videoId": "eO0BDV5BVK4",
-      "url": "https://www.youtube.com/watch?v=eO0BDV5BVK4",
-      "thumbnail": "https://i.ytimg.com/vi/eO0BDV5BVK4/mqdefault_live.jpg",
-      "published": "2026-07-19T18:34:17Z"
     }
   ]
 }
