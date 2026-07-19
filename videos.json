@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T16:00:38.478698+00:00",
+  "updated_at": "2026-07-19T16:54:31.056026+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CINCO REFORÇOS ATÉ SEMANA QUE VEM NO GRÊMIO. #gremio #Futebol #notícias",
+      "videoId": "anBj5DRVqjM",
+      "url": "https://www.youtube.com/watch?v=anBj5DRVqjM",
+      "thumbnail": "https://i.ytimg.com/vi/anBj5DRVqjM/mqdefault.jpg",
+      "published": "2026-07-19T16:00:07Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ANÚNCIO: 5 REFORÇOS! | URGENTE: PRAZO MEC | DEU A REAL NO GRÊMIO!",
       "videoId": "EIIgYQicQjo",
       "url": "https://www.youtube.com/watch?v=EIIgYQicQjo",
       "thumbnail": "https://i.ytimg.com/vi/EIIgYQicQjo/mqdefault.jpg",
       "published": "2026-07-18T21:22:35Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VEM MUDANÇAS! CHEGADAS E SAÍDAS! #gremio #Futebol",
-      "videoId": "pqetBk6-VrI",
-      "url": "https://www.youtube.com/watch?v=pqetBk6-VrI",
-      "thumbnail": "https://i.ytimg.com/vi/pqetBk6-VrI/mqdefault.jpg",
-      "published": "2026-07-18T16:00:10Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL I FEM I SUB-20 (CAMPEONATO GAÚCHO 2026)",
       "videoId": "BYW3ra0QdZE",
       "url": "https://www.youtube.com/watch?v=BYW3ra0QdZE",
-      "thumbnail": "https://i.ytimg.com/vi/BYW3ra0QdZE/mqdefault_live.jpg",
-      "published": "2026-07-19T13:39:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/BYW3ra0QdZE/mqdefault.jpg",
+      "published": "2026-07-19T16:07:28Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨O ARMADOR ESTÁ CONTRATADO PELO GRÊMIO | NOVIDADE SOBRE REFORÇO | COMO ELE JOGA",
+      "videoId": "Qkcr6T3wdgM",
+      "url": "https://www.youtube.com/watch?v=Qkcr6T3wdgM",
+      "thumbnail": "https://i.ytimg.com/vi/Qkcr6T3wdgM/mqdefault.jpg",
+      "published": "2026-07-19T16:29:37Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "OS REFORÇOS QUE O GRÊMIO VAI BUSCAR - DEFINIDA A SITUAÇÃO DE LUÍS CASTRO",
       "videoId": "jd8qglzVJQg",
       "url": "https://www.youtube.com/watch?v=jd8qglzVJQg",
@@ -203,16 +211,8 @@
       "published": "2026-07-18T16:31:44Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "GRÊMIO PERDE NA VOLTA AO BRASILEIRÃO E CRESCE A PRESSÃO SOBRE CASTRO",
-      "videoId": "51DyX-gVdDw",
-      "url": "https://www.youtube.com/watch?v=51DyX-gVdDw",
-      "thumbnail": "https://i.ytimg.com/vi/51DyX-gVdDw/mqdefault.jpg",
-      "published": "2026-07-18T01:31:41Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "19/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "19/07/2026 | DOMINGÃO GRENAL | RÁDIO GRENAL",
       "videoId": "dLCm-TuZcFY",
       "url": "https://www.youtube.com/watch?v=dLCm-TuZcFY",
       "thumbnail": "https://i.ytimg.com/vi/dLCm-TuZcFY/mqdefault_live.jpg",
