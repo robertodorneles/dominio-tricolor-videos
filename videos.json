@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T23:00:38.458417+00:00",
+  "updated_at": "2026-07-19T23:53:45.290623+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨JOGADOR FOI DISPENSADO NO GRÊMIO | VOLANTE PERSEGUIDO | ESPANHA GANHA A COPA!",
+      "videoId": "XlfmzTVfCuA",
+      "url": "https://www.youtube.com/watch?v=XlfmzTVfCuA",
+      "thumbnail": "https://i.ytimg.com/vi/XlfmzTVfCuA/mqdefault.jpg",
+      "published": "2026-07-19T23:07:30Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨CHEGOU A HORA DO RENATO | ANÚNCIO DE REFORÇOS NO GRÊMIO | É DIA DE DECISÃO NA COPA! QUEM LEVA?",
       "videoId": "QrQpWjw6_18",
       "url": "https://www.youtube.com/watch?v=QrQpWjw6_18",
@@ -43,20 +51,12 @@
       "published": "2026-07-19T14:08:40Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DECISÃO APÓS REUNIÃO FORTE! BASTIDORES DE LUÍS CASTRO E O AMBIENTE DO GRÊMIO | FINALIZANDO NEGÓCIO!",
-      "videoId": "96uVA8ZClA8",
-      "url": "https://www.youtube.com/watch?v=96uVA8ZClA8",
-      "thumbnail": "https://i.ytimg.com/vi/96uVA8ZClA8/mqdefault.jpg",
-      "published": "2026-07-18T23:10:43Z"
-    },
-    {
       "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #633: João Pedro | Situação de Mec | Leo Perez | Libra | Conselho deliberativo e +",
-      "videoId": "pnOCZAVzgYY",
-      "url": "https://www.youtube.com/watch?v=pnOCZAVzgYY",
-      "thumbnail": "https://i.ytimg.com/vi/pnOCZAVzgYY/mqdefault.jpg",
-      "published": "2026-07-19T21:16:35Z"
+      "title": "Quando deve chegar o camisa 10 do Grêmio",
+      "videoId": "1K2ZYVr22Cc",
+      "url": "https://www.youtube.com/watch?v=1K2ZYVr22Cc",
+      "thumbnail": "https://i.ytimg.com/vi/1K2ZYVr22Cc/mqdefault.jpg",
+      "published": "2026-07-19T23:52:36Z"
     },
     {
       "channel": "Canal do CCD",
@@ -64,7 +64,7 @@
       "videoId": "1hJpFppB8yQ",
       "url": "https://www.youtube.com/watch?v=1hJpFppB8yQ",
       "thumbnail": "https://i.ytimg.com/vi/1hJpFppB8yQ/mqdefault_live.jpg",
-      "published": "2026-07-19T01:31:19Z"
+      "published": "2026-07-19T23:00:19Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "COMO UM EX-JOGADOR CONSEGUIU VAGA DE COMENTARISTA NA GLOBO? ELE EXPLICOU! | Cortes do Duda",
+      "videoId": "L_hcFTNx41Y",
+      "url": "https://www.youtube.com/watch?v=L_hcFTNx41Y",
+      "thumbnail": "https://i.ytimg.com/vi/L_hcFTNx41Y/mqdefault.jpg",
+      "published": "2026-07-19T23:00:28Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "OS BASTIDORES LOUCOS DO BOTAFOGO CAMPEÃO E CAVADINHA DO LOCO ABREU | Cortes do Duda",
       "videoId": "ZL65PnN-8ew",
       "url": "https://www.youtube.com/watch?v=ZL65PnN-8ew",
       "thumbnail": "https://i.ytimg.com/vi/ZL65PnN-8ew/mqdefault.jpg",
       "published": "2026-07-19T22:30:35Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #40 - 19.07 - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "KhGOl8YxIpI",
-      "url": "https://www.youtube.com/watch?v=KhGOl8YxIpI",
-      "thumbnail": "https://i.ytimg.com/vi/KhGOl8YxIpI/mqdefault.jpg",
-      "published": "2026-07-19T13:23:56Z"
     },
     {
       "channel": "GremioTV Oficial",
