@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T00:01:04.599348+00:00",
+  "updated_at": "2026-07-19T01:00:41.696068+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA ANUNCIAR NOVOS JOGADORES NESTA SEMANA | SEMANA DE SUL-AMERICANA | PLANTÃO IMORTAL",
+      "videoId": "NwtcWSk6prM",
+      "url": "https://www.youtube.com/watch?v=NwtcWSk6prM",
+      "thumbnail": "https://i.ytimg.com/vi/NwtcWSk6prM/mqdefault_live.jpg",
+      "published": "2026-07-19T00:10:25Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VOLTOU IGUAL E PERDEU PARA O MIRASSOL | PELAIPE E ODORICO RESPALDAM LUÍS CASTRO | PLANTÃO",
       "videoId": "xTljnVEZ-SE",
       "url": "https://www.youtube.com/watch?v=xTljnVEZ-SE",
       "thumbnail": "https://i.ytimg.com/vi/xTljnVEZ-SE/mqdefault.jpg",
       "published": "2026-07-18T15:06:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 18/07 - GRENAL DOS 10X0",
-      "videoId": "o6djHIKBamM",
-      "url": "https://www.youtube.com/watch?v=o6djHIKBamM",
-      "thumbnail": "https://i.ytimg.com/vi/o6djHIKBamM/mqdefault.jpg",
-      "published": "2026-07-18T11:00:25Z"
     }
   ]
 }
