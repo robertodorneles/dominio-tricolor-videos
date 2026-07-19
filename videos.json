@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T13:00:42.533189+00:00",
+  "updated_at": "2026-07-19T13:09:31.195582+00:00",
   "total": 30,
   "videos": [
     {
@@ -136,7 +136,7 @@
       "videoId": "KhGOl8YxIpI",
       "url": "https://www.youtube.com/watch?v=KhGOl8YxIpI",
       "thumbnail": "https://i.ytimg.com/vi/KhGOl8YxIpI/mqdefault_live.jpg",
-      "published": "2026-07-19T12:01:41Z"
+      "published": "2026-07-19T13:09:15Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA ANUNCIAR NOVOS JOGADORES NESTA SEMANA | SEMANA DE SUL-AMERICANA | PLANTÃO IMORTAL",
+      "videoId": "NwtcWSk6prM",
+      "url": "https://www.youtube.com/watch?v=NwtcWSk6prM",
+      "thumbnail": "https://i.ytimg.com/vi/NwtcWSk6prM/mqdefault_live.jpg",
+      "published": "2026-07-19T13:03:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 19/07 - GRÊMIO TRICAMPEÃO GAÚCHO 1987",
       "videoId": "9EQHoieKT5Y",
       "url": "https://www.youtube.com/watch?v=9EQHoieKT5Y",
       "thumbnail": "https://i.ytimg.com/vi/9EQHoieKT5Y/mqdefault.jpg",
       "published": "2026-07-19T11:00:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA ANUNCIAR NOVOS JOGADORES NESTA SEMANA | SEMANA DE SUL-AMERICANA | PLANTÃO IMORTAL",
-      "videoId": "NwtcWSk6prM",
-      "url": "https://www.youtube.com/watch?v=NwtcWSk6prM",
-      "thumbnail": "https://i.ytimg.com/vi/NwtcWSk6prM/mqdefault_live.jpg",
-      "published": "2026-07-19T00:10:25Z"
     }
   ]
 }
