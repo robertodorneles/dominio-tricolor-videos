@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T10:00:42.442642+00:00",
+  "updated_at": "2026-07-20T11:00:44.908079+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 20/07/2026",
+      "title": "Eleições 2026, últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 20/07/2026",
       "videoId": "5zYre0M83m4",
       "url": "https://www.youtube.com/watch?v=5zYre0M83m4",
       "thumbnail": "https://i.ytimg.com/vi/5zYre0M83m4/mqdefault_live.jpg",
-      "published": "2026-07-20T09:59:27Z"
+      "published": "2026-07-20T10:54:57Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "20/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "o_nJHt4IjCw",
+      "url": "https://www.youtube.com/watch?v=o_nJHt4IjCw",
+      "thumbnail": "https://i.ytimg.com/vi/o_nJHt4IjCw/mqdefault_live.jpg",
+      "published": "2026-07-20T10:32:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "19/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "dLCm-TuZcFY",
       "url": "https://www.youtube.com/watch?v=dLCm-TuZcFY",
@@ -219,12 +227,12 @@
       "published": "2026-07-19T19:15:02Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "18/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Jddxwh-o1Ss",
-      "url": "https://www.youtube.com/watch?v=Jddxwh-o1Ss",
-      "thumbnail": "https://i.ytimg.com/vi/Jddxwh-o1Ss/mqdefault.jpg",
-      "published": "2026-07-18T19:17:43Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 20/07 - GRÊMIO BICAMPEÃO GAÚCHO 1986",
+      "videoId": "I4fanqhKps8",
+      "url": "https://www.youtube.com/watch?v=I4fanqhKps8",
+      "thumbnail": "https://i.ytimg.com/vi/I4fanqhKps8/mqdefault.jpg",
+      "published": "2026-07-20T11:00:02Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=taGcOE_Ji_0",
       "thumbnail": "https://i.ytimg.com/vi/taGcOE_Ji_0/mqdefault_live.jpg",
       "published": "2026-07-19T22:30:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESTREIA — COMO É BOM SER DO GRÊMIO #01",
-      "videoId": "WvXUd3ZG32A",
-      "url": "https://www.youtube.com/watch?v=WvXUd3ZG32A",
-      "thumbnail": "https://i.ytimg.com/vi/WvXUd3ZG32A/mqdefault_live.jpg",
-      "published": "2026-07-19T18:43:38Z"
     }
   ]
 }
