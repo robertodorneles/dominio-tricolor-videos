@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T21:00:54.558089+00:00",
+  "updated_at": "2026-07-20T21:08:22.833654+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "IGOR GOMES, OTAVINHO E MANDACA: RESPOSTAS NO GRÊMIO | PROBLEMA DE SAÚDE COM LUÍS CASTRO.",
+      "videoId": "wz8v5dUdvXM",
+      "url": "https://www.youtube.com/watch?v=wz8v5dUdvXM",
+      "thumbnail": "https://i.ytimg.com/vi/wz8v5dUdvXM/mqdefault.jpg",
+      "published": "2026-07-20T21:01:43Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MUDANÇA PARA OS PRÓXIMOS JOGOS. #gremio #Futebol",
       "videoId": "SKkby8lUflQ",
       "url": "https://www.youtube.com/watch?v=SKkby8lUflQ",
       "thumbnail": "https://i.ytimg.com/vi/SKkby8lUflQ/mqdefault.jpg",
       "published": "2026-07-20T15:00:31Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "AS PROPOSTAS E A ESCOLHA DO GRÊMIO SOBRE PATROCÍNIO MASTER. #gremio #Futebol",
-      "videoId": "UQ29tnkEFiQ",
-      "url": "https://www.youtube.com/watch?v=UQ29tnkEFiQ",
-      "thumbnail": "https://i.ytimg.com/vi/UQ29tnkEFiQ/mqdefault.jpg",
-      "published": "2026-07-20T13:00:37Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "LUÍS CASTRO FORA DA VIAGEM PARA A BOLÍVIA | MARLON SE APROXIMA DE RETORNO | NO AGUARDO DOS REFORÇOS",
+      "videoId": "JYoKRqPCK4w",
+      "url": "https://www.youtube.com/watch?v=JYoKRqPCK4w",
+      "thumbnail": "https://i.ytimg.com/vi/JYoKRqPCK4w/mqdefault_live.jpg",
+      "published": "2026-07-20T21:01:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MARLON VOLTA CONTRA O FLUMINENSE? | NO AGUARDO DOS REFORÇOS | TIME CONTRA O BOLÍVAR TERÁ NOVIDADES",
       "videoId": "dWQxjGbvnGk",
       "url": "https://www.youtube.com/watch?v=dWQxjGbvnGk",
       "thumbnail": "https://i.ytimg.com/vi/dWQxjGbvnGk/mqdefault.jpg",
       "published": "2026-07-20T19:42:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CHEGADA DE JOVANE CABRAL | DIRETO DO AEROPORTO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #111 - 20/07",
-      "videoId": "aSRUzhWdEq4",
-      "url": "https://www.youtube.com/watch?v=aSRUzhWdEq4",
-      "thumbnail": "https://i.ytimg.com/vi/aSRUzhWdEq4/mqdefault_live.jpg",
-      "published": "2026-07-20T19:23:21Z"
     }
   ]
 }
