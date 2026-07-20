@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-19T23:53:45.290623+00:00",
+  "updated_at": "2026-07-20T03:27:32.620406+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: ESPANHA CAMPEÃ DO MUNDO | CLIMINHA DE DESPEDIDA",
+      "videoId": "SsTcR_G4g-o",
+      "url": "https://www.youtube.com/watch?v=SsTcR_G4g-o",
+      "thumbnail": "https://i.ytimg.com/vi/SsTcR_G4g-o/mqdefault.jpg",
+      "published": "2026-07-20T02:26:59Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: ROCHET NÃO FICA | BRUNO GOMES VAI SAIR? | ATACANTE OFERECIDO",
@@ -11,28 +19,20 @@
       "published": "2026-07-19T06:40:13Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: REUNIÕES NO SÁBADO | O DISCURSO INTERNO | ZAGUEIRO MELOU?! | AMUZU OK",
-      "videoId": "56n7oIEn7sE",
-      "url": "https://www.youtube.com/watch?v=56n7oIEn7sE",
-      "thumbnail": "https://i.ytimg.com/vi/56n7oIEn7sE/mqdefault.jpg",
-      "published": "2026-07-19T05:00:13Z"
+      "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #004",
+      "videoId": "zC6yMDALqUA",
+      "url": "https://www.youtube.com/watch?v=zC6yMDALqUA",
+      "thumbnail": "https://i.ytimg.com/vi/zC6yMDALqUA/mqdefault_live.jpg",
+      "published": "2026-07-20T03:10:14Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO PERDE E PRESIDENTE TRANSFERE RESPONSABILIDADES🌅🔵 BOM DIA GRÊMIO #075",
-      "videoId": "R1ROrWQAXB8",
-      "url": "https://www.youtube.com/watch?v=R1ROrWQAXB8",
-      "thumbnail": "https://i.ytimg.com/vi/R1ROrWQAXB8/mqdefault.jpg",
-      "published": "2026-07-18T15:18:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 MIRASSOL X GRÊMIO [DIRETO DE MIRASSOL-SP]",
-      "videoId": "8ma7W4h7O4k",
-      "url": "https://www.youtube.com/watch?v=8ma7W4h7O4k",
-      "thumbnail": "https://i.ytimg.com/vi/8ma7W4h7O4k/mqdefault.jpg",
-      "published": "2026-07-18T03:19:57Z"
+      "title": "📰BAGÉTV NEWS #003",
+      "videoId": "PkggSGoBw0k",
+      "url": "https://www.youtube.com/watch?v=PkggSGoBw0k",
+      "thumbnail": "https://i.ytimg.com/vi/PkggSGoBw0k/mqdefault_live.jpg",
+      "published": "2026-07-20T03:07:43Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - SITUAÇÃO DE LUIS CASTRO | BRASILEIRÃO | REFORÇOS",
+      "videoId": "1hJpFppB8yQ",
+      "url": "https://www.youtube.com/watch?v=1hJpFppB8yQ",
+      "thumbnail": "https://i.ytimg.com/vi/1hJpFppB8yQ/mqdefault.jpg",
+      "published": "2026-07-20T00:17:39Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Quando deve chegar o camisa 10 do Grêmio",
       "videoId": "1K2ZYVr22Cc",
       "url": "https://www.youtube.com/watch?v=1K2ZYVr22Cc",
       "thumbnail": "https://i.ytimg.com/vi/1K2ZYVr22Cc/mqdefault.jpg",
       "published": "2026-07-19T23:52:36Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - SITUAÇÃO DE LUIS CASTRO | BRASILEIRÃO | REFORÇOS",
-      "videoId": "1hJpFppB8yQ",
-      "url": "https://www.youtube.com/watch?v=1hJpFppB8yQ",
-      "thumbnail": "https://i.ytimg.com/vi/1hJpFppB8yQ/mqdefault_live.jpg",
-      "published": "2026-07-19T23:00:19Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "VIRAMOS O MOTORISTA DA MADONNA. #futebol #copa #Brasil #copadomundo",
+      "videoId": "ODBgEfK2Rqk",
+      "url": "https://www.youtube.com/watch?v=ODBgEfK2Rqk",
+      "thumbnail": "https://i.ytimg.com/vi/ODBgEfK2Rqk/mqdefault.jpg",
+      "published": "2026-07-20T00:39:31Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PROPOSTA POR PATROCÍNIO | ARENA TERÁ NOVO NOME? | SAÍDAS DO GRÊMIO.",
       "videoId": "fsW56TWJL44",
       "url": "https://www.youtube.com/watch?v=fsW56TWJL44",
       "thumbnail": "https://i.ytimg.com/vi/fsW56TWJL44/mqdefault.jpg",
       "published": "2026-07-19T22:33:57Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CINCO REFORÇOS ATÉ SEMANA QUE VEM NO GRÊMIO. #gremio #Futebol #notícias",
-      "videoId": "anBj5DRVqjM",
-      "url": "https://www.youtube.com/watch?v=anBj5DRVqjM",
-      "thumbnail": "https://i.ytimg.com/vi/anBj5DRVqjM/mqdefault.jpg",
-      "published": "2026-07-19T16:00:07Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Grêmio em queda livre, Castro na berlinda + Inter atras de 9 + o bem venceu",
+      "videoId": "1i8ACB6kdjI",
+      "url": "https://www.youtube.com/watch?v=1i8ACB6kdjI",
+      "thumbnail": "https://i.ytimg.com/vi/1i8ACB6kdjI/mqdefault_live.jpg",
+      "published": "2026-07-20T02:10:42Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "ENTREVISTA: CazéTV x Globo, Debate Raiz x RBS. O que fica da Copa?",
       "videoId": "vsA-69IKV0A",
       "url": "https://www.youtube.com/watch?v=vsA-69IKV0A",
       "thumbnail": "https://i.ytimg.com/vi/vsA-69IKV0A/mqdefault.jpg",
       "published": "2026-07-19T12:30:16Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "DERROTA E A SITUAÇÃO DE LUÍS CASTRO: infos e bastidores após Mirassol 2 x 1 Grêmio",
-      "videoId": "YiPA5oUZzgc",
-      "url": "https://www.youtube.com/watch?v=YiPA5oUZzgc",
-      "thumbnail": "https://i.ytimg.com/vi/YiPA5oUZzgc/mqdefault.jpg",
-      "published": "2026-07-18T18:32:15Z"
     },
     {
       "channel": "LH Benfica",
