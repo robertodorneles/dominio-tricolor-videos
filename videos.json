@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:00:41.356536+00:00",
+  "updated_at": "2026-07-20T21:00:54.558089+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #001",
+      "videoId": "F6a9q15axjA",
+      "url": "https://www.youtube.com/watch?v=F6a9q15axjA",
+      "thumbnail": "https://i.ytimg.com/vi/F6a9q15axjA/mqdefault_live.jpg",
+      "published": "2026-07-20T20:31:17Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "LUÍS CASTRO NÃO VAI A LA PAZ🔹 THE TARDE 🔹#186",
       "videoId": "91lb6Jk5P4A",
       "url": "https://www.youtube.com/watch?v=91lb6Jk5P4A",
       "thumbnail": "https://i.ytimg.com/vi/91lb6Jk5P4A/mqdefault.jpg",
-      "published": "2026-07-20T19:45:59Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 BOLIVAR X GRÊMIO",
-      "videoId": "bzJnxaHZzEI",
-      "url": "https://www.youtube.com/watch?v=bzJnxaHZzEI",
-      "thumbnail": "https://i.ytimg.com/vi/bzJnxaHZzEI/mqdefault_live.jpg",
-      "published": "2026-07-20T19:05:50Z"
+      "published": "2026-07-20T20:00:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,7 +52,7 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - REFORÇOS | SUL-AMERICANA | LUIS CASTRO E MAIS",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - CASTRO FORA DO JOGO | REFORÇOS E MAIS",
       "videoId": "N_Zv2ghF3V0",
       "url": "https://www.youtube.com/watch?v=N_Zv2ghF3V0",
       "thumbnail": "https://i.ytimg.com/vi/N_Zv2ghF3V0/mqdefault_live.jpg",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "SEMANA DECISIVA PARA O GRÊMIO | OPINIÃO DO FARID - 20/07/2026",
+      "videoId": "O90Kp2Rt9do",
+      "url": "https://www.youtube.com/watch?v=O90Kp2Rt9do",
+      "thumbnail": "https://i.ytimg.com/vi/O90Kp2Rt9do/mqdefault.jpg",
+      "published": "2026-07-20T20:17:14Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO X MIRASSOL | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 17/07/2026",
       "videoId": "g1i5nT_31Kc",
       "url": "https://www.youtube.com/watch?v=g1i5nT_31Kc",
@@ -75,12 +83,12 @@
       "published": "2026-07-18T03:00:54Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "RENOVAR COM CARLOS VINICÍUS É UMA PRIORIDADE!!!",
-      "videoId": "9Zm__1KyXhk",
-      "url": "https://www.youtube.com/watch?v=9Zm__1KyXhk",
-      "thumbnail": "https://i.ytimg.com/vi/9Zm__1KyXhk/mqdefault.jpg",
-      "published": "2026-07-16T23:00:10Z"
+      "channel": "Canal do Gabardo",
+      "title": "Novidades sobre zagueiro e meia no Grêmio",
+      "videoId": "iDPedEwsx_s",
+      "url": "https://www.youtube.com/watch?v=iDPedEwsx_s",
+      "thumbnail": "https://i.ytimg.com/vi/iDPedEwsx_s/mqdefault.jpg",
+      "published": "2026-07-20T20:21:11Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=j7VWHNAt-KM",
       "thumbnail": "https://i.ytimg.com/vi/j7VWHNAt-KM/mqdefault.jpg",
       "published": "2026-07-20T19:50:40Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Como fica a situação de Luís Castro | Manifestação da direção do Grêmio | Contratações",
-      "videoId": "y52lSjaDrac",
-      "url": "https://www.youtube.com/watch?v=y52lSjaDrac",
-      "thumbnail": "https://i.ytimg.com/vi/y52lSjaDrac/mqdefault.jpg",
-      "published": "2026-07-18T14:15:58Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Aury Lopes Jr.: referência em direito penal e sucesso nas redes | Conversas Cruzadas | 20/07/2026",
+      "videoId": "eofVmVIC7Rk",
+      "url": "https://www.youtube.com/watch?v=eofVmVIC7Rk",
+      "thumbnail": "https://i.ytimg.com/vi/eofVmVIC7Rk/mqdefault_live.jpg",
+      "published": "2026-07-20T20:27:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Estragos da chuva no RS, previsão do tempo, informações do trânsito e mais | Gaúcha+ | 20/07/2026",
       "videoId": "KVX6QFxsGf8",
       "url": "https://www.youtube.com/watch?v=KVX6QFxsGf8",
       "thumbnail": "https://i.ytimg.com/vi/KVX6QFxsGf8/mqdefault_live.jpg",
       "published": "2026-07-20T19:33:20Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "DERROTA DA ARGENTINA: Polícia e torcedores entram em confronto na final",
-      "videoId": "GUB3XCJbTHQ",
-      "url": "https://www.youtube.com/watch?v=GUB3XCJbTHQ",
-      "thumbnail": "https://i.ytimg.com/vi/GUB3XCJbTHQ/mqdefault.jpg",
-      "published": "2026-07-20T17:49:58Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨GRÊMIO: GUSTAVO SCARPA E IGOR GOMES | DATA PARA OS REFORÇOS | MANDACA: DECISÃO TOMADA",
+      "videoId": "2ZTmsij6S_k",
+      "url": "https://www.youtube.com/watch?v=2ZTmsij6S_k",
+      "thumbnail": "https://i.ytimg.com/vi/2ZTmsij6S_k/mqdefault.jpg",
+      "published": "2026-07-20T20:48:24Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨O ARMADOR ESTÁ CONTRATADO PELO GRÊMIO | NOVIDADE SOBRE REFORÇO | COMO ELE JOGA",
       "videoId": "Qkcr6T3wdgM",
       "url": "https://www.youtube.com/watch?v=Qkcr6T3wdgM",
       "thumbnail": "https://i.ytimg.com/vi/Qkcr6T3wdgM/mqdefault.jpg",
       "published": "2026-07-19T16:29:37Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "OS REFORÇOS QUE O GRÊMIO VAI BUSCAR - DEFINIDA A SITUAÇÃO DE LUÍS CASTRO",
-      "videoId": "jd8qglzVJQg",
-      "url": "https://www.youtube.com/watch?v=jd8qglzVJQg",
-      "thumbnail": "https://i.ytimg.com/vi/jd8qglzVJQg/mqdefault.jpg",
-      "published": "2026-07-18T16:31:44Z"
     },
     {
       "channel": "Radio Grenal",
