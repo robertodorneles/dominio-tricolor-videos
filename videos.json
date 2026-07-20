@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T11:00:44.908079+00:00",
+  "updated_at": "2026-07-20T11:41:33.879303+00:00",
   "total": 30,
   "videos": [
     {
@@ -184,7 +184,7 @@
       "videoId": "1i8ACB6kdjI",
       "url": "https://www.youtube.com/watch?v=1i8ACB6kdjI",
       "thumbnail": "https://i.ytimg.com/vi/1i8ACB6kdjI/mqdefault_live.jpg",
-      "published": "2026-07-20T02:10:42Z"
+      "published": "2026-07-20T11:01:58Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "o_nJHt4IjCw",
       "url": "https://www.youtube.com/watch?v=o_nJHt4IjCw",
       "thumbnail": "https://i.ytimg.com/vi/o_nJHt4IjCw/mqdefault_live.jpg",
-      "published": "2026-07-20T10:32:53Z"
+      "published": "2026-07-20T11:01:45Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A DERROTA DO GRÊMIO NO RETORNO AO BRASILEIRÃO | ODORICO E PELAIPE FALARAM | REDAÇÃO IMORTAL",
+      "videoId": "eO0BDV5BVK4",
+      "url": "https://www.youtube.com/watch?v=eO0BDV5BVK4",
+      "thumbnail": "https://i.ytimg.com/vi/eO0BDV5BVK4/mqdefault_live.jpg",
+      "published": "2026-07-20T11:03:28Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 20/07 - GRÊMIO BICAMPEÃO GAÚCHO 1986",
       "videoId": "I4fanqhKps8",
       "url": "https://www.youtube.com/watch?v=I4fanqhKps8",
       "thumbnail": "https://i.ytimg.com/vi/I4fanqhKps8/mqdefault.jpg",
       "published": "2026-07-20T11:00:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #116 — GRÊMIO QUER ANUNCIAR REFORÇOS EM BREVE | TEVE COBRANÇA EM MIRASSOL",
-      "videoId": "taGcOE_Ji_0",
-      "url": "https://www.youtube.com/watch?v=taGcOE_Ji_0",
-      "thumbnail": "https://i.ytimg.com/vi/taGcOE_Ji_0/mqdefault_live.jpg",
-      "published": "2026-07-19T22:30:47Z"
     }
   ]
 }
