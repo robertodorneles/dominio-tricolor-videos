@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-20T22:01:00.314414+00:00",
+  "updated_at": "2026-07-20T22:56:35.650543+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: VOLTANDO A PROGRAMAÇÃO NORMAL | RETOMADA DO BRASILEIRÃO E AS PREOCUPAÇÕES",
+      "videoId": "GN666Q0m37w",
+      "url": "https://www.youtube.com/watch?v=GN666Q0m37w",
+      "thumbnail": "https://i.ytimg.com/vi/GN666Q0m37w/mqdefault_live.jpg",
+      "published": "2026-07-20T22:21:41Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: CASTRO VAI MUDAR A ESCALAÇÃO (POR OBRIGAÇÃO) | UMA NOVIDADE NA SUL-AMERICANA",
@@ -11,20 +19,12 @@
       "published": "2026-07-20T21:44:48Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: DECISÃO PARA O FUTURO | CRÍTICAS DE SANDRO | ROCHET VOLTA",
-      "videoId": "HTaMPl9vMCY",
-      "url": "https://www.youtube.com/watch?v=HTaMPl9vMCY",
-      "thumbnail": "https://i.ytimg.com/vi/HTaMPl9vMCY/mqdefault.jpg",
-      "published": "2026-07-20T07:38:54Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "📰BAGÉTV NEWS #001",
       "videoId": "F6a9q15axjA",
       "url": "https://www.youtube.com/watch?v=F6a9q15axjA",
-      "thumbnail": "https://i.ytimg.com/vi/F6a9q15axjA/mqdefault_live.jpg",
-      "published": "2026-07-20T20:31:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/F6a9q15axjA/mqdefault.jpg",
+      "published": "2026-07-20T22:36:01Z"
     },
     {
       "channel": "Bage TV",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONTRATA NOVO MEIA | RESPOSTA DE OFERTA | KIKE PODE VOLTAR?",
+      "title": "🚨GRÊMIO FECHA COM MEIA | RESPOSTA DE OFERTA | KIKE PODE VOLTAR?",
       "videoId": "Gy_Ou_skFus",
       "url": "https://www.youtube.com/watch?v=Gy_Ou_skFus",
       "thumbnail": "https://i.ytimg.com/vi/Gy_Ou_skFus/mqdefault.jpg",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "ZÉ ALBERTO ANDRADE REVELA PROPOSTA PARA DEIXAR A RÁDIO GAÚCHA | Cortes do Duda",
+      "videoId": "UAuKDjogFWA",
+      "url": "https://www.youtube.com/watch?v=UAuKDjogFWA",
+      "thumbnail": "https://i.ytimg.com/vi/UAuKDjogFWA/mqdefault.jpg",
+      "published": "2026-07-20T22:48:34Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... JOSÉ ALBERTO ANDRADE | #398",
       "videoId": "A8PDnGOTE3o",
       "url": "https://www.youtube.com/watch?v=A8PDnGOTE3o",
@@ -139,12 +147,12 @@
       "published": "2026-07-20T21:59:34Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO - #41 - 20.07 - PÓS - FINAL DA COPA - RICA PERRONE, DUDA GARBI e LISCA",
-      "videoId": "Sq9GPAANjms",
-      "url": "https://www.youtube.com/watch?v=Sq9GPAANjms",
-      "thumbnail": "https://i.ytimg.com/vi/Sq9GPAANjms/mqdefault.jpg",
-      "published": "2026-07-20T14:37:09Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X REDBULL BRAGANTINO I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "Gui-LKPHWCc",
+      "url": "https://www.youtube.com/watch?v=Gui-LKPHWCc",
+      "thumbnail": "https://i.ytimg.com/vi/Gui-LKPHWCc/mqdefault_live.jpg",
+      "published": "2026-07-20T22:40:59Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-07-20T15:43:43Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL I FEM I SUB-20 (CAMPEONATO GAÚCHO 2026)",
-      "videoId": "BYW3ra0QdZE",
-      "url": "https://www.youtube.com/watch?v=BYW3ra0QdZE",
-      "thumbnail": "https://i.ytimg.com/vi/BYW3ra0QdZE/mqdefault.jpg",
-      "published": "2026-07-19T16:07:28Z"
+      "channel": "GZH Digital",
+      "title": "Direito à defesa é impunidade? Aury Lopes Jr. responde | Conversas Cruzadas",
+      "videoId": "VsVridbN06Y",
+      "url": "https://www.youtube.com/watch?v=VsVridbN06Y",
+      "thumbnail": "https://i.ytimg.com/vi/VsVridbN06Y/mqdefault.jpg",
+      "published": "2026-07-20T22:32:35Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Aury Lopes Jr.: referência em direito penal e sucesso nas redes | Conversas Cruzadas | 20/07/2026",
-      "videoId": "eofVmVIC7Rk",
-      "url": "https://www.youtube.com/watch?v=eofVmVIC7Rk",
-      "thumbnail": "https://i.ytimg.com/vi/eofVmVIC7Rk/mqdefault_live.jpg",
-      "published": "2026-07-20T21:17:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Estragos da chuva no RS, previsão do tempo, informações do trânsito e mais | Gaúcha+ | 20/07/2026",
-      "videoId": "KVX6QFxsGf8",
-      "url": "https://www.youtube.com/watch?v=KVX6QFxsGf8",
-      "thumbnail": "https://i.ytimg.com/vi/KVX6QFxsGf8/mqdefault_live.jpg",
-      "published": "2026-07-20T19:33:20Z"
+      "title": "| Gaúcha+ | 21/07/2026",
+      "videoId": "ddKiokfZH9w",
+      "url": "https://www.youtube.com/watch?v=ddKiokfZH9w",
+      "thumbnail": "https://i.ytimg.com/vi/ddKiokfZH9w/mqdefault_live.jpg",
+      "published": "2026-07-20T22:11:27Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE APRESENTAÇÃO DE MATHEUS CUNHA - NOVO GOLEIRO DO INTER | RÁDIO GRENAL | 20/07/2026",
+      "videoId": "QY2xvcn-NFY",
+      "url": "https://www.youtube.com/watch?v=QY2xvcn-NFY",
+      "thumbnail": "https://i.ytimg.com/vi/QY2xvcn-NFY/mqdefault.jpg",
+      "published": "2026-07-20T22:02:51Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "20/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
       "videoId": "o_nJHt4IjCw",
       "url": "https://www.youtube.com/watch?v=o_nJHt4IjCw",
@@ -219,20 +227,12 @@
       "published": "2026-07-20T11:01:45Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "19/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "dLCm-TuZcFY",
-      "url": "https://www.youtube.com/watch?v=dLCm-TuZcFY",
-      "thumbnail": "https://i.ytimg.com/vi/dLCm-TuZcFY/mqdefault.jpg",
-      "published": "2026-07-19T19:15:02Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "LUÍS CASTRO FORA DA VIAGEM PARA A BOLÍVIA | MARLON SE APROXIMA DE RETORNO | NO AGUARDO DOS REFORÇOS",
       "videoId": "JYoKRqPCK4w",
       "url": "https://www.youtube.com/watch?v=JYoKRqPCK4w",
-      "thumbnail": "https://i.ytimg.com/vi/JYoKRqPCK4w/mqdefault_live.jpg",
-      "published": "2026-07-20T21:01:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/JYoKRqPCK4w/mqdefault.jpg",
+      "published": "2026-07-20T22:15:48Z"
     },
     {
       "channel": "Radio Imortal",
