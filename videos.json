@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:00:43.239241+00:00",
+  "updated_at": "2026-07-20T17:00:44.534818+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ELENCO INSUFICIENTE, DIREÇÃO SEM RUMO E INTER INVICTO🔸RESENHA FORA DA SALA🔸#089",
+      "videoId": "EVptOuq_xJw",
+      "url": "https://www.youtube.com/watch?v=EVptOuq_xJw",
+      "thumbnail": "https://i.ytimg.com/vi/EVptOuq_xJw/mqdefault_live.jpg",
+      "published": "2026-07-20T16:31:13Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #026",
       "videoId": "smg_JYQ1ssI",
       "url": "https://www.youtube.com/watch?v=smg_JYQ1ssI",
@@ -27,16 +35,8 @@
       "published": "2026-07-20T15:39:27Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO REPETE ERROS E CASTRO SOFRE PRESSÃO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 20/07 - #593",
-      "videoId": "QkWsxTZAeZw",
-      "url": "https://www.youtube.com/watch?v=QkWsxTZAeZw",
-      "thumbnail": "https://i.ytimg.com/vi/QkWsxTZAeZw/mqdefault.jpg",
-      "published": "2026-07-20T14:00:19Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONTRATA NOVO REFORÇO | RESPOSTA DE OFERTA | KIKE PODE VOLTAR?",
+      "title": "🚨GRÊMIO CONTRATA NOVO MEIA | RESPOSTA DE OFERTA | KIKE PODE VOLTAR?",
       "videoId": "Gy_Ou_skFus",
       "url": "https://www.youtube.com/watch?v=Gy_Ou_skFus",
       "thumbnail": "https://i.ytimg.com/vi/Gy_Ou_skFus/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "NO AGUARDO DOS REFORÇOS DO GRÊMIO! | TIME CONTRA O BOLÍVAR TERÁ NOVIDADES | ESPLANADA",
-      "videoId": "dWQxjGbvnGk",
-      "url": "https://www.youtube.com/watch?v=dWQxjGbvnGk",
-      "thumbnail": "https://i.ytimg.com/vi/dWQxjGbvnGk/mqdefault_live.jpg",
-      "published": "2026-07-20T15:42:51Z"
+      "title": "IMORTAL FC — 20/07",
+      "videoId": "JYoKRqPCK4w",
+      "url": "https://www.youtube.com/watch?v=JYoKRqPCK4w",
+      "thumbnail": "https://i.ytimg.com/vi/JYoKRqPCK4w/mqdefault_live.jpg",
+      "published": "2026-07-20T16:48:36Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ATAQUE DO GRÊMIO TEM CULPA? CRISTIANO OLIVEIRA EXPLICA | COMO É BOM SER DO GRÊMIO",
-      "videoId": "kSe7EZ3QL1M",
-      "url": "https://www.youtube.com/watch?v=kSe7EZ3QL1M",
-      "thumbnail": "https://i.ytimg.com/vi/kSe7EZ3QL1M/mqdefault.jpg",
-      "published": "2026-07-20T15:30:11Z"
+      "title": "EDILSON E DOUGLAS RELEMBRAM OS JOGADORES DO GRÊMIO QUE PIOR SE VESTIAM | COMO É BOM SER DO GRÊMIO",
+      "videoId": "MEiYAYOLRb0",
+      "url": "https://www.youtube.com/watch?v=MEiYAYOLRb0",
+      "thumbnail": "https://i.ytimg.com/vi/MEiYAYOLRb0/mqdefault.jpg",
+      "published": "2026-07-20T16:30:09Z"
     }
   ]
 }
