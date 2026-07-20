@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-20T21:08:22.833654+00:00",
+  "updated_at": "2026-07-20T22:01:00.314414+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: CASTRO VAI MUDAR A ESCALAÇÃO (POR OBRIGAÇÃO) | UMA NOVIDADE NA SUL-AMERICANA",
+      "videoId": "8SFbL6Q1Qas",
+      "url": "https://www.youtube.com/watch?v=8SFbL6Q1Qas",
+      "thumbnail": "https://i.ytimg.com/vi/8SFbL6Q1Qas/mqdefault.jpg",
+      "published": "2026-07-20T21:44:48Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: DECISÃO PARA O FUTURO | CRÍTICAS DE SANDRO | ROCHET VOLTA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=HTaMPl9vMCY",
       "thumbnail": "https://i.ytimg.com/vi/HTaMPl9vMCY/mqdefault.jpg",
       "published": "2026-07-20T07:38:54Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: AMEAÇA DE PROIBIÇÃO DE INSCRIÇÕES | DÍVIDAS SALTAM | MEC INSATISFEITO?!",
-      "videoId": "92npy-p45bo",
-      "url": "https://www.youtube.com/watch?v=92npy-p45bo",
-      "thumbnail": "https://i.ytimg.com/vi/92npy-p45bo/mqdefault.jpg",
-      "published": "2026-07-20T05:00:14Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #634: Castro fora do jogo | Logística | Mandaca | Marlon | Igor Gomes e mais",
+      "videoId": "K5kTKglQllg",
+      "url": "https://www.youtube.com/watch?v=K5kTKglQllg",
+      "thumbnail": "https://i.ytimg.com/vi/K5kTKglQllg/mqdefault.jpg",
+      "published": "2026-07-20T21:12:15Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - CASTRO FORA DO JOGO | REFORÇOS E MAIS",
       "videoId": "N_Zv2ghF3V0",
       "url": "https://www.youtube.com/watch?v=N_Zv2ghF3V0",
@@ -59,12 +67,12 @@
       "published": "2026-07-20T17:33:45Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Os reforços para um novo Grêmio | Risco de transfer ban?",
-      "videoId": "ZdZMSwgjWcs",
-      "url": "https://www.youtube.com/watch?v=ZdZMSwgjWcs",
-      "thumbnail": "https://i.ytimg.com/vi/ZdZMSwgjWcs/mqdefault.jpg",
-      "published": "2026-07-20T14:13:14Z"
+      "channel": "Canal do Farid",
+      "title": "GIRO ESPORTIVO | GRÊMIO CONSULTA POR MEIA DO ATLÉTICO | NOVO TRANSFERBAN - 20/07/2026",
+      "videoId": "tPn8qW4wOrw",
+      "url": "https://www.youtube.com/watch?v=tPn8qW4wOrw",
+      "thumbnail": "https://i.ytimg.com/vi/tPn8qW4wOrw/mqdefault.jpg",
+      "published": "2026-07-20T21:11:21Z"
     },
     {
       "channel": "Canal do Farid",
@@ -75,12 +83,12 @@
       "published": "2026-07-20T20:17:14Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X MIRASSOL | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 17/07/2026",
-      "videoId": "g1i5nT_31Kc",
-      "url": "https://www.youtube.com/watch?v=g1i5nT_31Kc",
-      "thumbnail": "https://i.ytimg.com/vi/g1i5nT_31Kc/mqdefault.jpg",
-      "published": "2026-07-18T03:00:54Z"
+      "channel": "Canal do Gabardo",
+      "title": "Como foi a apresentação de Matheus Cunha | Novidades no Inter para o jogo contra o Cruzeiro",
+      "videoId": "dcNntcryIUs",
+      "url": "https://www.youtube.com/watch?v=dcNntcryIUs",
+      "thumbnail": "https://i.ytimg.com/vi/dcNntcryIUs/mqdefault.jpg",
+      "published": "2026-07-20T22:00:32Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=iDPedEwsx_s",
       "thumbnail": "https://i.ytimg.com/vi/iDPedEwsx_s/mqdefault.jpg",
       "published": "2026-07-20T20:21:11Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Novidade sobre zagueiro e meia | Mandaca em 2027 | Luís Castro não viaja",
-      "videoId": "j7VWHNAt-KM",
-      "url": "https://www.youtube.com/watch?v=j7VWHNAt-KM",
-      "thumbnail": "https://i.ytimg.com/vi/j7VWHNAt-KM/mqdefault.jpg",
-      "published": "2026-07-20T19:50:40Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... JOSÉ ALBERTO ANDRADE  | #398",
+      "title": "UM ASSADO PARA... JOSÉ ALBERTO ANDRADE | #398",
       "videoId": "A8PDnGOTE3o",
       "url": "https://www.youtube.com/watch?v=A8PDnGOTE3o",
       "thumbnail": "https://i.ytimg.com/vi/A8PDnGOTE3o/mqdefault_live.jpg",
-      "published": "2026-07-20T15:30:27Z"
+      "published": "2026-07-20T21:59:34Z"
     },
     {
       "channel": "Duda Garbi",
@@ -168,7 +168,7 @@
       "videoId": "eofVmVIC7Rk",
       "url": "https://www.youtube.com/watch?v=eofVmVIC7Rk",
       "thumbnail": "https://i.ytimg.com/vi/eofVmVIC7Rk/mqdefault_live.jpg",
-      "published": "2026-07-20T20:27:26Z"
+      "published": "2026-07-20T21:17:11Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "20/07/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "20/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
       "videoId": "o_nJHt4IjCw",
       "url": "https://www.youtube.com/watch?v=o_nJHt4IjCw",
       "thumbnail": "https://i.ytimg.com/vi/o_nJHt4IjCw/mqdefault_live.jpg",
