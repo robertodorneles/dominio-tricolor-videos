@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:00:46.227112+00:00",
+  "updated_at": "2026-07-20T15:00:53.803998+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "smg_JYQ1ssI",
       "url": "https://www.youtube.com/watch?v=smg_JYQ1ssI",
       "thumbnail": "https://i.ytimg.com/vi/smg_JYQ1ssI/mqdefault_live.jpg",
-      "published": "2026-07-20T13:40:11Z"
+      "published": "2026-07-20T14:50:44Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,15 @@
       "videoId": "QkWsxTZAeZw",
       "url": "https://www.youtube.com/watch?v=QkWsxTZAeZw",
       "thumbnail": "https://i.ytimg.com/vi/QkWsxTZAeZw/mqdefault.jpg",
-      "published": "2026-07-20T13:33:18Z"
+      "published": "2026-07-20T14:00:19Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONTRATA NOVO REFORÇO | RESPOSTA DE OFERTA | KIKE PODE VOLTAR?",
+      "videoId": "Gy_Ou_skFus",
+      "url": "https://www.youtube.com/watch?v=Gy_Ou_skFus",
+      "thumbnail": "https://i.ytimg.com/vi/Gy_Ou_skFus/mqdefault.jpg",
+      "published": "2026-07-20T14:37:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-07-19T23:07:30Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CHEGOU A HORA DO RENATO | ANÚNCIO DE REFORÇOS NO GRÊMIO | É DIA DE DECISÃO NA COPA! QUEM LEVA?",
-      "videoId": "QrQpWjw6_18",
-      "url": "https://www.youtube.com/watch?v=QrQpWjw6_18",
-      "thumbnail": "https://i.ytimg.com/vi/QrQpWjw6_18/mqdefault.jpg",
-      "published": "2026-07-19T14:08:40Z"
+      "channel": "Canal do CCD",
+      "title": "Os reforços para um novo Grêmio | Risco de transfer ban?",
+      "videoId": "ZdZMSwgjWcs",
+      "url": "https://www.youtube.com/watch?v=ZdZMSwgjWcs",
+      "thumbnail": "https://i.ytimg.com/vi/ZdZMSwgjWcs/mqdefault.jpg",
+      "published": "2026-07-20T14:13:14Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=1hJpFppB8yQ",
       "thumbnail": "https://i.ytimg.com/vi/1hJpFppB8yQ/mqdefault.jpg",
       "published": "2026-07-20T00:17:39Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Quando deve chegar o camisa 10 do Grêmio",
-      "videoId": "1K2ZYVr22Cc",
-      "url": "https://www.youtube.com/watch?v=1K2ZYVr22Cc",
-      "thumbnail": "https://i.ytimg.com/vi/1K2ZYVr22Cc/mqdefault.jpg",
-      "published": "2026-07-19T23:52:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO - #41 - 20.07 - PÓS - FINAL DA COPA - RICA PERRONE, DUDA GARBI e LISCA",
       "videoId": "Sq9GPAANjms",
       "url": "https://www.youtube.com/watch?v=Sq9GPAANjms",
-      "thumbnail": "https://i.ytimg.com/vi/Sq9GPAANjms/mqdefault_live.jpg",
-      "published": "2026-07-20T13:28:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/Sq9GPAANjms/mqdefault.jpg",
+      "published": "2026-07-20T14:37:09Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "AOS 102 ANOS, empresário Anton Karl Biedermann fala de longevidade, economia e política",
-      "videoId": "DtRJMSQlbMI",
-      "url": "https://www.youtube.com/watch?v=DtRJMSQlbMI",
-      "thumbnail": "https://i.ytimg.com/vi/DtRJMSQlbMI/mqdefault.jpg",
-      "published": "2026-07-20T14:00:22Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Espanha campeã da Copa, Seleção Brasileira com menos prestígio e mais | Timeline | 20/07/26",
       "videoId": "lw5WrG3_i08",
       "url": "https://www.youtube.com/watch?v=lw5WrG3_i08",
-      "thumbnail": "https://i.ytimg.com/vi/lw5WrG3_i08/mqdefault_live.jpg",
-      "published": "2026-07-20T13:57:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/lw5WrG3_i08/mqdefault.jpg",
+      "published": "2026-07-20T14:10:23Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Eleições 2026, últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 20/07/2026",
+      "videoId": "5zYre0M83m4",
+      "url": "https://www.youtube.com/watch?v=5zYre0M83m4",
+      "thumbnail": "https://i.ytimg.com/vi/5zYre0M83m4/mqdefault.jpg",
+      "published": "2026-07-20T14:05:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "A DERROTA DO GRÊMIO NO RETORNO AO BRASILEIRÃO | ODORICO E PELAIPE FALARAM | REDAÇÃO IMORTAL",
-      "videoId": "eO0BDV5BVK4",
-      "url": "https://www.youtube.com/watch?v=eO0BDV5BVK4",
-      "thumbnail": "https://i.ytimg.com/vi/eO0BDV5BVK4/mqdefault.jpg",
-      "published": "2026-07-20T12:37:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "ESTREIA — COMO É BOM SER DO GRÊMIO #01",
       "videoId": "WvXUd3ZG32A",
       "url": "https://www.youtube.com/watch?v=WvXUd3ZG32A",
-      "thumbnail": "https://i.ytimg.com/vi/WvXUd3ZG32A/mqdefault_live.jpg",
-      "published": "2026-07-20T12:31:30Z"
+      "thumbnail": "https://i.ytimg.com/vi/WvXUd3ZG32A/mqdefault.jpg",
+      "published": "2026-07-20T14:43:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #116 — GRÊMIO QUER ANUNCIAR REFORÇOS EM BREVE | TEVE COBRANÇA EM MIRASSOL",
+      "videoId": "taGcOE_Ji_0",
+      "url": "https://www.youtube.com/watch?v=taGcOE_Ji_0",
+      "thumbnail": "https://i.ytimg.com/vi/taGcOE_Ji_0/mqdefault_live.jpg",
+      "published": "2026-07-20T14:11:21Z"
     }
   ]
 }
