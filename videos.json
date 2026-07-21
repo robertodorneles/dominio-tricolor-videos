@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:00:39.321386+00:00",
+  "updated_at": "2026-07-21T21:03:34.821995+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #635: Mec | Jovane Cabral | Luis Castro | Sul-americana | Sub-17 | Reforços e mais",
+      "videoId": "vxvnchCi08s",
+      "url": "https://www.youtube.com/watch?v=vxvnchCi08s",
+      "thumbnail": "https://i.ytimg.com/vi/vxvnchCi08s/mqdefault.jpg",
+      "published": "2026-07-21T21:00:25Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Atualizações sobre o novo meia e a situação de Gabriel Mec",
       "videoId": "wyCxSvqE8GU",
       "url": "https://www.youtube.com/watch?v=wyCxSvqE8GU",
       "thumbnail": "https://i.ytimg.com/vi/wyCxSvqE8GU/mqdefault.jpg",
       "published": "2026-07-21T13:27:34Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - CASTRO FORA DO JOGO | REFORÇOS E MAIS",
-      "videoId": "N_Zv2ghF3V0",
-      "url": "https://www.youtube.com/watch?v=N_Zv2ghF3V0",
-      "thumbnail": "https://i.ytimg.com/vi/N_Zv2ghF3V0/mqdefault.jpg",
-      "published": "2026-07-21T01:12:16Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO DESISTE DE ZAGUEIRO ARGENTINO | O QUE ESPERAR DO GRÊMIO NA SUL-AMERICANA | ESPLANADA",
-      "videoId": "mWqnfCLPl_0",
-      "url": "https://www.youtube.com/watch?v=mWqnfCLPl_0",
-      "thumbnail": "https://i.ytimg.com/vi/mWqnfCLPl_0/mqdefault.jpg",
-      "published": "2026-07-21T19:53:24Z"
+      "title": "VALENTINI NÃO VEM PARA O GRÊMIO | PREPARAÇÃO PARA JOGO DA SULA | NOITES DE GRÊMIO #112 - 21/07",
+      "videoId": "xoYRk_Ncd6c",
+      "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
+      "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault_live.jpg",
+      "published": "2026-07-21T21:03:09Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "sUVcF9gRpeg",
       "url": "https://www.youtube.com/watch?v=sUVcF9gRpeg",
       "thumbnail": "https://i.ytimg.com/vi/sUVcF9gRpeg/mqdefault_live.jpg",
-      "published": "2026-07-21T17:41:47Z"
+      "published": "2026-07-21T21:01:18Z"
     }
   ]
 }
