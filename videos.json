@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T15:00:54.196436+00:00",
+  "updated_at": "2026-07-21T15:40:14.130632+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #027",
+      "videoId": "zy3IfPRaAnE",
+      "url": "https://www.youtube.com/watch?v=zy3IfPRaAnE",
+      "thumbnail": "https://i.ytimg.com/vi/zy3IfPRaAnE/mqdefault.jpg",
+      "published": "2026-07-21T15:17:33Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO DEVE POUPAR NA BOLÍVIA?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 21/07 - #594",
       "videoId": "m4YHIhciNo4",
       "url": "https://www.youtube.com/watch?v=m4YHIhciNo4",
       "thumbnail": "https://i.ytimg.com/vi/m4YHIhciNo4/mqdefault.jpg",
       "published": "2026-07-21T13:48:59Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #027",
-      "videoId": "zy3IfPRaAnE",
-      "url": "https://www.youtube.com/watch?v=zy3IfPRaAnE",
-      "thumbnail": "https://i.ytimg.com/vi/zy3IfPRaAnE/mqdefault_live.jpg",
-      "published": "2026-07-21T13:40:45Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "SÓ A DIREÇÃO DO GRÊMIO NÃO ENXERGA ISSO? | COMO É BOM SER DO GRÊMIO",
-      "videoId": "tflKodGnaeA",
-      "url": "https://www.youtube.com/watch?v=tflKodGnaeA",
-      "thumbnail": "https://i.ytimg.com/vi/tflKodGnaeA/mqdefault.jpg",
-      "published": "2026-07-21T14:59:26Z"
+      "title": "A RELAÇÃO DO GRÊMIO COM SUA TORCIDA EM DEBATE | COMO É BOM SER DO GRÊMIO",
+      "videoId": "E-QK63KBOgw",
+      "url": "https://www.youtube.com/watch?v=E-QK63KBOgw",
+      "thumbnail": "https://i.ytimg.com/vi/E-QK63KBOgw/mqdefault.jpg",
+      "published": "2026-07-21T15:17:16Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #117 — GRÊMIO VAI ABRIR MÃO DA SULA? | ATUALIZANDO AS NOTÍCIAS DO MERCADO",
       "videoId": "IJFc-Y1v86s",
       "url": "https://www.youtube.com/watch?v=IJFc-Y1v86s",
-      "thumbnail": "https://i.ytimg.com/vi/IJFc-Y1v86s/mqdefault_live.jpg",
-      "published": "2026-07-21T14:09:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/IJFc-Y1v86s/mqdefault.jpg",
+      "published": "2026-07-21T15:05:49Z"
     }
   ]
 }
