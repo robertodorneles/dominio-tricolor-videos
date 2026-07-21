@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-21T20:00:36.753235+00:00",
+  "updated_at": "2026-07-21T21:00:39.321386+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: CLIMA NO VESTIÁRIO TEM NOVA TENSÃO | PRESIDENTE vs JOGADORES | E AGORA?",
+      "videoId": "Ji8XAbOea0s",
+      "url": "https://www.youtube.com/watch?v=Ji8XAbOea0s",
+      "thumbnail": "https://i.ytimg.com/vi/Ji8XAbOea0s/mqdefault.jpg",
+      "published": "2026-07-21T20:30:34Z"
+    },
     {
       "channel": "A Dupla",
       "title": "⚽ ELE VOLTOU!!!! GLÓRIA!!!! MATHEUS CUNHA SEREMOS SEUS DISCÍPULOS!",
@@ -11,28 +19,20 @@
       "published": "2026-07-21T15:46:01Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: LISTA AUMENTA | NOVELA ALEX ARCE | GOLEIRO DE MILAGRES",
-      "videoId": "omel0kkmioU",
-      "url": "https://www.youtube.com/watch?v=omel0kkmioU",
-      "thumbnail": "https://i.ytimg.com/vi/omel0kkmioU/mqdefault.jpg",
-      "published": "2026-07-21T07:12:17Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CORRIDA CONTRA O TEMPO! A SAÚDE FINANCEIRA DOS ADVERSÁRIOS DA DUPLA🔸RESENHA FORA DA SALA🔸#090",
-      "videoId": "SsbSrsa0i-Y",
-      "url": "https://www.youtube.com/watch?v=SsbSrsa0i-Y",
-      "thumbnail": "https://i.ytimg.com/vi/SsbSrsa0i-Y/mqdefault.jpg",
-      "published": "2026-07-21T19:18:12Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "NOVELA DA VENDA DO MEC SEGUE🔹 THE TARDE 🔹#187",
       "videoId": "UYlNjTKy9oU",
       "url": "https://www.youtube.com/watch?v=UYlNjTKy9oU",
-      "thumbnail": "https://i.ytimg.com/vi/UYlNjTKy9oU/mqdefault_live.jpg",
-      "published": "2026-07-21T18:30:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/UYlNjTKy9oU/mqdefault.jpg",
+      "published": "2026-07-21T20:59:25Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #002",
+      "videoId": "3j8B_kD4RpE",
+      "url": "https://www.youtube.com/watch?v=3j8B_kD4RpE",
+      "thumbnail": "https://i.ytimg.com/vi/3j8B_kD4RpE/mqdefault_live.jpg",
+      "published": "2026-07-21T20:31:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MEC: PEDIDO EXAGERADO? | ATRASOS:  JOGADOR NÃO QUER VIR PARA O GRÊMIO?",
+      "videoId": "DEr9ECtp2ZA",
+      "url": "https://www.youtube.com/watch?v=DEr9ECtp2ZA",
+      "thumbnail": "https://i.ytimg.com/vi/DEr9ECtp2ZA/mqdefault.jpg",
+      "published": "2026-07-21T20:51:06Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "O MEIA DE MENOS DE 1 MILHÃO. #gremio #Futebol",
       "videoId": "FHSpwdLqnoY",
       "url": "https://www.youtube.com/watch?v=FHSpwdLqnoY",
       "thumbnail": "https://i.ytimg.com/vi/FHSpwdLqnoY/mqdefault.jpg",
       "published": "2026-07-21T13:00:17Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "PNEUMOTÓRAX | PROBLEMA DE SAÚDE DO TREINADOR LUIS CASTRO. #gremio #Futebol",
-      "videoId": "ylvv58NpG7Y",
-      "url": "https://www.youtube.com/watch?v=ylvv58NpG7Y",
-      "thumbnail": "https://i.ytimg.com/vi/ylvv58NpG7Y/mqdefault.jpg",
-      "published": "2026-07-21T13:00:10Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X REDBULL BRAGANTINO I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "Gui-LKPHWCc",
       "url": "https://www.youtube.com/watch?v=Gui-LKPHWCc",
-      "thumbnail": "https://i.ytimg.com/vi/Gui-LKPHWCc/mqdefault_live.jpg",
-      "published": "2026-07-21T17:44:20Z"
+      "thumbnail": "https://i.ytimg.com/vi/Gui-LKPHWCc/mqdefault.jpg",
+      "published": "2026-07-21T20:14:34Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Atualizações da chuva no RS, caso Marcos Nörnberg, trânsito e mais | Gaúcha+ | 21/07/2026",
-      "videoId": "ddKiokfZH9w",
-      "url": "https://www.youtube.com/watch?v=ddKiokfZH9w",
-      "thumbnail": "https://i.ytimg.com/vi/ddKiokfZH9w/mqdefault_live.jpg",
-      "published": "2026-07-21T19:31:53Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Campanha eleitoral: quais são os limites da disputa? | Conversas Cruzadas | 21/07/2026",
       "videoId": "MxATAfWBzBo",
       "url": "https://www.youtube.com/watch?v=MxATAfWBzBo",
       "thumbnail": "https://i.ytimg.com/vi/MxATAfWBzBo/mqdefault_live.jpg",
-      "published": "2026-07-21T17:55:42Z"
+      "published": "2026-07-21T20:39:31Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Quem é ANDY BURNHAM, novo primeiro-ministro do REINO UNIDO",
+      "videoId": "ZnQKmtTB93E",
+      "url": "https://www.youtube.com/watch?v=ZnQKmtTB93E",
+      "thumbnail": "https://i.ytimg.com/vi/ZnQKmtTB93E/mqdefault.jpg",
+      "published": "2026-07-21T20:30:01Z"
     },
     {
       "channel": "Jeremias Wernek",
