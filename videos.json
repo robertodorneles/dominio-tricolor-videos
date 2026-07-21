@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T11:00:40.145991+00:00",
+  "updated_at": "2026-07-21T11:04:26.559107+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "8aXJpDsEREA",
       "url": "https://www.youtube.com/watch?v=8aXJpDsEREA",
       "thumbnail": "https://i.ytimg.com/vi/8aXJpDsEREA/mqdefault_live.jpg",
-      "published": "2026-07-21T10:31:44Z"
+      "published": "2026-07-21T11:03:47Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS AUSÊNCIAS IMPORTANTES DO GRÊMIO NA ALTITUDE | MARLON VOLTA NO DOMINGO? | REDAÇÃO IMORTAL",
+      "videoId": "eWIE9oxmaGA",
+      "url": "https://www.youtube.com/watch?v=eWIE9oxmaGA",
+      "thumbnail": "https://i.ytimg.com/vi/eWIE9oxmaGA/mqdefault_live.jpg",
+      "published": "2026-07-21T11:01:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 21/07 - CRICIÚMA 0(3)X(4)1 GRÊMIO (COPA DO BRASIL 2015)",
       "videoId": "W97v_abjqYQ",
       "url": "https://www.youtube.com/watch?v=W97v_abjqYQ",
       "thumbnail": "https://i.ytimg.com/vi/W97v_abjqYQ/mqdefault.jpg",
       "published": "2026-07-21T11:00:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CHEGADA DE JOVANE CABRAL | DIRETO DO AEROPORTO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #111 - 20/07",
-      "videoId": "aSRUzhWdEq4",
-      "url": "https://www.youtube.com/watch?v=aSRUzhWdEq4",
-      "thumbnail": "https://i.ytimg.com/vi/aSRUzhWdEq4/mqdefault.jpg",
-      "published": "2026-07-21T02:25:51Z"
     }
   ]
 }
