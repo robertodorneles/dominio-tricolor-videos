@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-21T15:40:14.130632+00:00",
+  "updated_at": "2026-07-21T16:00:42.020871+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "⚽ ELE VOLTOU!!!! GLÓRIA!!!! MATHEUS CUNHA SEREMOS SEUS DISCÍPULOS!",
+      "videoId": "jfR5x8n2SkM",
+      "url": "https://www.youtube.com/watch?v=jfR5x8n2SkM",
+      "thumbnail": "https://i.ytimg.com/vi/jfR5x8n2SkM/mqdefault.jpg",
+      "published": "2026-07-21T15:46:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: LISTA AUMENTA | NOVELA ALEX ARCE | GOLEIRO DE MILAGRES",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=omel0kkmioU",
       "thumbnail": "https://i.ytimg.com/vi/omel0kkmioU/mqdefault.jpg",
       "published": "2026-07-21T07:12:17Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: TIME TEM PROBLEMA CONFIRMADO! MERCADO TRAVA E CASTRO ESTÁ FORA | CABRAL EM POA",
-      "videoId": "zh-FnGPTkuQ",
-      "url": "https://www.youtube.com/watch?v=zh-FnGPTkuQ",
-      "thumbnail": "https://i.ytimg.com/vi/zh-FnGPTkuQ/mqdefault.jpg",
-      "published": "2026-07-21T05:00:04Z"
     },
     {
       "channel": "Bage TV",
