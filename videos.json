@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-07-21T22:00:44.572865+00:00",
+  "updated_at": "2026-07-21T22:52:53.240252+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: CLIMA NO VESTIÁRIO TEM NOVA TENSÃO | PRESIDENTE vs JOGADORES | E AGORA?",
-      "videoId": "Ji8XAbOea0s",
-      "url": "https://www.youtube.com/watch?v=Ji8XAbOea0s",
-      "thumbnail": "https://i.ytimg.com/vi/Ji8XAbOea0s/mqdefault.jpg",
-      "published": "2026-07-21T20:30:34Z"
+      "title": "🔵🔴 A Hora da Dupla:  PRÉ JOGO INTER X CRUZEIRO | GRÊMIO SE PREPARA PARA A ALTITUDE",
+      "videoId": "Pgj1LfEaOLE",
+      "url": "https://www.youtube.com/watch?v=Pgj1LfEaOLE",
+      "thumbnail": "https://i.ytimg.com/vi/Pgj1LfEaOLE/mqdefault_live.jpg",
+      "published": "2026-07-21T22:51:18Z"
     },
     {
       "channel": "A Dupla",
-      "title": "⚽ ELE VOLTOU!!!! GLÓRIA!!!! MATHEUS CUNHA SEREMOS SEUS DISCÍPULOS!",
-      "videoId": "jfR5x8n2SkM",
-      "url": "https://www.youtube.com/watch?v=jfR5x8n2SkM",
-      "thumbnail": "https://i.ytimg.com/vi/jfR5x8n2SkM/mqdefault.jpg",
-      "published": "2026-07-21T15:46:01Z"
+      "title": "🔴⚪️ Inter: DIFÍCIL DE EXPLICAR | A NOVELA THIAGO MAIA | DIREÇÃO SE DIVIDE",
+      "videoId": "i-AOp9oOZt0",
+      "url": "https://www.youtube.com/watch?v=i-AOp9oOZt0",
+      "thumbnail": "https://i.ytimg.com/vi/i-AOp9oOZt0/mqdefault.jpg",
+      "published": "2026-07-21T22:08:04Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "SHAKHTAR PERSEGUE GABRIEL MEC📰BAGÉTV NEWS #002",
+      "videoId": "3j8B_kD4RpE",
+      "url": "https://www.youtube.com/watch?v=3j8B_kD4RpE",
+      "thumbnail": "https://i.ytimg.com/vi/3j8B_kD4RpE/mqdefault.jpg",
+      "published": "2026-07-21T22:18:56Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=UYlNjTKy9oU",
       "thumbnail": "https://i.ytimg.com/vi/UYlNjTKy9oU/mqdefault.jpg",
       "published": "2026-07-21T20:59:25Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "SHAKHTAR PERSEGUE GABRIEL MEC📰BAGÉTV NEWS #002",
-      "videoId": "3j8B_kD4RpE",
-      "url": "https://www.youtube.com/watch?v=3j8B_kD4RpE",
-      "thumbnail": "https://i.ytimg.com/vi/3j8B_kD4RpE/mqdefault_live.jpg",
-      "published": "2026-07-21T20:31:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... JOSÉ ALBERTO ANDRADE | #398",
-      "videoId": "A8PDnGOTE3o",
-      "url": "https://www.youtube.com/watch?v=A8PDnGOTE3o",
-      "thumbnail": "https://i.ytimg.com/vi/A8PDnGOTE3o/mqdefault.jpg",
-      "published": "2026-07-21T00:31:55Z"
+      "title": "DEBATE RAIZ X GAÚCHA - ZÉ ALBERTO FALA DA BRIGA PELA AUDIÊNCIA ESPORTIVA | Cortes do Duda",
+      "videoId": "owi2xhrZJHo",
+      "url": "https://www.youtube.com/watch?v=owi2xhrZJHo",
+      "thumbnail": "https://i.ytimg.com/vi/owi2xhrZJHo/mqdefault.jpg",
+      "published": "2026-07-21T22:30:07Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "“A PIOR COPA DA MINHA VIDA” - ZÉ ALBERTO FICOU FORA DA LISTA DA RBS E CONTOU TUDO | Cortes do Duda",
-      "videoId": "dDMZyFe6qa0",
-      "url": "https://www.youtube.com/watch?v=dDMZyFe6qa0",
-      "thumbnail": "https://i.ytimg.com/vi/dDMZyFe6qa0/mqdefault.jpg",
-      "published": "2026-07-20T23:55:02Z"
+      "title": "SERÁ QUE TEM LUGAR PARA ZÉ ALBERTO ANDRADE NO SALA DE REDAÇÃO? | Cortes do Duda",
+      "videoId": "wG3MPk2iEwc",
+      "url": "https://www.youtube.com/watch?v=wG3MPk2iEwc",
+      "thumbnail": "https://i.ytimg.com/vi/wG3MPk2iEwc/mqdefault.jpg",
+      "published": "2026-07-21T22:00:37Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "É permitido o uso de IA na campanha eleitoral? Entenda as regras | Conversas Cruzadas",
+      "videoId": "pqrReCKos0g",
+      "url": "https://www.youtube.com/watch?v=pqrReCKos0g",
+      "thumbnail": "https://i.ytimg.com/vi/pqrReCKos0g/mqdefault.jpg",
+      "published": "2026-07-21T22:25:16Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Campanha eleitoral: quais são os limites da disputa? | Conversas Cruzadas | 21/07/2026",
       "videoId": "MxATAfWBzBo",
       "url": "https://www.youtube.com/watch?v=MxATAfWBzBo",
       "thumbnail": "https://i.ytimg.com/vi/MxATAfWBzBo/mqdefault.jpg",
       "published": "2026-07-21T21:32:03Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "PF intima JAQUES WAGNER a depor. O que isso significa? | Andei Pensando | 21/07/2026",
-      "videoId": "TSjz-edwDlY",
-      "url": "https://www.youtube.com/watch?v=TSjz-edwDlY",
-      "thumbnail": "https://i.ytimg.com/vi/TSjz-edwDlY/mqdefault.jpg",
-      "published": "2026-07-21T21:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "21/07/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "21/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
       "videoId": "8aXJpDsEREA",
       "url": "https://www.youtube.com/watch?v=8aXJpDsEREA",
       "thumbnail": "https://i.ytimg.com/vi/8aXJpDsEREA/mqdefault_live.jpg",
       "published": "2026-07-21T11:03:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "COMO ANDAM AS NEGOCIAÇÕES DO GRÊMIO | PROMOÇÃO DE INGRESSO PARA DOMINGO | | IMORTAL FC",
+      "videoId": "sUVcF9gRpeg",
+      "url": "https://www.youtube.com/watch?v=sUVcF9gRpeg",
+      "thumbnail": "https://i.ytimg.com/vi/sUVcF9gRpeg/mqdefault.jpg",
+      "published": "2026-07-21T22:16:48Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
       "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault_live.jpg",
       "published": "2026-07-21T21:03:09Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO ANDAM AS NEGOCIAÇÕES DO GRÊMIO | PROMOÇÃO DE INGRESSO PARA DOMINGO | | IMORTAL FC",
-      "videoId": "sUVcF9gRpeg",
-      "url": "https://www.youtube.com/watch?v=sUVcF9gRpeg",
-      "thumbnail": "https://i.ytimg.com/vi/sUVcF9gRpeg/mqdefault_live.jpg",
-      "published": "2026-07-21T21:01:18Z"
     }
   ]
 }
