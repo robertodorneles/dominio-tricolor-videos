@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T17:00:42.996500+00:00",
+  "updated_at": "2026-07-22T17:13:43.969699+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "LIVE ESPECIAL DIRETO DE LA PAZ-BOLÍVIA",
+      "title": "🔵LIVE ESPECIAL DIRETO DE LA PAZ-BOLÍVIA🔵",
       "videoId": "I6qmbIEe6yo",
       "url": "https://www.youtube.com/watch?v=I6qmbIEe6yo",
       "thumbnail": "https://i.ytimg.com/vi/I6qmbIEe6yo/mqdefault_live.jpg",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "FORA DA LISTA! 🧤❌",
+      "videoId": "SH2Im3L-KQ4",
+      "url": "https://www.youtube.com/watch?v=SH2Im3L-KQ4",
+      "thumbnail": "https://i.ytimg.com/vi/SH2Im3L-KQ4/mqdefault.jpg",
+      "published": "2026-07-22T17:01:21Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "22/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "AYgQQu6FtKE",
       "url": "https://www.youtube.com/watch?v=AYgQQu6FtKE",
       "thumbnail": "https://i.ytimg.com/vi/AYgQQu6FtKE/mqdefault_live.jpg",
       "published": "2026-07-22T11:08:25Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "21/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "8aXJpDsEREA",
-      "url": "https://www.youtube.com/watch?v=8aXJpDsEREA",
-      "thumbnail": "https://i.ytimg.com/vi/8aXJpDsEREA/mqdefault.jpg",
-      "published": "2026-07-21T23:30:07Z"
     },
     {
       "channel": "Radio Imortal",
