@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T13:43:10.679790+00:00",
+  "updated_at": "2026-07-22T14:00:45.699699+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO FAZ PROPOSTA POR MEIA! DESCUBRA O NOME🔵 FUTEBOL ALEGRIA DO GRÊMIO - 22/07 - #595",
+      "videoId": "EgGgmKDAPJU",
+      "url": "https://www.youtube.com/watch?v=EgGgmKDAPJU",
+      "thumbnail": "https://i.ytimg.com/vi/EgGgmKDAPJU/mqdefault.jpg",
+      "published": "2026-07-22T13:59:28Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #028",
       "videoId": "J4LHLpFLSiE",
       "url": "https://www.youtube.com/watch?v=J4LHLpFLSiE",
       "thumbnail": "https://i.ytimg.com/vi/J4LHLpFLSiE/mqdefault_live.jpg",
       "published": "2026-07-22T13:40:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO FAZ PROPOSTA POR MEIA! DESCUBRA O NOME🔵 FUTEBOL ALEGRIA DO GRÊMIO - 22/07 - #595",
-      "videoId": "EgGgmKDAPJU",
-      "url": "https://www.youtube.com/watch?v=EgGgmKDAPJU",
-      "thumbnail": "https://i.ytimg.com/vi/EgGgmKDAPJU/mqdefault_live.jpg",
-      "published": "2026-07-22T13:34:53Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "22/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "AYgQQu6FtKE",
       "url": "https://www.youtube.com/watch?v=AYgQQu6FtKE",
       "thumbnail": "https://i.ytimg.com/vi/AYgQQu6FtKE/mqdefault_live.jpg",
