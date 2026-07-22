@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T15:00:43.642597+00:00",
+  "updated_at": "2026-07-22T15:37:19.822599+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #118 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DE DECISÃO NA SUL-AMERICANA",
+      "videoId": "DYoYqVLVe_c",
+      "url": "https://www.youtube.com/watch?v=DYoYqVLVe_c",
+      "thumbnail": "https://i.ytimg.com/vi/DYoYqVLVe_c/mqdefault.jpg",
+      "published": "2026-07-22T15:18:05Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO NA BOLÍVIA | RELACIONADOS PARA JOGO DA SUL-AMERICANA | IMORTAL FC",
       "videoId": "lI4mOEWuEuM",
       "url": "https://www.youtube.com/watch?v=lI4mOEWuEuM",
       "thumbnail": "https://i.ytimg.com/vi/lI4mOEWuEuM/mqdefault_live.jpg",
       "published": "2026-07-22T14:53:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #118 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DE DECISÃO NA SUL-AMERICANA",
-      "videoId": "DYoYqVLVe_c",
-      "url": "https://www.youtube.com/watch?v=DYoYqVLVe_c",
-      "thumbnail": "https://i.ytimg.com/vi/DYoYqVLVe_c/mqdefault_live.jpg",
-      "published": "2026-07-22T14:06:33Z"
     }
   ]
 }
