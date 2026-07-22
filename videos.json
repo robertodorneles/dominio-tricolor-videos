@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-22T20:00:39.134798+00:00",
+  "updated_at": "2026-07-22T21:00:41.804684+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: GABRIEL MEC E A DESCONFIANÇA DA DIREÇÃO | UMA SAÍDA ARQUITETADA? | LIQUIDAÇÃO DO MEIA",
+      "videoId": "x0ddfGqc1Vo",
+      "url": "https://www.youtube.com/watch?v=x0ddfGqc1Vo",
+      "thumbnail": "https://i.ytimg.com/vi/x0ddfGqc1Vo/mqdefault.jpg",
+      "published": "2026-07-22T20:30:17Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: ARCE TRAVA! | Calebe Chega | Mistério no Ataque",
@@ -11,28 +19,20 @@
       "published": "2026-07-22T06:00:35Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Mercado muda de rumo | Dois novos alvos | Igor Gomes descartado",
-      "videoId": "MOCUYEqbpvM",
-      "url": "https://www.youtube.com/watch?v=MOCUYEqbpvM",
-      "thumbnail": "https://i.ytimg.com/vi/MOCUYEqbpvM/mqdefault.jpg",
-      "published": "2026-07-22T05:00:18Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO VAI CONTRATAR IGOR GOMES? | AO VIVO DE LA PAZ🔹 THE TARDE 🔹#188",
       "videoId": "l_xS8aqcf5E",
       "url": "https://www.youtube.com/watch?v=l_xS8aqcf5E",
-      "thumbnail": "https://i.ytimg.com/vi/l_xS8aqcf5E/mqdefault_live.jpg",
-      "published": "2026-07-22T19:47:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/l_xS8aqcf5E/mqdefault.jpg",
+      "published": "2026-07-22T20:41:38Z"
     },
     {
       "channel": "Bage TV",
-      "title": "IGOR GOMES SEDUZIDO PELO GRÊMIO E ALERRANDRO VIRA DONO DO ATAQUE COLORADO🔸RESENHA FORA DA SALA🔸#091",
-      "videoId": "ugdbD2sS9Zg",
-      "url": "https://www.youtube.com/watch?v=ugdbD2sS9Zg",
-      "thumbnail": "https://i.ytimg.com/vi/ugdbD2sS9Zg/mqdefault.jpg",
-      "published": "2026-07-22T18:30:22Z"
+      "title": "📰BAGÉTV NEWS #003",
+      "videoId": "PkggSGoBw0k",
+      "url": "https://www.youtube.com/watch?v=PkggSGoBw0k",
+      "thumbnail": "https://i.ytimg.com/vi/PkggSGoBw0k/mqdefault_live.jpg",
+      "published": "2026-07-22T20:30:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "EU NÃO CRIO CRISE NA DUPLA GRENAL #dudagarbi #umassadopara #assado",
+      "videoId": "GRRftCeDdus",
+      "url": "https://www.youtube.com/watch?v=GRRftCeDdus",
+      "thumbnail": "https://i.ytimg.com/vi/GRRftCeDdus/mqdefault.jpg",
+      "published": "2026-07-22T21:00:13Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DEBATE RAIZ X GAÚCHA - ZÉ ALBERTO FALA DA BRIGA PELA AUDIÊNCIA ESPORTIVA | Cortes do Duda",
       "videoId": "owi2xhrZJHo",
       "url": "https://www.youtube.com/watch?v=owi2xhrZJHo",
       "thumbnail": "https://i.ytimg.com/vi/owi2xhrZJHo/mqdefault.jpg",
       "published": "2026-07-21T22:30:07Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "SERÁ QUE TEM LUGAR PARA ZÉ ALBERTO ANDRADE NO SALA DE REDAÇÃO? | Cortes do Duda",
-      "videoId": "wG3MPk2iEwc",
-      "url": "https://www.youtube.com/watch?v=wG3MPk2iEwc",
-      "thumbnail": "https://i.ytimg.com/vi/wG3MPk2iEwc/mqdefault.jpg",
-      "published": "2026-07-21T22:00:37Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Tarifaço dos EUA entra em vigor: o que muda para a economia do RS | Conversas Cruzadas | 22/07/2026",
+      "videoId": "feBqxagilmw",
+      "url": "https://www.youtube.com/watch?v=feBqxagilmw",
+      "thumbnail": "https://i.ytimg.com/vi/feBqxagilmw/mqdefault_live.jpg",
+      "published": "2026-07-22T20:45:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Marcas tradicionais estão em risco? Ex-Danone fala sobre inovação e resultados | Liderança em Sala",
       "videoId": "mk04_3Tzw1w",
       "url": "https://www.youtube.com/watch?v=mk04_3Tzw1w",
       "thumbnail": "https://i.ytimg.com/vi/mk04_3Tzw1w/mqdefault.jpg",
       "published": "2026-07-22T20:00:30Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Impactos da chuva no RS, previsão do tempo, nível dos rios e mais | Gaúcha+ | 22/07/2026",
-      "videoId": "iyw2zA3RVZk",
-      "url": "https://www.youtube.com/watch?v=iyw2zA3RVZk",
-      "thumbnail": "https://i.ytimg.com/vi/iyw2zA3RVZk/mqdefault_live.jpg",
-      "published": "2026-07-22T19:34:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "22/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "AYgQQu6FtKE",
       "url": "https://www.youtube.com/watch?v=AYgQQu6FtKE",
       "thumbnail": "https://i.ytimg.com/vi/AYgQQu6FtKE/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO TERÁ TRIO DE VOLANTES CONTRA O BOLÍVAR | DÚVIDAS NA DEFESA E NO ATAQUE | ESPLANADA",
-      "videoId": "rgDn_AUpMGk",
-      "url": "https://www.youtube.com/watch?v=rgDn_AUpMGk",
-      "thumbnail": "https://i.ytimg.com/vi/rgDn_AUpMGk/mqdefault.jpg",
-      "published": "2026-07-22T19:49:52Z"
+      "title": "AO VIVO | CHEGADA DO GRÊMIO NA BOLÍVIA | RELACIONADOS PARA JOGO DA SUL-AMERICANA | IMORTAL FC",
+      "videoId": "lI4mOEWuEuM",
+      "url": "https://www.youtube.com/watch?v=lI4mOEWuEuM",
+      "thumbnail": "https://i.ytimg.com/vi/lI4mOEWuEuM/mqdefault_live.jpg",
+      "published": "2026-07-22T20:47:13Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #118 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DE DECISÃO NA SUL-AMERICANA",
-      "videoId": "DYoYqVLVe_c",
-      "url": "https://www.youtube.com/watch?v=DYoYqVLVe_c",
-      "thumbnail": "https://i.ytimg.com/vi/DYoYqVLVe_c/mqdefault.jpg",
-      "published": "2026-07-22T15:18:05Z"
+      "title": "GRÊMIO COMEÇA A DECIDIR A CLASSIFICAÇÃO AMANHÃ  | PROVÁVEL ESCALAÇÃO | NOITES DE GRÊMIO #113 - 22/07",
+      "videoId": "cd9wQUbgCNA",
+      "url": "https://www.youtube.com/watch?v=cd9wQUbgCNA",
+      "thumbnail": "https://i.ytimg.com/vi/cd9wQUbgCNA/mqdefault_live.jpg",
+      "published": "2026-07-22T20:02:04Z"
     }
   ]
 }
