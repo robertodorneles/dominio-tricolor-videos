@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T23:53:34.857739+00:00",
+  "updated_at": "2026-07-22T00:00:32.162976+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO NÃO CONSEGUE CUMPRIR PRAZO PARA ANUNCIAR REFORÇOS | AS DÚVIDAS PARA A SULA | REDAÇÃO IMORTAL",
+      "videoId": "2_cHwEyDCFM",
+      "url": "https://www.youtube.com/watch?v=2_cHwEyDCFM",
+      "thumbnail": "https://i.ytimg.com/vi/2_cHwEyDCFM/mqdefault_live.jpg",
+      "published": "2026-07-21T23:53:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COMO ANDAM AS NEGOCIAÇÕES DO GRÊMIO | PROMOÇÃO DE INGRESSO PARA DOMINGO | | IMORTAL FC",
       "videoId": "sUVcF9gRpeg",
       "url": "https://www.youtube.com/watch?v=sUVcF9gRpeg",
       "thumbnail": "https://i.ytimg.com/vi/sUVcF9gRpeg/mqdefault.jpg",
       "published": "2026-07-21T22:16:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VALENTINI NÃO VEM PARA O GRÊMIO | PREPARAÇÃO PARA JOGO DA SULA | NOITES DE GRÊMIO #112 - 21/07",
-      "videoId": "xoYRk_Ncd6c",
-      "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
-      "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault_live.jpg",
-      "published": "2026-07-21T21:03:09Z"
     }
   ]
 }
