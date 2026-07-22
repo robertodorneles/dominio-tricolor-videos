@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T18:00:42.245301+00:00",
+  "updated_at": "2026-07-22T19:00:46.110979+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X FLUMINENSE",
-      "videoId": "NJc8PgsBGeY",
-      "url": "https://www.youtube.com/watch?v=NJc8PgsBGeY",
-      "thumbnail": "https://i.ytimg.com/vi/NJc8PgsBGeY/mqdefault_live.jpg",
-      "published": "2026-07-22T17:54:11Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "IGOR GOMES SEDUZIDO PELO GRÊMIO E ALERRANDRO VIRA DONO DO ATAQUE COLORADO🔸RESENHA FORA DA SALA🔸#091",
       "videoId": "ugdbD2sS9Zg",
       "url": "https://www.youtube.com/watch?v=ugdbD2sS9Zg",
-      "thumbnail": "https://i.ytimg.com/vi/ugdbD2sS9Zg/mqdefault_live.jpg",
-      "published": "2026-07-22T16:29:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/ugdbD2sS9Zg/mqdefault.jpg",
+      "published": "2026-07-22T18:30:22Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "GRÊMIO VAI CONTRATAR IGOR GOMES? | AO VIVO DE LA PAZ🔹 THE TARDE 🔹#188",
+      "videoId": "l_xS8aqcf5E",
+      "url": "https://www.youtube.com/watch?v=l_xS8aqcf5E",
+      "thumbnail": "https://i.ytimg.com/vi/l_xS8aqcf5E/mqdefault_live.jpg",
+      "published": "2026-07-22T18:29:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "CASA É ARRASTADA POR RIO EM BENTO GONÇALVES",
-      "videoId": "zJhxyOv8tTs",
-      "url": "https://www.youtube.com/watch?v=zJhxyOv8tTs",
-      "thumbnail": "https://i.ytimg.com/vi/zJhxyOv8tTs/mqdefault.jpg",
-      "published": "2026-07-22T17:26:05Z"
+      "title": "Tarifaço dos EUA entra em vigor: o que muda para a economia do RS | Conversas Cruzadas | 22/07/2026",
+      "videoId": "feBqxagilmw",
+      "url": "https://www.youtube.com/watch?v=feBqxagilmw",
+      "thumbnail": "https://i.ytimg.com/vi/feBqxagilmw/mqdefault_live.jpg",
+      "published": "2026-07-22T18:31:59Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "iyw2zA3RVZk",
       "url": "https://www.youtube.com/watch?v=iyw2zA3RVZk",
       "thumbnail": "https://i.ytimg.com/vi/iyw2zA3RVZk/mqdefault_live.jpg",
-      "published": "2026-07-22T16:28:15Z"
+      "published": "2026-07-22T18:03:57Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "22/07/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "AYgQQu6FtKE",
       "url": "https://www.youtube.com/watch?v=AYgQQu6FtKE",
       "thumbnail": "https://i.ytimg.com/vi/AYgQQu6FtKE/mqdefault_live.jpg",
       "published": "2026-07-22T11:08:25Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO TERÁ TRIO DE VOLANTES CONTRA O BOLÍVAR | DÚVIDAS NA DEFESA E NO ATAQUE | ESPLANADA",
+      "videoId": "rgDn_AUpMGk",
+      "url": "https://www.youtube.com/watch?v=rgDn_AUpMGk",
+      "thumbnail": "https://i.ytimg.com/vi/rgDn_AUpMGk/mqdefault_live.jpg",
+      "published": "2026-07-22T18:34:41Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=DYoYqVLVe_c",
       "thumbnail": "https://i.ytimg.com/vi/DYoYqVLVe_c/mqdefault.jpg",
       "published": "2026-07-22T15:18:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO NA BOLÍVIA | RELACIONADOS PARA JOGO DA SUL-AMERICANA | IMORTAL FC",
-      "videoId": "lI4mOEWuEuM",
-      "url": "https://www.youtube.com/watch?v=lI4mOEWuEuM",
-      "thumbnail": "https://i.ytimg.com/vi/lI4mOEWuEuM/mqdefault_live.jpg",
-      "published": "2026-07-22T14:53:04Z"
     }
   ]
 }
