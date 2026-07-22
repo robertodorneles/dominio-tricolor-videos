@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T02:00:36.969952+00:00",
+  "updated_at": "2026-07-22T02:52:19.404380+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla:  PRÉ JOGO INTER X CRUZEIRO | GRÊMIO SE PREPARA PARA A ALTITUDE",
       "videoId": "Pgj1LfEaOLE",
       "url": "https://www.youtube.com/watch?v=Pgj1LfEaOLE",
-      "thumbnail": "https://i.ytimg.com/vi/Pgj1LfEaOLE/mqdefault_live.jpg",
-      "published": "2026-07-22T01:35:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/Pgj1LfEaOLE/mqdefault.jpg",
+      "published": "2026-07-22T02:47:21Z"
     },
     {
       "channel": "A Dupla",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VALENTINI NÃO VEM PARA O GRÊMIO | PREPARAÇÃO PARA JOGO DA SULA | NOITES DE GRÊMIO #112 - 21/07",
+      "videoId": "xoYRk_Ncd6c",
+      "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
+      "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault.jpg",
+      "published": "2026-07-22T02:38:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #118 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DE DECISÃO NA SUL-AMERICANA",
       "videoId": "DYoYqVLVe_c",
       "url": "https://www.youtube.com/watch?v=DYoYqVLVe_c",
       "thumbnail": "https://i.ytimg.com/vi/DYoYqVLVe_c/mqdefault_live.jpg",
       "published": "2026-07-22T00:18:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VALENTINI NÃO VEM PARA O GRÊMIO | PREPARAÇÃO PARA JOGO DA SULA | NOITES DE GRÊMIO #112 - 21/07",
-      "videoId": "xoYRk_Ncd6c",
-      "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
-      "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault_live.jpg",
-      "published": "2026-07-22T00:01:43Z"
     }
   ]
 }
