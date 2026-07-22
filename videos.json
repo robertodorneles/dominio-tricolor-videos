@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T11:00:41.833108+00:00",
+  "updated_at": "2026-07-22T11:05:43.575711+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "22/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "AYgQQu6FtKE",
+      "url": "https://www.youtube.com/watch?v=AYgQQu6FtKE",
+      "thumbnail": "https://i.ytimg.com/vi/AYgQQu6FtKE/mqdefault_live.jpg",
+      "published": "2026-07-22T11:03:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "21/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "8aXJpDsEREA",
       "url": "https://www.youtube.com/watch?v=8aXJpDsEREA",
@@ -219,12 +227,12 @@
       "published": "2026-07-21T23:30:07Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM ANDRÉ DALTO - VICE DE ADMINISTRAÇÃO DO INTER | 21/07/26",
-      "videoId": "IBoseDcHegw",
-      "url": "https://www.youtube.com/watch?v=IBoseDcHegw",
-      "thumbnail": "https://i.ytimg.com/vi/IBoseDcHegw/mqdefault.jpg",
-      "published": "2026-07-21T11:56:29Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO NÃO CONSEGUE CUMPRIR PRAZO PARA ANUNCIAR REFORÇOS | AS DÚVIDAS PARA A SULA | REDAÇÃO IMORTAL",
+      "videoId": "2_cHwEyDCFM",
+      "url": "https://www.youtube.com/watch?v=2_cHwEyDCFM",
+      "thumbnail": "https://i.ytimg.com/vi/2_cHwEyDCFM/mqdefault_live.jpg",
+      "published": "2026-07-22T11:01:23Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=NRK-jhIZcKo",
       "thumbnail": "https://i.ytimg.com/vi/NRK-jhIZcKo/mqdefault.jpg",
       "published": "2026-07-22T11:00:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VALENTINI NÃO VEM PARA O GRÊMIO | PREPARAÇÃO PARA JOGO DA SULA | NOITES DE GRÊMIO #112 - 21/07",
-      "videoId": "xoYRk_Ncd6c",
-      "url": "https://www.youtube.com/watch?v=xoYRk_Ncd6c",
-      "thumbnail": "https://i.ytimg.com/vi/xoYRk_Ncd6c/mqdefault.jpg",
-      "published": "2026-07-22T02:38:51Z"
     }
   ]
 }
