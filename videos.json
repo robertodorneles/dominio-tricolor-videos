@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:00:32.057435+00:00",
+  "updated_at": "2026-07-23T00:00:40.229349+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵LIVE ESPECIAL DIRETO DE LA PAZ-BOLÍVIA🔵",
+      "videoId": "I6qmbIEe6yo",
+      "url": "https://www.youtube.com/watch?v=I6qmbIEe6yo",
+      "thumbnail": "https://i.ytimg.com/vi/I6qmbIEe6yo/mqdefault_live.jpg",
+      "published": "2026-07-22T23:08:05Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO QUER VOLTAR VIVO DA BOLÍVIA/ INTERNACIONAL TENTA GANHAR GORDURA DO Z4📰BAGÉTV NEWS #003",
       "videoId": "PkggSGoBw0k",
       "url": "https://www.youtube.com/watch?v=PkggSGoBw0k",
@@ -27,12 +35,12 @@
       "published": "2026-07-22T22:22:29Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VAI CONTRATAR IGOR GOMES? | AO VIVO DE LA PAZ🔹 THE TARDE 🔹#188",
-      "videoId": "l_xS8aqcf5E",
-      "url": "https://www.youtube.com/watch?v=l_xS8aqcf5E",
-      "thumbnail": "https://i.ytimg.com/vi/l_xS8aqcf5E/mqdefault.jpg",
-      "published": "2026-07-22T20:41:38Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATRITO MUITO GRAVE NOS BASTIDORES DO GRÊMIO | NOVO RONALDINHO? | RENATO VETADO | O JOGO DA SULA!",
+      "videoId": "GCEC0681RC4",
+      "url": "https://www.youtube.com/watch?v=GCEC0681RC4",
+      "thumbnail": "https://i.ytimg.com/vi/GCEC0681RC4/mqdefault.jpg",
+      "published": "2026-07-22T23:17:23Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=lKyPinYSijo",
       "thumbnail": "https://i.ytimg.com/vi/lKyPinYSijo/mqdefault.jpg",
       "published": "2026-07-22T14:56:13Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS DOIS REFORÇOS NO RADAR | UM REFORÇO DA CASA | NOVIDADE E AUSÊNCIAS NO GRÊMIO PRO JOGO!",
-      "videoId": "JQSZKn3ecZQ",
-      "url": "https://www.youtube.com/watch?v=JQSZKn3ecZQ",
-      "thumbnail": "https://i.ytimg.com/vi/JQSZKn3ecZQ/mqdefault.jpg",
-      "published": "2026-07-21T23:42:19Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Novo TARIFAÇO dos EUA ameaça a economia gaúcha?",
+      "videoId": "FVyKIDT5HKE",
+      "url": "https://www.youtube.com/watch?v=FVyKIDT5HKE",
+      "thumbnail": "https://i.ytimg.com/vi/FVyKIDT5HKE/mqdefault.jpg",
+      "published": "2026-07-22T23:30:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Tarifaço dos EUA: quem será mais afetado no RS? | Conversas Cruzadas",
       "videoId": "v1x4yVQkjug",
       "url": "https://www.youtube.com/watch?v=v1x4yVQkjug",
@@ -171,12 +179,12 @@
       "published": "2026-07-22T22:28:18Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Flávio Bolsonaro QUESTIONA sistema ELEITORAL brasileiro",
-      "videoId": "QkfIZDhrr2I",
-      "url": "https://www.youtube.com/watch?v=QkfIZDhrr2I",
-      "thumbnail": "https://i.ytimg.com/vi/QkfIZDhrr2I/mqdefault.jpg",
-      "published": "2026-07-22T22:04:38Z"
+      "channel": "Jeremias Wernek",
+      "title": "RENOVAÇÃO DE CARLOS VINICIUS: confusão com contrato, salário, futuro",
+      "videoId": "NNukIyvB89E",
+      "url": "https://www.youtube.com/watch?v=NNukIyvB89E",
+      "thumbnail": "https://i.ytimg.com/vi/NNukIyvB89E/mqdefault.jpg",
+      "published": "2026-07-22T23:45:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=y8NmPBqe3NI",
       "thumbnail": "https://i.ytimg.com/vi/y8NmPBqe3NI/mqdefault.jpg",
       "published": "2026-07-21T03:15:14Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NOS REFORÇOS DO GRÊMIO + Luís Castro fora do jogo e a confusão com nome de zagueiro",
-      "videoId": "JXItXXqxkw0",
-      "url": "https://www.youtube.com/watch?v=JXItXXqxkw0",
-      "thumbnail": "https://i.ytimg.com/vi/JXItXXqxkw0/mqdefault.jpg",
-      "published": "2026-07-20T23:14:50Z"
     },
     {
       "channel": "LH Benfica",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | ESQUENTANDO O JOGO | INTER X CRUZEIRO | BRASILEIRÃO",
+      "title": "22/07/2026 | JORNADA ESPORTIVA | INTER X CRUZEIRO | BRASILEIRÃO",
       "videoId": "QvKSPWLYASI",
       "url": "https://www.youtube.com/watch?v=QvKSPWLYASI",
       "thumbnail": "https://i.ytimg.com/vi/QvKSPWLYASI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO NA BOLÍVIA | RELACIONADOS PARA JOGO DA SUL-AMERICANA | IMORTAL FC",
-      "videoId": "lI4mOEWuEuM",
-      "url": "https://www.youtube.com/watch?v=lI4mOEWuEuM",
-      "thumbnail": "https://i.ytimg.com/vi/lI4mOEWuEuM/mqdefault.jpg",
-      "published": "2026-07-22T22:52:36Z"
+      "title": "TIMELINE IMORTAL #119 — O PROVÁVEL TIME DO GRÊMIO PARA ENCARAR O BOLÍVAR E A ALTITUDE DE LA PAZ",
+      "videoId": "N2oXW_arLNg",
+      "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
+      "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault_live.jpg",
+      "published": "2026-07-22T23:32:19Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO COMEÇA A DECIDIR A CLASSIFICAÇÃO AMANHÃ  | PROVÁVEL ESCALAÇÃO | NOITES DE GRÊMIO #113 - 22/07",
-      "videoId": "cd9wQUbgCNA",
-      "url": "https://www.youtube.com/watch?v=cd9wQUbgCNA",
-      "thumbnail": "https://i.ytimg.com/vi/cd9wQUbgCNA/mqdefault_live.jpg",
-      "published": "2026-07-22T20:02:04Z"
+      "title": "É DIA DE GRÊMIO! TUDO SOBRE O JOGO CONTRA O BOLÍVAR | COMO É BOM SER DO GRÊMIO #04",
+      "videoId": "xRIGEdc8rwg",
+      "url": "https://www.youtube.com/watch?v=xRIGEdc8rwg",
+      "thumbnail": "https://i.ytimg.com/vi/xRIGEdc8rwg/mqdefault_live.jpg",
+      "published": "2026-07-22T23:29:48Z"
     }
   ]
 }
