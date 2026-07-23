@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-23T19:09:36.440707+00:00",
+  "updated_at": "2026-07-23T20:00:33.955089+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: TUDO VAI MUDAR | IMPACTO NAS ELEIÇÕES | A REAL SITUAÇÃO",
+      "videoId": "OkpsTpebCm4",
+      "url": "https://www.youtube.com/watch?v=OkpsTpebCm4",
+      "thumbnail": "https://i.ytimg.com/vi/OkpsTpebCm4/mqdefault.jpg",
+      "published": "2026-07-23T19:52:43Z"
+    },
     {
       "channel": "A Dupla",
       "title": "😠 A displicência do Carbonero x A seriedade de Alerrandro kkkk",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=rMeXHEjuLOI",
       "thumbnail": "https://i.ytimg.com/vi/rMeXHEjuLOI/mqdefault.jpg",
       "published": "2026-07-23T15:12:44Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Erro com Carlos Vinícius | Time definido | Mudanças na Bolívia",
-      "videoId": "kEdRYPaldSk",
-      "url": "https://www.youtube.com/watch?v=kEdRYPaldSk",
-      "thumbnail": "https://i.ytimg.com/vi/kEdRYPaldSk/mqdefault.jpg",
-      "published": "2026-07-23T07:00:18Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Rios acima da cota de inundação, áreas em alerta, previsão do tempo e mais | Gaúcha+ | 23/07/2026",
+      "videoId": "SQbVXKV1iY4",
+      "url": "https://www.youtube.com/watch?v=SQbVXKV1iY4",
+      "thumbnail": "https://i.ytimg.com/vi/SQbVXKV1iY4/mqdefault_live.jpg",
+      "published": "2026-07-23T19:33:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Indústria do RS aposta em biometano como fonte de energia renovável | Radar de Inovação",
       "videoId": "ngXlrwn8ZT4",
       "url": "https://www.youtube.com/watch?v=ngXlrwn8ZT4",
       "thumbnail": "https://i.ytimg.com/vi/ngXlrwn8ZT4/mqdefault.jpg",
       "published": "2026-07-23T18:47:28Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Rios acima da cota de inundação, áreas em alerta, previsão do tempo e mais | Gaúcha+ | 23/07/2026",
-      "videoId": "SQbVXKV1iY4",
-      "url": "https://www.youtube.com/watch?v=SQbVXKV1iY4",
-      "thumbnail": "https://i.ytimg.com/vi/SQbVXKV1iY4/mqdefault_live.jpg",
-      "published": "2026-07-23T18:03:57Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨REFORÇO BEM RECOMENDADO PRO GRÊMIO | CONTRATAÇÃO CONFIRMADA | REVELADO O MISTÉRIO DE GABRIEL MEC",
+      "videoId": "mRIjQ7Skw8c",
+      "url": "https://www.youtube.com/watch?v=mRIjQ7Skw8c",
+      "thumbnail": "https://i.ytimg.com/vi/mRIjQ7Skw8c/mqdefault.jpg",
+      "published": "2026-07-23T19:58:40Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨NOVIDADE PRA ZAGA DO GRÊMIO | VALENTINI, MANDACA E O MEIA | TÉCNICO TOMA DECISÃO FORTE",
       "videoId": "oWEjBIU3mQ4",
       "url": "https://www.youtube.com/watch?v=oWEjBIU3mQ4",
@@ -203,28 +211,20 @@
       "published": "2026-07-22T21:17:59Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO: FUTURO DEFINIDO DE GABRIEL MEC!? | FOCO NA SULAMERICANA | TORCIDA CONTRARIADA",
-      "videoId": "xiqPF0rQuYs",
-      "url": "https://www.youtube.com/watch?v=xiqPF0rQuYs",
-      "thumbnail": "https://i.ytimg.com/vi/xiqPF0rQuYs/mqdefault.jpg",
-      "published": "2026-07-21T21:50:41Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "23/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "UjmLApm88Ts",
-      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
-      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
-      "published": "2026-07-23T19:01:45Z"
-    },
-    {
       "channel": "Radio Grenal",
       "title": "23/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
-      "thumbnail": "https://i.ytimg.com/vi/ORUXfwDTG-o/mqdefault_live.jpg",
-      "published": "2026-07-23T18:59:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/ORUXfwDTG-o/mqdefault.jpg",
+      "published": "2026-07-23T19:20:15Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "23/07/2026 | ESQUENTANDO O JOGO | BOLÍVAR X GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
+      "videoId": "UjmLApm88Ts",
+      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
+      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
+      "published": "2026-07-23T19:01:45Z"
     },
     {
       "channel": "Radio Imortal",
