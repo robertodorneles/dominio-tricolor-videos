@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T14:00:36.559945+00:00",
+  "updated_at": "2026-07-23T15:00:49.502829+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "mP5F59ZUXdQ",
       "url": "https://www.youtube.com/watch?v=mP5F59ZUXdQ",
       "thumbnail": "https://i.ytimg.com/vi/mP5F59ZUXdQ/mqdefault_live.jpg",
-      "published": "2026-07-23T13:40:59Z"
+      "published": "2026-07-23T14:51:22Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO TEM DESAFIO NA ALTITUDE HOJE🔵 FUTEBOL ALEGRIA DO GRÊMIO - 23/07 - #596",
       "videoId": "BZWNPlCvzfQ",
       "url": "https://www.youtube.com/watch?v=BZWNPlCvzfQ",
-      "thumbnail": "https://i.ytimg.com/vi/BZWNPlCvzfQ/mqdefault_live.jpg",
-      "published": "2026-07-23T13:32:48Z"
+      "thumbnail": "https://i.ytimg.com/vi/BZWNPlCvzfQ/mqdefault.jpg",
+      "published": "2026-07-23T14:19:32Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨REVIRAVOLTA! ÓTIMA NOTÍCIA PRO GRÊMIO | SURPRESA NO TIME | NOITE PREOCUPANTE HOJE",
+      "videoId": "mOCBJJX_MSM",
+      "url": "https://www.youtube.com/watch?v=mOCBJJX_MSM",
+      "thumbnail": "https://i.ytimg.com/vi/mOCBJJX_MSM/mqdefault.jpg",
+      "published": "2026-07-23T14:55:49Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=GCEC0681RC4",
       "thumbnail": "https://i.ytimg.com/vi/GCEC0681RC4/mqdefault.jpg",
       "published": "2026-07-22T23:17:23Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVIDADE SOBRE DOIS MEIAS | RONALDINHO NA ARENA? | EX GRÊMIO SOLTA O VERBO!",
-      "videoId": "lKyPinYSijo",
-      "url": "https://www.youtube.com/watch?v=lKyPinYSijo",
-      "thumbnail": "https://i.ytimg.com/vi/lKyPinYSijo/mqdefault.jpg",
-      "published": "2026-07-22T14:56:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Casa é arrastada pelo Rio das Antas, últimas da política e mais | Timeline | 23/07/26",
+      "videoId": "qZaioduMnh0",
+      "url": "https://www.youtube.com/watch?v=qZaioduMnh0",
+      "thumbnail": "https://i.ytimg.com/vi/qZaioduMnh0/mqdefault.jpg",
+      "published": "2026-07-23T14:21:01Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Como marcas devem trabalhar com influenciadores? Ex-Danone revela estratégia | Liderança em Sala",
       "videoId": "YMgjcbLe8nk",
       "url": "https://www.youtube.com/watch?v=YMgjcbLe8nk",
       "thumbnail": "https://i.ytimg.com/vi/YMgjcbLe8nk/mqdefault.jpg",
       "published": "2026-07-23T14:00:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Casa é arrastada pelo Rio das Antas, últimas da política e mais | Timeline | 23/07/26",
-      "videoId": "qZaioduMnh0",
-      "url": "https://www.youtube.com/watch?v=qZaioduMnh0",
-      "thumbnail": "https://i.ytimg.com/vi/qZaioduMnh0/mqdefault_live.jpg",
-      "published": "2026-07-23T13:55:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "23/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "23/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
       "thumbnail": "https://i.ytimg.com/vi/ORUXfwDTG-o/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NA COPA SUL-AMERICANA! | RELACIONADOS E QUEM FICOU DE FORA | REDAÇÃO IMORTAL",
-      "videoId": "S4nYNIC8pVg",
-      "url": "https://www.youtube.com/watch?v=S4nYNIC8pVg",
-      "thumbnail": "https://i.ytimg.com/vi/S4nYNIC8pVg/mqdefault.jpg",
-      "published": "2026-07-23T12:41:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O JOGO CONTRA O BOLÍVAR | COMO É BOM SER DO GRÊMIO #04",
       "videoId": "xRIGEdc8rwg",
       "url": "https://www.youtube.com/watch?v=xRIGEdc8rwg",
-      "thumbnail": "https://i.ytimg.com/vi/xRIGEdc8rwg/mqdefault_live.jpg",
-      "published": "2026-07-23T12:31:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/xRIGEdc8rwg/mqdefault.jpg",
+      "published": "2026-07-23T14:29:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #119 — CARLOS VINÍCIUS QUER FICAR! | O PROVÁVEL GRÊMIO PARA ENCARAR O BOLÍVAR",
+      "videoId": "N2oXW_arLNg",
+      "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
+      "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault_live.jpg",
+      "published": "2026-07-23T14:14:15Z"
     }
   ]
 }
