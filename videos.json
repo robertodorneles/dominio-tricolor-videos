@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:00:45.876476+00:00",
+  "updated_at": "2026-07-23T11:06:32.295758+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
       "thumbnail": "https://i.ytimg.com/vi/ORUXfwDTG-o/mqdefault_live.jpg",
-      "published": "2026-07-23T10:55:57Z"
+      "published": "2026-07-23T11:05:57Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NA COPA SUL-AMERICANA! | RELACIONADOS E QUEM FICOU DE FORA | REDAÇÃO IMORTAL",
+      "videoId": "S4nYNIC8pVg",
+      "url": "https://www.youtube.com/watch?v=S4nYNIC8pVg",
+      "thumbnail": "https://i.ytimg.com/vi/S4nYNIC8pVg/mqdefault_live.jpg",
+      "published": "2026-07-23T11:01:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 23/07 - inter 1x3 GRÊMIO (1975)",
       "videoId": "SvtfJOsW3JA",
       "url": "https://www.youtube.com/watch?v=SvtfJOsW3JA",
       "thumbnail": "https://i.ytimg.com/vi/SvtfJOsW3JA/mqdefault.jpg",
       "published": "2026-07-23T11:00:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO COMEÇA A DECIDIR A CLASSIFICAÇÃO AMANHÃ  | PROVÁVEL ESCALAÇÃO | NOITES DE GRÊMIO #113 - 22/07",
-      "videoId": "cd9wQUbgCNA",
-      "url": "https://www.youtube.com/watch?v=cd9wQUbgCNA",
-      "thumbnail": "https://i.ytimg.com/vi/cd9wQUbgCNA/mqdefault.jpg",
-      "published": "2026-07-23T02:38:23Z"
     }
   ]
 }
