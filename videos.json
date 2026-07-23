@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:00:39.883733+00:00",
+  "updated_at": "2026-07-23T19:09:36.440707+00:00",
   "total": 30,
   "videos": [
     {
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "23/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "UjmLApm88Ts",
+      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
+      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
+      "published": "2026-07-23T19:01:45Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "23/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
       "thumbnail": "https://i.ytimg.com/vi/ORUXfwDTG-o/mqdefault_live.jpg",
       "published": "2026-07-23T18:59:53Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM OSVALDO - EX-JOGADOR DO GRÊMIO | RÁDIO GRENAL | 23/07/2026",
-      "videoId": "dtoa1kc1K2E",
-      "url": "https://www.youtube.com/watch?v=dtoa1kc1K2E",
-      "thumbnail": "https://i.ytimg.com/vi/dtoa1kc1K2E/mqdefault.jpg",
-      "published": "2026-07-23T15:37:28Z"
     },
     {
       "channel": "Radio Imortal",
