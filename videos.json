@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T00:03:20.287808+00:00",
+  "updated_at": "2026-07-23T01:00:41.919551+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵LIVE ESPECIAL DIRETO DE LA PAZ-BOLÍVIA🔵",
       "videoId": "I6qmbIEe6yo",
       "url": "https://www.youtube.com/watch?v=I6qmbIEe6yo",
-      "thumbnail": "https://i.ytimg.com/vi/I6qmbIEe6yo/mqdefault_live.jpg",
-      "published": "2026-07-22T23:08:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/I6qmbIEe6yo/mqdefault.jpg",
+      "published": "2026-07-23T00:34:03Z"
     },
     {
       "channel": "Bage TV",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | JORNADA ESPORTIVA | INTER X CRUZEIRO | BRASILEIRÃO",
+      "title": "22/07/2026 | JORNADA ESPORTIVA | INTER 0 X 1 CRUZEIRO | BRASILEIRÃO",
       "videoId": "QvKSPWLYASI",
       "url": "https://www.youtube.com/watch?v=QvKSPWLYASI",
       "thumbnail": "https://i.ytimg.com/vi/QvKSPWLYASI/mqdefault_live.jpg",
       "published": "2026-07-22T22:01:45Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO COMEÇA A DECIDIR A CLASSIFICAÇÃO AMANHÃ  | PROVÁVEL ESCALAÇÃO | NOITES DE GRÊMIO #113 - 22/07",
+      "videoId": "cd9wQUbgCNA",
+      "url": "https://www.youtube.com/watch?v=cd9wQUbgCNA",
+      "thumbnail": "https://i.ytimg.com/vi/cd9wQUbgCNA/mqdefault_live.jpg",
+      "published": "2026-07-23T00:03:52Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
       "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault_live.jpg",
       "published": "2026-07-22T23:32:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! TUDO SOBRE O JOGO CONTRA O BOLÍVAR | COMO É BOM SER DO GRÊMIO #04",
-      "videoId": "xRIGEdc8rwg",
-      "url": "https://www.youtube.com/watch?v=xRIGEdc8rwg",
-      "thumbnail": "https://i.ytimg.com/vi/xRIGEdc8rwg/mqdefault_live.jpg",
-      "published": "2026-07-22T23:29:48Z"
     }
   ]
 }
