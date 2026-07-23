@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-23T15:00:49.502829+00:00",
+  "updated_at": "2026-07-23T15:52:50.456250+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "😠 A displicência do Carbonero x A seriedade de Alerrandro kkkk",
+      "videoId": "rMeXHEjuLOI",
+      "url": "https://www.youtube.com/watch?v=rMeXHEjuLOI",
+      "thumbnail": "https://i.ytimg.com/vi/rMeXHEjuLOI/mqdefault.jpg",
+      "published": "2026-07-23T15:12:44Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: Erro com Carlos Vinícius | Time definido | Mudanças na Bolívia",
@@ -11,20 +19,12 @@
       "published": "2026-07-23T07:00:18Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: BATEU O PAVOR | EXPLICOU AS TROCAS | PACIENCIA?",
-      "videoId": "HvRFiwhxxNk",
-      "url": "https://www.youtube.com/watch?v=HvRFiwhxxNk",
-      "thumbnail": "https://i.ytimg.com/vi/HvRFiwhxxNk/mqdefault.jpg",
-      "published": "2026-07-23T06:10:45Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #029",
       "videoId": "mP5F59ZUXdQ",
       "url": "https://www.youtube.com/watch?v=mP5F59ZUXdQ",
-      "thumbnail": "https://i.ytimg.com/vi/mP5F59ZUXdQ/mqdefault_live.jpg",
-      "published": "2026-07-23T14:51:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/mP5F59ZUXdQ/mqdefault.jpg",
+      "published": "2026-07-23T15:26:46Z"
     },
     {
       "channel": "Bage TV",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Derrota e risco de Z-4 | O que disse Pezzolano | Expulsão e fratura",
+      "videoId": "ut4lKX4oTfo",
+      "url": "https://www.youtube.com/watch?v=ut4lKX4oTfo",
+      "thumbnail": "https://i.ytimg.com/vi/ut4lKX4oTfo/mqdefault.jpg",
+      "published": "2026-07-23T15:18:18Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Apresentação de Matheus Cunha, novo goleiro do Inter",
       "videoId": "WRuw8drX_ck",
       "url": "https://www.youtube.com/watch?v=WRuw8drX_ck",
       "thumbnail": "https://i.ytimg.com/vi/WRuw8drX_ck/mqdefault.jpg",
       "published": "2026-07-20T23:15:59Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Como foi a apresentação de Matheus Cunha | Novidades no Inter para o jogo contra o Cruzeiro",
-      "videoId": "dcNntcryIUs",
-      "url": "https://www.youtube.com/watch?v=dcNntcryIUs",
-      "thumbnail": "https://i.ytimg.com/vi/dcNntcryIUs/mqdefault.jpg",
-      "published": "2026-07-20T22:00:32Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM OSVALDO - EX-JOGADOR DO GRÊMIO | RÁDIO GRENAL | 23/07/2026",
+      "videoId": "dtoa1kc1K2E",
+      "url": "https://www.youtube.com/watch?v=dtoa1kc1K2E",
+      "thumbnail": "https://i.ytimg.com/vi/dtoa1kc1K2E/mqdefault.jpg",
+      "published": "2026-07-23T15:37:28Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "23/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
@@ -219,12 +227,12 @@
       "published": "2026-07-23T11:05:57Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE INTER 1 X 2 CRUZEIRO - NARRAÇÃO PC CARVALHO | BRASILEIRÃO | 22/07/2026 | RÁDIO GRENAL",
-      "videoId": "SvmxmmJDK0k",
-      "url": "https://www.youtube.com/watch?v=SvmxmmJDK0k",
-      "thumbnail": "https://i.ytimg.com/vi/SvmxmmJDK0k/mqdefault.jpg",
-      "published": "2026-07-23T04:03:31Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #119 — CARLOS VINÍCIUS QUER FICAR! | O PROVÁVEL GRÊMIO PARA ENCARAR O BOLÍVAR",
+      "videoId": "N2oXW_arLNg",
+      "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
+      "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault.jpg",
+      "published": "2026-07-23T15:23:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=xRIGEdc8rwg",
       "thumbnail": "https://i.ytimg.com/vi/xRIGEdc8rwg/mqdefault.jpg",
       "published": "2026-07-23T14:29:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #119 — CARLOS VINÍCIUS QUER FICAR! | O PROVÁVEL GRÊMIO PARA ENCARAR O BOLÍVAR",
-      "videoId": "N2oXW_arLNg",
-      "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
-      "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault_live.jpg",
-      "published": "2026-07-23T14:14:15Z"
     }
   ]
 }
