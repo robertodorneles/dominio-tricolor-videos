@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-23T01:00:41.919551+00:00",
+  "updated_at": "2026-07-23T02:00:45.509936+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  PÓS JOGO INTER  X CRUZEIRO | REPERCUSSÕES DO JOGO",
+      "videoId": "vBEgZX6u3P0",
+      "url": "https://www.youtube.com/watch?v=vBEgZX6u3P0",
+      "thumbnail": "https://i.ytimg.com/vi/vBEgZX6u3P0/mqdefault_live.jpg",
+      "published": "2026-07-23T01:37:15Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: GABRIEL MEC E A DESCONFIANÇA DA DIREÇÃO | UMA SAÍDA ARQUITETADA? | LIQUIDAÇÃO DO MEIA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=x0ddfGqc1Vo",
       "thumbnail": "https://i.ytimg.com/vi/x0ddfGqc1Vo/mqdefault.jpg",
       "published": "2026-07-22T20:30:17Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ARCE TRAVA! | Calebe Chega | Mistério no Ataque",
-      "videoId": "x-QIog6_B1M",
-      "url": "https://www.youtube.com/watch?v=x-QIog6_B1M",
-      "thumbnail": "https://i.ytimg.com/vi/x-QIog6_B1M/mqdefault.jpg",
-      "published": "2026-07-22T06:00:35Z"
     },
     {
       "channel": "Bage TV",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/07/2026 | JORNADA ESPORTIVA | INTER 0 X 1 CRUZEIRO | BRASILEIRÃO",
+      "title": "22/07/2026 | JORNADA ESPORTIVA | INTER 0 X 2 CRUZEIRO | BRASILEIRÃO",
       "videoId": "QvKSPWLYASI",
       "url": "https://www.youtube.com/watch?v=QvKSPWLYASI",
       "thumbnail": "https://i.ytimg.com/vi/QvKSPWLYASI/mqdefault_live.jpg",
