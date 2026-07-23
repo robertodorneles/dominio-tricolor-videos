@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:00:33.955089+00:00",
+  "updated_at": "2026-07-23T20:59:19.467719+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X BOLIVAR | COPA SUL-AMERICANA | REACT AO VIVO DE FARID - 23/07/2026",
+      "videoId": "L6fsKPUHxLI",
+      "url": "https://www.youtube.com/watch?v=L6fsKPUHxLI",
+      "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault_live.jpg",
+      "published": "2026-07-23T20:22:46Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID | NOVO CASO RONALDINHO | 22/07/2026",
       "videoId": "lINfH1a2pic",
       "url": "https://www.youtube.com/watch?v=lINfH1a2pic",
       "thumbnail": "https://i.ytimg.com/vi/lINfH1a2pic/mqdefault.jpg",
       "published": "2026-07-22T23:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X BOLIVAR | COPA SUL-AMERICANA | REACT AO VIVO DE FARID - 23/07/2026",
-      "videoId": "L6fsKPUHxLI",
-      "url": "https://www.youtube.com/watch?v=L6fsKPUHxLI",
-      "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault_live.jpg",
-      "published": "2026-07-22T22:12:25Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,35 +148,35 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "GRÊMIO DESEMBARCA NA BOLÍVIA PARA CONFRONTO PELA SUL-AMERICANA",
-      "videoId": "ZRs2lbP2FE8",
-      "url": "https://www.youtube.com/watch?v=ZRs2lbP2FE8",
-      "thumbnail": "https://i.ytimg.com/vi/ZRs2lbP2FE8/mqdefault.jpg",
-      "published": "2026-07-23T02:41:35Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
       "title": "AO VIVO | BOLIVAR X GRÊMIO (COPA SUL-AMERICANA 2026)",
       "videoId": "K152LZnfYCQ",
       "url": "https://www.youtube.com/watch?v=K152LZnfYCQ",
       "thumbnail": "https://i.ytimg.com/vi/K152LZnfYCQ/mqdefault_live.jpg",
-      "published": "2026-07-22T19:49:43Z"
+      "published": "2026-07-23T20:40:11Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "DE CONTRATO RENOVADO | ENTREVISTA EXCLUSIVA COM MÓNICA RAMOS",
+      "videoId": "dqKFbyjTVQE",
+      "url": "https://www.youtube.com/watch?v=dqKFbyjTVQE",
+      "thumbnail": "https://i.ytimg.com/vi/dqKFbyjTVQE/mqdefault.jpg",
+      "published": "2026-07-23T20:12:32Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Rios acima da cota de inundação, áreas em alerta, previsão do tempo e mais | Gaúcha+ | 23/07/2026",
-      "videoId": "SQbVXKV1iY4",
-      "url": "https://www.youtube.com/watch?v=SQbVXKV1iY4",
-      "thumbnail": "https://i.ytimg.com/vi/SQbVXKV1iY4/mqdefault_live.jpg",
-      "published": "2026-07-23T19:33:23Z"
+      "title": "Chuvas no RS: rios seguem subindo? O que esperar dos próximos dias | Conversas Cruzadas | 23/07/2026",
+      "videoId": "E2LgvIr_efc",
+      "url": "https://www.youtube.com/watch?v=E2LgvIr_efc",
+      "thumbnail": "https://i.ytimg.com/vi/E2LgvIr_efc/mqdefault_live.jpg",
+      "published": "2026-07-23T20:34:21Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Indústria do RS aposta em biometano como fonte de energia renovável | Radar de Inovação",
-      "videoId": "ngXlrwn8ZT4",
-      "url": "https://www.youtube.com/watch?v=ngXlrwn8ZT4",
-      "thumbnail": "https://i.ytimg.com/vi/ngXlrwn8ZT4/mqdefault.jpg",
-      "published": "2026-07-23T18:47:28Z"
+      "title": "Ehr Ray (fundador da BETC Havas) | Liderança em Sala #06",
+      "videoId": "LoXumeCuVfw",
+      "url": "https://www.youtube.com/watch?v=LoXumeCuVfw",
+      "thumbnail": "https://i.ytimg.com/vi/LoXumeCuVfw/mqdefault.jpg",
+      "published": "2026-07-23T20:22:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "23/07/2026 | ESQUENTANDO O JOGO | BOLÍVAR X GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
+      "videoId": "UjmLApm88Ts",
+      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
+      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
+      "published": "2026-07-23T20:02:20Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "23/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ORUXfwDTG-o",
       "url": "https://www.youtube.com/watch?v=ORUXfwDTG-o",
@@ -219,16 +227,8 @@
       "published": "2026-07-23T19:20:15Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "23/07/2026 | ESQUENTANDO O JOGO | BOLÍVAR X GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
-      "videoId": "UjmLApm88Ts",
-      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
-      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
-      "published": "2026-07-23T19:01:45Z"
-    },
-    {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO BOLÍVAR X GRÊMIO | DIRETO DE LA PAZ - ESTÁDIO HERNANDO SILES | SUL-AMERICANA 2026",
+      "title": "AO VIVO | GRÊMIO ESCALADO | PRÉ-JOGO BOLÍVAR X GRÊMIO | DIRETO DE LA PAZ - ESTÁDIO HERNANDO SILES",
       "videoId": "cYUn17aFyec",
       "url": "https://www.youtube.com/watch?v=cYUn17aFyec",
       "thumbnail": "https://i.ytimg.com/vi/cYUn17aFyec/mqdefault_live.jpg",
