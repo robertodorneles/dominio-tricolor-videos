@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:00:41.992585+00:00",
+  "updated_at": "2026-07-24T19:19:04.919868+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "APRESENTAÇÃO DE JOVANE CABRAL - NOVO ATACANTE DO GRÊMIO | CORTES DA GRENAL | 24/07/2026",
+      "videoId": "nnTf8LpMEVY",
+      "url": "https://www.youtube.com/watch?v=nnTf8LpMEVY",
+      "thumbnail": "https://i.ytimg.com/vi/nnTf8LpMEVY/mqdefault.jpg",
+      "published": "2026-07-24T19:15:59Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "24/07/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "BuIExABsJsE",
       "url": "https://www.youtube.com/watch?v=BuIExABsJsE",
@@ -219,20 +227,12 @@
       "published": "2026-07-24T11:03:29Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "\"OS MESMOS PROBLEMAS\" 🇪🇪",
-      "videoId": "ilXrEcI6AYM",
-      "url": "https://www.youtube.com/watch?v=ilXrEcI6AYM",
-      "thumbnail": "https://i.ytimg.com/vi/ilXrEcI6AYM/mqdefault.jpg",
-      "published": "2026-07-24T02:55:12Z"
-    },
-    {
       "channel": "Radio Imortal",
-      "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO | APRESENTAÇÃO E COLETIVA DE JOVANE CABRAL | DIRETO DO CT",
+      "title": "APRESENTAÇÃO E COLETIVA DE JOVANE CABRAL | ATUALIZANDO NOTÍCIAS DO GRÊMIO | DIRETO DO CT | ESPLANADA",
       "videoId": "6U5wRVurHXY",
       "url": "https://www.youtube.com/watch?v=6U5wRVurHXY",
-      "thumbnail": "https://i.ytimg.com/vi/6U5wRVurHXY/mqdefault_live.jpg",
-      "published": "2026-07-24T18:54:39Z"
+      "thumbnail": "https://i.ytimg.com/vi/6U5wRVurHXY/mqdefault.jpg",
+      "published": "2026-07-24T19:04:20Z"
     },
     {
       "channel": "Radio Imortal",
