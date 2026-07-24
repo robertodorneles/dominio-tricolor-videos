@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T02:00:41.875178+00:00",
+  "updated_at": "2026-07-24T02:52:48.538114+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "jIgLCWMTJ7I",
       "url": "https://www.youtube.com/watch?v=jIgLCWMTJ7I",
       "thumbnail": "https://i.ytimg.com/vi/jIgLCWMTJ7I/mqdefault_live.jpg",
-      "published": "2026-07-24T01:10:52Z"
+      "published": "2026-07-24T02:04:49Z"
     },
     {
       "channel": "A Dupla",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "23/07/2026 | JORNADA COMPLETA | BOLÍVAR 3 X 2 GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
+      "videoId": "UjmLApm88Ts",
+      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
+      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault.jpg",
+      "published": "2026-07-24T02:48:30Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTERNACIONAL | RÁDIO GRENAL",
       "videoId": "o6oJqlDoYxw",
       "url": "https://www.youtube.com/watch?v=o6oJqlDoYxw",
@@ -219,28 +227,20 @@
       "published": "2026-07-24T01:27:54Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE BOLÍVAR 3X2 GRÊMIO - NARRAÇÃO DANIEL FELIX | COPA SUL-AMERICANA | 23/07/2026 | RÁDIO GRENAL",
-      "videoId": "3c3UFw8DL-M",
-      "url": "https://www.youtube.com/watch?v=3c3UFw8DL-M",
-      "thumbnail": "https://i.ytimg.com/vi/3c3UFw8DL-M/mqdefault.jpg",
-      "published": "2026-07-24T01:21:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO BOLÍVAR (3) X (2) GRÊMIO | DIRETO DE LA PAZ - ESTÁDIO HERNANDO SILES",
-      "videoId": "cYUn17aFyec",
-      "url": "https://www.youtube.com/watch?v=cYUn17aFyec",
-      "thumbnail": "https://i.ytimg.com/vi/cYUn17aFyec/mqdefault.jpg",
-      "published": "2026-07-24T01:38:52Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "DERROTA NA SUL-AMERICANA | DA PRA VIRAR NA ARENA? | NOITES DE GRÊMIO #114 - 23/07",
       "videoId": "VPxvFSlTXbc",
       "url": "https://www.youtube.com/watch?v=VPxvFSlTXbc",
-      "thumbnail": "https://i.ytimg.com/vi/VPxvFSlTXbc/mqdefault_live.jpg",
-      "published": "2026-07-24T01:33:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/VPxvFSlTXbc/mqdefault.jpg",
+      "published": "2026-07-24T02:41:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | COLETIVA DE JOVANE CABRAL | APRESENTAÇÃO DO NOVO ATACANTE DO GRÊMIO | DIRETO DO CT",
+      "videoId": "6U5wRVurHXY",
+      "url": "https://www.youtube.com/watch?v=6U5wRVurHXY",
+      "thumbnail": "https://i.ytimg.com/vi/6U5wRVurHXY/mqdefault_live.jpg",
+      "published": "2026-07-24T02:15:33Z"
     }
   ]
 }
