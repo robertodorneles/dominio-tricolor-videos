@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-24T02:52:48.538114+00:00",
+  "updated_at": "2026-07-24T09:00:37.273481+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: O GRÊMIO PERDEU, MAS FICA O SENTIMENTO DE QUE DÁ...",
-      "videoId": "jIgLCWMTJ7I",
-      "url": "https://www.youtube.com/watch?v=jIgLCWMTJ7I",
-      "thumbnail": "https://i.ytimg.com/vi/jIgLCWMTJ7I/mqdefault_live.jpg",
-      "published": "2026-07-24T02:04:49Z"
+      "title": "🔴⚪️ Diário do Inter: 🔥 NEGÓCIO ANUNCIADO | DENÚNCIA PESADA | PEZZOLANO LIBERADO",
+      "videoId": "RqDMxoPu9cg",
+      "url": "https://www.youtube.com/watch?v=RqDMxoPu9cg",
+      "thumbnail": "https://i.ytimg.com/vi/RqDMxoPu9cg/mqdefault.jpg",
+      "published": "2026-07-24T06:01:00Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 2x3 Bolivar: PAVÓN FALHOU, WEVERTON SALVOU E O GRÊMIO SEGUE VIVO",
-      "videoId": "ULAojsKHl50",
-      "url": "https://www.youtube.com/watch?v=ULAojsKHl50",
-      "thumbnail": "https://i.ytimg.com/vi/ULAojsKHl50/mqdefault.jpg",
-      "published": "2026-07-24T00:40:09Z"
+      "title": "🔵⚫️ Diário do Grêmio: NEGÓCIO CANCELADO | JOVANE PRONTO PARA ESTREAR | GRÊMIO VIVO NA SULA!",
+      "videoId": "JoXdiXJvTDE",
+      "url": "https://www.youtube.com/watch?v=JoXdiXJvTDE",
+      "thumbnail": "https://i.ytimg.com/vi/JoXdiXJvTDE/mqdefault.jpg",
+      "published": "2026-07-24T06:00:00Z"
     },
     {
       "channel": "Bage TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA PÓS-JOGO | BOLÍVAR/BOL x GRÊMIO (CONMEBOL SUL-AMERICANA 2026)",
+      "videoId": "DNP_BUoyU2U",
+      "url": "https://www.youtube.com/watch?v=DNP_BUoyU2U",
+      "thumbnail": "https://i.ytimg.com/vi/DNP_BUoyU2U/mqdefault.jpg",
+      "published": "2026-07-24T08:54:07Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | BOLIVAR X GRÊMIO (COPA SUL-AMERICANA 2026)",
       "videoId": "K152LZnfYCQ",
       "url": "https://www.youtube.com/watch?v=K152LZnfYCQ",
@@ -155,12 +163,12 @@
       "published": "2026-07-24T00:21:48Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "DE CONTRATO RENOVADO | ENTREVISTA EXCLUSIVA COM MÓNICA RAMOS",
-      "videoId": "dqKFbyjTVQE",
-      "url": "https://www.youtube.com/watch?v=dqKFbyjTVQE",
-      "thumbnail": "https://i.ytimg.com/vi/dqKFbyjTVQE/mqdefault.jpg",
-      "published": "2026-07-23T20:12:32Z"
+      "channel": "GZH Digital",
+      "title": "Rios acima da cota de inundação, áreas em alerta, previsão do tempo e mais | Gaúcha+ | 23/07/2026",
+      "videoId": "SQbVXKV1iY4",
+      "url": "https://www.youtube.com/watch?v=SQbVXKV1iY4",
+      "thumbnail": "https://i.ytimg.com/vi/SQbVXKV1iY4/mqdefault.jpg",
+      "published": "2026-07-24T07:42:09Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=r8rw6sbtdUw",
       "thumbnail": "https://i.ytimg.com/vi/r8rw6sbtdUw/mqdefault.jpg",
       "published": "2026-07-24T00:15:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "CHUVAS no RS: hidrólogo explica o cenário atual | Conversas Cruzadas",
-      "videoId": "FvmV3JblvWA",
-      "url": "https://www.youtube.com/watch?v=FvmV3JblvWA",
-      "thumbnail": "https://i.ytimg.com/vi/FvmV3JblvWA/mqdefault.jpg",
-      "published": "2026-07-23T23:30:30Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "\"OS MESMOS PROBLEMAS\" 🇪🇪",
+      "videoId": "ilXrEcI6AYM",
+      "url": "https://www.youtube.com/watch?v=ilXrEcI6AYM",
+      "thumbnail": "https://i.ytimg.com/vi/ilXrEcI6AYM/mqdefault.jpg",
+      "published": "2026-07-24T02:55:12Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "23/07/2026 | JORNADA COMPLETA | BOLÍVAR 3 X 2 GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
       "videoId": "UjmLApm88Ts",
       "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
       "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault.jpg",
       "published": "2026-07-24T02:48:30Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTERNACIONAL | RÁDIO GRENAL",
-      "videoId": "o6oJqlDoYxw",
-      "url": "https://www.youtube.com/watch?v=o6oJqlDoYxw",
-      "thumbnail": "https://i.ytimg.com/vi/o6oJqlDoYxw/mqdefault.jpg",
-      "published": "2026-07-24T01:27:54Z"
     },
     {
       "channel": "Radio Imortal",
