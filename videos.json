@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T00:00:37.946741+00:00",
+  "updated_at": "2026-07-24T01:00:36.574609+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 2x3 Bolivar: PAVÓN FALHOU, WEVERTON SALVOU E O GRÊMIO SEGUE VIVO",
+      "videoId": "ULAojsKHl50",
+      "url": "https://www.youtube.com/watch?v=ULAojsKHl50",
+      "thumbnail": "https://i.ytimg.com/vi/ULAojsKHl50/mqdefault.jpg",
+      "published": "2026-07-24T00:40:09Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: TUDO VAI MUDAR | IMPACTO NAS ELEIÇÕES | A REAL SITUAÇÃO",
@@ -11,12 +19,12 @@
       "published": "2026-07-23T19:52:43Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "😠 A displicência do Carbonero x A seriedade de Alerrandro kkkk",
-      "videoId": "rMeXHEjuLOI",
-      "url": "https://www.youtube.com/watch?v=rMeXHEjuLOI",
-      "thumbnail": "https://i.ytimg.com/vi/rMeXHEjuLOI/mqdefault.jpg",
-      "published": "2026-07-23T15:12:44Z"
+      "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 GRÊMIO VOLTA VIVO DA BOLÍVIA",
+      "videoId": "uw5sSiV8q58",
+      "url": "https://www.youtube.com/watch?v=uw5sSiV8q58",
+      "thumbnail": "https://i.ytimg.com/vi/uw5sSiV8q58/mqdefault.jpg",
+      "published": "2026-07-24T00:40:21Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=bzJnxaHZzEI",
       "thumbnail": "https://i.ytimg.com/vi/bzJnxaHZzEI/mqdefault_live.jpg",
       "published": "2026-07-23T18:59:37Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA DE GRÊMIO | CAOS COLORADO🔸RESENHA FORA DA SALA🔸#092",
-      "videoId": "zqIxRnvpmec",
-      "url": "https://www.youtube.com/watch?v=zqIxRnvpmec",
-      "thumbnail": "https://i.ytimg.com/vi/zqIxRnvpmec/mqdefault.jpg",
-      "published": "2026-07-23T18:24:02Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,11 +52,11 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "O time do Grêmio para enfrentar o Bolivar | Contrato de Carlos Vinícius",
-      "videoId": "TywYg3MwC1k",
-      "url": "https://www.youtube.com/watch?v=TywYg3MwC1k",
-      "thumbnail": "https://i.ytimg.com/vi/TywYg3MwC1k/mqdefault.jpg",
-      "published": "2026-07-23T13:54:51Z"
+      "title": "Bolivar 3 x 2 Grêmio: Weverton salva o Grêmio de uma derrota histórica",
+      "videoId": "QUBr7esvZC4",
+      "url": "https://www.youtube.com/watch?v=QUBr7esvZC4",
+      "thumbnail": "https://i.ytimg.com/vi/QUBr7esvZC4/mqdefault.jpg",
+      "published": "2026-07-24T00:22:35Z"
     },
     {
       "channel": "Canal do CCD",
@@ -64,7 +64,7 @@
       "videoId": "5Pi3bbrcvic",
       "url": "https://www.youtube.com/watch?v=5Pi3bbrcvic",
       "thumbnail": "https://i.ytimg.com/vi/5Pi3bbrcvic/mqdefault_live.jpg",
-      "published": "2026-07-22T22:42:16Z"
+      "published": "2026-07-24T00:01:28Z"
     },
     {
       "channel": "Canal do Farid",
@@ -72,7 +72,7 @@
       "videoId": "L6fsKPUHxLI",
       "url": "https://www.youtube.com/watch?v=L6fsKPUHxLI",
       "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault_live.jpg",
-      "published": "2026-07-23T20:22:46Z"
+      "published": "2026-07-24T00:51:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,11 +100,11 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "NÃO SERÁ FÁCIL! Bolívar x Grêmio 19h passa no @paramountplusbr",
-      "videoId": "s_h78I46WyA",
-      "url": "https://www.youtube.com/watch?v=s_h78I46WyA",
-      "thumbnail": "https://i.ytimg.com/vi/s_h78I46WyA/mqdefault.jpg",
-      "published": "2026-07-23T21:13:43Z"
+      "title": "GRANDE RESULTADO? | BAGUNÇA E CONFIANÇA| COMENTÁRIO BOLIVAR 3 X 2 GRÊMIO",
+      "videoId": "LhMKOzU7wp4",
+      "url": "https://www.youtube.com/watch?v=LhMKOzU7wp4",
+      "thumbnail": "https://i.ytimg.com/vi/LhMKOzU7wp4/mqdefault.jpg",
+      "published": "2026-07-24T00:33:48Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -112,7 +112,7 @@
       "videoId": "S-4NPh_517k",
       "url": "https://www.youtube.com/watch?v=S-4NPh_517k",
       "thumbnail": "https://i.ytimg.com/vi/S-4NPh_517k/mqdefault_live.jpg",
-      "published": "2026-07-23T18:50:52Z"
+      "published": "2026-07-24T00:12:04Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | BOLIVAR X GRÊMIO (COPA SUL-AMERICANA 2026)",
       "videoId": "K152LZnfYCQ",
       "url": "https://www.youtube.com/watch?v=K152LZnfYCQ",
-      "thumbnail": "https://i.ytimg.com/vi/K152LZnfYCQ/mqdefault_live.jpg",
-      "published": "2026-07-23T20:40:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/K152LZnfYCQ/mqdefault.jpg",
+      "published": "2026-07-24T00:21:48Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Defender um acusado é defender o crime? Aury Lopes Jr. responde | Conversas Cruzadas",
+      "videoId": "r8rw6sbtdUw",
+      "url": "https://www.youtube.com/watch?v=r8rw6sbtdUw",
+      "thumbnail": "https://i.ytimg.com/vi/r8rw6sbtdUw/mqdefault.jpg",
+      "published": "2026-07-24T00:15:13Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CHUVAS no RS: hidrólogo explica o cenário atual | Conversas Cruzadas",
       "videoId": "FvmV3JblvWA",
       "url": "https://www.youtube.com/watch?v=FvmV3JblvWA",
@@ -171,12 +179,12 @@
       "published": "2026-07-23T23:30:30Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Desassorear rios resolve enchentes? Hidrólogo explica por que não é tão simples | Conversas Cruzadas",
-      "videoId": "OmGYI3zTo64",
-      "url": "https://www.youtube.com/watch?v=OmGYI3zTo64",
-      "thumbnail": "https://i.ytimg.com/vi/OmGYI3zTo64/mqdefault.jpg",
-      "published": "2026-07-23T22:20:11Z"
+      "channel": "Jeremias Wernek",
+      "title": "DERROTA NA ALTITUDE: Os erros, dois responsáveis e uma boa notícia",
+      "videoId": "pjLmxjxXqd0",
+      "url": "https://www.youtube.com/watch?v=pjLmxjxXqd0",
+      "thumbnail": "https://i.ytimg.com/vi/pjLmxjxXqd0/mqdefault.jpg",
+      "published": "2026-07-24T00:54:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=hKsuYJUOmvg",
       "thumbnail": "https://i.ytimg.com/vi/hKsuYJUOmvg/mqdefault.jpg",
       "published": "2026-07-23T03:47:38Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "RENOVAÇÃO DE CARLOS VINICIUS: confusão com contrato, salário, futuro",
-      "videoId": "NNukIyvB89E",
-      "url": "https://www.youtube.com/watch?v=NNukIyvB89E",
-      "thumbnail": "https://i.ytimg.com/vi/NNukIyvB89E/mqdefault.jpg",
-      "published": "2026-07-22T23:45:14Z"
     },
     {
       "channel": "LH Benfica",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "23/07/2026 | JORNADA ESPORTIVA | BOLÍVAR 3 X 2 GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
+      "title": "23/07/2026 | DEBATE BOLA | BOLÍVAR 3 X 2 GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
       "videoId": "UjmLApm88Ts",
       "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
       "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
       "published": "2026-07-23T20:02:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "DERROTA NA SUL-AMERICANA | DA PRA VIRAR NA ARENA? | NOITES DE GRÊMIO #114 - 23/07",
+      "videoId": "VPxvFSlTXbc",
+      "url": "https://www.youtube.com/watch?v=VPxvFSlTXbc",
+      "thumbnail": "https://i.ytimg.com/vi/VPxvFSlTXbc/mqdefault_live.jpg",
+      "published": "2026-07-24T00:30:08Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cYUn17aFyec",
       "thumbnail": "https://i.ytimg.com/vi/cYUn17aFyec/mqdefault_live.jpg",
       "published": "2026-07-23T18:03:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #119 — CARLOS VINÍCIUS QUER FICAR! | O PROVÁVEL GRÊMIO PARA ENCARAR O BOLÍVAR",
-      "videoId": "N2oXW_arLNg",
-      "url": "https://www.youtube.com/watch?v=N2oXW_arLNg",
-      "thumbnail": "https://i.ytimg.com/vi/N2oXW_arLNg/mqdefault.jpg",
-      "published": "2026-07-23T15:23:07Z"
     }
   ]
 }
