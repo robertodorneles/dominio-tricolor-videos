@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T17:26:05.186094+00:00",
+  "updated_at": "2026-07-24T18:00:38.285782+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "g23vvH4BPn8",
       "url": "https://www.youtube.com/watch?v=g23vvH4BPn8",
       "thumbnail": "https://i.ytimg.com/vi/g23vvH4BPn8/mqdefault_live.jpg",
-      "published": "2026-07-24T17:17:26Z"
+      "published": "2026-07-24T17:56:37Z"
     },
     {
       "channel": "Bage TV",
@@ -148,14 +148,6 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "COLETIVA DE APRESENTAÇÃO I JOVANE CABRAL",
-      "videoId": "8RoWvt_6eLY",
-      "url": "https://www.youtube.com/watch?v=8RoWvt_6eLY",
-      "thumbnail": "https://i.ytimg.com/vi/8RoWvt_6eLY/mqdefault_live.jpg",
-      "published": "2026-07-24T13:45:24Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO | BOLÍVAR/BOL x GRÊMIO (CONMEBOL SUL-AMERICANA 2026)",
       "videoId": "DNP_BUoyU2U",
       "url": "https://www.youtube.com/watch?v=DNP_BUoyU2U",
@@ -163,12 +155,20 @@
       "published": "2026-07-24T08:54:07Z"
     },
     {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | BOLIVAR X GRÊMIO (COPA SUL-AMERICANA 2026)",
+      "videoId": "K152LZnfYCQ",
+      "url": "https://www.youtube.com/watch?v=K152LZnfYCQ",
+      "thumbnail": "https://i.ytimg.com/vi/K152LZnfYCQ/mqdefault.jpg",
+      "published": "2026-07-24T00:21:48Z"
+    },
+    {
       "channel": "GZH Digital",
-      "title": "DTF ST. LOUIS e mais cinco minisséries IMPERDÍVEIS da HBO MAX | Dica do Ticiano",
-      "videoId": "f9Y5keWGEgY",
-      "url": "https://www.youtube.com/watch?v=f9Y5keWGEgY",
-      "thumbnail": "https://i.ytimg.com/vi/f9Y5keWGEgY/mqdefault.jpg",
-      "published": "2026-07-24T17:04:17Z"
+      "title": "Situação da chuva no RS, 60+, informações do trânsito e mais | Gaúcha+ | 24/07/2026",
+      "videoId": "93JhiwWSDnQ",
+      "url": "https://www.youtube.com/watch?v=93JhiwWSDnQ",
+      "thumbnail": "https://i.ytimg.com/vi/93JhiwWSDnQ/mqdefault_live.jpg",
+      "published": "2026-07-24T18:00:12Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "24/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "24/07/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "BuIExABsJsE",
       "url": "https://www.youtube.com/watch?v=BuIExABsJsE",
       "thumbnail": "https://i.ytimg.com/vi/BuIExABsJsE/mqdefault_live.jpg",
