@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T20:00:37.648925+00:00",
+  "updated_at": "2026-07-24T20:58:22.237032+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: NINGUÉM FALOU ISSO AINDA | JÁ O CONDENARAM | PENA SERIA UM ESCÂNDALO",
+      "videoId": "zmeU5vSsDdg",
+      "url": "https://www.youtube.com/watch?v=zmeU5vSsDdg",
+      "thumbnail": "https://i.ytimg.com/vi/zmeU5vSsDdg/mqdefault.jpg",
+      "published": "2026-07-24T20:44:30Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: ACORDO COM CARLOS VINÍCIUS PRÓXIMO | UM ALÍVIO NOS BASTIDORES",
@@ -11,28 +19,20 @@
       "published": "2026-07-24T19:51:38Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 NEGÓCIO ANUNCIADO | DENÚNCIA PESADA | PEZZOLANO LIBERADO",
-      "videoId": "RqDMxoPu9cg",
-      "url": "https://www.youtube.com/watch?v=RqDMxoPu9cg",
-      "thumbnail": "https://i.ytimg.com/vi/RqDMxoPu9cg/mqdefault.jpg",
-      "published": "2026-07-24T06:01:00Z"
+      "channel": "Bage TV",
+      "title": "FUTEBOL AGITADO! GRÊMIO PERDE NA ALTITUDE, CASARES VIRA ALVO E KLOPP MANDA RECADO📰BAGÉTV NEWS #004",
+      "videoId": "zC6yMDALqUA",
+      "url": "https://www.youtube.com/watch?v=zC6yMDALqUA",
+      "thumbnail": "https://i.ytimg.com/vi/zC6yMDALqUA/mqdefault_live.jpg",
+      "published": "2026-07-24T20:30:15Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO QUITA SALÁRIOS DOS ATLETAS🔹 THE TARDE 🔹#189",
       "videoId": "k08zX5SupdA",
       "url": "https://www.youtube.com/watch?v=k08zX5SupdA",
-      "thumbnail": "https://i.ytimg.com/vi/k08zX5SupdA/mqdefault_live.jpg",
-      "published": "2026-07-24T19:49:38Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO TEM REFORÇO DE COPA E INTER DEFINE A CAMISA 1🔸RESENHA FORA DA SALA🔸#093",
-      "videoId": "vGIJD6CMny8",
-      "url": "https://www.youtube.com/watch?v=vGIJD6CMny8",
-      "thumbnail": "https://i.ytimg.com/vi/vGIJD6CMny8/mqdefault.jpg",
-      "published": "2026-07-24T18:14:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/k08zX5SupdA/mqdefault.jpg",
+      "published": "2026-07-24T20:01:43Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO PAGA: LISTA | REFORÇOS E RENOVAÇÕES NO GRÊMIO",
+      "videoId": "urRb6y5UGIY",
+      "url": "https://www.youtube.com/watch?v=urRb6y5UGIY",
+      "thumbnail": "https://i.ytimg.com/vi/urRb6y5UGIY/mqdefault.jpg",
+      "published": "2026-07-24T20:29:57Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X  FLUMINENSE | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "_2UXGw0y93g",
       "url": "https://www.youtube.com/watch?v=_2UXGw0y93g",
       "thumbnail": "https://i.ytimg.com/vi/_2UXGw0y93g/mqdefault_live.jpg",
       "published": "2026-07-24T18:29:24Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "RONALDINHO NA ARENA DOMINGO? RESPOSTA DO LADO DELE. #gremio #Futebol",
-      "videoId": "MCe4bauw05U",
-      "url": "https://www.youtube.com/watch?v=MCe4bauw05U",
-      "thumbnail": "https://i.ytimg.com/vi/MCe4bauw05U/mqdefault.jpg",
-      "published": "2026-07-24T13:00:07Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "ELEIÇÕES 2026: Gabriel Souza discute propostas para a educação no RS | Eleições 2026",
+      "videoId": "a81m2sEFgQo",
+      "url": "https://www.youtube.com/watch?v=a81m2sEFgQo",
+      "thumbnail": "https://i.ytimg.com/vi/a81m2sEFgQo/mqdefault.jpg",
+      "published": "2026-07-24T20:57:11Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Dietas e consumo: como a Danone transformou tendências em oportunidades | Liderança em Sala",
       "videoId": "CW-xO5eCxTU",
       "url": "https://www.youtube.com/watch?v=CW-xO5eCxTU",
       "thumbnail": "https://i.ytimg.com/vi/CW-xO5eCxTU/mqdefault.jpg",
       "published": "2026-07-24T20:00:05Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Situação da chuva no RS, 60+, informações do trânsito e mais | Gaúcha+ | 24/07/2026",
-      "videoId": "93JhiwWSDnQ",
-      "url": "https://www.youtube.com/watch?v=93JhiwWSDnQ",
-      "thumbnail": "https://i.ytimg.com/vi/93JhiwWSDnQ/mqdefault_live.jpg",
-      "published": "2026-07-24T19:34:41Z"
     },
     {
       "channel": "Jeremias Wernek",
