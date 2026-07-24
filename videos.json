@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T19:19:04.919868+00:00",
+  "updated_at": "2026-07-24T20:00:37.648925+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: ACORDO COM CARLOS VINÍCIUS PRÓXIMO | UM ALÍVIO NOS BASTIDORES",
+      "videoId": "nu8CUafu7-Y",
+      "url": "https://www.youtube.com/watch?v=nu8CUafu7-Y",
+      "thumbnail": "https://i.ytimg.com/vi/nu8CUafu7-Y/mqdefault.jpg",
+      "published": "2026-07-24T19:51:38Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 NEGÓCIO ANUNCIADO | DENÚNCIA PESADA | PEZZOLANO LIBERADO",
@@ -11,20 +19,12 @@
       "published": "2026-07-24T06:01:00Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: NEGÓCIO CANCELADO | JOVANE PRONTO PARA ESTREAR | GRÊMIO VIVO NA SULA!",
-      "videoId": "JoXdiXJvTDE",
-      "url": "https://www.youtube.com/watch?v=JoXdiXJvTDE",
-      "thumbnail": "https://i.ytimg.com/vi/JoXdiXJvTDE/mqdefault.jpg",
-      "published": "2026-07-24T06:00:00Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO QUITA SALÁRIOS DOS ATLETAS🔹 THE TARDE 🔹#189",
       "videoId": "k08zX5SupdA",
       "url": "https://www.youtube.com/watch?v=k08zX5SupdA",
       "thumbnail": "https://i.ytimg.com/vi/k08zX5SupdA/mqdefault_live.jpg",
-      "published": "2026-07-24T18:28:15Z"
+      "published": "2026-07-24T19:49:38Z"
     },
     {
       "channel": "Bage TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA DE APRESENTAÇÃO I JOVANE CABRAL",
+      "videoId": "qecI2G2ydwg",
+      "url": "https://www.youtube.com/watch?v=qecI2G2ydwg",
+      "thumbnail": "https://i.ytimg.com/vi/qecI2G2ydwg/mqdefault.jpg",
+      "published": "2026-07-24T19:42:27Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO | BOLÍVAR/BOL x GRÊMIO (CONMEBOL SUL-AMERICANA 2026)",
       "videoId": "DNP_BUoyU2U",
       "url": "https://www.youtube.com/watch?v=DNP_BUoyU2U",
@@ -155,20 +163,12 @@
       "published": "2026-07-24T08:54:07Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | BOLIVAR X GRÊMIO (COPA SUL-AMERICANA 2026)",
-      "videoId": "K152LZnfYCQ",
-      "url": "https://www.youtube.com/watch?v=K152LZnfYCQ",
-      "thumbnail": "https://i.ytimg.com/vi/K152LZnfYCQ/mqdefault.jpg",
-      "published": "2026-07-24T00:21:48Z"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "Eleições RS: pré-candidatos discutem propostas para a educação | Grupo RBS + Todos Pela Educação",
-      "videoId": "3L4guLaco0M",
-      "url": "https://www.youtube.com/watch?v=3L4guLaco0M",
-      "thumbnail": "https://i.ytimg.com/vi/3L4guLaco0M/mqdefault_live.jpg",
-      "published": "2026-07-24T18:28:48Z"
+      "title": "Dietas e consumo: como a Danone transformou tendências em oportunidades | Liderança em Sala",
+      "videoId": "CW-xO5eCxTU",
+      "url": "https://www.youtube.com/watch?v=CW-xO5eCxTU",
+      "thumbnail": "https://i.ytimg.com/vi/CW-xO5eCxTU/mqdefault.jpg",
+      "published": "2026-07-24T20:00:05Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "93JhiwWSDnQ",
       "url": "https://www.youtube.com/watch?v=93JhiwWSDnQ",
       "thumbnail": "https://i.ytimg.com/vi/93JhiwWSDnQ/mqdefault_live.jpg",
-      "published": "2026-07-24T18:00:12Z"
+      "published": "2026-07-24T19:34:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM LUCAS ROLDO - DIRETOR DE FUTEBOL DO GRAMADENSE | RÁDIO GRENAL | 24/07/26",
+      "videoId": "L-795aY6WvQ",
+      "url": "https://www.youtube.com/watch?v=L-795aY6WvQ",
+      "thumbnail": "https://i.ytimg.com/vi/L-795aY6WvQ/mqdefault.jpg",
+      "published": "2026-07-24T19:22:22Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "APRESENTAÇÃO DE JOVANE CABRAL - NOVO ATACANTE DO GRÊMIO | CORTES DA GRENAL | 24/07/2026",
       "videoId": "nnTf8LpMEVY",
       "url": "https://www.youtube.com/watch?v=nnTf8LpMEVY",
       "thumbnail": "https://i.ytimg.com/vi/nnTf8LpMEVY/mqdefault.jpg",
       "published": "2026-07-24T19:15:59Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "24/07/2026 | GRENAL FC | RÁDIO GRENAL",
-      "videoId": "BuIExABsJsE",
-      "url": "https://www.youtube.com/watch?v=BuIExABsJsE",
-      "thumbnail": "https://i.ytimg.com/vi/BuIExABsJsE/mqdefault_live.jpg",
-      "published": "2026-07-24T11:03:29Z"
     },
     {
       "channel": "Radio Imortal",
