@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T01:00:36.574609+00:00",
+  "updated_at": "2026-07-24T02:00:41.875178+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O GRÊMIO PERDEU, MAS FICA O SENTIMENTO DE QUE DÁ...",
+      "videoId": "jIgLCWMTJ7I",
+      "url": "https://www.youtube.com/watch?v=jIgLCWMTJ7I",
+      "thumbnail": "https://i.ytimg.com/vi/jIgLCWMTJ7I/mqdefault_live.jpg",
+      "published": "2026-07-24T01:10:52Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 2x3 Bolivar: PAVÓN FALHOU, WEVERTON SALVOU E O GRÊMIO SEGUE VIVO",
@@ -11,12 +19,12 @@
       "published": "2026-07-24T00:40:09Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: TUDO VAI MUDAR | IMPACTO NAS ELEIÇÕES | A REAL SITUAÇÃO",
-      "videoId": "OkpsTpebCm4",
-      "url": "https://www.youtube.com/watch?v=OkpsTpebCm4",
-      "thumbnail": "https://i.ytimg.com/vi/OkpsTpebCm4/mqdefault.jpg",
-      "published": "2026-07-23T19:52:43Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 BOLIVAR X GRÊMIO [DIRETO DE LA PAZ-BOLÍVIA]",
+      "videoId": "bzJnxaHZzEI",
+      "url": "https://www.youtube.com/watch?v=bzJnxaHZzEI",
+      "thumbnail": "https://i.ytimg.com/vi/bzJnxaHZzEI/mqdefault.jpg",
+      "published": "2026-07-24T01:48:07Z"
     },
     {
       "channel": "Bage TV",
@@ -27,12 +35,12 @@
       "published": "2026-07-24T00:40:21Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 BOLIVAR X GRÊMIO [DIRETO DE LA PAZ-BOLÍVIA]",
-      "videoId": "bzJnxaHZzEI",
-      "url": "https://www.youtube.com/watch?v=bzJnxaHZzEI",
-      "thumbnail": "https://i.ytimg.com/vi/bzJnxaHZzEI/mqdefault_live.jpg",
-      "published": "2026-07-23T18:59:37Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨FIASCO! UM ABSURDO NO VESTIÁRIO! CHEGA DESSE TREINADOR FRACO NO GRÊMIO! FIQUEI MALUCO!",
+      "videoId": "fsr6uQcWaD8",
+      "url": "https://www.youtube.com/watch?v=fsr6uQcWaD8",
+      "thumbnail": "https://i.ytimg.com/vi/fsr6uQcWaD8/mqdefault.jpg",
+      "published": "2026-07-24T01:20:06Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-07-23T14:55:49Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATRITO MUITO GRAVE NOS BASTIDORES DO GRÊMIO | NOVO RONALDINHO? | RENATO VETADO | O JOGO DA SULA!",
-      "videoId": "GCEC0681RC4",
-      "url": "https://www.youtube.com/watch?v=GCEC0681RC4",
-      "thumbnail": "https://i.ytimg.com/vi/GCEC0681RC4/mqdefault.jpg",
-      "published": "2026-07-22T23:17:23Z"
+      "channel": "Canal do CCD",
+      "title": "PÓS-JOGO: BOLIVAR 3 X 2 GRÊMIO",
+      "videoId": "5Pi3bbrcvic",
+      "url": "https://www.youtube.com/watch?v=5Pi3bbrcvic",
+      "thumbnail": "https://i.ytimg.com/vi/5Pi3bbrcvic/mqdefault.jpg",
+      "published": "2026-07-24T01:47:05Z"
     },
     {
       "channel": "Canal do CCD",
@@ -59,20 +67,12 @@
       "published": "2026-07-24T00:22:35Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: BOLIVAR X GRÊMIO",
-      "videoId": "5Pi3bbrcvic",
-      "url": "https://www.youtube.com/watch?v=5Pi3bbrcvic",
-      "thumbnail": "https://i.ytimg.com/vi/5Pi3bbrcvic/mqdefault_live.jpg",
-      "published": "2026-07-24T00:01:28Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X BOLIVAR | COPA SUL-AMERICANA | REACT AO VIVO DE FARID - 23/07/2026",
       "videoId": "L6fsKPUHxLI",
       "url": "https://www.youtube.com/watch?v=L6fsKPUHxLI",
-      "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault_live.jpg",
-      "published": "2026-07-24T00:51:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault.jpg",
+      "published": "2026-07-24T01:03:33Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "BOLIVAR  X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | SUL-AMERICANA",
+      "videoId": "S-4NPh_517k",
+      "url": "https://www.youtube.com/watch?v=S-4NPh_517k",
+      "thumbnail": "https://i.ytimg.com/vi/S-4NPh_517k/mqdefault.jpg",
+      "published": "2026-07-24T01:14:46Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRANDE RESULTADO? | BAGUNÇA E CONFIANÇA| COMENTÁRIO BOLIVAR 3 X 2 GRÊMIO",
       "videoId": "LhMKOzU7wp4",
       "url": "https://www.youtube.com/watch?v=LhMKOzU7wp4",
       "thumbnail": "https://i.ytimg.com/vi/LhMKOzU7wp4/mqdefault.jpg",
       "published": "2026-07-24T00:33:48Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "BOLIVAR  X GRÊMIO  | LIVE PÓS-JOGO | COLETIVA | AO VIVO | SUL-AMERICANA",
-      "videoId": "S-4NPh_517k",
-      "url": "https://www.youtube.com/watch?v=S-4NPh_517k",
-      "thumbnail": "https://i.ytimg.com/vi/S-4NPh_517k/mqdefault_live.jpg",
-      "published": "2026-07-24T00:12:04Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "INCRÍVEL! APARECEU ALGO PIOR DO QUE A DERROTA DO GRÊMIO PARA O BOLÍVAR",
+      "videoId": "09QE2RWRmTw",
+      "url": "https://www.youtube.com/watch?v=09QE2RWRmTw",
+      "thumbnail": "https://i.ytimg.com/vi/09QE2RWRmTw/mqdefault.jpg",
+      "published": "2026-07-24T01:28:25Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨REFORÇO BEM RECOMENDADO PRO GRÊMIO | CONTRATAÇÃO CONFIRMADA | REVELADO O MISTÉRIO DE GABRIEL MEC",
       "videoId": "mRIjQ7Skw8c",
       "url": "https://www.youtube.com/watch?v=mRIjQ7Skw8c",
@@ -203,28 +211,28 @@
       "published": "2026-07-23T19:58:40Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨NOVIDADE PRA ZAGA DO GRÊMIO | VALENTINI, MANDACA E O MEIA | TÉCNICO TOMA DECISÃO FORTE",
-      "videoId": "oWEjBIU3mQ4",
-      "url": "https://www.youtube.com/watch?v=oWEjBIU3mQ4",
-      "thumbnail": "https://i.ytimg.com/vi/oWEjBIU3mQ4/mqdefault.jpg",
-      "published": "2026-07-22T21:17:59Z"
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTERNACIONAL | RÁDIO GRENAL",
+      "videoId": "o6oJqlDoYxw",
+      "url": "https://www.youtube.com/watch?v=o6oJqlDoYxw",
+      "thumbnail": "https://i.ytimg.com/vi/o6oJqlDoYxw/mqdefault.jpg",
+      "published": "2026-07-24T01:27:54Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "INTER 1 X 2 CRUZEIRO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
-      "videoId": "pgFnMvShzb4",
-      "url": "https://www.youtube.com/watch?v=pgFnMvShzb4",
-      "thumbnail": "https://i.ytimg.com/vi/pgFnMvShzb4/mqdefault.jpg",
-      "published": "2026-07-23T21:50:20Z"
+      "title": "GOLS DE BOLÍVAR 3X2 GRÊMIO - NARRAÇÃO DANIEL FELIX | COPA SUL-AMERICANA | 23/07/2026 | RÁDIO GRENAL",
+      "videoId": "3c3UFw8DL-M",
+      "url": "https://www.youtube.com/watch?v=3c3UFw8DL-M",
+      "thumbnail": "https://i.ytimg.com/vi/3c3UFw8DL-M/mqdefault.jpg",
+      "published": "2026-07-24T01:21:15Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "23/07/2026 | DEBATE BOLA | BOLÍVAR 3 X 2 GRÊMIO | COPA SUL-AMERICANA | RÁDIO GRENAL",
-      "videoId": "UjmLApm88Ts",
-      "url": "https://www.youtube.com/watch?v=UjmLApm88Ts",
-      "thumbnail": "https://i.ytimg.com/vi/UjmLApm88Ts/mqdefault_live.jpg",
-      "published": "2026-07-23T20:02:20Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO BOLÍVAR (3) X (2) GRÊMIO | DIRETO DE LA PAZ - ESTÁDIO HERNANDO SILES",
+      "videoId": "cYUn17aFyec",
+      "url": "https://www.youtube.com/watch?v=cYUn17aFyec",
+      "thumbnail": "https://i.ytimg.com/vi/cYUn17aFyec/mqdefault.jpg",
+      "published": "2026-07-24T01:38:52Z"
     },
     {
       "channel": "Radio Imortal",
@@ -232,15 +240,7 @@
       "videoId": "VPxvFSlTXbc",
       "url": "https://www.youtube.com/watch?v=VPxvFSlTXbc",
       "thumbnail": "https://i.ytimg.com/vi/VPxvFSlTXbc/mqdefault_live.jpg",
-      "published": "2026-07-24T00:30:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO BOLÍVAR (3) X (2) GRÊMIO | DIRETO DE LA PAZ - ESTÁDIO HERNANDO SILES",
-      "videoId": "cYUn17aFyec",
-      "url": "https://www.youtube.com/watch?v=cYUn17aFyec",
-      "thumbnail": "https://i.ytimg.com/vi/cYUn17aFyec/mqdefault_live.jpg",
-      "published": "2026-07-23T18:03:04Z"
+      "published": "2026-07-24T01:33:16Z"
     }
   ]
 }
