@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T15:22:28.016031+00:00",
+  "updated_at": "2026-07-24T17:00:46.265286+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO TEM REFORÇO DE COPA E INTER DEFINE A CAMISA 1🔸RESENHA FORA DA SALA🔸#093",
+      "videoId": "vGIJD6CMny8",
+      "url": "https://www.youtube.com/watch?v=vGIJD6CMny8",
+      "thumbnail": "https://i.ytimg.com/vi/vGIJD6CMny8/mqdefault_live.jpg",
+      "published": "2026-07-24T16:28:15Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #030",
       "videoId": "iscXI7kOwiU",
       "url": "https://www.youtube.com/watch?v=iscXI7kOwiU",
@@ -27,16 +35,8 @@
       "published": "2026-07-24T15:11:46Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO SOBREVIVE NA ALTITUDE🔵 FUTEBOL ALEGRIA DO GRÊMIO - 24/07 - #597",
-      "videoId": "z0SgSqzi5Es",
-      "url": "https://www.youtube.com/watch?v=z0SgSqzi5Es",
-      "thumbnail": "https://i.ytimg.com/vi/z0SgSqzi5Es/mqdefault.jpg",
-      "published": "2026-07-24T13:47:31Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨ACORDO PRÓXIMO COM ATACANTE | TARDE DE REFORÇO | A SEQUÊNCIA DO GRÊMIO! A SITUAÇÃO DO TÉCNICO",
+      "title": "🚨NOVIDADE SOBRE CARLOS VINICIUS | TARDE DE REFORÇO | SEQUÊNCIA DO GRÊMIO E SITUAÇÃO DO TÉCNICO",
       "videoId": "0_dleuzBkcA",
       "url": "https://www.youtube.com/watch?v=0_dleuzBkcA",
       "thumbnail": "https://i.ytimg.com/vi/0_dleuzBkcA/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Eleições RS: pré-candidatos discutem propostas para a educação | Grupo RBS + Todos Pela Educação",
+      "videoId": "3L4guLaco0M",
+      "url": "https://www.youtube.com/watch?v=3L4guLaco0M",
+      "thumbnail": "https://i.ytimg.com/vi/3L4guLaco0M/mqdefault_live.jpg",
+      "published": "2026-07-24T16:54:11Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "MARCOS BREDA fala sobre experiência de QUASE MORTE, novelas da Globo, astrologia e mais | Paralelas",
       "videoId": "Qnx2x9_WrKM",
       "url": "https://www.youtube.com/watch?v=Qnx2x9_WrKM",
       "thumbnail": "https://i.ytimg.com/vi/Qnx2x9_WrKM/mqdefault.jpg",
       "published": "2026-07-24T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Timeline | 24/07/26",
-      "videoId": "xssRMAQq8vY",
-      "url": "https://www.youtube.com/watch?v=xssRMAQq8vY",
-      "thumbnail": "https://i.ytimg.com/vi/xssRMAQq8vY/mqdefault.jpg",
-      "published": "2026-07-24T14:38:32Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "24/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "title": "24/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "BuIExABsJsE",
       "url": "https://www.youtube.com/watch?v=BuIExABsJsE",
       "thumbnail": "https://i.ytimg.com/vi/BuIExABsJsE/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "EDILSON FAZ CRÍTICA SOBRE PAVÓN NA LATERAL-DIREITA | COMO É BOM SER DO GRÊMIO",
+      "videoId": "Tq9Z5Rwuyn8",
+      "url": "https://www.youtube.com/watch?v=Tq9Z5Rwuyn8",
+      "thumbnail": "https://i.ytimg.com/vi/Tq9Z5Rwuyn8/mqdefault.jpg",
+      "published": "2026-07-24T15:56:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FILIPE KUNRATH: O GRÊMIO DEPENDE EXCLUSIVAMENTE DAS INDIVIDUALIDADES | COMO É BOM SER DO GRÊMIO",
       "videoId": "qFS_-OFAVQA",
       "url": "https://www.youtube.com/watch?v=qFS_-OFAVQA",
       "thumbnail": "https://i.ytimg.com/vi/qFS_-OFAVQA/mqdefault.jpg",
       "published": "2026-07-24T15:20:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #120 — GRÊMIO VALORIZA A LUTA NA ALTITUDE | JOGO DECISIVO NA ARENA",
-      "videoId": "JCDWgi1EhvQ",
-      "url": "https://www.youtube.com/watch?v=JCDWgi1EhvQ",
-      "thumbnail": "https://i.ytimg.com/vi/JCDWgi1EhvQ/mqdefault.jpg",
-      "published": "2026-07-24T15:18:24Z"
     }
   ]
 }
