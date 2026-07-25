@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T11:00:38.611081+00:00",
+  "updated_at": "2026-07-25T12:00:37.919546+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| SuperSábado | 25/07/2026",
+      "title": "Atrações da Fenadoce em Pelotas, batalha musical, tempo e mais | SuperSábado | 25/07/2026",
       "videoId": "jJ17Fs5tJEI",
       "url": "https://www.youtube.com/watch?v=jJ17Fs5tJEI",
       "thumbnail": "https://i.ytimg.com/vi/jJ17Fs5tJEI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 25/07 - PRIMEIRO GOL DE RENATO PORTALUPPI",
+      "videoId": "vmrbIl0o3eU",
+      "url": "https://www.youtube.com/watch?v=vmrbIl0o3eU",
+      "thumbnail": "https://i.ytimg.com/vi/vmrbIl0o3eU/mqdefault.jpg",
+      "published": "2026-07-25T11:00:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VINI VAI RENOVAR | PROJEÇÃO PARA DOMINGO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #115 - 24/07",
       "videoId": "Mb85cLQEIDc",
       "url": "https://www.youtube.com/watch?v=Mb85cLQEIDc",
       "thumbnail": "https://i.ytimg.com/vi/Mb85cLQEIDc/mqdefault.jpg",
       "published": "2026-07-25T01:14:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CARLOS VINÍCIUS RENOVANDO | DOMINGO DECISIVO DO GRÊMIO | REPERCUSSÕES DA SUL-AMERICANA | IMORTAL FC",
-      "videoId": "XJzOM7sr33k",
-      "url": "https://www.youtube.com/watch?v=XJzOM7sr33k",
-      "thumbnail": "https://i.ytimg.com/vi/XJzOM7sr33k/mqdefault.jpg",
-      "published": "2026-07-24T22:18:20Z"
     }
   ]
 }
