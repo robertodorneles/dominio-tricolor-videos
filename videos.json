@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T21:00:33.385979+00:00",
+  "updated_at": "2026-07-25T21:51:38.813672+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - TUDO SOBRE GRÊMIO X FLUMINENSE",
+      "videoId": "T4Vlg2TyVfc",
+      "url": "https://www.youtube.com/watch?v=T4Vlg2TyVfc",
+      "thumbnail": "https://i.ytimg.com/vi/T4Vlg2TyVfc/mqdefault_live.jpg",
+      "published": "2026-07-25T21:03:27Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #638: Grêmio x Flu | Jovane Cabral | Recopa | Ingressos e mais",
       "videoId": "RWcxxO154FI",
       "url": "https://www.youtube.com/watch?v=RWcxxO154FI",
@@ -59,12 +67,12 @@
       "published": "2026-07-25T19:54:58Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Ótimas notícias no Grêmio! 🇪🇪",
-      "videoId": "n94OdPbTZjc",
-      "url": "https://www.youtube.com/watch?v=n94OdPbTZjc",
-      "thumbnail": "https://i.ytimg.com/vi/n94OdPbTZjc/mqdefault.jpg",
-      "published": "2026-07-24T22:12:51Z"
+      "channel": "Canal do Farid",
+      "title": "OPINIÃO DO FARID - É EM CASA E NA ARENA... QUEM MANDA É O TRICOLOR GAÚCHO! | 25/07/2026",
+      "videoId": "zh8uy2nZcAg",
+      "url": "https://www.youtube.com/watch?v=zh8uy2nZcAg",
+      "thumbnail": "https://i.ytimg.com/vi/zh8uy2nZcAg/mqdefault.jpg",
+      "published": "2026-07-25T21:04:17Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
       "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault_live.jpg",
       "published": "2026-07-25T16:45:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "DOMINGO É O JOGO DO ANO!",
-      "videoId": "nNdLy_FWBMk",
-      "url": "https://www.youtube.com/watch?v=nNdLy_FWBMk",
-      "thumbnail": "https://i.ytimg.com/vi/nNdLy_FWBMk/mqdefault.jpg",
-      "published": "2026-07-24T23:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨NEGOCIAÇÃO AVANÇADA COM JOGADOR | ÓTIMA NOTÍCIA NO GRÊMIO | CHEGOU E JÁ PODE JOGAR",
+      "videoId": "SDoinLT4CzQ",
+      "url": "https://www.youtube.com/watch?v=SDoinLT4CzQ",
+      "thumbnail": "https://i.ytimg.com/vi/SDoinLT4CzQ/mqdefault.jpg",
+      "published": "2026-07-25T21:17:42Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨GRÊMIO CONFIRMA MAIS UMA CONTRATAÇÃO | ESTREIA DO NOVO REFORÇO | GRAVE PROBLEMA RESOLVIDO",
       "videoId": "9cWkt245VGo",
       "url": "https://www.youtube.com/watch?v=9cWkt245VGo",
@@ -203,16 +211,8 @@
       "published": "2026-07-24T21:42:48Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "INCRÍVEL! APARECEU ALGO PIOR DO QUE A DERROTA DO GRÊMIO PARA O BOLÍVAR",
-      "videoId": "09QE2RWRmTw",
-      "url": "https://www.youtube.com/watch?v=09QE2RWRmTw",
-      "thumbnail": "https://i.ytimg.com/vi/09QE2RWRmTw/mqdefault.jpg",
-      "published": "2026-07-24T01:28:25Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "25/07/2026 | ESQUENTANDO O JOGO | ATHLETICO X INTER | CAMPEONATO BRASILEIRO",
+      "title": "25/07/2026 | JORNADA ESPORTIVA | ATHLETICO 0 X 0 INTER | CAMPEONATO BRASILEIRO",
       "videoId": "_JdoI2C0VGg",
       "url": "https://www.youtube.com/watch?v=_JdoI2C0VGg",
       "thumbnail": "https://i.ytimg.com/vi/_JdoI2C0VGg/mqdefault_live.jpg",
