@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T16:01:58.205323+00:00",
+  "updated_at": "2026-07-25T17:00:43.503062+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 24/07/2026",
+      "videoId": "6ZJ9021sZTA",
+      "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
+      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault_live.jpg",
+      "published": "2026-07-25T16:45:25Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "DOMINGO É O JOGO DO ANO!",
       "videoId": "nNdLy_FWBMk",
       "url": "https://www.youtube.com/watch?v=nNdLy_FWBMk",
       "thumbnail": "https://i.ytimg.com/vi/nNdLy_FWBMk/mqdefault.jpg",
       "published": "2026-07-24T23:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X BOLIVAR | COPA SUL-AMERICANA | REACT AO VIVO DE FARID - 23/07/2026",
-      "videoId": "L6fsKPUHxLI",
-      "url": "https://www.youtube.com/watch?v=L6fsKPUHxLI",
-      "thumbnail": "https://i.ytimg.com/vi/L6fsKPUHxLI/mqdefault.jpg",
-      "published": "2026-07-24T01:03:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -216,7 +216,7 @@
       "videoId": "_JdoI2C0VGg",
       "url": "https://www.youtube.com/watch?v=_JdoI2C0VGg",
       "thumbnail": "https://i.ytimg.com/vi/_JdoI2C0VGg/mqdefault_live.jpg",
-      "published": "2026-07-25T15:09:31Z"
+      "published": "2026-07-25T16:08:07Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "NOTICIÁRIO AGITADO NO GRÊMIO | RENOVAÇÕES, CHEGADAS E VENDAS | JOGO IMPORTANTE | DIRETO DA FENADOCE",
-      "videoId": "yTDGiH-1tTE",
-      "url": "https://www.youtube.com/watch?v=yTDGiH-1tTE",
-      "thumbnail": "https://i.ytimg.com/vi/yTDGiH-1tTE/mqdefault.jpg",
-      "published": "2026-07-25T14:19:24Z"
+      "title": "É DIA DE GRÊMIO NA ARENA! | O PROVÁVEL TIME | PRESSÃO EM LUÍS CASTRO? | PLANTÃO IMORTAL",
+      "videoId": "XiyqhAsnPxM",
+      "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
+      "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
+      "published": "2026-07-25T16:15:25Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 25/07 - PRIMEIRO GOL DE RENATO PORTALUPPI",
-      "videoId": "vmrbIl0o3eU",
-      "url": "https://www.youtube.com/watch?v=vmrbIl0o3eU",
-      "thumbnail": "https://i.ytimg.com/vi/vmrbIl0o3eU/mqdefault.jpg",
-      "published": "2026-07-25T11:00:37Z"
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X FLUMINENSE | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "wZNoDy1kpBI",
+      "url": "https://www.youtube.com/watch?v=wZNoDy1kpBI",
+      "thumbnail": "https://i.ytimg.com/vi/wZNoDy1kpBI/mqdefault_live.jpg",
+      "published": "2026-07-25T16:03:22Z"
     }
   ]
 }
