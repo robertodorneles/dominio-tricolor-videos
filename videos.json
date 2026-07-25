@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T13:00:48.279026+00:00",
+  "updated_at": "2026-07-25T14:00:34.107851+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "NOTICIÁRIO AGITADO NO GRÊMIO | RENOVAÇÕES, CHEGADAS E VENDAS | JOGO IMPORTANTE | DIRETO DA FENADOCE",
+      "videoId": "yTDGiH-1tTE",
+      "url": "https://www.youtube.com/watch?v=yTDGiH-1tTE",
+      "thumbnail": "https://i.ytimg.com/vi/yTDGiH-1tTE/mqdefault_live.jpg",
+      "published": "2026-07-25T13:01:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 25/07 - PRIMEIRO GOL DE RENATO PORTALUPPI",
       "videoId": "vmrbIl0o3eU",
       "url": "https://www.youtube.com/watch?v=vmrbIl0o3eU",
       "thumbnail": "https://i.ytimg.com/vi/vmrbIl0o3eU/mqdefault.jpg",
       "published": "2026-07-25T11:00:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VINI VAI RENOVAR | PROJEÇÃO PARA DOMINGO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #115 - 24/07",
-      "videoId": "Mb85cLQEIDc",
-      "url": "https://www.youtube.com/watch?v=Mb85cLQEIDc",
-      "thumbnail": "https://i.ytimg.com/vi/Mb85cLQEIDc/mqdefault.jpg",
-      "published": "2026-07-25T01:14:57Z"
     }
   ]
 }
