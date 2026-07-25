@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-25T17:00:43.503062+00:00",
+  "updated_at": "2026-07-25T17:55:54.283008+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: DIFICULDADES IMPEDEM PLANO INICIAL | A BUSCA PELO SUBSTITUTO DE VIERY",
+      "videoId": "yTOvWvJnfzc",
+      "url": "https://www.youtube.com/watch?v=yTOvWvJnfzc",
+      "thumbnail": "https://i.ytimg.com/vi/yTOvWvJnfzc/mqdefault.jpg",
+      "published": "2026-07-25T17:11:41Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 👀 NEGÓCIO AVANÇADO | MUDANÇAS EM CURITIBA | VG PREOCUPA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=0N1effbyMb0",
       "thumbnail": "https://i.ytimg.com/vi/0N1effbyMb0/mqdefault.jpg",
       "published": "2026-07-25T08:43:27Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: DIREÇÃO PAGA SALÁRIOS | MEC VIRA PROBLEMA | DIEGO CAITO ANUNCIADO",
-      "videoId": "KjKrkjCa0sY",
-      "url": "https://www.youtube.com/watch?v=KjKrkjCa0sY",
-      "thumbnail": "https://i.ytimg.com/vi/KjKrkjCa0sY/mqdefault.jpg",
-      "published": "2026-07-25T05:00:22Z"
     },
     {
       "channel": "Bage TV",
