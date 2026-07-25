@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T00:00:06.977611+00:00",
+  "updated_at": "2026-07-25T00:00:30.123114+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VINI VAI RENOVAR | PROJEÇÃO PARA DOMINGO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #115 - 24/07",
+      "videoId": "Mb85cLQEIDc",
+      "url": "https://www.youtube.com/watch?v=Mb85cLQEIDc",
+      "thumbnail": "https://i.ytimg.com/vi/Mb85cLQEIDc/mqdefault_live.jpg",
+      "published": "2026-07-25T00:00:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CARLOS VINÍCIUS RENOVANDO | DOMINGO DECISIVO DO GRÊMIO | REPERCUSSÕES DA SUL-AMERICANA | IMORTAL FC",
       "videoId": "XJzOM7sr33k",
       "url": "https://www.youtube.com/watch?v=XJzOM7sr33k",
       "thumbnail": "https://i.ytimg.com/vi/XJzOM7sr33k/mqdefault.jpg",
       "published": "2026-07-24T22:18:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "NOTICIÁRIO AGITADO NO GRÊMIO | RENOVAÇÕES, CHEGADAS E VENDAS | JOGO IMPORTANTE | DIRETO DA FENADOCE",
-      "videoId": "yTDGiH-1tTE",
-      "url": "https://www.youtube.com/watch?v=yTDGiH-1tTE",
-      "thumbnail": "https://i.ytimg.com/vi/yTDGiH-1tTE/mqdefault_live.jpg",
-      "published": "2026-07-24T21:28:31Z"
     }
   ]
 }
