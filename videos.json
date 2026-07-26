@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-26T20:00:35.732478+00:00",
+  "updated_at": "2026-07-26T20:54:06.484991+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: REUNIÃO VAI MUDAR TUDO | MEDO DO Z4 BATEU | VAI FICAR PIOR!",
+      "videoId": "p3gU3QEHI9I",
+      "url": "https://www.youtube.com/watch?v=p3gU3QEHI9I",
+      "thumbnail": "https://i.ytimg.com/vi/p3gU3QEHI9I/mqdefault.jpg",
+      "published": "2026-07-26T20:01:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 ELE NÃO GOSTOU | ERRO BIZARRO | VAI TER QUE MUDAR | DEU SORTE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Rt0DfMPaBRg",
       "thumbnail": "https://i.ytimg.com/vi/Rt0DfMPaBRg/mqdefault.jpg",
       "published": "2026-07-26T08:56:03Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Rodada ajuda | Oportunidade no Brasileirão | Novidades no time",
-      "videoId": "_xsdHPwqz8I",
-      "url": "https://www.youtube.com/watch?v=_xsdHPwqz8I",
-      "thumbnail": "https://i.ytimg.com/vi/_xsdHPwqz8I/mqdefault.jpg",
-      "published": "2026-07-26T05:00:09Z"
     },
     {
       "channel": "Bage TV",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ESCALAÇÃO GRÊMIO X FLUMINENSE! #gremio #futebol #brasileirao",
+      "videoId": "SjpjH_KGmG0",
+      "url": "https://www.youtube.com/watch?v=SjpjH_KGmG0",
+      "thumbnail": "https://i.ytimg.com/vi/SjpjH_KGmG0/mqdefault.jpg",
+      "published": "2026-07-26T20:37:07Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "LIGAÇÃO DE GABRIEL MEC. O LADO DO JOGADOR. #gremio #futebol #gabrielmec",
       "videoId": "rcnMqn1Fuw8",
       "url": "https://www.youtube.com/watch?v=rcnMqn1Fuw8",
@@ -107,20 +115,12 @@
       "published": "2026-07-26T15:08:28Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "ACONTECEU TUDO NA TABELA | NOVIDADES GRÊMIO X FLUMINENSE.",
-      "videoId": "J8ZqIv51ruQ",
-      "url": "https://www.youtube.com/watch?v=J8ZqIv51ruQ",
-      "thumbnail": "https://i.ytimg.com/vi/J8ZqIv51ruQ/mqdefault.jpg",
-      "published": "2026-07-26T02:45:00Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x FLUMINENSE DIRETO DA ARENA | BRASILEIRÃO 2026 | 26/07/26 #06",
       "videoId": "QW8Iu_D4_Fw",
       "url": "https://www.youtube.com/watch?v=QW8Iu_D4_Fw",
       "thumbnail": "https://i.ytimg.com/vi/QW8Iu_D4_Fw/mqdefault_live.jpg",
-      "published": "2026-07-26T19:29:32Z"
+      "published": "2026-07-26T20:51:37Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X FLUMINENSE | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "title": "AO VIVO | GRÊMIO ESCALADO | PRÉ-JOGO GRÊMIO X FLUMINENSE | DIRETO DA ARENA DO GRÊMIO",
       "videoId": "wZNoDy1kpBI",
       "url": "https://www.youtube.com/watch?v=wZNoDy1kpBI",
       "thumbnail": "https://i.ytimg.com/vi/wZNoDy1kpBI/mqdefault_live.jpg",
