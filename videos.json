@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T19:20:38.102497+00:00",
+  "updated_at": "2026-07-26T20:00:35.732478+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 24/07/2026",
+      "videoId": "6ZJ9021sZTA",
+      "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
+      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault_live.jpg",
+      "published": "2026-07-26T19:35:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID - É EM CASA E NA ARENA... QUEM MANDA É O TRICOLOR GAÚCHO! | 25/07/2026",
       "videoId": "zh8uy2nZcAg",
       "url": "https://www.youtube.com/watch?v=zh8uy2nZcAg",
       "thumbnail": "https://i.ytimg.com/vi/zh8uy2nZcAg/mqdefault.jpg",
       "published": "2026-07-25T23:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 24/07/2026",
-      "videoId": "6ZJ9021sZTA",
-      "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
-      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault_live.jpg",
-      "published": "2026-07-25T16:45:25Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x FLUMINENSE DIRETO DA ARENA | BRASILEIRÃO 2026 | 26/07/26 #06",
+      "videoId": "QW8Iu_D4_Fw",
+      "url": "https://www.youtube.com/watch?v=QW8Iu_D4_Fw",
+      "thumbnail": "https://i.ytimg.com/vi/QW8Iu_D4_Fw/mqdefault_live.jpg",
+      "published": "2026-07-26T19:29:32Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x FLUMINENSE - BRASILEIRÃO 2026 | COLETIVAS | 26/0726 #23",
       "videoId": "zpy_6z9bjpA",
       "url": "https://www.youtube.com/watch?v=zpy_6z9bjpA",
       "thumbnail": "https://i.ytimg.com/vi/zpy_6z9bjpA/mqdefault_live.jpg",
       "published": "2026-07-25T15:31:59Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x FLUMINENSE DIRETO DA ARENA | BRASILEIRÃO 2026 | 26/07/26 #06",
-      "videoId": "QW8Iu_D4_Fw",
-      "url": "https://www.youtube.com/watch?v=QW8Iu_D4_Fw",
-      "thumbnail": "https://i.ytimg.com/vi/QW8Iu_D4_Fw/mqdefault_live.jpg",
-      "published": "2026-07-25T15:30:28Z"
     },
     {
       "channel": "Duda Garbi",
@@ -152,7 +152,7 @@
       "videoId": "w7LCO3-5RsI",
       "url": "https://www.youtube.com/watch?v=w7LCO3-5RsI",
       "thumbnail": "https://i.ytimg.com/vi/w7LCO3-5RsI/mqdefault_live.jpg",
-      "published": "2026-07-26T15:06:57Z"
+      "published": "2026-07-26T19:27:30Z"
     },
     {
       "channel": "GremioTV Oficial",
