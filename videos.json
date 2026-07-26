@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T14:01:44.944628+00:00",
+  "updated_at": "2026-07-26T15:00:34.387041+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨MEIA QUINTERO ENTRA NA PAUTA | NOVA SOBRE O FUTURO DE GABRIEL MEC | OS TIMES DE GRÊMIO E FLUMINENSE",
+      "videoId": "J752XrpcXGc",
+      "url": "https://www.youtube.com/watch?v=J752XrpcXGc",
+      "thumbnail": "https://i.ytimg.com/vi/J752XrpcXGc/mqdefault.jpg",
+      "published": "2026-07-26T14:34:45Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨INCOMODO COM JOGADOR NO GRÊMIO | PRESSÃO NO TÉCNICO | APOSTA EM RECUPERAÇÕES",
       "videoId": "SRIw1JB7xmY",
       "url": "https://www.youtube.com/watch?v=SRIw1JB7xmY",
@@ -43,12 +51,12 @@
       "published": "2026-07-26T00:13:08Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ÓTIMO MEIA-ARMADOR NO GRÊMIO! JOGA MUITO | AVANÇO POR REFORÇO | UM NOME DESCARTADO!",
-      "videoId": "Fv06ccVAICg",
-      "url": "https://www.youtube.com/watch?v=Fv06ccVAICg",
-      "thumbnail": "https://i.ytimg.com/vi/Fv06ccVAICg/mqdefault.jpg",
-      "published": "2026-07-25T14:35:34Z"
+      "channel": "Canal do CCD",
+      "title": "Grêmio x Fluminense: escalações e o risco na tabela de classificação",
+      "videoId": "Yy8tsApgFSI",
+      "url": "https://www.youtube.com/watch?v=Yy8tsApgFSI",
+      "thumbnail": "https://i.ytimg.com/vi/Yy8tsApgFSI/mqdefault.jpg",
+      "published": "2026-07-26T14:09:01Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=T4Vlg2TyVfc",
       "thumbnail": "https://i.ytimg.com/vi/T4Vlg2TyVfc/mqdefault_live.jpg",
       "published": "2026-07-25T21:03:27Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #638: Grêmio x Flu | Jovane Cabral | Recopa | Ingressos e mais",
-      "videoId": "RWcxxO154FI",
-      "url": "https://www.youtube.com/watch?v=RWcxxO154FI",
-      "thumbnail": "https://i.ytimg.com/vi/RWcxxO154FI/mqdefault.jpg",
-      "published": "2026-07-25T19:54:58Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Confira nota do representante de Gabriel Mec #gremio",
+      "videoId": "lDZnh65VTlE",
+      "url": "https://www.youtube.com/watch?v=lDZnh65VTlE",
+      "thumbnail": "https://i.ytimg.com/vi/lDZnh65VTlE/mqdefault.jpg",
+      "published": "2026-07-26T14:26:07Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Jogo decisivo | Veja a nota do representante de Mec | Grêmio não desistiu do meia",
       "videoId": "HDVS3rQ2ixM",
       "url": "https://www.youtube.com/watch?v=HDVS3rQ2ixM",
       "thumbnail": "https://i.ytimg.com/vi/HDVS3rQ2ixM/mqdefault.jpg",
       "published": "2026-07-26T13:58:24Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Situação na Sul-Americana | Grêmio ainda vai contratar? | Adversário na Recopa",
-      "videoId": "C4T-8IJSYC8",
-      "url": "https://www.youtube.com/watch?v=C4T-8IJSYC8",
-      "thumbnail": "https://i.ytimg.com/vi/C4T-8IJSYC8/mqdefault.jpg",
-      "published": "2026-07-24T14:20:27Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -232,7 +232,7 @@
       "videoId": "XiyqhAsnPxM",
       "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
       "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
-      "published": "2026-07-26T13:04:17Z"
+      "published": "2026-07-26T14:50:21Z"
     },
     {
       "channel": "Radio Imortal",
