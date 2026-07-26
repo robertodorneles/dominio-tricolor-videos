@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T13:00:36.478426+00:00",
+  "updated_at": "2026-07-26T13:46:34.552807+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Quanto custa para alugar o Beira-Rio? CEO da Brio conta detalhes | Paralelas",
+      "videoId": "ez8Ck_tLPYM",
+      "url": "https://www.youtube.com/watch?v=ez8Ck_tLPYM",
+      "thumbnail": "https://i.ytimg.com/vi/ez8Ck_tLPYM/mqdefault.jpg",
+      "published": "2026-07-26T13:00:35Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CORRIDA ELEITORAL QUENTE, TARIFA RECORDE, VINI HARMONIZADO E ESPANHA CAMPEÃ | RivoNews #141(reprise)",
       "videoId": "VHRiJ-ZpxoU",
       "url": "https://www.youtube.com/watch?v=VHRiJ-ZpxoU",
       "thumbnail": "https://i.ytimg.com/vi/VHRiJ-ZpxoU/mqdefault.jpg",
       "published": "2026-07-26T12:30:05Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Marcos Breda relembra \"Mandala\", \"Que Rei Sou Eu?\" e os primeiros anos do Projac | Paralelas",
-      "videoId": "TWAIDJEktrk",
-      "url": "https://www.youtube.com/watch?v=TWAIDJEktrk",
-      "thumbnail": "https://i.ytimg.com/vi/TWAIDJEktrk/mqdefault.jpg",
-      "published": "2026-07-25T22:00:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NA ARENA! | O PROVÁVEL TIME | PRESSÃO EM LUÍS CASTRO? | PLANTÃO IMORTAL",
+      "videoId": "XiyqhAsnPxM",
+      "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
+      "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
+      "published": "2026-07-26T13:04:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 26/07 - GRÊMIO 5X0 PALMEIRAS (LIBERTADORES 1995)",
       "videoId": "geSqVC79c6s",
       "url": "https://www.youtube.com/watch?v=geSqVC79c6s",
       "thumbnail": "https://i.ytimg.com/vi/geSqVC79c6s/mqdefault.jpg",
       "published": "2026-07-26T11:00:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NA ARENA! | O PROVÁVEL TIME | PRESSÃO EM LUÍS CASTRO? | PLANTÃO IMORTAL",
-      "videoId": "XiyqhAsnPxM",
-      "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
-      "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
-      "published": "2026-07-25T16:15:25Z"
     }
   ]
 }
