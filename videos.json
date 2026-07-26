@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T10:42:04.101275+00:00",
+  "updated_at": "2026-07-26T11:00:37.319638+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 26/07 - GRÊMIO 5X0 PALMEIRAS (LIBERTADORES 1995)",
+      "videoId": "geSqVC79c6s",
+      "url": "https://www.youtube.com/watch?v=geSqVC79c6s",
+      "thumbnail": "https://i.ytimg.com/vi/geSqVC79c6s/mqdefault.jpg",
+      "published": "2026-07-26T11:00:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NA ARENA! | O PROVÁVEL TIME | PRESSÃO EM LUÍS CASTRO? | PLANTÃO IMORTAL",
       "videoId": "XiyqhAsnPxM",
       "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
       "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
       "published": "2026-07-25T16:15:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X FLUMINENSE | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
-      "videoId": "wZNoDy1kpBI",
-      "url": "https://www.youtube.com/watch?v=wZNoDy1kpBI",
-      "thumbnail": "https://i.ytimg.com/vi/wZNoDy1kpBI/mqdefault_live.jpg",
-      "published": "2026-07-25T16:03:22Z"
     }
   ]
 }
