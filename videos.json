@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T01:00:35.231319+00:00",
+  "updated_at": "2026-07-26T02:00:35.621000+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "25/07/2026 | JORNADA COMPLETA | ATHLETICO 2 X 0 INTER | CAMPEONATO BRASILEIRO",
+      "videoId": "_JdoI2C0VGg",
+      "url": "https://www.youtube.com/watch?v=_JdoI2C0VGg",
+      "thumbnail": "https://i.ytimg.com/vi/_JdoI2C0VGg/mqdefault_live.jpg",
+      "published": "2026-07-26T01:39:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DO ATHLETICO 2 X 0 INTER - NARRAÇÃO DE DANIEL FELIX | BRASILEIRÃO | 25/07/2026 | RÁDIO GRENAL",
       "videoId": "Zs8CWVa6W8w",
       "url": "https://www.youtube.com/watch?v=Zs8CWVa6W8w",
       "thumbnail": "https://i.ytimg.com/vi/Zs8CWVa6W8w/mqdefault.jpg",
       "published": "2026-07-25T23:45:50Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "25/07/2026 | DEBATE BOLA | ATHLETICO 2 X 0 INTER | CAMPEONATO BRASILEIRO",
-      "videoId": "_JdoI2C0VGg",
-      "url": "https://www.youtube.com/watch?v=_JdoI2C0VGg",
-      "thumbnail": "https://i.ytimg.com/vi/_JdoI2C0VGg/mqdefault_live.jpg",
-      "published": "2026-07-25T16:08:07Z"
     },
     {
       "channel": "Radio Imortal",
