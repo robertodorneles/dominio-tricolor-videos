@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T15:01:29.762549+00:00",
+  "updated_at": "2026-07-26T16:00:34.887917+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "LIGAÇÃO DE GABRIEL MEC. O LADO DO JOGADOR. #gremio #futebol #gabrielmec",
+      "videoId": "rcnMqn1Fuw8",
+      "url": "https://www.youtube.com/watch?v=rcnMqn1Fuw8",
+      "thumbnail": "https://i.ytimg.com/vi/rcnMqn1Fuw8/mqdefault.jpg",
+      "published": "2026-07-26T15:08:28Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ACONTECEU TUDO NA TABELA | NOVIDADES GRÊMIO X FLUMINENSE.",
       "videoId": "J8ZqIv51ruQ",
       "url": "https://www.youtube.com/watch?v=J8ZqIv51ruQ",
       "thumbnail": "https://i.ytimg.com/vi/J8ZqIv51ruQ/mqdefault.jpg",
       "published": "2026-07-26T02:45:00Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "RENOVAÇÃO DE CARLOS VINÍCIUS⚽️🥅 #gremio #futebol",
-      "videoId": "pPymsfx_Oug",
-      "url": "https://www.youtube.com/watch?v=pPymsfx_Oug",
-      "thumbnail": "https://i.ytimg.com/vi/pPymsfx_Oug/mqdefault.jpg",
-      "published": "2026-07-25T16:00:32Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "OLHA O QUE ZÉ ALBERTO FALOU PRO BALDASSO SOBRE JORNALISTAS IDENTIFICADOS | Cortes do Duda",
+      "videoId": "RpoRT5fCY5k",
+      "url": "https://www.youtube.com/watch?v=RpoRT5fCY5k",
+      "thumbnail": "https://i.ytimg.com/vi/RpoRT5fCY5k/mqdefault.jpg",
+      "published": "2026-07-26T16:00:06Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "CRISE FORTE NA DUPLA GRENAL E O PAPEL DA IMPRENSA NA DURA REALIDADE | Cortes do Duda",
       "videoId": "6DSCv17PTPk",
       "url": "https://www.youtube.com/watch?v=6DSCv17PTPk",
@@ -139,12 +147,12 @@
       "published": "2026-07-25T21:00:16Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "OS DETALHES DA BATALHA DOS AFLITOS QUE SÓ ZÉ ALBERTO ANDRADE VIU | Cortes do Duda",
-      "videoId": "Sje9yDH-0b0",
-      "url": "https://www.youtube.com/watch?v=Sje9yDH-0b0",
-      "thumbnail": "https://i.ytimg.com/vi/Sje9yDH-0b0/mqdefault.jpg",
-      "published": "2026-07-25T16:00:36Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X FLUMINENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "w7LCO3-5RsI",
+      "url": "https://www.youtube.com/watch?v=w7LCO3-5RsI",
+      "thumbnail": "https://i.ytimg.com/vi/w7LCO3-5RsI/mqdefault_live.jpg",
+      "published": "2026-07-26T15:06:57Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=qecI2G2ydwg",
       "thumbnail": "https://i.ytimg.com/vi/qecI2G2ydwg/mqdefault.jpg",
       "published": "2026-07-24T19:42:27Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA PÓS-JOGO | BOLÍVAR/BOL x GRÊMIO (CONMEBOL SUL-AMERICANA 2026)",
-      "videoId": "DNP_BUoyU2U",
-      "url": "https://www.youtube.com/watch?v=DNP_BUoyU2U",
-      "thumbnail": "https://i.ytimg.com/vi/DNP_BUoyU2U/mqdefault.jpg",
-      "published": "2026-07-24T08:54:07Z"
     },
     {
       "channel": "GZH Digital",
@@ -231,8 +231,8 @@
       "title": "É DIA DE GRÊMIO NA ARENA! | O PROVÁVEL TIME | PRESSÃO EM LUÍS CASTRO? | PLANTÃO IMORTAL",
       "videoId": "XiyqhAsnPxM",
       "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
-      "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault_live.jpg",
-      "published": "2026-07-26T14:50:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault.jpg",
+      "published": "2026-07-26T15:02:31Z"
     },
     {
       "channel": "Radio Imortal",
