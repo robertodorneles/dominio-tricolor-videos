@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T17:00:32.264169+00:00",
+  "updated_at": "2026-07-26T17:59:14.234450+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... CELSO RIGO | #399",
+      "videoId": "lyRd4l_DSUo",
+      "url": "https://www.youtube.com/watch?v=lyRd4l_DSUo",
+      "thumbnail": "https://i.ytimg.com/vi/lyRd4l_DSUo/mqdefault.jpg",
+      "published": "2026-07-26T17:28:37Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "OLHA O QUE ZÉ ALBERTO FALOU PRO BALDASSO SOBRE JORNALISTAS IDENTIFICADOS | Cortes do Duda",
       "videoId": "RpoRT5fCY5k",
       "url": "https://www.youtube.com/watch?v=RpoRT5fCY5k",
       "thumbnail": "https://i.ytimg.com/vi/RpoRT5fCY5k/mqdefault.jpg",
       "published": "2026-07-26T16:00:06Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "CRISE FORTE NA DUPLA GRENAL E O PAPEL DA IMPRENSA NA DURA REALIDADE | Cortes do Duda",
-      "videoId": "6DSCv17PTPk",
-      "url": "https://www.youtube.com/watch?v=6DSCv17PTPk",
-      "thumbnail": "https://i.ytimg.com/vi/6DSCv17PTPk/mqdefault.jpg",
-      "published": "2026-07-25T21:00:16Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "26/07/2026 | ESQUENTANDO O JOGO | GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO",
+      "videoId": "p3f1ZHokBWw",
+      "url": "https://www.youtube.com/watch?v=p3f1ZHokBWw",
+      "thumbnail": "https://i.ytimg.com/vi/p3f1ZHokBWw/mqdefault_live.jpg",
+      "published": "2026-07-26T17:09:30Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "DERROTA AMARGA! 🇮🇩",
       "videoId": "grIIufGwmKk",
       "url": "https://www.youtube.com/watch?v=grIIufGwmKk",
@@ -219,12 +227,12 @@
       "published": "2026-07-26T02:04:50Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "25/07/2026 | JORNADA COMPLETA | ATHLETICO 2 X 0 INTER | CAMPEONATO BRASILEIRO",
-      "videoId": "_JdoI2C0VGg",
-      "url": "https://www.youtube.com/watch?v=_JdoI2C0VGg",
-      "thumbnail": "https://i.ytimg.com/vi/_JdoI2C0VGg/mqdefault.jpg",
-      "published": "2026-07-26T02:02:57Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X FLUMINENSE | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
+      "videoId": "wZNoDy1kpBI",
+      "url": "https://www.youtube.com/watch?v=wZNoDy1kpBI",
+      "thumbnail": "https://i.ytimg.com/vi/wZNoDy1kpBI/mqdefault_live.jpg",
+      "published": "2026-07-26T17:32:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=XiyqhAsnPxM",
       "thumbnail": "https://i.ytimg.com/vi/XiyqhAsnPxM/mqdefault.jpg",
       "published": "2026-07-26T15:02:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 26/07 - GRÊMIO 5X0 PALMEIRAS (LIBERTADORES 1995)",
-      "videoId": "geSqVC79c6s",
-      "url": "https://www.youtube.com/watch?v=geSqVC79c6s",
-      "thumbnail": "https://i.ytimg.com/vi/geSqVC79c6s/mqdefault.jpg",
-      "published": "2026-07-26T11:00:12Z"
     }
   ]
 }
