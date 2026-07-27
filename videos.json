@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-27T00:00:34.897162+00:00",
+  "updated_at": "2026-07-27T01:00:38.701861+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 1x1 Fluminense: VEJA OS MELHORES MOMENTOS | KANNEMANN ENTREGOU UMA BOA EXIBIÇÃO HOJE",
+      "videoId": "C4RfuFbihkM",
+      "url": "https://www.youtube.com/watch?v=C4RfuFbihkM",
+      "thumbnail": "https://i.ytimg.com/vi/C4RfuFbihkM/mqdefault.jpg",
+      "published": "2026-07-27T00:29:32Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: REUNIÃO VAI MUDAR TUDO | MEDO DO Z4 BATEU | VAI FICAR PIOR!",
@@ -11,28 +19,20 @@
       "published": "2026-07-26T20:01:25Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 ELE NÃO GOSTOU | ERRO BIZARRO | VAI TER QUE MUDAR | DEU SORTE",
-      "videoId": "Rt0DfMPaBRg",
-      "url": "https://www.youtube.com/watch?v=Rt0DfMPaBRg",
-      "thumbnail": "https://i.ytimg.com/vi/Rt0DfMPaBRg/mqdefault.jpg",
-      "published": "2026-07-26T08:56:03Z"
+      "channel": "Bage TV",
+      "title": "🌅🔵 BOM DIA GRÊMIO #086",
+      "videoId": "swVWCb9RflE",
+      "url": "https://www.youtube.com/watch?v=swVWCb9RflE",
+      "thumbnail": "https://i.ytimg.com/vi/swVWCb9RflE/mqdefault_live.jpg",
+      "published": "2026-07-27T00:58:51Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X FLUMINENSE",
-      "videoId": "NJc8PgsBGeY",
-      "url": "https://www.youtube.com/watch?v=NJc8PgsBGeY",
-      "thumbnail": "https://i.ytimg.com/vi/NJc8PgsBGeY/mqdefault_live.jpg",
-      "published": "2026-07-26T18:32:31Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO TERÁ MUDANÇA NO MEIO-CAMPO CONTRA O FLU🌅🔵 BOM DIA GRÊMIO #081",
-      "videoId": "rNFqkIk-iA4",
-      "url": "https://www.youtube.com/watch?v=rNFqkIk-iA4",
-      "thumbnail": "https://i.ytimg.com/vi/rNFqkIk-iA4/mqdefault.jpg",
-      "published": "2026-07-25T15:19:40Z"
+      "title": "🌅🔵 BOM DIA GRÊMIO #085",
+      "videoId": "5w8Kt97EyU0",
+      "url": "https://www.youtube.com/watch?v=5w8Kt97EyU0",
+      "thumbnail": "https://i.ytimg.com/vi/5w8Kt97EyU0/mqdefault_live.jpg",
+      "published": "2026-07-27T00:55:56Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - EMPATE NA MARRA NA ARENA. GRÊMIO X FLUMINENSE",
+      "videoId": "T4Vlg2TyVfc",
+      "url": "https://www.youtube.com/watch?v=T4Vlg2TyVfc",
+      "thumbnail": "https://i.ytimg.com/vi/T4Vlg2TyVfc/mqdefault.jpg",
+      "published": "2026-07-27T00:53:24Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio 1 x 1 Fluminense: empate na Arena | Esse Grêmio cai?",
       "videoId": "n42fyxBOkBQ",
       "url": "https://www.youtube.com/watch?v=n42fyxBOkBQ",
@@ -59,20 +67,12 @@
       "published": "2026-07-26T23:54:30Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - EMPATE NA MARRA NA ARENA. GRÊMIO X FLUMINENSE",
-      "videoId": "T4Vlg2TyVfc",
-      "url": "https://www.youtube.com/watch?v=T4Vlg2TyVfc",
-      "thumbnail": "https://i.ytimg.com/vi/T4Vlg2TyVfc/mqdefault_live.jpg",
-      "published": "2026-07-26T23:34:09Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 24/07/2026",
       "videoId": "6ZJ9021sZTA",
       "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
-      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault_live.jpg",
-      "published": "2026-07-26T19:35:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault.jpg",
+      "published": "2026-07-27T00:39:15Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "HOJE TEVE CARA DE TIME| COMPETIU! #gremio 1 x 1 #fluminense",
-      "videoId": "JKOIYmojQUk",
-      "url": "https://www.youtube.com/watch?v=JKOIYmojQUk",
-      "thumbnail": "https://i.ytimg.com/vi/JKOIYmojQUk/mqdefault.jpg",
-      "published": "2026-07-26T23:35:28Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X  FLUMINENSE | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "_2UXGw0y93g",
       "url": "https://www.youtube.com/watch?v=_2UXGw0y93g",
       "thumbnail": "https://i.ytimg.com/vi/_2UXGw0y93g/mqdefault_live.jpg",
-      "published": "2026-07-26T23:34:41Z"
+      "published": "2026-07-27T00:51:39Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO NÃO VAI CAIR!  GRÊMIO 1 X 1 FLUMINENSE.",
+      "videoId": "hk551YleHk0",
+      "url": "https://www.youtube.com/watch?v=hk551YleHk0",
+      "thumbnail": "https://i.ytimg.com/vi/hk551YleHk0/mqdefault.jpg",
+      "published": "2026-07-27T00:09:28Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,16 +151,16 @@
       "title": "AO VIVO | GRÊMIO X FLUMINENSE (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "w7LCO3-5RsI",
       "url": "https://www.youtube.com/watch?v=w7LCO3-5RsI",
-      "thumbnail": "https://i.ytimg.com/vi/w7LCO3-5RsI/mqdefault_live.jpg",
-      "published": "2026-07-26T19:27:30Z"
+      "thumbnail": "https://i.ytimg.com/vi/w7LCO3-5RsI/mqdefault.jpg",
+      "published": "2026-07-27T00:46:49Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "COLETIVA DE APRESENTAÇÃO I JOVANE CABRAL",
-      "videoId": "qecI2G2ydwg",
-      "url": "https://www.youtube.com/watch?v=qecI2G2ydwg",
-      "thumbnail": "https://i.ytimg.com/vi/qecI2G2ydwg/mqdefault.jpg",
-      "published": "2026-07-24T19:42:27Z"
+      "title": "GOLS | GRÊMIO 1x1 FLUMINENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "6udouiVYZIY",
+      "url": "https://www.youtube.com/watch?v=6udouiVYZIY",
+      "thumbnail": "https://i.ytimg.com/vi/6udouiVYZIY/mqdefault.jpg",
+      "published": "2026-07-27T00:07:04Z"
     },
     {
       "channel": "GZH Digital",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "ENTREVISTA: Psiquiatra faz sério alerta sobre sites de aposta",
-      "videoId": "Os-2gVrpioU",
-      "url": "https://www.youtube.com/watch?v=Os-2gVrpioU",
-      "thumbnail": "https://i.ytimg.com/vi/Os-2gVrpioU/mqdefault.jpg",
-      "published": "2026-07-25T12:30:37Z"
+      "title": "AQUELA LIVE: A Odisseia contra o Z4, reforço inesperado e a real sobre Mec",
+      "videoId": "zd3GmK0zCMk",
+      "url": "https://www.youtube.com/watch?v=zd3GmK0zCMk",
+      "thumbnail": "https://i.ytimg.com/vi/zd3GmK0zCMk/mqdefault_live.jpg",
+      "published": "2026-07-27T00:49:53Z"
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "JEREMIAS RESPONDE #02: Renato tem chance de voltar? E se o Pezzolano estivesse na Arena?",
-      "videoId": "5CTZidxi0gQ",
-      "url": "https://www.youtube.com/watch?v=5CTZidxi0gQ",
-      "thumbnail": "https://i.ytimg.com/vi/5CTZidxi0gQ/mqdefault.jpg",
-      "published": "2026-07-24T23:03:24Z"
+      "title": "ALGO RARO ACONTECEU: Grêmio 1 x 1 Fluminense",
+      "videoId": "cJKrElxMmmk",
+      "url": "https://www.youtube.com/watch?v=cJKrElxMmmk",
+      "thumbnail": "https://i.ytimg.com/vi/cJKrElxMmmk/mqdefault.jpg",
+      "published": "2026-07-27T00:22:15Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DO FLU PRO GRÊMIO? 🇪🇪👀 #shorts #gremio #tricolor #arenadogremio #fluminense #brasileirao",
-      "videoId": "t8QVVApiBl8",
-      "url": "https://www.youtube.com/watch?v=t8QVVApiBl8",
-      "thumbnail": "https://i.ytimg.com/vi/t8QVVApiBl8/mqdefault.jpg",
-      "published": "2026-07-26T22:25:37Z"
+      "title": "CRÍTICAS DA TORCIDA 🇪🇪 #shorts #gremio #tricolor #gremistas #brasileirao #torcida",
+      "videoId": "Bl7o5zyrK_E",
+      "url": "https://www.youtube.com/watch?v=Bl7o5zyrK_E",
+      "thumbnail": "https://i.ytimg.com/vi/Bl7o5zyrK_E/mqdefault.jpg",
+      "published": "2026-07-27T00:33:35Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "26/07/2026 | DEBATE BOLA | GRÊMIO 1 X 1 FLUMINENSE | CAMPEONATO BRASILEIRO",
-      "videoId": "p3f1ZHokBWw",
-      "url": "https://www.youtube.com/watch?v=p3f1ZHokBWw",
-      "thumbnail": "https://i.ytimg.com/vi/p3f1ZHokBWw/mqdefault_live.jpg",
-      "published": "2026-07-26T19:06:19Z"
+      "title": "GOLS DE GRÊMIO 1 X 1 FLUMINENSE - NARRAÇÃO PC CARVALHO | BRASILEIRÃO | 26/07/2026 | RÁDIO GRENAL",
+      "videoId": "7VH_nIWGGq8",
+      "url": "https://www.youtube.com/watch?v=7VH_nIWGGq8",
+      "thumbnail": "https://i.ytimg.com/vi/7VH_nIWGGq8/mqdefault.jpg",
+      "published": "2026-07-27T00:22:54Z"
     },
     {
       "channel": "Radio Imortal",
