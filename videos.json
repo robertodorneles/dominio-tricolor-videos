@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T11:00:44.793532+00:00",
+  "updated_at": "2026-07-27T12:00:54.594426+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "-GyhMpawdCg",
       "url": "https://www.youtube.com/watch?v=-GyhMpawdCg",
       "thumbnail": "https://i.ytimg.com/vi/-GyhMpawdCg/mqdefault_live.jpg",
-      "published": "2026-07-27T09:30:50Z"
+      "published": "2026-07-27T12:00:01Z"
     },
     {
       "channel": "Bage TV",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 27/07/2026",
+      "title": "Impactos da chuva nas lavouras, crescimento do RS, trânsito e + | Gaúcha Atualidade | 27/07/2026",
       "videoId": "yIgo_rWghV4",
       "url": "https://www.youtube.com/watch?v=yIgo_rWghV4",
       "thumbnail": "https://i.ytimg.com/vi/yIgo_rWghV4/mqdefault_live.jpg",
@@ -184,7 +184,7 @@
       "videoId": "zd3GmK0zCMk",
       "url": "https://www.youtube.com/watch?v=zd3GmK0zCMk",
       "thumbnail": "https://i.ytimg.com/vi/zd3GmK0zCMk/mqdefault_live.jpg",
-      "published": "2026-07-27T00:49:53Z"
+      "published": "2026-07-27T11:02:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "BrzqITf69Gs",
       "url": "https://www.youtube.com/watch?v=BrzqITf69Gs",
       "thumbnail": "https://i.ytimg.com/vi/BrzqITf69Gs/mqdefault_live.jpg",
-      "published": "2026-07-27T10:53:35Z"
+      "published": "2026-07-27T11:02:42Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO MOSTROU EVOLUÇÃO CONTRA O FLUMINENSE? | SITUAÇÃO SEGUE DELICADA NA TABELA | REDAÇÃO IMORTAL",
+      "videoId": "B8_dUo3mezU",
+      "url": "https://www.youtube.com/watch?v=B8_dUo3mezU",
+      "thumbnail": "https://i.ytimg.com/vi/B8_dUo3mezU/mqdefault_live.jpg",
+      "published": "2026-07-27T11:02:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE NA HISTÓRIA DO GRÊMIO - 27/07 - EDÍLSON",
       "videoId": "Dq1hkmqvRWY",
       "url": "https://www.youtube.com/watch?v=Dq1hkmqvRWY",
       "thumbnail": "https://i.ytimg.com/vi/Dq1hkmqvRWY/mqdefault.jpg",
       "published": "2026-07-27T11:00:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE DIEGO CAITO | APRESENTAÇÃO DO NOVO REFORÇO DO GRÊMIO | DIRETO DO CT DO IMORTAL",
-      "videoId": "Kg5nqRqtXSs",
-      "url": "https://www.youtube.com/watch?v=Kg5nqRqtXSs",
-      "thumbnail": "https://i.ytimg.com/vi/Kg5nqRqtXSs/mqdefault_live.jpg",
-      "published": "2026-07-27T03:09:02Z"
     }
   ]
 }
