@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-27T22:00:50.270674+00:00",
+  "updated_at": "2026-07-27T22:57:14.342586+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla : O GRÊMIO AGORA TEM UM CROATA | INTER EM MEIO A PROTESTOS",
+      "videoId": "mZ3skuYMRCU",
+      "url": "https://www.youtube.com/watch?v=mZ3skuYMRCU",
+      "thumbnail": "https://i.ytimg.com/vi/mZ3skuYMRCU/mqdefault_live.jpg",
+      "published": "2026-07-27T22:22:56Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 SURPREENDEU A TODOS | NOVA LIDERANÇA SURGE | ROCHET VAI FICAR?",
@@ -11,20 +19,12 @@
       "published": "2026-07-27T18:47:30Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA FILIP KROVINOVIC, O NOVO MEIA TRICOLOR | O CRAQUE FRUSTRADO | EDENÍLSON?",
-      "videoId": "YLVsPjl8DK4",
-      "url": "https://www.youtube.com/watch?v=YLVsPjl8DK4",
-      "thumbnail": "https://i.ytimg.com/vi/YLVsPjl8DK4/mqdefault.jpg",
-      "published": "2026-07-27T17:16:05Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "FUTEBOL BRASILEIRO VAI PARAR! GRÊMIO REVELA MEIA MISTERIOSO E PIRLO FORA DA ITÁLIA📰BAGÉTV NEWS #005",
       "videoId": "cX73nnZgOOs",
       "url": "https://www.youtube.com/watch?v=cX73nnZgOOs",
-      "thumbnail": "https://i.ytimg.com/vi/cX73nnZgOOs/mqdefault_live.jpg",
-      "published": "2026-07-27T20:29:37Z"
+      "thumbnail": "https://i.ytimg.com/vi/cX73nnZgOOs/mqdefault.jpg",
+      "published": "2026-07-27T22:47:22Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRÊMIO X FLUMINENSE | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 24/07/2026",
-      "videoId": "6ZJ9021sZTA",
-      "url": "https://www.youtube.com/watch?v=6ZJ9021sZTA",
-      "thumbnail": "https://i.ytimg.com/vi/6ZJ9021sZTA/mqdefault.jpg",
-      "published": "2026-07-27T00:39:15Z"
+      "title": "OPINIÃO DO FARID l NOSSO CAMISA 10 É CROATA!",
+      "videoId": "hwoz_qW3JoY",
+      "url": "https://www.youtube.com/watch?v=hwoz_qW3JoY",
+      "thumbnail": "https://i.ytimg.com/vi/hwoz_qW3JoY/mqdefault.jpg",
+      "published": "2026-07-27T22:16:37Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "OPINIÃO DO FARID - É EM CASA E NA ARENA... QUEM MANDA É O TRICOLOR GAÚCHO! | 25/07/2026",
-      "videoId": "zh8uy2nZcAg",
-      "url": "https://www.youtube.com/watch?v=zh8uy2nZcAg",
-      "thumbnail": "https://i.ytimg.com/vi/zh8uy2nZcAg/mqdefault.jpg",
-      "published": "2026-07-25T23:00:06Z"
+      "title": "UM CROATA NO GRÊMIO!!!",
+      "videoId": "HME-CDRMRbk",
+      "url": "https://www.youtube.com/watch?v=HME-CDRMRbk",
+      "thumbnail": "https://i.ytimg.com/vi/HME-CDRMRbk/mqdefault.jpg",
+      "published": "2026-07-27T14:49:54Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "OS DETALHES DO FAMOSO ÁUDIO VAZADO DE CELSO RIGO | Cortes do Duda",
+      "videoId": "9hzHZWTcHWI",
+      "url": "https://www.youtube.com/watch?v=9hzHZWTcHWI",
+      "thumbnail": "https://i.ytimg.com/vi/9hzHZWTcHWI/mqdefault.jpg",
+      "published": "2026-07-27T22:45:13Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... CELSO RIGO | #399",
       "videoId": "lyRd4l_DSUo",
       "url": "https://www.youtube.com/watch?v=lyRd4l_DSUo",
       "thumbnail": "https://i.ytimg.com/vi/lyRd4l_DSUo/mqdefault.jpg",
       "published": "2026-07-27T22:00:06Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "COLORADO OU GREMISTA? QUEM CONSEGUE ACERTAR O VERDADEIRO TIME DO ZÉ ALBERTO? | Cortes do Duda",
-      "videoId": "b845d_O6wTE",
-      "url": "https://www.youtube.com/watch?v=b845d_O6wTE",
-      "thumbnail": "https://i.ytimg.com/vi/b845d_O6wTE/mqdefault.jpg",
-      "published": "2026-07-26T21:00:29Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,27 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE APRESENTAÇÃO DE DIEGO CAITO - NOVO LATERAL-DIREITO DO GRÊMIO | RÁDIO GRENAL | 27/07/2026",
-      "videoId": "fLuPyNDQvDg",
-      "url": "https://www.youtube.com/watch?v=fLuPyNDQvDg",
-      "thumbnail": "https://i.ytimg.com/vi/fLuPyNDQvDg/mqdefault.jpg",
-      "published": "2026-07-27T18:39:28Z"
+      "title": "27/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "BrzqITf69Gs",
+      "url": "https://www.youtube.com/watch?v=BrzqITf69Gs",
+      "thumbnail": "https://i.ytimg.com/vi/BrzqITf69Gs/mqdefault.jpg",
+      "published": "2026-07-27T22:28:10Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "GRÊMIO 1 X 1 FLUMINENSE | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
-      "videoId": "uUm5SaCPinQ",
-      "url": "https://www.youtube.com/watch?v=uUm5SaCPinQ",
-      "thumbnail": "https://i.ytimg.com/vi/uUm5SaCPinQ/mqdefault.jpg",
-      "published": "2026-07-27T18:16:02Z"
+      "title": "27/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
+      "videoId": "WM4oddx1oGU",
+      "url": "https://www.youtube.com/watch?v=WM4oddx1oGU",
+      "thumbnail": "https://i.ytimg.com/vi/WM4oddx1oGU/mqdefault_live.jpg",
+      "published": "2026-07-27T22:01:44Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "A GRANDE SURPRESA DO GRÊMIO NO MERCADO | O EMPATE CONTRA O FLUMINENSE E A TABELA | IMORTAL FC",
       "videoId": "TqaLggFWg9w",
       "url": "https://www.youtube.com/watch?v=TqaLggFWg9w",
-      "thumbnail": "https://i.ytimg.com/vi/TqaLggFWg9w/mqdefault_live.jpg",
-      "published": "2026-07-27T21:02:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/TqaLggFWg9w/mqdefault.jpg",
+      "published": "2026-07-27T22:16:52Z"
     },
     {
       "channel": "Radio Imortal",
