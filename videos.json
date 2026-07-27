@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-27T09:00:57.497366+00:00",
+  "updated_at": "2026-07-27T10:00:43.370659+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: PRESSA PRA FUGIR DO Z4 | PACOTE NA ARGENTINA | FRASE PEGOU MAL!",
+      "videoId": "wwM3TFWVdw0",
+      "url": "https://www.youtube.com/watch?v=wwM3TFWVdw0",
+      "thumbnail": "https://i.ytimg.com/vi/wwM3TFWVdw0/mqdefault.jpg",
+      "published": "2026-07-27T09:32:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: LUÍS CASTRO RESPONDE às vaias | CAITO salva | Bastidor com PAVÓN",
@@ -11,12 +19,12 @@
       "published": "2026-07-27T07:00:34Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: Mais um final de semana sem vitórias de Grêmio e Inter | E como fica a tabela?",
-      "videoId": "2gVJUOl28YA",
-      "url": "https://www.youtube.com/watch?v=2gVJUOl28YA",
-      "thumbnail": "https://i.ytimg.com/vi/2gVJUOl28YA/mqdefault.jpg",
-      "published": "2026-07-27T03:16:22Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO DESPERDIÇA PONTOS NA ARENA 🌅🔵 BOM DIA GRÊMIO #082",
+      "videoId": "-GyhMpawdCg",
+      "url": "https://www.youtube.com/watch?v=-GyhMpawdCg",
+      "thumbnail": "https://i.ytimg.com/vi/-GyhMpawdCg/mqdefault_live.jpg",
+      "published": "2026-07-27T09:30:50Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=3OKQaLpLRro",
       "thumbnail": "https://i.ytimg.com/vi/3OKQaLpLRro/mqdefault_live.jpg",
       "published": "2026-07-27T05:00:28Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "📰BAGÉTV NEWS #007",
-      "videoId": "3WrRjLCNQrY",
-      "url": "https://www.youtube.com/watch?v=3WrRjLCNQrY",
-      "thumbnail": "https://i.ytimg.com/vi/3WrRjLCNQrY/mqdefault_live.jpg",
-      "published": "2026-07-27T04:59:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x FLUMINENSE DIRETO DA ARENA | BRASILEIRÃO 2026 | 26/07/26 #06",
+      "videoId": "QW8Iu_D4_Fw",
+      "url": "https://www.youtube.com/watch?v=QW8Iu_D4_Fw",
+      "thumbnail": "https://i.ytimg.com/vi/QW8Iu_D4_Fw/mqdefault.jpg",
+      "published": "2026-07-27T09:02:44Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x FLUMINENSE - BRASILEIRÃO 2026 | COLETIVAS | 26/0726 #23",
       "videoId": "zpy_6z9bjpA",
       "url": "https://www.youtube.com/watch?v=zpy_6z9bjpA",
       "thumbnail": "https://i.ytimg.com/vi/zpy_6z9bjpA/mqdefault.jpg",
       "published": "2026-07-27T01:23:01Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x FLUMINENSE DIRETO DA ARENA | BRASILEIRÃO 2026 | 26/07/26 #06",
-      "videoId": "QW8Iu_D4_Fw",
-      "url": "https://www.youtube.com/watch?v=QW8Iu_D4_Fw",
-      "thumbnail": "https://i.ytimg.com/vi/QW8Iu_D4_Fw/mqdefault_live.jpg",
-      "published": "2026-07-26T20:51:37Z"
     },
     {
       "channel": "Duda Garbi",
