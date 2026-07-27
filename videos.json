@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-27T17:01:01.566377+00:00",
+  "updated_at": "2026-07-27T17:39:18.358194+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA FILIP KROVINOVIC, O NOVO MEIA TRICOLOR | O CRAQUE FRUSTRADO | EDENÍLSON?",
+      "videoId": "YLVsPjl8DK4",
+      "url": "https://www.youtube.com/watch?v=YLVsPjl8DK4",
+      "thumbnail": "https://i.ytimg.com/vi/YLVsPjl8DK4/mqdefault.jpg",
+      "published": "2026-07-27T17:16:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: PRESSA PRA FUGIR DO Z4 | PACOTE NA ARGENTINA | FRASE PEGOU MAL!",
@@ -11,12 +19,12 @@
       "published": "2026-07-27T09:32:25Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: LUÍS CASTRO RESPONDE às vaias | CAITO salva | Bastidor com PAVÓN",
-      "videoId": "tXeyEZQAM1U",
-      "url": "https://www.youtube.com/watch?v=tXeyEZQAM1U",
-      "thumbnail": "https://i.ytimg.com/vi/tXeyEZQAM1U/mqdefault.jpg",
-      "published": "2026-07-27T07:00:34Z"
+      "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE DIEGO CAITO",
+      "videoId": "aE9JkQpEtSg",
+      "url": "https://www.youtube.com/watch?v=aE9JkQpEtSg",
+      "thumbnail": "https://i.ytimg.com/vi/aE9JkQpEtSg/mqdefault.jpg",
+      "published": "2026-07-27T17:24:52Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=JP1sA58Mvs8",
       "thumbnail": "https://i.ytimg.com/vi/JP1sA58Mvs8/mqdefault_live.jpg",
       "published": "2026-07-27T16:32:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE DIEGO CAITO",
-      "videoId": "aE9JkQpEtSg",
-      "url": "https://www.youtube.com/watch?v=aE9JkQpEtSg",
-      "thumbnail": "https://i.ytimg.com/vi/aE9JkQpEtSg/mqdefault_live.jpg",
-      "published": "2026-07-27T16:16:36Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -151,8 +151,8 @@
       "title": "COLETIVA DE APRESENTAÇÃO I DIEGO CAITO",
       "videoId": "4kPvWgpsQhQ",
       "url": "https://www.youtube.com/watch?v=4kPvWgpsQhQ",
-      "thumbnail": "https://i.ytimg.com/vi/4kPvWgpsQhQ/mqdefault_live.jpg",
-      "published": "2026-07-27T16:29:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/4kPvWgpsQhQ/mqdefault.jpg",
+      "published": "2026-07-27T17:06:18Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "27/07/2026 | APRESENTAÇÃO DE DIEGO CAITO - NOVO LATERAL-DIREITO DO GRÊMIO | RÁDIO GRENAL",
+      "title": "27/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "BrzqITf69Gs",
       "url": "https://www.youtube.com/watch?v=BrzqITf69Gs",
       "thumbnail": "https://i.ytimg.com/vi/BrzqITf69Gs/mqdefault_live.jpg",
@@ -231,16 +231,16 @@
       "title": "AO VIVO | COLETIVA DE DIEGO CAITO | APRESENTAÇÃO DO NOVO REFORÇO DO GRÊMIO | DIRETO DO CT DO IMORTAL",
       "videoId": "Kg5nqRqtXSs",
       "url": "https://www.youtube.com/watch?v=Kg5nqRqtXSs",
-      "thumbnail": "https://i.ytimg.com/vi/Kg5nqRqtXSs/mqdefault_live.jpg",
-      "published": "2026-07-27T16:06:25Z"
+      "thumbnail": "https://i.ytimg.com/vi/Kg5nqRqtXSs/mqdefault.jpg",
+      "published": "2026-07-27T17:28:39Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #121 — GRÊMIO ENCAMINHA A CHEGADA DE KROVINOVIC | EMPATE ONTEM NA ARENA",
-      "videoId": "UCKlOSwpjlU",
-      "url": "https://www.youtube.com/watch?v=UCKlOSwpjlU",
-      "thumbnail": "https://i.ytimg.com/vi/UCKlOSwpjlU/mqdefault.jpg",
-      "published": "2026-07-27T15:23:56Z"
+      "title": "A GRANDE SURPRESA DO GRÊMIO NO MERCADO | O EMPATE CONTRA O FLUMINENSE E A TABELA | IMORTAL FC",
+      "videoId": "TqaLggFWg9w",
+      "url": "https://www.youtube.com/watch?v=TqaLggFWg9w",
+      "thumbnail": "https://i.ytimg.com/vi/TqaLggFWg9w/mqdefault_live.jpg",
+      "published": "2026-07-27T17:20:13Z"
     }
   ]
 }
