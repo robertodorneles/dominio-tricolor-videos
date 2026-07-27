@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T21:00:38.367580+00:00",
+  "updated_at": "2026-07-27T21:06:15.329944+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A GRANDE SURPRESA DO GRÊMIO NO MERCADO | O EMPATE CONTRA O FLUMINENSE E A TABELA | IMORTAL FC",
+      "videoId": "TqaLggFWg9w",
+      "url": "https://www.youtube.com/watch?v=TqaLggFWg9w",
+      "thumbnail": "https://i.ytimg.com/vi/TqaLggFWg9w/mqdefault_live.jpg",
+      "published": "2026-07-27T21:02:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ANÁLISE DO EMPATE | KROVINOVIC É DO GRÊMIO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #116 - 27/07",
       "videoId": "l_Ed9vjRezU",
       "url": "https://www.youtube.com/watch?v=l_Ed9vjRezU",
       "thumbnail": "https://i.ytimg.com/vi/l_Ed9vjRezU/mqdefault_live.jpg",
       "published": "2026-07-27T20:49:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FILIP KROVINOVIC, O NOVO MEIA DO GRÊMIO | CRIATIVIDADE OU INVENÇÃO? | REPERCUSSÕES DA RODADA",
-      "videoId": "La64ZcqEVq4",
-      "url": "https://www.youtube.com/watch?v=La64ZcqEVq4",
-      "thumbnail": "https://i.ytimg.com/vi/La64ZcqEVq4/mqdefault.jpg",
-      "published": "2026-07-27T19:35:50Z"
     }
   ]
 }
