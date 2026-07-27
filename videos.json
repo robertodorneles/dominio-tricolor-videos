@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T10:00:43.370659+00:00",
+  "updated_at": "2026-07-27T11:00:44.793532+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 27/07/2026",
+      "videoId": "yIgo_rWghV4",
+      "url": "https://www.youtube.com/watch?v=yIgo_rWghV4",
+      "thumbnail": "https://i.ytimg.com/vi/yIgo_rWghV4/mqdefault_live.jpg",
+      "published": "2026-07-27T10:56:07Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Marcos Breda fala sobre uso de ANTIDEPRESSIVOS, sequência de cirurgias e mais | Paralelas",
       "videoId": "11A5Fu7GWzw",
       "url": "https://www.youtube.com/watch?v=11A5Fu7GWzw",
       "thumbnail": "https://i.ytimg.com/vi/11A5Fu7GWzw/mqdefault.jpg",
       "published": "2026-07-26T17:00:25Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "DTF St. Louis: série MARAVILHOSA para maratonar em 1 DIA na HBO Max | Dica do Ticiano",
-      "videoId": "J-hla0Kyqh0",
-      "url": "https://www.youtube.com/watch?v=J-hla0Kyqh0",
-      "thumbnail": "https://i.ytimg.com/vi/J-hla0Kyqh0/mqdefault.jpg",
-      "published": "2026-07-26T16:00:32Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "27/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "BrzqITf69Gs",
+      "url": "https://www.youtube.com/watch?v=BrzqITf69Gs",
+      "thumbnail": "https://i.ytimg.com/vi/BrzqITf69Gs/mqdefault_live.jpg",
+      "published": "2026-07-27T10:53:35Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "\"PODERIA TER VENCIDO\" 🇪🇪 #shorts #grêmio #tricolor #fluminense #campeonatobrasileiro #brasileirao",
       "videoId": "kdIrQO2RKQs",
       "url": "https://www.youtube.com/watch?v=kdIrQO2RKQs",
@@ -219,12 +227,12 @@
       "published": "2026-07-27T02:33:34Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "26/07/2026 | JOGO COMPLETO | GRÊMIO 1 X 1 FLUMINENSE | CAMPEONATO BRASILEIRO",
-      "videoId": "p3f1ZHokBWw",
-      "url": "https://www.youtube.com/watch?v=p3f1ZHokBWw",
-      "thumbnail": "https://i.ytimg.com/vi/p3f1ZHokBWw/mqdefault.jpg",
-      "published": "2026-07-27T02:23:57Z"
+      "channel": "Radio Imortal",
+      "title": "HOJE NA HISTÓRIA DO GRÊMIO - 27/07 - EDÍLSON",
+      "videoId": "Dq1hkmqvRWY",
+      "url": "https://www.youtube.com/watch?v=Dq1hkmqvRWY",
+      "thumbnail": "https://i.ytimg.com/vi/Dq1hkmqvRWY/mqdefault.jpg",
+      "published": "2026-07-27T11:00:33Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Kg5nqRqtXSs",
       "thumbnail": "https://i.ytimg.com/vi/Kg5nqRqtXSs/mqdefault_live.jpg",
       "published": "2026-07-27T03:09:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #121 — GRÊMIO EMPATA NA ARENA COM BOAS NOVIDADES | KANEMANN PEDE DESCULPAS",
-      "videoId": "UCKlOSwpjlU",
-      "url": "https://www.youtube.com/watch?v=UCKlOSwpjlU",
-      "thumbnail": "https://i.ytimg.com/vi/UCKlOSwpjlU/mqdefault_live.jpg",
-      "published": "2026-07-27T03:07:41Z"
     }
   ]
 }
