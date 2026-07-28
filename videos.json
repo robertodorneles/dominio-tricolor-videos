@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-28T22:00:41.853289+00:00",
+  "updated_at": "2026-07-28T23:00:40.719563+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: ÁUDIO FAKE NO TRIBUNAL FOI PRA ACABAR COM TUDO | INTER E GRÊMIO AQUI HOJE",
+      "videoId": "AN-5n_P8zbY",
+      "url": "https://www.youtube.com/watch?v=AN-5n_P8zbY",
+      "thumbnail": "https://i.ytimg.com/vi/AN-5n_P8zbY/mqdefault_live.jpg",
+      "published": "2026-07-28T22:26:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA COMO VILLASANTI ENCAIXOU NO NOVO TIME DE CASTRO | ELOGIOS AO PARAGUAIO | OBS",
@@ -11,20 +19,12 @@
       "published": "2026-07-28T20:00:38Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: VEJA E OUÇA O CONSTRANGEDOR MOMENTO DO ÁUDIO FAKE NO STJD | VITOR GABRIEL SE DEU MAL",
-      "videoId": "vG-DUQcislk",
-      "url": "https://www.youtube.com/watch?v=vG-DUQcislk",
-      "thumbnail": "https://i.ytimg.com/vi/vG-DUQcislk/mqdefault.jpg",
-      "published": "2026-07-28T16:24:35Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "ACABOU O MISTÉRIO! Grêmio revela o meia e Luís Castro toma decisão com Willian📰BAGÉTV NEWS #006",
       "videoId": "UDPc_kL_Zko",
       "url": "https://www.youtube.com/watch?v=UDPc_kL_Zko",
-      "thumbnail": "https://i.ytimg.com/vi/UDPc_kL_Zko/mqdefault_live.jpg",
-      "published": "2026-07-28T20:28:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/UDPc_kL_Zko/mqdefault.jpg",
+      "published": "2026-07-28T22:24:45Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "MARCELO MARQUE E CELSO RIGO: OS BASTIDORES E FUTURO DO GRÊMIO | Cortes do Duda",
+      "videoId": "AIEigvUaIw4",
+      "url": "https://www.youtube.com/watch?v=AIEigvUaIw4",
+      "thumbnail": "https://i.ytimg.com/vi/AIEigvUaIw4/mqdefault.jpg",
+      "published": "2026-07-28T22:30:08Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O GRÊMIO DAQUI 20 ANOS #dudagarbi #umassadopara",
       "videoId": "-Op-ZLmjSIQ",
       "url": "https://www.youtube.com/watch?v=-Op-ZLmjSIQ",
       "thumbnail": "https://i.ytimg.com/vi/-Op-ZLmjSIQ/mqdefault.jpg",
       "published": "2026-07-28T22:00:20Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "CELSO RIGO REFORÇA: CHEGA DE SHOW DO MILHÃO NA FOLHA DO GRÊMIO | Cortes do Duda",
-      "videoId": "VHRwvgEKywM",
-      "url": "https://www.youtube.com/watch?v=VHRwvgEKywM",
-      "thumbnail": "https://i.ytimg.com/vi/VHRwvgEKywM/mqdefault.jpg",
-      "published": "2026-07-28T21:30:03Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Após tensão entre Lula e Milei, saiba qual é o roteiro de uma crise diplomática",
-      "videoId": "_8L8Y8mQe-4",
-      "url": "https://www.youtube.com/watch?v=_8L8Y8mQe-4",
-      "thumbnail": "https://i.ytimg.com/vi/_8L8Y8mQe-4/mqdefault.jpg",
-      "published": "2026-07-28T21:30:56Z"
+      "title": "Milei no Brasil: qual o impacto da visita? | Conversas Cruzadas",
+      "videoId": "ulNNwc6GcAw",
+      "url": "https://www.youtube.com/watch?v=ulNNwc6GcAw",
+      "thumbnail": "https://i.ytimg.com/vi/ulNNwc6GcAw/mqdefault.jpg",
+      "published": "2026-07-28T23:00:09Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Flávio Bolsonaro lança campanha; Milei e vídeo com IA viram problema | Andei Pensando | 28/07/2026",
-      "videoId": "uIOGoR5L3Es",
-      "url": "https://www.youtube.com/watch?v=uIOGoR5L3Es",
-      "thumbnail": "https://i.ytimg.com/vi/uIOGoR5L3Es/mqdefault.jpg",
-      "published": "2026-07-28T21:30:06Z"
+      "title": "Qual o impacto de Milei na campanha de Flávio Bolsonaro? | Conversas Cruzadas",
+      "videoId": "8puL_VvmAYk",
+      "url": "https://www.youtube.com/watch?v=8puL_VvmAYk",
+      "thumbnail": "https://i.ytimg.com/vi/8puL_VvmAYk/mqdefault.jpg",
+      "published": "2026-07-28T22:22:20Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "SURREAL! INTER USA ÁUDIO FAKE NO STJD: Entenda o caso completo e o que vai acontecer",
+      "videoId": "O5slzLfI9bg",
+      "url": "https://www.youtube.com/watch?v=O5slzLfI9bg",
+      "thumbnail": "https://i.ytimg.com/vi/O5slzLfI9bg/mqdefault.jpg",
+      "published": "2026-07-28T22:09:46Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=YUnEVd2kKLw",
       "thumbnail": "https://i.ytimg.com/vi/YUnEVd2kKLw/mqdefault.jpg",
       "published": "2026-07-27T19:53:04Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Os detalhes do contrato de Filip Krovinović, o novo meia do Grêmio",
-      "videoId": "3x2Kie7VM_A",
-      "url": "https://www.youtube.com/watch?v=3x2Kie7VM_A",
-      "thumbnail": "https://i.ytimg.com/vi/3x2Kie7VM_A/mqdefault.jpg",
-      "published": "2026-07-27T16:04:37Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "SEM FAKE POR AQUI! | WILLIAN FORA DOS PLANOS DO GRÊMIO | LUÍS CASTRO VAI MUDAR O TIME? | IMORTAL FC",
       "videoId": "y0yuIGBuL-w",
       "url": "https://www.youtube.com/watch?v=y0yuIGBuL-w",
-      "thumbnail": "https://i.ytimg.com/vi/y0yuIGBuL-w/mqdefault_live.jpg",
-      "published": "2026-07-28T21:03:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/y0yuIGBuL-w/mqdefault.jpg",
+      "published": "2026-07-28T22:12:50Z"
     },
     {
       "channel": "Radio Imortal",
