@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T11:00:51.645104+00:00",
+  "updated_at": "2026-07-28T11:14:01.707316+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "u68IoK9qIyc",
       "url": "https://www.youtube.com/watch?v=u68IoK9qIyc",
       "thumbnail": "https://i.ytimg.com/vi/u68IoK9qIyc/mqdefault_live.jpg",
-      "published": "2026-07-28T10:45:17Z"
+      "published": "2026-07-28T11:04:12Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO APOSTA EM CROATA PARA O MEIO-CAMPO | EXCESSO DE ESTRANGEIROS? | REDAÇÃO IMORTAL",
+      "videoId": "W_WlHpb9jfo",
+      "url": "https://www.youtube.com/watch?v=W_WlHpb9jfo",
+      "thumbnail": "https://i.ytimg.com/vi/W_WlHpb9jfo/mqdefault_live.jpg",
+      "published": "2026-07-28T11:02:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ANÁLISE DO EMPATE | KROVINOVIC É DO GRÊMIO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #116 - 27/07",
       "videoId": "l_Ed9vjRezU",
       "url": "https://www.youtube.com/watch?v=l_Ed9vjRezU",
       "thumbnail": "https://i.ytimg.com/vi/l_Ed9vjRezU/mqdefault.jpg",
       "published": "2026-07-28T01:48:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #122 — QUAIS OS PRÓXIMOS PASSOS DO GRÊMIO NO MERCADO?",
-      "videoId": "YbjgBct9Pj0",
-      "url": "https://www.youtube.com/watch?v=YbjgBct9Pj0",
-      "thumbnail": "https://i.ytimg.com/vi/YbjgBct9Pj0/mqdefault_live.jpg",
-      "published": "2026-07-27T23:42:59Z"
     }
   ]
 }
