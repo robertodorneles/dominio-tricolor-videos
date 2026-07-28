@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-28T16:04:50.931146+00:00",
+  "updated_at": "2026-07-28T17:00:40.415185+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: VEJA E OUÇA O CONSTRANGEDOR MOMENTO DO ÁUDIO FAKE NO STJD | VITOR GABRIEL SE DEU MAL",
+      "videoId": "vG-DUQcislk",
+      "url": "https://www.youtube.com/watch?v=vG-DUQcislk",
+      "thumbnail": "https://i.ytimg.com/vi/vG-DUQcislk/mqdefault.jpg",
+      "published": "2026-07-28T16:24:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 REUNIÃO MARCADA POR PROTESTO! | ALEXIS SANCHEZ NO INTER? | IAGO CHEGANDO",
@@ -11,12 +19,12 @@
       "published": "2026-07-28T08:40:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: KROVINOVIĆ oficial | Quem sai? | CAITO apresentado",
-      "videoId": "D1QYtEudBu0",
-      "url": "https://www.youtube.com/watch?v=D1QYtEudBu0",
-      "thumbnail": "https://i.ytimg.com/vi/D1QYtEudBu0/mqdefault.jpg",
-      "published": "2026-07-28T05:00:03Z"
+      "channel": "Bage TV",
+      "title": "ESCÂNDALO NO STJD! INTER  USA ÁUDIO FAKE EM JULGAMENTO DE VICTOR GABRIEL🔸RESENHA FORA DA SALA🔸#095",
+      "videoId": "oTECXrl9Qag",
+      "url": "https://www.youtube.com/watch?v=oTECXrl9Qag",
+      "thumbnail": "https://i.ytimg.com/vi/oTECXrl9Qag/mqdefault_live.jpg",
+      "published": "2026-07-28T16:28:59Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=seltGzrAVu4",
       "thumbnail": "https://i.ytimg.com/vi/seltGzrAVu4/mqdefault.jpg",
       "published": "2026-07-28T15:18:42Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "KROVINOVIC ERA O MEIA MISTERIOSO? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 28/07 - #599",
-      "videoId": "Q6YktlfyCCs",
-      "url": "https://www.youtube.com/watch?v=Q6YktlfyCCs",
-      "thumbnail": "https://i.ytimg.com/vi/Q6YktlfyCCs/mqdefault.jpg",
-      "published": "2026-07-28T13:40:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Milei x Lula: qual o impacto nas eleições de 2026? | Conversas Cruzadas | 28/07/2026",
+      "videoId": "vm64997VgQg",
+      "url": "https://www.youtube.com/watch?v=vm64997VgQg",
+      "thumbnail": "https://i.ytimg.com/vi/vm64997VgQg/mqdefault_live.jpg",
+      "published": "2026-07-28T16:53:54Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "DIA DO AGRICULTOR: veja como é a rotina de um produtor rural em dia de feira | GZH",
       "videoId": "2PXFkSe5d5c",
       "url": "https://www.youtube.com/watch?v=2PXFkSe5d5c",
       "thumbnail": "https://i.ytimg.com/vi/2PXFkSe5d5c/mqdefault.jpg",
       "published": "2026-07-28T15:03:24Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Muito além do chimarrão: a força da erva-mate gaúcha | No Caminho do Agro #005",
-      "videoId": "t4kH_L-15IM",
-      "url": "https://www.youtube.com/watch?v=t4kH_L-15IM",
-      "thumbnail": "https://i.ytimg.com/vi/t4kH_L-15IM/mqdefault.jpg",
-      "published": "2026-07-28T15:00:06Z"
     },
     {
       "channel": "Jeremias Wernek",
