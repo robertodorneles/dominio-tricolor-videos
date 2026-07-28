@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T14:00:40.291034+00:00",
+  "updated_at": "2026-07-28T15:00:47.617136+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #032",
+      "videoId": "seltGzrAVu4",
+      "url": "https://www.youtube.com/watch?v=seltGzrAVu4",
+      "thumbnail": "https://i.ytimg.com/vi/seltGzrAVu4/mqdefault_live.jpg",
+      "published": "2026-07-28T14:50:34Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "KROVINOVIC ERA O MEIA MISTERIOSO? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 28/07 - #599",
       "videoId": "Q6YktlfyCCs",
       "url": "https://www.youtube.com/watch?v=Q6YktlfyCCs",
@@ -27,12 +35,12 @@
       "published": "2026-07-28T13:40:08Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #032",
-      "videoId": "seltGzrAVu4",
-      "url": "https://www.youtube.com/watch?v=seltGzrAVu4",
-      "thumbnail": "https://i.ytimg.com/vi/seltGzrAVu4/mqdefault_live.jpg",
-      "published": "2026-07-28T13:38:51Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONFIRMA MAIS UM REFORÇO | O NOVO MEIO-CAMPO COM NOVAS PEÇAS | O CEO FOI ELOGIADO!",
+      "videoId": "RuGG5MJMcq0",
+      "url": "https://www.youtube.com/watch?v=RuGG5MJMcq0",
+      "thumbnail": "https://i.ytimg.com/vi/RuGG5MJMcq0/mqdefault.jpg",
+      "published": "2026-07-28T14:30:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-07-27T14:52:11Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CONFIRMAMOS DOIS BONS REFORÇOS | EMPATE MUITO AMARGO DO GRÊMIO | O DESEMPENHO MELHOROU!",
-      "videoId": "9OKfgp3uwgI",
-      "url": "https://www.youtube.com/watch?v=9OKfgp3uwgI",
-      "thumbnail": "https://i.ytimg.com/vi/9OKfgp3uwgI/mqdefault.jpg",
-      "published": "2026-07-27T01:40:05Z"
+      "channel": "Canal do CCD",
+      "title": "O novo time do Grêmio | Os jogadores que faltam e as próximas saídas",
+      "videoId": "t9PT74glRHs",
+      "url": "https://www.youtube.com/watch?v=t9PT74glRHs",
+      "thumbnail": "https://i.ytimg.com/vi/t9PT74glRHs/mqdefault.jpg",
+      "published": "2026-07-28T14:28:09Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=xYscuNwnNIY",
       "thumbnail": "https://i.ytimg.com/vi/xYscuNwnNIY/mqdefault.jpg",
       "published": "2026-07-28T01:23:22Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #639: Krovinovic | Estrangeiros | Rebaixamento | Renovação e mais",
-      "videoId": "pCAR0jKiGpg",
-      "url": "https://www.youtube.com/watch?v=pCAR0jKiGpg",
-      "thumbnail": "https://i.ytimg.com/vi/pCAR0jKiGpg/mqdefault.jpg",
-      "published": "2026-07-27T21:33:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Chuva no RS, terremoto no Japão, feminicídio em Porto Alegre e mais | Timeline | 28/07/26",
-      "videoId": "Je_Py3TxygQ",
-      "url": "https://www.youtube.com/watch?v=Je_Py3TxygQ",
-      "thumbnail": "https://i.ytimg.com/vi/Je_Py3TxygQ/mqdefault_live.jpg",
-      "published": "2026-07-28T13:55:19Z"
+      "title": "Muito além do chimarrão: a força da erva-mate gaúcha | No Caminho do Agro #005",
+      "videoId": "t4kH_L-15IM",
+      "url": "https://www.youtube.com/watch?v=t4kH_L-15IM",
+      "thumbnail": "https://i.ytimg.com/vi/t4kH_L-15IM/mqdefault.jpg",
+      "published": "2026-07-28T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Chuva no RS, terremoto no Japão, últimas notícias, trânsito e mais | Gaúcha Atualidade | 28/07/2026",
-      "videoId": "RYTf8ztQUxk",
-      "url": "https://www.youtube.com/watch?v=RYTf8ztQUxk",
-      "thumbnail": "https://i.ytimg.com/vi/RYTf8ztQUxk/mqdefault.jpg",
-      "published": "2026-07-28T13:31:03Z"
+      "title": "CHUVA NO RS: Câmera flagra telhado sendo levado pelo vento em Caxias do Sul",
+      "videoId": "bk1r-OTtnX0",
+      "url": "https://www.youtube.com/watch?v=bk1r-OTtnX0",
+      "thumbnail": "https://i.ytimg.com/vi/bk1r-OTtnX0/mqdefault.jpg",
+      "published": "2026-07-28T14:45:00Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM GUSTAVO JUCHEM - PRESIDENTE DO CONSELHO DELIBERATIVO DO INTER | 28/07/26",
+      "videoId": "gIFXK-GjhNE",
+      "url": "https://www.youtube.com/watch?v=gIFXK-GjhNE",
+      "thumbnail": "https://i.ytimg.com/vi/gIFXK-GjhNE/mqdefault.jpg",
+      "published": "2026-07-28T14:10:07Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA EXCLUSIVA COM TULIO MILMAN - JORNALISTA | 28/07/26",
       "videoId": "IeR4qYWiEqc",
       "url": "https://www.youtube.com/watch?v=IeR4qYWiEqc",
@@ -219,28 +227,20 @@
       "published": "2026-07-28T12:32:56Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "28/07/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "u68IoK9qIyc",
-      "url": "https://www.youtube.com/watch?v=u68IoK9qIyc",
-      "thumbnail": "https://i.ytimg.com/vi/u68IoK9qIyc/mqdefault_live.jpg",
-      "published": "2026-07-28T11:04:12Z"
+      "channel": "Radio Imortal",
+      "title": "FILIPE KUNRATH QUESTIONA CONTRATAÇÃO DE KROVINOVIC | COMO É BOM SER DO GRÊMIO",
+      "videoId": "7s7xIrshbuw",
+      "url": "https://www.youtube.com/watch?v=7s7xIrshbuw",
+      "thumbnail": "https://i.ytimg.com/vi/7s7xIrshbuw/mqdefault.jpg",
+      "published": "2026-07-28T14:53:34Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO APOSTA EM CROATA PARA O MEIO-CAMPO | EXCESSO DE ESTRANGEIROS? | REDAÇÃO IMORTAL",
-      "videoId": "W_WlHpb9jfo",
-      "url": "https://www.youtube.com/watch?v=W_WlHpb9jfo",
-      "thumbnail": "https://i.ytimg.com/vi/W_WlHpb9jfo/mqdefault.jpg",
-      "published": "2026-07-28T12:41:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O NOVO REFORÇO DO GRÊMIO | TEREMOS SAÍDAS? | COMO É BOM SER DO GRÊMIO #07",
-      "videoId": "kxug-fAUu48",
-      "url": "https://www.youtube.com/watch?v=kxug-fAUu48",
-      "thumbnail": "https://i.ytimg.com/vi/kxug-fAUu48/mqdefault_live.jpg",
-      "published": "2026-07-28T12:31:50Z"
+      "title": "TIMELINE IMORTAL #122 — QUAIS OS PRÓXIMOS PASSOS DO GRÊMIO NO MERCADO?",
+      "videoId": "YbjgBct9Pj0",
+      "url": "https://www.youtube.com/watch?v=YbjgBct9Pj0",
+      "thumbnail": "https://i.ytimg.com/vi/YbjgBct9Pj0/mqdefault_live.jpg",
+      "published": "2026-07-28T14:09:27Z"
     }
   ]
 }
