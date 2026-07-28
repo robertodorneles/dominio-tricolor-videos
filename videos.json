@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T15:00:47.617136+00:00",
+  "updated_at": "2026-07-28T16:00:37.069962+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #032",
       "videoId": "seltGzrAVu4",
       "url": "https://www.youtube.com/watch?v=seltGzrAVu4",
-      "thumbnail": "https://i.ytimg.com/vi/seltGzrAVu4/mqdefault_live.jpg",
-      "published": "2026-07-28T14:50:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/seltGzrAVu4/mqdefault.jpg",
+      "published": "2026-07-28T15:18:42Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "DIA DO AGRICULTOR: veja como é a rotina de um produtor rural em dia de feira | GZH",
+      "videoId": "2PXFkSe5d5c",
+      "url": "https://www.youtube.com/watch?v=2PXFkSe5d5c",
+      "thumbnail": "https://i.ytimg.com/vi/2PXFkSe5d5c/mqdefault.jpg",
+      "published": "2026-07-28T15:03:24Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Muito além do chimarrão: a força da erva-mate gaúcha | No Caminho do Agro #005",
       "videoId": "t4kH_L-15IM",
       "url": "https://www.youtube.com/watch?v=t4kH_L-15IM",
       "thumbnail": "https://i.ytimg.com/vi/t4kH_L-15IM/mqdefault.jpg",
       "published": "2026-07-28T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "CHUVA NO RS: Câmera flagra telhado sendo levado pelo vento em Caxias do Sul",
-      "videoId": "bk1r-OTtnX0",
-      "url": "https://www.youtube.com/watch?v=bk1r-OTtnX0",
-      "thumbnail": "https://i.ytimg.com/vi/bk1r-OTtnX0/mqdefault.jpg",
-      "published": "2026-07-28T14:45:00Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "FILIPE KUNRATH QUESTIONA CONTRATAÇÃO DE KROVINOVIC | COMO É BOM SER DO GRÊMIO",
-      "videoId": "7s7xIrshbuw",
-      "url": "https://www.youtube.com/watch?v=7s7xIrshbuw",
-      "thumbnail": "https://i.ytimg.com/vi/7s7xIrshbuw/mqdefault.jpg",
-      "published": "2026-07-28T14:53:34Z"
+      "title": "EDILSON: \"O GRÊMIO TEM QUE ENTRAR COM RAIVA, COM GANA!\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "VBNB1yNM1Nk",
+      "url": "https://www.youtube.com/watch?v=VBNB1yNM1Nk",
+      "thumbnail": "https://i.ytimg.com/vi/VBNB1yNM1Nk/mqdefault.jpg",
+      "published": "2026-07-28T15:49:39Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #122 — QUAIS OS PRÓXIMOS PASSOS DO GRÊMIO NO MERCADO?",
       "videoId": "YbjgBct9Pj0",
       "url": "https://www.youtube.com/watch?v=YbjgBct9Pj0",
-      "thumbnail": "https://i.ytimg.com/vi/YbjgBct9Pj0/mqdefault_live.jpg",
-      "published": "2026-07-28T14:09:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/YbjgBct9Pj0/mqdefault.jpg",
+      "published": "2026-07-28T15:21:04Z"
     }
   ]
 }
