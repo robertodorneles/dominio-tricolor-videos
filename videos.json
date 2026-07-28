@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T00:00:55.415359+00:00",
+  "updated_at": "2026-07-28T00:03:13.567591+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - KROVINOVIC | CARLOS VINÍCIUS | LUIS CASTRO E MAIS",
+      "videoId": "xYscuNwnNIY",
+      "url": "https://www.youtube.com/watch?v=xYscuNwnNIY",
+      "thumbnail": "https://i.ytimg.com/vi/xYscuNwnNIY/mqdefault_live.jpg",
+      "published": "2026-07-28T00:00:09Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #639: Krovinovic | Estrangeiros | Rebaixamento | Renovação e mais",
       "videoId": "pCAR0jKiGpg",
       "url": "https://www.youtube.com/watch?v=pCAR0jKiGpg",
       "thumbnail": "https://i.ytimg.com/vi/pCAR0jKiGpg/mqdefault.jpg",
       "published": "2026-07-27T21:33:13Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - KROVINOVIC | CARLOS VINÍCIUS | LUIS CASTRO E MAIS",
-      "videoId": "xYscuNwnNIY",
-      "url": "https://www.youtube.com/watch?v=xYscuNwnNIY",
-      "thumbnail": "https://i.ytimg.com/vi/xYscuNwnNIY/mqdefault_live.jpg",
-      "published": "2026-07-27T17:43:51Z"
     },
     {
       "channel": "Canal do Farid",
