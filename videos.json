@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-28T20:00:41.537574+00:00",
+  "updated_at": "2026-07-28T20:13:47.499741+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA COMO VILLASANTI ENCAIXOU NO NOVO TIME DE CASTRO | ELOGIOS AO PARAGUAIO | OBS",
+      "videoId": "n5xI9m59GmQ",
+      "url": "https://www.youtube.com/watch?v=n5xI9m59GmQ",
+      "thumbnail": "https://i.ytimg.com/vi/n5xI9m59GmQ/mqdefault.jpg",
+      "published": "2026-07-28T20:00:38Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: VEJA E OUÇA O CONSTRANGEDOR MOMENTO DO ÁUDIO FAKE NO STJD | VITOR GABRIEL SE DEU MAL",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=vG-DUQcislk",
       "thumbnail": "https://i.ytimg.com/vi/vG-DUQcislk/mqdefault.jpg",
       "published": "2026-07-28T16:24:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 REUNIÃO MARCADA POR PROTESTO! | ALEXIS SANCHEZ NO INTER? | IAGO CHEGANDO",
-      "videoId": "SteePVAJNR0",
-      "url": "https://www.youtube.com/watch?v=SteePVAJNR0",
-      "thumbnail": "https://i.ytimg.com/vi/SteePVAJNR0/mqdefault.jpg",
-      "published": "2026-07-28T08:40:29Z"
     },
     {
       "channel": "Bage TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "FORA DOS PLANOS: WILLIAN É AVISADO QUE ESTÁ FORA | NOVAS SAÍDAS? | LISTA DE ESTRANGEIROS",
+      "videoId": "dP39AMrEkqE",
+      "url": "https://www.youtube.com/watch?v=dP39AMrEkqE",
+      "thumbnail": "https://i.ytimg.com/vi/dP39AMrEkqE/mqdefault.jpg",
+      "published": "2026-07-28T20:00:49Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x BOLÍVAR - SUL-AMERICANA 2026 | COLETIVAS | 30/07/26 #24",
       "videoId": "Wh8mgC5InRs",
       "url": "https://www.youtube.com/watch?v=Wh8mgC5InRs",
       "thumbnail": "https://i.ytimg.com/vi/Wh8mgC5InRs/mqdefault_live.jpg",
       "published": "2026-07-27T15:17:35Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "GRÊMIO ANUNCIA FILIP KROVINOVIC | COMO É O NEGÓCIO? QUANDO CHEGA? | O MISTÉRIO CARLOS VINICIUS",
-      "videoId": "fmp_RZ7dT10",
-      "url": "https://www.youtube.com/watch?v=fmp_RZ7dT10",
-      "thumbnail": "https://i.ytimg.com/vi/fmp_RZ7dT10/mqdefault.jpg",
-      "published": "2026-07-27T15:08:19Z"
     },
     {
       "channel": "Duda Garbi",
