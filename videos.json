@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T01:00:41.263360+00:00",
+  "updated_at": "2026-07-28T02:00:35.531126+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "mZ3skuYMRCU",
       "url": "https://www.youtube.com/watch?v=mZ3skuYMRCU",
       "thumbnail": "https://i.ytimg.com/vi/mZ3skuYMRCU/mqdefault_live.jpg",
-      "published": "2026-07-27T22:22:56Z"
+      "published": "2026-07-28T01:31:46Z"
     },
     {
       "channel": "A Dupla",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - KROVINOVIC | CARLOS VINÍCIUS | LUIS CASTRO E MAIS",
       "videoId": "xYscuNwnNIY",
       "url": "https://www.youtube.com/watch?v=xYscuNwnNIY",
-      "thumbnail": "https://i.ytimg.com/vi/xYscuNwnNIY/mqdefault_live.jpg",
-      "published": "2026-07-28T00:00:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/xYscuNwnNIY/mqdefault.jpg",
+      "published": "2026-07-28T01:23:22Z"
     },
     {
       "channel": "Canal do CCD",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "27/07/2026 | REUNIÃO DO CONSELHO DELIBERATIVO COMPLETA | RÁDIO GRENAL",
+      "videoId": "WM4oddx1oGU",
+      "url": "https://www.youtube.com/watch?v=WM4oddx1oGU",
+      "thumbnail": "https://i.ytimg.com/vi/WM4oddx1oGU/mqdefault_live.jpg",
+      "published": "2026-07-28T02:00:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "27/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "BrzqITf69Gs",
       "url": "https://www.youtube.com/watch?v=BrzqITf69Gs",
@@ -219,20 +227,12 @@
       "published": "2026-07-27T22:28:10Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "27/07/2026 | CLUBE GRENAL | RÁDIO GRENAL",
-      "videoId": "WM4oddx1oGU",
-      "url": "https://www.youtube.com/watch?v=WM4oddx1oGU",
-      "thumbnail": "https://i.ytimg.com/vi/WM4oddx1oGU/mqdefault_live.jpg",
-      "published": "2026-07-27T22:01:44Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "ANÁLISE DO EMPATE | KROVINOVIC É DO GRÊMIO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #116 - 27/07",
       "videoId": "l_Ed9vjRezU",
       "url": "https://www.youtube.com/watch?v=l_Ed9vjRezU",
-      "thumbnail": "https://i.ytimg.com/vi/l_Ed9vjRezU/mqdefault_live.jpg",
-      "published": "2026-07-28T00:05:00Z"
+      "thumbnail": "https://i.ytimg.com/vi/l_Ed9vjRezU/mqdefault.jpg",
+      "published": "2026-07-28T01:48:48Z"
     },
     {
       "channel": "Radio Imortal",
