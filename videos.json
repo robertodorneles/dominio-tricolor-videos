@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T14:01:11.506360+00:00",
+  "updated_at": "2026-07-29T15:00:51.152867+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵  MIRASSOL X GRÊMIO",
-      "videoId": "DDb_E11K1bQ",
-      "url": "https://www.youtube.com/watch?v=DDb_E11K1bQ",
-      "thumbnail": "https://i.ytimg.com/vi/DDb_E11K1bQ/mqdefault_live.jpg",
-      "published": "2026-07-29T13:48:55Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #033",
       "videoId": "LkpbkXT3wHU",
       "url": "https://www.youtube.com/watch?v=LkpbkXT3wHU",
       "thumbnail": "https://i.ytimg.com/vi/LkpbkXT3wHU/mqdefault_live.jpg",
-      "published": "2026-07-29T13:39:51Z"
+      "published": "2026-07-29T14:53:01Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "WILLIAN SAI E OUTROS TAMBÉM DEVEM SAIR 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 29/07 - #600",
+      "videoId": "vEvh_pqeNZE",
+      "url": "https://www.youtube.com/watch?v=vEvh_pqeNZE",
+      "thumbnail": "https://i.ytimg.com/vi/vEvh_pqeNZE/mqdefault.jpg",
+      "published": "2026-07-29T14:17:28Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨TROCA DO WILLIAN COM O FLUMINENSE? TRETA COM A ESPOSA! RESCISÃO? O IMPACTO NO GRÊMIO! ÍDOLO FALOU!",
+      "videoId": "SdZsB_3JbLk",
+      "url": "https://www.youtube.com/watch?v=SdZsB_3JbLk",
+      "thumbnail": "https://i.ytimg.com/vi/SdZsB_3JbLk/mqdefault.jpg",
+      "published": "2026-07-29T14:56:14Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=nbqLrmOAUnk",
       "thumbnail": "https://i.ytimg.com/vi/nbqLrmOAUnk/mqdefault.jpg",
       "published": "2026-07-29T01:02:40Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS QUATRO SAÍDAS DE ATLETAS NO GRÊMIO | UMA FAKE NEWS | A MATEMÁTICA DA MELHORA!",
-      "videoId": "zucvCHUsMFU",
-      "url": "https://www.youtube.com/watch?v=zucvCHUsMFU",
-      "thumbnail": "https://i.ytimg.com/vi/zucvCHUsMFU/mqdefault.jpg",
-      "published": "2026-07-28T20:53:54Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO DEVE CERCA DE 12 MILHÕES PARA WILLIAN? VAI VENDER OU RESCISÃO? #gremio #futebol #futebol",
+      "videoId": "BRo4_VQNH4I",
+      "url": "https://www.youtube.com/watch?v=BRo4_VQNH4I",
+      "thumbnail": "https://i.ytimg.com/vi/BRo4_VQNH4I/mqdefault.jpg",
+      "published": "2026-07-29T15:00:23Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PEDIDOS DE AFASTAMENTO NO GRÊMIO. #gremio #futebol #brasileirao #geraldogremio #willian",
       "videoId": "_U3wKn3fBgU",
       "url": "https://www.youtube.com/watch?v=_U3wKn3fBgU",
@@ -107,12 +115,12 @@
       "published": "2026-07-29T13:00:15Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "ADEUS E DÍVIDA: WILLIAN  | ÁUDIO FALSO USADO PELO INTER: CONSEQUÊNCIAS NO BRASILEIRÃO?",
-      "videoId": "2EN2vjnFCZE",
-      "url": "https://www.youtube.com/watch?v=2EN2vjnFCZE",
-      "thumbnail": "https://i.ytimg.com/vi/2EN2vjnFCZE/mqdefault.jpg",
-      "published": "2026-07-28T21:16:51Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "ALERTA LIGADO! ATENÇÃO SOBRE ISSO | LISTA DE SAÍDAS VAI AUMENTAR | FLUMINENSE QUER WILLIAN",
+      "videoId": "--d8FdaWduo",
+      "url": "https://www.youtube.com/watch?v=--d8FdaWduo",
+      "thumbnail": "https://i.ytimg.com/vi/--d8FdaWduo/mqdefault.jpg",
+      "published": "2026-07-29T14:27:13Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -123,16 +131,8 @@
       "published": "2026-07-28T20:00:49Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x BOLÍVAR - SUL-AMERICANA 2026 | COLETIVAS | 30/07/26 #24",
-      "videoId": "Wh8mgC5InRs",
-      "url": "https://www.youtube.com/watch?v=Wh8mgC5InRs",
-      "thumbnail": "https://i.ytimg.com/vi/Wh8mgC5InRs/mqdefault_live.jpg",
-      "published": "2026-07-27T15:17:35Z"
-    },
-    {
       "channel": "Duda Garbi",
-      "title": "MARCELO MARQUE E CELSO RIGO: OS BASTIDORES E FUTURO DO GRÊMIO | Cortes do Duda",
+      "title": "MARCELO MARQUES E CELSO RIGO: OS BASTIDORES E FUTURO DO GRÊMIO | Cortes do Duda",
       "videoId": "AIEigvUaIw4",
       "url": "https://www.youtube.com/watch?v=AIEigvUaIw4",
       "thumbnail": "https://i.ytimg.com/vi/AIEigvUaIw4/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Timeline | 29/07/26",
-      "videoId": "IbTle3RkJ_0",
-      "url": "https://www.youtube.com/watch?v=IbTle3RkJ_0",
-      "thumbnail": "https://i.ytimg.com/vi/IbTle3RkJ_0/mqdefault_live.jpg",
-      "published": "2026-07-29T13:55:42Z"
+      "title": "Erh Ray, fundador da BETC Havas | Liderança em Sala #06",
+      "videoId": "rNDoOHNxrOs",
+      "url": "https://www.youtube.com/watch?v=rNDoOHNxrOs",
+      "thumbnail": "https://i.ytimg.com/vi/rNDoOHNxrOs/mqdefault.jpg",
+      "published": "2026-07-29T15:00:07Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Situação da chuva no RS, tornado em Giruá, trânsito e mais | Gaúcha Atualidade | 29/07/2026",
-      "videoId": "9GTFyU-jv2Y",
-      "url": "https://www.youtube.com/watch?v=9GTFyU-jv2Y",
-      "thumbnail": "https://i.ytimg.com/vi/9GTFyU-jv2Y/mqdefault.jpg",
-      "published": "2026-07-29T13:24:42Z"
+      "title": "No RS, municípios sofrem com inundações e quedas de granizo",
+      "videoId": "K00rWPIMN8E",
+      "url": "https://www.youtube.com/watch?v=K00rWPIMN8E",
+      "thumbnail": "https://i.ytimg.com/vi/K00rWPIMN8E/mqdefault.jpg",
+      "published": "2026-07-29T14:57:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO MAIS OFENSIVO CONTRA O BOLÍVAR? | ADEUS, WILLIAN! | RETORNO IMPORTANTE | REDAÇÃO IMORTAL",
-      "videoId": "KLKKUKcXW90",
-      "url": "https://www.youtube.com/watch?v=KLKKUKcXW90",
-      "thumbnail": "https://i.ytimg.com/vi/KLKKUKcXW90/mqdefault.jpg",
-      "published": "2026-07-29T13:11:33Z"
+      "title": "CRISTIANO OLIVEIRA: \"PREFIRO SEMPRE TER UM PAVÓN DO QUE UM WILLIAN\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "kZ8ESiLV9ZA",
+      "url": "https://www.youtube.com/watch?v=kZ8ESiLV9ZA",
+      "thumbnail": "https://i.ytimg.com/vi/kZ8ESiLV9ZA/mqdefault.jpg",
+      "published": "2026-07-29T14:51:40Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "WILLIAN FORA DO GRÊMIO | DÚVIDAS NO TIME PARA A DECISÃO NA SULA | COMO É BOM SER DO GRÊMIO #08",
-      "videoId": "rGCjhAQMLD8",
-      "url": "https://www.youtube.com/watch?v=rGCjhAQMLD8",
-      "thumbnail": "https://i.ytimg.com/vi/rGCjhAQMLD8/mqdefault_live.jpg",
-      "published": "2026-07-29T12:33:15Z"
+      "title": "TIMELINE IMORTAL #123 — GRÊMIO VAI POUPAR AMANHÃ? | VAI SAIR MAIS GENTE ALÉM DE WILLIAN",
+      "videoId": "T7u8_8HzzaM",
+      "url": "https://www.youtube.com/watch?v=T7u8_8HzzaM",
+      "thumbnail": "https://i.ytimg.com/vi/T7u8_8HzzaM/mqdefault_live.jpg",
+      "published": "2026-07-29T14:11:51Z"
     }
   ]
 }
