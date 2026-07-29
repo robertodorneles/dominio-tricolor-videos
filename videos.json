@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-29T19:00:34.480850+00:00",
+  "updated_at": "2026-07-29T20:00:40.495264+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: AUMENTOU A LISTA DE DISPENSAS | DIREÇÃO ESTUDA FORMADO DAS LIBERAÇÕES | WILLIAN + 7",
+      "videoId": "-cEzBJujbAM",
+      "url": "https://www.youtube.com/watch?v=-cEzBJujbAM",
+      "thumbnail": "https://i.ytimg.com/vi/-cEzBJujbAM/mqdefault.jpg",
+      "published": "2026-07-29T19:00:34Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 CASO VICTOR GABRIEL EXPLODE | CHAPEU DO SÃO PAULO | TIME PRA PEGAR O FLA",
@@ -11,12 +19,12 @@
       "published": "2026-07-29T06:12:07Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Willian fora dos planos, pressão da Geral e decisão na Arena",
-      "videoId": "rxjR2Yn02T8",
-      "url": "https://www.youtube.com/watch?v=rxjR2Yn02T8",
-      "thumbnail": "https://i.ytimg.com/vi/rxjR2Yn02T8/mqdefault.jpg",
-      "published": "2026-07-29T05:00:04Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO PREPARA MAIS SAÍDAS🔹 THE TARDE 🔹#192",
+      "videoId": "Y0wbpy8n4eg",
+      "url": "https://www.youtube.com/watch?v=Y0wbpy8n4eg",
+      "thumbnail": "https://i.ytimg.com/vi/Y0wbpy8n4eg/mqdefault_live.jpg",
+      "published": "2026-07-29T19:53:20Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=eVbAmtfElm0",
       "thumbnail": "https://i.ytimg.com/vi/eVbAmtfElm0/mqdefault.jpg",
       "published": "2026-07-29T18:42:28Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PREPARA MAIS SAÍDAS🔹 THE TARDE 🔹#192",
-      "videoId": "Y0wbpy8n4eg",
-      "url": "https://www.youtube.com/watch?v=Y0wbpy8n4eg",
-      "thumbnail": "https://i.ytimg.com/vi/Y0wbpy8n4eg/mqdefault_live.jpg",
-      "published": "2026-07-29T18:39:27Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Moraes cobra explicações sobre IA de Bolsonaro; guerra das pesquisas | Andei Pensando | 29/07/2026",
-      "videoId": "-az2RIbL14U",
-      "url": "https://www.youtube.com/watch?v=-az2RIbL14U",
-      "thumbnail": "https://i.ytimg.com/vi/-az2RIbL14U/mqdefault.jpg",
-      "published": "2026-07-29T18:31:38Z"
+      "title": "A decisão que mudou a carreira de Erh Ray: recomeçar do zero | Liderança em Sala",
+      "videoId": "YNGcmwhLJ0U",
+      "url": "https://www.youtube.com/watch?v=YNGcmwhLJ0U",
+      "thumbnail": "https://i.ytimg.com/vi/YNGcmwhLJ0U/mqdefault.jpg",
+      "published": "2026-07-29T20:00:26Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "RX1XiKjwIU4",
       "url": "https://www.youtube.com/watch?v=RX1XiKjwIU4",
       "thumbnail": "https://i.ytimg.com/vi/RX1XiKjwIU4/mqdefault_live.jpg",
-      "published": "2026-07-29T18:03:53Z"
+      "published": "2026-07-29T19:31:34Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -215,24 +215,24 @@
       "title": "29/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "heIsH0PLBEc",
       "url": "https://www.youtube.com/watch?v=heIsH0PLBEc",
-      "thumbnail": "https://i.ytimg.com/vi/heIsH0PLBEc/mqdefault_live.jpg",
-      "published": "2026-07-29T19:00:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/heIsH0PLBEc/mqdefault.jpg",
+      "published": "2026-07-29T19:24:54Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "28/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "u68IoK9qIyc",
-      "url": "https://www.youtube.com/watch?v=u68IoK9qIyc",
-      "thumbnail": "https://i.ytimg.com/vi/u68IoK9qIyc/mqdefault.jpg",
-      "published": "2026-07-28T23:40:40Z"
+      "title": "29/07/2026 | ESQUENTANDO O JOGO | INTER X FLAMENGO | BRASILEIRÃO | RÁDIO GRENAL",
+      "videoId": "G_hudBeoH7U",
+      "url": "https://www.youtube.com/watch?v=G_hudBeoH7U",
+      "thumbnail": "https://i.ytimg.com/vi/G_hudBeoH7U/mqdefault_live.jpg",
+      "published": "2026-07-29T19:03:42Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "GRÊMIO VAI PRESERVAR NA SUL-AMERICANA | TEM CLUBE INTERESSADO EM WILLIAN | ESPLANADA",
       "videoId": "tTflNwEgovg",
       "url": "https://www.youtube.com/watch?v=tTflNwEgovg",
-      "thumbnail": "https://i.ytimg.com/vi/tTflNwEgovg/mqdefault_live.jpg",
-      "published": "2026-07-29T18:31:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/tTflNwEgovg/mqdefault.jpg",
+      "published": "2026-07-29T19:50:13Z"
     },
     {
       "channel": "Radio Imortal",
