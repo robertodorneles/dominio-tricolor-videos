@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T11:00:36.430928+00:00",
+  "updated_at": "2026-07-29T11:22:20.825337+00:00",
   "total": 30,
   "videos": [
     {
@@ -216,7 +216,7 @@
       "videoId": "heIsH0PLBEc",
       "url": "https://www.youtube.com/watch?v=heIsH0PLBEc",
       "thumbnail": "https://i.ytimg.com/vi/heIsH0PLBEc/mqdefault_live.jpg",
-      "published": "2026-07-29T09:54:17Z"
+      "published": "2026-07-29T11:01:35Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO MAIS OFENSIVO CONTRA O BOLÍVAR? | ADEUS, WILLIAN! | RETORNO IMPORTANTE | REDAÇÃO IMORTAL",
+      "videoId": "KLKKUKcXW90",
+      "url": "https://www.youtube.com/watch?v=KLKKUKcXW90",
+      "thumbnail": "https://i.ytimg.com/vi/KLKKUKcXW90/mqdefault_live.jpg",
+      "published": "2026-07-29T11:02:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "WILLIAN NÃO JOGA MAIS PELO GRÊMIO! | GRÊMIO SE PREPARA PARA DECISÃO | NOITES DE GRÊMIO #117 - 28/07",
       "videoId": "iHfMQiBEfkA",
       "url": "https://www.youtube.com/watch?v=iHfMQiBEfkA",
       "thumbnail": "https://i.ytimg.com/vi/iHfMQiBEfkA/mqdefault.jpg",
       "published": "2026-07-29T01:51:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEM FAKE POR AQUI! | WILLIAN FORA DOS PLANOS DO GRÊMIO | LUÍS CASTRO VAI MUDAR O TIME? | IMORTAL FC",
-      "videoId": "y0yuIGBuL-w",
-      "url": "https://www.youtube.com/watch?v=y0yuIGBuL-w",
-      "thumbnail": "https://i.ytimg.com/vi/y0yuIGBuL-w/mqdefault.jpg",
-      "published": "2026-07-28T22:12:50Z"
     }
   ]
 }
