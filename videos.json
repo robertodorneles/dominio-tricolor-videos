@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T00:01:03.871682+00:00",
-  "total": 28,
+  "updated_at": "2026-07-29T01:00:35.039801+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -33,6 +33,22 @@
       "url": "https://www.youtube.com/watch?v=Row47BOhS8s",
       "thumbnail": "https://i.ytimg.com/vi/Row47BOhS8s/mqdefault.jpg",
       "published": "2026-07-28T20:14:15Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MAIS QUATRO SAÍDAS DE ATLETAS NO GRÊMIO | UMA FAKE NEWS | A MATEMÁTICA DA MELHORA!",
+      "videoId": "zucvCHUsMFU",
+      "url": "https://www.youtube.com/watch?v=zucvCHUsMFU",
+      "thumbnail": "https://i.ytimg.com/vi/zucvCHUsMFU/mqdefault.jpg",
+      "published": "2026-07-28T20:53:54Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONFIRMA MAIS UM REFORÇO | O NOVO MEIO-CAMPO COM NOVAS PEÇAS | O CEO FOI ELOGIADO!",
+      "videoId": "RuGG5MJMcq0",
+      "url": "https://www.youtube.com/watch?v=RuGG5MJMcq0",
+      "thumbnail": "https://i.ytimg.com/vi/RuGG5MJMcq0/mqdefault.jpg",
+      "published": "2026-07-28T14:30:57Z"
     },
     {
       "channel": "Canal do CCD",
@@ -212,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "WILLIAN NÃO JOGA MAIS PELO GRÊMIO! | GRÊMIO SE PREPARA PARA DECISÃO | NOITES DE GRÊMIO #117 - 28/07",
+      "videoId": "iHfMQiBEfkA",
+      "url": "https://www.youtube.com/watch?v=iHfMQiBEfkA",
+      "thumbnail": "https://i.ytimg.com/vi/iHfMQiBEfkA/mqdefault_live.jpg",
+      "published": "2026-07-29T00:01:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "SEM FAKE POR AQUI! | WILLIAN FORA DOS PLANOS DO GRÊMIO | LUÍS CASTRO VAI MUDAR O TIME? | IMORTAL FC",
       "videoId": "y0yuIGBuL-w",
       "url": "https://www.youtube.com/watch?v=y0yuIGBuL-w",
       "thumbnail": "https://i.ytimg.com/vi/y0yuIGBuL-w/mqdefault.jpg",
       "published": "2026-07-28T22:12:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #123 — GRÊMIO VAI POUPAR AMANHÃ? | VAI SAIR MAIS GENTE ALÉM DE WILLIAN",
-      "videoId": "T7u8_8HzzaM",
-      "url": "https://www.youtube.com/watch?v=T7u8_8HzzaM",
-      "thumbnail": "https://i.ytimg.com/vi/T7u8_8HzzaM/mqdefault_live.jpg",
-      "published": "2026-07-28T20:53:23Z"
     }
   ]
 }
