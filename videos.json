@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T15:00:51.152867+00:00",
+  "updated_at": "2026-07-29T16:00:37.722775+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #033",
       "videoId": "LkpbkXT3wHU",
       "url": "https://www.youtube.com/watch?v=LkpbkXT3wHU",
-      "thumbnail": "https://i.ytimg.com/vi/LkpbkXT3wHU/mqdefault_live.jpg",
-      "published": "2026-07-29T14:53:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/LkpbkXT3wHU/mqdefault.jpg",
+      "published": "2026-07-29T15:13:33Z"
     },
     {
       "channel": "Bage TV",
@@ -172,11 +172,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "No RS, municípios sofrem com inundações e quedas de granizo",
+      "title": "RS TEM 85 CIDADES COM DANOS CAUSADOS PELA CHUVA",
       "videoId": "K00rWPIMN8E",
       "url": "https://www.youtube.com/watch?v=K00rWPIMN8E",
       "thumbnail": "https://i.ytimg.com/vi/K00rWPIMN8E/mqdefault.jpg",
       "published": "2026-07-29T14:57:48Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "INTER DECIDE FUTURO DOS ADVOGADOS DO CASO AUDIO FAKE: Bastidores e histórico",
+      "videoId": "CiWBuwCsS18",
+      "url": "https://www.youtube.com/watch?v=CiWBuwCsS18",
+      "thumbnail": "https://i.ytimg.com/vi/CiWBuwCsS18/mqdefault.jpg",
+      "published": "2026-07-29T15:05:27Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=O5slzLfI9bg",
       "thumbnail": "https://i.ytimg.com/vi/O5slzLfI9bg/mqdefault.jpg",
       "published": "2026-07-28T22:09:46Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Acreditem se quiser, eu já conhecia o Krovinovic #gremio",
-      "videoId": "YUnEVd2kKLw",
-      "url": "https://www.youtube.com/watch?v=YUnEVd2kKLw",
-      "thumbnail": "https://i.ytimg.com/vi/YUnEVd2kKLw/mqdefault.jpg",
-      "published": "2026-07-27T19:53:04Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CRISTIANO OLIVEIRA: \"PREFIRO SEMPRE TER UM PAVÓN DO QUE UM WILLIAN\" | COMO É BOM SER DO GRÊMIO",
-      "videoId": "kZ8ESiLV9ZA",
-      "url": "https://www.youtube.com/watch?v=kZ8ESiLV9ZA",
-      "thumbnail": "https://i.ytimg.com/vi/kZ8ESiLV9ZA/mqdefault.jpg",
-      "published": "2026-07-29T14:51:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #123 — GRÊMIO VAI POUPAR AMANHÃ? | VAI SAIR MAIS GENTE ALÉM DE WILLIAN",
       "videoId": "T7u8_8HzzaM",
       "url": "https://www.youtube.com/watch?v=T7u8_8HzzaM",
-      "thumbnail": "https://i.ytimg.com/vi/T7u8_8HzzaM/mqdefault_live.jpg",
-      "published": "2026-07-29T14:11:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/T7u8_8HzzaM/mqdefault.jpg",
+      "published": "2026-07-29T15:27:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "\"BANDO DE MIMADOS\" EDILSON SOBRE OS JOVENS NO FUTEBOL BRASILEIRO | COMO É BOM SER DO GRÊMIO",
+      "videoId": "WM8M2JiFKXg",
+      "url": "https://www.youtube.com/watch?v=WM8M2JiFKXg",
+      "thumbnail": "https://i.ytimg.com/vi/WM8M2JiFKXg/mqdefault.jpg",
+      "published": "2026-07-29T15:24:23Z"
     }
   ]
 }
