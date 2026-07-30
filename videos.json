@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:00:36.029177+00:00",
+  "updated_at": "2026-07-30T21:00:33.932501+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
+      "videoId": "knzo_x8MJ5c",
+      "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
+      "thumbnail": "https://i.ytimg.com/vi/knzo_x8MJ5c/mqdefault_live.jpg",
+      "published": "2026-07-30T20:28:36Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "129 DIAS DA LESÃO AO RETORNO: EXCLUSIVA COM MARLON",
       "videoId": "CxGPyXNTI44",
       "url": "https://www.youtube.com/watch?v=CxGPyXNTI44",
@@ -155,12 +163,12 @@
       "published": "2026-07-30T13:00:28Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
-      "videoId": "knzo_x8MJ5c",
-      "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
-      "thumbnail": "https://i.ytimg.com/vi/knzo_x8MJ5c/mqdefault_live.jpg",
-      "published": "2026-07-29T12:41:51Z"
+      "channel": "GZH Digital",
+      "title": "Flávio Bolsonaro na mira do TSE; pesquisas Quaest desafiam partidos | Andei Pensando | 30/07/2026",
+      "videoId": "WwqOSOw36F8",
+      "url": "https://www.youtube.com/watch?v=WwqOSOw36F8",
+      "thumbnail": "https://i.ytimg.com/vi/WwqOSOw36F8/mqdefault.jpg",
+      "published": "2026-07-30T21:00:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=CNFM-gizT7Y",
       "thumbnail": "https://i.ytimg.com/vi/CNFM-gizT7Y/mqdefault_live.jpg",
       "published": "2026-07-30T20:00:16Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "VAMOS COOPERAR? 🤝 Conheça histórias de união que transformaram comunidades no Rio Grande do Sul",
-      "videoId": "XDd9gFHDXz4",
-      "url": "https://www.youtube.com/watch?v=XDd9gFHDXz4",
-      "thumbnail": "https://i.ytimg.com/vi/XDd9gFHDXz4/mqdefault.jpg",
-      "published": "2026-07-30T19:51:45Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "Mgxet7yh2gA",
       "url": "https://www.youtube.com/watch?v=Mgxet7yh2gA",
       "thumbnail": "https://i.ytimg.com/vi/Mgxet7yh2gA/mqdefault_live.jpg",
-      "published": "2026-07-30T19:09:57Z"
+      "published": "2026-07-30T20:00:56Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X BOLÍVAR | DIRETO DA ARENA DO GRÊMIO | COPA SUL-AMERICANA 2026 - PLAYOFFS",
+      "title": "AO VIVO | GRÊMIO ESCALADO | PRÉ-JOGO GRÊMIO X BOLÍVAR | DIRETO DA ARENA DO GRÊMIO | SUL-AMERICANA",
       "videoId": "CGo-GPlVPI4",
       "url": "https://www.youtube.com/watch?v=CGo-GPlVPI4",
       "thumbnail": "https://i.ytimg.com/vi/CGo-GPlVPI4/mqdefault_live.jpg",
