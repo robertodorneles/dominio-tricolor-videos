@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T15:00:37.656804+00:00",
+  "updated_at": "2026-07-30T15:49:15.649802+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #034",
       "videoId": "zrEkNVyKetc",
       "url": "https://www.youtube.com/watch?v=zrEkNVyKetc",
-      "thumbnail": "https://i.ytimg.com/vi/zrEkNVyKetc/mqdefault_live.jpg",
-      "published": "2026-07-30T14:50:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/zrEkNVyKetc/mqdefault.jpg",
+      "published": "2026-07-30T15:42:19Z"
     },
     {
       "channel": "Bage TV",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "INTER 1 X 1 FLAMENGO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
+      "videoId": "K2qnticcwbo",
+      "url": "https://www.youtube.com/watch?v=K2qnticcwbo",
+      "thumbnail": "https://i.ytimg.com/vi/K2qnticcwbo/mqdefault.jpg",
+      "published": "2026-07-30T15:47:59Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "SERÁ CANDIDATO À PRESIDÊNCIA? | ENTREVISTA EXCLUSIVA DE ROBERTO SIEGMANN - CONSELHEIRO DO INTER",
       "videoId": "x82JCqf7FFc",
       "url": "https://www.youtube.com/watch?v=x82JCqf7FFc",
@@ -219,12 +227,12 @@
       "published": "2026-07-30T14:14:42Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "30/07/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
-      "videoId": "SnuHa5bkw-Y",
-      "url": "https://www.youtube.com/watch?v=SnuHa5bkw-Y",
-      "thumbnail": "https://i.ytimg.com/vi/SnuHa5bkw-Y/mqdefault_live.jpg",
-      "published": "2026-07-30T11:04:48Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #124 — GRÊMIO BUSCA A VIRADA NA SUL-AMERICANA | TENSÃO NO BRASILEIRÃO",
+      "videoId": "gIm0wIGmTZE",
+      "url": "https://www.youtube.com/watch?v=gIm0wIGmTZE",
+      "thumbnail": "https://i.ytimg.com/vi/gIm0wIGmTZE/mqdefault.jpg",
+      "published": "2026-07-30T15:28:55Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=AVo5znmohQE",
       "thumbnail": "https://i.ytimg.com/vi/AVo5znmohQE/mqdefault.jpg",
       "published": "2026-07-30T14:29:51Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #124 — GRÊMIO BUSCA A VIRADA NA SUL-AMERICANA | TENSÃO NO BRASILEIRÃO",
-      "videoId": "gIm0wIGmTZE",
-      "url": "https://www.youtube.com/watch?v=gIm0wIGmTZE",
-      "thumbnail": "https://i.ytimg.com/vi/gIm0wIGmTZE/mqdefault_live.jpg",
-      "published": "2026-07-30T14:04:48Z"
     }
   ]
 }
