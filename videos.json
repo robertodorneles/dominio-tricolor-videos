@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-30T02:00:43.839202+00:00",
+  "updated_at": "2026-07-30T02:36:10.223794+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: PÓS JOGO DE INTER X FLAMENGO | GRÊMIO NO Z4",
+      "videoId": "r-Yl1IUxot8",
+      "url": "https://www.youtube.com/watch?v=r-Yl1IUxot8",
+      "thumbnail": "https://i.ytimg.com/vi/r-Yl1IUxot8/mqdefault_live.jpg",
+      "published": "2026-07-30T02:31:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter 1x1 Flamengo: 🎥 GOLS E MELHORES MOMENTOS | TIME MENOS EFICIENTE DO BRASIL | EU ME IRRITO!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Mt25PMijtww",
       "thumbnail": "https://i.ytimg.com/vi/Mt25PMijtww/mqdefault.jpg",
       "published": "2026-07-30T00:58:20Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: PÓS JOGO DE INTER X FLAMENGO | GRÊMIO NO Z4",
-      "videoId": "r-Yl1IUxot8",
-      "url": "https://www.youtube.com/watch?v=r-Yl1IUxot8",
-      "thumbnail": "https://i.ytimg.com/vi/r-Yl1IUxot8/mqdefault_live.jpg",
-      "published": "2026-07-30T00:53:51Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "O PIOR ACONTECEU: ENTENDA | VAI POUPAR?  DESFALQUES GRÊMIO X BOLIVAR.",
+      "videoId": "CdcWu4jn070",
+      "url": "https://www.youtube.com/watch?v=CdcWu4jn070",
+      "thumbnail": "https://i.ytimg.com/vi/CdcWu4jn070/mqdefault.jpg",
+      "published": "2026-07-30T02:23:55Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CRISTIAN OLIVERA: PROBLEMA NOVAMENTE  | PLANO DE SAÍDA PARA WILLIAN NO GRÊMIO.",
       "videoId": "8zwkemgPogk",
       "url": "https://www.youtube.com/watch?v=8zwkemgPogk",
       "thumbnail": "https://i.ytimg.com/vi/8zwkemgPogk/mqdefault.jpg",
       "published": "2026-07-29T21:38:42Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO DEVE CERCA DE 12 MILHÕES PARA WILLIAN? VAI VENDER OU RESCISÃO? #gremio #futebol #futebol",
-      "videoId": "BRo4_VQNH4I",
-      "url": "https://www.youtube.com/watch?v=BRo4_VQNH4I",
-      "thumbnail": "https://i.ytimg.com/vi/BRo4_VQNH4I/mqdefault.jpg",
-      "published": "2026-07-29T15:00:23Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -188,7 +188,7 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Os planos para Krovinovic, reforço ainda tentado  + Willian",
+      "title": "F5 NO GRÊMIO: Descobri onde Krovinovic vai jogar + reforços e Willian",
       "videoId": "SkGWxsWeLXA",
       "url": "https://www.youtube.com/watch?v=SkGWxsWeLXA",
       "thumbnail": "https://i.ytimg.com/vi/SkGWxsWeLXA/mqdefault.jpg",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ALISSON ATENDE AOS TORCEDORES! 🇮🇩 #shorts",
-      "videoId": "-3hixqRiUxQ",
-      "url": "https://www.youtube.com/watch?v=-3hixqRiUxQ",
-      "thumbnail": "https://i.ytimg.com/vi/-3hixqRiUxQ/mqdefault.jpg",
-      "published": "2026-07-30T01:53:01Z"
+      "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTERNACIONAL | 29/07/2026 | BRASILEIRÃO",
+      "videoId": "UrY6fUdyPcM",
+      "url": "https://www.youtube.com/watch?v=UrY6fUdyPcM",
+      "thumbnail": "https://i.ytimg.com/vi/UrY6fUdyPcM/mqdefault.jpg",
+      "published": "2026-07-30T02:27:22Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "OPÇÕES DO ELENCO 🇮🇩 #shorts #inter #colorado #brasileirao #beirario #flamengo",
-      "videoId": "V0W138dTP_0",
-      "url": "https://www.youtube.com/watch?v=V0W138dTP_0",
-      "thumbnail": "https://i.ytimg.com/vi/V0W138dTP_0/mqdefault.jpg",
-      "published": "2026-07-30T01:23:45Z"
+      "title": "BLOCO BAIXO! 🇮🇩 #shorts #inter #colorado #paulopezzolano #futebol #beirario",
+      "videoId": "mMk556Zryws",
+      "url": "https://www.youtube.com/watch?v=mMk556Zryws",
+      "thumbnail": "https://i.ytimg.com/vi/mMk556Zryws/mqdefault.jpg",
+      "published": "2026-07-30T02:08:11Z"
     },
     {
       "channel": "Radio Imortal",
