@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:05:36.708435+00:00",
+  "updated_at": "2026-07-30T23:00:41.026976+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "NOVO RING LED DA ARENA",
+      "videoId": "dhVzHfREkvQ",
+      "url": "https://www.youtube.com/watch?v=dhVzHfREkvQ",
+      "thumbnail": "https://i.ytimg.com/vi/dhVzHfREkvQ/mqdefault.jpg",
+      "published": "2026-07-30T22:59:59Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
       "videoId": "knzo_x8MJ5c",
       "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
@@ -155,28 +163,20 @@
       "published": "2026-07-30T20:28:36Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "129 DIAS DA LESÃO AO RETORNO: EXCLUSIVA COM MARLON",
-      "videoId": "CxGPyXNTI44",
-      "url": "https://www.youtube.com/watch?v=CxGPyXNTI44",
-      "thumbnail": "https://i.ytimg.com/vi/CxGPyXNTI44/mqdefault.jpg",
-      "published": "2026-07-30T13:00:28Z"
+      "channel": "GZH Digital",
+      "title": "FEMINICÍDIO: aumentar a pena é a solução? | Conversas Cruzadas",
+      "videoId": "rcAigm2GFhA",
+      "url": "https://www.youtube.com/watch?v=rcAigm2GFhA",
+      "thumbnail": "https://i.ytimg.com/vi/rcAigm2GFhA/mqdefault.jpg",
+      "published": "2026-07-30T23:00:25Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Como a robótica e o 5G industrial estão transformando a logística no Brasil | Radar de Inovação",
-      "videoId": "ze55vvIgskc",
-      "url": "https://www.youtube.com/watch?v=ze55vvIgskc",
-      "thumbnail": "https://i.ytimg.com/vi/ze55vvIgskc/mqdefault.jpg",
-      "published": "2026-07-30T21:45:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "20 anos da Lei Maria da Penha: o que mudou na proteção às mulheres? | Conversas Cruzadas | 30/07/26",
-      "videoId": "CNFM-gizT7Y",
-      "url": "https://www.youtube.com/watch?v=CNFM-gizT7Y",
-      "thumbnail": "https://i.ytimg.com/vi/CNFM-gizT7Y/mqdefault.jpg",
-      "published": "2026-07-30T21:13:54Z"
+      "title": "Medida protetiva é eficaz? Entenda quando ela faz a diferença | Conversas Cruzadas",
+      "videoId": "_mZvTALNf2A",
+      "url": "https://www.youtube.com/watch?v=_mZvTALNf2A",
+      "thumbnail": "https://i.ytimg.com/vi/_mZvTALNf2A/mqdefault.jpg",
+      "published": "2026-07-30T22:15:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | GRÊMIO X BOLÍVAR | COPA SUL-AMERICANA | RÁDIO GRENAL | 30/07/2026",
+      "title": "JORNADA ESPORTIVA | GRÊMIO 0X1 BOLÍVAR | SUL-AMERICANA | RÁDIO GRENAL | 30/07/2026",
       "videoId": "Mgxet7yh2gA",
       "url": "https://www.youtube.com/watch?v=Mgxet7yh2gA",
       "thumbnail": "https://i.ytimg.com/vi/Mgxet7yh2gA/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (0) X (0) BOLÍVAR | DIRETO DA ARENA DO GRÊMIO | PLAYOFFS COPA SUL-AMERICANA 2026",
+      "title": "AO VIVO | GRÊMIO (0) X (1) BOLÍVAR | DIRETO DA ARENA DO GRÊMIO | PLAYOFFS COPA SUL-AMERICANA 2026",
       "videoId": "CGo-GPlVPI4",
       "url": "https://www.youtube.com/watch?v=CGo-GPlVPI4",
       "thumbnail": "https://i.ytimg.com/vi/CGo-GPlVPI4/mqdefault_live.jpg",
