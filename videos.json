@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T13:00:32.037556+00:00",
+  "updated_at": "2026-07-30T13:50:20.602185+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #034",
+      "videoId": "zrEkNVyKetc",
+      "url": "https://www.youtube.com/watch?v=zrEkNVyKetc",
+      "thumbnail": "https://i.ytimg.com/vi/zrEkNVyKetc/mqdefault_live.jpg",
+      "published": "2026-07-30T13:32:26Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO DECIDE VAGA NA SULA ESTANDO NO Z-4 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 30/07 - #601",
       "videoId": "Ogow8VNxdxI",
       "url": "https://www.youtube.com/watch?v=Ogow8VNxdxI",
       "thumbnail": "https://i.ytimg.com/vi/Ogow8VNxdxI/mqdefault_live.jpg",
-      "published": "2026-07-30T12:01:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA DE GRÊMIO NA SULA | ENTRAMOS NA ZONA 🌅🔵 BOM DIA GRÊMIO #085",
-      "videoId": "5w8Kt97EyU0",
-      "url": "https://www.youtube.com/watch?v=5w8Kt97EyU0",
-      "thumbnail": "https://i.ytimg.com/vi/5w8Kt97EyU0/mqdefault.jpg",
-      "published": "2026-07-30T11:57:52Z"
+      "published": "2026-07-30T13:29:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Decisão na Sul-americana | Arena do Grêmio | Arbitragem",
+      "videoId": "JSKAAwiz_EY",
+      "url": "https://www.youtube.com/watch?v=JSKAAwiz_EY",
+      "thumbnail": "https://i.ytimg.com/vi/JSKAAwiz_EY/mqdefault.jpg",
+      "published": "2026-07-30T13:25:36Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #641: Provável Grêmio | Willian | Base | Possíveis saídas | Novos salários",
       "videoId": "JQgLmb7jxys",
       "url": "https://www.youtube.com/watch?v=JQgLmb7jxys",
       "thumbnail": "https://i.ytimg.com/vi/JQgLmb7jxys/mqdefault.jpg",
       "published": "2026-07-29T21:21:23Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: GRÊMIO X BOLIVAR",
-      "videoId": "2f9t8FVLy6g",
-      "url": "https://www.youtube.com/watch?v=2f9t8FVLy6g",
-      "thumbnail": "https://i.ytimg.com/vi/2f9t8FVLy6g/mqdefault_live.jpg",
-      "published": "2026-07-29T18:11:35Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "129 DIAS DA LESÃO AO RETORNO: EXCLUSIVA COM MARLON",
+      "videoId": "CxGPyXNTI44",
+      "url": "https://www.youtube.com/watch?v=CxGPyXNTI44",
+      "thumbnail": "https://i.ytimg.com/vi/CxGPyXNTI44/mqdefault.jpg",
+      "published": "2026-07-30T13:00:28Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
       "videoId": "knzo_x8MJ5c",
       "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
@@ -155,28 +163,20 @@
       "published": "2026-07-29T12:41:51Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA DE APRESENTAÇÃO I DIEGO CAITO",
-      "videoId": "4kPvWgpsQhQ",
-      "url": "https://www.youtube.com/watch?v=4kPvWgpsQhQ",
-      "thumbnail": "https://i.ytimg.com/vi/4kPvWgpsQhQ/mqdefault.jpg",
-      "published": "2026-07-27T17:06:18Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Direto de Passo Fundo, situação na Ilhas de POA, trânsito e mais | Gaúcha Atualidade | 30/07/2026",
       "videoId": "rXGveEBe9Zg",
       "url": "https://www.youtube.com/watch?v=rXGveEBe9Zg",
-      "thumbnail": "https://i.ytimg.com/vi/rXGveEBe9Zg/mqdefault_live.jpg",
-      "published": "2026-07-30T10:58:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/rXGveEBe9Zg/mqdefault.jpg",
+      "published": "2026-07-30T13:48:07Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Estragos da chuva, tornado no RS, informações do trânsito e mais | Gaúcha+ | 29/07/2026",
-      "videoId": "RX1XiKjwIU4",
-      "url": "https://www.youtube.com/watch?v=RX1XiKjwIU4",
-      "thumbnail": "https://i.ytimg.com/vi/RX1XiKjwIU4/mqdefault.jpg",
-      "published": "2026-07-30T07:42:40Z"
+      "title": "Bolsonaro de IA na convenção do PL, últimas da política e mais | Timeline | 30/07/26",
+      "videoId": "-kiR7oPyufk",
+      "url": "https://www.youtube.com/watch?v=-kiR7oPyufk",
+      "thumbnail": "https://i.ytimg.com/vi/-kiR7oPyufk/mqdefault_live.jpg",
+      "published": "2026-07-30T13:07:59Z"
     },
     {
       "channel": "Jeremias Wernek",
