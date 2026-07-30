@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:00:49.170902+00:00",
+  "updated_at": "2026-07-30T11:03:59.368521+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "RESULTADOS COLOCAM O GRÊMIO NO Z4 | DIA DE DECISÃO NA SUL-AMERICANA | REDAÇÃO IMORTAL",
+      "videoId": "pho0qaOdzTE",
+      "url": "https://www.youtube.com/watch?v=pho0qaOdzTE",
+      "thumbnail": "https://i.ytimg.com/vi/pho0qaOdzTE/mqdefault_live.jpg",
+      "published": "2026-07-30T11:01:57Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #124 — GRÊMIO BUSCA A VIRADA NA SUL-AMERICANA | TENSÃO NO BRASILEIRÃO",
       "videoId": "gIm0wIGmTZE",
       "url": "https://www.youtube.com/watch?v=gIm0wIGmTZE",
       "thumbnail": "https://i.ytimg.com/vi/gIm0wIGmTZE/mqdefault_live.jpg",
       "published": "2026-07-30T01:51:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ENTRA NO Z4 EM MEIO A DECISÕES NAS COPAS | COMO É BOM SER DO GRÊMIO #09",
-      "videoId": "AVo5znmohQE",
-      "url": "https://www.youtube.com/watch?v=AVo5znmohQE",
-      "thumbnail": "https://i.ytimg.com/vi/AVo5znmohQE/mqdefault_live.jpg",
-      "published": "2026-07-30T01:49:00Z"
     }
   ]
 }
