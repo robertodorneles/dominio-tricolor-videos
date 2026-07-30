@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-30T19:00:44.194962+00:00",
+  "updated_at": "2026-07-30T19:19:40.499940+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: CALEBE TEM QUALIDADE | VEJA OS LANCES | ELE PODE AJUDAR",
+      "videoId": "UDqDjTXSmLg",
+      "url": "https://www.youtube.com/watch?v=UDqDjTXSmLg",
+      "thumbnail": "https://i.ytimg.com/vi/UDqDjTXSmLg/mqdefault.jpg",
+      "published": "2026-07-30T19:15:17Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: Decisão hoje contra o Bolivar | Z-4 preocupa | Renovações",
@@ -11,12 +19,12 @@
       "published": "2026-07-30T05:00:04Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: PÓS JOGO DE INTER X FLAMENGO | GRÊMIO NO Z4",
-      "videoId": "r-Yl1IUxot8",
-      "url": "https://www.youtube.com/watch?v=r-Yl1IUxot8",
-      "thumbnail": "https://i.ytimg.com/vi/r-Yl1IUxot8/mqdefault.jpg",
-      "published": "2026-07-30T04:38:21Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X BOLIVAR",
+      "videoId": "VFmmoIAXR_4",
+      "url": "https://www.youtube.com/watch?v=VFmmoIAXR_4",
+      "thumbnail": "https://i.ytimg.com/vi/VFmmoIAXR_4/mqdefault_live.jpg",
+      "published": "2026-07-30T19:00:45Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=rtswu_p5WwM",
       "thumbnail": "https://i.ytimg.com/vi/rtswu_p5WwM/mqdefault.jpg",
       "published": "2026-07-30T18:23:38Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #034",
-      "videoId": "zrEkNVyKetc",
-      "url": "https://www.youtube.com/watch?v=zrEkNVyKetc",
-      "thumbnail": "https://i.ytimg.com/vi/zrEkNVyKetc/mqdefault.jpg",
-      "published": "2026-07-30T15:42:19Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "INTER 1 X 1 FLAMENGO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
-      "videoId": "K2qnticcwbo",
-      "url": "https://www.youtube.com/watch?v=K2qnticcwbo",
-      "thumbnail": "https://i.ytimg.com/vi/K2qnticcwbo/mqdefault.jpg",
-      "published": "2026-07-30T15:47:59Z"
+      "title": "ESQUENTANDO O JOGO | GRÊMIO X BOLÍVAR | COPA SUL-AMERICANA | RÁDIO GRENAL | 30/07/2026",
+      "videoId": "Mgxet7yh2gA",
+      "url": "https://www.youtube.com/watch?v=Mgxet7yh2gA",
+      "thumbnail": "https://i.ytimg.com/vi/Mgxet7yh2gA/mqdefault_live.jpg",
+      "published": "2026-07-30T19:09:57Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "SERÁ CANDIDATO À PRESIDÊNCIA? | ENTREVISTA EXCLUSIVA DE ROBERTO SIEGMANN - CONSELHEIRO DO INTER",
-      "videoId": "x82JCqf7FFc",
-      "url": "https://www.youtube.com/watch?v=x82JCqf7FFc",
-      "thumbnail": "https://i.ytimg.com/vi/x82JCqf7FFc/mqdefault.jpg",
-      "published": "2026-07-30T14:14:42Z"
+      "title": "30/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "SnuHa5bkw-Y",
+      "url": "https://www.youtube.com/watch?v=SnuHa5bkw-Y",
+      "thumbnail": "https://i.ytimg.com/vi/SnuHa5bkw-Y/mqdefault_live.jpg",
+      "published": "2026-07-30T19:02:56Z"
     },
     {
       "channel": "Radio Imortal",
