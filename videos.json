@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:00:36.615314+00:00",
+  "updated_at": "2026-07-31T22:00:32.979209+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE MIRASSOL-SP",
+      "videoId": "XFuTjEdA2HQ",
+      "url": "https://www.youtube.com/watch?v=XFuTjEdA2HQ",
+      "thumbnail": "https://i.ytimg.com/vi/XFuTjEdA2HQ/mqdefault_live.jpg",
+      "published": "2026-07-31T21:16:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CRISE SEM FIM? GRÊMIO CAI EM CASA, SEGURA TÉCNICO E A PRESSÃO EXPLODE📰BAGÉTV NEWS #008",
       "videoId": "3OKQaLpLRro",
       "url": "https://www.youtube.com/watch?v=3OKQaLpLRro",
       "thumbnail": "https://i.ytimg.com/vi/3OKQaLpLRro/mqdefault_live.jpg",
       "published": "2026-07-31T20:30:11Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CASTRO CORRE RISCO DE QUEDA?🔹 THE TARDE 🔹#193",
-      "videoId": "6HcJMleZaKI",
-      "url": "https://www.youtube.com/watch?v=6HcJMleZaKI",
-      "thumbnail": "https://i.ytimg.com/vi/6HcJMleZaKI/mqdefault.jpg",
-      "published": "2026-07-31T19:54:26Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #642: Luis Castro | Renato | Wagner Leonardo | Copa do Brasil | Kike e mais",
+      "videoId": "fygdDW1Mscs",
+      "url": "https://www.youtube.com/watch?v=fygdDW1Mscs",
+      "thumbnail": "https://i.ytimg.com/vi/fygdDW1Mscs/mqdefault.jpg",
+      "published": "2026-07-31T21:35:42Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "A última chance de Luis Castro",
       "videoId": "wNT_M1055uw",
       "url": "https://www.youtube.com/watch?v=wNT_M1055uw",
       "thumbnail": "https://i.ytimg.com/vi/wNT_M1055uw/mqdefault.jpg",
       "published": "2026-07-31T15:09:41Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Bastidores da eliminação | Situação de Luis Castro no Grêmio | Renato Portaluppi",
-      "videoId": "PsmMA9d_kQU",
-      "url": "https://www.youtube.com/watch?v=PsmMA9d_kQU",
-      "thumbnail": "https://i.ytimg.com/vi/PsmMA9d_kQU/mqdefault.jpg",
-      "published": "2026-07-31T14:51:40Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "LUIS CASTRO NA ARÁBIA? | BASTIDORES DO GRÊMIO: OUVI 5 MOTIVOS PRA NÃO MUDAR.",
+      "videoId": "42MtjHfA6yo",
+      "url": "https://www.youtube.com/watch?v=42MtjHfA6yo",
+      "thumbnail": "https://i.ytimg.com/vi/42MtjHfA6yo/mqdefault.jpg",
+      "published": "2026-07-31T21:34:57Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "RENATO X LUIS CASTRO. REUNIÃO NO GRÊMIO. #gremio #futebol  #sulamericana",
       "videoId": "vLTyVr_NLa0",
       "url": "https://www.youtube.com/watch?v=vLTyVr_NLa0",
       "thumbnail": "https://i.ytimg.com/vi/vLTyVr_NLa0/mqdefault.jpg",
       "published": "2026-07-31T13:00:29Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VEXAME NA COLETIVA E NO CAMPO! | GRÊMIO 0 X 1 BOLÍVAR.",
-      "videoId": "isWp5EVom30",
-      "url": "https://www.youtube.com/watch?v=isWp5EVom30",
-      "thumbnail": "https://i.ytimg.com/vi/isWp5EVom30/mqdefault.jpg",
-      "published": "2026-07-31T01:38:56Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO FEMININO RETOMA DISPUTA DO BRASILEIRÃO",
+      "videoId": "r_PI4WovVb0",
+      "url": "https://www.youtube.com/watch?v=r_PI4WovVb0",
+      "thumbnail": "https://i.ytimg.com/vi/r_PI4WovVb0/mqdefault.jpg",
+      "published": "2026-07-31T21:04:08Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO TÉC. LUÍS CASTRO I GRÊMIO 0x1 BOLIVAR (COPA SUL-AMERICANA 2026)",
       "videoId": "rDHQ0_76RzQ",
       "url": "https://www.youtube.com/watch?v=rDHQ0_76RzQ",
@@ -155,12 +163,12 @@
       "published": "2026-07-31T15:19:17Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
-      "videoId": "knzo_x8MJ5c",
-      "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
-      "thumbnail": "https://i.ytimg.com/vi/knzo_x8MJ5c/mqdefault.jpg",
-      "published": "2026-07-31T00:10:14Z"
+      "channel": "GZH Digital",
+      "title": "QUER PASSAR  O INVERNO NA SERRA GAÚCHA? Confira este guia que Zero Hora preparou",
+      "videoId": "eGlM8LYeMb4",
+      "url": "https://www.youtube.com/watch?v=eGlM8LYeMb4",
+      "thumbnail": "https://i.ytimg.com/vi/eGlM8LYeMb4/mqdefault.jpg",
+      "published": "2026-07-31T21:38:35Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=zVnB9rjoyLQ",
       "thumbnail": "https://i.ytimg.com/vi/zVnB9rjoyLQ/mqdefault.jpg",
       "published": "2026-07-31T20:30:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como Erh Ray construiu a cultura da BETC Havas no Brasil | Liderança em Sala",
-      "videoId": "fBRgHqtixMU",
-      "url": "https://www.youtube.com/watch?v=fBRgHqtixMU",
-      "thumbnail": "https://i.ytimg.com/vi/fBRgHqtixMU/mqdefault.jpg",
-      "published": "2026-07-31T20:00:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨A CHANCE DE RENATO | DECISÃO SOBRE LUÍS CASTRO | O QUE A DIREÇÃO PENSA",
+      "videoId": "6gVzS90BEII",
+      "url": "https://www.youtube.com/watch?v=6gVzS90BEII",
+      "thumbnail": "https://i.ytimg.com/vi/6gVzS90BEII/mqdefault.jpg",
+      "published": "2026-07-31T21:29:17Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "GRÊMIO AMARGA UM DOS MAIORES VEXAMES DE SUA HISTÓRIA",
       "videoId": "tCM9xRuXbYw",
       "url": "https://www.youtube.com/watch?v=tCM9xRuXbYw",
@@ -203,12 +211,12 @@
       "published": "2026-07-31T01:08:14Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨INTERESSE POR JOGADOR DO GRÊMIO | CLUBE FAZ ESCLARECIMENTO | MAIS UM FORA DOS PLANOS",
-      "videoId": "CmOQ8XVkDyI",
-      "url": "https://www.youtube.com/watch?v=CmOQ8XVkDyI",
-      "thumbnail": "https://i.ytimg.com/vi/CmOQ8XVkDyI/mqdefault.jpg",
-      "published": "2026-07-29T21:32:53Z"
+      "channel": "Radio Grenal",
+      "title": "LUÍS CASTRO DEVE SER DEMITIDO? 🇪🇪👀 #Grêmio #LuisCastro #SulAmericana #Tricolor #futebolgaucho",
+      "videoId": "A9bRq8qPo_Q",
+      "url": "https://www.youtube.com/watch?v=A9bRq8qPo_Q",
+      "thumbnail": "https://i.ytimg.com/vi/A9bRq8qPo_Q/mqdefault.jpg",
+      "published": "2026-07-31T21:19:36Z"
     },
     {
       "channel": "Radio Grenal",
@@ -219,12 +227,12 @@
       "published": "2026-07-31T14:32:53Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "31/07/2026 | GRENAL FC | RÁDIO GRENAL",
-      "videoId": "m1peyBL8eWE",
-      "url": "https://www.youtube.com/watch?v=m1peyBL8eWE",
-      "thumbnail": "https://i.ytimg.com/vi/m1peyBL8eWE/mqdefault_live.jpg",
-      "published": "2026-07-31T11:03:20Z"
+      "channel": "Radio Imortal",
+      "title": "COMO MELHORAR SE NADA MUDA? | VEM MAIS  UMA ELIMINAÇÃO POR AÍ? | NOITES DE GRÊMIO #120 - 31/07",
+      "videoId": "ocaXxAi8NKg",
+      "url": "https://www.youtube.com/watch?v=ocaXxAi8NKg",
+      "thumbnail": "https://i.ytimg.com/vi/ocaXxAi8NKg/mqdefault_live.jpg",
+      "published": "2026-07-31T21:27:27Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=KMWVgU5uv_4",
       "thumbnail": "https://i.ytimg.com/vi/KMWVgU5uv_4/mqdefault_live.jpg",
       "published": "2026-07-31T20:59:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO MANTÉM LUÍS CASTRO: ATÉ QUANDO? | ALTERNATIVAS NO MERCADO? | TORCIDA DEU RECADO | ESPLANADA",
-      "videoId": "8bwYzrFWA9E",
-      "url": "https://www.youtube.com/watch?v=8bwYzrFWA9E",
-      "thumbnail": "https://i.ytimg.com/vi/8bwYzrFWA9E/mqdefault.jpg",
-      "published": "2026-07-31T20:05:10Z"
     }
   ]
 }
