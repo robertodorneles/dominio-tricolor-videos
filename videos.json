@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-31T18:00:41.280774+00:00",
+  "updated_at": "2026-07-31T18:17:07.539138+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A direção não quer Renato e nós sabemos o principal motivo...",
+      "videoId": "yHcnSValVWU",
+      "url": "https://www.youtube.com/watch?v=yHcnSValVWU",
+      "thumbnail": "https://i.ytimg.com/vi/yHcnSValVWU/mqdefault.jpg",
+      "published": "2026-07-31T18:00:03Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio:  ODORICO DECIDIU! Castro fica após reunião | direção cobra elenco | Renato?",
@@ -11,20 +19,12 @@
       "published": "2026-07-31T07:00:06Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ⏳ AVANÇO PRA FECHAR | THIAGO MAIA F5 | SANCHEZ VEM?",
-      "videoId": "mKxWmSVyVnM",
-      "url": "https://www.youtube.com/watch?v=mKxWmSVyVnM",
-      "thumbnail": "https://i.ytimg.com/vi/mKxWmSVyVnM/mqdefault.jpg",
-      "published": "2026-07-31T05:55:19Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "MAIS UM VEXAME DO GRÊMIO! INTER ENCARA O \"DVD\"🔸RESENHA FORA DA SALA🔸#098",
       "videoId": "yKyR8MnLOoU",
       "url": "https://www.youtube.com/watch?v=yKyR8MnLOoU",
       "thumbnail": "https://i.ytimg.com/vi/yKyR8MnLOoU/mqdefault_live.jpg",
-      "published": "2026-07-31T16:31:33Z"
+      "published": "2026-07-31T18:15:58Z"
     },
     {
       "channel": "Bage TV",
@@ -168,7 +168,7 @@
       "videoId": "AgYqFQ-peIA",
       "url": "https://www.youtube.com/watch?v=AgYqFQ-peIA",
       "thumbnail": "https://i.ytimg.com/vi/AgYqFQ-peIA/mqdefault_live.jpg",
-      "published": "2026-07-31T17:44:36Z"
+      "published": "2026-07-31T18:04:46Z"
     },
     {
       "channel": "GZH Digital",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "31/07/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "31/07/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "m1peyBL8eWE",
       "url": "https://www.youtube.com/watch?v=m1peyBL8eWE",
       "thumbnail": "https://i.ytimg.com/vi/m1peyBL8eWE/mqdefault_live.jpg",
       "published": "2026-07-31T11:03:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TEM MUITA COISA ERRADA NO GRÊMIO! | BASTIDORES DO VEXAME NA ARENA | CASTRO FICA ATÉ QUANDO?",
+      "videoId": "KMWVgU5uv_4",
+      "url": "https://www.youtube.com/watch?v=KMWVgU5uv_4",
+      "thumbnail": "https://i.ytimg.com/vi/KMWVgU5uv_4/mqdefault_live.jpg",
+      "published": "2026-07-31T18:10:01Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=hMAJ11X7TGY",
       "thumbnail": "https://i.ytimg.com/vi/hMAJ11X7TGY/mqdefault.jpg",
       "published": "2026-07-31T15:23:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FORA DA SUL-AMERICANA | LUÍS CASTRO É MANTIDO NO CARGO | COMO É BOM SER DO GRÊMIO #10",
-      "videoId": "Jkeg8iT4kIU",
-      "url": "https://www.youtube.com/watch?v=Jkeg8iT4kIU",
-      "thumbnail": "https://i.ytimg.com/vi/Jkeg8iT4kIU/mqdefault.jpg",
-      "published": "2026-07-31T15:15:46Z"
     }
   ]
 }
