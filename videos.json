@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T23:01:48.527195+00:00",
+  "updated_at": "2026-07-31T00:00:35.993303+00:00",
   "total": 30,
   "videos": [
     {
@@ -156,11 +156,11 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
-      "videoId": "knzo_x8MJ5c",
-      "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
-      "thumbnail": "https://i.ytimg.com/vi/knzo_x8MJ5c/mqdefault_live.jpg",
-      "published": "2026-07-30T20:28:36Z"
+      "title": "NOVO RING LED DA ARENA",
+      "videoId": "dhVzHfREkvQ",
+      "url": "https://www.youtube.com/watch?v=dhVzHfREkvQ",
+      "thumbnail": "https://i.ytimg.com/vi/dhVzHfREkvQ/mqdefault.jpg",
+      "published": "2026-07-30T22:59:59Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (0) X (1) BOLÍVAR | DIRETO DA ARENA DO GRÊMIO | PLAYOFFS COPA SUL-AMERICANA 2026",
+      "title": "NOITES DE GRÊMIO #119 - 30/07",
+      "videoId": "uC2bXSwqvzk",
+      "url": "https://www.youtube.com/watch?v=uC2bXSwqvzk",
+      "thumbnail": "https://i.ytimg.com/vi/uC2bXSwqvzk/mqdefault_live.jpg",
+      "published": "2026-07-30T23:14:06Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | GRÊMIO ELIMINADO! PÓS-JOGO GRÊMIO (0) X (1) BOLÍVAR | LUÍS CASTRO FORA? | DIRETO DA ARENA",
       "videoId": "CGo-GPlVPI4",
       "url": "https://www.youtube.com/watch?v=CGo-GPlVPI4",
       "thumbnail": "https://i.ytimg.com/vi/CGo-GPlVPI4/mqdefault_live.jpg",
       "published": "2026-07-30T18:03:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #124 — GRÊMIO BUSCA A VIRADA NA SUL-AMERICANA | TENSÃO NO BRASILEIRÃO",
-      "videoId": "gIm0wIGmTZE",
-      "url": "https://www.youtube.com/watch?v=gIm0wIGmTZE",
-      "thumbnail": "https://i.ytimg.com/vi/gIm0wIGmTZE/mqdefault.jpg",
-      "published": "2026-07-30T15:28:55Z"
     }
   ]
 }
