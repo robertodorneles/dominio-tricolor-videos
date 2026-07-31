@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-07-31T00:00:35.993303+00:00",
+  "updated_at": "2026-07-31T01:00:32.017120+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: CALEBE TEM QUALIDADE | VEJA OS LANCES | ELE PODE AJUDAR",
-      "videoId": "UDqDjTXSmLg",
-      "url": "https://www.youtube.com/watch?v=UDqDjTXSmLg",
-      "thumbnail": "https://i.ytimg.com/vi/UDqDjTXSmLg/mqdefault.jpg",
-      "published": "2026-07-30T19:15:17Z"
+      "title": "🔵🔴 A Hora da Dupla: ELIMINAÇÃO E VERGONHA DO GRÊMIO NA ARENA | CASTRO AINDA SEGUE NO CARGO",
+      "videoId": "dkYYuUfTGoQ",
+      "url": "https://www.youtube.com/watch?v=dkYYuUfTGoQ",
+      "thumbnail": "https://i.ytimg.com/vi/dkYYuUfTGoQ/mqdefault_live.jpg",
+      "published": "2026-07-31T00:42:49Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Decisão hoje contra o Bolivar | Z-4 preocupa | Renovações",
-      "videoId": "YfX0maOEQ80",
-      "url": "https://www.youtube.com/watch?v=YfX0maOEQ80",
-      "thumbnail": "https://i.ytimg.com/vi/YfX0maOEQ80/mqdefault.jpg",
-      "published": "2026-07-30T05:00:04Z"
+      "title": "🔵⚫️ Grêmio 0x1 Bolivar: VERGONHA DE ATUAÇÃO | CASTRO ELIMINOU O GRÊMIO DENTRO DA ARENA",
+      "videoId": "I342BlFeF4Q",
+      "url": "https://www.youtube.com/watch?v=I342BlFeF4Q",
+      "thumbnail": "https://i.ytimg.com/vi/I342BlFeF4Q/mqdefault.jpg",
+      "published": "2026-07-31T00:31:47Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 CASTRO ACABOU COM O GRÊMIO!!!",
+      "videoId": "khH2VaXeVgQ",
+      "url": "https://www.youtube.com/watch?v=khH2VaXeVgQ",
+      "thumbnail": "https://i.ytimg.com/vi/khH2VaXeVgQ/mqdefault.jpg",
+      "published": "2026-07-31T00:24:16Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=VFmmoIAXR_4",
       "thumbnail": "https://i.ytimg.com/vi/VFmmoIAXR_4/mqdefault_live.jpg",
       "published": "2026-07-30T19:00:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DECISÃO NA ARENA E INTER FORA DO Z-4!🔸RESENHA FORA DA SALA🔸#097",
-      "videoId": "rtswu_p5WwM",
-      "url": "https://www.youtube.com/watch?v=rtswu_p5WwM",
-      "thumbnail": "https://i.ytimg.com/vi/rtswu_p5WwM/mqdefault.jpg",
-      "published": "2026-07-30T18:23:38Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,27 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Decisão na Sul-americana | Arena do Grêmio | Arbitragem",
-      "videoId": "JSKAAwiz_EY",
-      "url": "https://www.youtube.com/watch?v=JSKAAwiz_EY",
-      "thumbnail": "https://i.ytimg.com/vi/JSKAAwiz_EY/mqdefault.jpg",
-      "published": "2026-07-30T13:25:36Z"
+      "title": "VEXAME DO GRÊMIO! Chega de Castro!",
+      "videoId": "zF4Fy-C_ZFU",
+      "url": "https://www.youtube.com/watch?v=zF4Fy-C_ZFU",
+      "thumbnail": "https://i.ytimg.com/vi/zF4Fy-C_ZFU/mqdefault.jpg",
+      "published": "2026-07-31T00:33:04Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #641: Provável Grêmio | Willian | Base | Possíveis saídas | Novos salários",
-      "videoId": "JQgLmb7jxys",
-      "url": "https://www.youtube.com/watch?v=JQgLmb7jxys",
-      "thumbnail": "https://i.ytimg.com/vi/JQgLmb7jxys/mqdefault.jpg",
-      "published": "2026-07-29T21:21:23Z"
+      "title": "VEXAME DO GRÊMIO . ACABOU O TRABALHO E TEM MUITA GENTE PRA SAIR",
+      "videoId": "2f9t8FVLy6g",
+      "url": "https://www.youtube.com/watch?v=2f9t8FVLy6g",
+      "thumbnail": "https://i.ytimg.com/vi/2f9t8FVLy6g/mqdefault_live.jpg",
+      "published": "2026-07-31T00:01:01Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "FARID CHEGOU NO SEU LIMITE!!",
+      "videoId": "B-OLq1ArjWc",
+      "url": "https://www.youtube.com/watch?v=B-OLq1ArjWc",
+      "thumbnail": "https://i.ytimg.com/vi/B-OLq1ArjWc/mqdefault.jpg",
+      "published": "2026-07-31T00:36:54Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=15IK1o6ZZoo",
       "thumbnail": "https://i.ytimg.com/vi/15IK1o6ZZoo/mqdefault_live.jpg",
       "published": "2026-07-30T19:57:45Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GIRO ESPORTIVO - RESCISÃO AMIGÁVEL, GRÊMIO TEM NOVO TETO SALARIAL",
-      "videoId": "iWSDxqoApYs",
-      "url": "https://www.youtube.com/watch?v=iWSDxqoApYs",
-      "thumbnail": "https://i.ytimg.com/vi/iWSDxqoApYs/mqdefault.jpg",
-      "published": "2026-07-30T00:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -104,7 +104,7 @@
       "videoId": "HlMwH-swwfg",
       "url": "https://www.youtube.com/watch?v=HlMwH-swwfg",
       "thumbnail": "https://i.ytimg.com/vi/HlMwH-swwfg/mqdefault_live.jpg",
-      "published": "2026-07-30T15:49:17Z"
+      "published": "2026-07-31T00:03:02Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x BOLÍVAR - SUL-AMERICANA 2026 | COLETIVAS | 30/07/26 #24",
+      "videoId": "Wh8mgC5InRs",
+      "url": "https://www.youtube.com/watch?v=Wh8mgC5InRs",
+      "thumbnail": "https://i.ytimg.com/vi/Wh8mgC5InRs/mqdefault_live.jpg",
+      "published": "2026-07-31T00:00:24Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x BOLÍVAR DIRETO DA ARENA | SUL-AMERICANA 2026 | 30/07/26 #07",
       "videoId": "w2ugdYknjsw",
       "url": "https://www.youtube.com/watch?v=w2ugdYknjsw",
       "thumbnail": "https://i.ytimg.com/vi/w2ugdYknjsw/mqdefault.jpg",
       "published": "2026-07-30T21:19:54Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "2 RENOVAÇÕES DE PROMESSAS! | FOLHA PRECISA BAIXAR, ENTENDA A MUDANÇA | Z4 É UM PROBLEMA GRANDE",
-      "videoId": "zLPkLKqyqks",
-      "url": "https://www.youtube.com/watch?v=zLPkLKqyqks",
-      "thumbnail": "https://i.ytimg.com/vi/zLPkLKqyqks/mqdefault.jpg",
-      "published": "2026-07-30T16:12:31Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X BOLIVAR (COPA SUL-AMERICANA 2026)",
+      "videoId": "knzo_x8MJ5c",
+      "url": "https://www.youtube.com/watch?v=knzo_x8MJ5c",
+      "thumbnail": "https://i.ytimg.com/vi/knzo_x8MJ5c/mqdefault.jpg",
+      "published": "2026-07-31T00:10:14Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO REGISTRA AUMENTO DA MÉDIA DE PÚBLICO DA ARENA NO PRIMEIRO TURNO DO BRASILEIRÃO",
       "videoId": "ver9WBlS4pM",
       "url": "https://www.youtube.com/watch?v=ver9WBlS4pM",
       "thumbnail": "https://i.ytimg.com/vi/ver9WBlS4pM/mqdefault.jpg",
       "published": "2026-07-30T23:00:19Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "NOVO RING LED DA ARENA",
-      "videoId": "dhVzHfREkvQ",
-      "url": "https://www.youtube.com/watch?v=dhVzHfREkvQ",
-      "thumbnail": "https://i.ytimg.com/vi/dhVzHfREkvQ/mqdefault.jpg",
-      "published": "2026-07-30T22:59:59Z"
     },
     {
       "channel": "GZH Digital",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "VEXAME DO GRÊMIO: Os erros contra o Bolívar, pressão em Luís Castro",
+      "videoId": "ighxEI9EKbw",
+      "url": "https://www.youtube.com/watch?v=ighxEI9EKbw",
+      "thumbnail": "https://i.ytimg.com/vi/ighxEI9EKbw/mqdefault.jpg",
+      "published": "2026-07-31T00:29:42Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "O Grêmio segue em busca de um novo zagueiro",
       "videoId": "9iUifYQQ8aY",
       "url": "https://www.youtube.com/watch?v=9iUifYQQ8aY",
       "thumbnail": "https://i.ytimg.com/vi/9iUifYQQ8aY/mqdefault.jpg",
       "published": "2026-07-30T12:00:17Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "A situação de Willian no Grêmio 🇪🇪",
-      "videoId": "4uCXPQX0_SA",
-      "url": "https://www.youtube.com/watch?v=4uCXPQX0_SA",
-      "thumbnail": "https://i.ytimg.com/vi/4uCXPQX0_SA/mqdefault.jpg",
-      "published": "2026-07-29T22:16:36Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GOL DE GRÊMIO 0 X 1 BOLÍVAR - NARRAÇÃO PC CARVALHO | COPA SUL-AMERICANA | 30/07/2026 | RÁDIO GRENAL",
+      "videoId": "fB4vL4M_q4k",
+      "url": "https://www.youtube.com/watch?v=fB4vL4M_q4k",
+      "thumbnail": "https://i.ytimg.com/vi/fB4vL4M_q4k/mqdefault.jpg",
+      "published": "2026-07-31T00:08:20Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "30/07/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "SnuHa5bkw-Y",
       "url": "https://www.youtube.com/watch?v=SnuHa5bkw-Y",
       "thumbnail": "https://i.ytimg.com/vi/SnuHa5bkw-Y/mqdefault.jpg",
       "published": "2026-07-30T21:01:06Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "JORNADA ESPORTIVA | GRÊMIO 0X1 BOLÍVAR | SUL-AMERICANA | RÁDIO GRENAL | 30/07/2026",
-      "videoId": "Mgxet7yh2gA",
-      "url": "https://www.youtube.com/watch?v=Mgxet7yh2gA",
-      "thumbnail": "https://i.ytimg.com/vi/Mgxet7yh2gA/mqdefault_live.jpg",
-      "published": "2026-07-30T20:00:56Z"
     },
     {
       "channel": "Radio Imortal",
