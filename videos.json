@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:00:35.855204+00:00",
+  "updated_at": "2026-08-01T13:45:57.732908+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO TEM CONFRONTO DURO NA COPA DO BRASIL | LUÍS CASTRO PODE CAIR AMANHÃ? | PLANTÃO IMORTAL",
+      "videoId": "ne9DVHpCbbQ",
+      "url": "https://www.youtube.com/watch?v=ne9DVHpCbbQ",
+      "thumbnail": "https://i.ytimg.com/vi/ne9DVHpCbbQ/mqdefault_live.jpg",
+      "published": "2026-08-01T13:01:04Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COMO MELHORAR SE NADA MUDA? | VEM MAIS  UMA ELIMINAÇÃO POR AÍ? | NOITES DE GRÊMIO #120 - 31/07",
       "videoId": "ocaXxAi8NKg",
       "url": "https://www.youtube.com/watch?v=ocaXxAi8NKg",
       "thumbnail": "https://i.ytimg.com/vi/ocaXxAi8NKg/mqdefault.jpg",
       "published": "2026-08-01T01:50:07Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TEM MUITA COISA ERRADA NO GRÊMIO! | BASTIDORES DO VEXAME NA ARENA | CASTRO FICA ATÉ QUANDO?",
-      "videoId": "KMWVgU5uv_4",
-      "url": "https://www.youtube.com/watch?v=KMWVgU5uv_4",
-      "thumbnail": "https://i.ytimg.com/vi/KMWVgU5uv_4/mqdefault.jpg",
-      "published": "2026-07-31T22:11:44Z"
     }
   ]
 }
