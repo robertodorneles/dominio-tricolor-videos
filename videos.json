@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T23:00:40.824463+00:00",
+  "updated_at": "2026-08-01T23:54:10.475755+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA PÓS-JOGO | GRÊMIO 1 X 0 AMÉRICA-MG (CAMPEONATO BRASILEIRO FEMININO A1)",
+      "videoId": "VG7pfTiQk7Y",
+      "url": "https://www.youtube.com/watch?v=VG7pfTiQk7Y",
+      "thumbnail": "https://i.ytimg.com/vi/VG7pfTiQk7Y/mqdefault.jpg",
+      "published": "2026-08-01T23:13:32Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO FEMININO RETOMA DISPUTA DO BRASILEIRÃO",
       "videoId": "r_PI4WovVb0",
       "url": "https://www.youtube.com/watch?v=r_PI4WovVb0",
       "thumbnail": "https://i.ytimg.com/vi/r_PI4WovVb0/mqdefault.jpg",
       "published": "2026-07-31T21:04:08Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA PÓS-JOGO TÉC. LUÍS CASTRO I GRÊMIO 0x1 BOLIVAR (COPA SUL-AMERICANA 2026)",
-      "videoId": "rDHQ0_76RzQ",
-      "url": "https://www.youtube.com/watch?v=rDHQ0_76RzQ",
-      "thumbnail": "https://i.ytimg.com/vi/rDHQ0_76RzQ/mqdefault.jpg",
-      "published": "2026-07-31T15:19:17Z"
     },
     {
       "channel": "GZH Digital",
