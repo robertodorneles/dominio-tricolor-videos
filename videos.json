@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:00:29.519650+00:00",
+  "updated_at": "2026-08-01T22:51:28.975349+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MAIOR TORCIDA | CONVITE PARA LUIS CASTRO? | RENATO: BASTIDORES NO GRÊMIO.",
+      "videoId": "Cb7XiK9aDp0",
+      "url": "https://www.youtube.com/watch?v=Cb7XiK9aDp0",
+      "thumbnail": "https://i.ytimg.com/vi/Cb7XiK9aDp0/mqdefault.jpg",
+      "published": "2026-08-01T22:25:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MOTIVOS DA PERMANÊNCIA DE LUIS CASTRO. MAS ELES VÃO ENFRAQUECENDO #gremio #futebol",
       "videoId": "8-i0ogwBJpk",
       "url": "https://www.youtube.com/watch?v=8-i0ogwBJpk",
       "thumbnail": "https://i.ytimg.com/vi/8-i0ogwBJpk/mqdefault.jpg",
       "published": "2026-08-01T14:00:07Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "LUIS CASTRO NA ARÁBIA? | BASTIDORES DO GRÊMIO: OUVI 5 MOTIVOS PRA NÃO MUDAR.",
-      "videoId": "42MtjHfA6yo",
-      "url": "https://www.youtube.com/watch?v=42MtjHfA6yo",
-      "thumbnail": "https://i.ytimg.com/vi/42MtjHfA6yo/mqdefault.jpg",
-      "published": "2026-07-31T21:34:57Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -231,8 +231,8 @@
       "title": "AO VIVO DIRETO DO EVENTO GREMISTA EM CAMAQUÃ-RS | AS ÚLTIMAS NOTÍCIAS DO GRÊMIO | PLANTÃO IMORTAL",
       "videoId": "axhq8PKJL7U",
       "url": "https://www.youtube.com/watch?v=axhq8PKJL7U",
-      "thumbnail": "https://i.ytimg.com/vi/axhq8PKJL7U/mqdefault_live.jpg",
-      "published": "2026-08-01T21:54:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/axhq8PKJL7U/mqdefault.jpg",
+      "published": "2026-08-01T22:08:07Z"
     },
     {
       "channel": "Radio Imortal",
