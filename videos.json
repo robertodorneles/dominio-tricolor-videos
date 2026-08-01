@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T20:00:33.633112+00:00",
-  "total": 30,
+  "updated_at": "2026-08-01T20:46:33.066645+00:00",
+  "total": 28,
   "videos": [
     {
       "channel": "A Dupla",
@@ -17,22 +17,6 @@
       "url": "https://www.youtube.com/watch?v=HaJ4Vb1aKuU",
       "thumbnail": "https://i.ytimg.com/vi/HaJ4Vb1aKuU/mqdefault.jpg",
       "published": "2026-08-01T05:00:40Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO DIRETO DE MIRASSOL-SP",
-      "videoId": "XFuTjEdA2HQ",
-      "url": "https://www.youtube.com/watch?v=XFuTjEdA2HQ",
-      "thumbnail": "https://i.ytimg.com/vi/XFuTjEdA2HQ/mqdefault_live.jpg",
-      "published": "2026-08-01T19:59:37Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ENCARA O MIRASSOL EM MEIO À CRISE 🌅🔵 BOM DIA GRÊMIO #087",
-      "videoId": "GVE38J89oaw",
-      "url": "https://www.youtube.com/watch?v=GVE38J89oaw",
-      "thumbnail": "https://i.ytimg.com/vi/GVE38J89oaw/mqdefault.jpg",
-      "published": "2026-08-01T15:11:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +212,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO DIRETO DO EVENTO GREMISTA EM CAMAQUÃ-RS | AS ÚLTIMAS NOTÍCIAS DO GRÊMIO | PLANTÃO IMORTAL",
+      "videoId": "axhq8PKJL7U",
+      "url": "https://www.youtube.com/watch?v=axhq8PKJL7U",
+      "thumbnail": "https://i.ytimg.com/vi/axhq8PKJL7U/mqdefault_live.jpg",
+      "published": "2026-08-01T20:00:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NA COPA DO BRASIL! | RELACIONADOS E PROVÁVEL ESCALAÇÃO | DIA D PARA LUÍS CASTRO?",
       "videoId": "1hX59CCBv1g",
       "url": "https://www.youtube.com/watch?v=1hX59CCBv1g",
       "thumbnail": "https://i.ytimg.com/vi/1hX59CCBv1g/mqdefault_live.jpg",
       "published": "2026-08-01T16:21:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO MIRASSOL X GRÊMIO | DIRETO DO MAIÃO | COPA DO BRASIL 2026 | JORNADA IMORTAL",
-      "videoId": "4RNqOvNcbI0",
-      "url": "https://www.youtube.com/watch?v=4RNqOvNcbI0",
-      "thumbnail": "https://i.ytimg.com/vi/4RNqOvNcbI0/mqdefault_live.jpg",
-      "published": "2026-08-01T16:20:22Z"
     }
   ]
 }
