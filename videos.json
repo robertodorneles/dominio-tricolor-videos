@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-02T03:16:04.916718+00:00",
+  "updated_at": "2026-08-02T09:00:41.520951+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: PRESSÃO TOTAL! Direção cerca elenco | até 7 mudanças | provável time",
+      "videoId": "Ty-u7XfrhMA",
+      "url": "https://www.youtube.com/watch?v=Ty-u7XfrhMA",
+      "thumbnail": "https://i.ytimg.com/vi/Ty-u7XfrhMA/mqdefault.jpg",
+      "published": "2026-08-02T05:00:13Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 PREÇO DO CASO PODE SER MAIOR | CHANCE DE REVERTER? | VEM ZAGUEIRO?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=imuyvD9faOI",
       "thumbnail": "https://i.ytimg.com/vi/imuyvD9faOI/mqdefault.jpg",
       "published": "2026-08-01T19:09:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CASTRO MUDA O TIME! Até 7 alterações | Al-Ahli? | Krovinovic fora",
-      "videoId": "HaJ4Vb1aKuU",
-      "url": "https://www.youtube.com/watch?v=HaJ4Vb1aKuU",
-      "thumbnail": "https://i.ytimg.com/vi/HaJ4Vb1aKuU/mqdefault.jpg",
-      "published": "2026-08-01T05:00:40Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "MIRASSOL X GRÊMIO | COPA BRASIL | REACT AO VIVO DE FARID - 02/08/2026",
+      "videoId": "lWgAywrECwk",
+      "url": "https://www.youtube.com/watch?v=lWgAywrECwk",
+      "thumbnail": "https://i.ytimg.com/vi/lWgAywrECwk/mqdefault_live.jpg",
+      "published": "2026-08-02T03:52:41Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VERGONHA 3X",
       "videoId": "QShx7kjNloo",
       "url": "https://www.youtube.com/watch?v=QShx7kjNloo",
       "thumbnail": "https://i.ytimg.com/vi/QShx7kjNloo/mqdefault.jpg",
       "published": "2026-07-31T01:26:49Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X BOLIVAR | COPA SUL-AMERICANA | REACT AO VIVO DE FARID - 30/07/2026",
-      "videoId": "15IK1o6ZZoo",
-      "url": "https://www.youtube.com/watch?v=15IK1o6ZZoo",
-      "thumbnail": "https://i.ytimg.com/vi/15IK1o6ZZoo/mqdefault.jpg",
-      "published": "2026-07-31T01:22:07Z"
     },
     {
       "channel": "Canal do Gabardo",
