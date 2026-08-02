@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-02T16:00:35.455039+00:00",
+  "updated_at": "2026-08-02T16:04:57.017184+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O RISCO DE DEMISSÃO DE CASTRO NESTE DOMINGO CONTRA O MIRASSOL",
+      "videoId": "uHbGWYGQJtM",
+      "url": "https://www.youtube.com/watch?v=uHbGWYGQJtM",
+      "thumbnail": "https://i.ytimg.com/vi/uHbGWYGQJtM/mqdefault.jpg",
+      "published": "2026-08-02T16:00:22Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 BASTIDOR PEGA FOGO | PERDEU JOIA | JOGO DECISIVO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=q_uBx3zp75U",
       "thumbnail": "https://i.ytimg.com/vi/q_uBx3zp75U/mqdefault.jpg",
       "published": "2026-08-02T10:06:53Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: PRESSÃO TOTAL! Direção cerca elenco | até 7 mudanças | provável time",
-      "videoId": "Ty-u7XfrhMA",
-      "url": "https://www.youtube.com/watch?v=Ty-u7XfrhMA",
-      "thumbnail": "https://i.ytimg.com/vi/Ty-u7XfrhMA/mqdefault.jpg",
-      "published": "2026-08-02T05:00:13Z"
     },
     {
       "channel": "Bage TV",
@@ -216,7 +216,7 @@
       "videoId": "8eIPH9TPHbk",
       "url": "https://www.youtube.com/watch?v=8eIPH9TPHbk",
       "thumbnail": "https://i.ytimg.com/vi/8eIPH9TPHbk/mqdefault_live.jpg",
-      "published": "2026-08-02T15:42:51Z"
+      "published": "2026-08-02T16:01:01Z"
     },
     {
       "channel": "Radio Grenal",
