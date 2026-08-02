@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T16:04:57.017184+00:00",
+  "updated_at": "2026-08-02T17:00:37.294004+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,35 +132,43 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "O GRÊMIO ESTÁ NO CAMINHO? #dudagarbi #umassadopara",
-      "videoId": "dTFjc4hgeFo",
-      "url": "https://www.youtube.com/watch?v=dTFjc4hgeFo",
-      "thumbnail": "https://i.ytimg.com/vi/dTFjc4hgeFo/mqdefault.jpg",
-      "published": "2026-08-01T15:00:31Z"
+      "title": "UM ASSADO PARA... BRANCO | #400",
+      "videoId": "lFndgZ43q9A",
+      "url": "https://www.youtube.com/watch?v=lFndgZ43q9A",
+      "thumbnail": "https://i.ytimg.com/vi/lFndgZ43q9A/mqdefault.jpg",
+      "published": "2026-08-02T03:42:55Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "INSPIRAÇÃO E SUPERAÇÃO - COMO CELSO RIGO ENFRENTOU DRAMA GRAVE DE SAÚDE | Cortes do Duda",
-      "videoId": "YkvgzPidj1k",
-      "url": "https://www.youtube.com/watch?v=YkvgzPidj1k",
-      "thumbnail": "https://i.ytimg.com/vi/YkvgzPidj1k/mqdefault.jpg",
-      "published": "2026-07-30T21:30:14Z"
+      "title": "INDIGNAÇÃO NO VESTIÁRIO DO GRÊMIO #dudagarbi #umassadopara",
+      "videoId": "IRw-V-I2bNw",
+      "url": "https://www.youtube.com/watch?v=IRw-V-I2bNw",
+      "thumbnail": "https://i.ytimg.com/vi/IRw-V-I2bNw/mqdefault.jpg",
+      "published": "2026-08-01T16:00:21Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "COLETIVA PÓS-JOGO | GRÊMIO 1 X 0 AMÉRICA-MG (CAMPEONATO BRASILEIRO FEMININO A1)",
-      "videoId": "VG7pfTiQk7Y",
-      "url": "https://www.youtube.com/watch?v=VG7pfTiQk7Y",
-      "thumbnail": "https://i.ytimg.com/vi/VG7pfTiQk7Y/mqdefault.jpg",
-      "published": "2026-08-01T23:13:32Z"
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I MIRASSOL X GRÊMIO (COPA DO BRASIL 2026)",
+      "videoId": "C8pOKfK7y8Q",
+      "url": "https://www.youtube.com/watch?v=C8pOKfK7y8Q",
+      "thumbnail": "https://i.ytimg.com/vi/C8pOKfK7y8Q/mqdefault_live.jpg",
+      "published": "2026-08-02T16:28:57Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "GRÊMIO FEMININO RETOMA DISPUTA DO BRASILEIRÃO",
-      "videoId": "r_PI4WovVb0",
-      "url": "https://www.youtube.com/watch?v=r_PI4WovVb0",
-      "thumbnail": "https://i.ytimg.com/vi/r_PI4WovVb0/mqdefault.jpg",
-      "published": "2026-07-31T21:04:08Z"
+      "title": "AO VIVO | MIRASSOL X GRÊMIO (COPA DO BRASIL 2026)",
+      "videoId": "OQQGVNrRbOs",
+      "url": "https://www.youtube.com/watch?v=OQQGVNrRbOs",
+      "thumbnail": "https://i.ytimg.com/vi/OQQGVNrRbOs/mqdefault_live.jpg",
+      "published": "2026-08-02T16:21:46Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "HOMEM-ARANHA: UM NOVO DIA vale a pena? | Dica do Ticiano",
+      "videoId": "wxmvW6H5sr8",
+      "url": "https://www.youtube.com/watch?v=wxmvW6H5sr8",
+      "thumbnail": "https://i.ytimg.com/vi/wxmvW6H5sr8/mqdefault.jpg",
+      "published": "2026-08-02T16:30:24Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=kru8ANQeBPk",
       "thumbnail": "https://i.ytimg.com/vi/kru8ANQeBPk/mqdefault.jpg",
       "published": "2026-08-02T13:30:15Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ANITTA estreia turnê \"EQUILIBRIVM\" em Porto Alegre; veja como foi",
-      "videoId": "gqNW5PLA-Fk",
-      "url": "https://www.youtube.com/watch?v=gqNW5PLA-Fk",
-      "thumbnail": "https://i.ytimg.com/vi/gqNW5PLA-Fk/mqdefault.jpg",
-      "published": "2026-08-02T02:10:57Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO MIRASSOL X GRÊMIO | DIRETO DO MAIÃO | COPA DO BRASIL 2026 | JORNADA IMORTAL",
+      "videoId": "4RNqOvNcbI0",
+      "url": "https://www.youtube.com/watch?v=4RNqOvNcbI0",
+      "thumbnail": "https://i.ytimg.com/vi/4RNqOvNcbI0/mqdefault_live.jpg",
+      "published": "2026-08-02T16:59:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NA COPA DO BRASIL! | RELACIONADOS E PROVÁVEL ESCALAÇÃO | DIA D PARA LUÍS CASTRO?",
       "videoId": "1hX59CCBv1g",
       "url": "https://www.youtube.com/watch?v=1hX59CCBv1g",
       "thumbnail": "https://i.ytimg.com/vi/1hX59CCBv1g/mqdefault.jpg",
       "published": "2026-08-02T14:49:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO DIRETO DO EVENTO GREMISTA EM CAMAQUÃ-RS | AS ÚLTIMAS NOTÍCIAS DO GRÊMIO | PLANTÃO IMORTAL",
-      "videoId": "axhq8PKJL7U",
-      "url": "https://www.youtube.com/watch?v=axhq8PKJL7U",
-      "thumbnail": "https://i.ytimg.com/vi/axhq8PKJL7U/mqdefault.jpg",
-      "published": "2026-08-01T22:08:07Z"
     }
   ]
 }
