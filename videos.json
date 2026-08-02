@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-02T10:00:37.244445+00:00",
+  "updated_at": "2026-08-02T10:37:32.455407+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 BASTIDOR PEGA FOGO | PERDEU JOIA | JOGO DECISIVO",
+      "videoId": "q_uBx3zp75U",
+      "url": "https://www.youtube.com/watch?v=q_uBx3zp75U",
+      "thumbnail": "https://i.ytimg.com/vi/q_uBx3zp75U/mqdefault.jpg",
+      "published": "2026-08-02T10:06:53Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: PRESSÃO TOTAL! Direção cerca elenco | até 7 mudanças | provável time",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Ty-u7XfrhMA",
       "thumbnail": "https://i.ytimg.com/vi/Ty-u7XfrhMA/mqdefault.jpg",
       "published": "2026-08-02T05:00:13Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 PREÇO DO CASO PODE SER MAIOR | CHANCE DE REVERTER? | VEM ZAGUEIRO?",
-      "videoId": "imuyvD9faOI",
-      "url": "https://www.youtube.com/watch?v=imuyvD9faOI",
-      "thumbnail": "https://i.ytimg.com/vi/imuyvD9faOI/mqdefault.jpg",
-      "published": "2026-08-01T19:09:21Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NOVIDADES NO TIME | INCRÍVEL LISTA DE QUEM FICOU FORA | MILHÕES NA CONTA | MIRASSOL X GRÊMIO.",
+      "videoId": "OmvWaE47jP0",
+      "url": "https://www.youtube.com/watch?v=OmvWaE47jP0",
+      "thumbnail": "https://i.ytimg.com/vi/OmvWaE47jP0/mqdefault.jpg",
+      "published": "2026-08-02T10:00:32Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MIRASSOL X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
       "videoId": "4K9eak5g05A",
       "url": "https://www.youtube.com/watch?v=4K9eak5g05A",
       "thumbnail": "https://i.ytimg.com/vi/4K9eak5g05A/mqdefault_live.jpg",
       "published": "2026-08-02T01:59:03Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "MAIOR TORCIDA | CONVITE PARA LUIS CASTRO? | RENATO: BASTIDORES NO GRÊMIO.",
-      "videoId": "Cb7XiK9aDp0",
-      "url": "https://www.youtube.com/watch?v=Cb7XiK9aDp0",
-      "thumbnail": "https://i.ytimg.com/vi/Cb7XiK9aDp0/mqdefault.jpg",
-      "published": "2026-08-01T22:25:33Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
