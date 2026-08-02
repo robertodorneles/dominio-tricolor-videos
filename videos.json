@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:16:27.971025+00:00",
+  "updated_at": "2026-08-02T20:00:30.999314+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | MIRASSOL X GRÊMIO (COPA DO BRASIL 2026)",
+      "videoId": "OQQGVNrRbOs",
+      "url": "https://www.youtube.com/watch?v=OQQGVNrRbOs",
+      "thumbnail": "https://i.ytimg.com/vi/OQQGVNrRbOs/mqdefault_live.jpg",
+      "published": "2026-08-02T19:58:56Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I MIRASSOL X GRÊMIO (COPA DO BRASIL 2026)",
       "videoId": "C8pOKfK7y8Q",
       "url": "https://www.youtube.com/watch?v=C8pOKfK7y8Q",
       "thumbnail": "https://i.ytimg.com/vi/C8pOKfK7y8Q/mqdefault_live.jpg",
       "published": "2026-08-02T16:28:57Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | MIRASSOL X GRÊMIO (COPA DO BRASIL 2026)",
-      "videoId": "OQQGVNrRbOs",
-      "url": "https://www.youtube.com/watch?v=OQQGVNrRbOs",
-      "thumbnail": "https://i.ytimg.com/vi/OQQGVNrRbOs/mqdefault_live.jpg",
-      "published": "2026-08-02T16:21:46Z"
     },
     {
       "channel": "GZH Digital",
