@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:52:20.698743+00:00",
+  "updated_at": "2026-08-02T23:00:35.198024+00:00",
   "total": 30,
   "videos": [
     {
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE MIRASSOL x GRÊMIO - COPA DO BRASIL 2026 | COLETIVAS | 02/08/26 #25",
+      "videoId": "3BWUw5cG9ZY",
+      "url": "https://www.youtube.com/watch?v=3BWUw5cG9ZY",
+      "thumbnail": "https://i.ytimg.com/vi/3BWUw5cG9ZY/mqdefault_live.jpg",
+      "published": "2026-08-02T23:00:13Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE MIRASSOL x GRÊMIO DIRETO DO MAIÃO | COPA DO BRASIL 2026 | 02/08/26 #08",
       "videoId": "mdxFvxJhmZo",
       "url": "https://www.youtube.com/watch?v=mdxFvxJhmZo",
       "thumbnail": "https://i.ytimg.com/vi/mdxFvxJhmZo/mqdefault.jpg",
       "published": "2026-08-02T20:36:43Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "COBRANÇAS, REUNIÕES E MUDANÇAS | 6 MUDANÇAS NO TIME | COMITIVA NA VIAGEM",
-      "videoId": "VvtHkxamVPI",
-      "url": "https://www.youtube.com/watch?v=VvtHkxamVPI",
-      "thumbnail": "https://i.ytimg.com/vi/VvtHkxamVPI/mqdefault.jpg",
-      "published": "2026-08-01T21:16:30Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | MIRASSOL (1) X (1) GRÊMIO | DIRETO DO MAIÃO | COPA DO BRASIL 2026 | JORNADA IMORTAL",
+      "title": "AO VIVO | PÓS-JOGO MIRASSOL (1) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | COPA DO BRASIL 2026",
       "videoId": "4RNqOvNcbI0",
       "url": "https://www.youtube.com/watch?v=4RNqOvNcbI0",
       "thumbnail": "https://i.ytimg.com/vi/4RNqOvNcbI0/mqdefault_live.jpg",
