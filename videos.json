@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T11:00:37.418971+00:00",
+  "updated_at": "2026-08-03T12:00:32.832967+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "YkX-poBkJ8U",
       "url": "https://www.youtube.com/watch?v=YkX-poBkJ8U",
       "thumbnail": "https://i.ytimg.com/vi/YkX-poBkJ8U/mqdefault_live.jpg",
-      "published": "2026-08-03T09:30:41Z"
+      "published": "2026-08-03T11:55:49Z"
     },
     {
       "channel": "Bage TV",
@@ -184,7 +184,7 @@
       "videoId": "HSrNF_T57Yw",
       "url": "https://www.youtube.com/watch?v=HSrNF_T57Yw",
       "thumbnail": "https://i.ytimg.com/vi/HSrNF_T57Yw/mqdefault_live.jpg",
-      "published": "2026-08-03T01:42:47Z"
+      "published": "2026-08-03T11:06:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "03/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "pXRN0E0JuAw",
+      "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
+      "thumbnail": "https://i.ytimg.com/vi/pXRN0E0JuAw/mqdefault_live.jpg",
+      "published": "2026-08-03T11:01:05Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "02/08/2026 | MIRASSOL 1 X 1 GRÊMIO | INTER 2 X 0 CORINTHIANS | COPA DO BRASIL | LIVE COMPLETA",
       "videoId": "8eIPH9TPHbk",
       "url": "https://www.youtube.com/watch?v=8eIPH9TPHbk",
@@ -219,12 +227,12 @@
       "published": "2026-08-03T03:33:31Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "03/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "pXRN0E0JuAw",
-      "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
-      "thumbnail": "https://i.ytimg.com/vi/pXRN0E0JuAw/mqdefault_live.jpg",
-      "published": "2026-08-03T03:04:22Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO ARRANCA EMPATE EM MIRASSOL E DECIDE TUDO NA ARENA | LUÍS CASTRO E OS NÚMEROS | REDAÇÃO",
+      "videoId": "XuRrhTDnaJI",
+      "url": "https://www.youtube.com/watch?v=XuRrhTDnaJI",
+      "thumbnail": "https://i.ytimg.com/vi/XuRrhTDnaJI/mqdefault_live.jpg",
+      "published": "2026-08-03T11:00:42Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=OAQYB6rT3gI",
       "thumbnail": "https://i.ytimg.com/vi/OAQYB6rT3gI/mqdefault_live.jpg",
       "published": "2026-08-03T02:16:51Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO EMPATA EM MIRASSOL E LUÍS CASTRO RESPIRA | COMO É BOM SER DO GRÊMIO #11",
-      "videoId": "35N_IFHdds8",
-      "url": "https://www.youtube.com/watch?v=35N_IFHdds8",
-      "thumbnail": "https://i.ytimg.com/vi/35N_IFHdds8/mqdefault_live.jpg",
-      "published": "2026-08-03T01:48:42Z"
     }
   ]
 }
