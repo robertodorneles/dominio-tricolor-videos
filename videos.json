@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-03T02:00:36.970451+00:00",
+  "updated_at": "2026-08-03T03:17:53.736845+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: VITÓRIA MAIÚSCULA DO INTER CONTRA O CORINTHIANS |  EMPATE INTERESSANTE GRÊMIO",
+      "videoId": "ymCU0pbCsPs",
+      "url": "https://www.youtube.com/watch?v=ymCU0pbCsPs",
+      "thumbnail": "https://i.ytimg.com/vi/ymCU0pbCsPs/mqdefault_live.jpg",
+      "published": "2026-08-03T02:30:57Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter 2x0 Corinthians: VEJA OS GOLS E MELHORES MOMENTOS | ELE ACHOU O TIME | PÉ NA PROXIMA FASE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=AYFGoM2fM_s",
       "thumbnail": "https://i.ytimg.com/vi/AYFGoM2fM_s/mqdefault.jpg",
       "published": "2026-08-03T00:55:11Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: VITÓRIA MAIÚSCULA DO INTER CONTRA O CORINTHIANS |  EMPATE INTERESSANTE GRÊMIO",
-      "videoId": "ymCU0pbCsPs",
-      "url": "https://www.youtube.com/watch?v=ymCU0pbCsPs",
-      "thumbnail": "https://i.ytimg.com/vi/ymCU0pbCsPs/mqdefault_live.jpg",
-      "published": "2026-08-03T00:48:34Z"
     },
     {
       "channel": "Bage TV",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE INTER 2 X 0 CORINTHIANS - NARRAÇÃO DE PC CARVALHO | COPA DO BRASIL | RÁDIO GRENAL | 02/08/26",
-      "videoId": "90m19cXCv-s",
-      "url": "https://www.youtube.com/watch?v=90m19cXCv-s",
-      "thumbnail": "https://i.ytimg.com/vi/90m19cXCv-s/mqdefault.jpg",
-      "published": "2026-08-03T00:56:45Z"
+      "title": "02/08/2026 | MIRASSOL 1 X 1 GRÊMIO | INTER 2 X 0 CORINTHIANS | COPA DO BRASIL | LIVE COMPLETA",
+      "videoId": "pXRN0E0JuAw",
+      "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
+      "thumbnail": "https://i.ytimg.com/vi/pXRN0E0JuAw/mqdefault_live.jpg",
+      "published": "2026-08-03T03:04:22Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE LUIS CASTRO - TÉCNICO DO GRÊMIO | MIRASSOL 1 X 1 GRÊMIO | COPA DO BRASIL | RÁDIO GRENAL",
-      "videoId": "-wJYLuBRoBg",
-      "url": "https://www.youtube.com/watch?v=-wJYLuBRoBg",
-      "thumbnail": "https://i.ytimg.com/vi/-wJYLuBRoBg/mqdefault.jpg",
-      "published": "2026-08-03T00:14:35Z"
+      "title": "02/08/2026 | MIRASSOL 1 X 1 GRÊMIO | INTER 2 X 0 CORINTHIANS | COPA DO BRASIL | LIVE COMPLETA",
+      "videoId": "8eIPH9TPHbk",
+      "url": "https://www.youtube.com/watch?v=8eIPH9TPHbk",
+      "thumbnail": "https://i.ytimg.com/vi/8eIPH9TPHbk/mqdefault_live.jpg",
+      "published": "2026-08-03T03:03:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #126 — AS REPERCUSSÕES DO EMPATE GREMISTA EM MIRASSOL",
+      "videoId": "OAQYB6rT3gI",
+      "url": "https://www.youtube.com/watch?v=OAQYB6rT3gI",
+      "thumbnail": "https://i.ytimg.com/vi/OAQYB6rT3gI/mqdefault_live.jpg",
+      "published": "2026-08-03T02:16:51Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=35N_IFHdds8",
       "thumbnail": "https://i.ytimg.com/vi/35N_IFHdds8/mqdefault_live.jpg",
       "published": "2026-08-03T01:48:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ARRANCA EMPATE EM MIRASSOL E DECIDE TUDO NA ARENA | LUÍS CASTRO E OS NÚMEROS | REDAÇÃO",
-      "videoId": "XuRrhTDnaJI",
-      "url": "https://www.youtube.com/watch?v=XuRrhTDnaJI",
-      "thumbnail": "https://i.ytimg.com/vi/XuRrhTDnaJI/mqdefault_live.jpg",
-      "published": "2026-08-03T01:46:07Z"
     }
   ]
 }
