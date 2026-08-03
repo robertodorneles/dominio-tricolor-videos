@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T17:00:32.875111+00:00",
+  "updated_at": "2026-08-03T17:47:42.305930+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X SÃO PAULO",
+      "videoId": "iJK_QiHujv0",
+      "url": "https://www.youtube.com/watch?v=iJK_QiHujv0",
+      "thumbnail": "https://i.ytimg.com/vi/iJK_QiHujv0/mqdefault_live.jpg",
+      "published": "2026-08-03T17:20:14Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO SOBREVIVE EM MIRASSOL! INTER ENCAMINHA A CLASSIFICAÇÃO🔸RESENHA FORA DA SALA🔸#099",
       "videoId": "ewgTS_eZGOI",
       "url": "https://www.youtube.com/watch?v=ewgTS_eZGOI",
       "thumbnail": "https://i.ytimg.com/vi/ewgTS_eZGOI/mqdefault_live.jpg",
       "published": "2026-08-03T16:31:31Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #036",
-      "videoId": "bLqcR2_XJik",
-      "url": "https://www.youtube.com/watch?v=bLqcR2_XJik",
-      "thumbnail": "https://i.ytimg.com/vi/bLqcR2_XJik/mqdefault.jpg",
-      "published": "2026-08-03T15:30:05Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -120,7 +120,7 @@
       "videoId": "tNObctC37vc",
       "url": "https://www.youtube.com/watch?v=tNObctC37vc",
       "thumbnail": "https://i.ytimg.com/vi/tNObctC37vc/mqdefault_live.jpg",
-      "published": "2026-08-03T16:55:32Z"
+      "published": "2026-08-03T17:41:39Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO AMPLIA JEJUM DE VITÓRIAS MAS LUÍS CASTRO RESPIRA | RESULTADO BOM? | IMORTAL FC",
+      "videoId": "0yoFGORwJvo",
+      "url": "https://www.youtube.com/watch?v=0yoFGORwJvo",
+      "thumbnail": "https://i.ytimg.com/vi/0yoFGORwJvo/mqdefault_live.jpg",
+      "published": "2026-08-03T17:17:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FILIPE KUNRATH: \"O GRÊMIO ESTÁ SE CONTENTANDO COM MUITO POUCO\" | COMO É BOM SER DO GRÊMIO",
       "videoId": "iqR8u_JBAD8",
       "url": "https://www.youtube.com/watch?v=iqR8u_JBAD8",
       "thumbnail": "https://i.ytimg.com/vi/iqR8u_JBAD8/mqdefault.jpg",
       "published": "2026-08-03T16:46:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #126 — AS REPERCUSSÕES DO EMPATE GREMISTA EM MIRASSOL",
-      "videoId": "OAQYB6rT3gI",
-      "url": "https://www.youtube.com/watch?v=OAQYB6rT3gI",
-      "thumbnail": "https://i.ytimg.com/vi/OAQYB6rT3gI/mqdefault.jpg",
-      "published": "2026-08-03T15:19:02Z"
     }
   ]
 }
