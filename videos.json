@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T15:00:33.771293+00:00",
+  "updated_at": "2026-08-03T15:40:58.200202+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #036",
       "videoId": "bLqcR2_XJik",
       "url": "https://www.youtube.com/watch?v=bLqcR2_XJik",
-      "thumbnail": "https://i.ytimg.com/vi/bLqcR2_XJik/mqdefault_live.jpg",
-      "published": "2026-08-03T14:51:56Z"
+      "thumbnail": "https://i.ytimg.com/vi/bLqcR2_XJik/mqdefault.jpg",
+      "published": "2026-08-03T15:30:05Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO EMPATA EM MIRASSOL E LUÍS CASTRO RESPIRA | COMO É BOM SER DO GRÊMIO #11",
-      "videoId": "35N_IFHdds8",
-      "url": "https://www.youtube.com/watch?v=35N_IFHdds8",
-      "thumbnail": "https://i.ytimg.com/vi/35N_IFHdds8/mqdefault.jpg",
-      "published": "2026-08-03T14:43:56Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #126 — AS REPERCUSSÕES DO EMPATE GREMISTA EM MIRASSOL",
       "videoId": "OAQYB6rT3gI",
       "url": "https://www.youtube.com/watch?v=OAQYB6rT3gI",
-      "thumbnail": "https://i.ytimg.com/vi/OAQYB6rT3gI/mqdefault_live.jpg",
-      "published": "2026-08-03T14:06:04Z"
+      "thumbnail": "https://i.ytimg.com/vi/OAQYB6rT3gI/mqdefault.jpg",
+      "published": "2026-08-03T15:19:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CRISTIANO OLIVEIRA: \"O GRÊMIO FOI EXTERMINADO QUANDO ELES ENTRARAM\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "XxgyIDcRM34",
+      "url": "https://www.youtube.com/watch?v=XxgyIDcRM34",
+      "thumbnail": "https://i.ytimg.com/vi/XxgyIDcRM34/mqdefault.jpg",
+      "published": "2026-08-03T15:17:28Z"
     }
   ]
 }
