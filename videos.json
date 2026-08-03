@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-08-03T00:00:30.392521+00:00",
+  "updated_at": "2026-08-03T01:00:30.569772+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 1x1 Mirassol: CHEGOU A HORA DE VALORIZAR O RESULTADO | DESEMPENHO FICA PRA DEPOIS",
-      "videoId": "EDfyoR4UnNA",
-      "url": "https://www.youtube.com/watch?v=EDfyoR4UnNA",
-      "thumbnail": "https://i.ytimg.com/vi/EDfyoR4UnNA/mqdefault.jpg",
-      "published": "2026-08-02T23:30:37Z"
+      "title": "🔴⚪️ Inter 2x0 Corinthians: VEJA OS GOLS E MELHORES MOMENTOS | ELE ACHOU O TIME | PÉ NA PROXIMA FASE",
+      "videoId": "AYFGoM2fM_s",
+      "url": "https://www.youtube.com/watch?v=AYFGoM2fM_s",
+      "thumbnail": "https://i.ytimg.com/vi/AYFGoM2fM_s/mqdefault.jpg",
+      "published": "2026-08-03T00:55:11Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O RISCO DE DEMISSÃO DE CASTRO NESTE DOMINGO CONTRA O MIRASSOL",
-      "videoId": "uHbGWYGQJtM",
-      "url": "https://www.youtube.com/watch?v=uHbGWYGQJtM",
-      "thumbnail": "https://i.ytimg.com/vi/uHbGWYGQJtM/mqdefault.jpg",
-      "published": "2026-08-02T16:00:22Z"
+      "title": "🔵🔴 A Hora da Dupla: VITÓRIA MAIÚSCULA DO INTER CONTRA O CORINTHIANS |  EMPATE INTERESSANTE GRÊMIO",
+      "videoId": "ymCU0pbCsPs",
+      "url": "https://www.youtube.com/watch?v=ymCU0pbCsPs",
+      "thumbnail": "https://i.ytimg.com/vi/ymCU0pbCsPs/mqdefault_live.jpg",
+      "published": "2026-08-03T00:48:34Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 MIRASSOL X GRÊMIO - [ DIRETO DE MIRASSOL ]",
+      "videoId": "DDb_E11K1bQ",
+      "url": "https://www.youtube.com/watch?v=DDb_E11K1bQ",
+      "thumbnail": "https://i.ytimg.com/vi/DDb_E11K1bQ/mqdefault.jpg",
+      "published": "2026-08-03T00:41:10Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=tYTNt-_1a5Q",
       "thumbnail": "https://i.ytimg.com/vi/tYTNt-_1a5Q/mqdefault_live.jpg",
       "published": "2026-08-02T23:59:27Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "📰BAGÉTV NEWS #011",
-      "videoId": "iNLs9Y3WSeM",
-      "url": "https://www.youtube.com/watch?v=iNLs9Y3WSeM",
-      "thumbnail": "https://i.ytimg.com/vi/iNLs9Y3WSeM/mqdefault_live.jpg",
-      "published": "2026-08-02T23:56:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "QUE GRÊMIO É ESSE? | MEC NA GELADEIRA? | COMENTÁRIO MIRASSOL1 X 1 GRÊMIO |",
+      "videoId": "uA0MXMj-lf4",
+      "url": "https://www.youtube.com/watch?v=uA0MXMj-lf4",
+      "thumbnail": "https://i.ytimg.com/vi/uA0MXMj-lf4/mqdefault.jpg",
+      "published": "2026-08-03T00:08:13Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MIRASSOL X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
       "videoId": "4K9eak5g05A",
       "url": "https://www.youtube.com/watch?v=4K9eak5g05A",
@@ -107,20 +115,12 @@
       "published": "2026-08-02T23:50:23Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "A MAIOR TORCIDA DO SUL DO BRASIL É DO GRÊMIO! #gremio #futebol #Flamengo #corinthians",
-      "videoId": "9LPhybdkBeQ",
-      "url": "https://www.youtube.com/watch?v=9LPhybdkBeQ",
-      "thumbnail": "https://i.ytimg.com/vi/9LPhybdkBeQ/mqdefault.jpg",
-      "published": "2026-08-02T14:00:33Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE MIRASSOL x GRÊMIO - COPA DO BRASIL 2026 | COLETIVAS | 02/08/26 #25",
+      "title": "(AO VIVO) PÓS-JOGO DE MIRASSOL 1 x 1 GRÊMIO - COPA DO BRASIL 2026 | COLETIVAS | 02/08/26 #25",
       "videoId": "3BWUw5cG9ZY",
       "url": "https://www.youtube.com/watch?v=3BWUw5cG9ZY",
-      "thumbnail": "https://i.ytimg.com/vi/3BWUw5cG9ZY/mqdefault_live.jpg",
-      "published": "2026-08-02T23:00:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/3BWUw5cG9ZY/mqdefault.jpg",
+      "published": "2026-08-03T00:40:25Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "A PREOCUPANTE REALIDADE POR TRÁS DO EMPATE DO GRÊMIO CONTRA O MIRASSOL",
+      "videoId": "ZZn6mI_2SX0",
+      "url": "https://www.youtube.com/watch?v=ZZn6mI_2SX0",
+      "thumbnail": "https://i.ytimg.com/vi/ZZn6mI_2SX0/mqdefault.jpg",
+      "published": "2026-08-03T00:08:59Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨BOAS NOTÍCIAS PRO GRÊMIO | CHEGOU OFERTA!? | O QUE HÁ NOS BASTIDORES",
       "videoId": "hBVEPQK6-y8",
       "url": "https://www.youtube.com/watch?v=hBVEPQK6-y8",
@@ -203,44 +211,36 @@
       "published": "2026-08-01T22:53:52Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨A CHANCE DE RENATO | DECISÃO SOBRE LUÍS CASTRO | O QUE A DIREÇÃO PENSA",
-      "videoId": "6gVzS90BEII",
-      "url": "https://www.youtube.com/watch?v=6gVzS90BEII",
-      "thumbnail": "https://i.ytimg.com/vi/6gVzS90BEII/mqdefault.jpg",
-      "published": "2026-07-31T21:29:17Z"
+      "channel": "Radio Grenal",
+      "title": "GOLS DE INTER 2 X 0 CORINTHIANS - NARRAÇÃO DE PC CARVALHO | COPA DO BRASIL | RÁDIO GRENAL | 02/08/26",
+      "videoId": "90m19cXCv-s",
+      "url": "https://www.youtube.com/watch?v=90m19cXCv-s",
+      "thumbnail": "https://i.ytimg.com/vi/90m19cXCv-s/mqdefault.jpg",
+      "published": "2026-08-03T00:56:45Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 1 X 1 MIRASSOL - NARRAÇÃO DE DANIEL FÉLIX | COPA DO BRASIL | RÁDIO GRENAL | 02/08/26",
-      "videoId": "OQ-eO3R5_Ug",
-      "url": "https://www.youtube.com/watch?v=OQ-eO3R5_Ug",
-      "thumbnail": "https://i.ytimg.com/vi/OQ-eO3R5_Ug/mqdefault.jpg",
-      "published": "2026-08-02T23:17:02Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "02/08/2026 | JORNADA ESPORTIVA | INTER 1 X 0 CORINTHIANS |  MIRASSOL 1 X 1 GRÊMIO | COPA DO BRASIL",
-      "videoId": "8eIPH9TPHbk",
-      "url": "https://www.youtube.com/watch?v=8eIPH9TPHbk",
-      "thumbnail": "https://i.ytimg.com/vi/8eIPH9TPHbk/mqdefault_live.jpg",
-      "published": "2026-08-02T16:01:01Z"
+      "title": "COLETIVA DE LUIS CASTRO - TÉCNICO DO GRÊMIO | MIRASSOL 1 X 1 GRÊMIO | COPA DO BRASIL | RÁDIO GRENAL",
+      "videoId": "-wJYLuBRoBg",
+      "url": "https://www.youtube.com/watch?v=-wJYLuBRoBg",
+      "thumbnail": "https://i.ytimg.com/vi/-wJYLuBRoBg/mqdefault.jpg",
+      "published": "2026-08-03T00:14:35Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO MIRASSOL (1) X (1) GRÊMIO | COLETIVA LUÍS CASTRO | COPA DO BRASIL 2026",
-      "videoId": "4RNqOvNcbI0",
-      "url": "https://www.youtube.com/watch?v=4RNqOvNcbI0",
-      "thumbnail": "https://i.ytimg.com/vi/4RNqOvNcbI0/mqdefault_live.jpg",
-      "published": "2026-08-02T16:59:51Z"
+      "title": "LUÍS CASTRO DEFINE OBJETIVO DO GRÊMIO NA COPA DO BRASIL",
+      "videoId": "8LTJcBs0EUs",
+      "url": "https://www.youtube.com/watch?v=8LTJcBs0EUs",
+      "thumbnail": "https://i.ytimg.com/vi/8LTJcBs0EUs/mqdefault.jpg",
+      "published": "2026-08-03T00:46:01Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NA COPA DO BRASIL! | RELACIONADOS E PROVÁVEL ESCALAÇÃO | DIA D PARA LUÍS CASTRO?",
-      "videoId": "1hX59CCBv1g",
-      "url": "https://www.youtube.com/watch?v=1hX59CCBv1g",
-      "thumbnail": "https://i.ytimg.com/vi/1hX59CCBv1g/mqdefault.jpg",
-      "published": "2026-08-02T14:49:23Z"
+      "title": "LUÍS CASTRO FALA SOBRE PROTESTOS DA TORCIDA DO GRÊMIO",
+      "videoId": "HYouUmmOZZ0",
+      "url": "https://www.youtube.com/watch?v=HYouUmmOZZ0",
+      "thumbnail": "https://i.ytimg.com/vi/HYouUmmOZZ0/mqdefault.jpg",
+      "published": "2026-08-03T00:44:33Z"
     }
   ]
 }
