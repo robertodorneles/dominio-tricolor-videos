@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-03T20:00:36.804465+00:00",
+  "updated_at": "2026-08-03T20:58:38.919979+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: CHAMARAM DE VERDE E HOJE É A MELHOR OPÇÃO PARA A ZAGA | A TITULARIDADE SURPREENDENTE",
+      "videoId": "v0t9KQOKpYk",
+      "url": "https://www.youtube.com/watch?v=v0t9KQOKpYk",
+      "thumbnail": "https://i.ytimg.com/vi/v0t9KQOKpYk/mqdefault.jpg",
+      "published": "2026-08-03T20:00:19Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: O CARA DA NOVA FASE | PEZZOLANO RASGOU ELOGIOS | O TIME PRECISAVA DELE",
@@ -11,12 +19,12 @@
       "published": "2026-08-03T19:45:47Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: PLANO MONTADO PARA DECISÃO | ACHOU O JEITO | ELOGIOS E CAUTELA",
-      "videoId": "CxTl6OKar4w",
-      "url": "https://www.youtube.com/watch?v=CxTl6OKar4w",
-      "thumbnail": "https://i.ytimg.com/vi/CxTl6OKar4w/mqdefault.jpg",
-      "published": "2026-08-03T07:50:24Z"
+      "channel": "Bage TV",
+      "title": "TETÊ FORA? Corinthians faz reclamação pesada contra a arbitragem📰BAGÉTV NEWS #009",
+      "videoId": "EwXOyZJXV-Y",
+      "url": "https://www.youtube.com/watch?v=EwXOyZJXV-Y",
+      "thumbnail": "https://i.ytimg.com/vi/EwXOyZJXV-Y/mqdefault_live.jpg",
+      "published": "2026-08-03T20:29:51Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=uUNt3qW6QIw",
       "thumbnail": "https://i.ytimg.com/vi/uUNt3qW6QIw/mqdefault.jpg",
       "published": "2026-08-03T19:51:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO SOBREVIVE EM MIRASSOL! INTER ENCAMINHA A CLASSIFICAÇÃO🔸RESENHA FORA DA SALA🔸#099",
-      "videoId": "ewgTS_eZGOI",
-      "url": "https://www.youtube.com/watch?v=ewgTS_eZGOI",
-      "thumbnail": "https://i.ytimg.com/vi/ewgTS_eZGOI/mqdefault.jpg",
-      "published": "2026-08-03T19:21:48Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Maria Berenice Dias: a jurista que mudou o direito das famílias | REAPRESENTAÇÃO Conversas Cruzadas",
+      "videoId": "fLcmX21AiVc",
+      "url": "https://www.youtube.com/watch?v=fLcmX21AiVc",
+      "thumbnail": "https://i.ytimg.com/vi/fLcmX21AiVc/mqdefault.jpg",
+      "published": "2026-08-03T20:27:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Instabilidade no WhatsApp, nova administração em postos, eleições 2026 e mais | Gaúcha+ | 03/08/2026",
       "videoId": "eflhqDMlqxk",
       "url": "https://www.youtube.com/watch?v=eflhqDMlqxk",
       "thumbnail": "https://i.ytimg.com/vi/eflhqDMlqxk/mqdefault_live.jpg",
       "published": "2026-08-03T19:33:49Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "MATCHÁ DE ERVA-MATE? Tradicional bebida japonesa ganha versão gaúcha",
-      "videoId": "06Hr4Vl2tsc",
-      "url": "https://www.youtube.com/watch?v=06Hr4Vl2tsc",
-      "thumbnail": "https://i.ytimg.com/vi/06Hr4Vl2tsc/mqdefault.jpg",
-      "published": "2026-08-03T18:46:58Z"
     },
     {
       "channel": "Jeremias Wernek",
