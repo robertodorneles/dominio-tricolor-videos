@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:00:39.978370+00:00",
+  "updated_at": "2026-08-04T11:20:37.657923+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "04/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "tGPHvt6Vkuo",
+      "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
+      "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault_live.jpg",
+      "published": "2026-08-04T11:01:42Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "03/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "pXRN0E0JuAw",
       "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
@@ -219,12 +227,12 @@
       "published": "2026-08-04T00:18:48Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "04/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "tGPHvt6Vkuo",
-      "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
-      "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault_live.jpg",
-      "published": "2026-08-03T23:06:03Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO COM DUAS DÚVIDAS PARA O JOGO DE AMANHÃ | TETÊ DEVE SER DESFALQUE | REDAÇÃO IMORTAL",
+      "videoId": "UF_pCME4DQo",
+      "url": "https://www.youtube.com/watch?v=UF_pCME4DQo",
+      "thumbnail": "https://i.ytimg.com/vi/UF_pCME4DQo/mqdefault_live.jpg",
+      "published": "2026-08-04T11:03:41Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=k3Y_jcZyZXA",
       "thumbnail": "https://i.ytimg.com/vi/k3Y_jcZyZXA/mqdefault_live.jpg",
       "published": "2026-08-04T01:30:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE KROVINOVIC | APRESENTAÇÃO DO NOVO MEIO-CAMPISTA DO GRÊMIO | DIRETO DO CT",
-      "videoId": "7kHJMnN9PJA",
-      "url": "https://www.youtube.com/watch?v=7kHJMnN9PJA",
-      "thumbnail": "https://i.ytimg.com/vi/7kHJMnN9PJA/mqdefault_live.jpg",
-      "published": "2026-08-03T23:44:36Z"
     }
   ]
 }
