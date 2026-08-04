@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-04T00:05:29.840727+00:00",
+  "updated_at": "2026-08-04T01:00:34.847884+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: UMA SEMANA QUE PROMETE MUITO PARA GRÊMIO E INTER | FEAT BRUNO FLORES",
+      "videoId": "EOlydXO5jCE",
+      "url": "https://www.youtube.com/watch?v=EOlydXO5jCE",
+      "thumbnail": "https://i.ytimg.com/vi/EOlydXO5jCE/mqdefault_live.jpg",
+      "published": "2026-08-04T00:16:15Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: CHAMARAM DE VERDE E HOJE É A MELHOR OPÇÃO PARA A ZAGA | A TITULARIDADE SURPREENDENTE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=v0t9KQOKpYk",
       "thumbnail": "https://i.ytimg.com/vi/v0t9KQOKpYk/mqdefault.jpg",
       "published": "2026-08-03T20:00:19Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: O CARA DA NOVA FASE | PEZZOLANO RASGOU ELOGIOS | O TIME PRECISAVA DELE",
-      "videoId": "JxQN0Pw47K0",
-      "url": "https://www.youtube.com/watch?v=JxQN0Pw47K0",
-      "thumbnail": "https://i.ytimg.com/vi/JxQN0Pw47K0/mqdefault.jpg",
-      "published": "2026-08-03T19:45:47Z"
     },
     {
       "channel": "Bage TV",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "03/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "tGPHvt6Vkuo",
-      "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
-      "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault_live.jpg",
-      "published": "2026-08-03T23:06:03Z"
+      "videoId": "pXRN0E0JuAw",
+      "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
+      "thumbnail": "https://i.ytimg.com/vi/pXRN0E0JuAw/mqdefault.jpg",
+      "published": "2026-08-04T00:18:48Z"
     },
     {
       "channel": "Radio Grenal",
       "title": "03/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "pXRN0E0JuAw",
-      "url": "https://www.youtube.com/watch?v=pXRN0E0JuAw",
-      "thumbnail": "https://i.ytimg.com/vi/pXRN0E0JuAw/mqdefault_live.jpg",
-      "published": "2026-08-03T23:04:52Z"
+      "videoId": "tGPHvt6Vkuo",
+      "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
+      "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault_live.jpg",
+      "published": "2026-08-03T23:06:03Z"
     },
     {
       "channel": "Radio Imortal",
