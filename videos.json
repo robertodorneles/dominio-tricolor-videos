@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-04T20:00:37.687341+00:00",
+  "updated_at": "2026-08-04T20:21:49.841569+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O CROATA TÁ SOLTINHO NO VESTIÁRIO | A ADAPTAÇÃO DE KROVINOVIC EM PORTO ALEGRE",
+      "videoId": "aY5ySWHEAq8",
+      "url": "https://www.youtube.com/watch?v=aY5ySWHEAq8",
+      "thumbnail": "https://i.ytimg.com/vi/aY5ySWHEAq8/mqdefault.jpg",
+      "published": "2026-08-04T20:15:14Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 DIREÇÃO DIVULGA ABSURDO | QUEM VAI PAGAR É O CLUBE | VOLTA ESTE ANO?",
@@ -11,20 +19,12 @@
       "published": "2026-08-04T19:25:05Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 BARCELLOS SUBIU O TOM | FINALMENTE NEGOCIO SAIU | ARCE NO BANCO?",
-      "videoId": "81UYCGNuMW4",
-      "url": "https://www.youtube.com/watch?v=81UYCGNuMW4",
-      "thumbnail": "https://i.ytimg.com/vi/81UYCGNuMW4/mqdefault.jpg",
-      "published": "2026-08-04T06:56:50Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🚨 POLICIAMENTO E TENSÃO NO CT LUIZ CARVALHO🔹 THE TARDE 🔹#195",
       "videoId": "cHfVjRelZBU",
       "url": "https://www.youtube.com/watch?v=cHfVjRelZBU",
-      "thumbnail": "https://i.ytimg.com/vi/cHfVjRelZBU/mqdefault_live.jpg",
-      "published": "2026-08-04T19:49:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/cHfVjRelZBU/mqdefault.jpg",
+      "published": "2026-08-04T20:05:13Z"
     },
     {
       "channel": "Bage TV",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Dívida com Sonda: Justiça manda bloquear R$ 11,5 milhões do Inter | Cirurgia de Rochet",
+      "videoId": "N0ydm_s8W6o",
+      "url": "https://www.youtube.com/watch?v=N0ydm_s8W6o",
+      "thumbnail": "https://i.ytimg.com/vi/N0ydm_s8W6o/mqdefault.jpg",
+      "published": "2026-08-04T20:17:57Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "A contratação que o Grêmio ainda poderá fazer |Luis Castro falou sobre multa | Dois novos titulares",
       "videoId": "RIC4HSzMpE4",
       "url": "https://www.youtube.com/watch?v=RIC4HSzMpE4",
       "thumbnail": "https://i.ytimg.com/vi/RIC4HSzMpE4/mqdefault.jpg",
       "published": "2026-08-03T13:56:39Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Inter consegue efeito suspensivo para Victor Gabriel",
-      "videoId": "3ZnwcyxVB-w",
-      "url": "https://www.youtube.com/watch?v=3ZnwcyxVB-w",
-      "thumbnail": "https://i.ytimg.com/vi/3ZnwcyxVB-w/mqdefault.jpg",
-      "published": "2026-08-02T13:17:36Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "MAESTRO DOUGLAS E EDILSON RELEMBRAM HISTÓRIAS DE MAXI RODRIGUEZ E ARROYO | COMO É BOM SER DO GRÊMIO",
+      "videoId": "0TIu6Mzblrs",
+      "url": "https://www.youtube.com/watch?v=0TIu6Mzblrs",
+      "thumbnail": "https://i.ytimg.com/vi/0TIu6Mzblrs/mqdefault.jpg",
+      "published": "2026-08-04T20:21:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MANDACA VAI JOGAR MAIS QUE OS GRINGOS NO GRÊMIO?? | COMO É BOM SER DO GRÊMIO",
       "videoId": "JEyU6MfI43o",
       "url": "https://www.youtube.com/watch?v=JEyU6MfI43o",
       "thumbnail": "https://i.ytimg.com/vi/JEyU6MfI43o/mqdefault.jpg",
       "published": "2026-08-04T19:58:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO REFORÇA SEGURANÇA NO CT ANTES DE JOGO DA COPA DO BRASIL | ESCALAÇÃO DEFINIDA? | ESPLANADA",
-      "videoId": "uh_WrsvtqiQ",
-      "url": "https://www.youtube.com/watch?v=uh_WrsvtqiQ",
-      "thumbnail": "https://i.ytimg.com/vi/uh_WrsvtqiQ/mqdefault.jpg",
-      "published": "2026-08-04T19:38:31Z"
     }
   ]
 }
