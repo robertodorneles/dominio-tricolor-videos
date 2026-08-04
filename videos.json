@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T17:00:40.815282+00:00",
+  "updated_at": "2026-08-04T18:00:48.348250+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE FILIP KROVINOVIC",
+      "videoId": "VqnvWjyB1_g",
+      "url": "https://www.youtube.com/watch?v=VqnvWjyB1_g",
+      "thumbnail": "https://i.ytimg.com/vi/VqnvWjyB1_g/mqdefault.jpg",
+      "published": "2026-08-04T17:31:16Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "TETÊ VIRA BAIXA, KROVINOVIC É APRESENTADO E ROCHET NÃO JOGA MAIS NO INTER?🔸RESENHA FORA DA SALA🔸#100",
       "videoId": "XBIGcsEY4Zc",
       "url": "https://www.youtube.com/watch?v=XBIGcsEY4Zc",
@@ -27,16 +35,8 @@
       "published": "2026-08-04T16:32:15Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE FILIP KROVINOVIC",
-      "videoId": "VqnvWjyB1_g",
-      "url": "https://www.youtube.com/watch?v=VqnvWjyB1_g",
-      "thumbnail": "https://i.ytimg.com/vi/VqnvWjyB1_g/mqdefault_live.jpg",
-      "published": "2026-08-04T16:15:06Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVO NEGÓCIO SENDO FECHADO | NETO SOLTA O VERBO SOBRE O GRÊMIO | A ESTRANHA COMEMORAÇÃO DE GOL",
+      "title": "🚨ATENÇÃO! NEGÓCIO SENDO FECHADO | NETO SOLTA O VERBO SOBRE O GRÊMIO | A ESTRANHA COMEMORAÇÃO DE GOL!",
       "videoId": "hwSk6O3NZm4",
       "url": "https://www.youtube.com/watch?v=hwSk6O3NZm4",
       "thumbnail": "https://i.ytimg.com/vi/hwSk6O3NZm4/mqdefault.jpg",
@@ -103,8 +103,8 @@
       "title": "FILIP KROVINOVIC : COLETIVA DE APRESENTAÇÃO NO GRÊMIO | 13h",
       "videoId": "HNlloPJWSWA",
       "url": "https://www.youtube.com/watch?v=HNlloPJWSWA",
-      "thumbnail": "https://i.ytimg.com/vi/HNlloPJWSWA/mqdefault_live.jpg",
-      "published": "2026-08-04T16:00:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/HNlloPJWSWA/mqdefault.jpg",
+      "published": "2026-08-04T17:42:26Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -151,8 +151,8 @@
       "title": "COLETIVA DE APRESENTAÇÃO I FILIP KROVINOVIĆ",
       "videoId": "1Vj-I-ptdw4",
       "url": "https://www.youtube.com/watch?v=1Vj-I-ptdw4",
-      "thumbnail": "https://i.ytimg.com/vi/1Vj-I-ptdw4/mqdefault_live.jpg",
-      "published": "2026-08-04T16:58:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/1Vj-I-ptdw4/mqdefault.jpg",
+      "published": "2026-08-04T17:00:57Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨GRÊMIO: NEGÓCIO ENVOLVENDO ATACANTE | TRÊS OPÇÕES PARA O ATAQUE | DECEPÇÃO NO GRÊMIO",
+      "videoId": "7h-Dkd1K468",
+      "url": "https://www.youtube.com/watch?v=7h-Dkd1K468",
+      "thumbnail": "https://i.ytimg.com/vi/7h-Dkd1K468/mqdefault.jpg",
+      "published": "2026-08-04T17:06:22Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨O ÚLTIMO REFORÇO DO GRÊMIO | QUEM A DIREÇÃO ESTÁ MIRANDO | O RECADO DE LUÍS CASTRO",
       "videoId": "CwPsrYv5hhE",
       "url": "https://www.youtube.com/watch?v=CwPsrYv5hhE",
@@ -203,16 +211,8 @@
       "published": "2026-08-03T16:56:46Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "A PREOCUPANTE REALIDADE POR TRÁS DO EMPATE DO GRÊMIO CONTRA O MIRASSOL",
-      "videoId": "ZZn6mI_2SX0",
-      "url": "https://www.youtube.com/watch?v=ZZn6mI_2SX0",
-      "thumbnail": "https://i.ytimg.com/vi/ZZn6mI_2SX0/mqdefault.jpg",
-      "published": "2026-08-03T00:08:59Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "04/08/2026 | APRESENTAÇÃO DE FILIP KROVINOVIĆ - NOVO MEIA DO GRÊMIO | RÁDIO GRENAL",
+      "title": "04/08/2026 | DUPLA DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "tGPHvt6Vkuo",
       "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
       "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault_live.jpg",
@@ -232,7 +232,7 @@
       "videoId": "7kHJMnN9PJA",
       "url": "https://www.youtube.com/watch?v=7kHJMnN9PJA",
       "thumbnail": "https://i.ytimg.com/vi/7kHJMnN9PJA/mqdefault_live.jpg",
-      "published": "2026-08-04T15:59:58Z"
+      "published": "2026-08-04T17:13:01Z"
     },
     {
       "channel": "Radio Imortal",
