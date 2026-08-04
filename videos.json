@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T15:00:42.222826+00:00",
+  "updated_at": "2026-08-04T16:00:38.328090+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #037",
       "videoId": "456xgMISvQE",
       "url": "https://www.youtube.com/watch?v=456xgMISvQE",
-      "thumbnail": "https://i.ytimg.com/vi/456xgMISvQE/mqdefault_live.jpg",
-      "published": "2026-08-04T14:51:44Z"
+      "thumbnail": "https://i.ytimg.com/vi/456xgMISvQE/mqdefault.jpg",
+      "published": "2026-08-04T15:27:17Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVO NEGÓCIO SENDO FECHADO | NETO SOLTA O VERBO SOBRE O GRÊMIO | A ESTRANHA COMEMORAÇÃO DE GOL",
+      "videoId": "hwSk6O3NZm4",
+      "url": "https://www.youtube.com/watch?v=hwSk6O3NZm4",
+      "thumbnail": "https://i.ytimg.com/vi/hwSk6O3NZm4/mqdefault.jpg",
+      "published": "2026-08-04T15:18:56Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨REFORÇO VINDO DO CORINTHIANS PRO GRÊMIO? TROCA DE ATLETAS | BARBIERI? | NOVO DESFALQUE | GRENAL?",
       "videoId": "V3b05-fofvA",
       "url": "https://www.youtube.com/watch?v=V3b05-fofvA",
       "thumbnail": "https://i.ytimg.com/vi/V3b05-fofvA/mqdefault.jpg",
       "published": "2026-08-03T23:46:35Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS UM REFORÇO NO GRÊMIO | TITULAR ARQUIVADO | DECISÃO PRO CLUBE E PRO TÉCNICO",
-      "videoId": "AefWyXOW6Z0",
-      "url": "https://www.youtube.com/watch?v=AefWyXOW6Z0",
-      "thumbnail": "https://i.ytimg.com/vi/AefWyXOW6Z0/mqdefault.jpg",
-      "published": "2026-08-03T14:40:40Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "\"Custos mal dimensionados frustram concessões\", diz diretor da Fiergs",
+      "videoId": "-44im3ytRiw",
+      "url": "https://www.youtube.com/watch?v=-44im3ytRiw",
+      "thumbnail": "https://i.ytimg.com/vi/-44im3ytRiw/mqdefault.jpg",
+      "published": "2026-08-04T15:29:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Direto de Gramado, polêmica sobre covid-19, fraude do INSS e mais | Timeline | 04/08/26",
       "videoId": "nSAuEh6b0d0",
       "url": "https://www.youtube.com/watch?v=nSAuEh6b0d0",
       "thumbnail": "https://i.ytimg.com/vi/nSAuEh6b0d0/mqdefault.jpg",
       "published": "2026-08-04T14:15:10Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fraude do INSS, últimas da política e economia, trânsito e mais | Gaúcha Atualidade | 04/08/2026",
-      "videoId": "x9ze_wNcfGg",
-      "url": "https://www.youtube.com/watch?v=x9ze_wNcfGg",
-      "thumbnail": "https://i.ytimg.com/vi/x9ze_wNcfGg/mqdefault.jpg",
-      "published": "2026-08-04T13:15:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | BRIGADA MILITAR NO CT DO GRÊMIO | SORTEIO DE INGRESSOS | COMO É BOM SER DO GRÊMIO #12",
-      "videoId": "TTaE8kyLMgU",
-      "url": "https://www.youtube.com/watch?v=TTaE8kyLMgU",
-      "thumbnail": "https://i.ytimg.com/vi/TTaE8kyLMgU/mqdefault.jpg",
-      "published": "2026-08-04T14:50:30Z"
+      "title": "AO VIVO | COLETIVA DE KROVINOVIC | APRESENTAÇÃO DO NOVO MEIO-CAMPISTA DO GRÊMIO | DIRETO DO CT",
+      "videoId": "7kHJMnN9PJA",
+      "url": "https://www.youtube.com/watch?v=7kHJMnN9PJA",
+      "thumbnail": "https://i.ytimg.com/vi/7kHJMnN9PJA/mqdefault_live.jpg",
+      "published": "2026-08-04T15:59:58Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #127 — BRIGADA MILITAR NO TREINO DO GRÊMIO | DIRETO DO CT LUIZ CARVALHO",
-      "videoId": "qgWqNlDD3hU",
-      "url": "https://www.youtube.com/watch?v=qgWqNlDD3hU",
-      "thumbnail": "https://i.ytimg.com/vi/qgWqNlDD3hU/mqdefault_live.jpg",
-      "published": "2026-08-04T14:21:08Z"
+      "title": "IMORTAL FC - 04/08",
+      "videoId": "UGTvlpymJTk",
+      "url": "https://www.youtube.com/watch?v=UGTvlpymJTk",
+      "thumbnail": "https://i.ytimg.com/vi/UGTvlpymJTk/mqdefault_live.jpg",
+      "published": "2026-08-04T15:58:13Z"
     }
   ]
 }
