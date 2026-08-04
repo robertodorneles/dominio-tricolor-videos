@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-04T19:00:34.087593+00:00",
+  "updated_at": "2026-08-04T20:00:37.687341+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 DIREÇÃO DIVULGA ABSURDO | QUEM VAI PAGAR É O CLUBE | VOLTA ESTE ANO?",
+      "videoId": "1-pTCjZzvWk",
+      "url": "https://www.youtube.com/watch?v=1-pTCjZzvWk",
+      "thumbnail": "https://i.ytimg.com/vi/1-pTCjZzvWk/mqdefault.jpg",
+      "published": "2026-08-04T19:25:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 BARCELLOS SUBIU O TOM | FINALMENTE NEGOCIO SAIU | ARCE NO BANCO?",
@@ -11,28 +19,20 @@
       "published": "2026-08-04T06:56:50Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: TETÊ FORA! Castro perde titular | Kike avança | Mercado",
-      "videoId": "BSCCm-6miIE",
-      "url": "https://www.youtube.com/watch?v=BSCCm-6miIE",
-      "thumbnail": "https://i.ytimg.com/vi/BSCCm-6miIE/mqdefault.jpg",
-      "published": "2026-08-04T05:00:02Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🚨 POLICIAMENTO E TENSÃO NO CT LUIZ CARVALHO🔹 THE TARDE 🔹#195",
       "videoId": "cHfVjRelZBU",
       "url": "https://www.youtube.com/watch?v=cHfVjRelZBU",
       "thumbnail": "https://i.ytimg.com/vi/cHfVjRelZBU/mqdefault_live.jpg",
-      "published": "2026-08-04T18:30:27Z"
+      "published": "2026-08-04T19:49:16Z"
     },
     {
       "channel": "Bage TV",
       "title": "TETÊ VIRA BAIXA, KROVINOVIC É APRESENTADO E ROCHET NÃO JOGA MAIS NO INTER?🔸RESENHA FORA DA SALA🔸#100",
       "videoId": "XBIGcsEY4Zc",
       "url": "https://www.youtube.com/watch?v=XBIGcsEY4Zc",
-      "thumbnail": "https://i.ytimg.com/vi/XBIGcsEY4Zc/mqdefault_live.jpg",
-      "published": "2026-08-04T18:06:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/XBIGcsEY4Zc/mqdefault.jpg",
+      "published": "2026-08-04T19:07:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -168,15 +168,15 @@
       "videoId": "7vypKA7k4rk",
       "url": "https://www.youtube.com/watch?v=7vypKA7k4rk",
       "thumbnail": "https://i.ytimg.com/vi/7vypKA7k4rk/mqdefault_live.jpg",
-      "published": "2026-08-04T18:03:59Z"
+      "published": "2026-08-04T19:34:51Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Guarda compartilhada de pets: o que muda com a nova lei? | Conversas Cruzadas | REAPRESENTAÇÃO",
-      "videoId": "uBJlMcNyyKE",
-      "url": "https://www.youtube.com/watch?v=uBJlMcNyyKE",
-      "thumbnail": "https://i.ytimg.com/vi/uBJlMcNyyKE/mqdefault.jpg",
-      "published": "2026-08-04T16:16:30Z"
+      "title": "Shopping da Região Metropolitana prepara operação de MAIS 14 LOJAS",
+      "videoId": "eUEDPElaEEY",
+      "url": "https://www.youtube.com/watch?v=eUEDPElaEEY",
+      "thumbnail": "https://i.ytimg.com/vi/eUEDPElaEEY/mqdefault.jpg",
+      "published": "2026-08-04T19:30:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO REFORÇA SEGURANÇA NO CT ANTES DE JOGO DA COPA DO BRASIL | ESCALAÇÃO DEFINIDA? | ESPLANADA",
-      "videoId": "uh_WrsvtqiQ",
-      "url": "https://www.youtube.com/watch?v=uh_WrsvtqiQ",
-      "thumbnail": "https://i.ytimg.com/vi/uh_WrsvtqiQ/mqdefault_live.jpg",
-      "published": "2026-08-04T18:34:33Z"
+      "title": "MANDACA VAI JOGAR MAIS QUE OS GRINGOS NO GRÊMIO?? | COMO É BOM SER DO GRÊMIO",
+      "videoId": "JEyU6MfI43o",
+      "url": "https://www.youtube.com/watch?v=JEyU6MfI43o",
+      "thumbnail": "https://i.ytimg.com/vi/JEyU6MfI43o/mqdefault.jpg",
+      "published": "2026-08-04T19:58:34Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE KROVINOVIC | APRESENTAÇÃO DO NOVO MEIO-CAMPISTA DO GRÊMIO | DIRETO DO CT",
-      "videoId": "7kHJMnN9PJA",
-      "url": "https://www.youtube.com/watch?v=7kHJMnN9PJA",
-      "thumbnail": "https://i.ytimg.com/vi/7kHJMnN9PJA/mqdefault.jpg",
-      "published": "2026-08-04T18:02:39Z"
+      "title": "GRÊMIO REFORÇA SEGURANÇA NO CT ANTES DE JOGO DA COPA DO BRASIL | ESCALAÇÃO DEFINIDA? | ESPLANADA",
+      "videoId": "uh_WrsvtqiQ",
+      "url": "https://www.youtube.com/watch?v=uh_WrsvtqiQ",
+      "thumbnail": "https://i.ytimg.com/vi/uh_WrsvtqiQ/mqdefault.jpg",
+      "published": "2026-08-04T19:38:31Z"
     }
   ]
 }
