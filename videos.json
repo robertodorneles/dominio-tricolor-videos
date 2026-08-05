@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T16:00:50.512538+00:00",
+  "updated_at": "2026-08-05T16:03:45.226005+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "\"NÃO QUERO MAIS SABER DE FUTEBOL!\" | ENTREVISTA EXCLUSIVA COM EMERSON LEÃO - EX-GOLEIRO DO GRÊMIO",
+      "videoId": "awetWRw10mk",
+      "url": "https://www.youtube.com/watch?v=awetWRw10mk",
+      "thumbnail": "https://i.ytimg.com/vi/awetWRw10mk/mqdefault.jpg",
+      "published": "2026-08-05T16:00:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ACESSO POLÊMICO? 🇪🇪👀",
       "videoId": "HEcj5J8Y7ug",
       "url": "https://www.youtube.com/watch?v=HEcj5J8Y7ug",
@@ -219,12 +227,12 @@
       "published": "2026-08-05T14:00:39Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "CLIMA ESQUENTOU! 👀",
-      "videoId": "oQ3uyz5kspQ",
-      "url": "https://www.youtube.com/watch?v=oQ3uyz5kspQ",
-      "thumbnail": "https://i.ytimg.com/vi/oQ3uyz5kspQ/mqdefault.jpg",
-      "published": "2026-08-05T13:23:49Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
+      "videoId": "myRegC8BO2w",
+      "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
+      "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault.jpg",
+      "published": "2026-08-05T16:00:59Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
       "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault.jpg",
       "published": "2026-08-05T15:01:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
-      "videoId": "myRegC8BO2w",
-      "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
-      "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault_live.jpg",
-      "published": "2026-08-05T15:01:19Z"
     }
   ]
 }
