@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:00:52.458682+00:00",
+  "updated_at": "2026-08-05T18:00:37.411700+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X MIRASSOL (COPA DO BRASIL 2026)",
+      "videoId": "keQYyjdV3pk",
+      "url": "https://www.youtube.com/watch?v=keQYyjdV3pk",
+      "thumbnail": "https://i.ytimg.com/vi/keQYyjdV3pk/mqdefault_live.jpg",
+      "published": "2026-08-05T17:59:39Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "A CAMISA DO GRÊMIO ESTÁ ACIMA DE TUDO",
       "videoId": "FYmhdef06vQ",
       "url": "https://www.youtube.com/watch?v=FYmhdef06vQ",
@@ -155,28 +163,20 @@
       "published": "2026-08-05T16:50:01Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | GRÊMIO 1 X 0 AMÉRICA MG (CAMPEONATO BRASILEIRO FEMININO A1)",
-      "videoId": "kI4O3WkL4nQ",
-      "url": "https://www.youtube.com/watch?v=kI4O3WkL4nQ",
-      "thumbnail": "https://i.ytimg.com/vi/kI4O3WkL4nQ/mqdefault.jpg",
-      "published": "2026-08-04T22:03:07Z"
+      "channel": "GZH Digital",
+      "title": "Unimed terá estrutura própria junto a novo hospital em construção no Litoral | Giane Guerra",
+      "videoId": "uwXuP4luCHQ",
+      "url": "https://www.youtube.com/watch?v=uwXuP4luCHQ",
+      "thumbnail": "https://i.ytimg.com/vi/uwXuP4luCHQ/mqdefault.jpg",
+      "published": "2026-08-05T17:30:21Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 05/07/2026",
+      "title": "Relação Brasil X Argentina, Ideb gaúcho, Cavalo Caramelo e mais | Gaúcha+ | 05/08/2026",
       "videoId": "iqOikhp-z_0",
       "url": "https://www.youtube.com/watch?v=iqOikhp-z_0",
       "thumbnail": "https://i.ytimg.com/vi/iqOikhp-z_0/mqdefault_live.jpg",
       "published": "2026-08-05T15:36:04Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Rosane Fantinelli, diretora de marketing da Tramontina | Liderança em Sala #007",
-      "videoId": "KZLh_6dlVKo",
-      "url": "https://www.youtube.com/watch?v=KZLh_6dlVKo",
-      "thumbnail": "https://i.ytimg.com/vi/KZLh_6dlVKo/mqdefault.jpg",
-      "published": "2026-08-05T15:00:06Z"
     },
     {
       "channel": "Jeremias Wernek",
