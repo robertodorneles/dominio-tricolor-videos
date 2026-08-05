@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-05T19:00:56.329599+00:00",
+  "updated_at": "2026-08-05T20:01:03.255290+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: A IDEIA QUE ESTÁ BLINDANDO A DEFESA | TIME MAIS RECUADO | TROCA NA QUINTA FEIRA?",
+      "videoId": "lk3rTT8opYI",
+      "url": "https://www.youtube.com/watch?v=lk3rTT8opYI",
+      "thumbnail": "https://i.ytimg.com/vi/lk3rTT8opYI/mqdefault.jpg",
+      "published": "2026-08-05T19:22:09Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: ⚠️ RISCO DE TRANSFERBAN NA JANELA | A CIRURGIA DE ROCHET | PEZZOLANO VAI MUDAR?",
@@ -11,12 +19,12 @@
       "published": "2026-08-05T07:27:19Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CASTRO DECIDIU! Wallace ganha vaga | Tetê preocupa | Polícia no treinamento",
-      "videoId": "0tSN7Nxr7Ok",
-      "url": "https://www.youtube.com/watch?v=0tSN7Nxr7Ok",
-      "thumbnail": "https://i.ytimg.com/vi/0tSN7Nxr7Ok/mqdefault.jpg",
-      "published": "2026-08-05T05:30:39Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X MIRASSOL - [ DIRETO DA ARENA ]",
+      "videoId": "GavUKxM17f8",
+      "url": "https://www.youtube.com/watch?v=GavUKxM17f8",
+      "thumbnail": "https://i.ytimg.com/vi/GavUKxM17f8/mqdefault_live.jpg",
+      "published": "2026-08-05T19:29:51Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=KCxDYiXtKZE",
       "thumbnail": "https://i.ytimg.com/vi/KCxDYiXtKZE/mqdefault.jpg",
       "published": "2026-08-05T18:32:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #038",
-      "videoId": "wMYS3S-UREY",
-      "url": "https://www.youtube.com/watch?v=wMYS3S-UREY",
-      "thumbnail": "https://i.ytimg.com/vi/wMYS3S-UREY/mqdefault.jpg",
-      "published": "2026-08-05T15:27:38Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Papa viajará ao Uruguai, Argentina e Peru em novembro",
-      "videoId": "vgcF-aDtiYA",
-      "url": "https://www.youtube.com/watch?v=vgcF-aDtiYA",
-      "thumbnail": "https://i.ytimg.com/vi/vgcF-aDtiYA/mqdefault.jpg",
-      "published": "2026-08-05T18:45:27Z"
+      "title": "O segredo da Tramontina para vender mais em cada loja | Liderança em Sala",
+      "videoId": "R5UU4OTZa0k",
+      "url": "https://www.youtube.com/watch?v=R5UU4OTZa0k",
+      "thumbnail": "https://i.ytimg.com/vi/R5UU4OTZa0k/mqdefault.jpg",
+      "published": "2026-08-05T20:00:14Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "iqOikhp-z_0",
       "url": "https://www.youtube.com/watch?v=iqOikhp-z_0",
       "thumbnail": "https://i.ytimg.com/vi/iqOikhp-z_0/mqdefault_live.jpg",
-      "published": "2026-08-05T18:03:57Z"
+      "published": "2026-08-05T19:34:44Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "\"NÃO QUERO MAIS SABER DE FUTEBOL!\" | ENTREVISTA EXCLUSIVA COM EMERSON LEÃO - EX-GOLEIRO DO GRÊMIO",
-      "videoId": "awetWRw10mk",
-      "url": "https://www.youtube.com/watch?v=awetWRw10mk",
-      "thumbnail": "https://i.ytimg.com/vi/awetWRw10mk/mqdefault.jpg",
-      "published": "2026-08-05T16:00:44Z"
+      "title": "05/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "-AGD8eQGTAg",
+      "url": "https://www.youtube.com/watch?v=-AGD8eQGTAg",
+      "thumbnail": "https://i.ytimg.com/vi/-AGD8eQGTAg/mqdefault.jpg",
+      "published": "2026-08-05T19:20:42Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "ACESSO POLÊMICO? 🇪🇪👀",
-      "videoId": "HEcj5J8Y7ug",
-      "url": "https://www.youtube.com/watch?v=HEcj5J8Y7ug",
-      "thumbnail": "https://i.ytimg.com/vi/HEcj5J8Y7ug/mqdefault.jpg",
-      "published": "2026-08-05T14:00:39Z"
+      "title": "05/08/2026 | ESQUENTANDO O JOGO | GRÊMIO X MIRASSOL | COPA DO BRASIL | RÁDIO GRENAL",
+      "videoId": "cSJyUmPxcJU",
+      "url": "https://www.youtube.com/watch?v=cSJyUmPxcJU",
+      "thumbnail": "https://i.ytimg.com/vi/cSJyUmPxcJU/mqdefault_live.jpg",
+      "published": "2026-08-05T19:02:32Z"
     },
     {
       "channel": "Radio Imortal",
