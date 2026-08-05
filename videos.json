@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:00:37.567496+00:00",
+  "updated_at": "2026-08-05T15:00:38.093405+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #038",
+      "videoId": "wMYS3S-UREY",
+      "url": "https://www.youtube.com/watch?v=wMYS3S-UREY",
+      "thumbnail": "https://i.ytimg.com/vi/wMYS3S-UREY/mqdefault_live.jpg",
+      "published": "2026-08-05T14:52:53Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DIA DE DECISÃO NA COPA DO BRASIL!  🔵 FUTEBOL ALEGRIA DO GRÊMIO - 05/08 - #605",
       "videoId": "XOuaoDfc8sE",
       "url": "https://www.youtube.com/watch?v=XOuaoDfc8sE",
@@ -27,12 +35,12 @@
       "published": "2026-08-05T13:59:54Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #038",
-      "videoId": "wMYS3S-UREY",
-      "url": "https://www.youtube.com/watch?v=wMYS3S-UREY",
-      "thumbnail": "https://i.ytimg.com/vi/wMYS3S-UREY/mqdefault_live.jpg",
-      "published": "2026-08-05T13:44:08Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRANDE SURPRESA COM REFORÇO | VAGA OU DEMISSÃO DE LUÍS CASTRO? | DATA DE ESTREIA NO GRÊMIO",
+      "videoId": "RAygvzf9ew0",
+      "url": "https://www.youtube.com/watch?v=RAygvzf9ew0",
+      "thumbnail": "https://i.ytimg.com/vi/RAygvzf9ew0/mqdefault.jpg",
+      "published": "2026-08-05T14:31:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=35O6k-Y5TvI",
       "thumbnail": "https://i.ytimg.com/vi/35O6k-Y5TvI/mqdefault.jpg",
       "published": "2026-08-04T23:47:45Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! NEGÓCIO SENDO FECHADO | NETO SOLTA O VERBO SOBRE O GRÊMIO | A ESTRANHA COMEMORAÇÃO DE GOL!",
-      "videoId": "hwSk6O3NZm4",
-      "url": "https://www.youtube.com/watch?v=hwSk6O3NZm4",
-      "thumbnail": "https://i.ytimg.com/vi/hwSk6O3NZm4/mqdefault.jpg",
-      "published": "2026-08-04T15:18:56Z"
     },
     {
       "channel": "Canal do CCD",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "R$10 MILHÕES VÃO ENTRAR NOS COFRES? | GABRIEL MEC DECIDIU FICAR? | GRÊMIO NA COPA DO BRASIL",
+      "videoId": "R204ejDpsOc",
+      "url": "https://www.youtube.com/watch?v=R204ejDpsOc",
+      "thumbnail": "https://i.ytimg.com/vi/R204ejDpsOc/mqdefault.jpg",
+      "published": "2026-08-05T14:22:09Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x MIRASSOL - COPA DO BRASIL 2026 | COLETIVAS | 05/08/26 #26",
       "videoId": "OofMazNF6iY",
       "url": "https://www.youtube.com/watch?v=OofMazNF6iY",
       "thumbnail": "https://i.ytimg.com/vi/OofMazNF6iY/mqdefault_live.jpg",
       "published": "2026-08-04T02:24:59Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x MIRASSOL DIRETO DA ARENA | OITAVAS DA COPA DO BRASIL 2026 | 05/08 #09",
-      "videoId": "sGxaSpaNqyU",
-      "url": "https://www.youtube.com/watch?v=sGxaSpaNqyU",
-      "thumbnail": "https://i.ytimg.com/vi/sGxaSpaNqyU/mqdefault_live.jpg",
-      "published": "2026-08-03T21:44:18Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Meteorologista fala sobre ciclone-bomba, nova pesquisa eleitoral e mais | Timeline | 05/08/2026",
-      "videoId": "o-0u5M--UA0",
-      "url": "https://www.youtube.com/watch?v=o-0u5M--UA0",
-      "thumbnail": "https://i.ytimg.com/vi/o-0u5M--UA0/mqdefault_live.jpg",
-      "published": "2026-08-05T14:00:23Z"
+      "title": "Rosane Fantinelli, diretora de marketing da Tramontina | Liderança em Sala #007",
+      "videoId": "KZLh_6dlVKo",
+      "url": "https://www.youtube.com/watch?v=KZLh_6dlVKo",
+      "thumbnail": "https://i.ytimg.com/vi/KZLh_6dlVKo/mqdefault.jpg",
+      "published": "2026-08-05T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com ministro Waldez Góes, pesquisas eleitorais e mais | Gaúcha Atualidade | 05/08/2026",
-      "videoId": "npMriZZmSrc",
-      "url": "https://www.youtube.com/watch?v=npMriZZmSrc",
-      "thumbnail": "https://i.ytimg.com/vi/npMriZZmSrc/mqdefault.jpg",
-      "published": "2026-08-05T13:34:45Z"
+      "title": "Meteorologista fala sobre ciclone-bomba, nova pesquisa eleitoral e mais | Timeline | 05/08/2026",
+      "videoId": "o-0u5M--UA0",
+      "url": "https://www.youtube.com/watch?v=o-0u5M--UA0",
+      "thumbnail": "https://i.ytimg.com/vi/o-0u5M--UA0/mqdefault.jpg",
+      "published": "2026-08-05T14:32:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ACESSO POLÊMICO? 🇪🇪👀",
+      "videoId": "HEcj5J8Y7ug",
+      "url": "https://www.youtube.com/watch?v=HEcj5J8Y7ug",
+      "thumbnail": "https://i.ytimg.com/vi/HEcj5J8Y7ug/mqdefault.jpg",
+      "published": "2026-08-05T14:00:39Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "CLIMA ESQUENTOU! 👀",
       "videoId": "oQ3uyz5kspQ",
       "url": "https://www.youtube.com/watch?v=oQ3uyz5kspQ",
@@ -219,20 +227,12 @@
       "published": "2026-08-05T13:23:49Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "04/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "-AGD8eQGTAg",
-      "url": "https://www.youtube.com/watch?v=-AGD8eQGTAg",
-      "thumbnail": "https://i.ytimg.com/vi/-AGD8eQGTAg/mqdefault_live.jpg",
-      "published": "2026-08-05T11:03:40Z"
-    },
-    {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ENCARA O MIRASSOL EM BUSCA DA VAGA NA COPA DO BRASIL | PROVÁVEL TIME | REDAÇÃO IMORTAL",
-      "videoId": "H2U75vzA70s",
-      "url": "https://www.youtube.com/watch?v=H2U75vzA70s",
-      "thumbnail": "https://i.ytimg.com/vi/H2U75vzA70s/mqdefault.jpg",
-      "published": "2026-08-05T12:44:35Z"
+      "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
+      "videoId": "myRegC8BO2w",
+      "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
+      "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault_live.jpg",
+      "published": "2026-08-05T14:12:25Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "Jt2imFKbQNU",
       "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
       "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault_live.jpg",
-      "published": "2026-08-05T12:31:04Z"
+      "published": "2026-08-05T14:12:22Z"
     }
   ]
 }
