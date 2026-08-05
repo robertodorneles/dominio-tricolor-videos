@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-05T00:00:58.172008+00:00",
+  "updated_at": "2026-08-05T01:00:42.010458+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: FRIO NA BARRIGA DO PRÉ COPA NO GRÊMIO | O CASO ROCHET NO INTER",
+      "videoId": "E-gxKPcIIzs",
+      "url": "https://www.youtube.com/watch?v=E-gxKPcIIzs",
+      "thumbnail": "https://i.ytimg.com/vi/E-gxKPcIIzs/mqdefault_live.jpg",
+      "published": "2026-08-05T00:39:17Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O CROATA TÁ SOLTINHO NO VESTIÁRIO | A ADAPTAÇÃO DE KROVINOVIC EM PORTO ALEGRE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=aY5ySWHEAq8",
       "thumbnail": "https://i.ytimg.com/vi/aY5ySWHEAq8/mqdefault.jpg",
       "published": "2026-08-04T20:15:14Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 DIREÇÃO DIVULGA ABSURDO | QUEM VAI PAGAR É O CLUBE | VOLTA ESTE ANO?",
-      "videoId": "1-pTCjZzvWk",
-      "url": "https://www.youtube.com/watch?v=1-pTCjZzvWk",
-      "thumbnail": "https://i.ytimg.com/vi/1-pTCjZzvWk/mqdefault.jpg",
-      "published": "2026-08-04T19:25:05Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO JOGA A VIDA NA COPA DO BRASIL | CROATA APRESENTADO | NOITES DE GRÊMIO #122 - 04/08",
+      "videoId": "K48P8cS3jkI",
+      "url": "https://www.youtube.com/watch?v=K48P8cS3jkI",
+      "thumbnail": "https://i.ytimg.com/vi/K48P8cS3jkI/mqdefault_live.jpg",
+      "published": "2026-08-05T00:00:52Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
       "videoId": "myRegC8BO2w",
       "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
       "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault_live.jpg",
       "published": "2026-08-04T22:54:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NA COPA DO BRASIL! | COMO É BOM SER DO GRÊMIO #13",
-      "videoId": "Jt2imFKbQNU",
-      "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
-      "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault_live.jpg",
-      "published": "2026-08-04T22:53:14Z"
     }
   ]
 }
