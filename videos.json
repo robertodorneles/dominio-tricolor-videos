@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T18:17:43.327170+00:00",
+  "updated_at": "2026-08-05T19:00:56.329599+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🚨NOITE DE COPA! GRÊMIO QUER QUEBRAR TABU; JUSTIÇA BLOQUEIA CONTAS DO INTER🔸RESENHA FORA DA SALA🔸#101",
       "videoId": "KCxDYiXtKZE",
       "url": "https://www.youtube.com/watch?v=KCxDYiXtKZE",
-      "thumbnail": "https://i.ytimg.com/vi/KCxDYiXtKZE/mqdefault_live.jpg",
-      "published": "2026-08-05T18:10:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/KCxDYiXtKZE/mqdefault.jpg",
+      "published": "2026-08-05T18:32:45Z"
     },
     {
       "channel": "Bage TV",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Flávio Bolsonaro anuncia Alfredo Gaspar como vice da chapa à Presidência | ANÁLISE",
-      "videoId": "-PMjdIcK5KQ",
-      "url": "https://www.youtube.com/watch?v=-PMjdIcK5KQ",
-      "thumbnail": "https://i.ytimg.com/vi/-PMjdIcK5KQ/mqdefault.jpg",
-      "published": "2026-08-05T18:15:36Z"
+      "title": "Papa viajará ao Uruguai, Argentina e Peru em novembro",
+      "videoId": "vgcF-aDtiYA",
+      "url": "https://www.youtube.com/watch?v=vgcF-aDtiYA",
+      "thumbnail": "https://i.ytimg.com/vi/vgcF-aDtiYA/mqdefault.jpg",
+      "published": "2026-08-05T18:45:27Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X MIRASSOL | DIRETO DA ARENA DO GRÊMIO | COPA DO BRASIL 2026",
+      "videoId": "sFMU-VsjcA8",
+      "url": "https://www.youtube.com/watch?v=sFMU-VsjcA8",
+      "thumbnail": "https://i.ytimg.com/vi/sFMU-VsjcA8/mqdefault_live.jpg",
+      "published": "2026-08-05T18:31:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
       "videoId": "myRegC8BO2w",
       "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
       "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault.jpg",
       "published": "2026-08-05T16:00:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NA COPA DO BRASIL! | COMO É BOM SER DO GRÊMIO #13",
-      "videoId": "Jt2imFKbQNU",
-      "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
-      "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault.jpg",
-      "published": "2026-08-05T15:01:35Z"
     }
   ]
 }
