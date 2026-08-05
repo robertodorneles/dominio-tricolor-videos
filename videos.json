@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:00:33.327131+00:00",
+  "updated_at": "2026-08-05T11:00:33.624855+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "BASTIDORES GRÊMIO X MIRASSOL | CAMPAZ: VEM DINHEIRO PRO GRÊMIO!",
+      "videoId": "VRnHBu0U6mM",
+      "url": "https://www.youtube.com/watch?v=VRnHBu0U6mM",
+      "thumbnail": "https://i.ytimg.com/vi/VRnHBu0U6mM/mqdefault.jpg",
+      "published": "2026-08-05T10:00:20Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO x MIRASSOL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
       "videoId": "YukE3Cc2UhY",
       "url": "https://www.youtube.com/watch?v=YukE3Cc2UhY",
       "thumbnail": "https://i.ytimg.com/vi/YukE3Cc2UhY/mqdefault_live.jpg",
       "published": "2026-08-05T04:11:21Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "OFERTA E RESPOSTA: WAGNER LEONARDO | ALERTA NA ARENA DO GRÊMIO | KROVINOVIC EXPLICA!",
-      "videoId": "53mdhfCrUn4",
-      "url": "https://www.youtube.com/watch?v=53mdhfCrUn4",
-      "thumbnail": "https://i.ytimg.com/vi/53mdhfCrUn4/mqdefault.jpg",
-      "published": "2026-08-04T21:27:19Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 05/08/2026",
+      "videoId": "npMriZZmSrc",
+      "url": "https://www.youtube.com/watch?v=npMriZZmSrc",
+      "thumbnail": "https://i.ytimg.com/vi/npMriZZmSrc/mqdefault_live.jpg",
+      "published": "2026-08-05T10:56:42Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Aposentadoria compulsória de juízes, violência política, notícias do RS e mais | Gaúcha+ | 4/8/2026",
       "videoId": "7vypKA7k4rk",
       "url": "https://www.youtube.com/watch?v=7vypKA7k4rk",
       "thumbnail": "https://i.ytimg.com/vi/7vypKA7k4rk/mqdefault.jpg",
       "published": "2026-08-05T07:39:48Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Guarda compartilhada de pets: o que muda com a nova lei? | Conversas Cruzadas | REAPRESENTAÇÃO",
-      "videoId": "uBJlMcNyyKE",
-      "url": "https://www.youtube.com/watch?v=uBJlMcNyyKE",
-      "thumbnail": "https://i.ytimg.com/vi/uBJlMcNyyKE/mqdefault.jpg",
-      "published": "2026-08-04T20:28:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "04/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "-AGD8eQGTAg",
+      "url": "https://www.youtube.com/watch?v=-AGD8eQGTAg",
+      "thumbnail": "https://i.ytimg.com/vi/-AGD8eQGTAg/mqdefault_live.jpg",
+      "published": "2026-08-05T10:57:31Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "04/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "tGPHvt6Vkuo",
       "url": "https://www.youtube.com/watch?v=tGPHvt6Vkuo",
       "thumbnail": "https://i.ytimg.com/vi/tGPHvt6Vkuo/mqdefault.jpg",
       "published": "2026-08-04T22:36:27Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE APRESENTAÇÃO DE FILIP KROVINOVIĆ - NOVO MEIA DO GRÊMIO | RÁDIO GRENAL | 04/08/2026",
-      "videoId": "FCtGtfBpcgE",
-      "url": "https://www.youtube.com/watch?v=FCtGtfBpcgE",
-      "thumbnail": "https://i.ytimg.com/vi/FCtGtfBpcgE/mqdefault.jpg",
-      "published": "2026-08-04T18:34:58Z"
     },
     {
       "channel": "Radio Imortal",
