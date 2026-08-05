@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:00:33.624855+00:00",
+  "updated_at": "2026-08-05T11:16:54.534880+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 05/08",
+      "videoId": "c4CM_eV3ap0",
+      "url": "https://www.youtube.com/watch?v=c4CM_eV3ap0",
+      "thumbnail": "https://i.ytimg.com/vi/c4CM_eV3ap0/mqdefault_live.jpg",
+      "published": "2026-08-05T11:16:11Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O PROJETO PARA O HEXA EM 2030 JÁ ESTÁ ACONTECENDO | Cortes do Duda",
       "videoId": "mLK7pcNSS4M",
       "url": "https://www.youtube.com/watch?v=mLK7pcNSS4M",
       "thumbnail": "https://i.ytimg.com/vi/mLK7pcNSS4M/mqdefault.jpg",
       "published": "2026-08-04T23:00:04Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "BRANCO E A “ÁGUA BATIZADA” DA ARGENTINA #dudagarbi #umassadopara",
-      "videoId": "Nj1v6TMuwU0",
-      "url": "https://www.youtube.com/watch?v=Nj1v6TMuwU0",
-      "thumbnail": "https://i.ytimg.com/vi/Nj1v6TMuwU0/mqdefault.jpg",
-      "published": "2026-08-04T22:45:32Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 05/08/2026",
+      "title": "Entrevista com ministro Waldez Góes, previsão do tempo e mais | Gaúcha Atualidade | 05/08/2026",
       "videoId": "npMriZZmSrc",
       "url": "https://www.youtube.com/watch?v=npMriZZmSrc",
       "thumbnail": "https://i.ytimg.com/vi/npMriZZmSrc/mqdefault_live.jpg",
@@ -216,7 +216,7 @@
       "videoId": "-AGD8eQGTAg",
       "url": "https://www.youtube.com/watch?v=-AGD8eQGTAg",
       "thumbnail": "https://i.ytimg.com/vi/-AGD8eQGTAg/mqdefault_live.jpg",
-      "published": "2026-08-05T10:57:31Z"
+      "published": "2026-08-05T11:03:40Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ENCARA O MIRASSOL EM BUSCA DA VAGA NA COPA DO BRASIL | PROVÁVEL TIME | REDAÇÃO IMORTAL",
+      "videoId": "H2U75vzA70s",
+      "url": "https://www.youtube.com/watch?v=H2U75vzA70s",
+      "thumbnail": "https://i.ytimg.com/vi/H2U75vzA70s/mqdefault_live.jpg",
+      "published": "2026-08-05T11:01:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO JOGA A VIDA NA COPA DO BRASIL | CROATA APRESENTADO | NOITES DE GRÊMIO #122 - 04/08",
       "videoId": "K48P8cS3jkI",
       "url": "https://www.youtube.com/watch?v=K48P8cS3jkI",
       "thumbnail": "https://i.ytimg.com/vi/K48P8cS3jkI/mqdefault.jpg",
       "published": "2026-08-05T01:42:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
-      "videoId": "myRegC8BO2w",
-      "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
-      "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault_live.jpg",
-      "published": "2026-08-04T22:54:31Z"
     }
   ]
 }
