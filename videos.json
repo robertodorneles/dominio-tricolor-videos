@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:00:38.093405+00:00",
+  "updated_at": "2026-08-05T16:00:50.512538+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #038",
       "videoId": "wMYS3S-UREY",
       "url": "https://www.youtube.com/watch?v=wMYS3S-UREY",
-      "thumbnail": "https://i.ytimg.com/vi/wMYS3S-UREY/mqdefault_live.jpg",
-      "published": "2026-08-05T14:52:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/wMYS3S-UREY/mqdefault.jpg",
+      "published": "2026-08-05T15:27:38Z"
     },
     {
       "channel": "Bage TV",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨GRANDE SURPRESA COM REFORÇO | VAGA OU DEMISSÃO DE LUÍS CASTRO? | DATA DE ESTREIA NO GRÊMIO",
+      "title": "🚨GRANDE SURPRESA COM REFORÇO | VAGA OU DEMISSÃO DE LUÍS CASTRO? | DATA DE UMA ESTREIA NO GRÊMIO!",
       "videoId": "RAygvzf9ew0",
       "url": "https://www.youtube.com/watch?v=RAygvzf9ew0",
       "thumbnail": "https://i.ytimg.com/vi/RAygvzf9ew0/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha+ | 05/07/2026",
+      "videoId": "iqOikhp-z_0",
+      "url": "https://www.youtube.com/watch?v=iqOikhp-z_0",
+      "thumbnail": "https://i.ytimg.com/vi/iqOikhp-z_0/mqdefault_live.jpg",
+      "published": "2026-08-05T15:36:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Rosane Fantinelli, diretora de marketing da Tramontina | Liderança em Sala #007",
       "videoId": "KZLh_6dlVKo",
       "url": "https://www.youtube.com/watch?v=KZLh_6dlVKo",
       "thumbnail": "https://i.ytimg.com/vi/KZLh_6dlVKo/mqdefault.jpg",
       "published": "2026-08-05T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Meteorologista fala sobre ciclone-bomba, nova pesquisa eleitoral e mais | Timeline | 05/08/2026",
-      "videoId": "o-0u5M--UA0",
-      "url": "https://www.youtube.com/watch?v=o-0u5M--UA0",
-      "thumbnail": "https://i.ytimg.com/vi/o-0u5M--UA0/mqdefault.jpg",
-      "published": "2026-08-05T14:32:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DIA DE GRÊMIO NA COPA DO BRASIL! | COMO É BOM SER DO GRÊMIO #13",
+      "videoId": "Jt2imFKbQNU",
+      "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
+      "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault.jpg",
+      "published": "2026-08-05T15:01:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #128 — A GRANDE DÚVIDA NO TIME DO GRÊMIO PARA ESTA NOITE",
       "videoId": "myRegC8BO2w",
       "url": "https://www.youtube.com/watch?v=myRegC8BO2w",
       "thumbnail": "https://i.ytimg.com/vi/myRegC8BO2w/mqdefault_live.jpg",
-      "published": "2026-08-05T14:12:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NA COPA DO BRASIL! | COMO É BOM SER DO GRÊMIO #13",
-      "videoId": "Jt2imFKbQNU",
-      "url": "https://www.youtube.com/watch?v=Jt2imFKbQNU",
-      "thumbnail": "https://i.ytimg.com/vi/Jt2imFKbQNU/mqdefault_live.jpg",
-      "published": "2026-08-05T14:12:22Z"
+      "published": "2026-08-05T15:01:19Z"
     }
   ]
 }
