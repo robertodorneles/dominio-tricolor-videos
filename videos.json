@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T00:00:35.157889+00:00",
+  "updated_at": "2026-08-06T01:00:34.148838+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO x MIRASSOL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
+      "videoId": "YukE3Cc2UhY",
+      "url": "https://www.youtube.com/watch?v=YukE3Cc2UhY",
+      "thumbnail": "https://i.ytimg.com/vi/YukE3Cc2UhY/mqdefault_live.jpg",
+      "published": "2026-08-06T00:37:16Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "E SE... GRÊMIO JÁ RESPONDEU! #gremio #futebol #corinthians",
       "videoId": "3L9MnLrodWg",
       "url": "https://www.youtube.com/watch?v=3L9MnLrodWg",
@@ -107,12 +115,12 @@
       "published": "2026-08-05T13:00:11Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "BASTIDORES GRÊMIO X MIRASSOL | CAMPAZ: VEM DINHEIRO PRO GRÊMIO!",
-      "videoId": "VRnHBu0U6mM",
-      "url": "https://www.youtube.com/watch?v=VRnHBu0U6mM",
-      "thumbnail": "https://i.ytimg.com/vi/VRnHBu0U6mM/mqdefault.jpg",
-      "published": "2026-08-05T10:00:20Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x MIRASSOL - COPA DO BRASIL 2026 | COLETIVAS | 05/08/26 #26",
+      "videoId": "OofMazNF6iY",
+      "url": "https://www.youtube.com/watch?v=OofMazNF6iY",
+      "thumbnail": "https://i.ytimg.com/vi/OofMazNF6iY/mqdefault_live.jpg",
+      "published": "2026-08-06T00:26:05Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=sGxaSpaNqyU",
       "thumbnail": "https://i.ytimg.com/vi/sGxaSpaNqyU/mqdefault.jpg",
       "published": "2026-08-05T22:16:40Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "R$10 MILHÕES VÃO ENTRAR NOS COFRES? | GABRIEL MEC DECIDIU FICAR? | GRÊMIO NA COPA DO BRASIL",
-      "videoId": "R204ejDpsOc",
-      "url": "https://www.youtube.com/watch?v=R204ejDpsOc",
-      "thumbnail": "https://i.ytimg.com/vi/R204ejDpsOc/mqdefault.jpg",
-      "published": "2026-08-05T16:13:11Z"
     },
     {
       "channel": "Duda Garbi",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "05/08/2026 | JORNADA ESPORTIVA | GRÊMIO 1 X 0 MIRASSOL | COPA DO BRASIL | RÁDIO GRENAL",
+      "title": "05/08/2026 | COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | GRÊMIO 1 X 0 MIRASSOL | COPA DO BRASIL |",
       "videoId": "cSJyUmPxcJU",
       "url": "https://www.youtube.com/watch?v=cSJyUmPxcJU",
       "thumbnail": "https://i.ytimg.com/vi/cSJyUmPxcJU/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (1) X (0) MIRASSOL | DIRETO DA ARENA DO GRÊMIO | COPA DO BRASIL 2026",
+      "title": "AO VIVO | PÓS-JOGO - GRÊMIO CLASSIFICADO! | GRÊMIO (1) X (0) MIRASSOL | DIRETO DA ARENA DO GRÊMIO",
       "videoId": "sFMU-VsjcA8",
       "url": "https://www.youtube.com/watch?v=sFMU-VsjcA8",
       "thumbnail": "https://i.ytimg.com/vi/sFMU-VsjcA8/mqdefault_live.jpg",
