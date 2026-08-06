@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-06T18:03:02.669749+00:00",
+  "updated_at": "2026-08-06T22:00:49.633777+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A PREOCUPAÇÃO DE CASTRO A PARTIR DE AGORA | RECUPERAÇÃO CONTRA O SÃO PAULO E COPA",
+      "videoId": "1BskricSTPw",
+      "url": "https://www.youtube.com/watch?v=1BskricSTPw",
+      "thumbnail": "https://i.ytimg.com/vi/1BskricSTPw/mqdefault.jpg",
+      "published": "2026-08-06T20:00:24Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: ALÍVIO! Castro respira | Pavón herói | bastidores da classificação",
@@ -11,28 +19,20 @@
       "published": "2026-08-06T07:00:23Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 CLIMA DA DECISÃO | QUEM VAI JOGAR NO MEIO? | F5 MERCADO!",
-      "videoId": "tITARFsTg50",
-      "url": "https://www.youtube.com/watch?v=tITARFsTg50",
-      "thumbnail": "https://i.ytimg.com/vi/tITARFsTg50/mqdefault.jpg",
-      "published": "2026-08-06T06:19:16Z"
+      "channel": "Bage TV",
+      "title": "PAVÓN HERÓI, INTER EM DECISÃO E A REVIRAVOLTA QUE MEXEU COM O FUTEBOL ESPANHOL!📰BAGÉTV NEWS #011",
+      "videoId": "iNLs9Y3WSeM",
+      "url": "https://www.youtube.com/watch?v=iNLs9Y3WSeM",
+      "thumbnail": "https://i.ytimg.com/vi/iNLs9Y3WSeM/mqdefault_live.jpg",
+      "published": "2026-08-06T20:30:01Z"
     },
     {
       "channel": "Bage TV",
-      "title": "HERÓI IMPROVÁVEL! PAVON CLASSIFICA O GRÊMIO E INTER DECIDE VAGA🔸RESENHA FORA DA SALA🔸#102",
-      "videoId": "Y3OEqVxZ5yg",
-      "url": "https://www.youtube.com/watch?v=Y3OEqVxZ5yg",
-      "thumbnail": "https://i.ytimg.com/vi/Y3OEqVxZ5yg/mqdefault_live.jpg",
-      "published": "2026-08-06T16:28:43Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #039",
-      "videoId": "BGxW82WCsNA",
-      "url": "https://www.youtube.com/watch?v=BGxW82WCsNA",
-      "thumbnail": "https://i.ytimg.com/vi/BGxW82WCsNA/mqdefault.jpg",
-      "published": "2026-08-06T15:31:08Z"
+      "title": "OS BASTIDORES DA VITÓRIA GREMISTA NA COPA🔹 THE TARDE 🔹#196",
+      "videoId": "rfxZT6JP_LI",
+      "url": "https://www.youtube.com/watch?v=rfxZT6JP_LI",
+      "thumbnail": "https://i.ytimg.com/vi/rfxZT6JP_LI/mqdefault.jpg",
+      "published": "2026-08-06T19:52:20Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #646: Reforços | Léo Perez | Willian | Kike Olivera | João Pedro e Pavón",
+      "videoId": "BCAZdBEpIi8",
+      "url": "https://www.youtube.com/watch?v=BCAZdBEpIi8",
+      "thumbnail": "https://i.ytimg.com/vi/BCAZdBEpIi8/mqdefault.jpg",
+      "published": "2026-08-06T21:25:48Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "A vitoria dos gremistas e o fim das organizadas",
       "videoId": "JL_2Rw2P5U8",
       "url": "https://www.youtube.com/watch?v=JL_2Rw2P5U8",
@@ -59,28 +67,20 @@
       "published": "2026-08-06T12:46:47Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "VITÓRIA DO GRÊMIO! VITÓRIA DA TORCIDA 🇪🇪",
-      "videoId": "VF6UDRFMZOo",
-      "url": "https://www.youtube.com/watch?v=VF6UDRFMZOo",
-      "thumbnail": "https://i.ytimg.com/vi/VF6UDRFMZOo/mqdefault.jpg",
-      "published": "2026-08-06T01:40:04Z"
+      "channel": "Canal do Farid",
+      "title": "GIRO ESPORTIVO | MAIS UM JOGADOR DEIXA O GRÊMIO! - 06/08/2026",
+      "videoId": "HXj4XGKRcWQ",
+      "url": "https://www.youtube.com/watch?v=HXj4XGKRcWQ",
+      "thumbnail": "https://i.ytimg.com/vi/HXj4XGKRcWQ/mqdefault.jpg",
+      "published": "2026-08-06T21:55:38Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "FOI QUASE…",
-      "videoId": "qIRnqybsIFg",
-      "url": "https://www.youtube.com/watch?v=qIRnqybsIFg",
-      "thumbnail": "https://i.ytimg.com/vi/qIRnqybsIFg/mqdefault.jpg",
-      "published": "2026-08-06T01:45:03Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X MIRASSOL | COPA DO BRASIL | REACT AO VIVO DE FARID - 05/08/2026",
-      "videoId": "s-2WmyOhGMo",
-      "url": "https://www.youtube.com/watch?v=s-2WmyOhGMo",
-      "thumbnail": "https://i.ytimg.com/vi/s-2WmyOhGMo/mqdefault.jpg",
-      "published": "2026-08-06T01:33:18Z"
+      "title": "OPINIÃO DO FARID | NOVA POLÍTICA DE CONTRATAÇÕES DO GRÊMIO!!! - 06/08/2026",
+      "videoId": "WV4pVWPKuaw",
+      "url": "https://www.youtube.com/watch?v=WV4pVWPKuaw",
+      "thumbnail": "https://i.ytimg.com/vi/WV4pVWPKuaw/mqdefault.jpg",
+      "published": "2026-08-06T21:42:13Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... JORGINHO | #401",
+      "videoId": "eszpmTy9bEo",
+      "url": "https://www.youtube.com/watch?v=eszpmTy9bEo",
+      "thumbnail": "https://i.ytimg.com/vi/eszpmTy9bEo/mqdefault.jpg",
+      "published": "2026-08-06T22:00:07Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 06.08 | AO VIVO - RICA e DUDA GARBI",
       "videoId": "BXNEGC4nD_c",
       "url": "https://www.youtube.com/watch?v=BXNEGC4nD_c",
@@ -139,12 +147,12 @@
       "published": "2026-08-06T13:40:04Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "BRANCO ABRE CORAÇÃO SOBRE PROBLEMA DE SAÚDE: QUASE MORRI… | Cortes do Duda",
-      "videoId": "2RW-qoFJUTk",
-      "url": "https://www.youtube.com/watch?v=2RW-qoFJUTk",
-      "thumbnail": "https://i.ytimg.com/vi/2RW-qoFJUTk/mqdefault.jpg",
-      "published": "2026-08-05T22:00:02Z"
+      "channel": "GremioTV Oficial",
+      "title": "CAMAROTE NEW BALANCE | GRÊMIO X MIRASSOL (COPA DO BRASIL)",
+      "videoId": "pBVafbSJDTk",
+      "url": "https://www.youtube.com/watch?v=pBVafbSJDTk",
+      "thumbnail": "https://i.ytimg.com/vi/pBVafbSJDTk/mqdefault.jpg",
+      "published": "2026-08-06T19:13:17Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,20 @@
       "published": "2026-08-06T02:12:01Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X MIRASSOL (COPA DO BRASIL 2026)",
-      "videoId": "keQYyjdV3pk",
-      "url": "https://www.youtube.com/watch?v=keQYyjdV3pk",
-      "thumbnail": "https://i.ytimg.com/vi/keQYyjdV3pk/mqdefault.jpg",
-      "published": "2026-08-06T01:39:25Z"
+      "channel": "GZH Digital",
+      "title": "20 anos da Lei Maria da Penha: o que mudou na proteção? | Conversas Cruzadas | REAPRESENTAÇÃO",
+      "videoId": "4wtX499k8Lo",
+      "url": "https://www.youtube.com/watch?v=4wtX499k8Lo",
+      "thumbnail": "https://i.ytimg.com/vi/4wtX499k8Lo/mqdefault.jpg",
+      "published": "2026-08-06T21:15:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "INSACIÁVEL: quando EMAGRECER vira um PESADELO | Dica do Ticiano",
-      "videoId": "yM5Kz7MTTcM",
-      "url": "https://www.youtube.com/watch?v=yM5Kz7MTTcM",
-      "thumbnail": "https://i.ytimg.com/vi/yM5Kz7MTTcM/mqdefault.jpg",
-      "published": "2026-08-06T16:30:26Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Reconhecimento facial em Porto Alegre, canetas emagrecedoras e mais | Gaúcha+ | 06/08/2026",
-      "videoId": "qFMXuBAuYfE",
-      "url": "https://www.youtube.com/watch?v=qFMXuBAuYfE",
-      "thumbnail": "https://i.ytimg.com/vi/qFMXuBAuYfE/mqdefault_live.jpg",
-      "published": "2026-08-06T14:29:17Z"
+      "title": "Tecnologia assistiva: startup gaúcha desenvolve PRÓTESE BIÔNICA com impressão 3D | Radar de Inovação",
+      "videoId": "4BA1uDo5yok",
+      "url": "https://www.youtube.com/watch?v=4BA1uDo5yok",
+      "thumbnail": "https://i.ytimg.com/vi/4BA1uDo5yok/mqdefault.jpg",
+      "published": "2026-08-06T20:40:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO - CORINTHIANS X INTER | COPA DO BRASIL | RÁDIO GRENAL | 06/08/2026",
+      "title": "06/08/2026 | ESQUENTANDO O JOGO | CORINTHIANS X INTER | COPA DO BRASIL | RÁDIO GRENAL",
       "videoId": "K-_UkW6uvVQ",
       "url": "https://www.youtube.com/watch?v=K-_UkW6uvVQ",
       "thumbnail": "https://i.ytimg.com/vi/K-_UkW6uvVQ/mqdefault_live.jpg",
-      "published": "2026-08-06T16:36:13Z"
+      "published": "2026-08-06T18:06:16Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 06/08",
-      "videoId": "3WV4LW7Ypo8",
-      "url": "https://www.youtube.com/watch?v=3WV4LW7Ypo8",
-      "thumbnail": "https://i.ytimg.com/vi/3WV4LW7Ypo8/mqdefault_live.jpg",
-      "published": "2026-08-06T16:05:48Z"
+      "title": "GRÊMIO CLASSIFICADO! | FOCO NO BRASILEIRÃO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #123 - 06/08",
+      "videoId": "tEamBMTHkOQ",
+      "url": "https://www.youtube.com/watch?v=tEamBMTHkOQ",
+      "thumbnail": "https://i.ytimg.com/vi/tEamBMTHkOQ/mqdefault_live.jpg",
+      "published": "2026-08-06T21:58:21Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #129 — AS REPERCUSSÕES DA CLASSIFICAÇÃO DO GRÊMIO NA COPA DO BRASIL",
-      "videoId": "BBwFQjMd43U",
-      "url": "https://www.youtube.com/watch?v=BBwFQjMd43U",
-      "thumbnail": "https://i.ytimg.com/vi/BBwFQjMd43U/mqdefault.jpg",
-      "published": "2026-08-06T15:46:00Z"
+      "title": "GRÊMIO AVANÇA NA COPA DO BRASIL E AMENIZA A CRISE | REFORÇOS SE DESTACAM | IMORTAL FC",
+      "videoId": "3WV4LW7Ypo8",
+      "url": "https://www.youtube.com/watch?v=3WV4LW7Ypo8",
+      "thumbnail": "https://i.ytimg.com/vi/3WV4LW7Ypo8/mqdefault_live.jpg",
+      "published": "2026-08-06T21:02:32Z"
     }
   ]
 }
