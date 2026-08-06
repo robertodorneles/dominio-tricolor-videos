@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-08-06T01:00:34.148838+00:00",
+  "updated_at": "2026-08-06T02:00:34.917756+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: A IDEIA QUE ESTÁ BLINDANDO A DEFESA | TIME MAIS RECUADO | TROCA NA QUINTA FEIRA?",
-      "videoId": "lk3rTT8opYI",
-      "url": "https://www.youtube.com/watch?v=lk3rTT8opYI",
-      "thumbnail": "https://i.ytimg.com/vi/lk3rTT8opYI/mqdefault.jpg",
-      "published": "2026-08-05T19:22:09Z"
+      "title": "🔵🔴 A Hora da Dupla: GRÊMIO CLASSIFICADO NA COPA DO BRASIL | O COPERO ESTÁ DE VOLTA?",
+      "videoId": "6yYDRpXyB7Q",
+      "url": "https://www.youtube.com/watch?v=6yYDRpXyB7Q",
+      "thumbnail": "https://i.ytimg.com/vi/6yYDRpXyB7Q/mqdefault_live.jpg",
+      "published": "2026-08-06T01:30:37Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ⚠️ RISCO DE TRANSFERBAN NA JANELA | A CIRURGIA DE ROCHET | PEZZOLANO VAI MUDAR?",
-      "videoId": "aYv43KOWwn4",
-      "url": "https://www.youtube.com/watch?v=aYv43KOWwn4",
-      "thumbnail": "https://i.ytimg.com/vi/aYv43KOWwn4/mqdefault.jpg",
-      "published": "2026-08-05T07:27:19Z"
+      "title": "🔵⚫️ Grêmio 1x0 Mirassol: VEJA OS LANCES DO JOGO | VITÓRIA COM ESPÍRITO DE COPA | SABER SOFRER",
+      "videoId": "A5JUaFHTwIA",
+      "url": "https://www.youtube.com/watch?v=A5JUaFHTwIA",
+      "thumbnail": "https://i.ytimg.com/vi/A5JUaFHTwIA/mqdefault.jpg",
+      "published": "2026-08-06T01:20:51Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 O GREMIO FOI COPEIRO E GANHOU!",
+      "videoId": "ktNCknWjoTc",
+      "url": "https://www.youtube.com/watch?v=ktNCknWjoTc",
+      "thumbnail": "https://i.ytimg.com/vi/ktNCknWjoTc/mqdefault.jpg",
+      "published": "2026-08-06T01:08:06Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=GavUKxM17f8",
       "thumbnail": "https://i.ytimg.com/vi/GavUKxM17f8/mqdefault_live.jpg",
       "published": "2026-08-05T19:29:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🚨NOITE DE COPA! GRÊMIO QUER QUEBRAR TABU; JUSTIÇA BLOQUEIA CONTAS DO INTER🔸RESENHA FORA DA SALA🔸#101",
-      "videoId": "KCxDYiXtKZE",
-      "url": "https://www.youtube.com/watch?v=KCxDYiXtKZE",
-      "thumbnail": "https://i.ytimg.com/vi/KCxDYiXtKZE/mqdefault.jpg",
-      "published": "2026-08-05T18:32:45Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,35 +52,35 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Hoje é vencer ou vencer: times, dúvidas e público para Grêmio x Mirassol",
-      "videoId": "DhdFubajsdE",
-      "url": "https://www.youtube.com/watch?v=DhdFubajsdE",
-      "thumbnail": "https://i.ytimg.com/vi/DhdFubajsdE/mqdefault.jpg",
-      "published": "2026-08-05T12:25:06Z"
+      "title": "VITÓRIA DO GRÊMIO! VITÓRIA DA TORCIDA 🇪🇪",
+      "videoId": "VF6UDRFMZOo",
+      "url": "https://www.youtube.com/watch?v=VF6UDRFMZOo",
+      "thumbnail": "https://i.ytimg.com/vi/VF6UDRFMZOo/mqdefault.jpg",
+      "published": "2026-08-06T01:40:04Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #645: Krovinovic | Possíveis escalações | Situação de Tetê | Sub-17 e mais",
-      "videoId": "yuqCBavFCkQ",
-      "url": "https://www.youtube.com/watch?v=yuqCBavFCkQ",
-      "thumbnail": "https://i.ytimg.com/vi/yuqCBavFCkQ/mqdefault.jpg",
-      "published": "2026-08-04T21:22:34Z"
+      "title": "Grêmio 1 x 0 Mirassol: lutamos e estamos classificados! 🇪🇪",
+      "videoId": "u94gcskl9vA",
+      "url": "https://www.youtube.com/watch?v=u94gcskl9vA",
+      "thumbnail": "https://i.ytimg.com/vi/u94gcskl9vA/mqdefault.jpg",
+      "published": "2026-08-06T01:22:42Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "FOI QUASE…",
+      "videoId": "qIRnqybsIFg",
+      "url": "https://www.youtube.com/watch?v=qIRnqybsIFg",
+      "thumbnail": "https://i.ytimg.com/vi/qIRnqybsIFg/mqdefault.jpg",
+      "published": "2026-08-06T01:45:03Z"
     },
     {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X MIRASSOL | COPA DO BRASIL | REACT AO VIVO DE FARID - 05/08/2026",
       "videoId": "s-2WmyOhGMo",
       "url": "https://www.youtube.com/watch?v=s-2WmyOhGMo",
-      "thumbnail": "https://i.ytimg.com/vi/s-2WmyOhGMo/mqdefault_live.jpg",
-      "published": "2026-08-05T20:51:40Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "OPINIÃO DO FARID | ACABOU A BRINCADEIRA. GRÊMIO VAI GANHAR DO MIRASSOL!!! - 04/08/2026",
-      "videoId": "lMFVvKlz_UU",
-      "url": "https://www.youtube.com/watch?v=lMFVvKlz_UU",
-      "thumbnail": "https://i.ytimg.com/vi/lMFVvKlz_UU/mqdefault.jpg",
-      "published": "2026-08-04T23:00:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/s-2WmyOhGMo/mqdefault.jpg",
+      "published": "2026-08-06T01:33:18Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -103,16 +103,16 @@
       "title": "GRÊMIO x MIRASSOL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
       "videoId": "YukE3Cc2UhY",
       "url": "https://www.youtube.com/watch?v=YukE3Cc2UhY",
-      "thumbnail": "https://i.ytimg.com/vi/YukE3Cc2UhY/mqdefault_live.jpg",
-      "published": "2026-08-06T00:37:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/YukE3Cc2UhY/mqdefault.jpg",
+      "published": "2026-08-06T01:58:54Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "E SE... GRÊMIO JÁ RESPONDEU! #gremio #futebol #corinthians",
-      "videoId": "3L9MnLrodWg",
-      "url": "https://www.youtube.com/watch?v=3L9MnLrodWg",
-      "thumbnail": "https://i.ytimg.com/vi/3L9MnLrodWg/mqdefault.jpg",
-      "published": "2026-08-05T13:00:11Z"
+      "title": "O GRÊMIO É MUITO GRANDE | HERÓI | NÃO PODE JOGAR MAIS | COMENTÁRIO GRÊMIO 1 X 0 MIRASSOL",
+      "videoId": "jqLb74YMFLs",
+      "url": "https://www.youtube.com/watch?v=jqLb74YMFLs",
+      "thumbnail": "https://i.ytimg.com/vi/jqLb74YMFLs/mqdefault.jpg",
+      "published": "2026-08-06T01:29:16Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | GRÊMIO X MIRASSOL (COPA DO BRASIL 2026)",
       "videoId": "keQYyjdV3pk",
       "url": "https://www.youtube.com/watch?v=keQYyjdV3pk",
-      "thumbnail": "https://i.ytimg.com/vi/keQYyjdV3pk/mqdefault_live.jpg",
-      "published": "2026-08-05T20:28:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/keQYyjdV3pk/mqdefault.jpg",
+      "published": "2026-08-06T01:39:25Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -180,6 +180,14 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GRÊMIO CLASSIFICADO: Boas e más notícias, os destaques e um veredito",
+      "videoId": "zAZNwQDQgkw",
+      "url": "https://www.youtube.com/watch?v=zAZNwQDQgkw",
+      "thumbnail": "https://i.ytimg.com/vi/zAZNwQDQgkw/mqdefault.jpg",
+      "published": "2026-08-06T01:46:32Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "IMPRESSIONANTE: Veja os números, as lesões e a info sobre o futuro de Rochet",
       "videoId": "Vahb6gkVsbI",
       "url": "https://www.youtube.com/watch?v=Vahb6gkVsbI",
@@ -187,12 +195,12 @@
       "published": "2026-08-04T22:01:02Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "Analisaram os jogos de Grêmio e Inter no Brasileiro e o resultado é esse",
-      "videoId": "d4hGFauxYSg",
-      "url": "https://www.youtube.com/watch?v=d4hGFauxYSg",
-      "thumbnail": "https://i.ytimg.com/vi/d4hGFauxYSg/mqdefault.jpg",
-      "published": "2026-08-03T22:15:07Z"
+      "channel": "LH Benfica",
+      "title": "ESTE FOI O FATOR QUE A TORCIDA MAIS VALORIZOU NA CLASSIFICAÇÃO DO GRÊMIO",
+      "videoId": "FxkvYmAWz1c",
+      "url": "https://www.youtube.com/watch?v=FxkvYmAWz1c",
+      "thumbnail": "https://i.ytimg.com/vi/FxkvYmAWz1c/mqdefault.jpg",
+      "published": "2026-08-06T01:01:23Z"
     },
     {
       "channel": "LH Benfica",
@@ -203,12 +211,12 @@
       "published": "2026-08-05T16:57:06Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO RECEBE UMA BAITA NOTÍCIA | O NOVO TITULAR | AJUDA DE EX-JOGADOR",
-      "videoId": "VRax3_TB_fU",
-      "url": "https://www.youtube.com/watch?v=VRax3_TB_fU",
-      "thumbnail": "https://i.ytimg.com/vi/VRax3_TB_fU/mqdefault.jpg",
-      "published": "2026-08-04T22:30:46Z"
+      "channel": "Radio Grenal",
+      "title": "GOL DE GRÊMIO 1 X 0 MIRASSOL - NARRAÇÃO PC CARVALHO | COPA DO BRASIL | 05/08/2026 | RÁDIO GRENAL",
+      "videoId": "QOuYO60UxZY",
+      "url": "https://www.youtube.com/watch?v=QOuYO60UxZY",
+      "thumbnail": "https://i.ytimg.com/vi/QOuYO60UxZY/mqdefault.jpg",
+      "published": "2026-08-06T01:08:45Z"
     },
     {
       "channel": "Radio Grenal",
@@ -217,14 +225,6 @@
       "url": "https://www.youtube.com/watch?v=UYI9BOyquZM",
       "thumbnail": "https://i.ytimg.com/vi/UYI9BOyquZM/mqdefault.jpg",
       "published": "2026-08-05T22:20:12Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "05/08/2026 | COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | GRÊMIO 1 X 0 MIRASSOL | COPA DO BRASIL |",
-      "videoId": "cSJyUmPxcJU",
-      "url": "https://www.youtube.com/watch?v=cSJyUmPxcJU",
-      "thumbnail": "https://i.ytimg.com/vi/cSJyUmPxcJU/mqdefault_live.jpg",
-      "published": "2026-08-05T20:30:54Z"
     },
     {
       "channel": "Radio Imortal",
