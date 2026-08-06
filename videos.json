@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T13:00:39.453584+00:00",
+  "updated_at": "2026-08-06T13:57:33.389904+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #039",
+      "videoId": "BGxW82WCsNA",
+      "url": "https://www.youtube.com/watch?v=BGxW82WCsNA",
+      "thumbnail": "https://i.ytimg.com/vi/BGxW82WCsNA/mqdefault_live.jpg",
+      "published": "2026-08-06T13:38:41Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "UFA! GRÊMIO CLASSIFICADO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 06/08 - #606",
       "videoId": "6-UewyVZIJw",
       "url": "https://www.youtube.com/watch?v=6-UewyVZIJw",
       "thumbnail": "https://i.ytimg.com/vi/6-UewyVZIJw/mqdefault_live.jpg",
-      "published": "2026-08-06T12:03:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO COPEIRO! ESTAMOS NAS QUARTAS DA COPA! 🌅🔵 BOM DIA GRÊMIO #091",
-      "videoId": "DBIgNAQK-4s",
-      "url": "https://www.youtube.com/watch?v=DBIgNAQK-4s",
-      "thumbnail": "https://i.ytimg.com/vi/DBIgNAQK-4s/mqdefault.jpg",
-      "published": "2026-08-06T12:01:02Z"
+      "published": "2026-08-06T13:34:53Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Sorteio da Copa do Brasil | Grêmio ainda vai contratar? Volante na Argentina | Valor pra vender Kike",
+      "videoId": "72_BD0XpKdI",
+      "url": "https://www.youtube.com/watch?v=72_BD0XpKdI",
+      "thumbnail": "https://i.ytimg.com/vi/72_BD0XpKdI/mqdefault.jpg",
+      "published": "2026-08-06T13:39:07Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Justiça manda bloquear R$ 11,5 milhões do Inter",
       "videoId": "34aGMxGCoWA",
       "url": "https://www.youtube.com/watch?v=34aGMxGCoWA",
       "thumbnail": "https://i.ytimg.com/vi/34aGMxGCoWA/mqdefault.jpg",
       "published": "2026-08-05T13:12:23Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Conmebol não perdoa nem altitude e abre expediente contra o Grêmio | Atacante a caminho do Uruguai",
-      "videoId": "AfOjwx5riSk",
-      "url": "https://www.youtube.com/watch?v=AfOjwx5riSk",
-      "thumbnail": "https://i.ytimg.com/vi/AfOjwx5riSk/mqdefault.jpg",
-      "published": "2026-08-04T21:08:52Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 06.08 | AO VIVO - RICA e DUDA GARBI",
       "videoId": "BXNEGC4nD_c",
       "url": "https://www.youtube.com/watch?v=BXNEGC4nD_c",
-      "thumbnail": "https://i.ytimg.com/vi/BXNEGC4nD_c/mqdefault_live.jpg",
-      "published": "2026-08-06T12:01:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/BXNEGC4nD_c/mqdefault.jpg",
+      "published": "2026-08-06T13:40:04Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Análise do primeiro debate dos pré-candidatos ao Governo do RS | Timeline | 06/08/2026",
+      "videoId": "wo_z6awC7mc",
+      "url": "https://www.youtube.com/watch?v=wo_z6awC7mc",
+      "thumbnail": "https://i.ytimg.com/vi/wo_z6awC7mc/mqdefault_live.jpg",
+      "published": "2026-08-06T13:21:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Relação Brasil X Argentina, Ideb gaúcho, Cavalo Caramelo e mais | Gaúcha+ | 05/08/2026",
       "videoId": "iqOikhp-z_0",
       "url": "https://www.youtube.com/watch?v=iqOikhp-z_0",
       "thumbnail": "https://i.ytimg.com/vi/iqOikhp-z_0/mqdefault.jpg",
       "published": "2026-08-06T07:45:01Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Análise do primeiro debate dos pré-candidatos ao Governo do RS | Timeline | 06/08/2026",
-      "videoId": "wo_z6awC7mc",
-      "url": "https://www.youtube.com/watch?v=wo_z6awC7mc",
-      "thumbnail": "https://i.ytimg.com/vi/wo_z6awC7mc/mqdefault_live.jpg",
-      "published": "2026-08-06T07:37:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "06/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "g61NySs1KyI",
       "url": "https://www.youtube.com/watch?v=g61NySs1KyI",
       "thumbnail": "https://i.ytimg.com/vi/g61NySs1KyI/mqdefault_live.jpg",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO CLASSIFICADO NA COPA DO BRASIL! | PAVÓN DECIDIU | WALLACE JOGOU MUITO | REDAÇÃO IMORTAL",
-      "videoId": "QIrDEjvophU",
-      "url": "https://www.youtube.com/watch?v=QIrDEjvophU",
-      "thumbnail": "https://i.ytimg.com/vi/QIrDEjvophU/mqdefault.jpg",
-      "published": "2026-08-06T12:44:53Z"
+      "title": "ESPLANADA — 06/08",
+      "videoId": "cW310CJbh70",
+      "url": "https://www.youtube.com/watch?v=cW310CJbh70",
+      "thumbnail": "https://i.ytimg.com/vi/cW310CJbh70/mqdefault_live.jpg",
+      "published": "2026-08-06T13:36:23Z"
     },
     {
       "channel": "Radio Imortal",
