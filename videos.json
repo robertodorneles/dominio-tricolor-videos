@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T02:00:34.917756+00:00",
-  "total": 30,
+  "updated_at": "2026-08-06T02:47:18.769136+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -8,7 +8,7 @@
       "videoId": "6yYDRpXyB7Q",
       "url": "https://www.youtube.com/watch?v=6yYDRpXyB7Q",
       "thumbnail": "https://i.ytimg.com/vi/6yYDRpXyB7Q/mqdefault_live.jpg",
-      "published": "2026-08-06T01:30:37Z"
+      "published": "2026-08-06T02:07:06Z"
     },
     {
       "channel": "A Dupla",
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X MIRASSOL - [ DIRETO DA ARENA ]",
+      "videoId": "GavUKxM17f8",
+      "url": "https://www.youtube.com/watch?v=GavUKxM17f8",
+      "thumbnail": "https://i.ytimg.com/vi/GavUKxM17f8/mqdefault_live.jpg",
+      "published": "2026-08-06T02:38:08Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🇪🇪⚫️⚽️🔵 O GREMIO FOI COPEIRO E GANHOU!",
       "videoId": "ktNCknWjoTc",
       "url": "https://www.youtube.com/watch?v=ktNCknWjoTc",
@@ -27,12 +35,12 @@
       "published": "2026-08-06T01:08:06Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X MIRASSOL - [ DIRETO DA ARENA ]",
-      "videoId": "GavUKxM17f8",
-      "url": "https://www.youtube.com/watch?v=GavUKxM17f8",
-      "thumbnail": "https://i.ytimg.com/vi/GavUKxM17f8/mqdefault_live.jpg",
-      "published": "2026-08-05T19:29:51Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨SURPRESA! “NOVO” ATACANTE | VITÓRIA NA RAÇA! VAGA MERECIDA | COMENTÁRIO DO JOGO DO GRÊMIO!",
+      "videoId": "Wvx4x9Qgoms",
+      "url": "https://www.youtube.com/watch?v=Wvx4x9Qgoms",
+      "thumbnail": "https://i.ytimg.com/vi/Wvx4x9Qgoms/mqdefault.jpg",
+      "published": "2026-08-06T02:20:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=RAygvzf9ew0",
       "thumbnail": "https://i.ytimg.com/vi/RAygvzf9ew0/mqdefault.jpg",
       "published": "2026-08-05T14:31:15Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRAVE! AFASTAMENTO ABSURDO | BRIGA DE BASTIDORES NO GRÊMIO COM ATLETA | DOUGLAS COSTA E A BESTEIRA",
-      "videoId": "35O6k-Y5TvI",
-      "url": "https://www.youtube.com/watch?v=35O6k-Y5TvI",
-      "thumbnail": "https://i.ytimg.com/vi/35O6k-Y5TvI/mqdefault.jpg",
-      "published": "2026-08-04T23:47:45Z"
     },
     {
       "channel": "Canal do CCD",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x MIRASSOL - COPA DO BRASIL 2026 | COLETIVAS | 05/08/26 #26",
       "videoId": "OofMazNF6iY",
       "url": "https://www.youtube.com/watch?v=OofMazNF6iY",
-      "thumbnail": "https://i.ytimg.com/vi/OofMazNF6iY/mqdefault_live.jpg",
-      "published": "2026-08-06T00:26:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/OofMazNF6iY/mqdefault.jpg",
+      "published": "2026-08-06T02:37:28Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GOLS | GRÊMIO 1x0 MIRASSOL (COPA DO BRASIL 2026)",
+      "videoId": "F_VStVV8Ovs",
+      "url": "https://www.youtube.com/watch?v=F_VStVV8Ovs",
+      "thumbnail": "https://i.ytimg.com/vi/F_VStVV8Ovs/mqdefault.jpg",
+      "published": "2026-08-06T02:12:01Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X MIRASSOL (COPA DO BRASIL 2026)",
       "videoId": "keQYyjdV3pk",
       "url": "https://www.youtube.com/watch?v=keQYyjdV3pk",
       "thumbnail": "https://i.ytimg.com/vi/keQYyjdV3pk/mqdefault.jpg",
       "published": "2026-08-06T01:39:25Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "A CAMISA DO GRÊMIO ESTÁ ACIMA DE TUDO",
-      "videoId": "FYmhdef06vQ",
-      "url": "https://www.youtube.com/watch?v=FYmhdef06vQ",
-      "thumbnail": "https://i.ytimg.com/vi/FYmhdef06vQ/mqdefault.jpg",
-      "published": "2026-08-05T16:50:01Z"
     },
     {
       "channel": "GZH Digital",
@@ -219,20 +219,12 @@
       "published": "2026-08-06T01:08:45Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AMOR E ÓDIO LADO A LADO? 🇪🇪👀 #gremio #tricolor #copadobrasil #mirassol #futebol",
-      "videoId": "UYI9BOyquZM",
-      "url": "https://www.youtube.com/watch?v=UYI9BOyquZM",
-      "thumbnail": "https://i.ytimg.com/vi/UYI9BOyquZM/mqdefault.jpg",
-      "published": "2026-08-05T22:20:12Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO - GRÊMIO CLASSIFICADO! | GRÊMIO (1) X (0) MIRASSOL | DIRETO DA ARENA DO GRÊMIO",
       "videoId": "sFMU-VsjcA8",
       "url": "https://www.youtube.com/watch?v=sFMU-VsjcA8",
-      "thumbnail": "https://i.ytimg.com/vi/sFMU-VsjcA8/mqdefault_live.jpg",
-      "published": "2026-08-05T18:31:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/sFMU-VsjcA8/mqdefault.jpg",
+      "published": "2026-08-06T02:27:00Z"
     },
     {
       "channel": "Radio Imortal",
