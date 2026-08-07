@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-07T20:00:34.234347+00:00",
+  "updated_at": "2026-08-07T20:36:14.640381+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA O QUE WALLACE É CAPAZ DE PRODUZIR COMO ZAGUEIRO TITULAR DO TIME DE CASTRO",
+      "videoId": "_zErREUzrf0",
+      "url": "https://www.youtube.com/watch?v=_zErREUzrf0",
+      "thumbnail": "https://i.ytimg.com/vi/_zErREUzrf0/mqdefault.jpg",
+      "published": "2026-08-07T20:00:21Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: VIAGEM MARCADA E NEGÓCIO PRESTES A SER FECHADO | ALEX ARCE E O ACORDO COM FABINHO",
@@ -11,28 +19,20 @@
       "published": "2026-08-07T17:00:14Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 PEZZOLANO É DIFERENTE | VESTIÁRIO PÓS CLASSIFICAÇÃO | MERCADO MUITO LIDER",
-      "videoId": "IsrBCwwtxbE",
-      "url": "https://www.youtube.com/watch?v=IsrBCwwtxbE",
-      "thumbnail": "https://i.ytimg.com/vi/IsrBCwwtxbE/mqdefault.jpg",
-      "published": "2026-08-07T07:20:19Z"
+      "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #012",
+      "videoId": "tYTNt-_1a5Q",
+      "url": "https://www.youtube.com/watch?v=tYTNt-_1a5Q",
+      "thumbnail": "https://i.ytimg.com/vi/tYTNt-_1a5Q/mqdefault_live.jpg",
+      "published": "2026-08-07T20:35:17Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO PREPARA MAIS UMA SAÍDA NO ELENCO🔹 THE TARDE 🔹#197",
       "videoId": "biTTpILjpXY",
       "url": "https://www.youtube.com/watch?v=biTTpILjpXY",
-      "thumbnail": "https://i.ytimg.com/vi/biTTpILjpXY/mqdefault_live.jpg",
-      "published": "2026-08-07T19:49:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "INTER CLASSIFICADO! CASTRO REPETE O TIME E MOSTRA CONFIANÇA NO GRUPO🔸RESENHA FORA DA SALA🔸#103",
-      "videoId": "q_4zbOg_7Vw",
-      "url": "https://www.youtube.com/watch?v=q_4zbOg_7Vw",
-      "thumbnail": "https://i.ytimg.com/vi/q_4zbOg_7Vw/mqdefault.jpg",
-      "published": "2026-08-07T19:00:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/biTTpILjpXY/mqdefault.jpg",
+      "published": "2026-08-07T20:05:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Eleições no RS: os preparativos para o início da campanha | Conversa de Gabinete | 07/08/2026",
+      "videoId": "BucpufDDDw4",
+      "url": "https://www.youtube.com/watch?v=BucpufDDDw4",
+      "thumbnail": "https://i.ytimg.com/vi/BucpufDDDw4/mqdefault.jpg",
+      "published": "2026-08-07T20:28:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Como a Tramontina virou uma marca global sem deixar de ser gaúcha | Liderança em Sala",
       "videoId": "hPIYK2L5Jvs",
       "url": "https://www.youtube.com/watch?v=hPIYK2L5Jvs",
       "thumbnail": "https://i.ytimg.com/vi/hPIYK2L5Jvs/mqdefault.jpg",
       "published": "2026-08-07T20:00:17Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Tornados no Rio Grande do Sul, alertas da Defesa Civil, trânsito e mais | Gaúcha+ | 07/08/2026",
-      "videoId": "aQ-C1Aq9DCs",
-      "url": "https://www.youtube.com/watch?v=aQ-C1Aq9DCs",
-      "thumbnail": "https://i.ytimg.com/vi/aQ-C1Aq9DCs/mqdefault_live.jpg",
-      "published": "2026-08-07T19:34:39Z"
     },
     {
       "channel": "Jeremias Wernek",
