@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-07T17:00:38.463654+00:00",
+  "updated_at": "2026-08-07T17:45:10.706888+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: VIAGEM MARCADA E NEGÓCIO PRESTES A SER FECHADO | ALEX ARCE E O ACORDO COM FABINHO",
+      "videoId": "l7Bkr3y8NQc",
+      "url": "https://www.youtube.com/watch?v=l7Bkr3y8NQc",
+      "thumbnail": "https://i.ytimg.com/vi/l7Bkr3y8NQc/mqdefault.jpg",
+      "published": "2026-08-07T17:00:14Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 PEZZOLANO É DIFERENTE | VESTIÁRIO PÓS CLASSIFICAÇÃO | MERCADO MUITO LIDER",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=IsrBCwwtxbE",
       "thumbnail": "https://i.ytimg.com/vi/IsrBCwwtxbE/mqdefault.jpg",
       "published": "2026-08-07T07:20:19Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Pelaipe encerra contratações | Pérez perto de sair | João Pedro fora",
-      "videoId": "PQQBpPI3CMc",
-      "url": "https://www.youtube.com/watch?v=PQQBpPI3CMc",
-      "thumbnail": "https://i.ytimg.com/vi/PQQBpPI3CMc/mqdefault.jpg",
-      "published": "2026-08-07T05:00:28Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "INSACIÁVEL: os filmes de BODY HORROR e a tirania da MAGREZA | Dica do Ticiano",
+      "videoId": "NeF0ztrXNDc",
+      "url": "https://www.youtube.com/watch?v=NeF0ztrXNDc",
+      "thumbnail": "https://i.ytimg.com/vi/NeF0ztrXNDc/mqdefault.jpg",
+      "published": "2026-08-07T17:34:05Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "PRÓTESE BIÔNICA GAÚCHA promete ser mais acessível a pessoas  amputadas | Radar de Inovação",
       "videoId": "S3rD6XOb_zM",
       "url": "https://www.youtube.com/watch?v=S3rD6XOb_zM",
       "thumbnail": "https://i.ytimg.com/vi/S3rD6XOb_zM/mqdefault.jpg",
       "published": "2026-08-07T17:00:28Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "SuperSábado | 08/08/2026",
-      "videoId": "mlB-T-Mop6c",
-      "url": "https://www.youtube.com/watch?v=mlB-T-Mop6c",
-      "thumbnail": "https://i.ytimg.com/vi/mlB-T-Mop6c/mqdefault_live.jpg",
-      "published": "2026-08-07T16:34:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #130 — PÉREZ DEVE IR AO RACING | GRÊMIO PREOCUPADO COM PARTE FÍSICA",
-      "videoId": "pkMS4zbS9Zk",
-      "url": "https://www.youtube.com/watch?v=pkMS4zbS9Zk",
-      "thumbnail": "https://i.ytimg.com/vi/pkMS4zbS9Zk/mqdefault.jpg",
-      "published": "2026-08-07T15:21:39Z"
+      "title": "É DIA DE GRÊMIO NA ARENA! TUDO SOBRE O JOGO DE HOJE CONTRA O SÃO PAULO | PLANTÃO IMORTAL",
+      "videoId": "xI9htheV7nI",
+      "url": "https://www.youtube.com/watch?v=xI9htheV7nI",
+      "thumbnail": "https://i.ytimg.com/vi/xI9htheV7nI/mqdefault_live.jpg",
+      "published": "2026-08-07T17:13:30Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ENCARA O SÃO PAULO NO BRASILEIRÃO! | COMO É BOM SER DO GRÊMIO #15",
-      "videoId": "OCnbM2SgOyA",
-      "url": "https://www.youtube.com/watch?v=OCnbM2SgOyA",
-      "thumbnail": "https://i.ytimg.com/vi/OCnbM2SgOyA/mqdefault.jpg",
-      "published": "2026-08-07T14:43:21Z"
+      "title": "AMANHÃ TEM GRÊMIO X SÃO PAULO! | VITÓRIA INEGOCIÁVEL | REPETIÇÃO DA ESCALAÇÃO? | IMORTAL FC",
+      "videoId": "z402AWqIpII",
+      "url": "https://www.youtube.com/watch?v=z402AWqIpII",
+      "thumbnail": "https://i.ytimg.com/vi/z402AWqIpII/mqdefault_live.jpg",
+      "published": "2026-08-07T17:11:44Z"
     }
   ]
 }
