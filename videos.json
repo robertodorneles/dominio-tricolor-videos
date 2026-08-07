@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:00:33.293383+00:00",
+  "updated_at": "2026-08-07T11:42:39.297855+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "07/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "pRYKkGMz1d8",
+      "url": "https://www.youtube.com/watch?v=pRYKkGMz1d8",
+      "thumbnail": "https://i.ytimg.com/vi/pRYKkGMz1d8/mqdefault_live.jpg",
+      "published": "2026-08-07T11:01:33Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "06/08/2026 | CORINTHIANS 2 X 1 INTER | COPA DO BRASIL | LIVE COMPLETA | PARTE 2",
       "videoId": "9dqrrS6Da0E",
       "url": "https://www.youtube.com/watch?v=9dqrrS6Da0E",
@@ -219,12 +227,12 @@
       "published": "2026-08-07T04:09:35Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "07/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "pRYKkGMz1d8",
-      "url": "https://www.youtube.com/watch?v=pRYKkGMz1d8",
-      "thumbnail": "https://i.ytimg.com/vi/pRYKkGMz1d8/mqdefault_live.jpg",
-      "published": "2026-08-07T04:01:37Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO PRECISA DA VITÓRIA NO BRASILEIRÃO! | SAÍDA ENCAMINHADA | ARENA LOTADA? | REDAÇÃO IMORTAL",
+      "videoId": "LO80hWFkitI",
+      "url": "https://www.youtube.com/watch?v=LO80hWFkitI",
+      "thumbnail": "https://i.ytimg.com/vi/LO80hWFkitI/mqdefault_live.jpg",
+      "published": "2026-08-07T11:00:49Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=tEamBMTHkOQ",
       "thumbnail": "https://i.ytimg.com/vi/tEamBMTHkOQ/mqdefault.jpg",
       "published": "2026-08-07T02:33:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 07/08",
-      "videoId": "3gLr4Y-9xrA",
-      "url": "https://www.youtube.com/watch?v=3gLr4Y-9xrA",
-      "thumbnail": "https://i.ytimg.com/vi/3gLr4Y-9xrA/mqdefault_live.jpg",
-      "published": "2026-08-07T02:21:01Z"
     }
   ]
 }
