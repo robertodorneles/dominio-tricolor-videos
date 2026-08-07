@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:00:41.135593+00:00",
+  "updated_at": "2026-08-07T21:34:55.440205+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #647: Times | Público | Multa | Krovinovic | Kike Olivera | Leo Perez e mais",
+      "videoId": "jRuEWh84DhI",
+      "url": "https://www.youtube.com/watch?v=jRuEWh84DhI",
+      "thumbnail": "https://i.ytimg.com/vi/jRuEWh84DhI/mqdefault.jpg",
+      "published": "2026-08-07T21:10:21Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #646: Reforços | Léo Perez | Willian | Kike Olivera | João Pedro e Pavón",
       "videoId": "BCAZdBEpIi8",
       "url": "https://www.youtube.com/watch?v=BCAZdBEpIi8",
       "thumbnail": "https://i.ytimg.com/vi/BCAZdBEpIi8/mqdefault.jpg",
       "published": "2026-08-06T21:25:48Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "A vitoria dos gremistas e o fim das organizadas",
-      "videoId": "JL_2Rw2P5U8",
-      "url": "https://www.youtube.com/watch?v=JL_2Rw2P5U8",
-      "thumbnail": "https://i.ytimg.com/vi/JL_2Rw2P5U8/mqdefault.jpg",
-      "published": "2026-08-06T12:46:47Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AMANHÃ TEM GRÊMIO X SÃO PAULO! | VITÓRIA INEGOCIÁVEL | REPETIÇÃO DA ESCALAÇÃO? | IMORTAL FC",
+      "videoId": "z402AWqIpII",
+      "url": "https://www.youtube.com/watch?v=z402AWqIpII",
+      "thumbnail": "https://i.ytimg.com/vi/z402AWqIpII/mqdefault_live.jpg",
+      "published": "2026-08-07T21:01:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO SEM KROVINOVIC PARA AMANHÃ | CASTRO VAI REPETIR O TIME? | KIKE OLIVERA APRONTANDO | ESPLANADA",
       "videoId": "3gLr4Y-9xrA",
       "url": "https://www.youtube.com/watch?v=3gLr4Y-9xrA",
       "thumbnail": "https://i.ytimg.com/vi/3gLr4Y-9xrA/mqdefault.jpg",
       "published": "2026-08-07T19:42:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NA ARENA! TUDO SOBRE O JOGO DE HOJE CONTRA O SÃO PAULO | PLANTÃO IMORTAL",
-      "videoId": "xI9htheV7nI",
-      "url": "https://www.youtube.com/watch?v=xI9htheV7nI",
-      "thumbnail": "https://i.ytimg.com/vi/xI9htheV7nI/mqdefault_live.jpg",
-      "published": "2026-08-07T17:13:30Z"
     }
   ]
 }
