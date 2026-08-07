@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:00:39.113418+00:00",
+  "updated_at": "2026-08-07T23:30:00.965777+00:00",
   "total": 30,
   "videos": [
     {
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨PROPOSTA DA EUROPA | NOVO NEGÓCIO POR MEC | GRÊMIO DISPENSA JOGADOR",
+      "videoId": "LP5L2C3OQS0",
+      "url": "https://www.youtube.com/watch?v=LP5L2C3OQS0",
+      "thumbnail": "https://i.ytimg.com/vi/LP5L2C3OQS0/mqdefault.jpg",
+      "published": "2026-08-07T23:18:29Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨GRÊMIO: NEGÓCIO AVANÇADO | PAGANDO UMA DÍVIDA ALTA | JOGADOR-PROBLEMA DE SAÍDA",
       "videoId": "9qklwkS0kVk",
       "url": "https://www.youtube.com/watch?v=9qklwkS0kVk",
@@ -203,20 +211,12 @@
       "published": "2026-08-07T17:51:24Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨CHANCE DE MILHÕES | REFORÇOS PRO GRÊMIO | NEGÓCIO COM A ARGENTINA",
-      "videoId": "lBtKjTv0dso",
-      "url": "https://www.youtube.com/watch?v=lBtKjTv0dso",
-      "thumbnail": "https://i.ytimg.com/vi/lBtKjTv0dso/mqdefault.jpg",
-      "published": "2026-08-06T17:38:45Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "DEBATE PASSOU DOS LIMITES! | CORTES RÁDIO GRENAL | 07/08/2026",
-      "videoId": "8uc7d1XI_vM",
-      "url": "https://www.youtube.com/watch?v=8uc7d1XI_vM",
-      "thumbnail": "https://i.ytimg.com/vi/8uc7d1XI_vM/mqdefault.jpg",
-      "published": "2026-08-07T16:52:24Z"
+      "title": "07/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "X8FPCN2vqBA",
+      "url": "https://www.youtube.com/watch?v=X8FPCN2vqBA",
+      "thumbnail": "https://i.ytimg.com/vi/X8FPCN2vqBA/mqdefault_live.jpg",
+      "published": "2026-08-07T23:01:04Z"
     },
     {
       "channel": "Radio Grenal",
@@ -224,7 +224,7 @@
       "videoId": "pRYKkGMz1d8",
       "url": "https://www.youtube.com/watch?v=pRYKkGMz1d8",
       "thumbnail": "https://i.ytimg.com/vi/pRYKkGMz1d8/mqdefault_live.jpg",
-      "published": "2026-08-07T11:01:33Z"
+      "published": "2026-08-07T23:00:44Z"
     },
     {
       "channel": "Radio Imortal",
