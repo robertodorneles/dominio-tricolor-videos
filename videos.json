@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T00:00:41.443674+00:00",
+  "updated_at": "2026-08-07T00:39:26.802668+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GIRO ESPORTIVO | MAIS UM JOGADOR DEIXA O GRÊMIO! - 06/08/2026",
+      "videoId": "HXj4XGKRcWQ",
+      "url": "https://www.youtube.com/watch?v=HXj4XGKRcWQ",
+      "thumbnail": "https://i.ytimg.com/vi/HXj4XGKRcWQ/mqdefault.jpg",
+      "published": "2026-08-07T00:00:06Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID | NOVA POLÍTICA DE CONTRATAÇÕES DO GRÊMIO!!! - 06/08/2026",
       "videoId": "WV4pVWPKuaw",
       "url": "https://www.youtube.com/watch?v=WV4pVWPKuaw",
@@ -75,12 +83,12 @@
       "published": "2026-08-06T23:00:06Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "GIRO ESPORTIVO | MAIS UM JOGADOR DEIXA O GRÊMIO! - 06/08/2026",
-      "videoId": "HXj4XGKRcWQ",
-      "url": "https://www.youtube.com/watch?v=HXj4XGKRcWQ",
-      "thumbnail": "https://i.ytimg.com/vi/HXj4XGKRcWQ/mqdefault.jpg",
-      "published": "2026-08-06T21:55:38Z"
+      "channel": "Canal do Gabardo",
+      "title": "Conmebol aplica quatro multas no Grêmio",
+      "videoId": "O_pFZFlLuOQ",
+      "url": "https://www.youtube.com/watch?v=O_pFZFlLuOQ",
+      "thumbnail": "https://i.ytimg.com/vi/O_pFZFlLuOQ/mqdefault.jpg",
+      "published": "2026-08-07T00:06:48Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=AvMblrK8cKE",
       "thumbnail": "https://i.ytimg.com/vi/AvMblrK8cKE/mqdefault.jpg",
       "published": "2026-08-06T23:48:11Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Sorteio da Copa do Brasil | Grêmio ainda vai contratar? Volante na Argentina | Valor pra vender Kike",
-      "videoId": "72_BD0XpKdI",
-      "url": "https://www.youtube.com/watch?v=72_BD0XpKdI",
-      "thumbnail": "https://i.ytimg.com/vi/72_BD0XpKdI/mqdefault.jpg",
-      "published": "2026-08-06T13:39:07Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições RS 2026 I Opinião Rosane de Oliveira",
-      "videoId": "cNn2Yq4xRYo",
-      "url": "https://www.youtube.com/watch?v=cNn2Yq4xRYo",
-      "thumbnail": "https://i.ytimg.com/vi/cNn2Yq4xRYo/mqdefault.jpg",
-      "published": "2026-08-06T23:45:05Z"
+      "title": "Eleições RS 2026 I Opinião Giane Guerra",
+      "videoId": "DdsZLxPeWiI",
+      "url": "https://www.youtube.com/watch?v=DdsZLxPeWiI",
+      "thumbnail": "https://i.ytimg.com/vi/DdsZLxPeWiI/mqdefault.jpg",
+      "published": "2026-08-07T00:30:09Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "20 anos da Lei Maria da Penha: o que mudou na proteção? | Conversas Cruzadas | REAPRESENTAÇÃO",
-      "videoId": "4wtX499k8Lo",
-      "url": "https://www.youtube.com/watch?v=4wtX499k8Lo",
-      "thumbnail": "https://i.ytimg.com/vi/4wtX499k8Lo/mqdefault.jpg",
-      "published": "2026-08-06T21:15:06Z"
+      "title": "Eleições RS 2026 I Opinião Rodrigo Lopes",
+      "videoId": "Kd43RTYC-Tc",
+      "url": "https://www.youtube.com/watch?v=Kd43RTYC-Tc",
+      "thumbnail": "https://i.ytimg.com/vi/Kd43RTYC-Tc/mqdefault.jpg",
+      "published": "2026-08-07T00:15:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/08/2026 | JORNADA ESPORTIVA | CORINTHIANS 1 X 0 INTER | COPA DO BRASIL | RÁDIO GRENAL",
+      "title": "06/08/2026 | JORNADA ESPORTIVA | CORINTHIANS 2 X 1 INTER | COPA DO BRASIL | RÁDIO GRENAL",
       "videoId": "9dqrrS6Da0E",
       "url": "https://www.youtube.com/watch?v=9dqrrS6Da0E",
       "thumbnail": "https://i.ytimg.com/vi/9dqrrS6Da0E/mqdefault_live.jpg",
