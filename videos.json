@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T23:00:54.495752+00:00",
+  "updated_at": "2026-08-07T00:00:41.443674+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨MARCELO MARQUES VOLTOU E DEU RECADO | NEGÓCIO FINALIZADO COM REVIRAVOLTA | O GRANDE LÍDER NO GRÊMIO",
+      "title": "🚨MARCELO MARQUES TÁ DE VOLTA E DEU RECADO | NEGÓCIO FINALIZADO COM REVIRAVOLTA | O LÍDER NO GRÊMIO!",
       "videoId": "li02fb_5skY",
       "url": "https://www.youtube.com/watch?v=li02fb_5skY",
       "thumbnail": "https://i.ytimg.com/vi/li02fb_5skY/mqdefault.jpg",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Conmebol aplica quatro multas no Grêmio; valor total chega a quase R$ 1 milhão",
+      "videoId": "AvMblrK8cKE",
+      "url": "https://www.youtube.com/watch?v=AvMblrK8cKE",
+      "thumbnail": "https://i.ytimg.com/vi/AvMblrK8cKE/mqdefault.jpg",
+      "published": "2026-08-06T23:48:11Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Sorteio da Copa do Brasil | Grêmio ainda vai contratar? Volante na Argentina | Valor pra vender Kike",
       "videoId": "72_BD0XpKdI",
       "url": "https://www.youtube.com/watch?v=72_BD0XpKdI",
       "thumbnail": "https://i.ytimg.com/vi/72_BD0XpKdI/mqdefault.jpg",
       "published": "2026-08-06T13:39:07Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Justiça manda bloquear R$ 11,5 milhões do Inter",
-      "videoId": "34aGMxGCoWA",
-      "url": "https://www.youtube.com/watch?v=34aGMxGCoWA",
-      "thumbnail": "https://i.ytimg.com/vi/34aGMxGCoWA/mqdefault.jpg",
-      "published": "2026-08-05T13:12:23Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "A RELAÇÃO COM ANCELOTTI ESTÁ POR TRÁS DA DECISÃO DE NEYMAR SOBRE DEIXAR A SELEÇÃO? | Cortes do Duda",
+      "videoId": "8jibtARDEM4",
+      "url": "https://www.youtube.com/watch?v=8jibtARDEM4",
+      "thumbnail": "https://i.ytimg.com/vi/8jibtARDEM4/mqdefault.jpg",
+      "published": "2026-08-06T23:00:15Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "GALVÃO MORDEU A LÍNGUA?  #dudagarbi #umassadopara",
       "videoId": "bhZ9Jr_UQ4I",
       "url": "https://www.youtube.com/watch?v=bhZ9Jr_UQ4I",
@@ -139,12 +147,12 @@
       "published": "2026-08-06T23:00:01Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... JORGINHO | #401",
-      "videoId": "eszpmTy9bEo",
-      "url": "https://www.youtube.com/watch?v=eszpmTy9bEo",
-      "thumbnail": "https://i.ytimg.com/vi/eszpmTy9bEo/mqdefault.jpg",
-      "published": "2026-08-06T22:00:07Z"
+      "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GRÊMIO 1x0 MIRASSOL (COPA DO BRASIL 2026)",
+      "videoId": "cHw-CxG46HU",
+      "url": "https://www.youtube.com/watch?v=cHw-CxG46HU",
+      "thumbnail": "https://i.ytimg.com/vi/cHw-CxG46HU/mqdefault.jpg",
+      "published": "2026-08-06T23:22:17Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,12 +163,12 @@
       "published": "2026-08-06T19:13:17Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "GOL | GRÊMIO 1x0 MIRASSOL (COPA DO BRASIL 2026)",
-      "videoId": "F_VStVV8Ovs",
-      "url": "https://www.youtube.com/watch?v=F_VStVV8Ovs",
-      "thumbnail": "https://i.ytimg.com/vi/F_VStVV8Ovs/mqdefault.jpg",
-      "published": "2026-08-06T02:12:01Z"
+      "channel": "GZH Digital",
+      "title": "Eleições RS 2026 I Opinião Rosane de Oliveira",
+      "videoId": "cNn2Yq4xRYo",
+      "url": "https://www.youtube.com/watch?v=cNn2Yq4xRYo",
+      "thumbnail": "https://i.ytimg.com/vi/cNn2Yq4xRYo/mqdefault.jpg",
+      "published": "2026-08-06T23:45:05Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=4wtX499k8Lo",
       "thumbnail": "https://i.ytimg.com/vi/4wtX499k8Lo/mqdefault.jpg",
       "published": "2026-08-06T21:15:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Tecnologia assistiva: startup gaúcha desenvolve PRÓTESE BIÔNICA com impressão 3D | Radar de Inovação",
-      "videoId": "4BA1uDo5yok",
-      "url": "https://www.youtube.com/watch?v=4BA1uDo5yok",
-      "thumbnail": "https://i.ytimg.com/vi/4BA1uDo5yok/mqdefault.jpg",
-      "published": "2026-08-06T20:40:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/08/2026 | JORNADA ESPORTIVA | CORINTHIANS 0 X 0 INTER | COPA DO BRASIL | RÁDIO GRENAL",
-      "videoId": "K-_UkW6uvVQ",
-      "url": "https://www.youtube.com/watch?v=K-_UkW6uvVQ",
-      "thumbnail": "https://i.ytimg.com/vi/K-_UkW6uvVQ/mqdefault_live.jpg",
-      "published": "2026-08-06T18:06:16Z"
+      "title": "06/08/2026 | JORNADA ESPORTIVA | CORINTHIANS 1 X 0 INTER | COPA DO BRASIL | RÁDIO GRENAL",
+      "videoId": "9dqrrS6Da0E",
+      "url": "https://www.youtube.com/watch?v=9dqrrS6Da0E",
+      "thumbnail": "https://i.ytimg.com/vi/9dqrrS6Da0E/mqdefault_live.jpg",
+      "published": "2026-08-06T23:56:07Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "g61NySs1KyI",
-      "url": "https://www.youtube.com/watch?v=g61NySs1KyI",
-      "thumbnail": "https://i.ytimg.com/vi/g61NySs1KyI/mqdefault.jpg",
-      "published": "2026-08-06T16:16:16Z"
+      "title": "06/08/2026 | JORNADA ESPORTIVA | CORINTHIANS 0 X 0 INTER | COPA DO BRASIL | RÁDIO GRENAL",
+      "videoId": "K-_UkW6uvVQ",
+      "url": "https://www.youtube.com/watch?v=K-_UkW6uvVQ",
+      "thumbnail": "https://i.ytimg.com/vi/K-_UkW6uvVQ/mqdefault.jpg",
+      "published": "2026-08-06T23:44:36Z"
     },
     {
       "channel": "Radio Imortal",
