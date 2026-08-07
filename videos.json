@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:00:44.319984+00:00",
+  "updated_at": "2026-08-07T15:52:30.279200+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #040",
       "videoId": "D9dbzwcXuMY",
       "url": "https://www.youtube.com/watch?v=D9dbzwcXuMY",
-      "thumbnail": "https://i.ytimg.com/vi/D9dbzwcXuMY/mqdefault_live.jpg",
-      "published": "2026-08-07T14:51:56Z"
+      "thumbnail": "https://i.ytimg.com/vi/D9dbzwcXuMY/mqdefault.jpg",
+      "published": "2026-08-07T15:26:02Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨PEDIU PRA SAIR? INDO EMBORA DO GRÊMIO | O CLIMA NO VESTIÁRIO | O ADVERSÁRIO NA COPA DO BRASIL!",
+      "videoId": "zAM2f4CL4HA",
+      "url": "https://www.youtube.com/watch?v=zAM2f4CL4HA",
+      "thumbnail": "https://i.ytimg.com/vi/zAM2f4CL4HA/mqdefault.jpg",
+      "published": "2026-08-07T15:00:32Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨MARCELO MARQUES TÁ DE VOLTA E DEU RECADO | NEGÓCIO FINALIZADO COM REVIRAVOLTA | O LÍDER NO GRÊMIO!",
       "videoId": "li02fb_5skY",
       "url": "https://www.youtube.com/watch?v=li02fb_5skY",
       "thumbnail": "https://i.ytimg.com/vi/li02fb_5skY/mqdefault.jpg",
       "published": "2026-08-06T22:59:28Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! GRÊMIO FECHA SAÍDA | OFERTA SURPRESA | PODEMOS SIM SONHAR COM A COPA DO BRASIL!",
-      "videoId": "XRwpjpc2CrM",
-      "url": "https://www.youtube.com/watch?v=XRwpjpc2CrM",
-      "thumbnail": "https://i.ytimg.com/vi/XRwpjpc2CrM/mqdefault.jpg",
-      "published": "2026-08-06T16:31:48Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "A gigante dos alimentos: conheça os bastidores da Ceasa | No Caminho do Agro #006",
+      "videoId": "FVP9E9hYhE4",
+      "url": "https://www.youtube.com/watch?v=FVP9E9hYhE4",
+      "thumbnail": "https://i.ytimg.com/vi/FVP9E9hYhE4/mqdefault.jpg",
+      "published": "2026-08-07T15:22:20Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "DADO BIER: da cerveja artesanal à presidência do Hospital Moinhos de Vento | Paralelas",
       "videoId": "BpRRH5bXsbo",
       "url": "https://www.youtube.com/watch?v=BpRRH5bXsbo",
       "thumbnail": "https://i.ytimg.com/vi/BpRRH5bXsbo/mqdefault.jpg",
       "published": "2026-08-07T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "CHUVA no RS, entrevista com Fábio Porchat e mais | Timeline | 07/08/2026",
-      "videoId": "c2LXXAfS6z8",
-      "url": "https://www.youtube.com/watch?v=c2LXXAfS6z8",
-      "thumbnail": "https://i.ytimg.com/vi/c2LXXAfS6z8/mqdefault.jpg",
-      "published": "2026-08-07T14:25:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #130 — PÉREZ DEVE IR AO RACING | GRÊMIO PREOCUPADO COM PARTE FÍSICA",
+      "videoId": "pkMS4zbS9Zk",
+      "url": "https://www.youtube.com/watch?v=pkMS4zbS9Zk",
+      "thumbnail": "https://i.ytimg.com/vi/pkMS4zbS9Zk/mqdefault.jpg",
+      "published": "2026-08-07T15:21:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO ENCARA O SÃO PAULO NO BRASILEIRÃO! | COMO É BOM SER DO GRÊMIO #15",
       "videoId": "OCnbM2SgOyA",
       "url": "https://www.youtube.com/watch?v=OCnbM2SgOyA",
       "thumbnail": "https://i.ytimg.com/vi/OCnbM2SgOyA/mqdefault.jpg",
       "published": "2026-08-07T14:43:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #130 — PÉREZ DEVE IR AO RACING | GRÊMIO PREOCUPADO COM PARTE FÍSICA",
-      "videoId": "pkMS4zbS9Zk",
-      "url": "https://www.youtube.com/watch?v=pkMS4zbS9Zk",
-      "thumbnail": "https://i.ytimg.com/vi/pkMS4zbS9Zk/mqdefault_live.jpg",
-      "published": "2026-08-07T14:07:59Z"
     }
   ]
 }
