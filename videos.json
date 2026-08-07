@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T14:00:45.602860+00:00",
+  "updated_at": "2026-08-07T14:10:30.561643+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "07/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "07/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "pRYKkGMz1d8",
       "url": "https://www.youtube.com/watch?v=pRYKkGMz1d8",
       "thumbnail": "https://i.ytimg.com/vi/pRYKkGMz1d8/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO PRECISA DA VITÓRIA NO BRASILEIRÃO! | SAÍDA ENCAMINHADA | ARENA LOTADA? | REDAÇÃO IMORTAL",
-      "videoId": "LO80hWFkitI",
-      "url": "https://www.youtube.com/watch?v=LO80hWFkitI",
-      "thumbnail": "https://i.ytimg.com/vi/LO80hWFkitI/mqdefault.jpg",
-      "published": "2026-08-07T12:43:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO ENCARA O SÃO PAULO NO BRASILEIRÃO! | COMO É BOM SER DO GRÊMIO #15",
       "videoId": "OCnbM2SgOyA",
       "url": "https://www.youtube.com/watch?v=OCnbM2SgOyA",
       "thumbnail": "https://i.ytimg.com/vi/OCnbM2SgOyA/mqdefault_live.jpg",
-      "published": "2026-08-07T12:33:15Z"
+      "published": "2026-08-07T14:08:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #130 — PÉREZ DEVE IR AO RACING | GRÊMIO PREOCUPADO COM PARTE FÍSICA",
+      "videoId": "pkMS4zbS9Zk",
+      "url": "https://www.youtube.com/watch?v=pkMS4zbS9Zk",
+      "thumbnail": "https://i.ytimg.com/vi/pkMS4zbS9Zk/mqdefault_live.jpg",
+      "published": "2026-08-07T14:07:59Z"
     }
   ]
 }
