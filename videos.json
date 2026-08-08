@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-08T03:35:20.426151+00:00",
+  "updated_at": "2026-08-08T09:00:39.151928+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: TIME DEFINIDO! Castro repete escalação | Betis quer Mec | troca por Mandaca",
+      "videoId": "Q9Hx3WSvcso",
+      "url": "https://www.youtube.com/watch?v=Q9Hx3WSvcso",
+      "thumbnail": "https://i.ytimg.com/vi/Q9Hx3WSvcso/mqdefault.jpg",
+      "published": "2026-08-08T05:00:04Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA O QUE WALLACE É CAPAZ DE PRODUZIR COMO ZAGUEIRO TITULAR DO TIME DE CASTRO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=_zErREUzrf0",
       "thumbnail": "https://i.ytimg.com/vi/_zErREUzrf0/mqdefault.jpg",
       "published": "2026-08-07T20:00:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: VIAGEM MARCADA E NEGÓCIO PRESTES A SER FECHADO | ALEX ARCE E O ACORDO COM FABINHO",
-      "videoId": "l7Bkr3y8NQc",
-      "url": "https://www.youtube.com/watch?v=l7Bkr3y8NQc",
-      "thumbnail": "https://i.ytimg.com/vi/l7Bkr3y8NQc/mqdefault.jpg",
-      "published": "2026-08-07T17:00:14Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Tornados no Rio Grande do Sul, alertas da Defesa Civil, trânsito e mais | Gaúcha+ | 07/08/2026",
+      "videoId": "aQ-C1Aq9DCs",
+      "url": "https://www.youtube.com/watch?v=aQ-C1Aq9DCs",
+      "thumbnail": "https://i.ytimg.com/vi/aQ-C1Aq9DCs/mqdefault.jpg",
+      "published": "2026-08-08T07:47:36Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Bastidores: a avaliação dos gabinetes após o 1º debate | Conversa de Gabinete",
       "videoId": "F6QOUdvjFeQ",
       "url": "https://www.youtube.com/watch?v=F6QOUdvjFeQ",
       "thumbnail": "https://i.ytimg.com/vi/F6QOUdvjFeQ/mqdefault.jpg",
       "published": "2026-08-07T23:30:38Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Eleições no RS: as estratégias de cada candidato ao governo gaúcho | Conversa de Gabinete",
-      "videoId": "Jf9rnJxl_zA",
-      "url": "https://www.youtube.com/watch?v=Jf9rnJxl_zA",
-      "thumbnail": "https://i.ytimg.com/vi/Jf9rnJxl_zA/mqdefault.jpg",
-      "published": "2026-08-07T23:00:20Z"
     },
     {
       "channel": "Jeremias Wernek",
