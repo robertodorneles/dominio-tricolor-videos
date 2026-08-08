@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-08T21:25:56.887646+00:00",
+  "updated_at": "2026-08-08T22:00:33.916314+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 2x1 São Paulo: VEJA OS MELHORES MOMENTOS DO TIME RAÇUDO DE CASTRO | SE ENCONTROU EM 2026",
+      "videoId": "Mx4_7gZ-y1k",
+      "url": "https://www.youtube.com/watch?v=Mx4_7gZ-y1k",
+      "thumbnail": "https://i.ytimg.com/vi/Mx4_7gZ-y1k/mqdefault.jpg",
+      "published": "2026-08-08T21:47:18Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 O MELHOR MEIA DA BASE | CANHOTO E COMPLETO | PEZZOLANO GOSTA!",
@@ -11,12 +19,12 @@
       "published": "2026-08-08T19:31:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: DINHEIRO LIBERADO ✅ | PENA PODE SER REDUZIDA | QUEM VAI DESCANSAR?",
-      "videoId": "25ivaQ2vZzI",
-      "url": "https://www.youtube.com/watch?v=25ivaQ2vZzI",
-      "thumbnail": "https://i.ytimg.com/vi/25ivaQ2vZzI/mqdefault.jpg",
-      "published": "2026-08-08T10:14:19Z"
+      "channel": "Bage TV",
+      "title": "🇪🇪⚫️⚽️🔵 VITÓRIA COM A CARA DO GRÊMIO",
+      "videoId": "7gkxMuZQtpo",
+      "url": "https://www.youtube.com/watch?v=7gkxMuZQtpo",
+      "thumbnail": "https://i.ytimg.com/vi/7gkxMuZQtpo/mqdefault.jpg",
+      "published": "2026-08-08T21:48:31Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=LvPp7Tb53Gc",
       "thumbnail": "https://i.ytimg.com/vi/LvPp7Tb53Gc/mqdefault.jpg",
       "published": "2026-08-08T18:46:30Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X SÃO PAULO - [ DIRETO DA ARENA ]",
-      "videoId": "iJK_QiHujv0",
-      "url": "https://www.youtube.com/watch?v=iJK_QiHujv0",
-      "thumbnail": "https://i.ytimg.com/vi/iJK_QiHujv0/mqdefault_live.jpg",
-      "published": "2026-08-08T12:29:22Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Grêmio 2 X 1 São Paulo: vitória com o coração! (mais uma vez)",
+      "videoId": "AsxCYIqr3k0",
+      "url": "https://www.youtube.com/watch?v=AsxCYIqr3k0",
+      "thumbnail": "https://i.ytimg.com/vi/AsxCYIqr3k0/mqdefault.jpg",
+      "published": "2026-08-08T21:41:55Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "GOLAÇO DE PAVON! Grêmio 2 x 1 São Paulo",
       "videoId": "PTW18BGqn3k",
       "url": "https://www.youtube.com/watch?v=PTW18BGqn3k",
@@ -59,20 +67,12 @@
       "published": "2026-08-08T21:18:36Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x São Paulo: times, público… dia de lotar a Arena",
-      "videoId": "5e6J33JdF64",
-      "url": "https://www.youtube.com/watch?v=5e6J33JdF64",
-      "thumbnail": "https://i.ytimg.com/vi/5e6J33JdF64/mqdefault.jpg",
-      "published": "2026-08-08T14:35:57Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X SÃO PAULO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 08/08/2026",
       "videoId": "YHRfFHHi4zE",
       "url": "https://www.youtube.com/watch?v=YHRfFHHi4zE",
       "thumbnail": "https://i.ytimg.com/vi/YHRfFHHi4zE/mqdefault_live.jpg",
-      "published": "2026-08-08T17:06:10Z"
+      "published": "2026-08-08T21:54:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "QUE VIRADA! MEXEU ERRADO | BAITA ZAGUEIRO | RENOVA PAVÓN | COMENTÁRIO GRÊMIO 2 X 1 SÃO PAULO.",
+      "videoId": "LE6Qgep9qKI",
+      "url": "https://www.youtube.com/watch?v=LE6Qgep9qKI",
+      "thumbnail": "https://i.ytimg.com/vi/LE6Qgep9qKI/mqdefault.jpg",
+      "published": "2026-08-08T21:41:01Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO x SÃO PAULO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "c78EVFBRtL8",
       "url": "https://www.youtube.com/watch?v=c78EVFBRtL8",
       "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault_live.jpg",
       "published": "2026-08-08T21:06:58Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X ESPANHA: NOVELA MEC #gremio #futebol #mec informação",
-      "videoId": "zgmNTVpIAGM",
-      "url": "https://www.youtube.com/watch?v=zgmNTVpIAGM",
-      "thumbnail": "https://i.ytimg.com/vi/zgmNTVpIAGM/mqdefault.jpg",
-      "published": "2026-08-08T14:00:09Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "VIRADA NA ARENA: A vitória do Grêmio e a grande pergunta agora",
+      "videoId": "b6_CwrofZnA",
+      "url": "https://www.youtube.com/watch?v=b6_CwrofZnA",
+      "thumbnail": "https://i.ytimg.com/vi/b6_CwrofZnA/mqdefault.jpg",
+      "published": "2026-08-08T21:41:08Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "GRÊMIO CLASSIFICADO: Boas e más notícias, os destaques e um veredito",
       "videoId": "zAZNwQDQgkw",
       "url": "https://www.youtube.com/watch?v=zAZNwQDQgkw",
       "thumbnail": "https://i.ytimg.com/vi/zAZNwQDQgkw/mqdefault.jpg",
       "published": "2026-08-06T01:46:32Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "IMPRESSIONANTE: Veja os números, as lesões e a info sobre o futuro de Rochet",
-      "videoId": "Vahb6gkVsbI",
-      "url": "https://www.youtube.com/watch?v=Vahb6gkVsbI",
-      "thumbnail": "https://i.ytimg.com/vi/Vahb6gkVsbI/mqdefault.jpg",
-      "published": "2026-08-04T22:01:02Z"
     },
     {
       "channel": "LH Benfica",
