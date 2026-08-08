@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:00:38.044385+00:00",
+  "updated_at": "2026-08-08T13:41:43.561315+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NA ARENA! TUDO SOBRE O JOGO DE HOJE CONTRA O SÃO PAULO | PLANTÃO IMORTAL",
+      "videoId": "xI9htheV7nI",
+      "url": "https://www.youtube.com/watch?v=xI9htheV7nI",
+      "thumbnail": "https://i.ytimg.com/vi/xI9htheV7nI/mqdefault_live.jpg",
+      "published": "2026-08-08T13:01:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VENCER PARA SAIR DA ZONA | PROVÁVEL ESCALAÇÃO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #124 - 07/08",
       "videoId": "lRSxnm_E1k0",
       "url": "https://www.youtube.com/watch?v=lRSxnm_E1k0",
       "thumbnail": "https://i.ytimg.com/vi/lRSxnm_E1k0/mqdefault.jpg",
       "published": "2026-08-08T01:52:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AMANHÃ TEM GRÊMIO X SÃO PAULO! | VITÓRIA INEGOCIÁVEL | REPETIÇÃO DA ESCALAÇÃO? | IMORTAL FC",
-      "videoId": "z402AWqIpII",
-      "url": "https://www.youtube.com/watch?v=z402AWqIpII",
-      "thumbnail": "https://i.ytimg.com/vi/z402AWqIpII/mqdefault.jpg",
-      "published": "2026-08-07T22:13:34Z"
     }
   ]
 }
