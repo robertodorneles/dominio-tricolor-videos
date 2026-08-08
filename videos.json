@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:23:45.236201+00:00",
+  "updated_at": "2026-08-08T23:00:28.496290+00:00",
   "total": 30,
   "videos": [
     {
@@ -103,8 +103,8 @@
       "title": "GRÊMIO x SÃO PAULO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "c78EVFBRtL8",
       "url": "https://www.youtube.com/watch?v=c78EVFBRtL8",
-      "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault_live.jpg",
-      "published": "2026-08-08T22:23:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault.jpg",
+      "published": "2026-08-08T22:30:28Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x SÃO PAULO - BRASILEIRÃO 2026 | COLETIVAS | 08/08/26 #27",
       "videoId": "KDWLtuCE7Mw",
       "url": "https://www.youtube.com/watch?v=KDWLtuCE7Mw",
-      "thumbnail": "https://i.ytimg.com/vi/KDWLtuCE7Mw/mqdefault_live.jpg",
-      "published": "2026-08-08T20:52:50Z"
+      "thumbnail": "https://i.ytimg.com/vi/KDWLtuCE7Mw/mqdefault.jpg",
+      "published": "2026-08-08T22:42:57Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | GRÊMIO X SÃO PAULO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "6ps7cDEOtIY",
       "url": "https://www.youtube.com/watch?v=6ps7cDEOtIY",
-      "thumbnail": "https://i.ytimg.com/vi/6ps7cDEOtIY/mqdefault_live.jpg",
-      "published": "2026-08-08T22:05:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/6ps7cDEOtIY/mqdefault.jpg",
+      "published": "2026-08-08T22:23:59Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | GRÊMIO 2 X 1  SÃO PAULO | BRASILEIRÃO | RÁDIO GRENAL",
+      "videoId": "amwcTnnP_js",
+      "url": "https://www.youtube.com/watch?v=amwcTnnP_js",
+      "thumbnail": "https://i.ytimg.com/vi/amwcTnnP_js/mqdefault.jpg",
+      "published": "2026-08-08T22:43:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE GRÊMIO 2 X 1 SÃO PAULO | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | 08/08/2026 | RÁDIO GRENAL",
       "videoId": "DeUHGj02aDY",
       "url": "https://www.youtube.com/watch?v=DeUHGj02aDY",
@@ -219,28 +227,20 @@
       "published": "2026-08-08T22:18:56Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "08/08/2026 | DE VIRADA, GRÊMIO VENCE NA ARENA | GRÊMIO 2 X 1 SÃO PAULO | BRASILEIRÃO | RÁDIO GRENAL",
-      "videoId": "X8FPCN2vqBA",
-      "url": "https://www.youtube.com/watch?v=X8FPCN2vqBA",
-      "thumbnail": "https://i.ytimg.com/vi/X8FPCN2vqBA/mqdefault_live.jpg",
-      "published": "2026-08-08T17:01:39Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (1) SÃO PAULO | COLETIVA LUÍS CASTRO | DIRETO DA ARENA | BRASILEIRÃO",
+      "videoId": "yFrw4Goec9k",
+      "url": "https://www.youtube.com/watch?v=yFrw4Goec9k",
+      "thumbnail": "https://i.ytimg.com/vi/yFrw4Goec9k/mqdefault_live.jpg",
+      "published": "2026-08-08T22:52:42Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "O GUI PARANÁ ENCONTROU O PADRE GREMISTA NO ENTORNO DA ARENA!",
-      "videoId": "I2e0EvIWxaQ",
-      "url": "https://www.youtube.com/watch?v=I2e0EvIWxaQ",
-      "thumbnail": "https://i.ytimg.com/vi/I2e0EvIWxaQ/mqdefault.jpg",
-      "published": "2026-08-08T16:26:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE É DIA QUE O GRÊMIO PRECISA DO TORCEDOR!",
-      "videoId": "ArxTEdW8usw",
-      "url": "https://www.youtube.com/watch?v=ArxTEdW8usw",
-      "thumbnail": "https://i.ytimg.com/vi/ArxTEdW8usw/mqdefault.jpg",
-      "published": "2026-08-08T16:01:48Z"
+      "title": "WEVERTON, GOLEIRO DO GRÊMIO, EXALTA MARCOS ROCHA E KANNEMANN",
+      "videoId": "cWqZLM0tRqQ",
+      "url": "https://www.youtube.com/watch?v=cWqZLM0tRqQ",
+      "thumbnail": "https://i.ytimg.com/vi/cWqZLM0tRqQ/mqdefault.jpg",
+      "published": "2026-08-08T22:49:27Z"
     }
   ]
 }
