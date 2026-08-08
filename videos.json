@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:00:33.916314+00:00",
+  "updated_at": "2026-08-08T22:23:45.236201+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Mais uma vitória do Grêmio com o coração! 🇪🇪",
+      "videoId": "y0wtFZwRUDE",
+      "url": "https://www.youtube.com/watch?v=y0wtFZwRUDE",
+      "thumbnail": "https://i.ytimg.com/vi/y0wtFZwRUDE/mqdefault.jpg",
+      "published": "2026-08-08T22:04:26Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio 2 X 1 São Paulo: vitória com o coração! (mais uma vez)",
       "videoId": "AsxCYIqr3k0",
       "url": "https://www.youtube.com/watch?v=AsxCYIqr3k0",
@@ -59,20 +67,12 @@
       "published": "2026-08-08T21:41:55Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "GOLAÇO DE PAVON! Grêmio 2 x 1 São Paulo",
-      "videoId": "PTW18BGqn3k",
-      "url": "https://www.youtube.com/watch?v=PTW18BGqn3k",
-      "thumbnail": "https://i.ytimg.com/vi/PTW18BGqn3k/mqdefault.jpg",
-      "published": "2026-08-08T21:18:36Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X SÃO PAULO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 08/08/2026",
       "videoId": "YHRfFHHi4zE",
       "url": "https://www.youtube.com/watch?v=YHRfFHHi4zE",
-      "thumbnail": "https://i.ytimg.com/vi/YHRfFHHi4zE/mqdefault_live.jpg",
-      "published": "2026-08-08T21:54:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/YHRfFHHi4zE/mqdefault.jpg",
+      "published": "2026-08-08T22:08:49Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO x SÃO PAULO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
+      "videoId": "c78EVFBRtL8",
+      "url": "https://www.youtube.com/watch?v=c78EVFBRtL8",
+      "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault_live.jpg",
+      "published": "2026-08-08T22:23:08Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "QUE VIRADA! MEXEU ERRADO | BAITA ZAGUEIRO | RENOVA PAVÓN | COMENTÁRIO GRÊMIO 2 X 1 SÃO PAULO.",
       "videoId": "LE6Qgep9qKI",
       "url": "https://www.youtube.com/watch?v=LE6Qgep9qKI",
       "thumbnail": "https://i.ytimg.com/vi/LE6Qgep9qKI/mqdefault.jpg",
       "published": "2026-08-08T21:41:01Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO x SÃO PAULO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "c78EVFBRtL8",
-      "url": "https://www.youtube.com/watch?v=c78EVFBRtL8",
-      "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault_live.jpg",
-      "published": "2026-08-08T21:06:58Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -152,7 +152,7 @@
       "videoId": "6ps7cDEOtIY",
       "url": "https://www.youtube.com/watch?v=6ps7cDEOtIY",
       "thumbnail": "https://i.ytimg.com/vi/6ps7cDEOtIY/mqdefault_live.jpg",
-      "published": "2026-08-08T16:56:56Z"
+      "published": "2026-08-08T22:05:59Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "Grêmio vence o São Paulo de virada, mas… dá pra ter esperança?",
+      "videoId": "QiJLIOdD5xg",
+      "url": "https://www.youtube.com/watch?v=QiJLIOdD5xg",
+      "thumbnail": "https://i.ytimg.com/vi/QiJLIOdD5xg/mqdefault.jpg",
+      "published": "2026-08-08T22:19:33Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "VIRADA NA ARENA: A vitória do Grêmio e a grande pergunta agora",
       "videoId": "b6_CwrofZnA",
       "url": "https://www.youtube.com/watch?v=b6_CwrofZnA",
       "thumbnail": "https://i.ytimg.com/vi/b6_CwrofZnA/mqdefault.jpg",
       "published": "2026-08-08T21:41:08Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GRÊMIO CLASSIFICADO: Boas e más notícias, os destaques e um veredito",
-      "videoId": "zAZNwQDQgkw",
-      "url": "https://www.youtube.com/watch?v=zAZNwQDQgkw",
-      "thumbnail": "https://i.ytimg.com/vi/zAZNwQDQgkw/mqdefault.jpg",
-      "published": "2026-08-06T01:46:32Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GOLS DE GRÊMIO 2 X 1 SÃO PAULO | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | 08/08/2026 | RÁDIO GRENAL",
+      "videoId": "DeUHGj02aDY",
+      "url": "https://www.youtube.com/watch?v=DeUHGj02aDY",
+      "thumbnail": "https://i.ytimg.com/vi/DeUHGj02aDY/mqdefault.jpg",
+      "published": "2026-08-08T22:18:56Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "08/08/2026 | DE VIRADA, GRÊMIO VENCE NA ARENA | GRÊMIO 2 X 1 SÃO PAULO | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "X8FPCN2vqBA",
       "url": "https://www.youtube.com/watch?v=X8FPCN2vqBA",
       "thumbnail": "https://i.ytimg.com/vi/X8FPCN2vqBA/mqdefault_live.jpg",
       "published": "2026-08-08T17:01:39Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "07/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "pRYKkGMz1d8",
-      "url": "https://www.youtube.com/watch?v=pRYKkGMz1d8",
-      "thumbnail": "https://i.ytimg.com/vi/pRYKkGMz1d8/mqdefault.jpg",
-      "published": "2026-08-07T23:34:03Z"
     },
     {
       "channel": "Radio Imortal",
