@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T00:00:33.106622+00:00",
+  "updated_at": "2026-08-09T01:00:33.420147+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "08/08/2026 | GRÊMIO 2 X 1 SÃO PAULO | BRASILEIRÃO | LIVE COMPLETA",
+      "videoId": "X8FPCN2vqBA",
+      "url": "https://www.youtube.com/watch?v=X8FPCN2vqBA",
+      "thumbnail": "https://i.ytimg.com/vi/X8FPCN2vqBA/mqdefault.jpg",
+      "published": "2026-08-09T00:21:35Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | GRÊMIO 2 X 1  SÃO PAULO | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "amwcTnnP_js",
       "url": "https://www.youtube.com/watch?v=amwcTnnP_js",
@@ -219,28 +227,20 @@
       "published": "2026-08-08T22:43:02Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 2 X 1 SÃO PAULO | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | 08/08/2026 | RÁDIO GRENAL",
-      "videoId": "DeUHGj02aDY",
-      "url": "https://www.youtube.com/watch?v=DeUHGj02aDY",
-      "thumbnail": "https://i.ytimg.com/vi/DeUHGj02aDY/mqdefault.jpg",
-      "published": "2026-08-08T22:18:56Z"
+      "channel": "Radio Imortal",
+      "title": "O GRÊMIO VENCEU! REPERCUSSÃO DO IMPORTANTE TRIUNFO NA ARENA | OLHO NA RODADA | PLANTÃO IMORTAL",
+      "videoId": "0mpVOyFqI7o",
+      "url": "https://www.youtube.com/watch?v=0mpVOyFqI7o",
+      "thumbnail": "https://i.ytimg.com/vi/0mpVOyFqI7o/mqdefault_live.jpg",
+      "published": "2026-08-09T00:05:07Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (1) SÃO PAULO | COLETIVA LUÍS CASTRO | DIRETO DA ARENA | BRASILEIRÃO",
+      "title": "AO VIVO | GRÊMIO (2) X (1) SÃO PAULO | DIRETO DA ARENA DO GRÊMIO | BRASILEIRÃO 2026",
       "videoId": "yFrw4Goec9k",
       "url": "https://www.youtube.com/watch?v=yFrw4Goec9k",
       "thumbnail": "https://i.ytimg.com/vi/yFrw4Goec9k/mqdefault.jpg",
       "published": "2026-08-08T23:14:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "WEVERTON, GOLEIRO DO GRÊMIO, EXALTA MARCOS ROCHA E KANNEMANN",
-      "videoId": "cWqZLM0tRqQ",
-      "url": "https://www.youtube.com/watch?v=cWqZLM0tRqQ",
-      "thumbnail": "https://i.ytimg.com/vi/cWqZLM0tRqQ/mqdefault.jpg",
-      "published": "2026-08-08T22:49:27Z"
     }
   ]
 }
