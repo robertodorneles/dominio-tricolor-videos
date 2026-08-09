@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-09T02:00:26.828280+00:00",
+  "updated_at": "2026-08-09T03:46:49.581807+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: ⚠️ BAKAMBU AVANÇA | MESSI CROATA | TABELA TERRÍVEL",
+      "videoId": "LhnHUI3N_1o",
+      "url": "https://www.youtube.com/watch?v=LhnHUI3N_1o",
+      "thumbnail": "https://i.ytimg.com/vi/LhnHUI3N_1o/mqdefault.jpg",
+      "published": "2026-08-09T03:44:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 2x1 São Paulo: VEJA OS MELHORES MOMENTOS DO TIME RAÇUDO DE CASTRO | SE ENCONTROU EM 2026",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Mx4_7gZ-y1k",
       "thumbnail": "https://i.ytimg.com/vi/Mx4_7gZ-y1k/mqdefault.jpg",
       "published": "2026-08-08T21:47:18Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 O MELHOR MEIA DA BASE | CANHOTO E COMPLETO | PEZZOLANO GOSTA!",
-      "videoId": "gKpR0Tv4nqE",
-      "url": "https://www.youtube.com/watch?v=gKpR0Tv4nqE",
-      "thumbnail": "https://i.ytimg.com/vi/gKpR0Tv4nqE/mqdefault.jpg",
-      "published": "2026-08-08T19:31:29Z"
     },
     {
       "channel": "Bage TV",
