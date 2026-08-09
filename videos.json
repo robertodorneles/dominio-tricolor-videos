@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:00:39.644260+00:00",
+  "updated_at": "2026-08-09T13:45:37.817090+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - GRÊMIO VENCE NO BRASILEIRO | SAÍDAS | REFORÇOS E MAIS",
+      "videoId": "my54dXqt8Ww",
+      "url": "https://www.youtube.com/watch?v=my54dXqt8Ww",
+      "thumbnail": "https://i.ytimg.com/vi/my54dXqt8Ww/mqdefault_live.jpg",
+      "published": "2026-08-09T13:15:46Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Mais uma vitória do Grêmio com o coração! 🇪🇪",
       "videoId": "y0wtFZwRUDE",
       "url": "https://www.youtube.com/watch?v=y0wtFZwRUDE",
       "thumbnail": "https://i.ytimg.com/vi/y0wtFZwRUDE/mqdefault.jpg",
       "published": "2026-08-08T22:04:26Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio 2 X 1 São Paulo: vitória com o coração! (mais uma vez)",
-      "videoId": "AsxCYIqr3k0",
-      "url": "https://www.youtube.com/watch?v=AsxCYIqr3k0",
-      "thumbnail": "https://i.ytimg.com/vi/AsxCYIqr3k0/mqdefault.jpg",
-      "published": "2026-08-08T21:41:55Z"
     },
     {
       "channel": "Canal do Farid",
@@ -232,7 +232,7 @@
       "videoId": "0mpVOyFqI7o",
       "url": "https://www.youtube.com/watch?v=0mpVOyFqI7o",
       "thumbnail": "https://i.ytimg.com/vi/0mpVOyFqI7o/mqdefault_live.jpg",
-      "published": "2026-08-09T00:05:07Z"
+      "published": "2026-08-09T13:00:52Z"
     },
     {
       "channel": "Radio Imortal",
