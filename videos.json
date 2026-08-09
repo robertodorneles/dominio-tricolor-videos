@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-09T21:00:41.230230+00:00",
+  "updated_at": "2026-08-09T21:27:28.193697+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter 0x0 Palmeiras: TEM QUE APLAUDIR PEZZOLANO | SITUAÇÃO É FEIA! | TEVE COISAS BOAS",
+      "videoId": "zB4dtX46hZ4",
+      "url": "https://www.youtube.com/watch?v=zB4dtX46hZ4",
+      "thumbnail": "https://i.ytimg.com/vi/zB4dtX46hZ4/mqdefault.jpg",
+      "published": "2026-08-09T21:22:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: REAÇÃO! Grêmio sai do Z-4 | Pavón decisivo | renovações avançam",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8RvIU37_wMM",
       "thumbnail": "https://i.ytimg.com/vi/8RvIU37_wMM/mqdefault.jpg",
       "published": "2026-08-09T06:00:08Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ⚠️ BAKAMBU AVANÇA | MESSI CROATA | TABELA TERRÍVEL",
-      "videoId": "LhnHUI3N_1o",
-      "url": "https://www.youtube.com/watch?v=LhnHUI3N_1o",
-      "thumbnail": "https://i.ytimg.com/vi/LhnHUI3N_1o/mqdefault.jpg",
-      "published": "2026-08-09T03:44:35Z"
     },
     {
       "channel": "Bage TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "\"AS RESPOSTAS SÃO FRUTO DO QUE ESTAMOS PLANTANDO FORA DE CAMPO\", WALLACE.",
+      "videoId": "5hgrJ4mZ92I",
+      "url": "https://www.youtube.com/watch?v=5hgrJ4mZ92I",
+      "thumbnail": "https://i.ytimg.com/vi/5hgrJ4mZ92I/mqdefault.jpg",
+      "published": "2026-08-09T21:22:18Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO | GRÊMIO 2 X 0 CRUZEIRO (CAMPEONATO BRASILEIRO FEMININO A1)",
       "videoId": "QD4238U1bqE",
       "url": "https://www.youtube.com/watch?v=QD4238U1bqE",
       "thumbnail": "https://i.ytimg.com/vi/QD4238U1bqE/mqdefault.jpg",
       "published": "2026-08-09T17:56:03Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GOLS | GREMIO 2 X 0 CRUZEIRO (CAMPEONATO BRASILEIRO FEMININO A1)",
-      "videoId": "JYCkawa2VgE",
-      "url": "https://www.youtube.com/watch?v=JYCkawa2VgE",
-      "thumbnail": "https://i.ytimg.com/vi/JYCkawa2VgE/mqdefault.jpg",
-      "published": "2026-08-09T17:54:55Z"
     },
     {
       "channel": "GZH Digital",
