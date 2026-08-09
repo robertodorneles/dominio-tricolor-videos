@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-09T22:00:35.164200+00:00",
+  "updated_at": "2026-08-09T22:25:52.020674+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA O QUE FEZ A DIREÇÃO BUSCAR O VOLANTE GANÊS DENIS MARFO, EX-INTER",
+      "videoId": "MAelb0gQJww",
+      "url": "https://www.youtube.com/watch?v=MAelb0gQJww",
+      "thumbnail": "https://i.ytimg.com/vi/MAelb0gQJww/mqdefault.jpg",
+      "published": "2026-08-09T22:13:36Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Inter 0x0 Palmeiras: 👏 TEM QUE APLAUDIR PEZZOLANO | SITUAÇÃO É FEIA! | TEVE COISAS BOAS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=zB4dtX46hZ4",
       "thumbnail": "https://i.ytimg.com/vi/zB4dtX46hZ4/mqdefault.jpg",
       "published": "2026-08-09T21:22:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: REAÇÃO! Grêmio sai do Z-4 | Pavón decisivo | renovações avançam",
-      "videoId": "8RvIU37_wMM",
-      "url": "https://www.youtube.com/watch?v=8RvIU37_wMM",
-      "thumbnail": "https://i.ytimg.com/vi/8RvIU37_wMM/mqdefault.jpg",
-      "published": "2026-08-09T06:00:08Z"
     },
     {
       "channel": "Bage TV",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "09/08/2026 | JORNADA ESPORTIVA | PALMEIRAS 0X0 INTER | BRASILEIRÃO | RÁDIO GRENAL",
+      "title": "ENTREVISTA EXCLUSIVA DE PAULO PEZZOLANO - TREINADOR DO INTER | PALMEIRAS 0 X 0 INTER | RÁDIO GRENAL",
+      "videoId": "1PY6WeJt9Ww",
+      "url": "https://www.youtube.com/watch?v=1PY6WeJt9Ww",
+      "thumbnail": "https://i.ytimg.com/vi/1PY6WeJt9Ww/mqdefault.jpg",
+      "published": "2026-08-09T22:23:19Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "09/08/2026 | DEBATE BOLA | PALMEIRAS 0X0 INTER | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "_tSEU1jTI04",
       "url": "https://www.youtube.com/watch?v=_tSEU1jTI04",
       "thumbnail": "https://i.ytimg.com/vi/_tSEU1jTI04/mqdefault_live.jpg",
       "published": "2026-08-09T16:03:43Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "08/08/2026 | GRÊMIO 2 X 1 SÃO PAULO | BRASILEIRÃO | LIVE COMPLETA",
-      "videoId": "X8FPCN2vqBA",
-      "url": "https://www.youtube.com/watch?v=X8FPCN2vqBA",
-      "thumbnail": "https://i.ytimg.com/vi/X8FPCN2vqBA/mqdefault.jpg",
-      "published": "2026-08-09T00:21:35Z"
     },
     {
       "channel": "Radio Imortal",
