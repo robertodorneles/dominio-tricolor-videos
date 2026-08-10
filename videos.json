@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T14:21:25.129817+00:00",
+  "updated_at": "2026-08-10T15:00:37.177786+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #041",
+      "videoId": "MecR5UKBO3o",
+      "url": "https://www.youtube.com/watch?v=MecR5UKBO3o",
+      "thumbnail": "https://i.ytimg.com/vi/MecR5UKBO3o/mqdefault_live.jpg",
+      "published": "2026-08-10T14:52:19Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO VENCE O SÃO PAULO E VOLTA A COMPETIR 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 10/08 - #608",
       "videoId": "hj2fuc-QAt8",
       "url": "https://www.youtube.com/watch?v=hj2fuc-QAt8",
@@ -27,12 +35,12 @@
       "published": "2026-08-10T14:11:17Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #041",
-      "videoId": "MecR5UKBO3o",
-      "url": "https://www.youtube.com/watch?v=MecR5UKBO3o",
-      "thumbnail": "https://i.ytimg.com/vi/MecR5UKBO3o/mqdefault_live.jpg",
-      "published": "2026-08-10T13:42:47Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨TÁ FORA! GRÊMIO ANUNCIA SAÍDA | TIME DESEQUILIBRADO | TEMOS NOVO PROBLEMA NA ZAGA?",
+      "videoId": "SwQ-PpXdZJ0",
+      "url": "https://www.youtube.com/watch?v=SwQ-PpXdZJ0",
+      "thumbnail": "https://i.ytimg.com/vi/SwQ-PpXdZJ0/mqdefault.jpg",
+      "published": "2026-08-10T14:59:22Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=kIFsJu8d6VI",
       "thumbnail": "https://i.ytimg.com/vi/kIFsJu8d6VI/mqdefault.jpg",
       "published": "2026-08-09T23:55:31Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MARCELO MARQUES DOANDO MAIS DINHEIRO AO GRÊMIO | BRIGA NA ZONA MISTA | ORGULHO DE VER | FELIZ DIA!",
-      "videoId": "8Q-PRYoQpYA",
-      "url": "https://www.youtube.com/watch?v=8Q-PRYoQpYA",
-      "thumbnail": "https://i.ytimg.com/vi/8Q-PRYoQpYA/mqdefault.jpg",
-      "published": "2026-08-09T14:56:35Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 11/08",
+      "videoId": "QdH3X5RNQWg",
+      "url": "https://www.youtube.com/watch?v=QdH3X5RNQWg",
+      "thumbnail": "https://i.ytimg.com/vi/QdH3X5RNQWg/mqdefault_live.jpg",
+      "published": "2026-08-10T14:44:27Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 10.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "gcd7lA-CV5Y",
       "url": "https://www.youtube.com/watch?v=gcd7lA-CV5Y",
       "thumbnail": "https://i.ytimg.com/vi/gcd7lA-CV5Y/mqdefault.jpg",
       "published": "2026-08-10T13:27:23Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O CLIMA FICOU TENSO ENTRE A IMPRENSA, DUNGA E JORGINHO NA SELEÇÃO | Cortes do Duda",
-      "videoId": "h-O5FGAyE6U",
-      "url": "https://www.youtube.com/watch?v=h-O5FGAyE6U",
-      "thumbnail": "https://i.ytimg.com/vi/h-O5FGAyE6U/mqdefault.jpg",
-      "published": "2026-08-09T15:00:38Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -167,8 +167,8 @@
       "title": "Caso Bárbara, família busca ajuda para tratar filho com AME e mais | Timeline | 10/08/2026",
       "videoId": "LBU47PobCZk",
       "url": "https://www.youtube.com/watch?v=LBU47PobCZk",
-      "thumbnail": "https://i.ytimg.com/vi/LBU47PobCZk/mqdefault_live.jpg",
-      "published": "2026-08-10T13:57:10Z"
+      "thumbnail": "https://i.ytimg.com/vi/LBU47PobCZk/mqdefault.jpg",
+      "published": "2026-08-10T14:41:12Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE E ALIVIA A TENSÃO COM A TORCIDA | RESULTADOS BONS NA RODADA | ADEUS PÉREZ | ESPLANADA",
+      "videoId": "NnTJ4BWsCGk",
+      "url": "https://www.youtube.com/watch?v=NnTJ4BWsCGk",
+      "thumbnail": "https://i.ytimg.com/vi/NnTJ4BWsCGk/mqdefault_live.jpg",
+      "published": "2026-08-10T14:49:33Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #131 — GRÊMIO APROVEITA ÚLTIMO DIA DE FOLGA | AFRICANO CHEGANDO? | TCHAU, PÉREZ!",
       "videoId": "P91iVTYXvk0",
       "url": "https://www.youtube.com/watch?v=P91iVTYXvk0",
       "thumbnail": "https://i.ytimg.com/vi/P91iVTYXvk0/mqdefault_live.jpg",
       "published": "2026-08-10T14:09:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE E RESPIRA NO BRASILEIRÃO | COMO É BOM SER DO GRÊMIO #16",
-      "videoId": "cQNfapFI4MU",
-      "url": "https://www.youtube.com/watch?v=cQNfapFI4MU",
-      "thumbnail": "https://i.ytimg.com/vi/cQNfapFI4MU/mqdefault_live.jpg",
-      "published": "2026-08-10T14:09:29Z"
     }
   ]
 }
