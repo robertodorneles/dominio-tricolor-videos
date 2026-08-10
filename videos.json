@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T15:00:37.177786+00:00",
+  "updated_at": "2026-08-10T15:56:53.423273+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #041",
       "videoId": "MecR5UKBO3o",
       "url": "https://www.youtube.com/watch?v=MecR5UKBO3o",
-      "thumbnail": "https://i.ytimg.com/vi/MecR5UKBO3o/mqdefault_live.jpg",
-      "published": "2026-08-10T14:52:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/MecR5UKBO3o/mqdefault.jpg",
+      "published": "2026-08-10T15:21:13Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha+ | 10/08/2026",
+      "videoId": "-Lg3tmXUUYA",
+      "url": "https://www.youtube.com/watch?v=-Lg3tmXUUYA",
+      "thumbnail": "https://i.ytimg.com/vi/-Lg3tmXUUYA/mqdefault_live.jpg",
+      "published": "2026-08-10T15:54:00Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Caso Bárbara, família busca ajuda para tratar filho com AME e mais | Timeline | 10/08/2026",
       "videoId": "LBU47PobCZk",
       "url": "https://www.youtube.com/watch?v=LBU47PobCZk",
       "thumbnail": "https://i.ytimg.com/vi/LBU47PobCZk/mqdefault.jpg",
       "published": "2026-08-10T14:41:12Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Resultado do IDEB no RS, últimas da política, economia, trânsito e +| Gaúcha Atualidade | 10/08/2026",
-      "videoId": "jSU5jXo5ml0",
-      "url": "https://www.youtube.com/watch?v=jSU5jXo5ml0",
-      "thumbnail": "https://i.ytimg.com/vi/jSU5jXo5ml0/mqdefault.jpg",
-      "published": "2026-08-10T13:48:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #131 — GRÊMIO APROVEITA ÚLTIMO DIA DE FOLGA | AFRICANO CHEGANDO? | TCHAU, PÉREZ!",
+      "videoId": "P91iVTYXvk0",
+      "url": "https://www.youtube.com/watch?v=P91iVTYXvk0",
+      "thumbnail": "https://i.ytimg.com/vi/P91iVTYXvk0/mqdefault_live.jpg",
+      "published": "2026-08-10T15:00:41Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE E ALIVIA A TENSÃO COM A TORCIDA | RESULTADOS BONS NA RODADA | ADEUS PÉREZ | ESPLANADA",
       "videoId": "NnTJ4BWsCGk",
       "url": "https://www.youtube.com/watch?v=NnTJ4BWsCGk",
       "thumbnail": "https://i.ytimg.com/vi/NnTJ4BWsCGk/mqdefault_live.jpg",
       "published": "2026-08-10T14:49:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #131 — GRÊMIO APROVEITA ÚLTIMO DIA DE FOLGA | AFRICANO CHEGANDO? | TCHAU, PÉREZ!",
-      "videoId": "P91iVTYXvk0",
-      "url": "https://www.youtube.com/watch?v=P91iVTYXvk0",
-      "thumbnail": "https://i.ytimg.com/vi/P91iVTYXvk0/mqdefault_live.jpg",
-      "published": "2026-08-10T14:09:39Z"
     }
   ]
 }
