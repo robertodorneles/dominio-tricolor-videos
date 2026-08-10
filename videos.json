@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-10T21:37:21.621527+00:00",
+  "updated_at": "2026-08-10T22:00:40.522059+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 LANCES DE MARIPAN CONTRA O PALMEIRAS! | BOTOU ALMA NA ZAGA | VEJA OS LANCES!",
+      "videoId": "-mZ3JcnwT14",
+      "url": "https://www.youtube.com/watch?v=-mZ3JcnwT14",
+      "thumbnail": "https://i.ytimg.com/vi/-mZ3JcnwT14/mqdefault.jpg",
+      "published": "2026-08-10T21:50:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA O QUE PAVÓN FEZ PARA CAVAR DEFINITIVAMENTE ESPAÇO NO TIME TITULAR DE CASTRO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=v4bHwzE6FE8",
       "thumbnail": "https://i.ytimg.com/vi/v4bHwzE6FE8/mqdefault.jpg",
       "published": "2026-08-10T20:00:13Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: FECHOU! Léo Pérez vai ao Racing | Wallace muda planos | renovação avança",
-      "videoId": "VtrrnUo6R34",
-      "url": "https://www.youtube.com/watch?v=VtrrnUo6R34",
-      "thumbnail": "https://i.ytimg.com/vi/VtrrnUo6R34/mqdefault.jpg",
-      "published": "2026-08-10T05:00:23Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... MARCELO [ÍDOLO DO REAL MADRID E FLU] | #402",
+      "videoId": "u3zVo2RUCck",
+      "url": "https://www.youtube.com/watch?v=u3zVo2RUCck",
+      "thumbnail": "https://i.ytimg.com/vi/u3zVo2RUCck/mqdefault.jpg",
+      "published": "2026-08-10T22:00:07Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "Hospício - 11/08",
       "videoId": "QdH3X5RNQWg",
       "url": "https://www.youtube.com/watch?v=QdH3X5RNQWg",
       "thumbnail": "https://i.ytimg.com/vi/QdH3X5RNQWg/mqdefault_live.jpg",
       "published": "2026-08-10T14:44:27Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 10.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "gcd7lA-CV5Y",
-      "url": "https://www.youtube.com/watch?v=gcd7lA-CV5Y",
-      "thumbnail": "https://i.ytimg.com/vi/gcd7lA-CV5Y/mqdefault.jpg",
-      "published": "2026-08-10T13:27:23Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "VOTO EM TRÂNSITO: veja como solicitar sem perder o prazo",
+      "videoId": "9ivpMZ27M-I",
+      "url": "https://www.youtube.com/watch?v=9ivpMZ27M-I",
+      "thumbnail": "https://i.ytimg.com/vi/9ivpMZ27M-I/mqdefault.jpg",
+      "published": "2026-08-10T21:42:51Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Timeline | 11/08/2026",
       "videoId": "ElXOL5TT9j4",
       "url": "https://www.youtube.com/watch?v=ElXOL5TT9j4",
       "thumbnail": "https://i.ytimg.com/vi/ElXOL5TT9j4/mqdefault_live.jpg",
       "published": "2026-08-10T21:25:42Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 11/08/2026",
-      "videoId": "EQzqvNCnEN0",
-      "url": "https://www.youtube.com/watch?v=EQzqvNCnEN0",
-      "thumbnail": "https://i.ytimg.com/vi/EQzqvNCnEN0/mqdefault_live.jpg",
-      "published": "2026-08-10T21:24:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/08/2026 | GRENAL FC | RÁDIO GRENAL",
+      "title": "10/08/2026 | CLUBE GRENAL | RÁDIO GRENAL",
       "videoId": "jm79cMu43uI",
       "url": "https://www.youtube.com/watch?v=jm79cMu43uI",
       "thumbnail": "https://i.ytimg.com/vi/jm79cMu43uI/mqdefault_live.jpg",
