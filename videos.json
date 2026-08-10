@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:00:43.244429+00:00",
+  "updated_at": "2026-08-10T19:52:57.488396+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "zkKuhWWzKK8",
       "url": "https://www.youtube.com/watch?v=zkKuhWWzKK8",
       "thumbnail": "https://i.ytimg.com/vi/zkKuhWWzKK8/mqdefault_live.jpg",
-      "published": "2026-08-10T18:31:03Z"
+      "published": "2026-08-10T19:48:06Z"
     },
     {
       "channel": "Bage TV",
       "title": "PAVÓN DECIDE, GRÊMIO SAI DO Z4 E INTER FICA NO EMPATE COM PALMEIRAS🔸RESENHA FORA DA SALA🔸#104",
       "videoId": "ig_eDxLIM9k",
       "url": "https://www.youtube.com/watch?v=ig_eDxLIM9k",
-      "thumbnail": "https://i.ytimg.com/vi/ig_eDxLIM9k/mqdefault_live.jpg",
-      "published": "2026-08-10T18:09:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/ig_eDxLIM9k/mqdefault.jpg",
+      "published": "2026-08-10T19:17:10Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "DESAFIO DOS CRAQUES",
+      "videoId": "MezKeE429fg",
+      "url": "https://www.youtube.com/watch?v=MezKeE429fg",
+      "thumbnail": "https://i.ytimg.com/vi/MezKeE429fg/mqdefault.jpg",
+      "published": "2026-08-10T19:31:27Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "\"AS RESPOSTAS SÃO FRUTO DO QUE ESTAMOS PLANTANDO FORA DE CAMPO\", WALLACE.",
       "videoId": "5hgrJ4mZ92I",
       "url": "https://www.youtube.com/watch?v=5hgrJ4mZ92I",
@@ -155,12 +163,12 @@
       "published": "2026-08-09T21:22:18Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA PÓS-JOGO | GRÊMIO 2 X 0 CRUZEIRO (CAMPEONATO BRASILEIRO FEMININO A1)",
-      "videoId": "QD4238U1bqE",
-      "url": "https://www.youtube.com/watch?v=QD4238U1bqE",
-      "thumbnail": "https://i.ytimg.com/vi/QD4238U1bqE/mqdefault.jpg",
-      "published": "2026-08-09T17:56:03Z"
+      "channel": "GZH Digital",
+      "title": "Terremoto de magnitude 7,4 na Colômbia, feminicídio na Lomba do Pinheiro e + | Gaúcha+ | 10/08/2026",
+      "videoId": "-Lg3tmXUUYA",
+      "url": "https://www.youtube.com/watch?v=-Lg3tmXUUYA",
+      "thumbnail": "https://i.ytimg.com/vi/-Lg3tmXUUYA/mqdefault_live.jpg",
+      "published": "2026-08-10T19:33:17Z"
     },
     {
       "channel": "GZH Digital",
@@ -171,12 +179,12 @@
       "published": "2026-08-10T18:51:55Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Terremoto de magnitude 7,4 na Colômbia, feminicídio na Lomba do Pinheiro e + | Gaúcha+ | 10/08/2026",
-      "videoId": "-Lg3tmXUUYA",
-      "url": "https://www.youtube.com/watch?v=-Lg3tmXUUYA",
-      "thumbnail": "https://i.ytimg.com/vi/-Lg3tmXUUYA/mqdefault_live.jpg",
-      "published": "2026-08-10T18:04:48Z"
+      "channel": "Jeremias Wernek",
+      "title": "F5 NOS NEGÓCIOS DO INTER: Sueco, congolês e Alex Arce + novidade no CT",
+      "videoId": "vLsONO8bBsA",
+      "url": "https://www.youtube.com/watch?v=vLsONO8bBsA",
+      "thumbnail": "https://i.ytimg.com/vi/vLsONO8bBsA/mqdefault.jpg",
+      "published": "2026-08-10T19:32:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=XCjDvVJhLo0",
       "thumbnail": "https://i.ytimg.com/vi/XCjDvVJhLo0/mqdefault.jpg",
       "published": "2026-08-10T12:39:51Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "JOVEM DO INTER INDO PRO GRÊMIO? A história de Denis Marfo trocando de lado",
-      "videoId": "i5mCoukbQZs",
-      "url": "https://www.youtube.com/watch?v=i5mCoukbQZs",
-      "thumbnail": "https://i.ytimg.com/vi/i5mCoukbQZs/mqdefault.jpg",
-      "published": "2026-08-09T01:15:22Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO VENCE E ALIVIA A TENSÃO COM A TORCIDA | RESULTADOS BONS NA RODADA | ADEUS PÉREZ | ESPLANADA",
       "videoId": "NnTJ4BWsCGk",
       "url": "https://www.youtube.com/watch?v=NnTJ4BWsCGk",
-      "thumbnail": "https://i.ytimg.com/vi/NnTJ4BWsCGk/mqdefault_live.jpg",
-      "published": "2026-08-10T18:34:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/NnTJ4BWsCGk/mqdefault.jpg",
+      "published": "2026-08-10T19:39:08Z"
     },
     {
       "channel": "Radio Imortal",
