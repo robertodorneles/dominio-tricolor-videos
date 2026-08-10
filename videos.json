@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:00:40.522059+00:00",
+  "updated_at": "2026-08-10T22:33:03.318015+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "Z4 PEGANDO FOGO! GRÊMIO RESPIRA, RENOVAÇÃO À VISTA E MERCADO AGITADO📰BAGÉTV NEWS #013",
       "videoId": "EWjPXf5fCmU",
       "url": "https://www.youtube.com/watch?v=EWjPXf5fCmU",
-      "thumbnail": "https://i.ytimg.com/vi/EWjPXf5fCmU/mqdefault_live.jpg",
-      "published": "2026-08-10T20:30:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/EWjPXf5fCmU/mqdefault.jpg",
+      "published": "2026-08-10T22:17:06Z"
     },
     {
       "channel": "Bage TV",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "EUROPEUS DESDENHAM DO MUNDIAL? MARCELO FALA A VERDADE | Cortes do Duda",
+      "videoId": "xxLw8yJOkLw",
+      "url": "https://www.youtube.com/watch?v=xxLw8yJOkLw",
+      "thumbnail": "https://i.ytimg.com/vi/xxLw8yJOkLw/mqdefault.jpg",
+      "published": "2026-08-10T22:30:32Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... MARCELO [ÍDOLO DO REAL MADRID E FLU] | #402",
       "videoId": "u3zVo2RUCck",
       "url": "https://www.youtube.com/watch?v=u3zVo2RUCck",
@@ -139,12 +147,12 @@
       "published": "2026-08-10T22:00:07Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "Hospício - 11/08",
-      "videoId": "QdH3X5RNQWg",
-      "url": "https://www.youtube.com/watch?v=QdH3X5RNQWg",
-      "thumbnail": "https://i.ytimg.com/vi/QdH3X5RNQWg/mqdefault_live.jpg",
-      "published": "2026-08-10T14:44:27Z"
+      "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GRÊMIO 2x1 SÃO PAULO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "4-4hA1BoIe0",
+      "url": "https://www.youtube.com/watch?v=4-4hA1BoIe0",
+      "thumbnail": "https://i.ytimg.com/vi/4-4hA1BoIe0/mqdefault.jpg",
+      "published": "2026-08-10T22:03:34Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=MezKeE429fg",
       "thumbnail": "https://i.ytimg.com/vi/MezKeE429fg/mqdefault.jpg",
       "published": "2026-08-10T19:31:27Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "\"AS RESPOSTAS SÃO FRUTO DO QUE ESTAMOS PLANTANDO FORA DE CAMPO\", WALLACE.",
-      "videoId": "5hgrJ4mZ92I",
-      "url": "https://www.youtube.com/watch?v=5hgrJ4mZ92I",
-      "thumbnail": "https://i.ytimg.com/vi/5hgrJ4mZ92I/mqdefault.jpg",
-      "published": "2026-08-09T21:22:18Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO MOSTROU ALMA! REPERCUSSÕES DA VITÓRIA | SITUAÇÃO NA TABELA | SORTEIO DA COPA DO BRASIL AMANHÃ",
+      "videoId": "MsAfcnUWVn4",
+      "url": "https://www.youtube.com/watch?v=MsAfcnUWVn4",
+      "thumbnail": "https://i.ytimg.com/vi/MsAfcnUWVn4/mqdefault.jpg",
+      "published": "2026-08-10T22:20:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE E SOBE NA TABELA | SORTEIO DA COPA DO BRASIL | NOITES DE GRÊMIO #125 - 10/08",
       "videoId": "5YCM7wPGAz8",
       "url": "https://www.youtube.com/watch?v=5YCM7wPGAz8",
       "thumbnail": "https://i.ytimg.com/vi/5YCM7wPGAz8/mqdefault_live.jpg",
       "published": "2026-08-10T21:36:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO MOSTROU ALMA! REPERCUSSÕES DA VITÓRIA | SITUAÇÃO NA TABELA | SORTEIO DA COPA DO BRASIL AMANHÃ",
-      "videoId": "MsAfcnUWVn4",
-      "url": "https://www.youtube.com/watch?v=MsAfcnUWVn4",
-      "thumbnail": "https://i.ytimg.com/vi/MsAfcnUWVn4/mqdefault_live.jpg",
-      "published": "2026-08-10T21:02:32Z"
     }
   ]
 }
