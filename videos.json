@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-10T00:00:36.722073+00:00",
+  "updated_at": "2026-08-10T01:00:29.625675+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: UM BOM FINAL DE SEMANA: EMPATE DO INTER E GRÊMIO VITORIOSO feat: Bruno Flores",
+      "videoId": "bqU4c9xjlWk",
+      "url": "https://www.youtube.com/watch?v=bqU4c9xjlWk",
+      "thumbnail": "https://i.ytimg.com/vi/bqU4c9xjlWk/mqdefault_live.jpg",
+      "published": "2026-08-10T00:24:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA O QUE FEZ A DIREÇÃO BUSCAR O VOLANTE GANÊS DENIS MARFO, EX-INTER",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=MAelb0gQJww",
       "thumbnail": "https://i.ytimg.com/vi/MAelb0gQJww/mqdefault.jpg",
       "published": "2026-08-09T22:13:36Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter 0x0 Palmeiras: 👏 TEM QUE APLAUDIR PEZZOLANO | SITUAÇÃO É FEIA! | TEVE COISAS BOAS",
-      "videoId": "zB4dtX46hZ4",
-      "url": "https://www.youtube.com/watch?v=zB4dtX46hZ4",
-      "thumbnail": "https://i.ytimg.com/vi/zB4dtX46hZ4/mqdefault.jpg",
-      "published": "2026-08-09T21:22:35Z"
     },
     {
       "channel": "Bage TV",
@@ -55,8 +55,8 @@
       "title": "LIVE DE DOMINGO - GRÊMIO VENCE NO BRASILEIRO | PRÓXIMAS SAÍDAS E MAIS",
       "videoId": "my54dXqt8Ww",
       "url": "https://www.youtube.com/watch?v=my54dXqt8Ww",
-      "thumbnail": "https://i.ytimg.com/vi/my54dXqt8Ww/mqdefault_live.jpg",
-      "published": "2026-08-09T23:00:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/my54dXqt8Ww/mqdefault.jpg",
+      "published": "2026-08-10T00:07:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Grêmio e Inter fora do Z4 + reforços, polêmica na base e escândalo",
+      "videoId": "XCjDvVJhLo0",
+      "url": "https://www.youtube.com/watch?v=XCjDvVJhLo0",
+      "thumbnail": "https://i.ytimg.com/vi/XCjDvVJhLo0/mqdefault_live.jpg",
+      "published": "2026-08-10T00:29:25Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "JOVEM DO INTER INDO PRO GRÊMIO? A história de Denis Marfo trocando de lado",
       "videoId": "i5mCoukbQZs",
       "url": "https://www.youtube.com/watch?v=i5mCoukbQZs",
       "thumbnail": "https://i.ytimg.com/vi/i5mCoukbQZs/mqdefault.jpg",
       "published": "2026-08-09T01:15:22Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "Grêmio vence o São Paulo de virada, mas… dá pra ter esperança?",
-      "videoId": "QiJLIOdD5xg",
-      "url": "https://www.youtube.com/watch?v=QiJLIOdD5xg",
-      "thumbnail": "https://i.ytimg.com/vi/QiJLIOdD5xg/mqdefault.jpg",
-      "published": "2026-08-08T22:19:33Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA DE PAULO PEZZOLANO - TREINADOR DO INTER | PALMEIRAS 0 X 0 INTER | RÁDIO GRENAL",
-      "videoId": "1PY6WeJt9Ww",
-      "url": "https://www.youtube.com/watch?v=1PY6WeJt9Ww",
-      "thumbnail": "https://i.ytimg.com/vi/1PY6WeJt9Ww/mqdefault.jpg",
-      "published": "2026-08-09T22:23:19Z"
+      "title": "09/08/2026 |  PALMEIRAS 0X0 INTER | BRASILEIRÃO | LIVE COMPLETA",
+      "videoId": "_tSEU1jTI04",
+      "url": "https://www.youtube.com/watch?v=_tSEU1jTI04",
+      "thumbnail": "https://i.ytimg.com/vi/_tSEU1jTI04/mqdefault.jpg",
+      "published": "2026-08-10T00:23:57Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "09/08/2026 | DEBATE BOLA | PALMEIRAS 0X0 INTER | BRASILEIRÃO | RÁDIO GRENAL",
-      "videoId": "_tSEU1jTI04",
-      "url": "https://www.youtube.com/watch?v=_tSEU1jTI04",
-      "thumbnail": "https://i.ytimg.com/vi/_tSEU1jTI04/mqdefault_live.jpg",
-      "published": "2026-08-09T16:03:43Z"
+      "title": "09/08/2026 |  PALMEIRAS 0X0 INTER | BRASILEIRÃO | LIVE COMPLETA",
+      "videoId": "jm79cMu43uI",
+      "url": "https://www.youtube.com/watch?v=jm79cMu43uI",
+      "thumbnail": "https://i.ytimg.com/vi/jm79cMu43uI/mqdefault_live.jpg",
+      "published": "2026-08-10T00:04:26Z"
     },
     {
       "channel": "Radio Imortal",
