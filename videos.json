@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:00:35.082291+00:00",
+  "updated_at": "2026-08-10T14:00:35.724642+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #041",
+      "videoId": "MecR5UKBO3o",
+      "url": "https://www.youtube.com/watch?v=MecR5UKBO3o",
+      "thumbnail": "https://i.ytimg.com/vi/MecR5UKBO3o/mqdefault_live.jpg",
+      "published": "2026-08-10T13:42:47Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO VENCE O SÃO PAULO E VOLTA A COMPETIR 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 10/08 - #608",
       "videoId": "hj2fuc-QAt8",
       "url": "https://www.youtube.com/watch?v=hj2fuc-QAt8",
       "thumbnail": "https://i.ytimg.com/vi/hj2fuc-QAt8/mqdefault_live.jpg",
-      "published": "2026-08-10T12:02:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VENCE O SÃO PAULO E SAI DA ZONA 🌅🔵 BOM DIA GRÊMIO #094",
-      "videoId": "KjEb5ril5FQ",
-      "url": "https://www.youtube.com/watch?v=KjEb5ril5FQ",
-      "thumbnail": "https://i.ytimg.com/vi/KjEb5ril5FQ/mqdefault.jpg",
-      "published": "2026-08-10T11:55:43Z"
+      "published": "2026-08-10T13:33:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "DUAS CONFIRMAÇÕES DO GRÊMIO NO DOMINGO. LEONEL PEREZ E DENIS MARFO.#gremio #futebol",
+      "videoId": "Nft2ffxKmDs",
+      "url": "https://www.youtube.com/watch?v=Nft2ffxKmDs",
+      "thumbnail": "https://i.ytimg.com/vi/Nft2ffxKmDs/mqdefault.jpg",
+      "published": "2026-08-10T14:00:03Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "RENOVAÇÕES, REFORÇOS E DECISÃO TOMADA: CARLOS VINÍCIUS, AMUZU, PÉREZ, DENIS MARFO, MEC E WALLACE.",
       "videoId": "l2fif1QW-I4",
       "url": "https://www.youtube.com/watch?v=l2fif1QW-I4",
       "thumbnail": "https://i.ytimg.com/vi/l2fif1QW-I4/mqdefault.jpg",
       "published": "2026-08-09T22:28:42Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO x SÃO PAULO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "c78EVFBRtL8",
-      "url": "https://www.youtube.com/watch?v=c78EVFBRtL8",
-      "thumbnail": "https://i.ytimg.com/vi/c78EVFBRtL8/mqdefault.jpg",
-      "published": "2026-08-08T22:30:28Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 10.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "gcd7lA-CV5Y",
       "url": "https://www.youtube.com/watch?v=gcd7lA-CV5Y",
-      "thumbnail": "https://i.ytimg.com/vi/gcd7lA-CV5Y/mqdefault_live.jpg",
-      "published": "2026-08-10T12:02:00Z"
+      "thumbnail": "https://i.ytimg.com/vi/gcd7lA-CV5Y/mqdefault.jpg",
+      "published": "2026-08-10T13:27:23Z"
     },
     {
       "channel": "Duda Garbi",
@@ -168,15 +168,15 @@
       "videoId": "LBU47PobCZk",
       "url": "https://www.youtube.com/watch?v=LBU47PobCZk",
       "thumbnail": "https://i.ytimg.com/vi/LBU47PobCZk/mqdefault_live.jpg",
-      "published": "2026-08-10T11:04:12Z"
+      "published": "2026-08-10T13:57:10Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Resultado do IDEB no RS, últimas da política, economia, trânsito e +| Gaúcha Atualidade | 10/08/2026",
       "videoId": "jSU5jXo5ml0",
       "url": "https://www.youtube.com/watch?v=jSU5jXo5ml0",
-      "thumbnail": "https://i.ytimg.com/vi/jSU5jXo5ml0/mqdefault_live.jpg",
-      "published": "2026-08-10T10:57:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/jSU5jXo5ml0/mqdefault.jpg",
+      "published": "2026-08-10T13:48:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "10/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "10/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "jm79cMu43uI",
       "url": "https://www.youtube.com/watch?v=jm79cMu43uI",
       "thumbnail": "https://i.ytimg.com/vi/jm79cMu43uI/mqdefault_live.jpg",
