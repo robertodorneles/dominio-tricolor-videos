@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:00:31.664097+00:00",
+  "updated_at": "2026-08-11T23:35:21.268202+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#002",
+      "videoId": "atF-r-cBZ7w",
+      "url": "https://www.youtube.com/watch?v=atF-r-cBZ7w",
+      "thumbnail": "https://i.ytimg.com/vi/atF-r-cBZ7w/mqdefault_live.jpg",
+      "published": "2026-08-11T23:15:28Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRENAL DECISIVO! DEPAY FORA, ABEL NA MIRA E BRAD PITT FALA DE NEYMAR!📰BAGÉTV NEWS #014",
       "videoId": "-qm93fyoKa0",
       "url": "https://www.youtube.com/watch?v=-qm93fyoKa0",
       "thumbnail": "https://i.ytimg.com/vi/-qm93fyoKa0/mqdefault.jpg",
       "published": "2026-08-11T22:26:03Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRE-NAL DEFINIDO PARA AS QUARTAS DA COPA DO BRASIL 🔹 THE TARDE 🔹#199",
-      "videoId": "e85p_O84Kuw",
-      "url": "https://www.youtube.com/watch?v=e85p_O84Kuw",
-      "thumbnail": "https://i.ytimg.com/vi/e85p_O84Kuw/mqdefault.jpg",
-      "published": "2026-08-11T20:02:22Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "11/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "G9FcQSaTtzU",
+      "url": "https://www.youtube.com/watch?v=G9FcQSaTtzU",
+      "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault_live.jpg",
+      "published": "2026-08-11T23:01:24Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "OTIMISTA! 🇮🇩 #inter #colorado #gremio #grenal #copadobrasil #futebol",
       "videoId": "ZqKx7DF_sXw",
       "url": "https://www.youtube.com/watch?v=ZqKx7DF_sXw",
@@ -219,28 +227,20 @@
       "published": "2026-08-11T16:38:44Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "11/08/2026 | CLUBE GRENAL | RÁDIO GRENAL",
-      "videoId": "G9FcQSaTtzU",
-      "url": "https://www.youtube.com/watch?v=G9FcQSaTtzU",
-      "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault_live.jpg",
-      "published": "2026-08-11T11:01:53Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #132 — GRÊMIO CORRE CONTRA O TEMPO PARA REGULARIZAR KROVINOVIC | SAÍDA DE WILLIAN",
+      "videoId": "d9UPHVsDF8E",
+      "url": "https://www.youtube.com/watch?v=d9UPHVsDF8E",
+      "thumbnail": "https://i.ytimg.com/vi/d9UPHVsDF8E/mqdefault_live.jpg",
+      "published": "2026-08-11T23:16:44Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AS REAÇÕES DA RÁDIO IMORTAL AO SORTEIO DA COPA DO BRASIL | GRENAL FOI BOM PARA O GRÊMIO?",
-      "videoId": "AibXSlI-ALw",
-      "url": "https://www.youtube.com/watch?v=AibXSlI-ALw",
-      "thumbnail": "https://i.ytimg.com/vi/AibXSlI-ALw/mqdefault.jpg",
-      "published": "2026-08-11T22:48:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TEREMOS GRENAL NA COPA DO BRASIL! | O SORTEIO FOI BOM? | CALENDÁRIO COMPLETO DO GRÊMIO | IMORTAL FC",
-      "videoId": "iMyjISGRpx8",
-      "url": "https://www.youtube.com/watch?v=iMyjISGRpx8",
-      "thumbnail": "https://i.ytimg.com/vi/iMyjISGRpx8/mqdefault.jpg",
-      "published": "2026-08-11T22:12:25Z"
+      "title": "GRÊMIO ACERTA SAÍDA | CONSULTA POR ZAGUEIRO | COMO É BOM SER DO GRÊMIO #18",
+      "videoId": "oqbB7ZjoYCE",
+      "url": "https://www.youtube.com/watch?v=oqbB7ZjoYCE",
+      "thumbnail": "https://i.ytimg.com/vi/oqbB7ZjoYCE/mqdefault_live.jpg",
+      "published": "2026-08-11T23:13:19Z"
     }
   ]
 }
