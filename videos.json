@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:00:38.741577+00:00",
+  "updated_at": "2026-08-11T14:00:40.664091+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,16 @@
       "title": "QUAL O MELHOR ADVERSÁRIO NA COPA DO BRASIL? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 11/08 - #609",
       "videoId": "komhxQzdIcA",
       "url": "https://www.youtube.com/watch?v=komhxQzdIcA",
-      "thumbnail": "https://i.ytimg.com/vi/komhxQzdIcA/mqdefault_live.jpg",
-      "published": "2026-08-11T12:03:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/komhxQzdIcA/mqdefault.jpg",
+      "published": "2026-08-11T13:48:50Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO CONHECE SEU FUTURO HOJE NA COPA 🌅🔵 BOM DIA GRÊMIO #095",
-      "videoId": "ABEezHJ4kzM",
-      "url": "https://www.youtube.com/watch?v=ABEezHJ4kzM",
-      "thumbnail": "https://i.ytimg.com/vi/ABEezHJ4kzM/mqdefault.jpg",
-      "published": "2026-08-11T11:55:20Z"
+      "title": "BOLEIRAGi - REACT AO VIVO SORTEIO COPA DO BRASIL #042",
+      "videoId": "VlxdlyghepM",
+      "url": "https://www.youtube.com/watch?v=VlxdlyghepM",
+      "thumbnail": "https://i.ytimg.com/vi/VlxdlyghepM/mqdefault_live.jpg",
+      "published": "2026-08-11T13:37:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 11.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "QdH3X5RNQWg",
       "url": "https://www.youtube.com/watch?v=QdH3X5RNQWg",
-      "thumbnail": "https://i.ytimg.com/vi/QdH3X5RNQWg/mqdefault_live.jpg",
-      "published": "2026-08-11T11:59:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/QdH3X5RNQWg/mqdefault.jpg",
+      "published": "2026-08-11T13:20:22Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COPA DO BRASIL | ACOMPANHE O SORTEIO COM A GRÊMIO TV",
+      "videoId": "s3QnT3oZPRI",
+      "url": "https://www.youtube.com/watch?v=s3QnT3oZPRI",
+      "thumbnail": "https://i.ytimg.com/vi/s3QnT3oZPRI/mqdefault_live.jpg",
+      "published": "2026-08-11T13:44:13Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "\"HOJE A VITÓRIA ERA NOSSA\" -  WEVERTON FALA SOBRE IMPORTANTE RESULTADO NO BRASILEIRÃO #futebol",
       "videoId": "WB-FDT2JBLk",
       "url": "https://www.youtube.com/watch?v=WB-FDT2JBLk",
@@ -155,28 +163,20 @@
       "published": "2026-08-11T00:30:36Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | GRÊMIO 2x1 SÃO PAULO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "4-4hA1BoIe0",
-      "url": "https://www.youtube.com/watch?v=4-4hA1BoIe0",
-      "thumbnail": "https://i.ytimg.com/vi/4-4hA1BoIe0/mqdefault.jpg",
-      "published": "2026-08-10T22:03:34Z"
+      "channel": "GZH Digital",
+      "title": "Caso Oliver, homem em situação de rua incendiado, Martinho da Vila e mais | Timeline | 11/08/2026",
+      "videoId": "ElXOL5TT9j4",
+      "url": "https://www.youtube.com/watch?v=ElXOL5TT9j4",
+      "thumbnail": "https://i.ytimg.com/vi/ElXOL5TT9j4/mqdefault_live.jpg",
+      "published": "2026-08-11T13:56:02Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com ministro do Trabalho, trânsito, política e mais | Gaúcha Atualidade | 11/08/2026",
-      "videoId": "EQzqvNCnEN0",
-      "url": "https://www.youtube.com/watch?v=EQzqvNCnEN0",
-      "thumbnail": "https://i.ytimg.com/vi/EQzqvNCnEN0/mqdefault_live.jpg",
-      "published": "2026-08-11T10:58:59Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Terremoto de magnitude 7,4 na Colômbia, feminicídio na Lomba do Pinheiro e + | Gaúcha+ | 10/08/2026",
-      "videoId": "-Lg3tmXUUYA",
-      "url": "https://www.youtube.com/watch?v=-Lg3tmXUUYA",
-      "thumbnail": "https://i.ytimg.com/vi/-Lg3tmXUUYA/mqdefault.jpg",
-      "published": "2026-08-11T07:49:35Z"
+      "title": "| Gaúcha Atualidade | 12/08/2026",
+      "videoId": "qjcaIiOWjlo",
+      "url": "https://www.youtube.com/watch?v=qjcaIiOWjlo",
+      "thumbnail": "https://i.ytimg.com/vi/qjcaIiOWjlo/mqdefault_live.jpg",
+      "published": "2026-08-11T13:50:33Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO SE REAPRESENTA NESTA TERÇA E CONHECE O CAMINHO NA COPA DO BRASIL | REDAÇÃO IMORTAL",
-      "videoId": "E9B6nwPtyr0",
-      "url": "https://www.youtube.com/watch?v=E9B6nwPtyr0",
-      "thumbnail": "https://i.ytimg.com/vi/E9B6nwPtyr0/mqdefault_live.jpg",
-      "published": "2026-08-11T12:32:52Z"
+      "title": "GRÊMIO VENCE E SOBE NA TABELA | SORTEIO DA COPA DO BRASIL | NOITES DE GRÊMIO #125 - 10/08",
+      "videoId": "5YCM7wPGAz8",
+      "url": "https://www.youtube.com/watch?v=5YCM7wPGAz8",
+      "thumbnail": "https://i.ytimg.com/vi/5YCM7wPGAz8/mqdefault.jpg",
+      "published": "2026-08-11T13:42:19Z"
     },
     {
       "channel": "Radio Imortal",
