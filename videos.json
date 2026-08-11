@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-11T00:00:36.229278+00:00",
+  "updated_at": "2026-08-11T01:00:34.631372+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: EXPECTATIVA PARA O SORTEIO DA COPA DO BRASIL |  ELE ESTÁ DE VOLTA",
+      "videoId": "vSRlCtSK1CU",
+      "url": "https://www.youtube.com/watch?v=vSRlCtSK1CU",
+      "thumbnail": "https://i.ytimg.com/vi/vSRlCtSK1CU/mqdefault_live.jpg",
+      "published": "2026-08-11T00:27:55Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 LANCES DE MARIPAN CONTRA O PALMEIRAS! | BOTOU ALMA NA ZAGA | VEJA OS LANCES!",
@@ -11,32 +19,24 @@
       "published": "2026-08-10T21:50:16Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA O QUE PAVÓN FEZ PARA CAVAR DEFINITIVAMENTE ESPAÇO NO TIME TITULAR DE CASTRO",
-      "videoId": "v4bHwzE6FE8",
-      "url": "https://www.youtube.com/watch?v=v4bHwzE6FE8",
-      "thumbnail": "https://i.ytimg.com/vi/v4bHwzE6FE8/mqdefault.jpg",
-      "published": "2026-08-10T20:00:13Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🟣RESENHA FORA DA SALA NOITE🟣#001",
       "videoId": "vVXRybjZi9s",
       "url": "https://www.youtube.com/watch?v=vVXRybjZi9s",
-      "thumbnail": "https://i.ytimg.com/vi/vVXRybjZi9s/mqdefault_live.jpg",
-      "published": "2026-08-10T23:16:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/vVXRybjZi9s/mqdefault.jpg",
+      "published": "2026-08-11T00:44:15Z"
     },
     {
       "channel": "Bage TV",
-      "title": "Z4 PEGANDO FOGO! GRÊMIO RESPIRA, RENOVAÇÃO À VISTA E MERCADO AGITADO📰BAGÉTV NEWS #013",
-      "videoId": "EWjPXf5fCmU",
-      "url": "https://www.youtube.com/watch?v=EWjPXf5fCmU",
-      "thumbnail": "https://i.ytimg.com/vi/EWjPXf5fCmU/mqdefault.jpg",
-      "published": "2026-08-10T22:17:06Z"
+      "title": "🌃🔵 BOA NOITE GRÊMIO #001",
+      "videoId": "bvI5xIzLy7Y",
+      "url": "https://www.youtube.com/watch?v=bvI5xIzLy7Y",
+      "thumbnail": "https://i.ytimg.com/vi/bvI5xIzLy7Y/mqdefault_live.jpg",
+      "published": "2026-08-11T00:31:45Z"
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨NARDONI SERÁ TROCADO | REVIRAVOLTA EM NEGÓCIO | NOVIDADE DA BASE NO PROFISSIONAL DO GRÊMIO!",
+      "title": "🚨NARDONI SERÁ TROCADO PELO CROATA | REVIRAVOLTA EM NEGÓCIO | NOVIDADE DA BASE NO GRÊMIO!",
       "videoId": "PHTOaFfZbHs",
       "url": "https://www.youtube.com/watch?v=PHTOaFfZbHs",
       "thumbnail": "https://i.ytimg.com/vi/PHTOaFfZbHs/mqdefault.jpg",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - RENOVAÇÕES | SAÍDA DE PEREZ  | COPA DO BRASIL | BRASILEIRÃO E MAIS",
+      "videoId": "LHBWxNh0PDA",
+      "url": "https://www.youtube.com/watch?v=LHBWxNh0PDA",
+      "thumbnail": "https://i.ytimg.com/vi/LHBWxNh0PDA/mqdefault_live.jpg",
+      "published": "2026-08-11T00:00:36Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #649: Novos titulares do Grêmio | Renovações | Copa do Brasil | Nova camisa e mais",
       "videoId": "-J4NQDaSRxU",
       "url": "https://www.youtube.com/watch?v=-J4NQDaSRxU",
       "thumbnail": "https://i.ytimg.com/vi/-J4NQDaSRxU/mqdefault.jpg",
       "published": "2026-08-10T21:05:46Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - RENOVAÇÕES | SAÍDA DE PEREZ  | COPA DO BRASIL | BRASILEIRÃO E MAIS",
-      "videoId": "LHBWxNh0PDA",
-      "url": "https://www.youtube.com/watch?v=LHBWxNh0PDA",
-      "thumbnail": "https://i.ytimg.com/vi/LHBWxNh0PDA/mqdefault_live.jpg",
-      "published": "2026-08-10T17:38:57Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "\"HOJE A VITÓRIA ERA NOSSA\" -  WEVERTON FALA SOBRE IMPORTANTE RESULTADO NO BRASILEIRÃO #futebol",
+      "videoId": "WB-FDT2JBLk",
+      "url": "https://www.youtube.com/watch?v=WB-FDT2JBLk",
+      "thumbnail": "https://i.ytimg.com/vi/WB-FDT2JBLk/mqdefault.jpg",
+      "published": "2026-08-11T00:30:36Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "BASTIDORES | GRÊMIO 2x1 SÃO PAULO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "4-4hA1BoIe0",
       "url": "https://www.youtube.com/watch?v=4-4hA1BoIe0",
       "thumbnail": "https://i.ytimg.com/vi/4-4hA1BoIe0/mqdefault.jpg",
       "published": "2026-08-10T22:03:34Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "DESAFIO DOS CRAQUES",
-      "videoId": "MezKeE429fg",
-      "url": "https://www.youtube.com/watch?v=MezKeE429fg",
-      "thumbnail": "https://i.ytimg.com/vi/MezKeE429fg/mqdefault.jpg",
-      "published": "2026-08-10T19:31:27Z"
     },
     {
       "channel": "GZH Digital",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Vai ter Gre-Nal da CB? Negócios do Inter e bastidores do Grêmio",
+      "videoId": "mQwTQTBkNXg",
+      "url": "https://www.youtube.com/watch?v=mQwTQTBkNXg",
+      "thumbnail": "https://i.ytimg.com/vi/mQwTQTBkNXg/mqdefault_live.jpg",
+      "published": "2026-08-11T00:58:48Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "A tentativa do Inter pela contratação do congolês Bakambu 🇵🇱",
       "videoId": "aBQ-XKouDW0",
       "url": "https://www.youtube.com/watch?v=aBQ-XKouDW0",
       "thumbnail": "https://i.ytimg.com/vi/aBQ-XKouDW0/mqdefault.jpg",
       "published": "2026-08-10T22:48:21Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "A proposta do Inter para ter Niclas Eliasson 🇵🇱",
-      "videoId": "HvsIZU8xPRE",
-      "url": "https://www.youtube.com/watch?v=HvsIZU8xPRE",
-      "thumbnail": "https://i.ytimg.com/vi/HvsIZU8xPRE/mqdefault.jpg",
-      "published": "2026-08-10T20:24:29Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE E SOBE NA TABELA | SORTEIO DA COPA DO BRASIL | NOITES DE GRÊMIO #125 - 10/08",
+      "videoId": "5YCM7wPGAz8",
+      "url": "https://www.youtube.com/watch?v=5YCM7wPGAz8",
+      "thumbnail": "https://i.ytimg.com/vi/5YCM7wPGAz8/mqdefault_live.jpg",
+      "published": "2026-08-11T00:00:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 11/08",
       "videoId": "aaKDY3RbIsE",
       "url": "https://www.youtube.com/watch?v=aaKDY3RbIsE",
       "thumbnail": "https://i.ytimg.com/vi/aaKDY3RbIsE/mqdefault_live.jpg",
       "published": "2026-08-10T23:35:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | SORTEIO DA COPA DO BRASIL | PROJEÇÃO E O CAMINHO DO GRÊMIO | COMO É BOM SER DO GRÊMIO #17",
-      "videoId": "vW6Gkvfw4WE",
-      "url": "https://www.youtube.com/watch?v=vW6Gkvfw4WE",
-      "thumbnail": "https://i.ytimg.com/vi/vW6Gkvfw4WE/mqdefault_live.jpg",
-      "published": "2026-08-10T23:30:03Z"
     }
   ]
 }
