@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T11:00:29.046629+00:00",
+  "updated_at": "2026-08-11T11:41:02.080847+00:00",
   "total": 30,
   "videos": [
     {
@@ -184,7 +184,7 @@
       "videoId": "mQwTQTBkNXg",
       "url": "https://www.youtube.com/watch?v=mQwTQTBkNXg",
       "thumbnail": "https://i.ytimg.com/vi/mQwTQTBkNXg/mqdefault_live.jpg",
-      "published": "2026-08-11T00:58:48Z"
+      "published": "2026-08-11T11:02:34Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "G9FcQSaTtzU",
       "url": "https://www.youtube.com/watch?v=G9FcQSaTtzU",
       "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault_live.jpg",
-      "published": "2026-08-11T10:43:01Z"
+      "published": "2026-08-11T11:01:53Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO SE REAPRESENTA NESTA TERÇA E CONHECE O CAMINHO NA COPA DO BRASIL | REDAÇÃO IMORTAL",
+      "videoId": "E9B6nwPtyr0",
+      "url": "https://www.youtube.com/watch?v=E9B6nwPtyr0",
+      "thumbnail": "https://i.ytimg.com/vi/E9B6nwPtyr0/mqdefault_live.jpg",
+      "published": "2026-08-11T11:00:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE E SOBE NA TABELA | SORTEIO DA COPA DO BRASIL | NOITES DE GRÊMIO #125 - 10/08",
       "videoId": "5YCM7wPGAz8",
       "url": "https://www.youtube.com/watch?v=5YCM7wPGAz8",
       "thumbnail": "https://i.ytimg.com/vi/5YCM7wPGAz8/mqdefault_live.jpg",
       "published": "2026-08-11T01:31:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 11/08",
-      "videoId": "aaKDY3RbIsE",
-      "url": "https://www.youtube.com/watch?v=aaKDY3RbIsE",
-      "thumbnail": "https://i.ytimg.com/vi/aaKDY3RbIsE/mqdefault_live.jpg",
-      "published": "2026-08-10T23:35:46Z"
     }
   ]
 }
