@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-11T14:17:39.754051+00:00",
+  "updated_at": "2026-08-11T15:00:41.421431+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla ESPECIAL: VAI TER GRE-NAL NA COPA DO BRASIL!!!! | O PAU VAI PEGAR!",
+      "videoId": "H3UVrbuFyx4",
+      "url": "https://www.youtube.com/watch?v=H3UVrbuFyx4",
+      "thumbnail": "https://i.ytimg.com/vi/H3UVrbuFyx4/mqdefault_live.jpg",
+      "published": "2026-08-11T14:56:47Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 VAZOU DOCUMENTO | VÃO ANUNCIAR | VILLAGRA VOLTA | MILHÕES!",
@@ -11,12 +19,12 @@
       "published": "2026-08-11T06:59:28Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: MUDANÇA NO TIME! Krovinović perto de estrear | O que acontece com Gabriel Mec?",
-      "videoId": "4cyMb6QLlTk",
-      "url": "https://www.youtube.com/watch?v=4cyMb6QLlTk",
-      "thumbnail": "https://i.ytimg.com/vi/4cyMb6QLlTk/mqdefault.jpg",
-      "published": "2026-08-11T05:00:11Z"
+      "channel": "Bage TV",
+      "title": "BOLEIRAGi - REACT AO VIVO SORTEIO COPA DO BRASIL #042",
+      "videoId": "VlxdlyghepM",
+      "url": "https://www.youtube.com/watch?v=VlxdlyghepM",
+      "thumbnail": "https://i.ytimg.com/vi/VlxdlyghepM/mqdefault_live.jpg",
+      "published": "2026-08-11T14:52:26Z"
     },
     {
       "channel": "Bage TV",
@@ -27,12 +35,12 @@
       "published": "2026-08-11T13:48:50Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi - REACT AO VIVO SORTEIO COPA DO BRASIL #042",
-      "videoId": "VlxdlyghepM",
-      "url": "https://www.youtube.com/watch?v=VlxdlyghepM",
-      "thumbnail": "https://i.ytimg.com/vi/VlxdlyghepM/mqdefault_live.jpg",
-      "published": "2026-08-11T13:37:59Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONTRATA JOVEM JOGADOR | GRE-NAL NA COPA DO BRASIL! PRA CIMA DELES! | CONFRONTOS DEFINIDOS!",
+      "videoId": "RtFL-XcaGTE",
+      "url": "https://www.youtube.com/watch?v=RtFL-XcaGTE",
+      "thumbnail": "https://i.ytimg.com/vi/RtFL-XcaGTE/mqdefault.jpg",
+      "published": "2026-08-11T14:48:20Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=PHTOaFfZbHs",
       "thumbnail": "https://i.ytimg.com/vi/PHTOaFfZbHs/mqdefault.jpg",
       "published": "2026-08-10T23:22:24Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TÁ FORA! GRÊMIO ANUNCIA SAÍDA | TIME DESEQUILIBRADO | TEMOS NOVO PROBLEMA NA ZAGA?",
-      "videoId": "SwQ-PpXdZJ0",
-      "url": "https://www.youtube.com/watch?v=SwQ-PpXdZJ0",
-      "thumbnail": "https://i.ytimg.com/vi/SwQ-PpXdZJ0/mqdefault.jpg",
-      "published": "2026-08-10T14:59:22Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRE-NAL NA COPA DO BRASIL! GRÊMIO DECIDI EM CASA. #gremio #inter #grenal #CopaDoBrasil",
+      "videoId": "RfG8t1N5kWk",
+      "url": "https://www.youtube.com/watch?v=RfG8t1N5kWk",
+      "thumbnail": "https://i.ytimg.com/vi/RfG8t1N5kWk/mqdefault.jpg",
+      "published": "2026-08-11T14:30:42Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ATRASO, DÍVIDA E AUMENTO: CARLOS VINÍCIUS | SUBSTITUTO DO PÉREZ NO GRÊMIO.",
       "videoId": "OEBf5kUvmCs",
       "url": "https://www.youtube.com/watch?v=OEBf5kUvmCs",
       "thumbnail": "https://i.ytimg.com/vi/OEBf5kUvmCs/mqdefault.jpg",
       "published": "2026-08-10T21:30:50Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DUAS CONFIRMAÇÕES DO GRÊMIO NO DOMINGO. LEONEL PEREZ E DENIS MARFO.#gremio #futebol",
-      "videoId": "Nft2ffxKmDs",
-      "url": "https://www.youtube.com/watch?v=Nft2ffxKmDs",
-      "thumbnail": "https://i.ytimg.com/vi/Nft2ffxKmDs/mqdefault.jpg",
-      "published": "2026-08-10T14:00:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Caso Oliver, homem em situação de rua incendiado, Martinho da Vila e mais | Timeline | 11/08/2026",
-      "videoId": "ElXOL5TT9j4",
-      "url": "https://www.youtube.com/watch?v=ElXOL5TT9j4",
-      "thumbnail": "https://i.ytimg.com/vi/ElXOL5TT9j4/mqdefault_live.jpg",
-      "published": "2026-08-11T13:56:02Z"
+      "title": "A gigante dos alimentos: conheça os bastidores da Ceasa | No Caminho do Agro #006",
+      "videoId": "FVP9E9hYhE4",
+      "url": "https://www.youtube.com/watch?v=FVP9E9hYhE4",
+      "thumbnail": "https://i.ytimg.com/vi/FVP9E9hYhE4/mqdefault.jpg",
+      "published": "2026-08-11T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 12/08/2026",
-      "videoId": "qjcaIiOWjlo",
-      "url": "https://www.youtube.com/watch?v=qjcaIiOWjlo",
-      "thumbnail": "https://i.ytimg.com/vi/qjcaIiOWjlo/mqdefault_live.jpg",
-      "published": "2026-08-11T13:50:33Z"
+      "title": "| Gaúcha+ | 11/08/2026",
+      "videoId": "MB-P75LdRBw",
+      "url": "https://www.youtube.com/watch?v=MB-P75LdRBw",
+      "thumbnail": "https://i.ytimg.com/vi/MB-P75LdRBw/mqdefault_live.jpg",
+      "published": "2026-08-11T14:55:53Z"
     },
     {
       "channel": "Jeremias Wernek",
