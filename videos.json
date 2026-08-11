@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:37:02.194861+00:00",
+  "updated_at": "2026-08-11T23:00:31.664097+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "OPINIÃO DO FARID | EU SEMPRE QUIS GRENAL!!! | 11/08/2026",
+      "videoId": "vmgNI--2WMk",
+      "url": "https://www.youtube.com/watch?v=vmgNI--2WMk",
+      "thumbnail": "https://i.ytimg.com/vi/vmgNI--2WMk/mqdefault.jpg",
+      "published": "2026-08-11T23:00:06Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO | REESTREIA ESPECIAL COM SORTEIO DE BRINDES | 12/08/2026",
       "videoId": "G5FgLZKxMdI",
       "url": "https://www.youtube.com/watch?v=G5FgLZKxMdI",
       "thumbnail": "https://i.ytimg.com/vi/G5FgLZKxMdI/mqdefault_live.jpg",
       "published": "2026-08-11T18:12:37Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X SÃO PAULO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 08/08/2026",
-      "videoId": "YHRfFHHi4zE",
-      "url": "https://www.youtube.com/watch?v=YHRfFHHi4zE",
-      "thumbnail": "https://i.ytimg.com/vi/YHRfFHHi4zE/mqdefault.jpg",
-      "published": "2026-08-08T22:08:49Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS REAÇÕES DA RÁDIO IMORTAL AO SORTEIO DA COPA DO BRASIL | GRENAL FOI BOM PARA O GRÊMIO?",
+      "videoId": "AibXSlI-ALw",
+      "url": "https://www.youtube.com/watch?v=AibXSlI-ALw",
+      "thumbnail": "https://i.ytimg.com/vi/AibXSlI-ALw/mqdefault.jpg",
+      "published": "2026-08-11T22:48:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TEREMOS GRENAL NA COPA DO BRASIL! | O SORTEIO FOI BOM? | CALENDÁRIO COMPLETO DO GRÊMIO | IMORTAL FC",
       "videoId": "iMyjISGRpx8",
       "url": "https://www.youtube.com/watch?v=iMyjISGRpx8",
       "thumbnail": "https://i.ytimg.com/vi/iMyjISGRpx8/mqdefault.jpg",
       "published": "2026-08-11T22:12:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FUTURO TÉCNICO? EDILSON E MAESTRO DOUGLAS FALAM DE CORTEZ COMO TREINADOR! | COMO É BOM SER DO GRÊMIO",
-      "videoId": "l3lebqEiQQU",
-      "url": "https://www.youtube.com/watch?v=l3lebqEiQQU",
-      "thumbnail": "https://i.ytimg.com/vi/l3lebqEiQQU/mqdefault.jpg",
-      "published": "2026-08-11T22:10:32Z"
     }
   ]
 }
