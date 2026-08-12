@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T11:00:32.499321+00:00",
+  "updated_at": "2026-08-12T11:02:01.570861+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "WILLIAN E GRÊMIO FECHAM ACORDO! #gremio #futebol",
+      "videoId": "4Tf8rC4vNj4",
+      "url": "https://www.youtube.com/watch?v=4Tf8rC4vNj4",
+      "thumbnail": "https://i.ytimg.com/vi/4Tf8rC4vNj4/mqdefault.jpg",
+      "published": "2026-08-12T11:00:24Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "COMEÇOU O GRE-NAL! CUIDADO COM AS NARRATIVAS E DISCURSOS! #gremio #futebol #grenal #CopaDoBrasil",
       "videoId": "e8Vws1T3CXs",
       "url": "https://www.youtube.com/watch?v=e8Vws1T3CXs",
       "thumbnail": "https://i.ytimg.com/vi/e8Vws1T3CXs/mqdefault.jpg",
       "published": "2026-08-12T01:00:22Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "POLÊMICA NO SORTEIO | CRISE NO GRÊMIO? | PRÊMIO E JUIZ DO GRE-NAL | KROVINOVIC NA COPA DO BRASIL?",
-      "videoId": "K9eSGI5FdDE",
-      "url": "https://www.youtube.com/watch?v=K9eSGI5FdDE",
-      "thumbnail": "https://i.ytimg.com/vi/K9eSGI5FdDE/mqdefault.jpg",
-      "published": "2026-08-11T20:04:48Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "11/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "Aldf5sdLM8Y",
+      "url": "https://www.youtube.com/watch?v=Aldf5sdLM8Y",
+      "thumbnail": "https://i.ytimg.com/vi/Aldf5sdLM8Y/mqdefault_live.jpg",
+      "published": "2026-08-12T11:01:38Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "11/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "G9FcQSaTtzU",
       "url": "https://www.youtube.com/watch?v=G9FcQSaTtzU",
       "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault.jpg",
       "published": "2026-08-11T23:37:47Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "OTIMISTA! 🇮🇩 #inter #colorado #gremio #grenal #copadobrasil #futebol",
-      "videoId": "ZqKx7DF_sXw",
-      "url": "https://www.youtube.com/watch?v=ZqKx7DF_sXw",
-      "thumbnail": "https://i.ytimg.com/vi/ZqKx7DF_sXw/mqdefault.jpg",
-      "published": "2026-08-11T16:38:44Z"
     },
     {
       "channel": "Radio Imortal",
