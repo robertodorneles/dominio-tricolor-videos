@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:00:34.507259+00:00",
+  "updated_at": "2026-08-12T12:59:59.941649+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 11.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "892fjhq2K2U",
+      "url": "https://www.youtube.com/watch?v=892fjhq2K2U",
+      "thumbnail": "https://i.ytimg.com/vi/892fjhq2K2U/mqdefault_live.jpg",
+      "published": "2026-08-12T12:00:22Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "PESADO DEMAIS! MARCELO CONTA TODOS OS DETALHES DO GRUPO ABSURDO DO REAL MADRID | Cortes do Duda",
       "videoId": "Czyg33seRIs",
       "url": "https://www.youtube.com/watch?v=Czyg33seRIs",
       "thumbnail": "https://i.ytimg.com/vi/Czyg33seRIs/mqdefault.jpg",
       "published": "2026-08-11T22:00:14Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "RESENHA DIEGO COSTA X SERGIO RAMOS #dudagarbi #umassadopara",
-      "videoId": "IrndXz6dgF4",
-      "url": "https://www.youtube.com/watch?v=IrndXz6dgF4",
-      "thumbnail": "https://i.ytimg.com/vi/IrndXz6dgF4/mqdefault.jpg",
-      "published": "2026-08-11T22:00:11Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: O dia seguinte ao sorteio e os efeitos do Gre-Nal na Arena e Beira-Rio",
       "videoId": "IMiBj66xAVY",
       "url": "https://www.youtube.com/watch?v=IMiBj66xAVY",
-      "thumbnail": "https://i.ytimg.com/vi/IMiBj66xAVY/mqdefault_live.jpg",
-      "published": "2026-08-12T11:05:37Z"
+      "thumbnail": "https://i.ytimg.com/vi/IMiBj66xAVY/mqdefault.jpg",
+      "published": "2026-08-12T12:28:43Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,15 +232,15 @@
       "videoId": "4OJqEdG11kY",
       "url": "https://www.youtube.com/watch?v=4OJqEdG11kY",
       "thumbnail": "https://i.ytimg.com/vi/4OJqEdG11kY/mqdefault_live.jpg",
-      "published": "2026-08-12T11:02:44Z"
+      "published": "2026-08-12T12:35:49Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ENTREVISTA EXCLUSIVA COM RAFAEL LIMA | GRENAL NA COPA DO BRASIL!  | NOITES DE GRÊMIO #126 - 11/08",
-      "videoId": "k-LzmKO5Se4",
-      "url": "https://www.youtube.com/watch?v=k-LzmKO5Se4",
-      "thumbnail": "https://i.ytimg.com/vi/k-LzmKO5Se4/mqdefault.jpg",
-      "published": "2026-08-12T01:46:41Z"
+      "title": "DATAS DO GRENAL CONFIRMADAS | GRÊMIO ACERTA SAÍDA  | COMO É BOM SER DO GRÊMIO #18",
+      "videoId": "oqbB7ZjoYCE",
+      "url": "https://www.youtube.com/watch?v=oqbB7ZjoYCE",
+      "thumbnail": "https://i.ytimg.com/vi/oqbB7ZjoYCE/mqdefault_live.jpg",
+      "published": "2026-08-12T12:32:58Z"
     }
   ]
 }
