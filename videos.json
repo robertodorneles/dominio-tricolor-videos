@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-12T17:00:33.955736+00:00",
+  "updated_at": "2026-08-12T17:55:09.024772+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ O QUE HÁ POR TRÁS? | ABEL ABRIU O JOGO | SUECO CHEGANDO!",
+      "videoId": "5GWjedxjsqQ",
+      "url": "https://www.youtube.com/watch?v=5GWjedxjsqQ",
+      "thumbnail": "https://i.ytimg.com/vi/5GWjedxjsqQ/mqdefault.jpg",
+      "published": "2026-08-12T17:09:28Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🧠 SILÊNCIO!! PROFISSIONAL TRABALHANDO NO VESTIÁRIO DO GRÊMIO",
@@ -11,20 +19,12 @@
       "published": "2026-08-12T15:01:52Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: GRE-NAL MUDA PLANOS! Direção admite reforços | Willian sai | Krovinović perto",
-      "videoId": "cYugeyu3kAc",
-      "url": "https://www.youtube.com/watch?v=cYugeyu3kAc",
-      "thumbnail": "https://i.ytimg.com/vi/cYugeyu3kAc/mqdefault.jpg",
-      "published": "2026-08-12T05:00:26Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "NICLAS ELIASSON PODE DAR ERRADO POR CAUSA DESSE VAZAMENTO #BOLEIRAGI",
-      "videoId": "OLGbLlksWgw",
-      "url": "https://www.youtube.com/watch?v=OLGbLlksWgw",
-      "thumbnail": "https://i.ytimg.com/vi/OLGbLlksWgw/mqdefault.jpg",
-      "published": "2026-08-12T16:51:11Z"
+      "title": "A pergunta do Jairo quebrou ele.",
+      "videoId": "-dR9TXuDswo",
+      "url": "https://www.youtube.com/watch?v=-dR9TXuDswo",
+      "thumbnail": "https://i.ytimg.com/vi/-dR9TXuDswo/mqdefault.jpg",
+      "published": "2026-08-12T17:15:28Z"
     },
     {
       "channel": "Bage TV",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Leonardo Gaciba é o novo contratado do Grêmio | Saiba o que ele irá fazer",
+      "videoId": "OgpttJkUF2Q",
+      "url": "https://www.youtube.com/watch?v=OgpttJkUF2Q",
+      "thumbnail": "https://i.ytimg.com/vi/OgpttJkUF2Q/mqdefault.jpg",
+      "published": "2026-08-12T17:12:14Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Inter encerra tratativas com atacante do Congo e fica próximo de fechar com sueco | Atuação de Arce",
       "videoId": "uW7uNFZtNww",
       "url": "https://www.youtube.com/watch?v=uW7uNFZtNww",
@@ -91,12 +99,12 @@
       "published": "2026-08-12T15:42:08Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Condição legal de Krovi | Marlon punido | Jogadores arquivados | Onde será a transmissão do GreNal",
-      "videoId": "mnaM67ZrMuk",
-      "url": "https://www.youtube.com/watch?v=mnaM67ZrMuk",
-      "thumbnail": "https://i.ytimg.com/vi/mnaM67ZrMuk/mqdefault.jpg",
-      "published": "2026-08-12T13:48:28Z"
+      "channel": "Careca de Saber TV",
+      "title": "LEONARDO GACIBA NO GRÊMIO! #gremio #futebol #CBF #juiz",
+      "videoId": "3r1XhTL04Bo",
+      "url": "https://www.youtube.com/watch?v=3r1XhTL04Bo",
+      "thumbnail": "https://i.ytimg.com/vi/3r1XhTL04Bo/mqdefault.jpg",
+      "published": "2026-08-12T17:47:10Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=4Tf8rC4vNj4",
       "thumbnail": "https://i.ytimg.com/vi/4Tf8rC4vNj4/mqdefault.jpg",
       "published": "2026-08-12T11:00:24Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "COMEÇOU O GRE-NAL! CUIDADO COM AS NARRATIVAS E DISCURSOS! #gremio #futebol #grenal #CopaDoBrasil",
-      "videoId": "e8Vws1T3CXs",
-      "url": "https://www.youtube.com/watch?v=e8Vws1T3CXs",
-      "thumbnail": "https://i.ytimg.com/vi/e8Vws1T3CXs/mqdefault.jpg",
-      "published": "2026-08-12T01:00:22Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,7 +132,7 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 11.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "title": "HOSPÍCIO | 12.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "892fjhq2K2U",
       "url": "https://www.youtube.com/watch?v=892fjhq2K2U",
       "thumbnail": "https://i.ytimg.com/vi/892fjhq2K2U/mqdefault.jpg",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL I MASC I SUB-15 (CAMPEONATO GAÚCHO 2026)",
+      "videoId": "0INDkaDlDXw",
+      "url": "https://www.youtube.com/watch?v=0INDkaDlDXw",
+      "thumbnail": "https://i.ytimg.com/vi/0INDkaDlDXw/mqdefault_live.jpg",
+      "published": "2026-08-12T17:41:36Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "BASTIDORES | GRÊMIO 2 X 0 CRUZEIRO (CAMPEONATO BRASILEIRO FEMININO A1)",
       "videoId": "NgYoU1LYb-o",
       "url": "https://www.youtube.com/watch?v=NgYoU1LYb-o",
@@ -155,28 +163,28 @@
       "published": "2026-08-11T21:30:33Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "REAPRESENTAÇÃO COM TREINO TÉCNICO NO CT PRESIDENTE LUIZ CARVALHO",
-      "videoId": "WmYdB4hVhXE",
-      "url": "https://www.youtube.com/watch?v=WmYdB4hVhXE",
-      "thumbnail": "https://i.ytimg.com/vi/WmYdB4hVhXE/mqdefault.jpg",
-      "published": "2026-08-11T19:50:25Z"
+      "channel": "GZH Digital",
+      "title": "BABY BOOMERS à GERAÇÃO Z: pesquisa revela perfil de empreendedores gaúchos por idade e território",
+      "videoId": "vGB_1ChnGm8",
+      "url": "https://www.youtube.com/watch?v=vGB_1ChnGm8",
+      "thumbnail": "https://i.ytimg.com/vi/vGB_1ChnGm8/mqdefault.jpg",
+      "published": "2026-08-12T17:46:50Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Destroços de navios NAZISTAS são encontrados em rio europeu",
-      "videoId": "k7J2IaPwALw",
-      "url": "https://www.youtube.com/watch?v=k7J2IaPwALw",
-      "thumbnail": "https://i.ytimg.com/vi/k7J2IaPwALw/mqdefault.jpg",
-      "published": "2026-08-12T15:30:27Z"
+      "title": "DISCORD TEM LIVES SUSPENSAS NO BRASIL",
+      "videoId": "OqE7XVUEIwA",
+      "url": "https://www.youtube.com/watch?v=OqE7XVUEIwA",
+      "thumbnail": "https://i.ytimg.com/vi/OqE7XVUEIwA/mqdefault.jpg",
+      "published": "2026-08-12T17:16:38Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Antonio Lacerda, diretor-geral da CMPC | Liderança em Sala #008",
-      "videoId": "PZHubVo9lzQ",
-      "url": "https://www.youtube.com/watch?v=PZHubVo9lzQ",
-      "thumbnail": "https://i.ytimg.com/vi/PZHubVo9lzQ/mqdefault.jpg",
-      "published": "2026-08-12T15:00:06Z"
+      "channel": "Jeremias Wernek",
+      "title": "Treta nos bastidores do Gre-Nal + patrocínio casado?",
+      "videoId": "74wbINYdTbc",
+      "url": "https://www.youtube.com/watch?v=74wbINYdTbc",
+      "thumbnail": "https://i.ytimg.com/vi/74wbINYdTbc/mqdefault.jpg",
+      "published": "2026-08-12T17:39:12Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -187,12 +195,12 @@
       "published": "2026-08-12T12:28:43Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "GRE-NAL NA COPA DO BRASIL: Quem chega melhor e meu palpite sobre quem passa",
-      "videoId": "8QswCHqF0ss",
-      "url": "https://www.youtube.com/watch?v=8QswCHqF0ss",
-      "thumbnail": "https://i.ytimg.com/vi/8QswCHqF0ss/mqdefault.jpg",
-      "published": "2026-08-12T01:05:33Z"
+      "channel": "LH Benfica",
+      "title": "🚨GRANDE NOTÍCIA: UM BAITA REFORÇO PRO TIME DO GRÊMIO | CONTRATO RESCINDIDO | TITULAR AMEAÇADO",
+      "videoId": "5SKE6TA5Ij0",
+      "url": "https://www.youtube.com/watch?v=5SKE6TA5Ij0",
+      "thumbnail": "https://i.ytimg.com/vi/5SKE6TA5Ij0/mqdefault.jpg",
+      "published": "2026-08-12T17:43:07Z"
     },
     {
       "channel": "LH Benfica",
@@ -203,16 +211,8 @@
       "published": "2026-08-11T18:57:44Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO CONFIRMA ACERTO DE JOGADOR | NOVO NEGÓCIO FECHADO | DECISÃO TOMADA SOBRE MEC",
-      "videoId": "n5Wf-EmV0Do",
-      "url": "https://www.youtube.com/watch?v=n5Wf-EmV0Do",
-      "thumbnail": "https://i.ytimg.com/vi/n5Wf-EmV0Do/mqdefault.jpg",
-      "published": "2026-08-10T17:15:56Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "12/08/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "12/08/2026 | ESQUENTANDO O JOGO | GRÊMIO X INTER | GAUCHÃO SUB-15",
       "videoId": "Aldf5sdLM8Y",
       "url": "https://www.youtube.com/watch?v=Aldf5sdLM8Y",
       "thumbnail": "https://i.ytimg.com/vi/Aldf5sdLM8Y/mqdefault_live.jpg",
