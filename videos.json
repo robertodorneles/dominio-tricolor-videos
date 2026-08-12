@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-12T20:00:19.116077+00:00",
+  "updated_at": "2026-08-12T20:55:47.889978+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Direção REAGE às críticas e mantém confiança no argentino | Injustiça identificada",
+      "videoId": "nPxLuA8-BQI",
+      "url": "https://www.youtube.com/watch?v=nPxLuA8-BQI",
+      "thumbnail": "https://i.ytimg.com/vi/nPxLuA8-BQI/mqdefault.jpg",
+      "published": "2026-08-12T20:00:31Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ O QUE HÁ POR TRÁS? | ABEL ABRIU O JOGO | SUECO CHEGANDO!",
@@ -11,28 +19,20 @@
       "published": "2026-08-12T17:09:28Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🧠 SILÊNCIO!! PROFISSIONAL TRABALHANDO NO VESTIÁRIO DO GRÊMIO",
-      "videoId": "5oUfvaxOAJM",
-      "url": "https://www.youtube.com/watch?v=5oUfvaxOAJM",
-      "thumbnail": "https://i.ytimg.com/vi/5oUfvaxOAJM/mqdefault.jpg",
-      "published": "2026-08-12T15:01:52Z"
+      "channel": "Bage TV",
+      "title": "MEC NA TURQUIA? KROVINOVIC ESTREIA, CRISE NO CORINTHIANS E O DILEMA DE NEYMAR📰BAGÉTV NEWS #015",
+      "videoId": "XouP7PY0dfs",
+      "url": "https://www.youtube.com/watch?v=XouP7PY0dfs",
+      "thumbnail": "https://i.ytimg.com/vi/XouP7PY0dfs/mqdefault_live.jpg",
+      "published": "2026-08-12T20:30:03Z"
     },
     {
       "channel": "Bage TV",
       "title": "KROVINOVIC NO DIÁRIO OFICIAL | MEC INTERESSA AO GALATASARAY 🔹 THE TARDE 🔹#200",
       "videoId": "I1c4xizMu50",
       "url": "https://www.youtube.com/watch?v=I1c4xizMu50",
-      "thumbnail": "https://i.ytimg.com/vi/I1c4xizMu50/mqdefault_live.jpg",
-      "published": "2026-08-12T19:46:08Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Alex Bagé gostou do sorteio da Copa do Brasil.",
-      "videoId": "tDAeYaN--7U",
-      "url": "https://www.youtube.com/watch?v=tDAeYaN--7U",
-      "thumbnail": "https://i.ytimg.com/vi/tDAeYaN--7U/mqdefault.jpg",
-      "published": "2026-08-12T19:22:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/I1c4xizMu50/mqdefault.jpg",
+      "published": "2026-08-12T20:04:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #651: Gabriel Mec | Derrota na base | Gaciba | Rescisões | Krovinovic e mais",
+      "videoId": "UQIIH45Yw3Q",
+      "url": "https://www.youtube.com/watch?v=UQIIH45Yw3Q",
+      "thumbnail": "https://i.ytimg.com/vi/UQIIH45Yw3Q/mqdefault.jpg",
+      "published": "2026-08-12T20:55:23Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #650: Grenal na Copa do Brasil | Marcelo Marques | Tetê | Krovinovic | Willian e +",
       "videoId": "m73T6zhvEok",
       "url": "https://www.youtube.com/watch?v=m73T6zhvEok",
       "thumbnail": "https://i.ytimg.com/vi/m73T6zhvEok/mqdefault.jpg",
       "published": "2026-08-11T21:08:23Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio contrata jóia do Equador",
-      "videoId": "-vlCeaSX8cE",
-      "url": "https://www.youtube.com/watch?v=-vlCeaSX8cE",
-      "thumbnail": "https://i.ytimg.com/vi/-vlCeaSX8cE/mqdefault.jpg",
-      "published": "2026-08-11T14:02:59Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Leonardo Gaciba é o novo contratado do Grêmio",
+      "videoId": "upA766sXvQY",
+      "url": "https://www.youtube.com/watch?v=upA766sXvQY",
+      "thumbnail": "https://i.ytimg.com/vi/upA766sXvQY/mqdefault.jpg",
+      "published": "2026-08-12T20:05:38Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Inter encerra tratativas com atacante do Congo e fica próximo de fechar com sueco",
       "videoId": "DiXJCTn1EV8",
       "url": "https://www.youtube.com/watch?v=DiXJCTn1EV8",
       "thumbnail": "https://i.ytimg.com/vi/DiXJCTn1EV8/mqdefault.jpg",
       "published": "2026-08-12T18:01:15Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Leonardo Gaciba é o novo contratado do Grêmio | Saiba o que ele irá fazer",
-      "videoId": "OgpttJkUF2Q",
-      "url": "https://www.youtube.com/watch?v=OgpttJkUF2Q",
-      "thumbnail": "https://i.ytimg.com/vi/OgpttJkUF2Q/mqdefault.jpg",
-      "published": "2026-08-12T17:12:14Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Márcio Santoro, sócio cofundador da Africa Creative | Liderança em Sala #009",
-      "videoId": "gJ9XW8qVf60",
-      "url": "https://www.youtube.com/watch?v=gJ9XW8qVf60",
-      "thumbnail": "https://i.ytimg.com/vi/gJ9XW8qVf60/mqdefault.jpg",
-      "published": "2026-08-12T19:43:20Z"
+      "title": "Produto menor, mesmo preço: ajuste ou abuso econômico? | REAPRESENTAÇÃO | Conversas Cruzadas",
+      "videoId": "_s5ZDoe-2QY",
+      "url": "https://www.youtube.com/watch?v=_s5ZDoe-2QY",
+      "thumbnail": "https://i.ytimg.com/vi/_s5ZDoe-2QY/mqdefault.jpg",
+      "published": "2026-08-12T20:41:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Novas regras no Discord, perfil de diagnósticos de HIV, notícias do RS e mais | Gaúcha+ | 12/08/2026",
-      "videoId": "fX114l6IAcE",
-      "url": "https://www.youtube.com/watch?v=fX114l6IAcE",
-      "thumbnail": "https://i.ytimg.com/vi/fX114l6IAcE/mqdefault_live.jpg",
-      "published": "2026-08-12T19:37:07Z"
+      "title": "Moraes manda buscar fonte que expôs caso com família de Flávio Dino | Andei Pensando | 12/08/2026",
+      "videoId": "yQqjOKsSgng",
+      "url": "https://www.youtube.com/watch?v=yQqjOKsSgng",
+      "thumbnail": "https://i.ytimg.com/vi/yQqjOKsSgng/mqdefault.jpg",
+      "published": "2026-08-12T20:22:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO SEGUE PREPARAÇÃO EM BUSCA DA 1ª VITÓRIA FORA DE CASA | ESTREIA CONFIRMADA? | ESPLANADA",
-      "videoId": "23DZgLwsVOQ",
-      "url": "https://www.youtube.com/watch?v=23DZgLwsVOQ",
-      "thumbnail": "https://i.ytimg.com/vi/23DZgLwsVOQ/mqdefault.jpg",
-      "published": "2026-08-12T19:53:15Z"
+      "title": "EDILSON E DOUGLAS FALAM SOBRE O GRENAL: \"TEM QUE TER CONCENTRAÇÃO\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "7zhQVvyF2Pg",
+      "url": "https://www.youtube.com/watch?v=7zhQVvyF2Pg",
+      "thumbnail": "https://i.ytimg.com/vi/7zhQVvyF2Pg/mqdefault.jpg",
+      "published": "2026-08-12T20:27:23Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #132 — FALTA O BID PARA KROVINOVIC ESTREAR NO GRÊMIO | SAÍDA DE WILLIAN",
-      "videoId": "d9UPHVsDF8E",
-      "url": "https://www.youtube.com/watch?v=d9UPHVsDF8E",
-      "thumbnail": "https://i.ytimg.com/vi/d9UPHVsDF8E/mqdefault.jpg",
-      "published": "2026-08-12T15:40:41Z"
+      "title": "FILIPE KUNRATH TRAZ DETALHES SOBRE A SAÍDA DE LEONEL PÉREZ | COMO É BOM SER DO GRÊMIO",
+      "videoId": "1VdkyfkS9pc",
+      "url": "https://www.youtube.com/watch?v=1VdkyfkS9pc",
+      "thumbnail": "https://i.ytimg.com/vi/1VdkyfkS9pc/mqdefault.jpg",
+      "published": "2026-08-12T20:16:33Z"
     }
   ]
 }
