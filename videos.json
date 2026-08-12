@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:35:21.268202+00:00",
+  "updated_at": "2026-08-12T00:00:37.323449+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨RETORNO! ELE TÁ DE VOLTA | SAÍDA CONFIRMADA | SEQUÊNCIA PREPCUPA O GRÊMIO!",
+      "videoId": "SiLqwX2TiPk",
+      "url": "https://www.youtube.com/watch?v=SiLqwX2TiPk",
+      "thumbnail": "https://i.ytimg.com/vi/SiLqwX2TiPk/mqdefault.jpg",
+      "published": "2026-08-11T23:39:24Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRÊMIO CONTRATA JOVEM JOGADOR | GRE-NAL NA COPA DO BRASIL! PRA CIMA DELES! | CONFRONTOS DEFINIDOS!",
       "videoId": "RtFL-XcaGTE",
       "url": "https://www.youtube.com/watch?v=RtFL-XcaGTE",
       "thumbnail": "https://i.ytimg.com/vi/RtFL-XcaGTE/mqdefault.jpg",
       "published": "2026-08-11T14:48:20Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NARDONI SERÁ TROCADO PELO CROATA | REVIRAVOLTA EM NEGÓCIO | NOVIDADE DA BASE NO GRÊMIO!",
-      "videoId": "PHTOaFfZbHs",
-      "url": "https://www.youtube.com/watch?v=PHTOaFfZbHs",
-      "thumbnail": "https://i.ytimg.com/vi/PHTOaFfZbHs/mqdefault.jpg",
-      "published": "2026-08-10T23:22:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -215,8 +215,8 @@
       "title": "11/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "G9FcQSaTtzU",
       "url": "https://www.youtube.com/watch?v=G9FcQSaTtzU",
-      "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault_live.jpg",
-      "published": "2026-08-11T23:01:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/G9FcQSaTtzU/mqdefault.jpg",
+      "published": "2026-08-11T23:37:47Z"
     },
     {
       "channel": "Radio Grenal",
