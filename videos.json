@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:00:37.323373+00:00",
+  "updated_at": "2026-08-13T11:05:42.040711+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 13/08/2026",
+      "title": "Protocolo da BM para casos de surtos, golpe do falso investimento e+| Gaúcha Atualidade | 13/08/2026",
       "videoId": "8mVKIMffHdE",
       "url": "https://www.youtube.com/watch?v=8mVKIMffHdE",
       "thumbnail": "https://i.ytimg.com/vi/8mVKIMffHdE/mqdefault_live.jpg",
@@ -184,7 +184,7 @@
       "videoId": "yJLEFi3l2po",
       "url": "https://www.youtube.com/watch?v=yJLEFi3l2po",
       "thumbnail": "https://i.ytimg.com/vi/yJLEFi3l2po/mqdefault_live.jpg",
-      "published": "2026-08-13T01:04:42Z"
+      "published": "2026-08-13T11:02:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "13/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "DnGiJqu0sOI",
+      "url": "https://www.youtube.com/watch?v=DnGiJqu0sOI",
+      "thumbnail": "https://i.ytimg.com/vi/DnGiJqu0sOI/mqdefault_live.jpg",
+      "published": "2026-08-13T11:02:19Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "12/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Aldf5sdLM8Y",
       "url": "https://www.youtube.com/watch?v=Aldf5sdLM8Y",
@@ -219,12 +227,12 @@
       "published": "2026-08-12T23:30:06Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 0 X 3 INTER | NARRAÇÃO PC CARVALHO | RÁDIO GRENAL | 12/08/2026",
-      "videoId": "ZR2n-tWVxqs",
-      "url": "https://www.youtube.com/watch?v=ZR2n-tWVxqs",
-      "thumbnail": "https://i.ytimg.com/vi/ZR2n-tWVxqs/mqdefault.jpg",
-      "published": "2026-08-12T19:52:22Z"
+      "channel": "Radio Imortal",
+      "title": "O CROATA CHEGA PARA SER TITULAR? | GRÊMIO CONTRATA GACIBA | SONDAGEM POR GABRIEL MEC | REDAÇÃO",
+      "videoId": "Vrk7c2qOVC0",
+      "url": "https://www.youtube.com/watch?v=Vrk7c2qOVC0",
+      "thumbnail": "https://i.ytimg.com/vi/Vrk7c2qOVC0/mqdefault_live.jpg",
+      "published": "2026-08-13T11:01:23Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=domT62PTkTI",
       "thumbnail": "https://i.ytimg.com/vi/domT62PTkTI/mqdefault_live.jpg",
       "published": "2026-08-13T01:30:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
-      "videoId": "Ql3z9pnXOxk",
-      "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
-      "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault_live.jpg",
-      "published": "2026-08-12T23:00:31Z"
     }
   ]
 }
