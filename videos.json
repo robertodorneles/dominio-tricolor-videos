@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-13T20:39:37.750068+00:00",
-  "total": 30,
+  "updated_at": "2026-08-13T21:00:46.832925+00:00",
+  "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "💧 NÓS NÃO ENGOLIMOS ISSO AQUI!",
+      "videoId": "AlecHQ-gvOs",
+      "url": "https://www.youtube.com/watch?v=AlecHQ-gvOs",
+      "thumbnail": "https://i.ytimg.com/vi/AlecHQ-gvOs/mqdefault.jpg",
+      "published": "2026-08-13T20:56:49Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: O VACILO NA NOVELA ARCE | RIVADAVIA MUDOU DE IDEIA | VAI DAR TEMPO PRO GRENAL?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=KsLg5hmP0tU",
       "thumbnail": "https://i.ytimg.com/vi/KsLg5hmP0tU/mqdefault.jpg",
       "published": "2026-08-13T20:03:39Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA O QUE CASTRO PRETENDE COM A NOVA FORMAÇÃO DE MEIO CAMPO | ESTREIA DOMINGO",
-      "videoId": "iF5XaJfUstw",
-      "url": "https://www.youtube.com/watch?v=iF5XaJfUstw",
-      "thumbnail": "https://i.ytimg.com/vi/iF5XaJfUstw/mqdefault.jpg",
-      "published": "2026-08-13T20:00:24Z"
     },
     {
       "channel": "Bage TV",
@@ -52,35 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PÓS-JOGO: ATLÉTICO-MG X GRÊMIO",
+      "videoId": "i_-3rhy31bc",
+      "url": "https://www.youtube.com/watch?v=i_-3rhy31bc",
+      "thumbnail": "https://i.ytimg.com/vi/i_-3rhy31bc/mqdefault_live.jpg",
+      "published": "2026-08-13T20:40:24Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio surpreende e acerta com novo reforço",
       "videoId": "JQG6S80FXx4",
       "url": "https://www.youtube.com/watch?v=JQG6S80FXx4",
       "thumbnail": "https://i.ytimg.com/vi/JQG6S80FXx4/mqdefault.jpg",
       "published": "2026-08-13T16:58:47Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio está contratando Danilo Barbosa",
-      "videoId": "FwGTELRDrv0",
-      "url": "https://www.youtube.com/watch?v=FwGTELRDrv0",
-      "thumbnail": "https://i.ytimg.com/vi/FwGTELRDrv0/mqdefault.jpg",
-      "published": "2026-08-13T16:11:43Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO | REESTREIA ESPECIAL COM SORTEIO DE BRINDES | 12/08/2026",
-      "videoId": "G5FgLZKxMdI",
-      "url": "https://www.youtube.com/watch?v=G5FgLZKxMdI",
-      "thumbnail": "https://i.ytimg.com/vi/G5FgLZKxMdI/mqdefault.jpg",
-      "published": "2026-08-13T11:23:56Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "OPINIÃO DO FARID | EU SEMPRE QUIS GRENAL!!! | 11/08/2026",
-      "videoId": "vmgNI--2WMk",
-      "url": "https://www.youtube.com/watch?v=vmgNI--2WMk",
-      "thumbnail": "https://i.ytimg.com/vi/vmgNI--2WMk/mqdefault.jpg",
-      "published": "2026-08-11T23:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,19 +100,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "DEPAY OFERECIDO AO GRÊMIO | DANILO BARBOSA CHEGANDO | COBRANÇA | NOVA CAMISA | LIBERADO",
+      "videoId": "lN5eNo_HoF4",
+      "url": "https://www.youtube.com/watch?v=lN5eNo_HoF4",
+      "thumbnail": "https://i.ytimg.com/vi/lN5eNo_HoF4/mqdefault.jpg",
+      "published": "2026-08-13T20:45:50Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "CONTRATAÇÃO CONFIRMADA! | GALATASARAY QUER GABRIEL MEC | RENOVAÇÃO PRIORIDADE MÁXIMA",
       "videoId": "7e2_jyO4fcc",
       "url": "https://www.youtube.com/watch?v=7e2_jyO4fcc",
       "thumbnail": "https://i.ytimg.com/vi/7e2_jyO4fcc/mqdefault.jpg",
       "published": "2026-08-12T21:57:09Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "NOVOS REFORÇOS? | GRENAL NA COPA DO BRASIL É BOM? | PALPITE, QUEM É O FAVORITO? | O CAMINHO E MAIS",
-      "videoId": "vfCFmKKMR8w",
-      "url": "https://www.youtube.com/watch?v=vfCFmKKMR8w",
-      "thumbnail": "https://i.ytimg.com/vi/vfCFmKKMR8w/mqdefault.jpg",
-      "published": "2026-08-11T21:24:46Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +148,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "STF cobra devolução de penduricalhos pagos acima do teto institucional | Andei Pensando | 13/08/2026",
-      "videoId": "UWFdrwc_Z9M",
-      "url": "https://www.youtube.com/watch?v=UWFdrwc_Z9M",
-      "thumbnail": "https://i.ytimg.com/vi/UWFdrwc_Z9M/mqdefault.jpg",
-      "published": "2026-08-13T20:30:06Z"
+      "title": "O que faz uma CIDADE INTELIGENTE? Entenda o conceito na prática | Radar de Inovação",
+      "videoId": "YQ8iLB3IZ6w",
+      "url": "https://www.youtube.com/watch?v=YQ8iLB3IZ6w",
+      "thumbnail": "https://i.ytimg.com/vi/YQ8iLB3IZ6w/mqdefault.jpg",
+      "published": "2026-08-13T20:45:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Golpe envolvendo criptomoedas, incêndio em Soledade, notícias do RS e mais | Gaúcha+ | 13/08/2026",
-      "videoId": "FftQKHtHfZo",
-      "url": "https://www.youtube.com/watch?v=FftQKHtHfZo",
-      "thumbnail": "https://i.ytimg.com/vi/FftQKHtHfZo/mqdefault_live.jpg",
-      "published": "2026-08-13T19:34:09Z"
+      "title": "CARPAS no LARGO DOS AÇORIANOS: peixes aparecem em espelho d'água de Porto Alegre | Zero Hora",
+      "videoId": "FDIBUZTpad0",
+      "url": "https://www.youtube.com/watch?v=FDIBUZTpad0",
+      "thumbnail": "https://i.ytimg.com/vi/FDIBUZTpad0/mqdefault.jpg",
+      "published": "2026-08-13T20:44:57Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +212,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO NEGOCIA A CONRTATAÇÃO DE DANILO BARBOSA | OS DETALHES DA BUSCA NO MERCADO | ESPLANADA",
-      "videoId": "MrlJ8pIYnuc",
-      "url": "https://www.youtube.com/watch?v=MrlJ8pIYnuc",
-      "thumbnail": "https://i.ytimg.com/vi/MrlJ8pIYnuc/mqdefault.jpg",
-      "published": "2026-08-13T19:47:57Z"
+      "title": "MAIS UMA CONTRATAÇÃO VINDO AÍ? | GRÊMIO SE PREPARA PARA A RODADA | NOITES DE GRÊMIO #128 - 13/08",
+      "videoId": "-GI8sQ-OsA0",
+      "url": "https://www.youtube.com/watch?v=-GI8sQ-OsA0",
+      "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault_live.jpg",
+      "published": "2026-08-13T20:59:37Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
-      "videoId": "Ql3z9pnXOxk",
-      "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
-      "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault.jpg",
-      "published": "2026-08-13T15:54:27Z"
+      "title": "DANILO BARBOSA SERÁ DO GRÊMIO? | LANÇAMENTO DE UNIFORME EM BREVE | DESAFIO NO FIM DE SEMANA",
+      "videoId": "wkYq9SqtbNw",
+      "url": "https://www.youtube.com/watch?v=wkYq9SqtbNw",
+      "thumbnail": "https://i.ytimg.com/vi/wkYq9SqtbNw/mqdefault_live.jpg",
+      "published": "2026-08-13T20:55:41Z"
     }
   ]
 }
