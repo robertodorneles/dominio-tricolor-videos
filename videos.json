@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:00:45.286926+00:00",
+  "updated_at": "2026-08-13T14:52:44.618859+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO",
+      "videoId": "P1juNG92rmw",
+      "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
+      "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault_live.jpg",
+      "published": "2026-08-13T14:28:26Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO CONTRATA EX-ÁRBITRO - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #044",
       "videoId": "3afvBqUlgX8",
       "url": "https://www.youtube.com/watch?v=3afvBqUlgX8",
@@ -27,12 +35,12 @@
       "published": "2026-08-13T13:41:01Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GALATASARAY DE OLHO NO MEC 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 13/08 - #611",
-      "videoId": "mMm07_fzm88",
-      "url": "https://www.youtube.com/watch?v=mMm07_fzm88",
-      "thumbnail": "https://i.ytimg.com/vi/mMm07_fzm88/mqdefault_live.jpg",
-      "published": "2026-08-13T13:34:45Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MAIS DUAS SAÍDAS | VEM MAIS REFORÇOS | ONDE O GRÊMIO DEVE PRESERVAR TITULARES NESSA SEQUÊNCIA?",
+      "videoId": "N_AjsmAS6UY",
+      "url": "https://www.youtube.com/watch?v=N_AjsmAS6UY",
+      "thumbnail": "https://i.ytimg.com/vi/N_AjsmAS6UY/mqdefault.jpg",
+      "published": "2026-08-13T14:50:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=Q8VwrSUgk9o",
       "thumbnail": "https://i.ytimg.com/vi/Q8VwrSUgk9o/mqdefault.jpg",
       "published": "2026-08-12T21:18:13Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨RETORNO! ELE TÁ DE VOLTA | SAÍDA CONFIRMADA | SEQUÊNCIA PREPCUPA O GRÊMIO!",
-      "videoId": "SiLqwX2TiPk",
-      "url": "https://www.youtube.com/watch?v=SiLqwX2TiPk",
-      "thumbnail": "https://i.ytimg.com/vi/SiLqwX2TiPk/mqdefault.jpg",
-      "published": "2026-08-11T23:39:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Jogador do Grêmio leva quatro partidas de suspensão e multa de R$ 40 mil | $ gasto nas contratações",
+      "videoId": "Vjacdf-dp60",
+      "url": "https://www.youtube.com/watch?v=Vjacdf-dp60",
+      "thumbnail": "https://i.ytimg.com/vi/Vjacdf-dp60/mqdefault.jpg",
+      "published": "2026-08-13T14:15:15Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Leonardo Gaciba é o novo contratado do Grêmio",
       "videoId": "upA766sXvQY",
       "url": "https://www.youtube.com/watch?v=upA766sXvQY",
@@ -91,12 +99,12 @@
       "published": "2026-08-12T20:05:38Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Inter encerra tratativas com atacante do Congo e fica próximo de fechar com sueco",
-      "videoId": "DiXJCTn1EV8",
-      "url": "https://www.youtube.com/watch?v=DiXJCTn1EV8",
-      "thumbnail": "https://i.ytimg.com/vi/DiXJCTn1EV8/mqdefault.jpg",
-      "published": "2026-08-12T18:01:15Z"
+      "channel": "Careca de Saber TV",
+      "title": "NOVA CAMISA DO GRÊMIO! SERÁ A TERCEIRA DA TEMPORADA. #gremio #futebol #NewBalance",
+      "videoId": "E8YkDIBzxkc",
+      "url": "https://www.youtube.com/watch?v=E8YkDIBzxkc",
+      "thumbnail": "https://i.ytimg.com/vi/E8YkDIBzxkc/mqdefault.jpg",
+      "published": "2026-08-13T14:00:34Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=KoLSuqLGFa0",
       "thumbnail": "https://i.ytimg.com/vi/KoLSuqLGFa0/mqdefault.jpg",
       "published": "2026-08-12T22:15:07Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "LEONARDO GACIBA NO GRÊMIO! #gremio #futebol #CBF #juiz",
-      "videoId": "3r1XhTL04Bo",
-      "url": "https://www.youtube.com/watch?v=3r1XhTL04Bo",
-      "thumbnail": "https://i.ytimg.com/vi/3r1XhTL04Bo/mqdefault.jpg",
-      "published": "2026-08-12T17:47:10Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -135,16 +135,16 @@
       "title": "HOSPÍCIO | 13.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "l0Hrh8mG6Co",
       "url": "https://www.youtube.com/watch?v=l0Hrh8mG6Co",
-      "thumbnail": "https://i.ytimg.com/vi/l0Hrh8mG6Co/mqdefault_live.jpg",
-      "published": "2026-08-13T13:05:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/l0Hrh8mG6Co/mqdefault.jpg",
+      "published": "2026-08-13T14:16:10Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "O EFEITO CR7 NO REAL MADRID #dudagarbi #umassadopara",
-      "videoId": "ovZ30sie9U0",
-      "url": "https://www.youtube.com/watch?v=ovZ30sie9U0",
-      "thumbnail": "https://i.ytimg.com/vi/ovZ30sie9U0/mqdefault.jpg",
-      "published": "2026-08-12T23:00:00Z"
+      "title": "UM ASSADO PARA... HELIO DE LA PEÑA | #403",
+      "videoId": "CfRxXE8nhQc",
+      "url": "https://www.youtube.com/watch?v=CfRxXE8nhQc",
+      "thumbnail": "https://i.ytimg.com/vi/CfRxXE8nhQc/mqdefault.jpg",
+      "published": "2026-08-13T04:24:52Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -167,16 +167,16 @@
       "title": "Entrevista com Ivan Lins, caso de homem que atacou mulheres com faca e mais | Timeline | 13/08/2026",
       "videoId": "8hcPkdT6VyM",
       "url": "https://www.youtube.com/watch?v=8hcPkdT6VyM",
-      "thumbnail": "https://i.ytimg.com/vi/8hcPkdT6VyM/mqdefault_live.jpg",
-      "published": "2026-08-13T13:56:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/8hcPkdT6VyM/mqdefault.jpg",
+      "published": "2026-08-13T14:18:07Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Protocolo da BM para casos de surtos, golpe do falso investimento e+| Gaúcha Atualidade | 13/08/2026",
       "videoId": "8mVKIMffHdE",
       "url": "https://www.youtube.com/watch?v=8mVKIMffHdE",
-      "thumbnail": "https://i.ytimg.com/vi/8mVKIMffHdE/mqdefault_live.jpg",
-      "published": "2026-08-13T13:03:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/8mVKIMffHdE/mqdefault.jpg",
+      "published": "2026-08-13T14:11:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "13/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "13/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "DnGiJqu0sOI",
       "url": "https://www.youtube.com/watch?v=DnGiJqu0sOI",
       "thumbnail": "https://i.ytimg.com/vi/DnGiJqu0sOI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "OS NÚMEROS ASSUSTADORES DO GRÊMIO FORA DE CASA | ADVERSÁRIO VAI POUPAR JOGADORES? | ESPLANADA",
-      "videoId": "MrlJ8pIYnuc",
-      "url": "https://www.youtube.com/watch?v=MrlJ8pIYnuc",
-      "thumbnail": "https://i.ytimg.com/vi/MrlJ8pIYnuc/mqdefault_live.jpg",
-      "published": "2026-08-13T13:47:41Z"
+      "title": "IMORTAL FC — 13/08",
+      "videoId": "1gAtw4hTxpQ",
+      "url": "https://www.youtube.com/watch?v=1gAtw4hTxpQ",
+      "thumbnail": "https://i.ytimg.com/vi/1gAtw4hTxpQ/mqdefault_live.jpg",
+      "published": "2026-08-13T14:49:24Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "O CURIOSO ANÚNCIO DO GRÊMIO | EM BUSCA DA VITÓRIA FORA DE CASA | COMO É BOM SER DO GRÊMIO #19",
-      "videoId": "8Bxd4bC-dkw",
-      "url": "https://www.youtube.com/watch?v=8Bxd4bC-dkw",
-      "thumbnail": "https://i.ytimg.com/vi/8Bxd4bC-dkw/mqdefault_live.jpg",
-      "published": "2026-08-13T12:35:10Z"
+      "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
+      "videoId": "Ql3z9pnXOxk",
+      "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
+      "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault_live.jpg",
+      "published": "2026-08-13T14:03:28Z"
     }
   ]
 }
