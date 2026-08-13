@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:00:35.629113+00:00",
+  "updated_at": "2026-08-13T15:55:46.436898+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,16 @@
       "title": "GRÊMIO CONTRATA EX-ÁRBITRO - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #044",
       "videoId": "3afvBqUlgX8",
       "url": "https://www.youtube.com/watch?v=3afvBqUlgX8",
-      "thumbnail": "https://i.ytimg.com/vi/3afvBqUlgX8/mqdefault_live.jpg",
-      "published": "2026-08-13T14:53:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/3afvBqUlgX8/mqdefault.jpg",
+      "published": "2026-08-13T15:28:15Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO",
-      "videoId": "P1juNG92rmw",
-      "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
-      "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault_live.jpg",
-      "published": "2026-08-13T14:28:26Z"
+      "title": "A resposta do dirigente assusta!",
+      "videoId": "-M-jKRuflco",
+      "url": "https://www.youtube.com/watch?v=-M-jKRuflco",
+      "thumbnail": "https://i.ytimg.com/vi/-M-jKRuflco/mqdefault.jpg",
+      "published": "2026-08-13T15:26:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
+      "videoId": "Ql3z9pnXOxk",
+      "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
+      "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault.jpg",
+      "published": "2026-08-13T15:54:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O CURIOSO ANÚNCIO DO GRÊMIO | EM BUSCA DA VITÓRIA FORA DE CASA | COMO É BOM SER DO GRÊMIO #19",
       "videoId": "8Bxd4bC-dkw",
       "url": "https://www.youtube.com/watch?v=8Bxd4bC-dkw",
       "thumbnail": "https://i.ytimg.com/vi/8Bxd4bC-dkw/mqdefault.jpg",
       "published": "2026-08-13T14:54:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
-      "videoId": "Ql3z9pnXOxk",
-      "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
-      "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault_live.jpg",
-      "published": "2026-08-13T14:03:28Z"
     }
   ]
 }
