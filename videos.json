@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-13T00:00:35.988624+00:00",
+  "updated_at": "2026-08-13T01:00:40.602550+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: PREPARATIVOS, MUDANÇAS E MERCADO | TUDO SOBRE GRÊMIO E INTER",
+      "videoId": "Am3h8jzhw98",
+      "url": "https://www.youtube.com/watch?v=Am3h8jzhw98",
+      "thumbnail": "https://i.ytimg.com/vi/Am3h8jzhw98/mqdefault_live.jpg",
+      "published": "2026-08-13T00:35:40Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Direção REAGE às críticas e mantém confiança no argentino | Injustiça identificada",
@@ -11,28 +19,20 @@
       "published": "2026-08-12T20:00:31Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: ⚠️ O QUE HÁ POR TRÁS? | ABEL ABRIU O JOGO | SUECO CHEGANDO!",
-      "videoId": "5GWjedxjsqQ",
-      "url": "https://www.youtube.com/watch?v=5GWjedxjsqQ",
-      "thumbnail": "https://i.ytimg.com/vi/5GWjedxjsqQ/mqdefault.jpg",
-      "published": "2026-08-12T17:09:28Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "KROVINOVIC REGISTRADO NO DIÁRIO OFICIAL | GACIBA CONTRATADO🟣RESENHA FORA DA SALA NOITE🟣#003",
       "videoId": "OEsF9loJ1uA",
       "url": "https://www.youtube.com/watch?v=OEsF9loJ1uA",
-      "thumbnail": "https://i.ytimg.com/vi/OEsF9loJ1uA/mqdefault_live.jpg",
-      "published": "2026-08-12T23:14:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/OEsF9loJ1uA/mqdefault.jpg",
+      "published": "2026-08-13T00:40:40Z"
     },
     {
       "channel": "Bage TV",
-      "title": "MEC NA TURQUIA? KROVINOVIC ESTREIA, CRISE NO CORINTHIANS E O DILEMA DE NEYMAR📰BAGÉTV NEWS #015",
-      "videoId": "XouP7PY0dfs",
-      "url": "https://www.youtube.com/watch?v=XouP7PY0dfs",
-      "thumbnail": "https://i.ytimg.com/vi/XouP7PY0dfs/mqdefault.jpg",
-      "published": "2026-08-12T22:56:56Z"
+      "title": "🌃🔵 BOA NOITE GRÊMIO #003",
+      "videoId": "OurdXTW9tMI",
+      "url": "https://www.youtube.com/watch?v=OurdXTW9tMI",
+      "thumbnail": "https://i.ytimg.com/vi/OurdXTW9tMI/mqdefault_live.jpg",
+      "published": "2026-08-13T00:30:11Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO TREINA COM FOCO NO BRASILEIRÃO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #127 - 12/08",
+      "videoId": "domT62PTkTI",
+      "url": "https://www.youtube.com/watch?v=domT62PTkTI",
+      "thumbnail": "https://i.ytimg.com/vi/domT62PTkTI/mqdefault_live.jpg",
+      "published": "2026-08-13T00:00:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #133 — AFRICANO NÃO VEM PARA O GRÊMIO | DERROTA NA BASE | PREPARAÇÃO CONTINUA",
       "videoId": "Ql3z9pnXOxk",
       "url": "https://www.youtube.com/watch?v=Ql3z9pnXOxk",
       "thumbnail": "https://i.ytimg.com/vi/Ql3z9pnXOxk/mqdefault_live.jpg",
       "published": "2026-08-12T23:00:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O CURIOSO ANÚNCIO DO GRÊMIO | EM BUSCA DA VITÓRIA FORA DE CASA | COMO É BOM SER DO GRÊMIO #19",
-      "videoId": "8Bxd4bC-dkw",
-      "url": "https://www.youtube.com/watch?v=8Bxd4bC-dkw",
-      "thumbnail": "https://i.ytimg.com/vi/8Bxd4bC-dkw/mqdefault_live.jpg",
-      "published": "2026-08-12T22:52:09Z"
     }
   ]
 }
