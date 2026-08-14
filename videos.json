@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T12:00:28.838715+00:00",
+  "updated_at": "2026-08-14T12:56:50.695457+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 14/08 - #612",
+      "title": "CLUBE MEXICANO QUER CARLOS VINÍCIUS 🌅🔵 BOM DIA GRÊMIO #098",
+      "videoId": "zKDSplv_F0I",
+      "url": "https://www.youtube.com/watch?v=zKDSplv_F0I",
+      "thumbnail": "https://i.ytimg.com/vi/zKDSplv_F0I/mqdefault.jpg",
+      "published": "2026-08-14T12:00:20Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "CARLOS VINÍCIUS INDO PARA O MÉXICO? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 14/08 - #612",
       "videoId": "q2pJScdnD6c",
       "url": "https://www.youtube.com/watch?v=q2pJScdnD6c",
       "thumbnail": "https://i.ytimg.com/vi/q2pJScdnD6c/mqdefault_live.jpg",
       "published": "2026-08-14T12:00:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CLUBE MEXICANO QUER CARLOS VINÍCIUS 🌅🔵 BOM DIA GRÊMIO #098",
-      "videoId": "zKDSplv_F0I",
-      "url": "https://www.youtube.com/watch?v=zKDSplv_F0I",
-      "thumbnail": "https://i.ytimg.com/vi/zKDSplv_F0I/mqdefault_live.jpg",
-      "published": "2026-08-14T11:52:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Os bastidores da luta do Grêmio contra a recuperação judicial",
+      "videoId": "bJz0evGKwYs",
+      "url": "https://www.youtube.com/watch?v=bJz0evGKwYs",
+      "thumbnail": "https://i.ytimg.com/vi/bJz0evGKwYs/mqdefault.jpg",
+      "published": "2026-08-14T12:48:46Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #652: Danilo Barbosa anunciado | Depay | Nova camisa | Krovinovic e mais",
       "videoId": "Kdsl1NsykCc",
       "url": "https://www.youtube.com/watch?v=Kdsl1NsykCc",
       "thumbnail": "https://i.ytimg.com/vi/Kdsl1NsykCc/mqdefault.jpg",
       "published": "2026-08-13T23:29:14Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: ATLÉTICO-MG X GRÊMIO",
-      "videoId": "i_-3rhy31bc",
-      "url": "https://www.youtube.com/watch?v=i_-3rhy31bc",
-      "thumbnail": "https://i.ytimg.com/vi/i_-3rhy31bc/mqdefault_live.jpg",
-      "published": "2026-08-13T20:40:24Z"
     },
     {
       "channel": "Canal do Farid",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "DEPAY OFERECIDO AO GRÊMIO | DANILO BARBOSA CHEGANDO | COBRANÇA | NOVA CAMISA | LIBERADO",
-      "videoId": "lN5eNo_HoF4",
-      "url": "https://www.youtube.com/watch?v=lN5eNo_HoF4",
-      "thumbnail": "https://i.ytimg.com/vi/lN5eNo_HoF4/mqdefault.jpg",
-      "published": "2026-08-13T20:45:50Z"
+      "title": "(AO VIVO) PÓS-JOGO DE ATLÉTICO-MG x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 16/08/26 #28",
+      "videoId": "h7ye38bCGU8",
+      "url": "https://www.youtube.com/watch?v=h7ye38bCGU8",
+      "thumbnail": "https://i.ytimg.com/vi/h7ye38bCGU8/mqdefault_live.jpg",
+      "published": "2026-08-14T12:11:52Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "CONTRATAÇÃO CONFIRMADA! | GALATASARAY QUER GABRIEL MEC | RENOVAÇÃO PRIORIDADE MÁXIMA",
-      "videoId": "7e2_jyO4fcc",
-      "url": "https://www.youtube.com/watch?v=7e2_jyO4fcc",
-      "thumbnail": "https://i.ytimg.com/vi/7e2_jyO4fcc/mqdefault.jpg",
-      "published": "2026-08-12T21:57:09Z"
+      "title": "(AO VIVO) PRÉ-JOGO DE ATLÉTICO-MG x GRÊMIO DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | 16/08 #11",
+      "videoId": "-jC4uUksLVM",
+      "url": "https://www.youtube.com/watch?v=-jC4uUksLVM",
+      "thumbnail": "https://i.ytimg.com/vi/-jC4uUksLVM/mqdefault_live.jpg",
+      "published": "2026-08-14T12:07:52Z"
     },
     {
       "channel": "Duda Garbi",
@@ -136,7 +136,7 @@
       "videoId": "kLbX88MGWHc",
       "url": "https://www.youtube.com/watch?v=kLbX88MGWHc",
       "thumbnail": "https://i.ytimg.com/vi/kLbX88MGWHc/mqdefault_live.jpg",
-      "published": "2026-08-14T09:33:40Z"
+      "published": "2026-08-14T12:02:11Z"
     },
     {
       "channel": "Duda Garbi",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: Grêmio e o reforço surpresa + Cavani no Inter?",
       "videoId": "rTS2bOl0rfk",
       "url": "https://www.youtube.com/watch?v=rTS2bOl0rfk",
-      "thumbnail": "https://i.ytimg.com/vi/rTS2bOl0rfk/mqdefault_live.jpg",
-      "published": "2026-08-14T11:03:30Z"
+      "thumbnail": "https://i.ytimg.com/vi/rTS2bOl0rfk/mqdefault.jpg",
+      "published": "2026-08-14T12:18:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "DANILO BARBOSA É ANUNCIADO PELO GRÊMIO | LANÇAMENTO DE UNIFORME EM BREVE | DESAFIO NO FIM DE SEMANA",
       "videoId": "wkYq9SqtbNw",
       "url": "https://www.youtube.com/watch?v=wkYq9SqtbNw",
-      "thumbnail": "https://i.ytimg.com/vi/wkYq9SqtbNw/mqdefault_live.jpg",
-      "published": "2026-08-14T11:03:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/wkYq9SqtbNw/mqdefault.jpg",
+      "published": "2026-08-14T12:51:27Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA NOVO REFORÇO! | TUDO SOBRE DANILO BARBOSA | NOITES DE GRÊMIO #128 - 13/08",
-      "videoId": "-GI8sQ-OsA0",
-      "url": "https://www.youtube.com/watch?v=-GI8sQ-OsA0",
-      "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault.jpg",
-      "published": "2026-08-14T01:40:00Z"
+      "title": "A NOVA CAMISA DIRETO DA GRÊMIOMANIA! | O NOVO VOLANTE DO GRÊMIO | COMO É BOM SER DO GRÊMIO #20",
+      "videoId": "1wBZ4sokgdo",
+      "url": "https://www.youtube.com/watch?v=1wBZ4sokgdo",
+      "thumbnail": "https://i.ytimg.com/vi/1wBZ4sokgdo/mqdefault_live.jpg",
+      "published": "2026-08-14T12:31:12Z"
     }
   ]
 }
