@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:00:34.192665+00:00",
+  "updated_at": "2026-08-14T22:18:20.766474+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "qTJ39U197WM",
       "url": "https://www.youtube.com/watch?v=qTJ39U197WM",
       "thumbnail": "https://i.ytimg.com/vi/qTJ39U197WM/mqdefault_live.jpg",
-      "published": "2026-08-14T20:29:33Z"
+      "published": "2026-08-14T22:03:54Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "OPINIÃO DO FARID | OBRIGADO GRÊMIO, COMO EU TE AMO! TORCIDA QUER TE VER SEMPRE ASSIM! - 14/08/2026",
+      "videoId": "agw-i0-WEEo",
+      "url": "https://www.youtube.com/watch?v=agw-i0-WEEo",
+      "thumbnail": "https://i.ytimg.com/vi/agw-i0-WEEo/mqdefault.jpg",
+      "published": "2026-08-14T22:00:33Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GIRO ESPORTIVO | GRÊMIO NO MERCADO | PODE ESTREIAR JÁ - 13/08/2026",
       "videoId": "cx6LPS4zkwU",
       "url": "https://www.youtube.com/watch?v=cx6LPS4zkwU",
       "thumbnail": "https://i.ytimg.com/vi/cx6LPS4zkwU/mqdefault.jpg",
       "published": "2026-08-14T00:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO | REESTREIA ESPECIAL COM SORTEIO DE BRINDES | 12/08/2026",
-      "videoId": "G5FgLZKxMdI",
-      "url": "https://www.youtube.com/watch?v=G5FgLZKxMdI",
-      "thumbnail": "https://i.ytimg.com/vi/G5FgLZKxMdI/mqdefault.jpg",
-      "published": "2026-08-13T11:23:56Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NÃO ROLOU? CARLOS VINÍCIUS | MEC: REUNIÃO NA EUROPA | NOVA CAMISA DO GRÊMIO",
+      "videoId": "5cXRXfgT7Tw",
+      "url": "https://www.youtube.com/watch?v=5cXRXfgT7Tw",
+      "thumbnail": "https://i.ytimg.com/vi/5cXRXfgT7Tw/mqdefault.jpg",
+      "published": "2026-08-14T22:05:44Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "DEPAY NO GRÊMIO? OFERTA E RESPOSTA. #gremio #futebol #corinthians",
       "videoId": "wHiNcHop9l0",
       "url": "https://www.youtube.com/watch?v=wHiNcHop9l0",
       "thumbnail": "https://i.ytimg.com/vi/wHiNcHop9l0/mqdefault.jpg",
       "published": "2026-08-14T14:00:33Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "FECHOU. CHEGA LIVRE E REDUZ SALÁRIO! DANILO BARBOSA #gremio #futebol",
-      "videoId": "AE6VNy6j2u0",
-      "url": "https://www.youtube.com/watch?v=AE6VNy6j2u0",
-      "thumbnail": "https://i.ytimg.com/vi/AE6VNy6j2u0/mqdefault.jpg",
-      "published": "2026-08-14T11:00:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "LULA E FLÁVIO SE ENCONTRAM? AGENDAS PODEM COINCIDIR NO RS | Conversa de Gabinete",
+      "videoId": "T_2wajG8EzU",
+      "url": "https://www.youtube.com/watch?v=T_2wajG8EzU",
+      "thumbnail": "https://i.ytimg.com/vi/T_2wajG8EzU/mqdefault.jpg",
+      "published": "2026-08-14T22:00:33Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ONU pode reverter condenação de CRISTINA KIRCHNER? Advogado da ex-presidente explica | Zero Hora",
       "videoId": "R6vos-f903g",
       "url": "https://www.youtube.com/watch?v=R6vos-f903g",
       "thumbnail": "https://i.ytimg.com/vi/R6vos-f903g/mqdefault.jpg",
       "published": "2026-08-14T20:30:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ELEIÇÕES NO RS: AS ESTRATÉGIAS DIGITAIS para conquistar ELEITORES | Conversa de Gabinete | 14/8/2026",
-      "videoId": "pFishbnCR_0",
-      "url": "https://www.youtube.com/watch?v=pFishbnCR_0",
-      "thumbnail": "https://i.ytimg.com/vi/pFishbnCR_0/mqdefault.jpg",
-      "published": "2026-08-14T20:24:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "cc7_NxmqZHA",
       "url": "https://www.youtube.com/watch?v=cc7_NxmqZHA",
       "thumbnail": "https://i.ytimg.com/vi/cc7_NxmqZHA/mqdefault_live.jpg",
-      "published": "2026-08-14T21:01:39Z"
+      "published": "2026-08-14T22:08:08Z"
     },
     {
       "channel": "Radio Imortal",
