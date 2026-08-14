@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:18:20.766474+00:00",
+  "updated_at": "2026-08-14T23:00:38.207710+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🚨 CARLOS VINÍCIUS DE SAÍDA? MÉXICO ENTRA NO CAMINHO E GRÊMIO TEM NOVIDADES!📰BAGÉTV NEWS #017",
       "videoId": "qTJ39U197WM",
       "url": "https://www.youtube.com/watch?v=qTJ39U197WM",
-      "thumbnail": "https://i.ytimg.com/vi/qTJ39U197WM/mqdefault_live.jpg",
-      "published": "2026-08-14T22:03:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/qTJ39U197WM/mqdefault.jpg",
+      "published": "2026-08-14T22:45:23Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Com que personagens da CULTURA POP os CANDIDATOS mais se IDENTIFICAM? 👀 | Conversa de Gabinete",
+      "videoId": "ebTlKNd69BI",
+      "url": "https://www.youtube.com/watch?v=ebTlKNd69BI",
+      "thumbnail": "https://i.ytimg.com/vi/ebTlKNd69BI/mqdefault.jpg",
+      "published": "2026-08-14T22:30:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "LULA E FLÁVIO SE ENCONTRAM? AGENDAS PODEM COINCIDIR NO RS | Conversa de Gabinete",
       "videoId": "T_2wajG8EzU",
       "url": "https://www.youtube.com/watch?v=T_2wajG8EzU",
       "thumbnail": "https://i.ytimg.com/vi/T_2wajG8EzU/mqdefault.jpg",
       "published": "2026-08-14T22:00:33Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ONU pode reverter condenação de CRISTINA KIRCHNER? Advogado da ex-presidente explica | Zero Hora",
-      "videoId": "R6vos-f903g",
-      "url": "https://www.youtube.com/watch?v=R6vos-f903g",
-      "thumbnail": "https://i.ytimg.com/vi/R6vos-f903g/mqdefault.jpg",
-      "published": "2026-08-14T20:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "14/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "zfkmcm4ECcQ",
+      "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
+      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault_live.jpg",
+      "published": "2026-08-14T22:59:21Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ARRECADANDO RECURSOS! 🇮🇩",
       "videoId": "cZ59kb0TMMM",
       "url": "https://www.youtube.com/watch?v=cZ59kb0TMMM",
@@ -219,28 +227,20 @@
       "published": "2026-08-14T18:02:38Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "14/08/2026 | CLUBE GRENAL | RÁDIO GRENAL",
-      "videoId": "zfkmcm4ECcQ",
-      "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
-      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault_live.jpg",
-      "published": "2026-08-14T11:04:02Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
+      "videoId": "Y6WjybzK5_8",
+      "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
+      "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault_live.jpg",
+      "published": "2026-08-14T22:26:46Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "GRÊMIO BUSCA NOVO MOMENTO EM 2026 | CASTRO VAI MANTER O TIME? | A NOVA CAMISA | REFORÇO ANUNCIADO",
       "videoId": "cc7_NxmqZHA",
       "url": "https://www.youtube.com/watch?v=cc7_NxmqZHA",
-      "thumbnail": "https://i.ytimg.com/vi/cc7_NxmqZHA/mqdefault_live.jpg",
-      "published": "2026-08-14T22:08:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FINAL DE SEMANA DE GRÊMIO NO BRASILEIRÃO! | DANILO BARBOSA CHEGANDO | NOVA CAMISA | ESPLANADA",
-      "videoId": "7uX7Mip-3Tk",
-      "url": "https://www.youtube.com/watch?v=7uX7Mip-3Tk",
-      "thumbnail": "https://i.ytimg.com/vi/7uX7Mip-3Tk/mqdefault.jpg",
-      "published": "2026-08-14T19:49:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/cc7_NxmqZHA/mqdefault.jpg",
+      "published": "2026-08-14T22:20:57Z"
     }
   ]
 }
