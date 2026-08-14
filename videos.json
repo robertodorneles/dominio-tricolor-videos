@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:00:34.332198+00:00",
+  "updated_at": "2026-08-14T21:20:51.790202+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "AS PIADAS DO CASSETA E PLANETA ERAM PRECONCEITUOSAS? HELIO DE LA PEÑA REBATE | Cortes do Duda",
+      "videoId": "M2VuYf6IrDk",
+      "url": "https://www.youtube.com/watch?v=M2VuYf6IrDk",
+      "thumbnail": "https://i.ytimg.com/vi/M2VuYf6IrDk/mqdefault.jpg",
+      "published": "2026-08-14T21:00:20Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 14.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "kLbX88MGWHc",
       "url": "https://www.youtube.com/watch?v=kLbX88MGWHc",
       "thumbnail": "https://i.ytimg.com/vi/kLbX88MGWHc/mqdefault.jpg",
       "published": "2026-08-14T13:42:56Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "COMO FORAM AS ÚLTIMAS 24 HORAS DE BUSSUNDA? HELIO DE LA PEÑA FALOU TUDO | Cortes do Duda",
-      "videoId": "Xe3zDPL-2ig",
-      "url": "https://www.youtube.com/watch?v=Xe3zDPL-2ig",
-      "thumbnail": "https://i.ytimg.com/vi/Xe3zDPL-2ig/mqdefault.jpg",
-      "published": "2026-08-13T23:00:33Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA NOVO MOMENTO EM 2026 | CASTRO VAI MANTER O TIME? | A NOVA CAMISA | REFORÇO ANUNCIADO",
+      "videoId": "cc7_NxmqZHA",
+      "url": "https://www.youtube.com/watch?v=cc7_NxmqZHA",
+      "thumbnail": "https://i.ytimg.com/vi/cc7_NxmqZHA/mqdefault_live.jpg",
+      "published": "2026-08-14T21:01:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FINAL DE SEMANA DE GRÊMIO NO BRASILEIRÃO! | DANILO BARBOSA CHEGANDO | NOVA CAMISA | ESPLANADA",
       "videoId": "7uX7Mip-3Tk",
       "url": "https://www.youtube.com/watch?v=7uX7Mip-3Tk",
       "thumbnail": "https://i.ytimg.com/vi/7uX7Mip-3Tk/mqdefault.jpg",
       "published": "2026-08-14T19:49:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #134 — DIRETO DA GRÊMIOMANIA COM A NOVA CAMISA DO GRÊMIO!",
-      "videoId": "ldAms6IfbyM",
-      "url": "https://www.youtube.com/watch?v=ldAms6IfbyM",
-      "thumbnail": "https://i.ytimg.com/vi/ldAms6IfbyM/mqdefault.jpg",
-      "published": "2026-08-14T15:29:17Z"
     }
   ]
 }
