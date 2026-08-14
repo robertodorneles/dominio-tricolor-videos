@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-14T01:00:40.243378+00:00",
+  "updated_at": "2026-08-14T02:00:50.991391+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: GRÊMIO CONTRATA DANILO | INTER AINDA ESPERA POR REFORÇOS | RODADA",
+      "videoId": "oZvk57hNv_8",
+      "url": "https://www.youtube.com/watch?v=oZvk57hNv_8",
+      "thumbnail": "https://i.ytimg.com/vi/oZvk57hNv_8/mqdefault_live.jpg",
+      "published": "2026-08-14T01:02:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "💧 NÓS NÃO ENGOLIMOS ISSO AQUI!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=AlecHQ-gvOs",
       "thumbnail": "https://i.ytimg.com/vi/AlecHQ-gvOs/mqdefault.jpg",
       "published": "2026-08-13T20:56:49Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: O VACILO NA NOVELA ARCE | RIVADAVIA MUDOU DE IDEIA | VAI DAR TEMPO PRO GRENAL?",
-      "videoId": "KsLg5hmP0tU",
-      "url": "https://www.youtube.com/watch?v=KsLg5hmP0tU",
-      "thumbnail": "https://i.ytimg.com/vi/KsLg5hmP0tU/mqdefault.jpg",
-      "published": "2026-08-13T20:03:39Z"
     },
     {
       "channel": "Bage TV",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Grêmio e o reforço surpresa + Cavani no Inter?",
+      "videoId": "rTS2bOl0rfk",
+      "url": "https://www.youtube.com/watch?v=rTS2bOl0rfk",
+      "thumbnail": "https://i.ytimg.com/vi/rTS2bOl0rfk/mqdefault_live.jpg",
+      "published": "2026-08-14T01:59:05Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: CONTRATAÇÃO POLÊMICA DO GRÊMIO E ATACANTE CHEGANDO NO INTER",
       "videoId": "yJLEFi3l2po",
       "url": "https://www.youtube.com/watch?v=yJLEFi3l2po",
       "thumbnail": "https://i.ytimg.com/vi/yJLEFi3l2po/mqdefault.jpg",
       "published": "2026-08-13T12:51:23Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Gaciba contratado (!!) + reviravolta com Mec e 4 saídas",
-      "videoId": "olyL7mAbjSY",
-      "url": "https://www.youtube.com/watch?v=olyL7mAbjSY",
-      "thumbnail": "https://i.ytimg.com/vi/olyL7mAbjSY/mqdefault.jpg",
-      "published": "2026-08-13T01:01:35Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO ANUNCIA NOVO REFORÇO! | TUDO SOBRE DANILO BARBOSA | NOITES DE GRÊMIO #128 - 13/08",
       "videoId": "-GI8sQ-OsA0",
       "url": "https://www.youtube.com/watch?v=-GI8sQ-OsA0",
-      "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault_live.jpg",
-      "published": "2026-08-14T00:00:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault.jpg",
+      "published": "2026-08-14T01:40:00Z"
     },
     {
       "channel": "Radio Imortal",
