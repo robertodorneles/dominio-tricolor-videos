@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:36:54.963080+00:00",
+  "updated_at": "2026-08-14T00:00:39.208337+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ANUNCIA NOVO REFORÇO! | TUDO SOBRE DANILO BARBOSA | NOITES DE GRÊMIO #128 - 13/08",
+      "videoId": "-GI8sQ-OsA0",
+      "url": "https://www.youtube.com/watch?v=-GI8sQ-OsA0",
+      "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault_live.jpg",
+      "published": "2026-08-14T00:00:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO TENTA CONTRATAÇÃO DE VOLANTE | KROVINOVIC NO BID | HURACÁN COBRA O TRICOLOR | IMORTAL FC",
       "videoId": "1gAtw4hTxpQ",
       "url": "https://www.youtube.com/watch?v=1gAtw4hTxpQ",
       "thumbnail": "https://i.ytimg.com/vi/1gAtw4hTxpQ/mqdefault.jpg",
       "published": "2026-08-13T22:15:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #134 — DIRETO DA GRÊMIOMANIA COM A NOVA CAMISA DO GRÊMIO!",
-      "videoId": "ldAms6IfbyM",
-      "url": "https://www.youtube.com/watch?v=ldAms6IfbyM",
-      "thumbnail": "https://i.ytimg.com/vi/ldAms6IfbyM/mqdefault_live.jpg",
-      "published": "2026-08-13T21:49:33Z"
     }
   ]
 }
