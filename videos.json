@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T23:00:38.207710+00:00",
+  "updated_at": "2026-08-14T23:17:17.081820+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "MEMPHIS DEPAY NO GRÊMIO?🟣RESENHA FORA DA SALA NOITE🟣#005",
+      "videoId": "mhNXfFjLnFI",
+      "url": "https://www.youtube.com/watch?v=mhNXfFjLnFI",
+      "thumbnail": "https://i.ytimg.com/vi/mhNXfFjLnFI/mqdefault_live.jpg",
+      "published": "2026-08-14T23:13:56Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🚨 CARLOS VINÍCIUS DE SAÍDA? MÉXICO ENTRA NO CAMINHO E GRÊMIO TEM NOVIDADES!📰BAGÉTV NEWS #017",
       "videoId": "qTJ39U197WM",
       "url": "https://www.youtube.com/watch?v=qTJ39U197WM",
@@ -27,12 +35,12 @@
       "published": "2026-08-14T22:45:23Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "REPRESENTANTES DE MEC NA EUROPA PARA NEGOCIAR?🔹 THE TARDE 🔹#202",
-      "videoId": "zdSBBJExV_Q",
-      "url": "https://www.youtube.com/watch?v=zdSBBJExV_Q",
-      "thumbnail": "https://i.ytimg.com/vi/zdSBBJExV_Q/mqdefault.jpg",
-      "published": "2026-08-14T20:26:02Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO FECHADO NO MÉXICO? | TITULARES SAINDO? | A ESTREIA CONFIRMADA | O BOM REFORÇO DO GRÊMIO!",
+      "videoId": "qLgz3I8IzTs",
+      "url": "https://www.youtube.com/watch?v=qLgz3I8IzTs",
+      "thumbnail": "https://i.ytimg.com/vi/qLgz3I8IzTs/mqdefault.jpg",
+      "published": "2026-08-14T23:15:14Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=rmxbTlG4u2s",
       "thumbnail": "https://i.ytimg.com/vi/rmxbTlG4u2s/mqdefault.jpg",
       "published": "2026-08-14T14:45:19Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FECHA CONTRATAÇÃO | MAIS REFORÇOS NA MIRA | LUIS CASTRO RESPALDADO",
-      "videoId": "QKlpO_L5mvc",
-      "url": "https://www.youtube.com/watch?v=QKlpO_L5mvc",
-      "thumbnail": "https://i.ytimg.com/vi/QKlpO_L5mvc/mqdefault.jpg",
-      "published": "2026-08-13T23:03:31Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X ATLÉTICO-MG | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 16/08/2026",
+      "videoId": "6aZR-RWRpq8",
+      "url": "https://www.youtube.com/watch?v=6aZR-RWRpq8",
+      "thumbnail": "https://i.ytimg.com/vi/6aZR-RWRpq8/mqdefault_live.jpg",
+      "published": "2026-08-14T23:10:44Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID | OBRIGADO GRÊMIO, COMO EU TE AMO! TORCIDA QUER TE VER SEMPRE ASSIM! - 14/08/2026",
       "videoId": "agw-i0-WEEo",
       "url": "https://www.youtube.com/watch?v=agw-i0-WEEo",
       "thumbnail": "https://i.ytimg.com/vi/agw-i0-WEEo/mqdefault.jpg",
-      "published": "2026-08-14T22:00:33Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GIRO ESPORTIVO | GRÊMIO NO MERCADO | PODE ESTREIAR JÁ - 13/08/2026",
-      "videoId": "cx6LPS4zkwU",
-      "url": "https://www.youtube.com/watch?v=cx6LPS4zkwU",
-      "thumbnail": "https://i.ytimg.com/vi/cx6LPS4zkwU/mqdefault.jpg",
-      "published": "2026-08-14T00:00:06Z"
+      "published": "2026-08-14T23:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
