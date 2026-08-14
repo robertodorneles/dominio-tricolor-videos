@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T16:48:43.763277+00:00",
+  "updated_at": "2026-08-14T17:00:44.840458+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Nardoni é o craque do meio campo do Grêmio?",
+      "videoId": "gpa1jopLNjk",
+      "url": "https://www.youtube.com/watch?v=gpa1jopLNjk",
+      "thumbnail": "https://i.ytimg.com/vi/gpa1jopLNjk/mqdefault.jpg",
+      "published": "2026-08-14T16:52:00Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DE OLHO NO MÉXICO! CRUZ AZUL QUER CARLOS VINÍCIUS E INTER AVANÇA NO CT🔸RESENHA FORA DA SALA🔸#108",
       "videoId": "qHteIBKeTM4",
       "url": "https://www.youtube.com/watch?v=qHteIBKeTM4",
       "thumbnail": "https://i.ytimg.com/vi/qHteIBKeTM4/mqdefault_live.jpg",
       "published": "2026-08-14T16:30:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "SALÁRIO ASTRONÔMICO: O ERRO QUE GRÊMIO NÃO PODE COMETER DE NOVO #CORTESDOFAG",
-      "videoId": "V5AS2ovGZwE",
-      "url": "https://www.youtube.com/watch?v=V5AS2ovGZwE",
-      "thumbnail": "https://i.ytimg.com/vi/V5AS2ovGZwE/mqdefault.jpg",
-      "published": "2026-08-14T16:05:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "NA CARONA POSTOS SIM: EP 03 JÉSSICA DE LIMA",
+      "videoId": "lITvU3tm1ck",
+      "url": "https://www.youtube.com/watch?v=lITvU3tm1ck",
+      "thumbnail": "https://i.ytimg.com/vi/lITvU3tm1ck/mqdefault.jpg",
+      "published": "2026-08-14T17:00:04Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO LANÇA TERCEIRA CAMISA PARA TEMPORADA",
       "videoId": "NyX2l5U0XTM",
       "url": "https://www.youtube.com/watch?v=NyX2l5U0XTM",
@@ -155,28 +163,20 @@
       "published": "2026-08-14T13:07:08Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL I MASC I SUB-15 (CAMPEONATO GAÚCHO 2026)",
-      "videoId": "0INDkaDlDXw",
-      "url": "https://www.youtube.com/watch?v=0INDkaDlDXw",
-      "thumbnail": "https://i.ytimg.com/vi/0INDkaDlDXw/mqdefault.jpg",
-      "published": "2026-08-12T19:39:43Z"
+      "channel": "GZH Digital",
+      "title": "Smart Cities: como os parques melhoram a qualidade de vida nas cidades | Radar de Inovação",
+      "videoId": "EmgnCKLw1nY",
+      "url": "https://www.youtube.com/watch?v=EmgnCKLw1nY",
+      "thumbnail": "https://i.ytimg.com/vi/EmgnCKLw1nY/mqdefault.jpg",
+      "published": "2026-08-14T17:00:20Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "RS ESTÁ ENTRE OS ESTADOS COM MAIS CASOS DE ASSÉDIO ELEITORAL NO TRABALHO",
-      "videoId": "8NoY8kmV66k",
-      "url": "https://www.youtube.com/watch?v=8NoY8kmV66k",
-      "thumbnail": "https://i.ytimg.com/vi/8NoY8kmV66k/mqdefault.jpg",
-      "published": "2026-08-14T16:41:58Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Os cérebros estão falhando mais? Pedro Schestatsky lança livro sobre EPIDEMIA INVISÍVEL | Paralelas",
-      "videoId": "vpk1ViCOzSY",
-      "url": "https://www.youtube.com/watch?v=vpk1ViCOzSY",
-      "thumbnail": "https://i.ytimg.com/vi/vpk1ViCOzSY/mqdefault.jpg",
-      "published": "2026-08-14T15:00:27Z"
+      "title": "Gaúcha+ | 14/08/2026",
+      "videoId": "-VSiOtczvfk",
+      "url": "https://www.youtube.com/watch?v=-VSiOtczvfk",
+      "thumbnail": "https://i.ytimg.com/vi/-VSiOtczvfk/mqdefault_live.jpg",
+      "published": "2026-08-14T16:58:20Z"
     },
     {
       "channel": "Jeremias Wernek",
