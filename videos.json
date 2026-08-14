@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:00:41.487866+00:00",
+  "updated_at": "2026-08-14T11:42:23.285512+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FECHOU. CHEGA LIVRE E REDUZ SALÁRIO! DANILO BARBOSA #gremio #futebol",
+      "videoId": "AE6VNy6j2u0",
+      "url": "https://www.youtube.com/watch?v=AE6VNy6j2u0",
+      "thumbnail": "https://i.ytimg.com/vi/AE6VNy6j2u0/mqdefault.jpg",
+      "published": "2026-08-14T11:00:35Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "DEPAY NO GRÊMIO? | FECHOU? DANILO BARBOSA | NOVA CAMISA: VAZOU!",
       "videoId": "pb8CcKO5GV4",
       "url": "https://www.youtube.com/watch?v=pb8CcKO5GV4",
       "thumbnail": "https://i.ytimg.com/vi/pb8CcKO5GV4/mqdefault.jpg",
       "published": "2026-08-13T21:15:54Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NOVA CAMISA DO GRÊMIO! SERÁ A TERCEIRA DA TEMPORADA. #gremio #futebol #NewBalance",
-      "videoId": "E8YkDIBzxkc",
-      "url": "https://www.youtube.com/watch?v=E8YkDIBzxkc",
-      "thumbnail": "https://i.ytimg.com/vi/E8YkDIBzxkc/mqdefault.jpg",
-      "published": "2026-08-13T14:00:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -184,7 +184,7 @@
       "videoId": "rTS2bOl0rfk",
       "url": "https://www.youtube.com/watch?v=rTS2bOl0rfk",
       "thumbnail": "https://i.ytimg.com/vi/rTS2bOl0rfk/mqdefault_live.jpg",
-      "published": "2026-08-14T01:59:05Z"
+      "published": "2026-08-14T11:03:30Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "14/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "zfkmcm4ECcQ",
+      "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
+      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault_live.jpg",
+      "published": "2026-08-14T11:04:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "13/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "DnGiJqu0sOI",
       "url": "https://www.youtube.com/watch?v=DnGiJqu0sOI",
@@ -219,12 +227,12 @@
       "published": "2026-08-13T23:35:23Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "14/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "zfkmcm4ECcQ",
-      "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
-      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault_live.jpg",
-      "published": "2026-08-13T23:08:56Z"
+      "channel": "Radio Imortal",
+      "title": "DANILO BARBOSA É ANUNCIADO PELO GRÊMIO | LANÇAMENTO DE UNIFORME EM BREVE | DESAFIO NO FIM DE SEMANA",
+      "videoId": "wkYq9SqtbNw",
+      "url": "https://www.youtube.com/watch?v=wkYq9SqtbNw",
+      "thumbnail": "https://i.ytimg.com/vi/wkYq9SqtbNw/mqdefault_live.jpg",
+      "published": "2026-08-14T11:03:52Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=-GI8sQ-OsA0",
       "thumbnail": "https://i.ytimg.com/vi/-GI8sQ-OsA0/mqdefault.jpg",
       "published": "2026-08-14T01:40:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO TENTA CONTRATAÇÃO DE VOLANTE | KROVINOVIC NO BID | HURACÁN COBRA O TRICOLOR | IMORTAL FC",
-      "videoId": "1gAtw4hTxpQ",
-      "url": "https://www.youtube.com/watch?v=1gAtw4hTxpQ",
-      "thumbnail": "https://i.ytimg.com/vi/1gAtw4hTxpQ/mqdefault.jpg",
-      "published": "2026-08-13T22:15:36Z"
     }
   ]
 }
