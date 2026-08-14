@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:00:34.220967+00:00",
+  "updated_at": "2026-08-14T15:46:58.425316+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO LANÇA CAMISA NOVA - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #045",
       "videoId": "gRkHZVkjhm8",
       "url": "https://www.youtube.com/watch?v=gRkHZVkjhm8",
-      "thumbnail": "https://i.ytimg.com/vi/gRkHZVkjhm8/mqdefault_live.jpg",
-      "published": "2026-08-14T14:54:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/gRkHZVkjhm8/mqdefault.jpg",
+      "published": "2026-08-14T15:15:34Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Os cérebros estão falhando mais? Pedro Schestatsky lança livro sobre EPIDEMIA INVISÍVEL | Paralelas",
+      "videoId": "vpk1ViCOzSY",
+      "url": "https://www.youtube.com/watch?v=vpk1ViCOzSY",
+      "thumbnail": "https://i.ytimg.com/vi/vpk1ViCOzSY/mqdefault.jpg",
+      "published": "2026-08-14T15:00:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com Cátia Damasceno, filiação partidária de Flávio e mais | Timeline | 14/08/2026",
       "videoId": "p4UXcauYuiw",
       "url": "https://www.youtube.com/watch?v=p4UXcauYuiw",
       "thumbnail": "https://i.ytimg.com/vi/p4UXcauYuiw/mqdefault.jpg",
       "published": "2026-08-14T14:29:00Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Conta de luz mais cara, ministra da Ciência e Tecnologia, e mais | Gaúcha Atualidade | 14/08/2026",
-      "videoId": "-lKgghbgbio",
-      "url": "https://www.youtube.com/watch?v=-lKgghbgbio",
-      "thumbnail": "https://i.ytimg.com/vi/-lKgghbgbio/mqdefault.jpg",
-      "published": "2026-08-14T13:28:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "A NOVA CAMISA DIRETO DA GRÊMIOMANIA! | O NOVO VOLANTE DO GRÊMIO | COMO É BOM SER DO GRÊMIO #20",
-      "videoId": "1wBZ4sokgdo",
-      "url": "https://www.youtube.com/watch?v=1wBZ4sokgdo",
-      "thumbnail": "https://i.ytimg.com/vi/1wBZ4sokgdo/mqdefault.jpg",
-      "published": "2026-08-14T14:58:32Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #134 — DIRETO DA GRÊMIOMANIA COM A NOVA CAMISA DO GRÊMIO!",
       "videoId": "ldAms6IfbyM",
       "url": "https://www.youtube.com/watch?v=ldAms6IfbyM",
-      "thumbnail": "https://i.ytimg.com/vi/ldAms6IfbyM/mqdefault_live.jpg",
-      "published": "2026-08-14T14:10:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/ldAms6IfbyM/mqdefault.jpg",
+      "published": "2026-08-14T15:29:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "KUNRATH SOBRE A CHEGADA DE DANILO BARBOSA: \"MISTER ESTÁ MUITO FORTE\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "_5yjNZ5XGuA",
+      "url": "https://www.youtube.com/watch?v=_5yjNZ5XGuA",
+      "thumbnail": "https://i.ytimg.com/vi/_5yjNZ5XGuA/mqdefault.jpg",
+      "published": "2026-08-14T15:10:39Z"
     }
   ]
 }
