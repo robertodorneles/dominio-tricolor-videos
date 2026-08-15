@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-15T20:17:18.873012+00:00",
+  "updated_at": "2026-08-15T21:00:29.190810+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ CONHEÇA TIAGO GOUVEIA | ELE NÃO É 9 | SERIA TITULAR?",
+      "videoId": "kkxC21B8eXA",
+      "url": "https://www.youtube.com/watch?v=kkxC21B8eXA",
+      "thumbnail": "https://i.ytimg.com/vi/kkxC21B8eXA/mqdefault.jpg",
+      "published": "2026-08-15T20:25:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O RETORNO DE MARCELO MARQUES AO NOTICIÁRIO GREMISTA | NOVOS INVESTIMENTOS??",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=RIDzhAxhUj8",
       "thumbnail": "https://i.ytimg.com/vi/RIDzhAxhUj8/mqdefault.jpg",
       "published": "2026-08-15T20:00:33Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Diário do Inter: CAVANI É POSSÍVEL | A CHANCE DE ARCE | ELIASSON CONTRA O REMO? |",
-      "videoId": "fOssnSi7z40",
-      "url": "https://www.youtube.com/watch?v=fOssnSi7z40",
-      "thumbnail": "https://i.ytimg.com/vi/fOssnSi7z40/mqdefault.jpg",
-      "published": "2026-08-15T09:15:46Z"
     },
     {
       "channel": "Bage TV",
