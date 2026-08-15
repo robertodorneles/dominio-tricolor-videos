@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T13:00:32.932308+00:00",
+  "updated_at": "2026-08-15T13:26:45.204750+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "15/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
+      "videoId": "hoPMDSQm3aU",
+      "url": "https://www.youtube.com/watch?v=hoPMDSQm3aU",
+      "thumbnail": "https://i.ytimg.com/vi/hoPMDSQm3aU/mqdefault_live.jpg",
+      "published": "2026-08-15T13:14:22Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "14/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "zfkmcm4ECcQ",
       "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
@@ -219,12 +227,12 @@
       "published": "2026-08-14T23:36:12Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ARRECADANDO RECURSOS! 🇮🇩",
-      "videoId": "cZ59kb0TMMM",
-      "url": "https://www.youtube.com/watch?v=cZ59kb0TMMM",
-      "thumbnail": "https://i.ytimg.com/vi/cZ59kb0TMMM/mqdefault.jpg",
-      "published": "2026-08-14T18:02:38Z"
+      "channel": "Radio Imortal",
+      "title": "AMANHÃ TEM GRÊMIO EM CAMPO!  | ATUALIZANDO AS NOTÍCIAS DO TRICOLOR | PLANTÃO IMORTAL",
+      "videoId": "mls5X5in3b8",
+      "url": "https://www.youtube.com/watch?v=mls5X5in3b8",
+      "thumbnail": "https://i.ytimg.com/vi/mls5X5in3b8/mqdefault_live.jpg",
+      "published": "2026-08-15T13:08:14Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=vbLgvQOSNyk",
       "thumbnail": "https://i.ytimg.com/vi/vbLgvQOSNyk/mqdefault.jpg",
       "published": "2026-08-15T01:52:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
-      "videoId": "Y6WjybzK5_8",
-      "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
-      "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault_live.jpg",
-      "published": "2026-08-14T22:26:46Z"
     }
   ]
 }
