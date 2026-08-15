@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-15T09:00:32.647865+00:00",
+  "updated_at": "2026-08-15T09:21:02.894118+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Diário do Inter: CAVANI É POSSÍVEL | A CHANCE DE ARCE | ELIASSON CONTRA O REMO? |",
+      "videoId": "fOssnSi7z40",
+      "url": "https://www.youtube.com/watch?v=fOssnSi7z40",
+      "thumbnail": "https://i.ytimg.com/vi/fOssnSi7z40/mqdefault.jpg",
+      "published": "2026-08-15T09:15:46Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: GRÊMIO REAGE POR CARLOS VINÍCIUS! Reunião marcada e ACORDO DA ARENA AVANÇA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Vk9e3UPWg1g",
       "thumbnail": "https://i.ytimg.com/vi/Vk9e3UPWg1g/mqdefault.jpg",
       "published": "2026-08-15T06:00:07Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: ⚠️ TINGA LANÇOU UM MARCO! | 23 REAIS! | OBRA DE MILHÕES | SAIBA COMO AJUDAR",
-      "videoId": "8agsHLQeypM",
-      "url": "https://www.youtube.com/watch?v=8agsHLQeypM",
-      "thumbnail": "https://i.ytimg.com/vi/8agsHLQeypM/mqdefault.jpg",
-      "published": "2026-08-14T20:09:07Z"
     },
     {
       "channel": "Bage TV",
