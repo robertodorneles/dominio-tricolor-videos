@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T23:17:17.081820+00:00",
+  "updated_at": "2026-08-15T00:00:38.115943+00:00",
   "total": 30,
   "videos": [
     {
@@ -215,8 +215,8 @@
       "title": "14/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "zfkmcm4ECcQ",
       "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
-      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault_live.jpg",
-      "published": "2026-08-14T22:59:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault.jpg",
+      "published": "2026-08-14T23:36:12Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "NOVIDADES NO GRÊMIO! FIM DE SEMANA IMPORTANTE | DIRETO DE GARIBALDI | NOITES DE GRÊMIO #129 - 14/08",
+      "videoId": "vbLgvQOSNyk",
+      "url": "https://www.youtube.com/watch?v=vbLgvQOSNyk",
+      "thumbnail": "https://i.ytimg.com/vi/vbLgvQOSNyk/mqdefault_live.jpg",
+      "published": "2026-08-15T00:00:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
       "videoId": "Y6WjybzK5_8",
       "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
       "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault_live.jpg",
       "published": "2026-08-14T22:26:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO BUSCA NOVO MOMENTO EM 2026 | CASTRO VAI MANTER O TIME? | A NOVA CAMISA | REFORÇO ANUNCIADO",
-      "videoId": "cc7_NxmqZHA",
-      "url": "https://www.youtube.com/watch?v=cc7_NxmqZHA",
-      "thumbnail": "https://i.ytimg.com/vi/cc7_NxmqZHA/mqdefault.jpg",
-      "published": "2026-08-14T22:20:57Z"
     }
   ]
 }
