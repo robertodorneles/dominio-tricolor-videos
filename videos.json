@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T14:00:45.789859+00:00",
-  "total": 28,
+  "updated_at": "2026-08-15T14:18:02.735604+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -33,6 +33,22 @@
       "url": "https://www.youtube.com/watch?v=7c6C7yldGzQ",
       "thumbnail": "https://i.ytimg.com/vi/7c6C7yldGzQ/mqdefault.jpg",
       "published": "2026-08-15T02:43:20Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NEGÓCIO FECHADO NO MÉXICO? | TITULARES SAINDO? | A ESTREIA CONFIRMADA | O BOM REFORÇO DO GRÊMIO!",
+      "videoId": "qLgz3I8IzTs",
+      "url": "https://www.youtube.com/watch?v=qLgz3I8IzTs",
+      "thumbnail": "https://i.ytimg.com/vi/qLgz3I8IzTs/mqdefault.jpg",
+      "published": "2026-08-14T23:15:14Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATACANTE FORTE ENTRA NA PAUTA | CARLOS VINÍCIUS SAINDO NO GRÊMIO? | INSISTÊNCIA E TEIMOSIA",
+      "videoId": "rmxbTlG4u2s",
+      "url": "https://www.youtube.com/watch?v=rmxbTlG4u2s",
+      "thumbnail": "https://i.ytimg.com/vi/rmxbTlG4u2s/mqdefault.jpg",
+      "published": "2026-08-14T14:45:19Z"
     },
     {
       "channel": "Canal do CCD",
@@ -84,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "RENOVAÇÃO CARLOS VINÍCIUS! CONTRATO ATUAL SÓ VAI ATÉ O FIM DO ANO! #gremio #futebol",
+      "videoId": "qdOvDGfq_FE",
+      "url": "https://www.youtube.com/watch?v=qdOvDGfq_FE",
+      "thumbnail": "https://i.ytimg.com/vi/qdOvDGfq_FE/mqdefault.jpg",
+      "published": "2026-08-15T14:00:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "NÃO ROLOU? CARLOS VINÍCIUS | MEC: REUNIÃO NA EUROPA | NOVA CAMISA DO GRÊMIO",
       "videoId": "5cXRXfgT7Tw",
       "url": "https://www.youtube.com/watch?v=5cXRXfgT7Tw",
@@ -91,12 +115,12 @@
       "published": "2026-08-14T22:05:44Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "DEPAY NO GRÊMIO? OFERTA E RESPOSTA. #gremio #futebol #corinthians",
-      "videoId": "wHiNcHop9l0",
-      "url": "https://www.youtube.com/watch?v=wHiNcHop9l0",
-      "thumbnail": "https://i.ytimg.com/vi/wHiNcHop9l0/mqdefault.jpg",
-      "published": "2026-08-14T14:00:33Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "PROPOSTA MILIONÁRIA FOI RECUSADA! | GABRIEL MEC E A VIAGEM A EUROPA | RÔMULO, MONSALVE E MAIS",
+      "videoId": "rkZggMYSrSw",
+      "url": "https://www.youtube.com/watch?v=rkZggMYSrSw",
+      "thumbnail": "https://i.ytimg.com/vi/rkZggMYSrSw/mqdefault.jpg",
+      "published": "2026-08-15T14:00:38Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -105,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=h7ye38bCGU8",
       "thumbnail": "https://i.ytimg.com/vi/h7ye38bCGU8/mqdefault_live.jpg",
       "published": "2026-08-14T12:11:52Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE ATLÉTICO-MG x GRÊMIO DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | 16/08 #11",
-      "videoId": "-jC4uUksLVM",
-      "url": "https://www.youtube.com/watch?v=-jC4uUksLVM",
-      "thumbnail": "https://i.ytimg.com/vi/-jC4uUksLVM/mqdefault_live.jpg",
-      "published": "2026-08-14T12:07:52Z"
     },
     {
       "channel": "Duda Garbi",
@@ -200,7 +216,7 @@
       "videoId": "hoPMDSQm3aU",
       "url": "https://www.youtube.com/watch?v=hoPMDSQm3aU",
       "thumbnail": "https://i.ytimg.com/vi/hoPMDSQm3aU/mqdefault_live.jpg",
-      "published": "2026-08-15T13:14:22Z"
+      "published": "2026-08-15T14:01:32Z"
     },
     {
       "channel": "Radio Grenal",
