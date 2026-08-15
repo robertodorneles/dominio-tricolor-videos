@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:18:02.735604+00:00",
+  "updated_at": "2026-08-15T15:00:33.293059+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO FEZ GRANDES TROCAS! REFORÇOS E RETORNOS! É UM NOVO PATAMAR! PRA ONDE VAMOS?",
+      "videoId": "AayQHurReOw",
+      "url": "https://www.youtube.com/watch?v=AayQHurReOw",
+      "thumbnail": "https://i.ytimg.com/vi/AayQHurReOw/mqdefault.jpg",
+      "published": "2026-08-15T14:39:30Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨NEGÓCIO FECHADO NO MÉXICO? | TITULARES SAINDO? | A ESTREIA CONFIRMADA | O BOM REFORÇO DO GRÊMIO!",
       "videoId": "qLgz3I8IzTs",
       "url": "https://www.youtube.com/watch?v=qLgz3I8IzTs",
       "thumbnail": "https://i.ytimg.com/vi/qLgz3I8IzTs/mqdefault.jpg",
       "published": "2026-08-14T23:15:14Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATACANTE FORTE ENTRA NA PAUTA | CARLOS VINÍCIUS SAINDO NO GRÊMIO? | INSISTÊNCIA E TEIMOSIA",
-      "videoId": "rmxbTlG4u2s",
-      "url": "https://www.youtube.com/watch?v=rmxbTlG4u2s",
-      "thumbnail": "https://i.ytimg.com/vi/rmxbTlG4u2s/mqdefault.jpg",
-      "published": "2026-08-14T14:45:19Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HELIO DE LA PENÃ MANDA RECADO: HOJE O CASSETA E PLANETA SERIA CANCELADO! | Cortes do Duda",
+      "videoId": "NdmU6KpZwkU",
+      "url": "https://www.youtube.com/watch?v=NdmU6KpZwkU",
+      "thumbnail": "https://i.ytimg.com/vi/NdmU6KpZwkU/mqdefault.jpg",
+      "published": "2026-08-15T15:00:02Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "PIADA QUE VIROU MEME: CHOCOLATE CUMPRIMENTA #dudagarbi #umassadopara",
       "videoId": "zlEfqurA9Kc",
       "url": "https://www.youtube.com/watch?v=zlEfqurA9Kc",
       "thumbnail": "https://i.ytimg.com/vi/zlEfqurA9Kc/mqdefault.jpg",
       "published": "2026-08-14T22:00:10Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "COMO JOGADORES E TÉCNICOS ATUAIS REAGIRIAM ÀS PIADAS DO CASSETA? | Cortes do Duda",
-      "videoId": "ljo_a1QRPDw",
-      "url": "https://www.youtube.com/watch?v=ljo_a1QRPDw",
-      "thumbnail": "https://i.ytimg.com/vi/ljo_a1QRPDw/mqdefault.jpg",
-      "published": "2026-08-14T21:30:16Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -232,7 +232,7 @@
       "videoId": "mls5X5in3b8",
       "url": "https://www.youtube.com/watch?v=mls5X5in3b8",
       "thumbnail": "https://i.ytimg.com/vi/mls5X5in3b8/mqdefault_live.jpg",
-      "published": "2026-08-15T13:08:14Z"
+      "published": "2026-08-15T14:59:02Z"
     },
     {
       "channel": "Radio Imortal",
