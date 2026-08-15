@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-15T02:54:02.474875+00:00",
+  "updated_at": "2026-08-15T09:00:32.647865+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: GRÊMIO REAGE POR CARLOS VINÍCIUS! Reunião marcada e ACORDO DA ARENA AVANÇA!",
+      "videoId": "Vk9e3UPWg1g",
+      "url": "https://www.youtube.com/watch?v=Vk9e3UPWg1g",
+      "thumbnail": "https://i.ytimg.com/vi/Vk9e3UPWg1g/mqdefault.jpg",
+      "published": "2026-08-15T06:00:07Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ TINGA LANÇOU UM MARCO! | 23 REAIS! | OBRA DE MILHÕES | SAIBA COMO AJUDAR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8agsHLQeypM",
       "thumbnail": "https://i.ytimg.com/vi/8agsHLQeypM/mqdefault.jpg",
       "published": "2026-08-14T20:09:07Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA COMO JOGA E COMO ENCAIXARÁ O VOLANTE DANILO BARBOSA NO TIME DE CASTRO",
-      "videoId": "dvIjk3R1jQU",
-      "url": "https://www.youtube.com/watch?v=dvIjk3R1jQU",
-      "thumbnail": "https://i.ytimg.com/vi/dvIjk3R1jQU/mqdefault.jpg",
-      "published": "2026-08-14T20:00:15Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Com que personagens da CULTURA POP os CANDIDATOS mais se IDENTIFICAM? 👀 | Conversa de Gabinete",
-      "videoId": "ebTlKNd69BI",
-      "url": "https://www.youtube.com/watch?v=ebTlKNd69BI",
-      "thumbnail": "https://i.ytimg.com/vi/ebTlKNd69BI/mqdefault.jpg",
-      "published": "2026-08-14T22:30:34Z"
+      "title": "SuperSábado | 15/08/2026",
+      "videoId": "-YPXvlkQInY",
+      "url": "https://www.youtube.com/watch?v=-YPXvlkQInY",
+      "thumbnail": "https://i.ytimg.com/vi/-YPXvlkQInY/mqdefault_live.jpg",
+      "published": "2026-08-15T08:17:51Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "LULA E FLÁVIO SE ENCONTRAM? AGENDAS PODEM COINCIDIR NO RS | Conversa de Gabinete",
-      "videoId": "T_2wajG8EzU",
-      "url": "https://www.youtube.com/watch?v=T_2wajG8EzU",
-      "thumbnail": "https://i.ytimg.com/vi/T_2wajG8EzU/mqdefault.jpg",
-      "published": "2026-08-14T22:00:33Z"
+      "title": "Direto de Caxias do Sul, entrevista com Rodolfo Abrantes, trânsito e mais | Gaúcha+ | 14/08/2026",
+      "videoId": "-VSiOtczvfk",
+      "url": "https://www.youtube.com/watch?v=-VSiOtczvfk",
+      "thumbnail": "https://i.ytimg.com/vi/-VSiOtczvfk/mqdefault.jpg",
+      "published": "2026-08-15T07:50:06Z"
     },
     {
       "channel": "Jeremias Wernek",
