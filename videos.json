@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:16:58.310853+00:00",
+  "updated_at": "2026-08-15T22:00:33.437494+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO [DIRETO DE BELO HORIZONTE-MG]",
       "videoId": "c3S5Ai7REfQ",
       "url": "https://www.youtube.com/watch?v=c3S5Ai7REfQ",
-      "thumbnail": "https://i.ytimg.com/vi/c3S5Ai7REfQ/mqdefault_live.jpg",
-      "published": "2026-08-15T19:54:21Z"
+      "thumbnail": "https://i.ytimg.com/vi/c3S5Ai7REfQ/mqdefault.jpg",
+      "published": "2026-08-15T21:40:09Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🛬 O GRÊMIO CHEGOU NO HOTEL EM BELO HORIZONTE!",
+      "videoId": "2F_gGuQMIM0",
+      "url": "https://www.youtube.com/watch?v=2F_gGuQMIM0",
+      "thumbnail": "https://i.ytimg.com/vi/2F_gGuQMIM0/mqdefault.jpg",
+      "published": "2026-08-15T21:41:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
       "videoId": "Y6WjybzK5_8",
       "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
       "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault_live.jpg",
       "published": "2026-08-15T20:00:30Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO ATLÉTICO-MG X GRÊMIO | DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | JORNADA IMORTAL",
-      "videoId": "M5dYfCo27Iw",
-      "url": "https://www.youtube.com/watch?v=M5dYfCo27Iw",
-      "thumbnail": "https://i.ytimg.com/vi/M5dYfCo27Iw/mqdefault_live.jpg",
-      "published": "2026-08-15T15:54:46Z"
     }
   ]
 }
