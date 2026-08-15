@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:17:00.953215+00:00",
+  "updated_at": "2026-08-15T18:00:32.414566+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "INVESTIDA MEXICANA! 🇪🇪👀",
+      "videoId": "pgbv8ClMTsI",
+      "url": "https://www.youtube.com/watch?v=pgbv8ClMTsI",
+      "thumbnail": "https://i.ytimg.com/vi/pgbv8ClMTsI/mqdefault.jpg",
+      "published": "2026-08-15T17:57:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "15/08/2026 | SABADAÇO GRENAL | RÁDIO GRENAL",
       "videoId": "hoPMDSQm3aU",
       "url": "https://www.youtube.com/watch?v=hoPMDSQm3aU",
       "thumbnail": "https://i.ytimg.com/vi/hoPMDSQm3aU/mqdefault_live.jpg",
       "published": "2026-08-15T14:01:32Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "14/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "zfkmcm4ECcQ",
-      "url": "https://www.youtube.com/watch?v=zfkmcm4ECcQ",
-      "thumbnail": "https://i.ytimg.com/vi/zfkmcm4ECcQ/mqdefault.jpg",
-      "published": "2026-08-14T23:36:12Z"
     },
     {
       "channel": "Radio Imortal",
