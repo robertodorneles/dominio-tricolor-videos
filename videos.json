@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-15T20:00:34.995610+00:00",
+  "updated_at": "2026-08-15T20:17:18.873012+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O RETORNO DE MARCELO MARQUES AO NOTICIÁRIO GREMISTA | NOVOS INVESTIMENTOS??",
+      "videoId": "RIDzhAxhUj8",
+      "url": "https://www.youtube.com/watch?v=RIDzhAxhUj8",
+      "thumbnail": "https://i.ytimg.com/vi/RIDzhAxhUj8/mqdefault.jpg",
+      "published": "2026-08-15T20:00:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Diário do Inter: CAVANI É POSSÍVEL | A CHANCE DE ARCE | ELIASSON CONTRA O REMO? |",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=fOssnSi7z40",
       "thumbnail": "https://i.ytimg.com/vi/fOssnSi7z40/mqdefault.jpg",
       "published": "2026-08-15T09:15:46Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: GRÊMIO REAGE POR CARLOS VINÍCIUS! Reunião marcada e ACORDO DA ARENA AVANÇA!",
-      "videoId": "Vk9e3UPWg1g",
-      "url": "https://www.youtube.com/watch?v=Vk9e3UPWg1g",
-      "thumbnail": "https://i.ytimg.com/vi/Vk9e3UPWg1g/mqdefault.jpg",
-      "published": "2026-08-15T06:00:07Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
+      "videoId": "Y6WjybzK5_8",
+      "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
+      "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault_live.jpg",
+      "published": "2026-08-15T20:00:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PRÉ-JOGO ATLÉTICO-MG X GRÊMIO | DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | JORNADA IMORTAL",
       "videoId": "M5dYfCo27Iw",
       "url": "https://www.youtube.com/watch?v=M5dYfCo27Iw",
       "thumbnail": "https://i.ytimg.com/vi/M5dYfCo27Iw/mqdefault_live.jpg",
       "published": "2026-08-15T15:54:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! TUDO SOBRE A PARTIDA | PROVÁVEL TIME DO GRÊMIO | PLANTÃO IMORTAL",
-      "videoId": "ANk9qcXLLRg",
-      "url": "https://www.youtube.com/watch?v=ANk9qcXLLRg",
-      "thumbnail": "https://i.ytimg.com/vi/ANk9qcXLLRg/mqdefault_live.jpg",
-      "published": "2026-08-15T15:50:41Z"
     }
   ]
 }
