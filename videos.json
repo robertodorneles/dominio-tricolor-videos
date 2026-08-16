@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-16T20:16:40.033221+00:00",
+  "updated_at": "2026-08-16T21:00:31.630731+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ BAKAMBU AINDA PODE VIR | ENTENDA AS RAZÕES | ESPERAM TERÇA",
+      "videoId": "m-TkUIuigfQ",
+      "url": "https://www.youtube.com/watch?v=m-TkUIuigfQ",
+      "thumbnail": "https://i.ytimg.com/vi/m-TkUIuigfQ/mqdefault.jpg",
+      "published": "2026-08-16T20:44:50Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: ⚠️ ATACANTE EM PORTO ALEGRE! | ARCE JOGOU | A ESTATUA QUASE PRONTA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=z6tC4KVt_Gw",
       "thumbnail": "https://i.ytimg.com/vi/z6tC4KVt_Gw/mqdefault.jpg",
       "published": "2026-08-16T05:31:27Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CARLOS VINÍCIUS RECUSA MILHÕES! MONSALVE AFASTADO E KROVINOVIĆ TITULAR?",
-      "videoId": "8C8I46MX7YI",
-      "url": "https://www.youtube.com/watch?v=8C8I46MX7YI",
-      "thumbnail": "https://i.ytimg.com/vi/8C8I46MX7YI/mqdefault.jpg",
-      "published": "2026-08-16T05:00:19Z"
     },
     {
       "channel": "Bage TV",
@@ -104,7 +104,7 @@
       "videoId": "XAL2LmvB58U",
       "url": "https://www.youtube.com/watch?v=XAL2LmvB58U",
       "thumbnail": "https://i.ytimg.com/vi/XAL2LmvB58U/mqdefault_live.jpg",
-      "published": "2026-08-16T14:09:12Z"
+      "published": "2026-08-16T20:57:47Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE ATLÉTICO-MG x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 16/08/26 #28",
+      "videoId": "h7ye38bCGU8",
+      "url": "https://www.youtube.com/watch?v=h7ye38bCGU8",
+      "thumbnail": "https://i.ytimg.com/vi/h7ye38bCGU8/mqdefault_live.jpg",
+      "published": "2026-08-16T20:55:27Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE ATLÉTICO-MG x GRÊMIO DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | 16/08 #11",
       "videoId": "-jC4uUksLVM",
       "url": "https://www.youtube.com/watch?v=-jC4uUksLVM",
       "thumbnail": "https://i.ytimg.com/vi/-jC4uUksLVM/mqdefault.jpg",
       "published": "2026-08-16T18:35:23Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "PROPOSTA MILIONÁRIA FOI RECUSADA! | GABRIEL MEC E A VIAGEM A EUROPA | RÔMULO, MONSALVE E MAIS",
-      "videoId": "rkZggMYSrSw",
-      "url": "https://www.youtube.com/watch?v=rkZggMYSrSw",
-      "thumbnail": "https://i.ytimg.com/vi/rkZggMYSrSw/mqdefault.jpg",
-      "published": "2026-08-15T14:00:38Z"
     },
     {
       "channel": "Duda Garbi",
@@ -152,7 +152,7 @@
       "videoId": "jYa7KOSP-mw",
       "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
       "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault_live.jpg",
-      "published": "2026-08-16T17:37:11Z"
+      "published": "2026-08-16T20:58:42Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JORNADA ESPORTIVA | ATLÉTICO-MG 1X0 GRÊMIO | CAMPEONATO BRASILEIRO | 16/08/2026",
+      "title": "GOLS DE ATLÉTICO-MG 3X0 GRÊMIO | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | 16/08/2026 | RÁDIO GRENAL",
+      "videoId": "U_JeOElC0b4",
+      "url": "https://www.youtube.com/watch?v=U_JeOElC0b4",
+      "thumbnail": "https://i.ytimg.com/vi/U_JeOElC0b4/mqdefault.jpg",
+      "published": "2026-08-16T20:55:05Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "DEBATE BOLA | ATLÉTICO-MG 3X0 GRÊMIO | CAMPEONATO BRASILEIRO | 16/08/2026",
       "videoId": "fvemGmpQP9c",
       "url": "https://www.youtube.com/watch?v=fvemGmpQP9c",
       "thumbnail": "https://i.ytimg.com/vi/fvemGmpQP9c/mqdefault_live.jpg",
       "published": "2026-08-16T17:02:07Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "15/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "YDFBYMrN9zY",
-      "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
-      "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
-      "published": "2026-08-16T15:04:11Z"
     },
     {
       "channel": "Radio Imortal",
