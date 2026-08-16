@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:00:31.630731+00:00",
+  "updated_at": "2026-08-16T21:15:26.897378+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Vexame do Grêmio em Belo Horizonte",
+      "videoId": "X_1NJshz0Sw",
+      "url": "https://www.youtube.com/watch?v=X_1NJshz0Sw",
+      "thumbnail": "https://i.ytimg.com/vi/X_1NJshz0Sw/mqdefault.jpg",
+      "published": "2026-08-16T21:00:52Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Galo x Grêmio: times, mudanças e novidades para o jogo em BH",
       "videoId": "vm5FM-0ZZdY",
       "url": "https://www.youtube.com/watch?v=vm5FM-0ZZdY",
       "thumbnail": "https://i.ytimg.com/vi/vm5FM-0ZZdY/mqdefault.jpg",
       "published": "2026-08-16T15:05:56Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #654: Proposta do Carlos Vinícius | Monsalve | Favoritismo | Time do Grêmio e mais",
-      "videoId": "hNQtiOMgnVc",
-      "url": "https://www.youtube.com/watch?v=hNQtiOMgnVc",
-      "thumbnail": "https://i.ytimg.com/vi/hNQtiOMgnVc/mqdefault.jpg",
-      "published": "2026-08-15T19:23:29Z"
     },
     {
       "channel": "Canal do Farid",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "jYa7KOSP-mw",
       "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
-      "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault_live.jpg",
-      "published": "2026-08-16T20:58:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault.jpg",
+      "published": "2026-08-16T21:10:03Z"
     },
     {
       "channel": "GremioTV Oficial",
