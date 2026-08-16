@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:15:36.725056+00:00",
+  "updated_at": "2026-08-16T18:00:31.884012+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "9 Anos do Canal!",
-      "videoId": "DBRnho3JH_4",
-      "url": "https://www.youtube.com/watch?v=DBRnho3JH_4",
-      "thumbnail": "https://i.ytimg.com/vi/DBRnho3JH_4/mqdefault.jpg",
-      "published": "2026-08-16T16:48:59Z"
+      "title": "A REALIDADE FINANCEIRA DO GRÊMIO #JORNADADABAGETV",
+      "videoId": "kHxTcQUKF6k",
+      "url": "https://www.youtube.com/watch?v=kHxTcQUKF6k",
+      "thumbnail": "https://i.ytimg.com/vi/kHxTcQUKF6k/mqdefault.jpg",
+      "published": "2026-08-16T17:19:29Z"
     },
     {
       "channel": "Bage TV",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "jYa7KOSP-mw",
+      "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
+      "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault_live.jpg",
+      "published": "2026-08-16T17:37:11Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "RyluDFGZz84",
       "url": "https://www.youtube.com/watch?v=RyluDFGZz84",
       "thumbnail": "https://i.ytimg.com/vi/RyluDFGZz84/mqdefault_live.jpg",
       "published": "2026-08-16T11:57:29Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "jYa7KOSP-mw",
-      "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
-      "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault_live.jpg",
-      "published": "2026-08-16T11:55:30Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🗣️ O FIlipe Kunrath fala sobre a preservação do Villasanti e do Marlon.",
+      "videoId": "BiW9mfExRCg",
+      "url": "https://www.youtube.com/watch?v=BiW9mfExRCg",
+      "thumbnail": "https://i.ytimg.com/vi/BiW9mfExRCg/mqdefault.jpg",
+      "published": "2026-08-16T17:38:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🗣️O Cristiano Oliveira fala sobre as preservações do Grêmio, no gramado sintético da Arena MRV.",
       "videoId": "S3qyDqfWc8s",
       "url": "https://www.youtube.com/watch?v=S3qyDqfWc8s",
       "thumbnail": "https://i.ytimg.com/vi/S3qyDqfWc8s/mqdefault.jpg",
       "published": "2026-08-16T16:10:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO ATLÉTICO-MG X GRÊMIO | DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | JORNADA IMORTAL",
-      "videoId": "M5dYfCo27Iw",
-      "url": "https://www.youtube.com/watch?v=M5dYfCo27Iw",
-      "thumbnail": "https://i.ytimg.com/vi/M5dYfCo27Iw/mqdefault_live.jpg",
-      "published": "2026-08-16T14:58:59Z"
     }
   ]
 }
