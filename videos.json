@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T16:00:31.575377+00:00",
+  "updated_at": "2026-08-16T16:19:21.928460+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO [DIRETO DA ARENA MRV-MG]",
+      "videoId": "P1juNG92rmw",
+      "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
+      "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault_live.jpg",
+      "published": "2026-08-16T16:00:45Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO [DIRETO DE BELO HORIZONTE-MG]",
       "videoId": "c3S5Ai7REfQ",
       "url": "https://www.youtube.com/watch?v=c3S5Ai7REfQ",
       "thumbnail": "https://i.ytimg.com/vi/c3S5Ai7REfQ/mqdefault.jpg",
       "published": "2026-08-15T21:40:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ENCARA GALO COM DÚVIDA NO TIME 🌅🔵 BOM DIA GRÊMIO #099",
-      "videoId": "QHtJgTVk0j0",
-      "url": "https://www.youtube.com/watch?v=QHtJgTVk0j0",
-      "thumbnail": "https://i.ytimg.com/vi/QHtJgTVk0j0/mqdefault.jpg",
-      "published": "2026-08-15T15:18:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! TUDO SOBRE A PARTIDA | PROVÁVEL TIME DO GRÊMIO | PLANTÃO IMORTAL",
-      "videoId": "ANk9qcXLLRg",
-      "url": "https://www.youtube.com/watch?v=ANk9qcXLLRg",
-      "thumbnail": "https://i.ytimg.com/vi/ANk9qcXLLRg/mqdefault.jpg",
-      "published": "2026-08-16T15:06:14Z"
+      "title": "🗣️O Cristiano Oliveira fala sobre as preservações do Grêmio, no gramado sintético da Arena MRV.",
+      "videoId": "S3qyDqfWc8s",
+      "url": "https://www.youtube.com/watch?v=S3qyDqfWc8s",
+      "thumbnail": "https://i.ytimg.com/vi/S3qyDqfWc8s/mqdefault.jpg",
+      "published": "2026-08-16T16:10:55Z"
     },
     {
       "channel": "Radio Imortal",
