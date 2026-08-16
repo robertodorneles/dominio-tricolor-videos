@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:00:37.436170+00:00",
+  "updated_at": "2026-08-16T15:17:22.714255+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Galo x Grêmio: times, mudanças e novidades para o jogo em BH",
+      "videoId": "vm5FM-0ZZdY",
+      "url": "https://www.youtube.com/watch?v=vm5FM-0ZZdY",
+      "thumbnail": "https://i.ytimg.com/vi/vm5FM-0ZZdY/mqdefault.jpg",
+      "published": "2026-08-16T15:05:56Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #654: Proposta do Carlos Vinícius | Monsalve | Favoritismo | Time do Grêmio e mais",
       "videoId": "hNQtiOMgnVc",
       "url": "https://www.youtube.com/watch?v=hNQtiOMgnVc",
       "thumbnail": "https://i.ytimg.com/vi/hNQtiOMgnVc/mqdefault.jpg",
       "published": "2026-08-15T19:23:29Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #653: Nova camisa | Gabriel Mec | Arena do Grêmio | Chegada de Danilo Barbosa",
-      "videoId": "HBPO2iVXt8Q",
-      "url": "https://www.youtube.com/watch?v=HBPO2iVXt8Q",
-      "thumbnail": "https://i.ytimg.com/vi/HBPO2iVXt8Q/mqdefault.jpg",
-      "published": "2026-08-14T21:50:49Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "“ELES NÃO AGUENTARIAM NOSSAS PIADAS” #dudagarbi #umassadopara",
+      "videoId": "MfLzNolH7gQ",
+      "url": "https://www.youtube.com/watch?v=MfLzNolH7gQ",
+      "thumbnail": "https://i.ytimg.com/vi/MfLzNolH7gQ/mqdefault.jpg",
+      "published": "2026-08-16T15:00:32Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... ROGER MACHADO | #404",
       "videoId": "1_SvqTqrNdM",
       "url": "https://www.youtube.com/watch?v=1_SvqTqrNdM",
       "thumbnail": "https://i.ytimg.com/vi/1_SvqTqrNdM/mqdefault.jpg",
       "published": "2026-08-16T00:20:29Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HELIO DE LA PENÃ MANDA RECADO: HOJE O CASSETA E PLANETA SERIA CANCELADO! | Cortes do Duda",
-      "videoId": "NdmU6KpZwkU",
-      "url": "https://www.youtube.com/watch?v=NdmU6KpZwkU",
-      "thumbnail": "https://i.ytimg.com/vi/NdmU6KpZwkU/mqdefault.jpg",
-      "published": "2026-08-15T15:00:02Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "15/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "hoPMDSQm3aU",
-      "url": "https://www.youtube.com/watch?v=hoPMDSQm3aU",
-      "thumbnail": "https://i.ytimg.com/vi/hoPMDSQm3aU/mqdefault.jpg",
-      "published": "2026-08-15T19:13:31Z"
+      "title": "ESQUENTANDO O JOGO | ATLÉTICO-MG X GRÊMIO | CAMPEONATO BRASILEIRO | 16/08/2026",
+      "videoId": "fvemGmpQP9c",
+      "url": "https://www.youtube.com/watch?v=fvemGmpQP9c",
+      "thumbnail": "https://i.ytimg.com/vi/fvemGmpQP9c/mqdefault_live.jpg",
+      "published": "2026-08-16T15:09:54Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "INVESTIDA MEXICANA! 🇪🇪👀",
-      "videoId": "pgbv8ClMTsI",
-      "url": "https://www.youtube.com/watch?v=pgbv8ClMTsI",
-      "thumbnail": "https://i.ytimg.com/vi/pgbv8ClMTsI/mqdefault.jpg",
-      "published": "2026-08-15T17:57:53Z"
+      "title": "15/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "YDFBYMrN9zY",
+      "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
+      "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
+      "published": "2026-08-16T15:04:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! TUDO SOBRE A PARTIDA | PROVÁVEL TIME DO GRÊMIO | PLANTÃO IMORTAL",
+      "videoId": "ANk9qcXLLRg",
+      "url": "https://www.youtube.com/watch?v=ANk9qcXLLRg",
+      "thumbnail": "https://i.ytimg.com/vi/ANk9qcXLLRg/mqdefault.jpg",
+      "published": "2026-08-16T15:06:14Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=M5dYfCo27Iw",
       "thumbnail": "https://i.ytimg.com/vi/M5dYfCo27Iw/mqdefault_live.jpg",
       "published": "2026-08-16T14:58:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! TUDO SOBRE A PARTIDA | PROVÁVEL TIME DO GRÊMIO | PLANTÃO IMORTAL",
-      "videoId": "ANk9qcXLLRg",
-      "url": "https://www.youtube.com/watch?v=ANk9qcXLLRg",
-      "thumbnail": "https://i.ytimg.com/vi/ANk9qcXLLRg/mqdefault_live.jpg",
-      "published": "2026-08-16T13:00:20Z"
     }
   ]
 }
