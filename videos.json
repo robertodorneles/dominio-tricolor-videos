@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:00:33.713907+00:00",
+  "updated_at": "2026-08-16T13:27:35.820354+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! TUDO SOBRE A PARTIDA | PROVÁVEL TIME DO GRÊMIO | PLANTÃO IMORTAL",
+      "videoId": "ANk9qcXLLRg",
+      "url": "https://www.youtube.com/watch?v=ANk9qcXLLRg",
+      "thumbnail": "https://i.ytimg.com/vi/ANk9qcXLLRg/mqdefault_live.jpg",
+      "published": "2026-08-16T13:00:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM MINAS GERAIS | LISTA DE RELACIONADOS PARA JOGO DO BRASILEIRÃO",
       "videoId": "Y6WjybzK5_8",
       "url": "https://www.youtube.com/watch?v=Y6WjybzK5_8",
       "thumbnail": "https://i.ytimg.com/vi/Y6WjybzK5_8/mqdefault.jpg",
       "published": "2026-08-16T00:23:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🛬 O GRÊMIO CHEGOU NO HOTEL EM BELO HORIZONTE!",
-      "videoId": "2F_gGuQMIM0",
-      "url": "https://www.youtube.com/watch?v=2F_gGuQMIM0",
-      "thumbnail": "https://i.ytimg.com/vi/2F_gGuQMIM0/mqdefault.jpg",
-      "published": "2026-08-15T21:41:50Z"
     }
   ]
 }
