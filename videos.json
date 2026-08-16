@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-16T21:15:26.897378+00:00",
+  "updated_at": "2026-08-16T22:00:36.611148+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 0x3 Atlético-MG: CASTRO ERROU TUDO! Time é atropelado em BH e preocupa",
+      "videoId": "Zraptkw5hUc",
+      "url": "https://www.youtube.com/watch?v=Zraptkw5hUc",
+      "thumbnail": "https://i.ytimg.com/vi/Zraptkw5hUc/mqdefault.jpg",
+      "published": "2026-08-16T21:36:56Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ BAKAMBU AINDA PODE VIR | ENTENDA AS RAZÕES | ESPERAM TERÇA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=m-TkUIuigfQ",
       "thumbnail": "https://i.ytimg.com/vi/m-TkUIuigfQ/mqdefault.jpg",
       "published": "2026-08-16T20:44:50Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: ⚠️ ATACANTE EM PORTO ALEGRE! | ARCE JOGOU | A ESTATUA QUASE PRONTA",
-      "videoId": "z6tC4KVt_Gw",
-      "url": "https://www.youtube.com/watch?v=z6tC4KVt_Gw",
-      "thumbnail": "https://i.ytimg.com/vi/z6tC4KVt_Gw/mqdefault.jpg",
-      "published": "2026-08-16T05:31:27Z"
     },
     {
       "channel": "Bage TV",
@@ -52,27 +52,27 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Vexame do Grêmio em Belo Horizonte",
-      "videoId": "X_1NJshz0Sw",
-      "url": "https://www.youtube.com/watch?v=X_1NJshz0Sw",
-      "thumbnail": "https://i.ytimg.com/vi/X_1NJshz0Sw/mqdefault.jpg",
-      "published": "2026-08-16T21:00:52Z"
+      "title": "Galo 3 x 0 Grêmio: vexame do Grêmio de Luis Castro em Belo Horizonte",
+      "videoId": "D8L98P30wLc",
+      "url": "https://www.youtube.com/watch?v=D8L98P30wLc",
+      "thumbnail": "https://i.ytimg.com/vi/D8L98P30wLc/mqdefault.jpg",
+      "published": "2026-08-16T21:53:39Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Galo x Grêmio: times, mudanças e novidades para o jogo em BH",
-      "videoId": "vm5FM-0ZZdY",
-      "url": "https://www.youtube.com/watch?v=vm5FM-0ZZdY",
-      "thumbnail": "https://i.ytimg.com/vi/vm5FM-0ZZdY/mqdefault.jpg",
-      "published": "2026-08-16T15:05:56Z"
+      "title": "GALO 3 X 0 GRÊMIO: VEXAME EM BELO HORIZONTE",
+      "videoId": "i_-3rhy31bc",
+      "url": "https://www.youtube.com/watch?v=i_-3rhy31bc",
+      "thumbnail": "https://i.ytimg.com/vi/i_-3rhy31bc/mqdefault_live.jpg",
+      "published": "2026-08-16T21:15:31Z"
     },
     {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X ATLÉTICO-MG | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 16/08/2026",
       "videoId": "6aZR-RWRpq8",
       "url": "https://www.youtube.com/watch?v=6aZR-RWRpq8",
-      "thumbnail": "https://i.ytimg.com/vi/6aZR-RWRpq8/mqdefault_live.jpg",
-      "published": "2026-08-16T17:00:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/6aZR-RWRpq8/mqdefault.jpg",
+      "published": "2026-08-16T21:55:37Z"
     },
     {
       "channel": "Canal do Farid",
@@ -104,15 +104,15 @@
       "videoId": "XAL2LmvB58U",
       "url": "https://www.youtube.com/watch?v=XAL2LmvB58U",
       "thumbnail": "https://i.ytimg.com/vi/XAL2LmvB58U/mqdefault_live.jpg",
-      "published": "2026-08-16T20:57:47Z"
+      "published": "2026-08-16T21:52:40Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "SUPERSALÁRIO NA MÃO: CARLOS VINÍCIUS | ESTÃO FORA: ATLETICO X GRÊMIO | MONSALVE AFASTADO?",
-      "videoId": "xbsNa_3p8lo",
-      "url": "https://www.youtube.com/watch?v=xbsNa_3p8lo",
-      "thumbnail": "https://i.ytimg.com/vi/xbsNa_3p8lo/mqdefault.jpg",
-      "published": "2026-08-15T22:56:57Z"
+      "title": "DERROTA DE LUIS CASTRO! ALERTA NO GRE-NAL  | COMENTÁRIO ATLÉTICO-MG 3 X 0 GRÊMIO.",
+      "videoId": "R49JjCKqqsc",
+      "url": "https://www.youtube.com/watch?v=R49JjCKqqsc",
+      "thumbnail": "https://i.ytimg.com/vi/R49JjCKqqsc/mqdefault.jpg",
+      "published": "2026-08-16T21:37:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,27 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "“ELES NÃO AGUENTARIAM NOSSAS PIADAS” #dudagarbi #umassadopara",
-      "videoId": "MfLzNolH7gQ",
-      "url": "https://www.youtube.com/watch?v=MfLzNolH7gQ",
-      "thumbnail": "https://i.ytimg.com/vi/MfLzNolH7gQ/mqdefault.jpg",
-      "published": "2026-08-16T15:00:32Z"
-    },
-    {
-      "channel": "Duda Garbi",
       "title": "UM ASSADO PARA... ROGER MACHADO | #404",
       "videoId": "1_SvqTqrNdM",
       "url": "https://www.youtube.com/watch?v=1_SvqTqrNdM",
       "thumbnail": "https://i.ytimg.com/vi/1_SvqTqrNdM/mqdefault.jpg",
-      "published": "2026-08-16T00:20:29Z"
+      "published": "2026-08-16T22:00:06Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "Hospício - 18/08",
+      "videoId": "4jDGtwovjIA",
+      "url": "https://www.youtube.com/watch?v=4jDGtwovjIA",
+      "thumbnail": "https://i.ytimg.com/vi/4jDGtwovjIA/mqdefault_live.jpg",
+      "published": "2026-08-16T21:28:04Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "RyluDFGZz84",
+      "url": "https://www.youtube.com/watch?v=RyluDFGZz84",
+      "thumbnail": "https://i.ytimg.com/vi/RyluDFGZz84/mqdefault.jpg",
+      "published": "2026-08-16T21:36:56Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
       "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault.jpg",
       "published": "2026-08-16T21:10:03Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "RyluDFGZz84",
-      "url": "https://www.youtube.com/watch?v=RyluDFGZz84",
-      "thumbnail": "https://i.ytimg.com/vi/RyluDFGZz84/mqdefault_live.jpg",
-      "published": "2026-08-16T11:57:29Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | ATLÉTICO-MG 3X0 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL",
+      "videoId": "B04Srw0l7cs",
+      "url": "https://www.youtube.com/watch?v=B04Srw0l7cs",
+      "thumbnail": "https://i.ytimg.com/vi/B04Srw0l7cs/mqdefault.jpg",
+      "published": "2026-08-16T21:45:01Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE ATLÉTICO-MG 3X0 GRÊMIO | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | 16/08/2026 | RÁDIO GRENAL",
       "videoId": "U_JeOElC0b4",
       "url": "https://www.youtube.com/watch?v=U_JeOElC0b4",
@@ -219,28 +227,20 @@
       "published": "2026-08-16T20:55:05Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "DEBATE BOLA | ATLÉTICO-MG 3X0 GRÊMIO | CAMPEONATO BRASILEIRO | 16/08/2026",
-      "videoId": "fvemGmpQP9c",
-      "url": "https://www.youtube.com/watch?v=fvemGmpQP9c",
-      "thumbnail": "https://i.ytimg.com/vi/fvemGmpQP9c/mqdefault_live.jpg",
-      "published": "2026-08-16T17:02:07Z"
+      "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️ O TREINADOR LUÍS CASTRO EXPLICOU O QUE FALTOU PARA O GRÊMIO.",
+      "videoId": "g84ZG5va0bo",
+      "url": "https://www.youtube.com/watch?v=g84ZG5va0bo",
+      "thumbnail": "https://i.ytimg.com/vi/g84ZG5va0bo/mqdefault.jpg",
+      "published": "2026-08-16T21:42:01Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DE DANILO BARBOSA EM PORTO ALEGRE | NOVO REFORÇO DO GRÊMIO | DIRETO DO AEROPORTO",
-      "videoId": "4czB7k_Ef0c",
-      "url": "https://www.youtube.com/watch?v=4czB7k_Ef0c",
-      "thumbnail": "https://i.ytimg.com/vi/4czB7k_Ef0c/mqdefault_live.jpg",
-      "published": "2026-08-16T19:07:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🗣️ O FIlipe Kunrath fala sobre a preservação do Villasanti e do Marlon.",
-      "videoId": "BiW9mfExRCg",
-      "url": "https://www.youtube.com/watch?v=BiW9mfExRCg",
-      "thumbnail": "https://i.ytimg.com/vi/BiW9mfExRCg/mqdefault.jpg",
-      "published": "2026-08-16T17:38:42Z"
+      "title": "🇪🇪🗣️ O TREINADOR FALA SOBRE A GOLEADA SOFRIDA!",
+      "videoId": "vznR00K1TNE",
+      "url": "https://www.youtube.com/watch?v=vznR00K1TNE",
+      "thumbnail": "https://i.ytimg.com/vi/vznR00K1TNE/mqdefault.jpg",
+      "published": "2026-08-16T21:34:08Z"
     }
   ]
 }
