@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-16T23:00:28.709075+00:00",
+  "updated_at": "2026-08-16T23:15:30.037726+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: DERROTA DURA EM BH PARA O GRÊMIO | INTER SE PREPARA PARA RESPONDER",
+      "videoId": "4n5h6eWGtvE",
+      "url": "https://www.youtube.com/watch?v=4n5h6eWGtvE",
+      "thumbnail": "https://i.ytimg.com/vi/4n5h6eWGtvE/mqdefault_live.jpg",
+      "published": "2026-08-16T23:09:34Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 0x3 Atlético-MG: CASTRO ERROU TUDO! Time é atropelado em BH e preocupa",
@@ -11,12 +19,12 @@
       "published": "2026-08-16T21:36:56Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: ⚠️ BAKAMBU AINDA PODE VIR | ENTENDA AS RAZÕES | ESPERAM TERÇA",
-      "videoId": "m-TkUIuigfQ",
-      "url": "https://www.youtube.com/watch?v=m-TkUIuigfQ",
-      "thumbnail": "https://i.ytimg.com/vi/m-TkUIuigfQ/mqdefault.jpg",
-      "published": "2026-08-16T20:44:50Z"
+      "channel": "Bage TV",
+      "title": "DERROTA EM BH! NA BEIRA DO Z4.",
+      "videoId": "JBNbdkabQoY",
+      "url": "https://www.youtube.com/watch?v=JBNbdkabQoY",
+      "thumbnail": "https://i.ytimg.com/vi/JBNbdkabQoY/mqdefault.jpg",
+      "published": "2026-08-16T23:00:17Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=6bgwES4Pki0",
       "thumbnail": "https://i.ytimg.com/vi/6bgwES4Pki0/mqdefault.jpg",
       "published": "2026-08-16T22:45:16Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PERDER PARA O ATLÉTICO-MG E SE COMPLICA NO BRASILEIRÃO.",
-      "videoId": "94dFzFmEQjs",
-      "url": "https://www.youtube.com/watch?v=94dFzFmEQjs",
-      "thumbnail": "https://i.ytimg.com/vi/94dFzFmEQjs/mqdefault.jpg",
-      "published": "2026-08-16T22:32:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "QUEM COBRA LUIS CASTRO? DIREÇÃO DEU DIAGNÓSTICO. #gremio #futebol #brasileirao",
+      "videoId": "MZW0LadFNbs",
+      "url": "https://www.youtube.com/watch?v=MZW0LadFNbs",
+      "thumbnail": "https://i.ytimg.com/vi/MZW0LadFNbs/mqdefault.jpg",
+      "published": "2026-08-16T23:00:50Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ATLÉTICO MINEIRO X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "XAL2LmvB58U",
       "url": "https://www.youtube.com/watch?v=XAL2LmvB58U",
       "thumbnail": "https://i.ytimg.com/vi/XAL2LmvB58U/mqdefault.jpg",
       "published": "2026-08-16T22:01:25Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DERROTA DE LUIS CASTRO! ALERTA NO GRE-NAL  | COMENTÁRIO ATLÉTICO-MG 3 X 0 GRÊMIO.",
-      "videoId": "R49JjCKqqsc",
-      "url": "https://www.youtube.com/watch?v=R49JjCKqqsc",
-      "thumbnail": "https://i.ytimg.com/vi/R49JjCKqqsc/mqdefault.jpg",
-      "published": "2026-08-16T21:37:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "“TENHO UMA HISTÓRIA NO GRÊMIO” #dudagarbi #umassadopara",
-      "videoId": "THH66XVj5So",
-      "url": "https://www.youtube.com/watch?v=THH66XVj5So",
-      "thumbnail": "https://i.ytimg.com/vi/THH66XVj5So/mqdefault.jpg",
-      "published": "2026-08-16T22:30:16Z"
+      "title": "ROGER SE POSICIONA SOBRE CALÇADA DA FAMA E RELAÇÃO COM TORCIDA DO GRÊMIO | Cortes do Duda",
+      "videoId": "DcCWkEryHaE",
+      "url": "https://www.youtube.com/watch?v=DcCWkEryHaE",
+      "thumbnail": "https://i.ytimg.com/vi/DcCWkEryHaE/mqdefault.jpg",
+      "published": "2026-08-16T23:00:20Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO ATLÉTICO-MG (3) X (0) GRÊMIO | COLETIVA LUÍS CASTRO | JORNADA IMORTAL",
-      "videoId": "M5dYfCo27Iw",
-      "url": "https://www.youtube.com/watch?v=M5dYfCo27Iw",
-      "thumbnail": "https://i.ytimg.com/vi/M5dYfCo27Iw/mqdefault_live.jpg",
-      "published": "2026-08-16T22:54:33Z"
+      "title": "ESTREIA: CAFÉ COM A IMORTAL #01 | GRÊMIO SOFRE DERROTA PESADA PARA O ATLÉTICO-MG",
+      "videoId": "Hbj7djMJvwA",
+      "url": "https://www.youtube.com/watch?v=Hbj7djMJvwA",
+      "thumbnail": "https://i.ytimg.com/vi/Hbj7djMJvwA/mqdefault_live.jpg",
+      "published": "2026-08-16T23:14:49Z"
     },
     {
       "channel": "Radio Imortal",
