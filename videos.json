@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T23:00:27.966929+00:00",
+  "updated_at": "2026-08-17T23:18:41.667471+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#006",
+      "videoId": "8FdnvHeg4_c",
+      "url": "https://www.youtube.com/watch?v=8FdnvHeg4_c",
+      "thumbnail": "https://i.ytimg.com/vi/8FdnvHeg4_c/mqdefault_live.jpg",
+      "published": "2026-08-17T23:15:15Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🚨 VEXAME DO GRÊMIO EM BH! NEYMAR DÁ SHOW E INTER PODE SAIR DO Z4📰BAGÉTV NEWS #018",
       "videoId": "rnYQQGc-qLk",
       "url": "https://www.youtube.com/watch?v=rnYQQGc-qLk",
       "thumbnail": "https://i.ytimg.com/vi/rnYQQGc-qLk/mqdefault.jpg",
       "published": "2026-08-17T22:17:32Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "MANO A MANO DA COPA DO BRASIL #GRENALDACOPA",
-      "videoId": "fI_OVmxfZdg",
-      "url": "https://www.youtube.com/watch?v=fI_OVmxfZdg",
-      "thumbnail": "https://i.ytimg.com/vi/fI_OVmxfZdg/mqdefault.jpg",
-      "published": "2026-08-17T20:19:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "ktO8D7AeBjI",
       "url": "https://www.youtube.com/watch?v=ktO8D7AeBjI",
       "thumbnail": "https://i.ytimg.com/vi/ktO8D7AeBjI/mqdefault_live.jpg",
-      "published": "2026-08-17T22:01:56Z"
+      "published": "2026-08-17T23:03:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "BRAITHWAITE SAINDO? NOVA RESCISÃO? | MUDANÇAS NO TIME | PRESERVAÇÃO | DISCURSO INTERNO E EXTERNO",
+      "videoId": "4xhjqUVBke4",
+      "url": "https://www.youtube.com/watch?v=4xhjqUVBke4",
+      "thumbnail": "https://i.ytimg.com/vi/4xhjqUVBke4/mqdefault.jpg",
+      "published": "2026-08-17T23:00:58Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE ATLÉTICO-MG x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 16/08/26 #28",
       "videoId": "h7ye38bCGU8",
       "url": "https://www.youtube.com/watch?v=h7ye38bCGU8",
       "thumbnail": "https://i.ytimg.com/vi/h7ye38bCGU8/mqdefault.jpg",
       "published": "2026-08-16T22:22:52Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE ATLÉTICO-MG x GRÊMIO DIRETO DA ARENA MRV | BRASILEIRÃO 2026 | 16/08 #11",
-      "videoId": "-jC4uUksLVM",
-      "url": "https://www.youtube.com/watch?v=-jC4uUksLVM",
-      "thumbnail": "https://i.ytimg.com/vi/-jC4uUksLVM/mqdefault.jpg",
-      "published": "2026-08-16T18:35:23Z"
     },
     {
       "channel": "Duda Garbi",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "A ÓTIMA NOTÍCIA QUE O GRÊMIO PODE RECEBER DO BOTAFOGO",
+      "videoId": "gwmzwFgHckc",
+      "url": "https://www.youtube.com/watch?v=gwmzwFgHckc",
+      "thumbnail": "https://i.ytimg.com/vi/gwmzwFgHckc/mqdefault.jpg",
+      "published": "2026-08-17T23:14:33Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨BOMBA REVELADA NO GRÊMIO | JOGADORES DESMOBILIZADOS? | NÚMEROS QUE ASSUSTAM",
       "videoId": "lUmcYsfa2_g",
       "url": "https://www.youtube.com/watch?v=lUmcYsfa2_g",
@@ -203,16 +211,8 @@
       "published": "2026-08-17T17:02:02Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨MUDANÇA NO GRÊMIO | \"ESTÁ DENTRO DO ESPERADO\" | GOLEADA PRA ENVERGONHAR",
-      "videoId": "dkkgiI6ZeZs",
-      "url": "https://www.youtube.com/watch?v=dkkgiI6ZeZs",
-      "thumbnail": "https://i.ytimg.com/vi/dkkgiI6ZeZs/mqdefault.jpg",
-      "published": "2026-08-16T23:21:34Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BEIRA-RIO | INTER 0 X 0 REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
+      "title": "AO VIVO DO BEIRA-RIO | INTER 1 X 0 REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
       "videoId": "p_gqUPdedhc",
       "url": "https://www.youtube.com/watch?v=p_gqUPdedhc",
       "thumbnail": "https://i.ytimg.com/vi/p_gqUPdedhc/mqdefault_live.jpg",
