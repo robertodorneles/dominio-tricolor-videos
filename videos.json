@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:00:37.456027+00:00",
+  "updated_at": "2026-08-17T16:21:53.085074+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "As muitas perguntas que o Grêmio deixou em aberto",
+      "videoId": "44LquP8Txd8",
+      "url": "https://www.youtube.com/watch?v=44LquP8Txd8",
+      "thumbnail": "https://i.ytimg.com/vi/44LquP8Txd8/mqdefault.jpg",
+      "published": "2026-08-17T16:07:34Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "“O torcedor do Grêmio tem que saber a verdade” Pelaipe após a derrota para o Atlético Mineiro",
       "videoId": "jXqUIZ5igfo",
       "url": "https://www.youtube.com/watch?v=jXqUIZ5igfo",
       "thumbnail": "https://i.ytimg.com/vi/jXqUIZ5igfo/mqdefault.jpg",
       "published": "2026-08-16T23:32:51Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "GALO 3 X 0 GRÊMIO: VEXAME EM BELO HORIZONTE",
-      "videoId": "i_-3rhy31bc",
-      "url": "https://www.youtube.com/watch?v=i_-3rhy31bc",
-      "thumbnail": "https://i.ytimg.com/vi/i_-3rhy31bc/mqdefault.jpg",
-      "published": "2026-08-16T22:45:12Z"
     },
     {
       "channel": "Canal do Farid",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/08/2026 | DUPLA EM DEBATE:PRORROGAÇÃO | RÁDIO GRENAL",
+      "title": "17/08/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "YDFBYMrN9zY",
       "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
       "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
