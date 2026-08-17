@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:15:30.037726+00:00",
+  "updated_at": "2026-08-17T00:00:36.100079+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO [DIRETO DA ARENA MRV-MG]",
+      "videoId": "P1juNG92rmw",
+      "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
+      "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault.jpg",
+      "published": "2026-08-16T23:32:00Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DERROTA EM BH! NA BEIRA DO Z4.",
       "videoId": "JBNbdkabQoY",
       "url": "https://www.youtube.com/watch?v=JBNbdkabQoY",
       "thumbnail": "https://i.ytimg.com/vi/JBNbdkabQoY/mqdefault.jpg",
       "published": "2026-08-16T23:00:17Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DERROTA COM A CARA DO LUÍS CASTRO",
-      "videoId": "6bgwES4Pki0",
-      "url": "https://www.youtube.com/watch?v=6bgwES4Pki0",
-      "thumbnail": "https://i.ytimg.com/vi/6bgwES4Pki0/mqdefault.jpg",
-      "published": "2026-08-16T22:45:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "“O torcedor do Grêmio tem que saber a verdade” Pelaipe após a derrota para o Atlético Mineiro",
+      "videoId": "jXqUIZ5igfo",
+      "url": "https://www.youtube.com/watch?v=jXqUIZ5igfo",
+      "thumbnail": "https://i.ytimg.com/vi/jXqUIZ5igfo/mqdefault.jpg",
+      "published": "2026-08-16T23:32:51Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "GALO 3 X 0 GRÊMIO: VEXAME EM BELO HORIZONTE",
       "videoId": "i_-3rhy31bc",
       "url": "https://www.youtube.com/watch?v=i_-3rhy31bc",
       "thumbnail": "https://i.ytimg.com/vi/i_-3rhy31bc/mqdefault.jpg",
       "published": "2026-08-16T22:45:12Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O GRÊMIO FOI MELANCÓLICO",
-      "videoId": "ZEtBqc0bXBs",
-      "url": "https://www.youtube.com/watch?v=ZEtBqc0bXBs",
-      "thumbnail": "https://i.ytimg.com/vi/ZEtBqc0bXBs/mqdefault.jpg",
-      "published": "2026-08-16T22:35:20Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "ROGER SE POSICIONA SOBRE CALÇADA DA FAMA E RELAÇÃO COM TORCIDA DO GRÊMIO | Cortes do Duda",
-      "videoId": "DcCWkEryHaE",
-      "url": "https://www.youtube.com/watch?v=DcCWkEryHaE",
-      "thumbnail": "https://i.ytimg.com/vi/DcCWkEryHaE/mqdefault.jpg",
-      "published": "2026-08-16T23:00:20Z"
+      "title": "O GAUCHÃO QUE VIROU COPA DO MUNDO E O PAPEL DE D'ALESSANDRO - ROGER FALA TUDO | Cortes do Duda",
+      "videoId": "6mtNqjPT6xQ",
+      "url": "https://www.youtube.com/watch?v=6mtNqjPT6xQ",
+      "thumbnail": "https://i.ytimg.com/vi/6mtNqjPT6xQ/mqdefault.jpg",
+      "published": "2026-08-16T23:30:20Z"
     },
     {
       "channel": "Duda Garbi",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨MUDANÇA NO GRÊMIO | \"ESTÁ DENTRO DO ESPERADO\" | GOLEADA PRA ENVERGONHAR",
+      "videoId": "dkkgiI6ZeZs",
+      "url": "https://www.youtube.com/watch?v=dkkgiI6ZeZs",
+      "thumbnail": "https://i.ytimg.com/vi/dkkgiI6ZeZs/mqdefault.jpg",
+      "published": "2026-08-16T23:21:34Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨UM CAMINHÃO DE DINHEIRO | INFORMAÇÃO MUITO FORTE! | JOGADOR PUNIDO",
       "videoId": "AH4wGoULuR0",
       "url": "https://www.youtube.com/watch?v=AH4wGoULuR0",
       "thumbnail": "https://i.ytimg.com/vi/AH4wGoULuR0/mqdefault.jpg",
       "published": "2026-08-15T19:37:10Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨CHEGADA DE NOVO REFORÇO DO GRÊMIO | CARLOS VINÍCIUS: ALERTA LIGADO | HOMENAGEM NA ESPLANADA",
-      "videoId": "48tkuRxobi4",
-      "url": "https://www.youtube.com/watch?v=48tkuRxobi4",
-      "thumbnail": "https://i.ytimg.com/vi/48tkuRxobi4/mqdefault.jpg",
-      "published": "2026-08-14T21:40:22Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESTREIA: CAFÉ COM A IMORTAL #01 | GRÊMIO SOFRE DERROTA PESADA PARA O ATLÉTICO-MG",
-      "videoId": "Hbj7djMJvwA",
-      "url": "https://www.youtube.com/watch?v=Hbj7djMJvwA",
-      "thumbnail": "https://i.ytimg.com/vi/Hbj7djMJvwA/mqdefault_live.jpg",
-      "published": "2026-08-16T23:14:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DE DANILO BARBOSA EM PORTO ALEGRE | NOVO REFORÇO DO GRÊMIO | DIRETO DO AEROPORTO",
       "videoId": "4czB7k_Ef0c",
       "url": "https://www.youtube.com/watch?v=4czB7k_Ef0c",
-      "thumbnail": "https://i.ytimg.com/vi/4czB7k_Ef0c/mqdefault_live.jpg",
-      "published": "2026-08-16T22:54:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/4czB7k_Ef0c/mqdefault.jpg",
+      "published": "2026-08-16T23:56:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 17/08",
+      "videoId": "TjSGtIyXo5c",
+      "url": "https://www.youtube.com/watch?v=TjSGtIyXo5c",
+      "thumbnail": "https://i.ytimg.com/vi/TjSGtIyXo5c/mqdefault_live.jpg",
+      "published": "2026-08-16T23:36:32Z"
     }
   ]
 }
