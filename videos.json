@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T09:00:35.692883+00:00",
+  "updated_at": "2026-08-17T09:36:26.141389+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO FAZ FIASCO EM BH 🌅🔵 BOM DIA GRÊMIO #100",
+      "videoId": "azBeQbtbNgA",
+      "url": "https://www.youtube.com/watch?v=azBeQbtbNgA",
+      "thumbnail": "https://i.ytimg.com/vi/azBeQbtbNgA/mqdefault_live.jpg",
+      "published": "2026-08-17T09:27:21Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO [DIRETO DA ARENA MRV-MG]",
       "videoId": "P1juNG92rmw",
       "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
       "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault.jpg",
       "published": "2026-08-16T23:32:00Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DERROTA EM BH! NA BEIRA DO Z4.",
-      "videoId": "JBNbdkabQoY",
-      "url": "https://www.youtube.com/watch?v=JBNbdkabQoY",
-      "thumbnail": "https://i.ytimg.com/vi/JBNbdkabQoY/mqdefault.jpg",
-      "published": "2026-08-16T23:00:17Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ESTREIA: CAFÉ COM A IMORTAL #01 | GRÊMIO SOFRE DERROTA PESADA PARA O ATLÉTICO-MG",
+      "videoId": "Hbj7djMJvwA",
+      "url": "https://www.youtube.com/watch?v=Hbj7djMJvwA",
+      "thumbnail": "https://i.ytimg.com/vi/Hbj7djMJvwA/mqdefault_live.jpg",
+      "published": "2026-08-17T09:31:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DE DANILO BARBOSA EM PORTO ALEGRE | NOVO REFORÇO DO GRÊMIO | DIRETO DO AEROPORTO",
       "videoId": "4czB7k_Ef0c",
       "url": "https://www.youtube.com/watch?v=4czB7k_Ef0c",
       "thumbnail": "https://i.ytimg.com/vi/4czB7k_Ef0c/mqdefault.jpg",
       "published": "2026-08-16T23:56:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 17/08",
-      "videoId": "TjSGtIyXo5c",
-      "url": "https://www.youtube.com/watch?v=TjSGtIyXo5c",
-      "thumbnail": "https://i.ytimg.com/vi/TjSGtIyXo5c/mqdefault_live.jpg",
-      "published": "2026-08-16T23:36:32Z"
     }
   ]
 }
