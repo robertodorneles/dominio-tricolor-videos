@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T12:00:35.253366+00:00",
+  "updated_at": "2026-08-17T12:35:41.703962+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "azBeQbtbNgA",
       "url": "https://www.youtube.com/watch?v=azBeQbtbNgA",
       "thumbnail": "https://i.ytimg.com/vi/azBeQbtbNgA/mqdefault.jpg",
-      "published": "2026-08-17T11:53:22Z"
+      "published": "2026-08-17T12:00:12Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 ATLÉTICO-MG X GRÊMIO [DIRETO DA ARENA MRV-MG]",
-      "videoId": "P1juNG92rmw",
-      "url": "https://www.youtube.com/watch?v=P1juNG92rmw",
-      "thumbnail": "https://i.ytimg.com/vi/P1juNG92rmw/mqdefault.jpg",
-      "published": "2026-08-16T23:32:00Z"
+      "title": "VEXAME DO GRÊMIO EM BH 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/08 - #613",
+      "videoId": "75XaZGPfRfQ",
+      "url": "https://www.youtube.com/watch?v=75XaZGPfRfQ",
+      "thumbnail": "https://i.ytimg.com/vi/75XaZGPfRfQ/mqdefault_live.jpg",
+      "published": "2026-08-17T12:00:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 17.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "5B4EjPEfsOI",
+      "url": "https://www.youtube.com/watch?v=5B4EjPEfsOI",
+      "thumbnail": "https://i.ytimg.com/vi/5B4EjPEfsOI/mqdefault_live.jpg",
+      "published": "2026-08-17T12:00:39Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O GAUCHÃO QUE VIROU COPA DO MUNDO E O PAPEL DE D'ALESSANDRO - ROGER FALA TUDO | Cortes do Duda",
       "videoId": "6mtNqjPT6xQ",
       "url": "https://www.youtube.com/watch?v=6mtNqjPT6xQ",
       "thumbnail": "https://i.ytimg.com/vi/6mtNqjPT6xQ/mqdefault.jpg",
       "published": "2026-08-16T23:30:20Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ROGER SE POSICIONA SOBRE CALÇADA DA FAMA E RELAÇÃO COM TORCIDA DO GRÊMIO | Cortes do Duda",
-      "videoId": "DcCWkEryHaE",
-      "url": "https://www.youtube.com/watch?v=DcCWkEryHaE",
-      "thumbnail": "https://i.ytimg.com/vi/DcCWkEryHaE/mqdefault.jpg",
-      "published": "2026-08-16T23:00:20Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: O vexame do Grêmio em BH  + bastidores do vestiário + Inter contra o Remo",
       "videoId": "GuhICzbjYEU",
       "url": "https://www.youtube.com/watch?v=GuhICzbjYEU",
-      "thumbnail": "https://i.ytimg.com/vi/GuhICzbjYEU/mqdefault_live.jpg",
-      "published": "2026-08-17T11:05:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/GuhICzbjYEU/mqdefault.jpg",
+      "published": "2026-08-17T12:21:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,15 +232,15 @@
       "videoId": "Hbj7djMJvwA",
       "url": "https://www.youtube.com/watch?v=Hbj7djMJvwA",
       "thumbnail": "https://i.ytimg.com/vi/Hbj7djMJvwA/mqdefault_live.jpg",
-      "published": "2026-08-17T09:31:40Z"
+      "published": "2026-08-17T12:32:43Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DE DANILO BARBOSA EM PORTO ALEGRE | NOVO REFORÇO DO GRÊMIO | DIRETO DO AEROPORTO",
-      "videoId": "4czB7k_Ef0c",
-      "url": "https://www.youtube.com/watch?v=4czB7k_Ef0c",
-      "thumbnail": "https://i.ytimg.com/vi/4czB7k_Ef0c/mqdefault.jpg",
-      "published": "2026-08-16T23:56:11Z"
+      "title": "GRÊMIO PERDE E DÁ VEXAME EM BELO HORIZONTE | LUÍS CASTRO SEGUE | COMO É BOM SER DO GRÊMIO #",
+      "videoId": "8XbSn2zGvPs",
+      "url": "https://www.youtube.com/watch?v=8XbSn2zGvPs",
+      "thumbnail": "https://i.ytimg.com/vi/8XbSn2zGvPs/mqdefault_live.jpg",
+      "published": "2026-08-17T12:31:37Z"
     }
   ]
 }
