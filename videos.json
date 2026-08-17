@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-17T20:00:37.443479+00:00",
+  "updated_at": "2026-08-17T20:21:19.963691+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A NOVA LISTA DE LIBERAÇÕES | GRUPO CHEGARÁ A 30 PERDAS NA TEMPORADA DE 2026",
+      "videoId": "FgY_UTqaLAQ",
+      "url": "https://www.youtube.com/watch?v=FgY_UTqaLAQ",
+      "thumbnail": "https://i.ytimg.com/vi/FgY_UTqaLAQ/mqdefault.jpg",
+      "published": "2026-08-17T20:00:31Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 NEGOCIO COM ATACANTE NA ITALIA | Z4 E CHANCE DE SAIR | 20 ANOS DO TÍTULO",
@@ -11,28 +19,20 @@
       "published": "2026-08-17T06:19:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: INTERVENÇÃO APÓS GOLEADA! Castro anuncia MUDANÇAS e Pelaipe indica SAÍDAS",
-      "videoId": "HQLjsJ19PSo",
-      "url": "https://www.youtube.com/watch?v=HQLjsJ19PSo",
-      "thumbnail": "https://i.ytimg.com/vi/HQLjsJ19PSo/mqdefault.jpg",
-      "published": "2026-08-17T05:00:00Z"
+      "channel": "Bage TV",
+      "title": "MANO A MANO DA COPA DO BRASIL #GRENALDACOPA",
+      "videoId": "fI_OVmxfZdg",
+      "url": "https://www.youtube.com/watch?v=fI_OVmxfZdg",
+      "thumbnail": "https://i.ytimg.com/vi/fI_OVmxfZdg/mqdefault.jpg",
+      "published": "2026-08-17T20:19:40Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO É GOLEADO E LUÍS CASTRO SEGUE RESPALDADO 🔹 THE TARDE 🔹#203",
-      "videoId": "ovEr8aQ427Q",
-      "url": "https://www.youtube.com/watch?v=ovEr8aQ427Q",
-      "thumbnail": "https://i.ytimg.com/vi/ovEr8aQ427Q/mqdefault_live.jpg",
-      "published": "2026-08-17T19:50:41Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "O TRABALHO QUE SÓ A DIRETO ENXERGA. #CORTESDORESENHA",
-      "videoId": "dbCW5ZJg5UA",
-      "url": "https://www.youtube.com/watch?v=dbCW5ZJg5UA",
-      "thumbnail": "https://i.ytimg.com/vi/dbCW5ZJg5UA/mqdefault.jpg",
-      "published": "2026-08-17T18:47:04Z"
+      "title": "Eles acreditam numa realidade que ninguém tá vendo.",
+      "videoId": "R7eHm279XTw",
+      "url": "https://www.youtube.com/watch?v=R7eHm279XTw",
+      "thumbnail": "https://i.ytimg.com/vi/R7eHm279XTw/mqdefault.jpg",
+      "published": "2026-08-17T20:16:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "FALOU SOBRE O PELAIPE! 🇪🇪👀",
-      "videoId": "bjtECDcQXf4",
-      "url": "https://www.youtube.com/watch?v=bjtECDcQXf4",
-      "thumbnail": "https://i.ytimg.com/vi/bjtECDcQXf4/mqdefault.jpg",
-      "published": "2026-08-17T17:24:20Z"
+      "title": "ESQUENTANDO O JOGO | INTER X REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
+      "videoId": "p_gqUPdedhc",
+      "url": "https://www.youtube.com/watch?v=p_gqUPdedhc",
+      "thumbnail": "https://i.ytimg.com/vi/p_gqUPdedhc/mqdefault_live.jpg",
+      "published": "2026-08-17T20:01:38Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM PAULO CÉSAR TINGA | CORTES RÁDIO GRENAL | 17/08/2026",
-      "videoId": "YJH1mIQ5ges",
-      "url": "https://www.youtube.com/watch?v=YJH1mIQ5ges",
-      "thumbnail": "https://i.ytimg.com/vi/YJH1mIQ5ges/mqdefault.jpg",
-      "published": "2026-08-17T14:49:20Z"
+      "title": "17/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "YDFBYMrN9zY",
+      "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
+      "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
+      "published": "2026-08-17T20:01:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CRISTIANO OLIVEIRA: \"LUÍS CASTRO É DESTRUÍDO POR TODOS OS TREINADORES\" | COMO É BOM SER DO GRÊMIO",
+      "videoId": "P0q4gMy68-Y",
+      "url": "https://www.youtube.com/watch?v=P0q4gMy68-Y",
+      "thumbnail": "https://i.ytimg.com/vi/P0q4gMy68-Y/mqdefault.jpg",
+      "published": "2026-08-17T20:06:15Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=TjSGtIyXo5c",
       "thumbnail": "https://i.ytimg.com/vi/TjSGtIyXo5c/mqdefault.jpg",
       "published": "2026-08-17T19:49:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PIORA A CADA SEMANA DE TREINOS | DIREÇÃO FECHADA COM CASTRO | SITUAÇÃO NA TABELA | IMORTAL FC",
-      "videoId": "k32V2s15itE",
-      "url": "https://www.youtube.com/watch?v=k32V2s15itE",
-      "thumbnail": "https://i.ytimg.com/vi/k32V2s15itE/mqdefault_live.jpg",
-      "published": "2026-08-17T16:44:51Z"
     }
   ]
 }
