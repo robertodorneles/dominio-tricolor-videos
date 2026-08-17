@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:00:34.875329+00:00",
+  "updated_at": "2026-08-17T22:19:33.079524+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🚨 VEXAME DO GRÊMIO EM BH! NEYMAR DÁ SHOW E INTER PODE SAIR DO Z4📰BAGÉTV NEWS #018",
       "videoId": "rnYQQGc-qLk",
       "url": "https://www.youtube.com/watch?v=rnYQQGc-qLk",
-      "thumbnail": "https://i.ytimg.com/vi/rnYQQGc-qLk/mqdefault_live.jpg",
-      "published": "2026-08-17T20:30:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/rnYQQGc-qLk/mqdefault.jpg",
+      "published": "2026-08-17T22:17:32Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 17/08/2026",
+      "videoId": "ktO8D7AeBjI",
+      "url": "https://www.youtube.com/watch?v=ktO8D7AeBjI",
+      "thumbnail": "https://i.ytimg.com/vi/ktO8D7AeBjI/mqdefault_live.jpg",
+      "published": "2026-08-17T22:01:56Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO X RB BRAGANTINO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 23/08/2026",
       "videoId": "9K4Mvo4HkA0",
       "url": "https://www.youtube.com/watch?v=9K4Mvo4HkA0",
       "thumbnail": "https://i.ytimg.com/vi/9K4Mvo4HkA0/mqdefault_live.jpg",
       "published": "2026-08-17T12:59:31Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 17/08/2026",
-      "videoId": "ktO8D7AeBjI",
-      "url": "https://www.youtube.com/watch?v=ktO8D7AeBjI",
-      "thumbnail": "https://i.ytimg.com/vi/ktO8D7AeBjI/mqdefault_live.jpg",
-      "published": "2026-08-17T12:38:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "ANDAMENTO DAS OBRAS NO INSTITUTO GERAÇÃO TRICOLOR",
+      "videoId": "IPTt5Rh2YB0",
+      "url": "https://www.youtube.com/watch?v=IPTt5Rh2YB0",
+      "thumbnail": "https://i.ytimg.com/vi/IPTt5Rh2YB0/mqdefault.jpg",
+      "published": "2026-08-17T22:00:10Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "RyluDFGZz84",
       "url": "https://www.youtube.com/watch?v=RyluDFGZz84",
       "thumbnail": "https://i.ytimg.com/vi/RyluDFGZz84/mqdefault.jpg",
       "published": "2026-08-16T21:36:56Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | ATLÉTICO/MG X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "jYa7KOSP-mw",
-      "url": "https://www.youtube.com/watch?v=jYa7KOSP-mw",
-      "thumbnail": "https://i.ytimg.com/vi/jYa7KOSP-mw/mqdefault.jpg",
-      "published": "2026-08-16T21:10:03Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | INTER X REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
+      "title": "AO VIVO DO BEIRA-RIO | INTER 0 X 0 REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
       "videoId": "p_gqUPdedhc",
       "url": "https://www.youtube.com/watch?v=p_gqUPdedhc",
       "thumbnail": "https://i.ytimg.com/vi/p_gqUPdedhc/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO PIORA A CADA SEMANA DE TREINOS | DIREÇÃO FECHADA COM CASTRO | SITUAÇÃO NA TABELA | IMORTAL FC",
+      "videoId": "k32V2s15itE",
+      "url": "https://www.youtube.com/watch?v=k32V2s15itE",
+      "thumbnail": "https://i.ytimg.com/vi/k32V2s15itE/mqdefault.jpg",
+      "published": "2026-08-17T22:16:17Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO NÃO MUDOU EM NADA! | CASTRO SEGUE PRESTIGIADO | NOITES DE GRÊMIO #130 -17/08",
       "videoId": "gvpeyaUQ2mA",
       "url": "https://www.youtube.com/watch?v=gvpeyaUQ2mA",
       "thumbnail": "https://i.ytimg.com/vi/gvpeyaUQ2mA/mqdefault_live.jpg",
       "published": "2026-08-17T22:00:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PIORA A CADA SEMANA DE TREINOS | DIREÇÃO FECHADA COM CASTRO | SITUAÇÃO NA TABELA | IMORTAL FC",
-      "videoId": "k32V2s15itE",
-      "url": "https://www.youtube.com/watch?v=k32V2s15itE",
-      "thumbnail": "https://i.ytimg.com/vi/k32V2s15itE/mqdefault_live.jpg",
-      "published": "2026-08-17T21:01:08Z"
     }
   ]
 }
