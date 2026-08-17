@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T14:00:36.738885+00:00",
+  "updated_at": "2026-08-17T14:22:49.971214+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "VEXAME DO GRÊMIO EM BH 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/08 - #613",
+      "videoId": "75XaZGPfRfQ",
+      "url": "https://www.youtube.com/watch?v=75XaZGPfRfQ",
+      "thumbnail": "https://i.ytimg.com/vi/75XaZGPfRfQ/mqdefault.jpg",
+      "published": "2026-08-17T14:03:16Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #046",
       "videoId": "dxwazvgChNw",
       "url": "https://www.youtube.com/watch?v=dxwazvgChNw",
       "thumbnail": "https://i.ytimg.com/vi/dxwazvgChNw/mqdefault_live.jpg",
       "published": "2026-08-17T13:43:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "VEXAME DO GRÊMIO EM BH 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 17/08 - #613",
-      "videoId": "75XaZGPfRfQ",
-      "url": "https://www.youtube.com/watch?v=75XaZGPfRfQ",
-      "thumbnail": "https://i.ytimg.com/vi/75XaZGPfRfQ/mqdefault_live.jpg",
-      "published": "2026-08-17T13:40:17Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -167,8 +167,8 @@
       "title": "Festival de Gramado, lançamento das campanhas políticas e mais |  Timeline | 17/08/2026",
       "videoId": "8PWoaDLw53s",
       "url": "https://www.youtube.com/watch?v=8PWoaDLw53s",
-      "thumbnail": "https://i.ytimg.com/vi/8PWoaDLw53s/mqdefault_live.jpg",
-      "published": "2026-08-17T13:57:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/8PWoaDLw53s/mqdefault.jpg",
+      "published": "2026-08-17T14:20:58Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "17/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "YDFBYMrN9zY",
       "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
       "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESTREIA: CAFÉ COM A IMORTAL #01 | GRÊMIO SOFRE DERROTA PESADA PARA O ATLÉTICO-MG",
-      "videoId": "Hbj7djMJvwA",
-      "url": "https://www.youtube.com/watch?v=Hbj7djMJvwA",
-      "thumbnail": "https://i.ytimg.com/vi/Hbj7djMJvwA/mqdefault.jpg",
-      "published": "2026-08-17T12:41:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO PERDE E DÁ VEXAME EM BELO HORIZONTE | LUÍS CASTRO SEGUE | COMO É BOM SER DO GRÊMIO #",
       "videoId": "8XbSn2zGvPs",
       "url": "https://www.youtube.com/watch?v=8XbSn2zGvPs",
-      "thumbnail": "https://i.ytimg.com/vi/8XbSn2zGvPs/mqdefault_live.jpg",
-      "published": "2026-08-17T12:31:37Z"
+      "thumbnail": "https://i.ytimg.com/vi/8XbSn2zGvPs/mqdefault.jpg",
+      "published": "2026-08-17T14:10:03Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #135 — RESPALDO TOTAL PARA LUÍS CASTRO NO GRÊMIO APÓS DERRROTA",
+      "videoId": "Fra6mpjw-84",
+      "url": "https://www.youtube.com/watch?v=Fra6mpjw-84",
+      "thumbnail": "https://i.ytimg.com/vi/Fra6mpjw-84/mqdefault_live.jpg",
+      "published": "2026-08-17T14:05:39Z"
     }
   ]
 }
