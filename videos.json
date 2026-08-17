@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:00:31.663512+00:00",
+  "updated_at": "2026-08-17T11:20:33.956426+00:00",
   "total": 30,
   "videos": [
     {
@@ -184,7 +184,7 @@
       "videoId": "GuhICzbjYEU",
       "url": "https://www.youtube.com/watch?v=GuhICzbjYEU",
       "thumbnail": "https://i.ytimg.com/vi/GuhICzbjYEU/mqdefault_live.jpg",
-      "published": "2026-08-17T02:40:33Z"
+      "published": "2026-08-17T11:05:36Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "17/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "YDFBYMrN9zY",
+      "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
+      "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault_live.jpg",
+      "published": "2026-08-17T11:01:19Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | ATLÉTICO-MG 3X0 GRÊMIO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 16/08/2026",
       "videoId": "fvemGmpQP9c",
       "url": "https://www.youtube.com/watch?v=fvemGmpQP9c",
       "thumbnail": "https://i.ytimg.com/vi/fvemGmpQP9c/mqdefault.jpg",
       "published": "2026-08-16T22:51:04Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE LUÍS CASTRO - TÉCNICO DO GRÊMIO | ATLÉTICO-MG 3X0 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL",
-      "videoId": "B04Srw0l7cs",
-      "url": "https://www.youtube.com/watch?v=B04Srw0l7cs",
-      "thumbnail": "https://i.ytimg.com/vi/B04Srw0l7cs/mqdefault.jpg",
-      "published": "2026-08-16T21:45:01Z"
     },
     {
       "channel": "Radio Imortal",
