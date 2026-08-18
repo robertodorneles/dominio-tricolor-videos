@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T02:00:53.250740+00:00",
+  "updated_at": "2026-08-18T02:57:57.001558+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO SOFRE GOLEADA! DIREÇÃO MANTÉM APOIO A LUÍS CASTRO | 🌃🔵 BOA NOITE GRÊMIO #006",
+      "videoId": "VAyu4205zos",
+      "url": "https://www.youtube.com/watch?v=VAyu4205zos",
+      "thumbnail": "https://i.ytimg.com/vi/VAyu4205zos/mqdefault.jpg",
+      "published": "2026-08-18T02:09:48Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🟣RESENHA FORA DA SALA NOITE🟣#006",
       "videoId": "8FdnvHeg4_c",
       "url": "https://www.youtube.com/watch?v=8FdnvHeg4_c",
       "thumbnail": "https://i.ytimg.com/vi/8FdnvHeg4_c/mqdefault.jpg",
       "published": "2026-08-18T00:39:47Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO SOFRE GOLEADA! DIREÇÃO MANTÉM APOIO A LUÍS CASTRO | 🌃🔵 BOA NOITE GRÊMIO #006",
-      "videoId": "VAyu4205zos",
-      "url": "https://www.youtube.com/watch?v=VAyu4205zos",
-      "thumbnail": "https://i.ytimg.com/vi/VAyu4205zos/mqdefault_live.jpg",
-      "published": "2026-08-18T00:39:25Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Inter faz o mais difícil + bastidores do Grêmio + contagem regressiva",
+      "videoId": "HCUl0LnwsuI",
+      "url": "https://www.youtube.com/watch?v=HCUl0LnwsuI",
+      "thumbnail": "https://i.ytimg.com/vi/HCUl0LnwsuI/mqdefault_live.jpg",
+      "published": "2026-08-18T02:40:48Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: O vexame do Grêmio em BH  + bastidores do vestiário + Inter contra o Remo",
       "videoId": "GuhICzbjYEU",
       "url": "https://www.youtube.com/watch?v=GuhICzbjYEU",
       "thumbnail": "https://i.ytimg.com/vi/GuhICzbjYEU/mqdefault.jpg",
       "published": "2026-08-17T12:21:51Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: Grêmio e o reforço surpresa + Cavani no Inter?",
-      "videoId": "rTS2bOl0rfk",
-      "url": "https://www.youtube.com/watch?v=rTS2bOl0rfk",
-      "thumbnail": "https://i.ytimg.com/vi/rTS2bOl0rfk/mqdefault.jpg",
-      "published": "2026-08-14T12:18:08Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO NÃO MUDOU EM NADA! | CASTRO SEGUE PRESTIGIADO | NOITES DE GRÊMIO #130 -17/08",
+      "videoId": "gvpeyaUQ2mA",
+      "url": "https://www.youtube.com/watch?v=gvpeyaUQ2mA",
+      "thumbnail": "https://i.ytimg.com/vi/gvpeyaUQ2mA/mqdefault.jpg",
+      "published": "2026-08-18T02:09:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
       "videoId": "yX4YpOE7omI",
       "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
       "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault_live.jpg",
       "published": "2026-08-18T01:58:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO NÃO MUDOU EM NADA! | CASTRO SEGUE PRESTIGIADO | NOITES DE GRÊMIO #130 -17/08",
-      "videoId": "gvpeyaUQ2mA",
-      "url": "https://www.youtube.com/watch?v=gvpeyaUQ2mA",
-      "thumbnail": "https://i.ytimg.com/vi/gvpeyaUQ2mA/mqdefault_live.jpg",
-      "published": "2026-08-18T00:59:40Z"
     }
   ]
 }
