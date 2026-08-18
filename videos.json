@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:00:35.460460+00:00",
+  "updated_at": "2026-08-18T15:26:56.503601+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨O “RACHA” NOS BASTIDORES! A POLICAGEM NOJENTA | UMA FAKE NEWS? | O JOGADOR PROTEGIDO NO GRÊMIO",
+      "videoId": "vnPAltkghOc",
+      "url": "https://www.youtube.com/watch?v=vnPAltkghOc",
+      "thumbnail": "https://i.ytimg.com/vi/vnPAltkghOc/mqdefault.jpg",
+      "published": "2026-08-18T15:00:32Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨LUÍS CASTRO INDO PRO BOTAFOGO? | GRÊMIO FAZ CONTRATAÇÃO | UMA GRANDE ECONOMIA",
       "videoId": "fZdJpwNaIvQ",
       "url": "https://www.youtube.com/watch?v=fZdJpwNaIvQ",
       "thumbnail": "https://i.ytimg.com/vi/fZdJpwNaIvQ/mqdefault.jpg",
       "published": "2026-08-17T22:50:19Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NOVAS SAÍDAS CONFIRMADAS! LIMPEZA PESADA | ERROS GRAVES NO GRÊMIO | NARRATIVA ERRADA!",
-      "videoId": "CMiAIRkwP48",
-      "url": "https://www.youtube.com/watch?v=CMiAIRkwP48",
-      "thumbnail": "https://i.ytimg.com/vi/CMiAIRkwP48/mqdefault.jpg",
-      "published": "2026-08-17T14:45:08Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
+      "videoId": "yX4YpOE7omI",
+      "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
+      "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault_live.jpg",
+      "published": "2026-08-18T15:00:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
       "videoId": "UvK8tB3vkps",
       "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
       "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault.jpg",
       "published": "2026-08-18T14:27:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
-      "videoId": "yX4YpOE7omI",
-      "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
-      "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault_live.jpg",
-      "published": "2026-08-18T13:59:58Z"
     }
   ]
 }
