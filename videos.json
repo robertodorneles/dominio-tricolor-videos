@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T17:00:35.715994+00:00",
+  "updated_at": "2026-08-18T17:22:33.808357+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Caso Samylle, transbordamento do Rio Jaguarão, notícias do RS e mais | Gaúcha+ | 18/08/2026",
+      "videoId": "ZzGhe4J_ETM",
+      "url": "https://www.youtube.com/watch?v=ZzGhe4J_ETM",
+      "thumbnail": "https://i.ytimg.com/vi/ZzGhe4J_ETM/mqdefault_live.jpg",
+      "published": "2026-08-18T17:13:32Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Crise na Casas Bahia, Quero-Quero pisa no freio, reforma de hotel parada e mais | Giane Guerra",
       "videoId": "V5KkOE_rmZ8",
       "url": "https://www.youtube.com/watch?v=V5KkOE_rmZ8",
       "thumbnail": "https://i.ytimg.com/vi/V5KkOE_rmZ8/mqdefault.jpg",
       "published": "2026-08-18T15:30:26Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Está tudo bem? Por que é tão difícil admitir quando não estamos | Tá Tudo Bem?",
-      "videoId": "fU9A66JCPl4",
-      "url": "https://www.youtube.com/watch?v=fU9A66JCPl4",
-      "thumbnail": "https://i.ytimg.com/vi/fU9A66JCPl4/mqdefault.jpg",
-      "published": "2026-08-18T15:00:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO E O PÍFIO RENDIMENTO FORA DE CASA | POSSÍVEL ESTREIA NO FINAL DE SEMANA | IMORTAL FC",
+      "videoId": "v4Nw7pGyzu4",
+      "url": "https://www.youtube.com/watch?v=v4Nw7pGyzu4",
+      "thumbnail": "https://i.ytimg.com/vi/v4Nw7pGyzu4/mqdefault_live.jpg",
+      "published": "2026-08-18T17:16:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
       "videoId": "yX4YpOE7omI",
       "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
       "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault.jpg",
       "published": "2026-08-18T16:39:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
-      "videoId": "UvK8tB3vkps",
-      "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
-      "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault.jpg",
-      "published": "2026-08-18T14:27:11Z"
     }
   ]
 }
