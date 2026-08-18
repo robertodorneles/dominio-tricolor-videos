@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:00:35.669004+00:00",
+  "updated_at": "2026-08-18T14:28:56.975583+00:00",
   "total": 30,
   "videos": [
     {
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Inter 1 x 1 Remo: Empate decepcionante | O vilão da noite | Duas contratações",
+      "videoId": "5pjlp6JdDGk",
+      "url": "https://www.youtube.com/watch?v=5pjlp6JdDGk",
+      "thumbnail": "https://i.ytimg.com/vi/5pjlp6JdDGk/mqdefault.jpg",
+      "published": "2026-08-18T14:02:36Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Inter x Remo | Os números de Sanabria | Hocsman x Novelletto",
       "videoId": "TP-FoSiDa1Y",
       "url": "https://www.youtube.com/watch?v=TP-FoSiDa1Y",
@@ -91,12 +99,12 @@
       "published": "2026-08-17T16:46:45Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Pelaipe garante Luís Castro | Vem aí mudança no time | Audiência no TAS",
-      "videoId": "ycmaI6sDTjo",
-      "url": "https://www.youtube.com/watch?v=ycmaI6sDTjo",
-      "thumbnail": "https://i.ytimg.com/vi/ycmaI6sDTjo/mqdefault.jpg",
-      "published": "2026-08-17T13:43:59Z"
+      "channel": "Careca de Saber TV",
+      "title": "NOVA LISTA DE SAÍDAS NO GRÊMIO. #gremio #braithwaite",
+      "videoId": "D01e-v5NIp8",
+      "url": "https://www.youtube.com/watch?v=D01e-v5NIp8",
+      "thumbnail": "https://i.ytimg.com/vi/D01e-v5NIp8/mqdefault.jpg",
+      "published": "2026-08-18T14:00:16Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=lvxvbdpCsKw",
       "thumbnail": "https://i.ytimg.com/vi/lvxvbdpCsKw/mqdefault.jpg",
       "published": "2026-08-17T21:00:57Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VENDAS PARA SÓCIO HOJE. NÃO SÓCIO A PARTIR DE QUINTA( 20/08) #gremio #grenal #futebol",
-      "videoId": "Hku3G_OSDF0",
-      "url": "https://www.youtube.com/watch?v=Hku3G_OSDF0",
-      "thumbnail": "https://i.ytimg.com/vi/Hku3G_OSDF0/mqdefault.jpg",
-      "published": "2026-08-17T18:40:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -135,7 +135,7 @@
       "title": "HOSPÍCIO | 18.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "4jDGtwovjIA",
       "url": "https://www.youtube.com/watch?v=4jDGtwovjIA",
-      "thumbnail": "https://i.ytimg.com/vi/4jDGtwovjIA/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/4jDGtwovjIA/mqdefault.jpg",
       "published": "2026-08-18T13:04:12Z"
     },
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Impactos do Super El Niño no Brasil, últimas da política e mais | Timeline | 18/08/2026",
-      "videoId": "9dbwapQ4KDQ",
-      "url": "https://www.youtube.com/watch?v=9dbwapQ4KDQ",
-      "thumbnail": "https://i.ytimg.com/vi/9dbwapQ4KDQ/mqdefault_live.jpg",
-      "published": "2026-08-18T14:00:10Z"
+      "title": "COM 105 ANOS, PORTO-ALEGRENSE VIU ENCHENTES E GUERRAS: \"O HOMEM QUE PROVOCA TUDO ISSO\"",
+      "videoId": "-A-uSElUPQ8",
+      "url": "https://www.youtube.com/watch?v=-A-uSElUPQ8",
+      "thumbnail": "https://i.ytimg.com/vi/-A-uSElUPQ8/mqdefault.jpg",
+      "published": "2026-08-18T14:20:10Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Férias escolares na Copa Feminina, últimas da política, economia e +| Gaúcha Atualidade | 18/08/2026",
-      "videoId": "iaiKCws4-qE",
-      "url": "https://www.youtube.com/watch?v=iaiKCws4-qE",
-      "thumbnail": "https://i.ytimg.com/vi/iaiKCws4-qE/mqdefault.jpg",
-      "published": "2026-08-18T13:58:06Z"
+      "title": "Impactos do Super El Niño no Brasil, últimas da política e mais | Timeline | 18/08/2026",
+      "videoId": "9dbwapQ4KDQ",
+      "url": "https://www.youtube.com/watch?v=9dbwapQ4KDQ",
+      "thumbnail": "https://i.ytimg.com/vi/9dbwapQ4KDQ/mqdefault.jpg",
+      "published": "2026-08-18T14:08:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "18/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "18/08/2026 | DUPLA EM DEBATE | RÁDIO GRENAL",
       "videoId": "5HLsfLAaWpM",
       "url": "https://www.youtube.com/watch?v=5HLsfLAaWpM",
       "thumbnail": "https://i.ytimg.com/vi/5HLsfLAaWpM/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
+      "videoId": "UvK8tB3vkps",
+      "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
+      "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault.jpg",
+      "published": "2026-08-18T14:27:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
       "videoId": "yX4YpOE7omI",
       "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
       "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault_live.jpg",
       "published": "2026-08-18T13:59:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
-      "videoId": "UvK8tB3vkps",
-      "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
-      "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault_live.jpg",
-      "published": "2026-08-18T12:32:21Z"
     }
   ]
 }
