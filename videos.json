@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:36:52.982025+00:00",
+  "updated_at": "2026-08-18T13:00:33.349453+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "INFORMAÇÃO SOBRE WILLIAN.",
+      "videoId": "CpzF-EdVsco",
+      "url": "https://www.youtube.com/watch?v=CpzF-EdVsco",
+      "thumbnail": "https://i.ytimg.com/vi/CpzF-EdVsco/mqdefault.jpg",
+      "published": "2026-08-18T12:50:04Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "💣 A CLÁUSULA ABSURDA NO CONTRATO DO WILLIAN 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 18/08 - #614",
       "videoId": "vBlJXR4glak",
       "url": "https://www.youtube.com/watch?v=vBlJXR4glak",
       "thumbnail": "https://i.ytimg.com/vi/vBlJXR4glak/mqdefault_live.jpg",
       "published": "2026-08-18T12:05:41Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO TERÁ DESFALQUE CONTRA BRAGANTINO 🌅🔵 BOM DIA GRÊMIO #101",
-      "videoId": "_Z38gAvI2KI",
-      "url": "https://www.youtube.com/watch?v=_Z38gAvI2KI",
-      "thumbnail": "https://i.ytimg.com/vi/_Z38gAvI2KI/mqdefault.jpg",
-      "published": "2026-08-18T11:57:26Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #02 — GRÊMIO SE REAPRESENTA NESTA TERÇA-FEIRA | ZAGUEIRO VIRA DÚVIDA",
+      "videoId": "fAwbo5Yr3ag",
+      "url": "https://www.youtube.com/watch?v=fAwbo5Yr3ag",
+      "thumbnail": "https://i.ytimg.com/vi/fAwbo5Yr3ag/mqdefault.jpg",
+      "published": "2026-08-18T12:36:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
       "videoId": "UvK8tB3vkps",
       "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
       "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault_live.jpg",
       "published": "2026-08-18T12:32:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #02 — GRÊMIO SE REAPRESENTA NESTA TERÇA-FEIRA | ZAGUEIRO VIRA DÚVIDA",
-      "videoId": "fAwbo5Yr3ag",
-      "url": "https://www.youtube.com/watch?v=fAwbo5Yr3ag",
-      "thumbnail": "https://i.ytimg.com/vi/fAwbo5Yr3ag/mqdefault.jpg",
-      "published": "2026-08-18T12:30:28Z"
     }
   ]
 }
