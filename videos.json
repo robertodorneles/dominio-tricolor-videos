@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-18T01:21:17.704966+00:00",
+  "updated_at": "2026-08-18T02:00:53.250740+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️Inter 1x1 Remo: GOLS E MELHORES MOMENTOS | TIME MENOS EFETIVO DO BRASIL | REVOLTANTE!",
+      "videoId": "PLNeUjAvqP4",
+      "url": "https://www.youtube.com/watch?v=PLNeUjAvqP4",
+      "thumbnail": "https://i.ytimg.com/vi/PLNeUjAvqP4/mqdefault.jpg",
+      "published": "2026-08-18T01:29:49Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: O INTER ENTREGOU UMA VITÓRIA NO BEIRA-RIO| INACREDITÁVEL!!!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=hNFqve5tL00",
       "thumbnail": "https://i.ytimg.com/vi/hNFqve5tL00/mqdefault_live.jpg",
       "published": "2026-08-18T01:04:41Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: A NOVA LISTA DE LIBERAÇÕES | GRUPO CHEGARÁ A 30 PERDAS NA TEMPORADA DE 2026",
-      "videoId": "FgY_UTqaLAQ",
-      "url": "https://www.youtube.com/watch?v=FgY_UTqaLAQ",
-      "thumbnail": "https://i.ytimg.com/vi/FgY_UTqaLAQ/mqdefault.jpg",
-      "published": "2026-08-17T20:00:31Z"
     },
     {
       "channel": "Bage TV",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - CASTRO, COPA DO BRASIL, BRASILEIRÃO E O FUTURO DO GRÊMIO",
       "videoId": "0Fd99Iz1zoE",
       "url": "https://www.youtube.com/watch?v=0Fd99Iz1zoE",
-      "thumbnail": "https://i.ytimg.com/vi/0Fd99Iz1zoE/mqdefault_live.jpg",
-      "published": "2026-08-18T01:13:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/0Fd99Iz1zoE/mqdefault.jpg",
+      "published": "2026-08-18T01:36:15Z"
     },
     {
       "channel": "Canal do CCD",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DEBATE BOLA | INTER 1X1 REMO | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 17/08/2026",
-      "videoId": "p_gqUPdedhc",
-      "url": "https://www.youtube.com/watch?v=p_gqUPdedhc",
-      "thumbnail": "https://i.ytimg.com/vi/p_gqUPdedhc/mqdefault_live.jpg",
-      "published": "2026-08-17T20:43:17Z"
+      "title": "ENTREVISTA COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTER | INTER 1X1 REMO | RÁDIO GRENAL",
+      "videoId": "rggS0PpIQlY",
+      "url": "https://www.youtube.com/watch?v=rggS0PpIQlY",
+      "thumbnail": "https://i.ytimg.com/vi/rggS0PpIQlY/mqdefault.jpg",
+      "published": "2026-08-18T01:56:45Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "17/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "YDFBYMrN9zY",
-      "url": "https://www.youtube.com/watch?v=YDFBYMrN9zY",
-      "thumbnail": "https://i.ytimg.com/vi/YDFBYMrN9zY/mqdefault.jpg",
-      "published": "2026-08-17T20:24:28Z"
+      "title": "GOLS DE INTER 1X1 REMO | NARRAÇÃO PC CARVALHO | CAMPEONATO BRASILEIRO | 17/08/2026 | RÁDIO GRENAL",
+      "videoId": "Rpm1bO7mTBI",
+      "url": "https://www.youtube.com/watch?v=Rpm1bO7mTBI",
+      "thumbnail": "https://i.ytimg.com/vi/Rpm1bO7mTBI/mqdefault.jpg",
+      "published": "2026-08-18T01:36:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #136 — GUSTAVO MARTINS COM PROBLEMA NO PÚBIS | REAPRESENTAÇÃO AGORA",
+      "videoId": "yX4YpOE7omI",
+      "url": "https://www.youtube.com/watch?v=yX4YpOE7omI",
+      "thumbnail": "https://i.ytimg.com/vi/yX4YpOE7omI/mqdefault_live.jpg",
+      "published": "2026-08-18T01:58:11Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=gvpeyaUQ2mA",
       "thumbnail": "https://i.ytimg.com/vi/gvpeyaUQ2mA/mqdefault_live.jpg",
       "published": "2026-08-18T00:59:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEMANA DE TENSÃO NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #22",
-      "videoId": "UvK8tB3vkps",
-      "url": "https://www.youtube.com/watch?v=UvK8tB3vkps",
-      "thumbnail": "https://i.ytimg.com/vi/UvK8tB3vkps/mqdefault_live.jpg",
-      "published": "2026-08-18T00:11:12Z"
     }
   ]
 }
