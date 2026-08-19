@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:00:34.952164+00:00",
+  "updated_at": "2026-08-19T22:20:07.928999+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "H-sTTwRXATw",
       "url": "https://www.youtube.com/watch?v=H-sTTwRXATw",
       "thumbnail": "https://i.ytimg.com/vi/H-sTTwRXATw/mqdefault_live.jpg",
-      "published": "2026-08-19T20:29:31Z"
+      "published": "2026-08-19T22:02:13Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "PADRE EXORCISTA de Caxias do Sul tem fila de espera por atendimento",
+      "videoId": "Wi-OADpsaZ0",
+      "url": "https://www.youtube.com/watch?v=Wi-OADpsaZ0",
+      "thumbnail": "https://i.ytimg.com/vi/Wi-OADpsaZ0/mqdefault.jpg",
+      "published": "2026-08-19T22:00:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Fiuk revela afastamento de Fábio Jr. e crise financeira: “Preciso de ajuda”",
       "videoId": "Ya6XI47dSP0",
       "url": "https://www.youtube.com/watch?v=Ya6XI47dSP0",
       "thumbnail": "https://i.ytimg.com/vi/Ya6XI47dSP0/mqdefault.jpg",
       "published": "2026-08-19T21:30:17Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como funciona um programa de trainee?",
-      "videoId": "1G8neaMqYqM",
-      "url": "https://www.youtube.com/watch?v=1G8neaMqYqM",
-      "thumbnail": "https://i.ytimg.com/vi/1G8neaMqYqM/mqdefault.jpg",
-      "published": "2026-08-19T21:07:46Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "7eH3hIufGr0",
       "url": "https://www.youtube.com/watch?v=7eH3hIufGr0",
       "thumbnail": "https://i.ytimg.com/vi/7eH3hIufGr0/mqdefault_live.jpg",
-      "published": "2026-08-19T21:03:22Z"
+      "published": "2026-08-19T22:04:39Z"
     },
     {
       "channel": "Radio Imortal",
