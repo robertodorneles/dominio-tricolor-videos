@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T16:00:41.166695+00:00",
+  "updated_at": "2026-08-19T16:26:15.391139+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NARDONI SAI. MEIO DE CAMPO MUDA NO GRÊMIO. #futebol #gremio",
+      "videoId": "pJEuANA79h4",
+      "url": "https://www.youtube.com/watch?v=pJEuANA79h4",
+      "thumbnail": "https://i.ytimg.com/vi/pJEuANA79h4/mqdefault.jpg",
+      "published": "2026-08-19T16:00:19Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ARTHUR LIVRE: VALOR | JUIZ DELES NO GRE-NAL? | NARDONI FORA NO GRÊMIO.",
       "videoId": "W_PLAyx9Qdc",
       "url": "https://www.youtube.com/watch?v=W_PLAyx9Qdc",
@@ -107,20 +115,12 @@
       "published": "2026-08-18T21:35:18Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "TIME RUSSO NA JUSTIÇA CONTRA O GRÊMIO E A HISTÓRIA DE CAMILO. #gremio #futebol #noticia",
-      "videoId": "Pjs5aJUFozg",
-      "url": "https://www.youtube.com/watch?v=Pjs5aJUFozg",
-      "thumbnail": "https://i.ytimg.com/vi/Pjs5aJUFozg/mqdefault.jpg",
-      "published": "2026-08-18T16:00:12Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "R$82 MILHÕES POR UM NOVO CONTRATO | LUIS CASTRO NO BOTAFOGO? | ARTHUR VOLTA AO BRASIL E O GRÊMIO?",
       "videoId": "4SV95XbVZ08",
       "url": "https://www.youtube.com/watch?v=4SV95XbVZ08",
       "thumbnail": "https://i.ytimg.com/vi/4SV95XbVZ08/mqdefault.jpg",
-      "published": "2026-08-19T14:15:12Z"
+      "published": "2026-08-19T16:21:46Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "O DESEMPENHO PÍFIO DO GRÊMIO FORA DE CASA | TIME INDEFINIDO PARA O FINAL DE SEMANA | IMORTAL FC",
+      "videoId": "7eH3hIufGr0",
+      "url": "https://www.youtube.com/watch?v=7eH3hIufGr0",
+      "thumbnail": "https://i.ytimg.com/vi/7eH3hIufGr0/mqdefault_live.jpg",
+      "published": "2026-08-19T16:01:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #137 — ARBITRAGEM DEFINIDA E O INÍCIO DO GRENAL 453 | É OFICIAL: MONSALVE AFASTADO",
       "videoId": "NOH0Y1Giu9c",
       "url": "https://www.youtube.com/watch?v=NOH0Y1Giu9c",
       "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault.jpg",
       "published": "2026-08-19T15:04:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO PORTALUPPI É A ÚNICA SOLUÇÃO DO GRÊMIO? EDILSON E CRISTIANO OLIVEIRA DEBATEM",
-      "videoId": "i9RwDMBBhX0",
-      "url": "https://www.youtube.com/watch?v=i9RwDMBBhX0",
-      "thumbnail": "https://i.ytimg.com/vi/i9RwDMBBhX0/mqdefault.jpg",
-      "published": "2026-08-19T14:37:55Z"
     }
   ]
 }
