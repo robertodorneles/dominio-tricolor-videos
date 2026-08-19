@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-19T01:00:31.961328+00:00",
+  "updated_at": "2026-08-19T01:23:16.313361+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: ARBITRAGEM DEFINIDA PARA O GRE-NAL DA COPA DO BRASIL |  BASTIDORES DA DUPLA",
+      "videoId": "H2pq9RQGdao",
+      "url": "https://www.youtube.com/watch?v=H2pq9RQGdao",
+      "thumbnail": "https://i.ytimg.com/vi/H2pq9RQGdao/mqdefault_live.jpg",
+      "published": "2026-08-19T01:13:46Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 VEXAME NA BUSCA POR ATACANTES | O QUE COMPLICA ARCE | SANABRIA CHEGANDO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=uXspI7rsABg",
       "thumbnail": "https://i.ytimg.com/vi/uXspI7rsABg/mqdefault.jpg",
       "published": "2026-08-18T20:13:42Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: CASTRO JÁ TENTOU DE TUDO! Por que o time não consegue vencer fora?",
-      "videoId": "0UUxxC5tXsk",
-      "url": "https://www.youtube.com/watch?v=0UUxxC5tXsk",
-      "thumbnail": "https://i.ytimg.com/vi/0UUxxC5tXsk/mqdefault.jpg",
-      "published": "2026-08-18T20:00:28Z"
     },
     {
       "channel": "Bage TV",
