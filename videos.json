@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:00:36.359121+00:00",
+  "updated_at": "2026-08-19T11:20:48.769096+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 18/08/2026",
+      "videoId": "ebJBuvqIysI",
+      "url": "https://www.youtube.com/watch?v=ebJBuvqIysI",
+      "thumbnail": "https://i.ytimg.com/vi/ebJBuvqIysI/mqdefault.jpg",
+      "published": "2026-08-19T11:17:19Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/08/2026",
       "videoId": "CzmWN8u9NLw",
       "url": "https://www.youtube.com/watch?v=CzmWN8u9NLw",
       "thumbnail": "https://i.ytimg.com/vi/CzmWN8u9NLw/mqdefault_live.jpg",
       "published": "2026-08-18T23:16:32Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 18/08/2026",
-      "videoId": "ebJBuvqIysI",
-      "url": "https://www.youtube.com/watch?v=ebJBuvqIysI",
-      "thumbnail": "https://i.ytimg.com/vi/ebJBuvqIysI/mqdefault_live.jpg",
-      "published": "2026-08-18T23:05:09Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 19/08/2026",
+      "title": "Acidente com ônibus de Imbituva, petróleo na Foz do Amazonas e mais | Gaúcha Atualidade | 19/08/2026",
       "videoId": "iCqqLLNRNMM",
       "url": "https://www.youtube.com/watch?v=iCqqLLNRNMM",
       "thumbnail": "https://i.ytimg.com/vi/iCqqLLNRNMM/mqdefault_live.jpg",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "SIMULEI O FIM DO BRASILEIRÃO DO INTER: Vai cair pra Série B?",
+      "videoId": "PNTkB-1t_SI",
+      "url": "https://www.youtube.com/watch?v=PNTkB-1t_SI",
+      "thumbnail": "https://i.ytimg.com/vi/PNTkB-1t_SI/mqdefault.jpg",
+      "published": "2026-08-19T11:15:10Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "F5 NO INTER: Detalhes do negócio pelo Sanabria + Alex Arce definido e uma decepção",
       "videoId": "8uSVGALrok0",
       "url": "https://www.youtube.com/watch?v=8uSVGALrok0",
       "thumbnail": "https://i.ytimg.com/vi/8uSVGALrok0/mqdefault.jpg",
       "published": "2026-08-19T00:15:04Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O PEDIDO DE CARLOS VINICIUS PRA FICAR: O que diz o Grêmio, dívida com ele e tendência",
-      "videoId": "R_Zy7EkCT-Y",
-      "url": "https://www.youtube.com/watch?v=R_Zy7EkCT-Y",
-      "thumbnail": "https://i.ytimg.com/vi/R_Zy7EkCT-Y/mqdefault.jpg",
-      "published": "2026-08-18T21:05:05Z"
     },
     {
       "channel": "LH Benfica",
@@ -216,7 +216,7 @@
       "videoId": "ekxh86MeY5U",
       "url": "https://www.youtube.com/watch?v=ekxh86MeY5U",
       "thumbnail": "https://i.ytimg.com/vi/ekxh86MeY5U/mqdefault_live.jpg",
-      "published": "2026-08-19T10:29:00Z"
+      "published": "2026-08-19T11:02:20Z"
     },
     {
       "channel": "Radio Grenal",
