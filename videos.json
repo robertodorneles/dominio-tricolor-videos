@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T01:23:16.313361+00:00",
+  "updated_at": "2026-08-19T02:00:34.998194+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "MONSALVE FORA DO GRUPO! ARTHUR PODE FICAR LIVRE NO MERCADO | 🌃🔵 BOA NOITE GRÊMIO #007",
+      "videoId": "9_mtzCUay0o",
+      "url": "https://www.youtube.com/watch?v=9_mtzCUay0o",
+      "thumbnail": "https://i.ytimg.com/vi/9_mtzCUay0o/mqdefault_live.jpg",
+      "published": "2026-08-19T02:00:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ARTHUR PODE VOLTAR PARA O BRASIL?🟣RESENHA FORA DA SALA NOITE🟣#007",
       "videoId": "o0HgDQxWA_U",
       "url": "https://www.youtube.com/watch?v=o0HgDQxWA_U",
       "thumbnail": "https://i.ytimg.com/vi/o0HgDQxWA_U/mqdefault.jpg",
       "published": "2026-08-19T00:46:48Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "MONSALVE FORA DO GRUPO! ARTHUR PODE FICAR LIVRE NO MERCADO | 🌃🔵 BOA NOITE GRÊMIO #007",
-      "videoId": "9_mtzCUay0o",
-      "url": "https://www.youtube.com/watch?v=9_mtzCUay0o",
-      "thumbnail": "https://i.ytimg.com/vi/9_mtzCUay0o/mqdefault_live.jpg",
-      "published": "2026-08-19T00:32:05Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO COM MUDANÇAS CONFIRMADAS | O ÁRBITRO DO GRENAL 453  | NOITES DE GRÊMIO #131 — 18/08",
       "videoId": "RZ0gTT0T-VQ",
       "url": "https://www.youtube.com/watch?v=RZ0gTT0T-VQ",
-      "thumbnail": "https://i.ytimg.com/vi/RZ0gTT0T-VQ/mqdefault_live.jpg",
-      "published": "2026-08-19T00:00:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/RZ0gTT0T-VQ/mqdefault.jpg",
+      "published": "2026-08-19T01:47:50Z"
     },
     {
       "channel": "Radio Imortal",
