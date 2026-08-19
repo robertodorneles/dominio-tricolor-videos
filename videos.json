@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:28:55.806626+00:00",
+  "updated_at": "2026-08-19T10:00:32.625082+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #03 — GRÊMIO OFICIALIZA JOGADOR AFASTADO | ÁRBITRO DO GRENAL, LESÕES E MAIS",
+      "videoId": "mte6dlx-0vY",
+      "url": "https://www.youtube.com/watch?v=mte6dlx-0vY",
+      "thumbnail": "https://i.ytimg.com/vi/mte6dlx-0vY/mqdefault_live.jpg",
+      "published": "2026-08-19T09:32:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO COM MUDANÇAS CONFIRMADAS | O ÁRBITRO DO GRENAL 453  | NOITES DE GRÊMIO #131 — 18/08",
       "videoId": "RZ0gTT0T-VQ",
       "url": "https://www.youtube.com/watch?v=RZ0gTT0T-VQ",
       "thumbnail": "https://i.ytimg.com/vi/RZ0gTT0T-VQ/mqdefault.jpg",
       "published": "2026-08-19T01:47:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #137 — ARBITRAGEM DEFINIDA E O INÍCIO DO GRENAL 453 | É OFICIAL: MONSALVE AFASTADO",
-      "videoId": "NOH0Y1Giu9c",
-      "url": "https://www.youtube.com/watch?v=NOH0Y1Giu9c",
-      "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault_live.jpg",
-      "published": "2026-08-18T23:27:48Z"
     }
   ]
 }
