@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-19T15:00:36.508881+00:00",
+  "updated_at": "2026-08-19T15:26:38.107699+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "⚽ Não é não! React completo na Hora da Dupla no Youtube",
+      "videoId": "PCxiBVc4Qks",
+      "url": "https://www.youtube.com/watch?v=PCxiBVc4Qks",
+      "thumbnail": "https://i.ytimg.com/vi/PCxiBVc4Qks/mqdefault.jpg",
+      "published": "2026-08-19T15:24:26Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 CHEGOU DE SURPRESA! VEJA! | ARCE ELIMINADO DA LIBERTADORES | ABATTI ABEL",
@@ -11,20 +19,12 @@
       "published": "2026-08-19T05:46:37Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: Carlos Vinícius faz pedida milionária | Arthur livre | Castro no Botafogo?",
-      "videoId": "PYHYWx9b18o",
-      "url": "https://www.youtube.com/watch?v=PYHYWx9b18o",
-      "thumbnail": "https://i.ytimg.com/vi/PYHYWx9b18o/mqdefault.jpg",
-      "published": "2026-08-19T05:00:37Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #048",
       "videoId": "yLQa9zpRop4",
       "url": "https://www.youtube.com/watch?v=yLQa9zpRop4",
-      "thumbnail": "https://i.ytimg.com/vi/yLQa9zpRop4/mqdefault_live.jpg",
-      "published": "2026-08-19T14:54:48Z"
+      "thumbnail": "https://i.ytimg.com/vi/yLQa9zpRop4/mqdefault.jpg",
+      "published": "2026-08-19T15:19:41Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨TROCA IMPORTANTE CONFIRMADA | MILHÕES PELO 9 | GRÊMIO DO LUIS CASTRO NÃO SABE GANHAR FORA",
+      "videoId": "ZBUk9CslnpA",
+      "url": "https://www.youtube.com/watch?v=ZBUk9CslnpA",
+      "thumbnail": "https://i.ytimg.com/vi/ZBUk9CslnpA/mqdefault.jpg",
+      "published": "2026-08-19T15:04:27Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨REVIRAVOLTA E ARTHUR DE VOLTA AO GRÊMIO? | FORÇANDO SAÍDA DE JOGADOR | JUIZ DO GRE-NAL | DESFALQUES",
       "videoId": "6sSRiW-gfX4",
       "url": "https://www.youtube.com/watch?v=6sSRiW-gfX4",
       "thumbnail": "https://i.ytimg.com/vi/6sSRiW-gfX4/mqdefault.jpg",
       "published": "2026-08-18T23:42:28Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨BRIGA NOJENTA! O “RACHA” NOS BASTIDORES! | UMA FAKE NEWS? | O JOGADOR PROTEGIDO NO GRÊMIO",
-      "videoId": "vnPAltkghOc",
-      "url": "https://www.youtube.com/watch?v=vnPAltkghOc",
-      "thumbnail": "https://i.ytimg.com/vi/vnPAltkghOc/mqdefault.jpg",
-      "published": "2026-08-18T15:00:32Z"
     },
     {
       "channel": "Canal do CCD",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "FEITOS DA NOSSA HISTÓRIA NO CAMINHO PARA O VESTIÁRIO",
-      "videoId": "IvHNvHclHhM",
-      "url": "https://www.youtube.com/watch?v=IvHNvHclHhM",
-      "thumbnail": "https://i.ytimg.com/vi/IvHNvHclHhM/mqdefault.jpg",
-      "published": "2026-08-19T13:00:32Z"
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "PKF8h-z9BHA",
+      "url": "https://www.youtube.com/watch?v=PKF8h-z9BHA",
+      "thumbnail": "https://i.ytimg.com/vi/PKF8h-z9BHA/mqdefault_live.jpg",
+      "published": "2026-08-19T15:13:16Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "NOVOS REFORÇOS CONHECEM A HISTÓRIA DO GRÊMIO",
-      "videoId": "2_pXICkdhV4",
-      "url": "https://www.youtube.com/watch?v=2_pXICkdhV4",
-      "thumbnail": "https://i.ytimg.com/vi/2_pXICkdhV4/mqdefault.jpg",
-      "published": "2026-08-18T21:53:27Z"
+      "title": "AO VIVO | BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "P7YECSv3aog",
+      "url": "https://www.youtube.com/watch?v=P7YECSv3aog",
+      "thumbnail": "https://i.ytimg.com/vi/P7YECSv3aog/mqdefault_live.jpg",
+      "published": "2026-08-19T15:11:34Z"
     },
     {
       "channel": "GZH Digital",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #137 — ARBITRAGEM DEFINIDA E O INÍCIO DO GRENAL 453 | É OFICIAL: MONSALVE AFASTADO",
       "videoId": "NOH0Y1Giu9c",
       "url": "https://www.youtube.com/watch?v=NOH0Y1Giu9c",
-      "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault_live.jpg",
-      "published": "2026-08-19T15:00:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault.jpg",
+      "published": "2026-08-19T15:04:17Z"
     },
     {
       "channel": "Radio Imortal",
