@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:28:44.448433+00:00",
+  "updated_at": "2026-08-19T15:00:36.508881+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #048",
+      "videoId": "yLQa9zpRop4",
+      "url": "https://www.youtube.com/watch?v=yLQa9zpRop4",
+      "thumbnail": "https://i.ytimg.com/vi/yLQa9zpRop4/mqdefault_live.jpg",
+      "published": "2026-08-19T14:54:48Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "O Grêmio vai melhorar com a saída do Nardoni.",
       "videoId": "PyxCUmVDNHI",
       "url": "https://www.youtube.com/watch?v=PyxCUmVDNHI",
       "thumbnail": "https://i.ytimg.com/vi/PyxCUmVDNHI/mqdefault.jpg",
       "published": "2026-08-19T14:06:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #048",
-      "videoId": "yLQa9zpRop4",
-      "url": "https://www.youtube.com/watch?v=yLQa9zpRop4",
-      "thumbnail": "https://i.ytimg.com/vi/yLQa9zpRop4/mqdefault_live.jpg",
-      "published": "2026-08-19T13:38:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Márcio Santoro, sócio cofundador da Africa Creative | Liderança em Sala #009",
+      "videoId": "gJ9XW8qVf60",
+      "url": "https://www.youtube.com/watch?v=gJ9XW8qVf60",
+      "thumbnail": "https://i.ytimg.com/vi/gJ9XW8qVf60/mqdefault.jpg",
+      "published": "2026-08-19T15:00:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Gaúcha+ | 19/08/2026",
       "videoId": "08vWnle8A0Q",
       "url": "https://www.youtube.com/watch?v=08vWnle8A0Q",
       "thumbnail": "https://i.ytimg.com/vi/08vWnle8A0Q/mqdefault_live.jpg",
       "published": "2026-08-19T14:15:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Acidente no Paraná, entrevista com Marcelo Falcão, homenagens em Gramado e + | Timeline | 19/08/2026",
-      "videoId": "DUKI4WxtS3Y",
-      "url": "https://www.youtube.com/watch?v=DUKI4WxtS3Y",
-      "thumbnail": "https://i.ytimg.com/vi/DUKI4WxtS3Y/mqdefault.jpg",
-      "published": "2026-08-19T14:11:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 19/08",
-      "videoId": "Kuak2KIGAJg",
-      "url": "https://www.youtube.com/watch?v=Kuak2KIGAJg",
-      "thumbnail": "https://i.ytimg.com/vi/Kuak2KIGAJg/mqdefault_live.jpg",
-      "published": "2026-08-19T14:26:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #137 — ARBITRAGEM DEFINIDA E O INÍCIO DO GRENAL 453 | É OFICIAL: MONSALVE AFASTADO",
       "videoId": "NOH0Y1Giu9c",
       "url": "https://www.youtube.com/watch?v=NOH0Y1Giu9c",
       "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault_live.jpg",
-      "published": "2026-08-19T14:07:47Z"
+      "published": "2026-08-19T15:00:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "RENATO PORTALUPPI É A ÚNICA SOLUÇÃO DO GRÊMIO? EDILSON E CRISTIANO OLIVEIRA DEBATEM",
+      "videoId": "i9RwDMBBhX0",
+      "url": "https://www.youtube.com/watch?v=i9RwDMBBhX0",
+      "thumbnail": "https://i.ytimg.com/vi/i9RwDMBBhX0/mqdefault.jpg",
+      "published": "2026-08-19T14:37:55Z"
     }
   ]
 }
