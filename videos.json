@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T13:00:35.277432+00:00",
+  "updated_at": "2026-08-19T13:40:16.527995+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "ARTHUR VOLTANDO PRO BRASIL!",
-      "videoId": "WAecjcce4LM",
-      "url": "https://www.youtube.com/watch?v=WAecjcce4LM",
-      "thumbnail": "https://i.ytimg.com/vi/WAecjcce4LM/mqdefault.jpg",
-      "published": "2026-08-19T12:53:08Z"
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #048",
+      "videoId": "yLQa9zpRop4",
+      "url": "https://www.youtube.com/watch?v=yLQa9zpRop4",
+      "thumbnail": "https://i.ytimg.com/vi/yLQa9zpRop4/mqdefault_live.jpg",
+      "published": "2026-08-19T13:38:37Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,7 @@
       "videoId": "DdvcfUGW15o",
       "url": "https://www.youtube.com/watch?v=DdvcfUGW15o",
       "thumbnail": "https://i.ytimg.com/vi/DdvcfUGW15o/mqdefault_live.jpg",
-      "published": "2026-08-19T12:01:21Z"
+      "published": "2026-08-19T13:32:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 19.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "KcIZgxwFfrI",
       "url": "https://www.youtube.com/watch?v=KcIZgxwFfrI",
-      "thumbnail": "https://i.ytimg.com/vi/KcIZgxwFfrI/mqdefault_live.jpg",
-      "published": "2026-08-19T12:01:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/KcIZgxwFfrI/mqdefault.jpg",
+      "published": "2026-08-19T13:31:11Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "FEITOS DA NOSSA HISTÓRIA NO CAMINHO PARA O VESTIÁRIO",
+      "videoId": "IvHNvHclHhM",
+      "url": "https://www.youtube.com/watch?v=IvHNvHclHhM",
+      "thumbnail": "https://i.ytimg.com/vi/IvHNvHclHhM/mqdefault.jpg",
+      "published": "2026-08-19T13:00:32Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "NOVOS REFORÇOS CONHECEM A HISTÓRIA DO GRÊMIO",
       "videoId": "2_pXICkdhV4",
       "url": "https://www.youtube.com/watch?v=2_pXICkdhV4",
@@ -155,28 +163,28 @@
       "published": "2026-08-18T21:53:27Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "ENTREVISTA COM LEONARDO GACIBA",
-      "videoId": "ZNpEU2z1e5s",
-      "url": "https://www.youtube.com/watch?v=ZNpEU2z1e5s",
-      "thumbnail": "https://i.ytimg.com/vi/ZNpEU2z1e5s/mqdefault.jpg",
-      "published": "2026-08-18T18:10:48Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Nasa revela imagens de cratera deixada por foguete da SpaceX na Lua",
-      "videoId": "12YFntHRLe8",
-      "url": "https://www.youtube.com/watch?v=12YFntHRLe8",
-      "thumbnail": "https://i.ytimg.com/vi/12YFntHRLe8/mqdefault.jpg",
-      "published": "2026-08-19T12:46:51Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Acidente com ônibus de Imbituva, petróleo na Foz do Amazonas e mais | Gaúcha Atualidade | 19/08/2026",
       "videoId": "iCqqLLNRNMM",
       "url": "https://www.youtube.com/watch?v=iCqqLLNRNMM",
-      "thumbnail": "https://i.ytimg.com/vi/iCqqLLNRNMM/mqdefault_live.jpg",
-      "published": "2026-08-19T10:58:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/iCqqLLNRNMM/mqdefault.jpg",
+      "published": "2026-08-19T13:26:30Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Acidente no Paraná, entrevista com Marcelo Falcão, homenagens em Gramado e + | Timeline | 19/08/2026",
+      "videoId": "DUKI4WxtS3Y",
+      "url": "https://www.youtube.com/watch?v=DUKI4WxtS3Y",
+      "thumbnail": "https://i.ytimg.com/vi/DUKI4WxtS3Y/mqdefault_live.jpg",
+      "published": "2026-08-19T13:04:42Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "Como o Inter contratou Sanabria",
+      "videoId": "QcGdFCc3wYQ",
+      "url": "https://www.youtube.com/watch?v=QcGdFCc3wYQ",
+      "thumbnail": "https://i.ytimg.com/vi/QcGdFCc3wYQ/mqdefault.jpg",
+      "published": "2026-08-19T13:03:25Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=PNTkB-1t_SI",
       "thumbnail": "https://i.ytimg.com/vi/PNTkB-1t_SI/mqdefault.jpg",
       "published": "2026-08-19T11:15:10Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO INTER: Detalhes do negócio pelo Sanabria + Alex Arce definido e uma decepção",
-      "videoId": "8uSVGALrok0",
-      "url": "https://www.youtube.com/watch?v=8uSVGALrok0",
-      "thumbnail": "https://i.ytimg.com/vi/8uSVGALrok0/mqdefault.jpg",
-      "published": "2026-08-19T00:15:04Z"
     },
     {
       "channel": "LH Benfica",
@@ -236,7 +236,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ARTHUR PODERIA VOLTAR AO GRÊMIO? | DESFALQUES E POSSÍVEL ESTREIA | COMO É BOM SER DO GRÊMIO #23",
+      "title": "REFORÇO PODE ESTREAR SÁBADO | GRÊMIO GANHA DESFALQUES | COMO É BOM SER DO GRÊMIO #23",
       "videoId": "29fw5PC8LsY",
       "url": "https://www.youtube.com/watch?v=29fw5PC8LsY",
       "thumbnail": "https://i.ytimg.com/vi/29fw5PC8LsY/mqdefault_live.jpg",
