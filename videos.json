@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-19T20:00:34.524912+00:00",
+  "updated_at": "2026-08-19T20:21:43.473869+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O maior problema vivido por Carlos Vinícius hoje em Porto Alegre | Seca e falta de cia",
+      "videoId": "osbty9zBc_g",
+      "url": "https://www.youtube.com/watch?v=osbty9zBc_g",
+      "thumbnail": "https://i.ytimg.com/vi/osbty9zBc_g/mqdefault.jpg",
+      "published": "2026-08-19T20:00:11Z"
+    },
     {
       "channel": "A Dupla",
       "title": "⚽ Não é não! React completo na Hora da Dupla no Youtube",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=PCxiBVc4Qks",
       "thumbnail": "https://i.ytimg.com/vi/PCxiBVc4Qks/mqdefault.jpg",
       "published": "2026-08-19T15:24:26Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 CHEGOU DE SURPRESA! VEJA! | ARCE ELIMINADO DA LIBERTADORES | ABATTI ABEL",
-      "videoId": "OgiznYscor4",
-      "url": "https://www.youtube.com/watch?v=OgiznYscor4",
-      "thumbnail": "https://i.ytimg.com/vi/OgiznYscor4/mqdefault.jpg",
-      "published": "2026-08-19T05:46:37Z"
     },
     {
       "channel": "Bage TV",
