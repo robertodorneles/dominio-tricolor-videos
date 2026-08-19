@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:17:37.676557+00:00",
+  "updated_at": "2026-08-19T00:00:36.603676+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨REVIRAVOLTA E ARTHUR DE VOLTA AO GRÊMIO? | FORÇANDO SAÍDA DE JOGADOR | JUIZ DO GRE-NAL | DESFALQUES",
+      "videoId": "6sSRiW-gfX4",
+      "url": "https://www.youtube.com/watch?v=6sSRiW-gfX4",
+      "thumbnail": "https://i.ytimg.com/vi/6sSRiW-gfX4/mqdefault.jpg",
+      "published": "2026-08-18T23:42:28Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨BRIGA NOJENTA! O “RACHA” NOS BASTIDORES! | UMA FAKE NEWS? | O JOGADOR PROTEGIDO NO GRÊMIO",
       "videoId": "vnPAltkghOc",
       "url": "https://www.youtube.com/watch?v=vnPAltkghOc",
       "thumbnail": "https://i.ytimg.com/vi/vnPAltkghOc/mqdefault.jpg",
       "published": "2026-08-18T15:00:32Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨LUÍS CASTRO INDO PRO BOTAFOGO? | GRÊMIO FAZ CONTRATAÇÃO | UMA GRANDE ECONOMIA",
-      "videoId": "fZdJpwNaIvQ",
-      "url": "https://www.youtube.com/watch?v=fZdJpwNaIvQ",
-      "thumbnail": "https://i.ytimg.com/vi/fZdJpwNaIvQ/mqdefault.jpg",
-      "published": "2026-08-17T22:50:19Z"
     },
     {
       "channel": "Canal do CCD",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨ARTHUR DE VOLTA AO GRÊMIO!? | VAZOU! SALÁRIO DE CARLOS VINÍCIUS | EXIGÊNCIA PARA FICAR NO GRÊMIO",
+      "videoId": "Lt-ktWs6DTs",
+      "url": "https://www.youtube.com/watch?v=Lt-ktWs6DTs",
+      "thumbnail": "https://i.ytimg.com/vi/Lt-ktWs6DTs/mqdefault.jpg",
+      "published": "2026-08-18T23:56:47Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨DUAS BOAS NOTÍCIAS NO GRÊMIO | DEFINIDO O FUTURO DE BRAITHWAITE | LISTA DE DISPENSAS",
       "videoId": "018Nz73LbKc",
       "url": "https://www.youtube.com/watch?v=018Nz73LbKc",
@@ -203,20 +211,12 @@
       "published": "2026-08-18T16:58:16Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "A ÓTIMA NOTÍCIA QUE O GRÊMIO PODE RECEBER DO BOTAFOGO",
-      "videoId": "gwmzwFgHckc",
-      "url": "https://www.youtube.com/watch?v=gwmzwFgHckc",
-      "thumbnail": "https://i.ytimg.com/vi/gwmzwFgHckc/mqdefault.jpg",
-      "published": "2026-08-17T23:14:33Z"
-    },
-    {
       "channel": "Radio Grenal",
       "title": "18/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "5HLsfLAaWpM",
       "url": "https://www.youtube.com/watch?v=5HLsfLAaWpM",
-      "thumbnail": "https://i.ytimg.com/vi/5HLsfLAaWpM/mqdefault_live.jpg",
-      "published": "2026-08-18T23:11:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/5HLsfLAaWpM/mqdefault.jpg",
+      "published": "2026-08-18T23:35:48Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #03 — GRÊMIO OFICIALIZA JOGADOR AFASTADO | ÁRBITRO DO GRENAL, LESÕES E MAIS",
-      "videoId": "mte6dlx-0vY",
-      "url": "https://www.youtube.com/watch?v=mte6dlx-0vY",
-      "thumbnail": "https://i.ytimg.com/vi/mte6dlx-0vY/mqdefault_live.jpg",
-      "published": "2026-08-18T23:14:50Z"
+      "title": "GRÊMIO COM MUDANÇAS CONFIRMADAS | O ÁRBITRO DO GRENAL 453  | NOITES DE GRÊMIO #131 — 18/08",
+      "videoId": "RZ0gTT0T-VQ",
+      "url": "https://www.youtube.com/watch?v=RZ0gTT0T-VQ",
+      "thumbnail": "https://i.ytimg.com/vi/RZ0gTT0T-VQ/mqdefault_live.jpg",
+      "published": "2026-08-19T00:00:13Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRENAL NO BEIRA-RIO COM ARBITRAGEM DEFINIDA | GRÊMIO CONFIRMA LESÃO | DANILO BARBOSA É NOVIDADE",
-      "videoId": "v4Nw7pGyzu4",
-      "url": "https://www.youtube.com/watch?v=v4Nw7pGyzu4",
-      "thumbnail": "https://i.ytimg.com/vi/v4Nw7pGyzu4/mqdefault.jpg",
-      "published": "2026-08-18T22:20:02Z"
+      "title": "TIMELINE IMORTAL #137 — ARBITRAGEM DEFINIDA E O INÍCIO DO GRENAL 453 | É OFICIAL: MONSALVE AFASTADO",
+      "videoId": "NOH0Y1Giu9c",
+      "url": "https://www.youtube.com/watch?v=NOH0Y1Giu9c",
+      "thumbnail": "https://i.ytimg.com/vi/NOH0Y1Giu9c/mqdefault_live.jpg",
+      "published": "2026-08-18T23:27:48Z"
     }
   ]
 }
