@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T12:38:15.567749+00:00",
+  "updated_at": "2026-08-19T13:00:35.277432+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ARTHUR VOLTANDO PRO BRASIL!",
+      "videoId": "WAecjcce4LM",
+      "url": "https://www.youtube.com/watch?v=WAecjcce4LM",
+      "thumbnail": "https://i.ytimg.com/vi/WAecjcce4LM/mqdefault.jpg",
+      "published": "2026-08-19T12:53:08Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO PERDE DOIS JOGADORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 19/08 - #615",
       "videoId": "DdvcfUGW15o",
       "url": "https://www.youtube.com/watch?v=DdvcfUGW15o",
       "thumbnail": "https://i.ytimg.com/vi/DdvcfUGW15o/mqdefault_live.jpg",
       "published": "2026-08-19T12:01:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ABITRAGEM DEFINIDA DO GRENAL 🌅🔵 BOM DIA GRÊMIO #102",
-      "videoId": "q528HPaSLu8",
-      "url": "https://www.youtube.com/watch?v=q528HPaSLu8",
-      "thumbnail": "https://i.ytimg.com/vi/q528HPaSLu8/mqdefault.jpg",
-      "published": "2026-08-19T12:00:50Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Nasa revela imagens de cratera deixada por foguete da SpaceX na Lua",
+      "videoId": "12YFntHRLe8",
+      "url": "https://www.youtube.com/watch?v=12YFntHRLe8",
+      "thumbnail": "https://i.ytimg.com/vi/12YFntHRLe8/mqdefault.jpg",
+      "published": "2026-08-19T12:46:51Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Acidente com ônibus de Imbituva, petróleo na Foz do Amazonas e mais | Gaúcha Atualidade | 19/08/2026",
       "videoId": "iCqqLLNRNMM",
       "url": "https://www.youtube.com/watch?v=iCqqLLNRNMM",
       "thumbnail": "https://i.ytimg.com/vi/iCqqLLNRNMM/mqdefault_live.jpg",
       "published": "2026-08-19T10:58:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Morte de idosa em POA, transbordamento do Rio Jaguarão, notícias do RS e mais | Gaúcha+ | 18/08/2026",
-      "videoId": "ZzGhe4J_ETM",
-      "url": "https://www.youtube.com/watch?v=ZzGhe4J_ETM",
-      "thumbnail": "https://i.ytimg.com/vi/ZzGhe4J_ETM/mqdefault.jpg",
-      "published": "2026-08-19T07:58:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COMO É APITAR UM GRENAL? | ENTREVISTA EXCLUSIVA COM FABRÍCIO NEVES CORRÊA - EX-ÁRBITRO BRASILEIRO",
+      "videoId": "9ehN1JlXuTo",
+      "url": "https://www.youtube.com/watch?v=9ehN1JlXuTo",
+      "thumbnail": "https://i.ytimg.com/vi/9ehN1JlXuTo/mqdefault.jpg",
+      "published": "2026-08-19T12:55:41Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "19/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
       "videoId": "ekxh86MeY5U",
       "url": "https://www.youtube.com/watch?v=ekxh86MeY5U",
@@ -219,20 +227,12 @@
       "published": "2026-08-19T11:02:20Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "18/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "5HLsfLAaWpM",
-      "url": "https://www.youtube.com/watch?v=5HLsfLAaWpM",
-      "thumbnail": "https://i.ytimg.com/vi/5HLsfLAaWpM/mqdefault.jpg",
-      "published": "2026-08-18T23:35:48Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #03 — GRÊMIO OFICIALIZA JOGADOR AFASTADO | ÁRBITRO DO GRENAL, LESÕES E MAIS",
       "videoId": "mte6dlx-0vY",
       "url": "https://www.youtube.com/watch?v=mte6dlx-0vY",
-      "thumbnail": "https://i.ytimg.com/vi/mte6dlx-0vY/mqdefault_live.jpg",
-      "published": "2026-08-19T12:33:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/mte6dlx-0vY/mqdefault.jpg",
+      "published": "2026-08-19T12:40:49Z"
     },
     {
       "channel": "Radio Imortal",
