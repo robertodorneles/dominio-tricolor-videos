@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:00:53.097502+00:00",
+  "updated_at": "2026-08-20T15:29:08.424805+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
-      "videoId": "UU2nsi1osrg",
-      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
-      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault_live.jpg",
-      "published": "2026-08-20T14:57:35Z"
+      "title": "Grenal valendo vaga na Serie B.",
+      "videoId": "S1Kk3uIGg1k",
+      "url": "https://www.youtube.com/watch?v=S1Kk3uIGg1k",
+      "thumbnail": "https://i.ytimg.com/vi/S1Kk3uIGg1k/mqdefault.jpg",
+      "published": "2026-08-20T15:24:00Z"
     },
     {
       "channel": "Bage TV",
-      "title": "Grêmio resolve pendências com Carlos Vinícius.",
-      "videoId": "wQAby43cKPA",
-      "url": "https://www.youtube.com/watch?v=wQAby43cKPA",
-      "thumbnail": "https://i.ytimg.com/vi/wQAby43cKPA/mqdefault.jpg",
-      "published": "2026-08-20T14:18:27Z"
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 20/08 - #616",
+      "videoId": "6a1jyt-T1bc",
+      "url": "https://www.youtube.com/watch?v=6a1jyt-T1bc",
+      "thumbnail": "https://i.ytimg.com/vi/6a1jyt-T1bc/mqdefault.jpg",
+      "published": "2026-08-20T15:08:05Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨VINI INDO E ARTHUR VINDO? CEBOLINHA.. O MERCADO ESQUENTA! GRÊMIO SE MEXENDO!",
+      "videoId": "UeFYwU3NT0k",
+      "url": "https://www.youtube.com/watch?v=UeFYwU3NT0k",
+      "thumbnail": "https://i.ytimg.com/vi/UeFYwU3NT0k/mqdefault.jpg",
+      "published": "2026-08-20T15:01:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=X6TgH7yQ6Oc",
       "thumbnail": "https://i.ytimg.com/vi/X6TgH7yQ6Oc/mqdefault.jpg",
       "published": "2026-08-19T23:36:18Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TROCA IMPORTANTE CONFIRMADA | MILHÕES PELO 9 | GRÊMIO DO LUIS CASTRO NÃO SABE GANHAR FORA",
-      "videoId": "ZBUk9CslnpA",
-      "url": "https://www.youtube.com/watch?v=ZBUk9CslnpA",
-      "thumbnail": "https://i.ytimg.com/vi/ZBUk9CslnpA/mqdefault.jpg",
-      "published": "2026-08-19T15:04:27Z"
     },
     {
       "channel": "Canal do CCD",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "A DUPLA GRENAL CONTRATOU BEM? | ENTREVISTA EXCLUSIVA COM JOÃO TAKA - ANALISTA DE DADOS E SCOUT",
+      "videoId": "Icqoz1otPP0",
+      "url": "https://www.youtube.com/watch?v=Icqoz1otPP0",
+      "thumbnail": "https://i.ytimg.com/vi/Icqoz1otPP0/mqdefault.jpg",
+      "published": "2026-08-20T15:16:50Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO | DUPLA EM DEBATE | 20/08/2026 | RÁDIO GRENAL",
       "videoId": "Wg2nf-KmLiE",
       "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
       "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
       "published": "2026-08-20T11:03:29Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "19/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "ekxh86MeY5U",
-      "url": "https://www.youtube.com/watch?v=ekxh86MeY5U",
-      "thumbnail": "https://i.ytimg.com/vi/ekxh86MeY5U/mqdefault.jpg",
-      "published": "2026-08-19T23:33:33Z"
     },
     {
       "channel": "Radio Imortal",
