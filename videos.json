@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-20T20:22:57.141024+00:00",
+  "updated_at": "2026-08-20T21:00:54.566520+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ DECISÃO TOMADA NO BASTIDOR | PLANOS DE FABINHO E ABEL | TUDO COM ELES!",
+      "videoId": "l9edhq3UwN4",
+      "url": "https://www.youtube.com/watch?v=l9edhq3UwN4",
+      "thumbnail": "https://i.ytimg.com/vi/l9edhq3UwN4/mqdefault.jpg",
+      "published": "2026-08-20T20:32:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O PROBLEMA OBSERVADO NA BASE TRICOLOR | CAMPANHAS TERRÍVEIS LIGAM ALERTA",
@@ -11,12 +19,12 @@
       "published": "2026-08-20T20:00:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 FABINHO REVELOU PAPO | ARCE VEM? | VALORES DE SANABRIA | ELIASSON OK",
-      "videoId": "X3KhGEKCieI",
-      "url": "https://www.youtube.com/watch?v=X3KhGEKCieI",
-      "thumbnail": "https://i.ytimg.com/vi/X3KhGEKCieI/mqdefault.jpg",
-      "published": "2026-08-20T07:57:19Z"
+      "channel": "Bage TV",
+      "title": "MERCADO, POLÊMICA E DECISÃO! DANILO NO GRÊMIO, SANABRIA EM ALTA E ABEL DESABAFA!📰BAGÉTV NEWS #021",
+      "videoId": "kfl_itXlBmQ",
+      "url": "https://www.youtube.com/watch?v=kfl_itXlBmQ",
+      "thumbnail": "https://i.ytimg.com/vi/kfl_itXlBmQ/mqdefault_live.jpg",
+      "published": "2026-08-20T20:29:55Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=JtfSlaY0Z3M",
       "thumbnail": "https://i.ytimg.com/vi/JtfSlaY0Z3M/mqdefault.jpg",
       "published": "2026-08-20T20:01:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "NOVO VOLANTE DO GRÊMIO É APRESENTADO! CONFIRA OS DETALHES. #CORTESDOTHETARDE",
-      "videoId": "fvoYNZlZsec",
-      "url": "https://www.youtube.com/watch?v=fvoYNZlZsec",
-      "thumbnail": "https://i.ytimg.com/vi/fvoYNZlZsec/mqdefault.jpg",
-      "published": "2026-08-20T19:56:20Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Candidatos levam o nome de profissões ou locais de trabalho para as urnas no RS | Palanque Digital",
-      "videoId": "hpA-WTC-soQ",
-      "url": "https://www.youtube.com/watch?v=hpA-WTC-soQ",
-      "thumbnail": "https://i.ytimg.com/vi/hpA-WTC-soQ/mqdefault.jpg",
-      "published": "2026-08-20T20:00:36Z"
+      "title": "Mendonça tem a decisão de qual instância Lulinha será julgado | Andei Pensando | 20/08/2026",
+      "videoId": "Q_ut2NbjfYw",
+      "url": "https://www.youtube.com/watch?v=Q_ut2NbjfYw",
+      "thumbnail": "https://i.ytimg.com/vi/Q_ut2NbjfYw/mqdefault.jpg",
+      "published": "2026-08-20T20:50:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Como construir algo duradouro em um mercado volátil? Márcio Santoro explica | Liderança em Sala",
-      "videoId": "ROYzMOCo1DI",
-      "url": "https://www.youtube.com/watch?v=ROYzMOCo1DI",
-      "thumbnail": "https://i.ytimg.com/vi/ROYzMOCo1DI/mqdefault.jpg",
-      "published": "2026-08-20T20:00:17Z"
+      "title": "Lula e Flávio Bolsonaro fogem dos debates; Pablo Marçal no centro das eleições | Chamada Eleitoral",
+      "videoId": "jmaiKbzrQzE",
+      "url": "https://www.youtube.com/watch?v=jmaiKbzrQzE",
+      "thumbnail": "https://i.ytimg.com/vi/jmaiKbzrQzE/mqdefault.jpg",
+      "published": "2026-08-20T20:25:06Z"
     },
     {
       "channel": "Jeremias Wernek",
