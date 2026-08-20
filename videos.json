@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:00:36.148734+00:00",
+  "updated_at": "2026-08-20T22:22:16.061493+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "MERCADO, POLÊMICA E DECISÃO! DANILO NO GRÊMIO, SANABRIA EM ALTA E ABEL DESABAFA!📰BAGÉTV NEWS #021",
       "videoId": "kfl_itXlBmQ",
       "url": "https://www.youtube.com/watch?v=kfl_itXlBmQ",
-      "thumbnail": "https://i.ytimg.com/vi/kfl_itXlBmQ/mqdefault_live.jpg",
-      "published": "2026-08-20T20:29:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/kfl_itXlBmQ/mqdefault.jpg",
+      "published": "2026-08-20T22:10:10Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "OPINIÃO DO FARID | ESNOBOU O TRICOLOR! NÃO SERVE PARA O GRÊMIO! - 20/08/2026",
+      "videoId": "hrmCqN4LGJE",
+      "url": "https://www.youtube.com/watch?v=hrmCqN4LGJE",
+      "thumbnail": "https://i.ytimg.com/vi/hrmCqN4LGJE/mqdefault.jpg",
+      "published": "2026-08-20T22:04:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/08/2026",
       "videoId": "CzmWN8u9NLw",
       "url": "https://www.youtube.com/watch?v=CzmWN8u9NLw",
       "thumbnail": "https://i.ytimg.com/vi/CzmWN8u9NLw/mqdefault.jpg",
       "published": "2026-08-20T11:10:35Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "OPINIÃO DO FARID | LIXO! LIXO! LIXO! - 19/08/2026",
-      "videoId": "sMRBghDaVnY",
-      "url": "https://www.youtube.com/watch?v=sMRBghDaVnY",
-      "thumbnail": "https://i.ytimg.com/vi/sMRBghDaVnY/mqdefault.jpg",
-      "published": "2026-08-20T00:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DANILO BARBOSA VAI SER TITULAR DO GRÊMIO? | ESCALAÇÃO É MISTÉRIO | AVANÇO COM CARLOS VINÍCIUS?",
+      "videoId": "xliCR3Hdls0",
+      "url": "https://www.youtube.com/watch?v=xliCR3Hdls0",
+      "thumbnail": "https://i.ytimg.com/vi/xliCR3Hdls0/mqdefault.jpg",
+      "published": "2026-08-20T22:19:49Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FINALMENTE VAMOS VENCER FORA? | NOVO VOLANTE APRESENTADO | NOITES DE GRÊMIO #133 - 20/08",
       "videoId": "XlZVmVM3KmM",
       "url": "https://www.youtube.com/watch?v=XlZVmVM3KmM",
       "thumbnail": "https://i.ytimg.com/vi/XlZVmVM3KmM/mqdefault_live.jpg",
       "published": "2026-08-20T21:17:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DANILO BARBOSA VAI SER TITULAR DO GRÊMIO? | ESCALAÇÃO É MISTÉRIO | AVANÇO COM CARLOS VINÍCIUS?",
-      "videoId": "xliCR3Hdls0",
-      "url": "https://www.youtube.com/watch?v=xliCR3Hdls0",
-      "thumbnail": "https://i.ytimg.com/vi/xliCR3Hdls0/mqdefault_live.jpg",
-      "published": "2026-08-20T21:01:56Z"
     }
   ]
 }
