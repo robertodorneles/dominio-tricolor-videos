@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:00:35.776439+00:00",
+  "updated_at": "2026-08-20T18:33:12.614689+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "ESSES DEVEM SER OS 11 TITULARES DO GRÊMIO? #CORTESDOFAG",
-      "videoId": "IfYKWlQReY0",
-      "url": "https://www.youtube.com/watch?v=IfYKWlQReY0",
-      "thumbnail": "https://i.ytimg.com/vi/IfYKWlQReY0/mqdefault.jpg",
-      "published": "2026-08-20T17:57:30Z"
+      "title": "🔹 THE TARDE 🔹#206",
+      "videoId": "JtfSlaY0Z3M",
+      "url": "https://www.youtube.com/watch?v=JtfSlaY0Z3M",
+      "thumbnail": "https://i.ytimg.com/vi/JtfSlaY0Z3M/mqdefault_live.jpg",
+      "published": "2026-08-20T18:31:55Z"
     },
     {
       "channel": "Bage TV",
-      "title": "DANILO BARBOSA É APRESENTADO! IGOR GOMES COBRA O INTER NA JUSTIÇA🔸RESENHA FORA DA SALA🔸#112",
-      "videoId": "pn68GtkO9Cs",
-      "url": "https://www.youtube.com/watch?v=pn68GtkO9Cs",
-      "thumbnail": "https://i.ytimg.com/vi/pn68GtkO9Cs/mqdefault_live.jpg",
-      "published": "2026-08-20T16:30:12Z"
+      "title": "VOCÊ COM A BAGÉTV NO GRENAL DA COPA #CORTESDOFAG",
+      "videoId": "H210bg5sxIE",
+      "url": "https://www.youtube.com/watch?v=H210bg5sxIE",
+      "thumbnail": "https://i.ytimg.com/vi/H210bg5sxIE/mqdefault.jpg",
+      "published": "2026-08-20T18:19:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Inter anuncia reforço | Veja o vídeo da nova camisa | Os jogos do Beira-Rio na Copa de 2027",
+      "videoId": "l2-mU5ltEOk",
+      "url": "https://www.youtube.com/watch?v=l2-mU5ltEOk",
+      "thumbnail": "https://i.ytimg.com/vi/l2-mU5ltEOk/mqdefault.jpg",
+      "published": "2026-08-20T18:11:51Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "A nova escalação do Grêmio | Renovação de Carlos Vinicius | Novo clube de Arthur?",
       "videoId": "v2b1pdQz6Wc",
       "url": "https://www.youtube.com/watch?v=v2b1pdQz6Wc",
       "thumbnail": "https://i.ytimg.com/vi/v2b1pdQz6Wc/mqdefault.jpg",
       "published": "2026-08-19T16:48:25Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Arthur pode voltar pro Grêmio?",
-      "videoId": "7UdPkHhxhZU",
-      "url": "https://www.youtube.com/watch?v=7UdPkHhxhZU",
-      "thumbnail": "https://i.ytimg.com/vi/7UdPkHhxhZU/mqdefault.jpg",
-      "published": "2026-08-18T22:24:50Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "5 filmes VENCEDORES DO FESTIVAL DE GRAMADO para ver no STREAMING | Dica do Ticiano",
+      "videoId": "Hu9k6q5c3nU",
+      "url": "https://www.youtube.com/watch?v=Hu9k6q5c3nU",
+      "thumbnail": "https://i.ytimg.com/vi/Hu9k6q5c3nU/mqdefault.jpg",
+      "published": "2026-08-20T18:04:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Alerta de tempestade, atualizações do Caso Samylle, notícias do RS e mais | Gaúcha+ | 20/08/2026",
       "videoId": "oNgUBfyutjU",
       "url": "https://www.youtube.com/watch?v=oNgUBfyutjU",
       "thumbnail": "https://i.ytimg.com/vi/oNgUBfyutjU/mqdefault_live.jpg",
       "published": "2026-08-20T17:59:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Lula e Flávio Bolsonaro evitam debates; Pablo Marçal no centro das eleições | Chamada Eleitoral",
-      "videoId": "jmaiKbzrQzE",
-      "url": "https://www.youtube.com/watch?v=jmaiKbzrQzE",
-      "thumbnail": "https://i.ytimg.com/vi/jmaiKbzrQzE/mqdefault.jpg",
-      "published": "2026-08-20T17:02:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 20/08/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | GRENAL FC | 20/08/2026 | RÁDIO GRENAL",
       "videoId": "Wg2nf-KmLiE",
       "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
       "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
       "published": "2026-08-20T11:03:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "DANILO BARBOSA É APRESENTADO PELO GRÊMIO | OS PLANOS DO CLUBE PARA TIAGUINHO | ESPLANADA",
+      "videoId": "RBeIPzD5vhE",
+      "url": "https://www.youtube.com/watch?v=RBeIPzD5vhE",
+      "thumbnail": "https://i.ytimg.com/vi/RBeIPzD5vhE/mqdefault_live.jpg",
+      "published": "2026-08-20T18:31:58Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=xliCR3Hdls0",
       "thumbnail": "https://i.ytimg.com/vi/xliCR3Hdls0/mqdefault_live.jpg",
       "published": "2026-08-20T17:42:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #138 — LESÕES PODEM MUDAR O TIME DO GRÊMIO? | PAI DE MONSALVE RECLAMA",
-      "videoId": "cXXUhvihpaw",
-      "url": "https://www.youtube.com/watch?v=cXXUhvihpaw",
-      "thumbnail": "https://i.ytimg.com/vi/cXXUhvihpaw/mqdefault.jpg",
-      "published": "2026-08-20T17:40:50Z"
     }
   ]
 }
