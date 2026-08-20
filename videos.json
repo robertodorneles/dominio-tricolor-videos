@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-20T23:00:49.548751+00:00",
-  "total": 28,
+  "updated_at": "2026-08-20T23:21:38.980467+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ DECISÃO TOMADA NO BASTIDOR | PLANOS DE FABINHO E ABEL | TUDO COM ELES!",
+      "videoId": "l9edhq3UwN4",
+      "url": "https://www.youtube.com/watch?v=l9edhq3UwN4",
+      "thumbnail": "https://i.ytimg.com/vi/l9edhq3UwN4/mqdefault.jpg",
+      "published": "2026-08-20T20:32:29Z"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O PROBLEMA OBSERVADO NA BASE TRICOLOR | CAMPANHAS TERRÍVEIS LIGAM ALERTA",
+      "videoId": "l0Q-W2NNMwg",
+      "url": "https://www.youtube.com/watch?v=l0Q-W2NNMwg",
+      "thumbnail": "https://i.ytimg.com/vi/l0Q-W2NNMwg/mqdefault.jpg",
+      "published": "2026-08-20T20:00:29Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#009",
+      "videoId": "jw0gI_mPVDU",
+      "url": "https://www.youtube.com/watch?v=jw0gI_mPVDU",
+      "thumbnail": "https://i.ytimg.com/vi/jw0gI_mPVDU/mqdefault_live.jpg",
+      "published": "2026-08-20T23:15:37Z"
+    },
     {
       "channel": "Bage TV",
       "title": "MERCADO, POLÊMICA E DECISÃO! DANILO NO GRÊMIO, SANABRIA EM ALTA E ABEL DESABAFA!📰BAGÉTV NEWS #021",
@@ -11,12 +35,12 @@
       "published": "2026-08-20T22:10:10Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "QUAL O MEIO-CAMPO IDEAL DE LUÍS CASTRO?🔹 THE TARDE 🔹#206",
-      "videoId": "JtfSlaY0Z3M",
-      "url": "https://www.youtube.com/watch?v=JtfSlaY0Z3M",
-      "thumbnail": "https://i.ytimg.com/vi/JtfSlaY0Z3M/mqdefault.jpg",
-      "published": "2026-08-20T20:01:06Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨CHANCE DE QUEDA DE LUÍS CASTRO | A MENTIRA NA ARGENTINA | ELE É VÍTIMA OU CULPADO NO GRÊMIO?",
+      "videoId": "PIqoHK_MztQ",
+      "url": "https://www.youtube.com/watch?v=PIqoHK_MztQ",
+      "thumbnail": "https://i.ytimg.com/vi/PIqoHK_MztQ/mqdefault.jpg",
+      "published": "2026-08-20T23:04:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -25,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=UeFYwU3NT0k",
       "thumbnail": "https://i.ytimg.com/vi/UeFYwU3NT0k/mqdefault.jpg",
       "published": "2026-08-20T15:01:07Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨POLÊMICA! ATRITO FORTE COM JOGADOR | NOVO PROBLEMA | REFORÇO PRONTO | O GRÊMIO DE LUÍS CASTRO..",
-      "videoId": "X6TgH7yQ6Oc",
-      "url": "https://www.youtube.com/watch?v=X6TgH7yQ6Oc",
-      "thumbnail": "https://i.ytimg.com/vi/X6TgH7yQ6Oc/mqdefault.jpg",
-      "published": "2026-08-19T23:36:18Z"
     },
     {
       "channel": "Canal do CCD",
@@ -196,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "BOAS CONTRATAÇÕES? 🤔💸 #Grêmio #Tricolor #Contratações #Debate  #MercadoDaBola",
-      "videoId": "qSrW5JHvuQ0",
-      "url": "https://www.youtube.com/watch?v=qSrW5JHvuQ0",
-      "thumbnail": "https://i.ytimg.com/vi/qSrW5JHvuQ0/mqdefault.jpg",
-      "published": "2026-08-20T22:30:12Z"
+      "title": "LIVE COMPLETA | 20/08/2026 | RÁDIO GRENAL",
+      "videoId": "1lyT_bwt310",
+      "url": "https://www.youtube.com/watch?v=1lyT_bwt310",
+      "thumbnail": "https://i.ytimg.com/vi/1lyT_bwt310/mqdefault_live.jpg",
+      "published": "2026-08-20T23:02:55Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE APRESENTAÇÃO DE DANILO BARBOSA - NOVO VOLANTE DO GRÊMIO | RÁDIO GRENAL | 20/08/2026",
-      "videoId": "T8c4HgG5qgI",
-      "url": "https://www.youtube.com/watch?v=T8c4HgG5qgI",
-      "thumbnail": "https://i.ytimg.com/vi/T8c4HgG5qgI/mqdefault.jpg",
-      "published": "2026-08-20T21:20:59Z"
+      "title": "LIVE COMPLETA | 20/08/2026 | RÁDIO GRENAL",
+      "videoId": "Wg2nf-KmLiE",
+      "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
+      "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
+      "published": "2026-08-20T23:02:06Z"
     },
     {
       "channel": "Radio Imortal",
