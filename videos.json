@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:29:08.424805+00:00",
+  "updated_at": "2026-08-20T16:00:40.936641+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
+      "videoId": "UU2nsi1osrg",
+      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
+      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault.jpg",
+      "published": "2026-08-20T15:30:57Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "Grenal valendo vaga na Serie B.",
       "videoId": "S1Kk3uIGg1k",
       "url": "https://www.youtube.com/watch?v=S1Kk3uIGg1k",
       "thumbnail": "https://i.ytimg.com/vi/S1Kk3uIGg1k/mqdefault.jpg",
       "published": "2026-08-20T15:24:00Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 20/08 - #616",
-      "videoId": "6a1jyt-T1bc",
-      "url": "https://www.youtube.com/watch?v=6a1jyt-T1bc",
-      "thumbnail": "https://i.ytimg.com/vi/6a1jyt-T1bc/mqdefault.jpg",
-      "published": "2026-08-20T15:08:05Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MONSALVE: ENTENDA SITUAÇÃO NO GRÊMIO #gremio #futebol",
+      "videoId": "nw9bJv7wlbc",
+      "url": "https://www.youtube.com/watch?v=nw9bJv7wlbc",
+      "thumbnail": "https://i.ytimg.com/vi/nw9bJv7wlbc/mqdefault.jpg",
+      "published": "2026-08-20T16:00:21Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "⚠️🚨 MAIS UMA LESÃO! GRAMADO SINTÉTICO E O AJUSTE DO TIME. #gremio #futebol",
       "videoId": "YpEze5Dt8mw",
       "url": "https://www.youtube.com/watch?v=YpEze5Dt8mw",
       "thumbnail": "https://i.ytimg.com/vi/YpEze5Dt8mw/mqdefault.jpg",
       "published": "2026-08-20T14:00:38Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRIPE, PAGOU E PROPOSTA : CARLOS VINÍCIUS | NOVA LESÃO: TIME | MONSALVE E O GRÊMIO.",
-      "videoId": "TEfxP24UoAc",
-      "url": "https://www.youtube.com/watch?v=TEfxP24UoAc",
-      "thumbnail": "https://i.ytimg.com/vi/TEfxP24UoAc/mqdefault.jpg",
-      "published": "2026-08-19T23:42:32Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | COLETIVA DE DANILO BARBOSA | APRESENTAÇÃO DO NOVO VOLANTE DO GRÊMIO | DIRETO DO CT",
+      "videoId": "iVQUn6WbB6c",
+      "url": "https://www.youtube.com/watch?v=iVQUn6WbB6c",
+      "thumbnail": "https://i.ytimg.com/vi/iVQUn6WbB6c/mqdefault_live.jpg",
+      "published": "2026-08-20T15:59:41Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #138 — LESÕES PODEM MUDAR O TIME DO GRÊMIO? | PAI DE MONSALVE RECLAMA",
       "videoId": "cXXUhvihpaw",
       "url": "https://www.youtube.com/watch?v=cXXUhvihpaw",
       "thumbnail": "https://i.ytimg.com/vi/cXXUhvihpaw/mqdefault_live.jpg",
       "published": "2026-08-20T15:00:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "QUANTOS PONTOS O GRÊMIO FARÁ NO BRASILEIRÃO? | COMO É BOM SER DO GRÊMIO #24",
-      "videoId": "A6q8Np_nHTc",
-      "url": "https://www.youtube.com/watch?v=A6q8Np_nHTc",
-      "thumbnail": "https://i.ytimg.com/vi/A6q8Np_nHTc/mqdefault.jpg",
-      "published": "2026-08-20T14:42:31Z"
     }
   ]
 }
