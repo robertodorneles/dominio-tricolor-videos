@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:00:40.380375+00:00",
+  "updated_at": "2026-08-20T11:22:18.698196+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/08/2026",
+      "videoId": "CzmWN8u9NLw",
+      "url": "https://www.youtube.com/watch?v=CzmWN8u9NLw",
+      "thumbnail": "https://i.ytimg.com/vi/CzmWN8u9NLw/mqdefault.jpg",
+      "published": "2026-08-20T11:10:35Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID | LIXO! LIXO! LIXO! - 19/08/2026",
       "videoId": "sMRBghDaVnY",
       "url": "https://www.youtube.com/watch?v=sMRBghDaVnY",
       "thumbnail": "https://i.ytimg.com/vi/sMRBghDaVnY/mqdefault.jpg",
       "published": "2026-08-20T00:00:06Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/08/2026",
-      "videoId": "CzmWN8u9NLw",
-      "url": "https://www.youtube.com/watch?v=CzmWN8u9NLw",
-      "thumbnail": "https://i.ytimg.com/vi/CzmWN8u9NLw/mqdefault_live.jpg",
-      "published": "2026-08-19T23:03:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 20/08/2026",
+      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
       "videoId": "crZYaSB3C5A",
       "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
       "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault_live.jpg",
@@ -184,7 +184,7 @@
       "videoId": "d9wpakaFt_Y",
       "url": "https://www.youtube.com/watch?v=d9wpakaFt_Y",
       "thumbnail": "https://i.ytimg.com/vi/d9wpakaFt_Y/mqdefault_live.jpg",
-      "published": "2026-08-20T01:48:43Z"
+      "published": "2026-08-20T11:01:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "20/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "Wg2nf-KmLiE",
+      "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
+      "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
+      "published": "2026-08-20T11:03:29Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "19/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ekxh86MeY5U",
       "url": "https://www.youtube.com/watch?v=ekxh86MeY5U",
       "thumbnail": "https://i.ytimg.com/vi/ekxh86MeY5U/mqdefault.jpg",
       "published": "2026-08-19T23:33:33Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "20/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "Wg2nf-KmLiE",
-      "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
-      "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
-      "published": "2026-08-19T23:02:00Z"
     },
     {
       "channel": "Radio Imortal",
