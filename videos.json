@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T14:31:55.146025+00:00",
+  "updated_at": "2026-08-20T15:00:53.097502+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
+      "videoId": "UU2nsi1osrg",
+      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
+      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault_live.jpg",
+      "published": "2026-08-20T14:57:35Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "Grêmio resolve pendências com Carlos Vinícius.",
       "videoId": "wQAby43cKPA",
       "url": "https://www.youtube.com/watch?v=wQAby43cKPA",
       "thumbnail": "https://i.ytimg.com/vi/wQAby43cKPA/mqdefault.jpg",
       "published": "2026-08-20T14:18:27Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
-      "videoId": "UU2nsi1osrg",
-      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
-      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault_live.jpg",
-      "published": "2026-08-20T13:44:11Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com Cila Schulman, últimas da política e mais | Timeline | 20/08/2026",
-      "videoId": "mcSNxbJW8yk",
-      "url": "https://www.youtube.com/watch?v=mcSNxbJW8yk",
-      "thumbnail": "https://i.ytimg.com/vi/mcSNxbJW8yk/mqdefault_live.jpg",
-      "published": "2026-08-20T13:56:32Z"
+      "title": "Shadow AI: quando a inteligência artificial escapa do controle das empresas | Radar de Inovação",
+      "videoId": "LwB8C4pwz_s",
+      "url": "https://www.youtube.com/watch?v=LwB8C4pwz_s",
+      "thumbnail": "https://i.ytimg.com/vi/LwB8C4pwz_s/mqdefault.jpg",
+      "published": "2026-08-20T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
-      "videoId": "crZYaSB3C5A",
-      "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
-      "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault.jpg",
-      "published": "2026-08-20T13:44:16Z"
+      "title": "Entrevista com Cila Schulman, últimas da política e mais | Timeline | 20/08/2026",
+      "videoId": "mcSNxbJW8yk",
+      "url": "https://www.youtube.com/watch?v=mcSNxbJW8yk",
+      "thumbnail": "https://i.ytimg.com/vi/mcSNxbJW8yk/mqdefault.jpg",
+      "published": "2026-08-20T14:37:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 20/08",
-      "videoId": "RBeIPzD5vhE",
-      "url": "https://www.youtube.com/watch?v=RBeIPzD5vhE",
-      "thumbnail": "https://i.ytimg.com/vi/RBeIPzD5vhE/mqdefault_live.jpg",
-      "published": "2026-08-20T14:13:07Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #138 — LESÕES PODEM MUDAR O TIME DO GRÊMIO? | PAI DE MONSALVE RECLAMA",
       "videoId": "cXXUhvihpaw",
       "url": "https://www.youtube.com/watch?v=cXXUhvihpaw",
       "thumbnail": "https://i.ytimg.com/vi/cXXUhvihpaw/mqdefault_live.jpg",
-      "published": "2026-08-20T14:11:29Z"
+      "published": "2026-08-20T15:00:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "QUANTOS PONTOS O GRÊMIO FARÁ NO BRASILEIRÃO? | COMO É BOM SER DO GRÊMIO #24",
+      "videoId": "A6q8Np_nHTc",
+      "url": "https://www.youtube.com/watch?v=A6q8Np_nHTc",
+      "thumbnail": "https://i.ytimg.com/vi/A6q8Np_nHTc/mqdefault.jpg",
+      "published": "2026-08-20T14:42:31Z"
     }
   ]
 }
