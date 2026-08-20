@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:00:37.695810+00:00",
+  "updated_at": "2026-08-20T13:42:00.680252+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "6a1jyt-T1bc",
       "url": "https://www.youtube.com/watch?v=6a1jyt-T1bc",
       "thumbnail": "https://i.ytimg.com/vi/6a1jyt-T1bc/mqdefault_live.jpg",
-      "published": "2026-08-20T12:00:23Z"
+      "published": "2026-08-20T13:40:51Z"
     },
     {
       "channel": "Bage TV",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 20.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "koLp3HYuvmk",
       "url": "https://www.youtube.com/watch?v=koLp3HYuvmk",
-      "thumbnail": "https://i.ytimg.com/vi/koLp3HYuvmk/mqdefault_live.jpg",
-      "published": "2026-08-20T12:01:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/koLp3HYuvmk/mqdefault.jpg",
+      "published": "2026-08-20T13:24:01Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
+      "videoId": "crZYaSB3C5A",
+      "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
+      "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault_live.jpg",
+      "published": "2026-08-20T13:04:08Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com Cila Schulman, últimas da política e mais | Timeline | 20/08/2026",
       "videoId": "mcSNxbJW8yk",
       "url": "https://www.youtube.com/watch?v=mcSNxbJW8yk",
       "thumbnail": "https://i.ytimg.com/vi/mcSNxbJW8yk/mqdefault_live.jpg",
       "published": "2026-08-20T12:59:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
-      "videoId": "crZYaSB3C5A",
-      "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
-      "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault_live.jpg",
-      "published": "2026-08-20T10:57:41Z"
     },
     {
       "channel": "Jeremias Wernek",
