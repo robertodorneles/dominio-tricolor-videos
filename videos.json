@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-20T02:00:29.906317+00:00",
+  "updated_at": "2026-08-20T02:58:49.546785+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: ACHARAM QUE NÓS NÃO VINHA? | SANABRIA NO INTER E MONSALVE TRETANDO NO GRÊMIO",
+      "videoId": "hxAlBtyV04Q",
+      "url": "https://www.youtube.com/watch?v=hxAlBtyV04Q",
+      "thumbnail": "https://i.ytimg.com/vi/hxAlBtyV04Q/mqdefault_live.jpg",
+      "published": "2026-08-20T02:27:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: SANABRIA É ESTE 9 | VEJA OS LANCES DELE | É MÓVEL!",
@@ -11,12 +19,12 @@
       "published": "2026-08-19T21:06:00Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O maior problema vivido por Carlos Vinícius hoje em Porto Alegre | Seca e falta de cia",
-      "videoId": "osbty9zBc_g",
-      "url": "https://www.youtube.com/watch?v=osbty9zBc_g",
-      "thumbnail": "https://i.ytimg.com/vi/osbty9zBc_g/mqdefault.jpg",
-      "published": "2026-08-19T20:00:11Z"
+      "channel": "Bage TV",
+      "title": "DODI VIRA TERCEIRO DESFALQUE! DANILO BARBOSA ESTÁ NO BID  | 🌃🔵 BOA NOITE GRÊMIO #008",
+      "videoId": "oqy72BI562A",
+      "url": "https://www.youtube.com/watch?v=oqy72BI562A",
+      "thumbnail": "https://i.ytimg.com/vi/oqy72BI562A/mqdefault.jpg",
+      "published": "2026-08-20T02:04:59Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=AwGJY8G4jFQ",
       "thumbnail": "https://i.ytimg.com/vi/AwGJY8G4jFQ/mqdefault.jpg",
       "published": "2026-08-20T00:46:43Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DODI VIRA TERCEIRO DESFALQUE! DANILO BARBOSA ESTÁ NO BID  | 🌃🔵 BOA NOITE GRÊMIO #008",
-      "videoId": "oqy72BI562A",
-      "url": "https://www.youtube.com/watch?v=oqy72BI562A",
-      "thumbnail": "https://i.ytimg.com/vi/oqy72BI562A/mqdefault_live.jpg",
-      "published": "2026-08-20T00:30:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -116,19 +116,27 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "R$82 MILHÕES POR UM NOVO CONTRATO | LUIS CASTRO NO BOTAFOGO? | ARTHUR VOLTA AO BRASIL E O GRÊMIO?",
-      "videoId": "4SV95XbVZ08",
-      "url": "https://www.youtube.com/watch?v=4SV95XbVZ08",
-      "thumbnail": "https://i.ytimg.com/vi/4SV95XbVZ08/mqdefault.jpg",
-      "published": "2026-08-19T16:21:46Z"
+      "title": "(AO VIVO) PÓS-JOGO DE BRAGANTINO x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 23/08/26 #29",
+      "videoId": "gR62weK5PX0",
+      "url": "https://www.youtube.com/watch?v=gR62weK5PX0",
+      "thumbnail": "https://i.ytimg.com/vi/gR62weK5PX0/mqdefault_live.jpg",
+      "published": "2026-08-20T02:52:44Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "8 NA LISTA DE SAÍDAS! | O CASO WILLIAM ASSUSTA: UMA DECISÃO DE R$15 MILHÕES | LESÕES, ÁRBITRO E MAIS",
-      "videoId": "IcnPAc_yzkU",
-      "url": "https://www.youtube.com/watch?v=IcnPAc_yzkU",
-      "thumbnail": "https://i.ytimg.com/vi/IcnPAc_yzkU/mqdefault.jpg",
-      "published": "2026-08-18T20:53:54Z"
+      "title": "(AO VIVO) PRÉ-JOGO DE BRAGANTINO x GRÊMIO DIRETO DE BRAGANÇA | BRASILEIRÃO 2026 | 23/08 #12",
+      "videoId": "Cv6HCC2ruxY",
+      "url": "https://www.youtube.com/watch?v=Cv6HCC2ruxY",
+      "thumbnail": "https://i.ytimg.com/vi/Cv6HCC2ruxY/mqdefault_live.jpg",
+      "published": "2026-08-20T02:49:37Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "Hospício - 20/08",
+      "videoId": "koLp3HYuvmk",
+      "url": "https://www.youtube.com/watch?v=koLp3HYuvmk",
+      "thumbnail": "https://i.ytimg.com/vi/koLp3HYuvmk/mqdefault_live.jpg",
+      "published": "2026-08-20T02:45:35Z"
     },
     {
       "channel": "Duda Garbi",
@@ -137,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=10WqnrbJtGE",
       "thumbnail": "https://i.ytimg.com/vi/10WqnrbJtGE/mqdefault.jpg",
       "published": "2026-08-19T21:30:27Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O QUE DEU ERRADO NO INTER? #dudagarbi #umassadopara",
-      "videoId": "smhqfZc23Ew",
-      "url": "https://www.youtube.com/watch?v=smhqfZc23Ew",
-      "thumbnail": "https://i.ytimg.com/vi/smhqfZc23Ew/mqdefault.jpg",
-      "published": "2026-08-19T21:30:11Z"
     },
     {
       "channel": "GremioTV Oficial",
