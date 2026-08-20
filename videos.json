@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:00:54.566520+00:00",
+  "updated_at": "2026-08-20T21:23:39.869205+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE APRESENTAÇÃO DE DANILO BARBOSA - NOVO VOLANTE DO GRÊMIO | RÁDIO GRENAL | 20/08/2026",
+      "videoId": "T8c4HgG5qgI",
+      "url": "https://www.youtube.com/watch?v=T8c4HgG5qgI",
+      "thumbnail": "https://i.ytimg.com/vi/T8c4HgG5qgI/mqdefault.jpg",
+      "published": "2026-08-20T21:20:59Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "REFORÇO TRICOLOR 🇪🇪 #gremio #tricolor #danilobarbosa #apresentação #futebol",
       "videoId": "X1A0kKs5wLA",
       "url": "https://www.youtube.com/watch?v=X1A0kKs5wLA",
@@ -219,28 +227,20 @@
       "published": "2026-08-20T17:00:25Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "A DUPLA GRENAL CONTRATOU BEM? | ENTREVISTA EXCLUSIVA COM JOÃO TAKA - ANALISTA DE DADOS E SCOUT",
-      "videoId": "Icqoz1otPP0",
-      "url": "https://www.youtube.com/watch?v=Icqoz1otPP0",
-      "thumbnail": "https://i.ytimg.com/vi/Icqoz1otPP0/mqdefault.jpg",
-      "published": "2026-08-20T15:16:50Z"
+      "channel": "Radio Imortal",
+      "title": "FINALMENTE VAMOS VENCER FORA? | NOVO VOLANTE APRESENTADO | NOITES DE GRÊMIO #133 - 20/08",
+      "videoId": "XlZVmVM3KmM",
+      "url": "https://www.youtube.com/watch?v=XlZVmVM3KmM",
+      "thumbnail": "https://i.ytimg.com/vi/XlZVmVM3KmM/mqdefault_live.jpg",
+      "published": "2026-08-20T21:17:26Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "DANILO BARBOSA É APRESENTADO PELO GRÊMIO | VENDA DE INGRESSOS PARA O GRENAL | ESPLANADA",
-      "videoId": "RBeIPzD5vhE",
-      "url": "https://www.youtube.com/watch?v=RBeIPzD5vhE",
-      "thumbnail": "https://i.ytimg.com/vi/RBeIPzD5vhE/mqdefault.jpg",
-      "published": "2026-08-20T19:55:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CÉSAR FABRIS FALA SOBRE DECLARAÇÕES DO PAI DE MONSALVE NO COMO É BOM SER DO GRÊMIO",
-      "videoId": "Gz8O70c2hH8",
-      "url": "https://www.youtube.com/watch?v=Gz8O70c2hH8",
-      "thumbnail": "https://i.ytimg.com/vi/Gz8O70c2hH8/mqdefault.jpg",
-      "published": "2026-08-20T19:49:47Z"
+      "title": "DANILO BARBOSA VAI SER TITULAR DO GRÊMIO? | ESCALAÇÃO É MISTÉRIO | AVANÇO COM CARLOS VINÍCIUS?",
+      "videoId": "xliCR3Hdls0",
+      "url": "https://www.youtube.com/watch?v=xliCR3Hdls0",
+      "thumbnail": "https://i.ytimg.com/vi/xliCR3Hdls0/mqdefault_live.jpg",
+      "published": "2026-08-20T21:01:56Z"
     }
   ]
 }
