@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:42:00.680252+00:00",
+  "updated_at": "2026-08-20T14:00:41.595479+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
+      "videoId": "UU2nsi1osrg",
+      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
+      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault_live.jpg",
+      "published": "2026-08-20T13:44:11Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 20/08 - #616",
       "videoId": "6a1jyt-T1bc",
       "url": "https://www.youtube.com/watch?v=6a1jyt-T1bc",
       "thumbnail": "https://i.ytimg.com/vi/6a1jyt-T1bc/mqdefault_live.jpg",
       "published": "2026-08-20T13:40:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "MAIS UM DESFALQUE PARA OS GRENAIS 🌅🔵 BOM DIA GRÊMIO #103",
-      "videoId": "Zq2cjXpy-oU",
-      "url": "https://www.youtube.com/watch?v=Zq2cjXpy-oU",
-      "thumbnail": "https://i.ytimg.com/vi/Zq2cjXpy-oU/mqdefault.jpg",
-      "published": "2026-08-20T11:57:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
-      "videoId": "crZYaSB3C5A",
-      "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
-      "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault_live.jpg",
-      "published": "2026-08-20T13:04:08Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Entrevista com Cila Schulman, últimas da política e mais | Timeline | 20/08/2026",
       "videoId": "mcSNxbJW8yk",
       "url": "https://www.youtube.com/watch?v=mcSNxbJW8yk",
       "thumbnail": "https://i.ytimg.com/vi/mcSNxbJW8yk/mqdefault_live.jpg",
-      "published": "2026-08-20T12:59:27Z"
+      "published": "2026-08-20T13:56:32Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Drogômetro, desafios do varejo, inundação em Jaguarão e mais | Gaúcha Atualidade | 20/08/2026",
+      "videoId": "crZYaSB3C5A",
+      "url": "https://www.youtube.com/watch?v=crZYaSB3C5A",
+      "thumbnail": "https://i.ytimg.com/vi/crZYaSB3C5A/mqdefault.jpg",
+      "published": "2026-08-20T13:44:16Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 20/08/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE | 20/08/2026 | RÁDIO GRENAL",
       "videoId": "Wg2nf-KmLiE",
       "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
       "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
