@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:29:50.636368+00:00",
+  "updated_at": "2026-08-20T17:00:45.701597+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "DANILO BARBOSA É APRESENTADO! IGOR GOMES COBRA O INTER NA JUSTIÇA🔸RESENHA FORA DA SALA🔸#112",
+      "videoId": "pn68GtkO9Cs",
+      "url": "https://www.youtube.com/watch?v=pn68GtkO9Cs",
+      "thumbnail": "https://i.ytimg.com/vi/pn68GtkO9Cs/mqdefault_live.jpg",
+      "published": "2026-08-20T16:30:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵AO VIVO🔵 | COLETIVA DE APRESENTAÇÃO DE DANILO BARBOSA",
       "videoId": "bF_CBrpS1EU",
       "url": "https://www.youtube.com/watch?v=bF_CBrpS1EU",
       "thumbnail": "https://i.ytimg.com/vi/bF_CBrpS1EU/mqdefault_live.jpg",
       "published": "2026-08-20T16:14:56Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #049",
-      "videoId": "UU2nsi1osrg",
-      "url": "https://www.youtube.com/watch?v=UU2nsi1osrg",
-      "thumbnail": "https://i.ytimg.com/vi/UU2nsi1osrg/mqdefault.jpg",
-      "published": "2026-08-20T15:30:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA DE APRESENTAÇÃO I DANILO BARBOSA",
+      "videoId": "LZsGDDKaMtU",
+      "url": "https://www.youtube.com/watch?v=LZsGDDKaMtU",
+      "thumbnail": "https://i.ytimg.com/vi/LZsGDDKaMtU/mqdefault.jpg",
+      "published": "2026-08-20T16:48:48Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO ESPORTS VENCE A LIGA GAMERS CLUB DE COUNTER-STRIKE 2",
       "videoId": "9GrwLUG0Cjg",
       "url": "https://www.youtube.com/watch?v=9GrwLUG0Cjg",
       "thumbnail": "https://i.ytimg.com/vi/9GrwLUG0Cjg/mqdefault.jpg",
       "published": "2026-08-20T13:00:15Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "PKF8h-z9BHA",
-      "url": "https://www.youtube.com/watch?v=PKF8h-z9BHA",
-      "thumbnail": "https://i.ytimg.com/vi/PKF8h-z9BHA/mqdefault_live.jpg",
-      "published": "2026-08-19T15:13:16Z"
     },
     {
       "channel": "GZH Digital",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨ÓTIMA INFORMAÇÃO SOBRE CARLOS VINÍCIUS | RENOVAÇÃO SERÁ FACILITADA | O INCRÍVEL ACONTECEU",
+      "videoId": "QRjFthwwsLw",
+      "url": "https://www.youtube.com/watch?v=QRjFthwwsLw",
+      "thumbnail": "https://i.ytimg.com/vi/QRjFthwwsLw/mqdefault.jpg",
+      "published": "2026-08-20T17:00:00Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨BOA NOTÍCIA! GRÊMIO GANHA NOVO REFORÇO | ALTERNATIVA PARA DUAS OPÇÕES | BRONCA NA DIREÇÃO",
       "videoId": "CVS_CXzlFIE",
       "url": "https://www.youtube.com/watch?v=CVS_CXzlFIE",
       "thumbnail": "https://i.ytimg.com/vi/CVS_CXzlFIE/mqdefault.jpg",
       "published": "2026-08-19T23:21:58Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨ARTHUR: CHANCE DE NOVO REFORÇO!? | GRÊMIO TOMA DECISÃO SOBRE JOGADOR | NOVO NOME PRA ZAGA",
-      "videoId": "Hgx7OhOrMSM",
-      "url": "https://www.youtube.com/watch?v=Hgx7OhOrMSM",
-      "thumbnail": "https://i.ytimg.com/vi/Hgx7OhOrMSM/mqdefault.jpg",
-      "published": "2026-08-19T16:57:19Z"
     },
     {
       "channel": "Radio Grenal",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 20/08/2026 | RÁDIO GRENAL",
+      "title": "20/08/2026 | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL",
       "videoId": "Wg2nf-KmLiE",
       "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
       "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault_live.jpg",
@@ -232,7 +232,7 @@
       "videoId": "iVQUn6WbB6c",
       "url": "https://www.youtube.com/watch?v=iVQUn6WbB6c",
       "thumbnail": "https://i.ytimg.com/vi/iVQUn6WbB6c/mqdefault_live.jpg",
-      "published": "2026-08-20T15:59:41Z"
+      "published": "2026-08-20T16:49:05Z"
     },
     {
       "channel": "Radio Imortal",
