@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21T20:00:30.853982+00:00",
+  "updated_at": "2026-08-21T20:20:50.680980+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: TIAGUINHO E A PREPARAÇÃO PARA UMA RETOMADA COM CASTRO | O PEDIDO FEITO A ELE",
+      "videoId": "_tNlsLEY06Y",
+      "url": "https://www.youtube.com/watch?v=_tNlsLEY06Y",
+      "thumbnail": "https://i.ytimg.com/vi/_tNlsLEY06Y/mqdefault.jpg",
+      "published": "2026-08-21T20:00:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 EMPRESÁRIO COLORADO NA JOGADA | DIREÇÃO DESCONVERSA | NEGÓCIO NÃO MORREU",
@@ -11,12 +19,12 @@
       "published": "2026-08-21T19:21:04Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 REUNIÃO PELO FUTURO DE ARCE | REFORÇOS PRONTOS PRA JOGAR | ALEMAO VOLTANDO?",
-      "videoId": "JF0gveSddP0",
-      "url": "https://www.youtube.com/watch?v=JF0gveSddP0",
-      "thumbnail": "https://i.ytimg.com/vi/JF0gveSddP0/mqdefault.jpg",
-      "published": "2026-08-21T08:15:08Z"
+      "channel": "Bage TV",
+      "title": "ELE ESTÁ DEIXANDO A DESEJAR? #CORTESDOFAG",
+      "videoId": "Ui2qgPVHjTA",
+      "url": "https://www.youtube.com/watch?v=Ui2qgPVHjTA",
+      "thumbnail": "https://i.ytimg.com/vi/Ui2qgPVHjTA/mqdefault.jpg",
+      "published": "2026-08-21T20:04:47Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=jpZuwdK-d1s",
       "thumbnail": "https://i.ytimg.com/vi/jpZuwdK-d1s/mqdefault.jpg",
       "published": "2026-08-21T19:58:59Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "O GRÊMIO SENTE NO BOLSO A FALTA DO MASTER! #CORTESDOFAG",
-      "videoId": "UqTfPabeULA",
-      "url": "https://www.youtube.com/watch?v=UqTfPabeULA",
-      "thumbnail": "https://i.ytimg.com/vi/UqTfPabeULA/mqdefault.jpg",
-      "published": "2026-08-21T19:06:43Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Quatro mudanças no time | Rescisão na Itália | Veja lista das dívidas do Grêmio na CNRD | Cebolinha",
+      "videoId": "OWtP6ZFHQY0",
+      "url": "https://www.youtube.com/watch?v=OWtP6ZFHQY0",
+      "thumbnail": "https://i.ytimg.com/vi/OWtP6ZFHQY0/mqdefault.jpg",
+      "published": "2026-08-21T20:17:35Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Apresentação de Danilo Barbosa no Grêmio",
       "videoId": "bxAhu72DFmY",
       "url": "https://www.youtube.com/watch?v=bxAhu72DFmY",
       "thumbnail": "https://i.ytimg.com/vi/bxAhu72DFmY/mqdefault.jpg",
       "published": "2026-08-20T19:15:31Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Grêmio apresenta reforço | Lesão confirmada | Como foi a audiência no TAS",
-      "videoId": "WpUnX5Sd2Go",
-      "url": "https://www.youtube.com/watch?v=WpUnX5Sd2Go",
-      "thumbnail": "https://i.ytimg.com/vi/WpUnX5Sd2Go/mqdefault.jpg",
-      "published": "2026-08-20T19:07:01Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO FEMININO TEM JOGO DECISIVO PELO BRASILEIRÃO",
+      "videoId": "t2vqWDH-ZVM",
+      "url": "https://www.youtube.com/watch?v=t2vqWDH-ZVM",
+      "thumbnail": "https://i.ytimg.com/vi/t2vqWDH-ZVM/mqdefault.jpg",
+      "published": "2026-08-21T20:17:22Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA DE APRESENTAÇÃO I DANILO BARBOSA",
       "videoId": "LZsGDDKaMtU",
       "url": "https://www.youtube.com/watch?v=LZsGDDKaMtU",
@@ -155,12 +163,12 @@
       "published": "2026-08-20T16:48:48Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO ESPORTS VENCE A LIGA GAMERS CLUB DE COUNTER-STRIKE 2",
-      "videoId": "9GrwLUG0Cjg",
-      "url": "https://www.youtube.com/watch?v=9GrwLUG0Cjg",
-      "thumbnail": "https://i.ytimg.com/vi/9GrwLUG0Cjg/mqdefault.jpg",
-      "published": "2026-08-20T13:00:15Z"
+      "channel": "GZH Digital",
+      "title": "Doença de Creutzfeldt-Jakob: o que é a doença diagnosticada em Lito Souza?",
+      "videoId": "9Sfj7sfZfFA",
+      "url": "https://www.youtube.com/watch?v=9Sfj7sfZfFA",
+      "thumbnail": "https://i.ytimg.com/vi/9Sfj7sfZfFA/mqdefault.jpg",
+      "published": "2026-08-21T20:00:29Z"
     },
     {
       "channel": "GZH Digital",
@@ -171,12 +179,12 @@
       "published": "2026-08-21T19:48:12Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Lula liga para Trump, novidade nos pedágios Free Flow, trânsito e mais | Gaúcha+ | 21/08/2026",
-      "videoId": "zvqm-kmUvy8",
-      "url": "https://www.youtube.com/watch?v=zvqm-kmUvy8",
-      "thumbnail": "https://i.ytimg.com/vi/zvqm-kmUvy8/mqdefault.jpg",
-      "published": "2026-08-21T19:48:12Z"
+      "channel": "Jeremias Wernek",
+      "title": "GRÊMIO FAZ APELO E DOC REVELA TUDO: Os valores, clubes e as reações",
+      "videoId": "TgqqgVt-EnU",
+      "url": "https://www.youtube.com/watch?v=TgqqgVt-EnU",
+      "thumbnail": "https://i.ytimg.com/vi/TgqqgVt-EnU/mqdefault.jpg",
+      "published": "2026-08-21T20:01:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=IkrvnW0HRnE",
       "thumbnail": "https://i.ytimg.com/vi/IkrvnW0HRnE/mqdefault.jpg",
       "published": "2026-08-21T12:08:50Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O que o Grêmio diz sobre uma possível volta de Arthur",
-      "videoId": "V6KJE_6_Hu8",
-      "url": "https://www.youtube.com/watch?v=V6KJE_6_Hu8",
-      "thumbnail": "https://i.ytimg.com/vi/V6KJE_6_Hu8/mqdefault.jpg",
-      "published": "2026-08-20T22:59:10Z"
     },
     {
       "channel": "LH Benfica",
