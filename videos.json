@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T09:00:36.640095+00:00",
+  "updated_at": "2026-08-21T09:32:22.410170+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #05 — GRÊMIO BUSCA A PRIMEIRA VITÓRIA FORA DE CASA (DE NOVO)!",
+      "videoId": "J89eq_ytAfk",
+      "url": "https://www.youtube.com/watch?v=J89eq_ytAfk",
+      "thumbnail": "https://i.ytimg.com/vi/J89eq_ytAfk/mqdefault_live.jpg",
+      "published": "2026-08-21T09:30:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FINALMENTE VAMOS VENCER FORA? | NOVO VOLANTE APRESENTADO | NOITES DE GRÊMIO #133 - 20/08",
       "videoId": "XlZVmVM3KmM",
       "url": "https://www.youtube.com/watch?v=XlZVmVM3KmM",
       "thumbnail": "https://i.ytimg.com/vi/XlZVmVM3KmM/mqdefault.jpg",
       "published": "2026-08-21T01:51:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #139 — AS DÚVIDAS DO GRÊMIO PARA O JOGO DO FINAL DE SEMANA",
-      "videoId": "k4RlI4GhaOo",
-      "url": "https://www.youtube.com/watch?v=k4RlI4GhaOo",
-      "thumbnail": "https://i.ytimg.com/vi/k4RlI4GhaOo/mqdefault_live.jpg",
-      "published": "2026-08-21T00:30:07Z"
     }
   ]
 }
