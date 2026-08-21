@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21T19:00:34.164695+00:00",
+  "updated_at": "2026-08-21T19:22:44.800918+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 EMPRESÁRIO COLORADO NA JOGADA | DIREÇÃO DESCONVERSA | NEGÓCIO NÃO MORREU",
+      "videoId": "tjNxbfzg38w",
+      "url": "https://www.youtube.com/watch?v=tjNxbfzg38w",
+      "thumbnail": "https://i.ytimg.com/vi/tjNxbfzg38w/mqdefault.jpg",
+      "published": "2026-08-21T19:21:04Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 REUNIÃO PELO FUTURO DE ARCE | REFORÇOS PRONTOS PRA JOGAR | ALEMAO VOLTANDO?",
@@ -11,20 +19,12 @@
       "published": "2026-08-21T08:15:08Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: R$ 8 milhões por Carlos Vinícius | Balbuena pode sair | Bastidor de Danilo",
-      "videoId": "EyrX-PX4xSQ",
-      "url": "https://www.youtube.com/watch?v=EyrX-PX4xSQ",
-      "thumbnail": "https://i.ytimg.com/vi/EyrX-PX4xSQ/mqdefault.jpg",
-      "published": "2026-08-21T05:00:02Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "GRÊMIO PAGA SÓ R$500MIL! SANABRIA APRESENTADO NO INTER E BALBUENA DE SAÍDA🔸RESENHA FORA DA SALA🔸#113",
-      "videoId": "2_Qw8T0wixs",
-      "url": "https://www.youtube.com/watch?v=2_Qw8T0wixs",
-      "thumbnail": "https://i.ytimg.com/vi/2_Qw8T0wixs/mqdefault.jpg",
-      "published": "2026-08-21T18:57:09Z"
+      "title": "O GRÊMIO SENTE NO BOLSO A FALTA DO MASTER! #CORTESDOFAG",
+      "videoId": "UqTfPabeULA",
+      "url": "https://www.youtube.com/watch?v=UqTfPabeULA",
+      "thumbnail": "https://i.ytimg.com/vi/UqTfPabeULA/mqdefault.jpg",
+      "published": "2026-08-21T19:06:43Z"
     },
     {
       "channel": "Bage TV",
