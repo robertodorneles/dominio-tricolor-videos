@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:00:40.365483+00:00",
+  "updated_at": "2026-08-21T11:21:20.013053+00:00",
   "total": 30,
   "videos": [
     {
@@ -184,7 +184,7 @@
       "videoId": "IkrvnW0HRnE",
       "url": "https://www.youtube.com/watch?v=IkrvnW0HRnE",
       "thumbnail": "https://i.ytimg.com/vi/IkrvnW0HRnE/mqdefault_live.jpg",
-      "published": "2026-08-21T02:11:57Z"
+      "published": "2026-08-21T11:02:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "| 21/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "videoId": "1lyT_bwt310",
+      "url": "https://www.youtube.com/watch?v=1lyT_bwt310",
+      "thumbnail": "https://i.ytimg.com/vi/1lyT_bwt310/mqdefault_live.jpg",
+      "published": "2026-08-21T11:04:53Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | 20/08/2026 | RÁDIO GRENAL",
       "videoId": "Wg2nf-KmLiE",
       "url": "https://www.youtube.com/watch?v=Wg2nf-KmLiE",
       "thumbnail": "https://i.ytimg.com/vi/Wg2nf-KmLiE/mqdefault.jpg",
       "published": "2026-08-20T23:31:39Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "| 21/08/2026 | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL",
-      "videoId": "1lyT_bwt310",
-      "url": "https://www.youtube.com/watch?v=1lyT_bwt310",
-      "thumbnail": "https://i.ytimg.com/vi/1lyT_bwt310/mqdefault_live.jpg",
-      "published": "2026-08-20T23:02:55Z"
     },
     {
       "channel": "Radio Imortal",
