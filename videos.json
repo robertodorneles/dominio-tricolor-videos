@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21T01:00:38.193429+00:00",
+  "updated_at": "2026-08-21T01:26:08.555620+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: HORA DE FOCARMOS NA RODADA PRÉ-GRENAL | CONSEQUÊNCIAS",
+      "videoId": "iiFIFpCLVH4",
+      "url": "https://www.youtube.com/watch?v=iiFIFpCLVH4",
+      "thumbnail": "https://i.ytimg.com/vi/iiFIFpCLVH4/mqdefault_live.jpg",
+      "published": "2026-08-21T01:01:24Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ DECISÃO TOMADA NO BASTIDOR | PLANOS DE FABINHO E ABEL | TUDO COM ELES!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=l9edhq3UwN4",
       "thumbnail": "https://i.ytimg.com/vi/l9edhq3UwN4/mqdefault.jpg",
       "published": "2026-08-20T20:32:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O PROBLEMA OBSERVADO NA BASE TRICOLOR | CAMPANHAS TERRÍVEIS LIGAM ALERTA",
-      "videoId": "l0Q-W2NNMwg",
-      "url": "https://www.youtube.com/watch?v=l0Q-W2NNMwg",
-      "thumbnail": "https://i.ytimg.com/vi/l0Q-W2NNMwg/mqdefault.jpg",
-      "published": "2026-08-20T20:00:29Z"
     },
     {
       "channel": "Bage TV",
