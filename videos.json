@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:00:39.362480+00:00",
+  "updated_at": "2026-08-21T22:19:08.810891+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO NO CNRD! CORINTHIANS DERRUBA DI MARÍA E BRASILEIRÃO PEGA FOGO!📰BAGÉTV NEWS #022",
       "videoId": "fOvQ6e1CPR4",
       "url": "https://www.youtube.com/watch?v=fOvQ6e1CPR4",
-      "thumbnail": "https://i.ytimg.com/vi/fOvQ6e1CPR4/mqdefault_live.jpg",
-      "published": "2026-08-21T20:28:47Z"
+      "thumbnail": "https://i.ytimg.com/vi/fOvQ6e1CPR4/mqdefault.jpg",
+      "published": "2026-08-21T22:06:07Z"
     },
     {
       "channel": "Bage TV",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 21/08/2026",
+      "videoId": "H7IUugvPOZU",
+      "url": "https://www.youtube.com/watch?v=H7IUugvPOZU",
+      "thumbnail": "https://i.ytimg.com/vi/H7IUugvPOZU/mqdefault_live.jpg",
+      "published": "2026-08-21T22:00:55Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "OPINIÃO DO FARID | ESNOBOU O TRICOLOR! NÃO SERVE PARA O GRÊMIO! - 20/08/2026",
       "videoId": "hrmCqN4LGJE",
       "url": "https://www.youtube.com/watch?v=hrmCqN4LGJE",
@@ -75,12 +83,12 @@
       "published": "2026-08-20T23:00:06Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/08/2026",
-      "videoId": "CzmWN8u9NLw",
-      "url": "https://www.youtube.com/watch?v=CzmWN8u9NLw",
-      "thumbnail": "https://i.ytimg.com/vi/CzmWN8u9NLw/mqdefault.jpg",
-      "published": "2026-08-20T11:10:35Z"
+      "channel": "Canal do Gabardo",
+      "title": "A rescisão de Arthur e a situação de Cebolinha #gremio",
+      "videoId": "gsVwD4R8R_g",
+      "url": "https://www.youtube.com/watch?v=gsVwD4R8R_g",
+      "thumbnail": "https://i.ytimg.com/vi/gsVwD4R8R_g/mqdefault.jpg",
+      "published": "2026-08-21T22:10:35Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=OWtP6ZFHQY0",
       "thumbnail": "https://i.ytimg.com/vi/OWtP6ZFHQY0/mqdefault.jpg",
       "published": "2026-08-21T20:17:35Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Apresentação de Danilo Barbosa no Grêmio",
-      "videoId": "bxAhu72DFmY",
-      "url": "https://www.youtube.com/watch?v=bxAhu72DFmY",
-      "thumbnail": "https://i.ytimg.com/vi/bxAhu72DFmY/mqdefault.jpg",
-      "published": "2026-08-20T19:15:31Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -232,7 +232,7 @@
       "videoId": "k3TAQj9zsxM",
       "url": "https://www.youtube.com/watch?v=k3TAQj9zsxM",
       "thumbnail": "https://i.ytimg.com/vi/k3TAQj9zsxM/mqdefault_live.jpg",
-      "published": "2026-08-21T21:00:55Z"
+      "published": "2026-08-21T22:13:22Z"
     },
     {
       "channel": "Radio Imortal",
