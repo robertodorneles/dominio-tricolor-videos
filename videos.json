@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T14:30:26.026671+00:00",
+  "updated_at": "2026-08-21T15:00:37.191221+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #050",
+      "videoId": "sbN-aun5QgQ",
+      "url": "https://www.youtube.com/watch?v=sbN-aun5QgQ",
+      "thumbnail": "https://i.ytimg.com/vi/sbN-aun5QgQ/mqdefault_live.jpg",
+      "published": "2026-08-21T14:50:53Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ACERTA PENDÊNCIA COM CARLOS VINICIUS🔵 FUTEBOL ALEGRIA DO GRÊMIO - 21/08 - #617",
       "videoId": "mVtUXlnxEhc",
       "url": "https://www.youtube.com/watch?v=mVtUXlnxEhc",
@@ -27,12 +35,12 @@
       "published": "2026-08-21T14:07:35Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #050",
-      "videoId": "sbN-aun5QgQ",
-      "url": "https://www.youtube.com/watch?v=sbN-aun5QgQ",
-      "thumbnail": "https://i.ytimg.com/vi/sbN-aun5QgQ/mqdefault_live.jpg",
-      "published": "2026-08-21T13:44:03Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨EVERTON RIBEIRO CABE NO GRÊMIO? | VOLANTE VOLTANDO | INTERESSE EM ZAGUEIRO",
+      "videoId": "eXgtAFtSW34",
+      "url": "https://www.youtube.com/watch?v=eXgtAFtSW34",
+      "thumbnail": "https://i.ytimg.com/vi/eXgtAFtSW34/mqdefault.jpg",
+      "published": "2026-08-21T14:57:13Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=PIqoHK_MztQ",
       "thumbnail": "https://i.ytimg.com/vi/PIqoHK_MztQ/mqdefault.jpg",
       "published": "2026-08-20T23:04:16Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨VINI INDO E ARTHUR VINDO? CEBOLINHA.. O MERCADO ESQUENTA! GRÊMIO SE MEXENDO!",
-      "videoId": "UeFYwU3NT0k",
-      "url": "https://www.youtube.com/watch?v=UeFYwU3NT0k",
-      "thumbnail": "https://i.ytimg.com/vi/UeFYwU3NT0k/mqdefault.jpg",
-      "published": "2026-08-20T15:01:07Z"
     },
     {
       "channel": "Canal do CCD",
@@ -167,8 +167,8 @@
       "title": "Combate à violência contra crianças e mulheres, Festival de Gramado e mais | Timeline | 21/08/2026",
       "videoId": "WjZYXChCPMk",
       "url": "https://www.youtube.com/watch?v=WjZYXChCPMk",
-      "thumbnail": "https://i.ytimg.com/vi/WjZYXChCPMk/mqdefault_live.jpg",
-      "published": "2026-08-21T13:57:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/WjZYXChCPMk/mqdefault.jpg",
+      "published": "2026-08-21T14:51:32Z"
     },
     {
       "channel": "GZH Digital",
