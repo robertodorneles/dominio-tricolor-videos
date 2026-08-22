@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:00:33.164961+00:00",
+  "updated_at": "2026-08-22T12:30:41.584444+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM | RODADA DECISIVA ANTES DE COPA DO BRASIL | PLANTÃO IMORTAL",
+      "videoId": "lkYa1y0iV0Y",
+      "url": "https://www.youtube.com/watch?v=lkYa1y0iV0Y",
+      "thumbnail": "https://i.ytimg.com/vi/lkYa1y0iV0Y/mqdefault_live.jpg",
+      "published": "2026-08-22T12:01:52Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CHEGOU A HORA DE GANHAR FORA DE CASA! | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO #134 - 21/08",
       "videoId": "9xLaqP8YMs8",
       "url": "https://www.youtube.com/watch?v=9xLaqP8YMs8",
       "thumbnail": "https://i.ytimg.com/vi/9xLaqP8YMs8/mqdefault.jpg",
       "published": "2026-08-22T01:36:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FALANDO DE GRÊMIO AO VIVO DIRETO DE BRAGANÇA PAULISTA | DIRETO DA CHURRASCARIA PORTEIRA GRILL",
-      "videoId": "08VvRxwFAuA",
-      "url": "https://www.youtube.com/watch?v=08VvRxwFAuA",
-      "thumbnail": "https://i.ytimg.com/vi/08VvRxwFAuA/mqdefault_live.jpg",
-      "published": "2026-08-21T23:44:31Z"
     }
   ]
 }
