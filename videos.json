@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:18:41.515599+00:00",
+  "updated_at": "2026-08-22T17:00:29.717663+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVIDADE! LUÍS CASTRO VAI PRO BOTAFOGO? | NOVA SOBRE CARLOS VINÍCIUS | O “NÃO” DO GRÊMIO PRO ARTHUR",
+      "videoId": "Fz-gjPjL7HE",
+      "url": "https://www.youtube.com/watch?v=Fz-gjPjL7HE",
+      "thumbnail": "https://i.ytimg.com/vi/Fz-gjPjL7HE/mqdefault.jpg",
+      "published": "2026-08-22T16:38:37Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨NOVA DECISÃO SOBRE ARTHUR | O ÓTIMO MEIA QUE SUMIU | NINGUÉM SERVE NO GRÊMIO DE LUÍS CASTRO",
       "videoId": "BYZX7Ohl8ks",
       "url": "https://www.youtube.com/watch?v=BYZX7Ohl8ks",
       "thumbnail": "https://i.ytimg.com/vi/BYZX7Ohl8ks/mqdefault.jpg",
       "published": "2026-08-21T23:32:28Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨EVERTON RIBEIRO NA NOSSA MEIA EM 2027? CABE NO GRÊMIO? | VOLANTE VOLTANDO | INTERESSE EM ZAGUEIRO",
-      "videoId": "eXgtAFtSW34",
-      "url": "https://www.youtube.com/watch?v=eXgtAFtSW34",
-      "thumbnail": "https://i.ytimg.com/vi/eXgtAFtSW34/mqdefault.jpg",
-      "published": "2026-08-21T14:57:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL ESCALAÇÃO | A BRIGA CONTRA O Z4 | PLANTÃO IMORTAL",
+      "videoId": "g2prhdBIi7Q",
+      "url": "https://www.youtube.com/watch?v=g2prhdBIi7Q",
+      "thumbnail": "https://i.ytimg.com/vi/g2prhdBIi7Q/mqdefault_live.jpg",
+      "published": "2026-08-22T16:57:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PRÉ-JOGO RB BRAGANTINO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
       "videoId": "e_5rQWM_9eY",
       "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
       "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
       "published": "2026-08-22T16:12:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM | RODADA DECISIVA ANTES DE COPA DO BRASIL | PLANTÃO IMORTAL",
-      "videoId": "lkYa1y0iV0Y",
-      "url": "https://www.youtube.com/watch?v=lkYa1y0iV0Y",
-      "thumbnail": "https://i.ytimg.com/vi/lkYa1y0iV0Y/mqdefault.jpg",
-      "published": "2026-08-22T15:49:42Z"
     }
   ]
 }
