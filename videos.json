@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:00:32.914489+00:00",
+  "updated_at": "2026-08-22T16:18:41.515599+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO RB BRAGANTINO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
+      "videoId": "e_5rQWM_9eY",
+      "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
+      "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
+      "published": "2026-08-22T16:12:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM | RODADA DECISIVA ANTES DE COPA DO BRASIL | PLANTÃO IMORTAL",
       "videoId": "lkYa1y0iV0Y",
       "url": "https://www.youtube.com/watch?v=lkYa1y0iV0Y",
       "thumbnail": "https://i.ytimg.com/vi/lkYa1y0iV0Y/mqdefault.jpg",
       "published": "2026-08-22T15:49:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CHEGOU A HORA DE GANHAR FORA DE CASA! | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO #134 - 21/08",
-      "videoId": "9xLaqP8YMs8",
-      "url": "https://www.youtube.com/watch?v=9xLaqP8YMs8",
-      "thumbnail": "https://i.ytimg.com/vi/9xLaqP8YMs8/mqdefault.jpg",
-      "published": "2026-08-22T01:36:46Z"
     }
   ]
 }
