@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:16:46.808908+00:00",
+  "updated_at": "2026-08-23T00:00:37.362379+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FUI NA REUNIÃO DO GRÊMIO | DESFALQUES E ESTREIAS BRAGANTINO X GRÊMIO.",
+      "videoId": "sNUtkhAL44M",
+      "url": "https://www.youtube.com/watch?v=sNUtkhAL44M",
+      "thumbnail": "https://i.ytimg.com/vi/sNUtkhAL44M/mqdefault.jpg",
+      "published": "2026-08-22T23:24:22Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "DECISÃO: ARTHUR E CARLOS VINÍCIUS |  PLANO PARA DÍVIDAS NO GRÊMIO.",
       "videoId": "yR_C6BOt-Io",
       "url": "https://www.youtube.com/watch?v=yR_C6BOt-Io",
       "thumbnail": "https://i.ytimg.com/vi/yR_C6BOt-Io/mqdefault.jpg",
       "published": "2026-08-21T20:25:50Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ÓTIMA NOTÍCIA NO TREINO: KROVINOVIC  #gremio #futebol",
-      "videoId": "e6kI1201WQI",
-      "url": "https://www.youtube.com/watch?v=e6kI1201WQI",
-      "thumbnail": "https://i.ytimg.com/vi/e6kI1201WQI/mqdefault.jpg",
-      "published": "2026-08-21T16:00:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | JORNADA ESPORTIVA | INTER 0 X 0 ATLÉTICO-MG | BRASILEIRÃO | 22/08/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DEBATE BOLA | INTER 0 X 0 ATLÉTICO-MG | BRASILEIRÃO | 22/08/2026 | RÁDIO GRENAL",
       "videoId": "MPql5b3s6VQ",
       "url": "https://www.youtube.com/watch?v=MPql5b3s6VQ",
       "thumbnail": "https://i.ytimg.com/vi/MPql5b3s6VQ/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "FALANDO DE GRÊMIO AO VIVO DIRETO DE BRAGANÇA PAULISTA | DIRETO DA CHURRASCARIA PORTEIRA GRILL",
+      "videoId": "08VvRxwFAuA",
+      "url": "https://www.youtube.com/watch?v=08VvRxwFAuA",
+      "thumbnail": "https://i.ytimg.com/vi/08VvRxwFAuA/mqdefault_live.jpg",
+      "published": "2026-08-22T23:34:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪 O GRÊMIO CHEGA EM ATIBAIA!",
       "videoId": "NRfGD4O0BGY",
       "url": "https://www.youtube.com/watch?v=NRfGD4O0BGY",
       "thumbnail": "https://i.ytimg.com/vi/NRfGD4O0BGY/mqdefault.jpg",
       "published": "2026-08-22T21:45:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM SÃO PAULO | RELACIONADOS PARA O JOGO CONTRA O BRAGANTINO",
-      "videoId": "SjFmEo8X8X4",
-      "url": "https://www.youtube.com/watch?v=SjFmEo8X8X4",
-      "thumbnail": "https://i.ytimg.com/vi/SjFmEo8X8X4/mqdefault.jpg",
-      "published": "2026-08-22T21:42:41Z"
     }
   ]
 }
