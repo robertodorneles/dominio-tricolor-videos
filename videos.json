@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:19:34.795563+00:00",
+  "updated_at": "2026-08-23T20:00:36.977574+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 24/08",
+      "videoId": "yRQcvpXg3qo",
+      "url": "https://www.youtube.com/watch?v=yRQcvpXg3qo",
+      "thumbnail": "https://i.ytimg.com/vi/yRQcvpXg3qo/mqdefault_live.jpg",
+      "published": "2026-08-23T19:42:21Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "15 MINUTOS MTV - COMO SURGIU O FENÔMENO QUE LANÇOU ADNET PRO BRASIL | Cortes do Duda",
       "videoId": "M6IeK8PXfe4",
       "url": "https://www.youtube.com/watch?v=M6IeK8PXfe4",
       "thumbnail": "https://i.ytimg.com/vi/M6IeK8PXfe4/mqdefault.jpg",
       "published": "2026-08-23T16:00:10Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O DIA QUE ADNET TOMOU TODAS COM GALVÃO E AINDA LEVOU A  PIOR | Cortes do Duda",
-      "videoId": "xhMd1nVxZVU",
-      "url": "https://www.youtube.com/watch?v=xhMd1nVxZVU",
-      "thumbnail": "https://i.ytimg.com/vi/xhMd1nVxZVU/mqdefault.jpg",
-      "published": "2026-08-22T22:00:29Z"
     },
     {
       "channel": "GremioTV Oficial",
