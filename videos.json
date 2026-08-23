@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:00:34.625117+00:00",
+  "updated_at": "2026-08-23T21:16:55.518235+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "FARID VAI A LOUCURA COM GOL DA DERROTA AOS 50 DO SEGUNDO TEMPO!",
+      "videoId": "ttDRl-vdQKg",
+      "url": "https://www.youtube.com/watch?v=ttDRl-vdQKg",
+      "thumbnail": "https://i.ytimg.com/vi/ttDRl-vdQKg/mqdefault.jpg",
+      "published": "2026-08-23T21:07:24Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO X RB BRAGANTINO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 23/08/2026",
       "videoId": "9K4Mvo4HkA0",
       "url": "https://www.youtube.com/watch?v=9K4Mvo4HkA0",
       "thumbnail": "https://i.ytimg.com/vi/9K4Mvo4HkA0/mqdefault_live.jpg",
       "published": "2026-08-23T17:02:13Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 21/08/2026",
-      "videoId": "H7IUugvPOZU",
-      "url": "https://www.youtube.com/watch?v=H7IUugvPOZU",
-      "thumbnail": "https://i.ytimg.com/vi/H7IUugvPOZU/mqdefault.jpg",
-      "published": "2026-08-22T11:07:57Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -104,7 +104,7 @@
       "videoId": "GI9NC0IYlzU",
       "url": "https://www.youtube.com/watch?v=GI9NC0IYlzU",
       "thumbnail": "https://i.ytimg.com/vi/GI9NC0IYlzU/mqdefault_live.jpg",
-      "published": "2026-08-23T00:37:33Z"
+      "published": "2026-08-23T21:09:34Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE BRAGANTINO x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 23/08/26 #29",
+      "videoId": "gR62weK5PX0",
+      "url": "https://www.youtube.com/watch?v=gR62weK5PX0",
+      "thumbnail": "https://i.ytimg.com/vi/gR62weK5PX0/mqdefault_live.jpg",
+      "published": "2026-08-23T21:00:32Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE BRAGANTINO x GRÊMIO DIRETO DE BRAGANÇA | BRASILEIRÃO 2026 | 23/08 #12",
       "videoId": "Cv6HCC2ruxY",
       "url": "https://www.youtube.com/watch?v=Cv6HCC2ruxY",
@@ -123,12 +131,12 @@
       "published": "2026-08-23T18:37:34Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "DECISÃO IMPORTANTE! NOVA REALIDADE! | DÍVIDA QUITADA: AGORA VAI? | TIME DOS SONHOS NO GRÊMIO",
-      "videoId": "rueLOq2aj2o",
-      "url": "https://www.youtube.com/watch?v=rueLOq2aj2o",
-      "thumbnail": "https://i.ytimg.com/vi/rueLOq2aj2o/mqdefault.jpg",
-      "published": "2026-08-21T16:13:46Z"
+      "channel": "Duda Garbi",
+      "title": "ADNET FALA DE PATERNIDADE #dudagarbi #umassadopara",
+      "videoId": "W4z8dqFl2Zw",
+      "url": "https://www.youtube.com/watch?v=W4z8dqFl2Zw",
+      "thumbnail": "https://i.ytimg.com/vi/W4z8dqFl2Zw/mqdefault.jpg",
+      "published": "2026-08-23T21:00:36Z"
     },
     {
       "channel": "Duda Garbi",
@@ -139,20 +147,12 @@
       "published": "2026-08-23T21:00:05Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "Hospício - 24/08",
-      "videoId": "yRQcvpXg3qo",
-      "url": "https://www.youtube.com/watch?v=yRQcvpXg3qo",
-      "thumbnail": "https://i.ytimg.com/vi/yRQcvpXg3qo/mqdefault_live.jpg",
-      "published": "2026-08-23T19:42:21Z"
-    },
-    {
       "channel": "GremioTV Oficial",
       "title": "AO VIVO | BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "P7YECSv3aog",
       "url": "https://www.youtube.com/watch?v=P7YECSv3aog",
       "thumbnail": "https://i.ytimg.com/vi/P7YECSv3aog/mqdefault_live.jpg",
-      "published": "2026-08-23T17:32:01Z"
+      "published": "2026-08-23T21:03:58Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | BRAGANTINO 1 X 0 GRÊMIO | BRASILEIRÃO | 23/08/2026",
+      "title": "AO VIVO | DEBATE BOLA | BRAGANTINO 1X0 GRÊMIO | CAMPEONATO BRASILEIRO | 23/08/2026",
       "videoId": "J4IDn8rVQXk",
       "url": "https://www.youtube.com/watch?v=J4IDn8rVQXk",
       "thumbnail": "https://i.ytimg.com/vi/J4IDn8rVQXk/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM PORTO ALEGRE DIRETO DO AEROPORTO | REPERCUSSÕES DE MAIS UMA DERROTA",
+      "videoId": "wSH6hkO7MYk",
+      "url": "https://www.youtube.com/watch?v=wSH6hkO7MYk",
+      "thumbnail": "https://i.ytimg.com/vi/wSH6hkO7MYk/mqdefault_live.jpg",
+      "published": "2026-08-23T21:10:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪🗣️ O EDILSON APROVOU A ESCALAÇÃO DO GRÊMIO PARA O JOGO CONTRA O BRAGANTINO!",
       "videoId": "ptTcRxKpziA",
       "url": "https://www.youtube.com/watch?v=ptTcRxKpziA",
       "thumbnail": "https://i.ytimg.com/vi/ptTcRxKpziA/mqdefault.jpg",
       "published": "2026-08-23T18:31:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ NA OPINIÃO DO KUNRATH, O GRÊMIO AINDA NÃO TEM UM TIME!",
-      "videoId": "ib5BjJKPrGs",
-      "url": "https://www.youtube.com/watch?v=ib5BjJKPrGs",
-      "thumbnail": "https://i.ytimg.com/vi/ib5BjJKPrGs/mqdefault.jpg",
-      "published": "2026-08-23T16:00:47Z"
     }
   ]
 }
