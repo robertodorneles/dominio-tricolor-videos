@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:00:32.867809+00:00",
+  "updated_at": "2026-08-23T23:16:55.473539+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨LUÍS CASTRO “PEDIU” DEMISSÃO DO GRÊMIO COM ESCALAÇÃO PATÉTICA | TRETA NA COLETIVA | JUIZ FRACO",
+      "title": "🚨LUÍS CASTRO PRATICAMENTE “PEDIU” DEMISSÃO DO GRÊMIO COM ESCALAÇÃO | TRETA NA COLETIVA | JUIZ FRACO",
       "videoId": "5S-3KbwCzSU",
       "url": "https://www.youtube.com/watch?v=5S-3KbwCzSU",
       "thumbnail": "https://i.ytimg.com/vi/5S-3KbwCzSU/mqdefault.jpg",
@@ -55,8 +55,8 @@
       "title": "BRAGANTINO 1 X 0 GRÊMIO: PELAIPE DÁ PRAZO PARA LUIS CASTRO",
       "videoId": "jSdr2A58HrE",
       "url": "https://www.youtube.com/watch?v=jSdr2A58HrE",
-      "thumbnail": "https://i.ytimg.com/vi/jSdr2A58HrE/mqdefault_live.jpg",
-      "published": "2026-08-23T22:59:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/jSdr2A58HrE/mqdefault.jpg",
+      "published": "2026-08-23T23:08:31Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO BRAGANTINO (1) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
+      "videoId": "e_5rQWM_9eY",
+      "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
+      "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
+      "published": "2026-08-23T23:03:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM PORTO ALEGRE DIRETO DO AEROPORTO | REPERCUSSÕES DE MAIS UMA DERROTA",
       "videoId": "wSH6hkO7MYk",
       "url": "https://www.youtube.com/watch?v=wSH6hkO7MYk",
       "thumbnail": "https://i.ytimg.com/vi/wSH6hkO7MYk/mqdefault_live.jpg",
       "published": "2026-08-23T21:10:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ O EDILSON APROVOU A ESCALAÇÃO DO GRÊMIO PARA O JOGO CONTRA O BRAGANTINO!",
-      "videoId": "ptTcRxKpziA",
-      "url": "https://www.youtube.com/watch?v=ptTcRxKpziA",
-      "thumbnail": "https://i.ytimg.com/vi/ptTcRxKpziA/mqdefault.jpg",
-      "published": "2026-08-23T18:31:50Z"
     }
   ]
 }
