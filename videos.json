@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:00:33.503384+00:00",
+  "updated_at": "2026-08-23T15:18:14.419767+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Bragantino x Grêmio: Tabela, times e possível surpresa na escalação",
+      "videoId": "RTV7cKmbJBo",
+      "url": "https://www.youtube.com/watch?v=RTV7cKmbJBo",
+      "thumbnail": "https://i.ytimg.com/vi/RTV7cKmbJBo/mqdefault.jpg",
+      "published": "2026-08-23T15:16:10Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #660: Cobrança | Times | Reforço no Grêmio | Jovens da base e mais",
       "videoId": "7Wkh1e-vFWg",
       "url": "https://www.youtube.com/watch?v=7Wkh1e-vFWg",
       "thumbnail": "https://i.ytimg.com/vi/7Wkh1e-vFWg/mqdefault.jpg",
       "published": "2026-08-22T20:19:26Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #659: Dívidas vazadas | Arthur | Balbuena | Mudanças no time e mais",
-      "videoId": "eDsiNJxuY84",
-      "url": "https://www.youtube.com/watch?v=eDsiNJxuY84",
-      "thumbnail": "https://i.ytimg.com/vi/eDsiNJxuY84/mqdefault.jpg",
-      "published": "2026-08-21T21:30:21Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "22/08/2026 | INTER 0 X 0 ATLÉTICO-MG | BRASILEIRÃO | LIVE COMPLETA",
+      "title": "ESQUENTANDO O JOGO | BRAGANTINO X GRÊMIO | CAMPEONATO BRASILEIRO | 23/08/2026",
       "videoId": "J4IDn8rVQXk",
       "url": "https://www.youtube.com/watch?v=J4IDn8rVQXk",
       "thumbnail": "https://i.ytimg.com/vi/J4IDn8rVQXk/mqdefault_live.jpg",
@@ -231,16 +231,16 @@
       "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL ESCALAÇÃO | A BRIGA CONTRA O Z4 | PLANTÃO IMORTAL",
       "videoId": "g2prhdBIi7Q",
       "url": "https://www.youtube.com/watch?v=g2prhdBIi7Q",
-      "thumbnail": "https://i.ytimg.com/vi/g2prhdBIi7Q/mqdefault_live.jpg",
-      "published": "2026-08-23T12:01:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/g2prhdBIi7Q/mqdefault.jpg",
+      "published": "2026-08-23T15:11:46Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "FALANDO DE GRÊMIO AO VIVO DIRETO DE BRAGANÇA PAULISTA | DIRETO DA CHURRASCARIA PORTEIRA GRILL",
-      "videoId": "08VvRxwFAuA",
-      "url": "https://www.youtube.com/watch?v=08VvRxwFAuA",
-      "thumbnail": "https://i.ytimg.com/vi/08VvRxwFAuA/mqdefault.jpg",
-      "published": "2026-08-23T01:05:18Z"
+      "title": "AO VIVO | PRÉ-JOGO RB BRAGANTINO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
+      "videoId": "e_5rQWM_9eY",
+      "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
+      "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
+      "published": "2026-08-23T15:01:43Z"
     }
   ]
 }
