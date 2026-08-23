@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:22:31.137843+00:00",
+  "updated_at": "2026-08-23T19:00:30.696450+00:00",
   "total": 30,
   "videos": [
     {
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PRÉ-JOGO DE BRAGANTINO x GRÊMIO DIRETO DE BRAGANÇA | BRASILEIRÃO 2026 | 23/08 #12",
       "videoId": "Cv6HCC2ruxY",
       "url": "https://www.youtube.com/watch?v=Cv6HCC2ruxY",
-      "thumbnail": "https://i.ytimg.com/vi/Cv6HCC2ruxY/mqdefault_live.jpg",
-      "published": "2026-08-23T17:00:00Z"
+      "thumbnail": "https://i.ytimg.com/vi/Cv6HCC2ruxY/mqdefault.jpg",
+      "published": "2026-08-23T18:37:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️ O EDILSON APROVOU A ESCALAÇÃO DO GRÊMIO PARA O JOGO CONTRA O BRAGANTINO!",
+      "videoId": "ptTcRxKpziA",
+      "url": "https://www.youtube.com/watch?v=ptTcRxKpziA",
+      "thumbnail": "https://i.ytimg.com/vi/ptTcRxKpziA/mqdefault.jpg",
+      "published": "2026-08-23T18:31:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪🗣️ NA OPINIÃO DO KUNRATH, O GRÊMIO AINDA NÃO TEM UM TIME!",
       "videoId": "ib5BjJKPrGs",
       "url": "https://www.youtube.com/watch?v=ib5BjJKPrGs",
       "thumbnail": "https://i.ytimg.com/vi/ib5BjJKPrGs/mqdefault.jpg",
       "published": "2026-08-23T16:00:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL ESCALAÇÃO | A BRIGA CONTRA O Z4 | PLANTÃO IMORTAL",
-      "videoId": "g2prhdBIi7Q",
-      "url": "https://www.youtube.com/watch?v=g2prhdBIi7Q",
-      "thumbnail": "https://i.ytimg.com/vi/g2prhdBIi7Q/mqdefault.jpg",
-      "published": "2026-08-23T15:11:46Z"
     }
   ]
 }
