@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:00:34.849744+00:00",
+  "updated_at": "2026-08-23T18:22:31.137843+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Porto Alegre é planejada? A história dos planos urbanísticos que moldaram a cidade | Aconteceu no RS",
+      "videoId": "guOyJLO-buE",
+      "url": "https://www.youtube.com/watch?v=guOyJLO-buE",
+      "thumbnail": "https://i.ytimg.com/vi/guOyJLO-buE/mqdefault.jpg",
+      "published": "2026-08-23T18:00:28Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Um leopardo no Jornal do Almoço? Geraldo Lopes relembra episódio inusitado da carreira | Paralelas",
       "videoId": "gFm_29qU5Bc",
       "url": "https://www.youtube.com/watch?v=gFm_29qU5Bc",
       "thumbnail": "https://i.ytimg.com/vi/gFm_29qU5Bc/mqdefault.jpg",
       "published": "2026-08-23T17:00:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Geraldo Lopes relembra bastidores com Rita Lee e Maria Bethânia | Paralelas",
-      "videoId": "pBl30JStYGA",
-      "url": "https://www.youtube.com/watch?v=pBl30JStYGA",
-      "thumbnail": "https://i.ytimg.com/vi/pBl30JStYGA/mqdefault.jpg",
-      "published": "2026-08-23T13:00:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESQUENTANDO O JOGO | BRAGANTINO X GRÊMIO | CAMPEONATO BRASILEIRO | 23/08/2026",
+      "title": "AO VIVO | BRAGANTINO 0 X 0 GRÊMIO | BRASILEIRÃO | 23/08/2026",
       "videoId": "J4IDn8rVQXk",
       "url": "https://www.youtube.com/watch?v=J4IDn8rVQXk",
       "thumbnail": "https://i.ytimg.com/vi/J4IDn8rVQXk/mqdefault_live.jpg",
@@ -236,11 +236,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO RB BRAGANTINO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
-      "videoId": "e_5rQWM_9eY",
-      "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
-      "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
-      "published": "2026-08-23T15:01:43Z"
+      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL ESCALAÇÃO | A BRIGA CONTRA O Z4 | PLANTÃO IMORTAL",
+      "videoId": "g2prhdBIi7Q",
+      "url": "https://www.youtube.com/watch?v=g2prhdBIi7Q",
+      "thumbnail": "https://i.ytimg.com/vi/g2prhdBIi7Q/mqdefault.jpg",
+      "published": "2026-08-23T15:11:46Z"
     }
   ]
 }
