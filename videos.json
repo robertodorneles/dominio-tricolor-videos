@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-24T17:00:35.861670+00:00",
+  "updated_at": "2026-08-24T17:27:03.486992+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ JANELA ESQUENTOU | ATACANTE OFERECIDO | E O ARCE? | VAI BUSCAR DEFENSOR?",
+      "videoId": "Wc3iCz62Qu4",
+      "url": "https://www.youtube.com/watch?v=Wc3iCz62Qu4",
+      "thumbnail": "https://i.ytimg.com/vi/Wc3iCz62Qu4/mqdefault.jpg",
+      "published": "2026-08-24T17:22:27Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: TUDO TEM LIMITE! Castro recebe prazo | Fuga do Protesto | árbitro admite erro",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=qVdxRm_O1TI",
       "thumbnail": "https://i.ytimg.com/vi/qVdxRm_O1TI/mqdefault.jpg",
       "published": "2026-08-24T06:00:13Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Diário do Inter: VOLANTE NA MIRA | GRÊMIO CUTUCA GRE-NAL | ARCE VAI SE REUNIR | BONS RESULTADOS",
-      "videoId": "jRxGcbJaMWM",
-      "url": "https://www.youtube.com/watch?v=jRxGcbJaMWM",
-      "thumbnail": "https://i.ytimg.com/vi/jRxGcbJaMWM/mqdefault.jpg",
-      "published": "2026-08-24T05:36:34Z"
     },
     {
       "channel": "Bage TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "DEMISSÃO: BASTIDORES DO AMBIENTE DO GRÊMIO! | MULTA, VESTIÁRIO | RELATOS DA “FUGA” NO AEROPORTO",
+      "videoId": "4MJ0mD3aoAU",
+      "url": "https://www.youtube.com/watch?v=4MJ0mD3aoAU",
+      "thumbnail": "https://i.ytimg.com/vi/4MJ0mD3aoAU/mqdefault.jpg",
+      "published": "2026-08-24T17:18:31Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE INTER x GRÊMO (GRENAL 453)  - COPA DO BRASIL | COLETIVAS | 27/08/26 #30",
       "videoId": "vEJpaIQvJS8",
       "url": "https://www.youtube.com/watch?v=vEJpaIQvJS8",
       "thumbnail": "https://i.ytimg.com/vi/vEJpaIQvJS8/mqdefault_live.jpg",
       "published": "2026-08-23T23:31:00Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE INTER x GRÊMIO (GRENAL 453) DIRETO DO BEIRA-RIO | COPA DO BRASIL | 27/08 #13",
-      "videoId": "95ACvfQDOQg",
-      "url": "https://www.youtube.com/watch?v=95ACvfQDOQg",
-      "thumbnail": "https://i.ytimg.com/vi/95ACvfQDOQg/mqdefault_live.jpg",
-      "published": "2026-08-23T23:27:05Z"
     },
     {
       "channel": "Duda Garbi",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "RENATO DE VOLTA? 🇪🇪 #gremio #renatoportaluppi #luiscastro #tricolor #futebolgaucho",
+      "videoId": "g9-24K_Izsk",
+      "url": "https://www.youtube.com/watch?v=g9-24K_Izsk",
+      "thumbnail": "https://i.ytimg.com/vi/g9-24K_Izsk/mqdefault.jpg",
+      "published": "2026-08-24T17:17:57Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ANIVERSÁRIO DA GOLEADA! 🇮🇩 #inter #colorado #gremio #tricolor #grenal",
       "videoId": "qr1GzyOIlW0",
       "url": "https://www.youtube.com/watch?v=qr1GzyOIlW0",
       "thumbnail": "https://i.ytimg.com/vi/qr1GzyOIlW0/mqdefault.jpg",
       "published": "2026-08-24T17:00:06Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "ROGER É COLORADO OU GREMISTA? | ENTREVISTA EXCLUSIVA COM ROGER MACHADO - TÉCNICO DE FUTEBOL",
-      "videoId": "IqkOLdxWo_c",
-      "url": "https://www.youtube.com/watch?v=IqkOLdxWo_c",
-      "thumbnail": "https://i.ytimg.com/vi/IqkOLdxWo_c/mqdefault.jpg",
-      "published": "2026-08-24T15:25:35Z"
     },
     {
       "channel": "Radio Imortal",
