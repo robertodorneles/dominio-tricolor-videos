@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:34:05.743051+00:00",
+  "updated_at": "2026-08-24T19:00:37.535988+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "NÃO SE TIRA UMA COISA BOA DESSE TRABALHO! #CORTESDOBOMDIA",
+      "videoId": "6an63styVHM",
+      "url": "https://www.youtube.com/watch?v=6an63styVHM",
+      "thumbnail": "https://i.ytimg.com/vi/6an63styVHM/mqdefault.jpg",
+      "published": "2026-08-24T18:57:37Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "LUÍS CASTRO PRESSIONADO E SEMANA GRE-NAL ABERTA! 🔹 THE TARDE 🔹#208",
       "videoId": "ryEve76Zgj0",
       "url": "https://www.youtube.com/watch?v=ryEve76Zgj0",
       "thumbnail": "https://i.ytimg.com/vi/ryEve76Zgj0/mqdefault_live.jpg",
       "published": "2026-08-24T18:30:53Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO EM CRISE, TORCIDA PROTESTA E GRE-NAL GANHA CLIMA DE DECISÃO!🔸RESENHA FORA DA SALA🔸#114",
-      "videoId": "jM8_L0MtxEY",
-      "url": "https://www.youtube.com/watch?v=jM8_L0MtxEY",
-      "thumbnail": "https://i.ytimg.com/vi/jM8_L0MtxEY/mqdefault_live.jpg",
-      "published": "2026-08-24T18:08:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Canola aquece safra de inverno | Campo em Debate | 31/08/2026",
-      "videoId": "CfpgR3_W5no",
-      "url": "https://www.youtube.com/watch?v=CfpgR3_W5no",
-      "thumbnail": "https://i.ytimg.com/vi/CfpgR3_W5no/mqdefault_live.jpg",
-      "published": "2026-08-24T18:33:39Z"
+      "title": "Cidade do Agro, desenvolvimento, conexão e futuro | Campo em Debate | 31/08/2026",
+      "videoId": "aisfN74vYfQ",
+      "url": "https://www.youtube.com/watch?v=aisfN74vYfQ",
+      "thumbnail": "https://i.ytimg.com/vi/aisfN74vYfQ/mqdefault_live.jpg",
+      "published": "2026-08-24T18:50:18Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ENCARA PIOR MOMENTO DO ANO NA SEMANA GRENAL | TREINO COM PRESENÇA DA BRIGADA | ESPLANADA",
+      "videoId": "R_C4QwvaMjQ",
+      "url": "https://www.youtube.com/watch?v=R_C4QwvaMjQ",
+      "thumbnail": "https://i.ytimg.com/vi/R_C4QwvaMjQ/mqdefault_live.jpg",
+      "published": "2026-08-24T18:34:34Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PLANTÃO IMORTAL - SEMANA GRENAL | GRÊMIO COMEÇA SEMANA EM TENSÃO ABSOLUTA | NADA DE MUDANÇAS",
       "videoId": "LqYPD-Ro3VA",
       "url": "https://www.youtube.com/watch?v=LqYPD-Ro3VA",
       "thumbnail": "https://i.ytimg.com/vi/LqYPD-Ro3VA/mqdefault_live.jpg",
       "published": "2026-08-24T17:46:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 24/08",
-      "videoId": "JkjL4y0M45Y",
-      "url": "https://www.youtube.com/watch?v=JkjL4y0M45Y",
-      "thumbnail": "https://i.ytimg.com/vi/JkjL4y0M45Y/mqdefault_live.jpg",
-      "published": "2026-08-24T17:31:01Z"
     }
   ]
 }
