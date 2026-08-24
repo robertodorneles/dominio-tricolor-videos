@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-24T18:00:36.797432+00:00",
+  "updated_at": "2026-08-24T18:34:05.743051+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: MEDO E TENSÃO NA ABERTURA DOS TRABALHOS | POLÍCIA NO CT E PROTESTOS",
+      "videoId": "EJUuDtAfc1g",
+      "url": "https://www.youtube.com/watch?v=EJUuDtAfc1g",
+      "thumbnail": "https://i.ytimg.com/vi/EJUuDtAfc1g/mqdefault.jpg",
+      "published": "2026-08-24T18:00:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ JANELA ESQUENTOU | ATACANTE OFERECIDO | E O ARCE? | VAI BUSCAR DEFENSOR?",
@@ -11,20 +19,12 @@
       "published": "2026-08-24T17:22:27Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: TUDO TEM LIMITE! Castro recebe prazo | Fuga do Protesto | árbitro admite erro",
-      "videoId": "qVdxRm_O1TI",
-      "url": "https://www.youtube.com/watch?v=qVdxRm_O1TI",
-      "thumbnail": "https://i.ytimg.com/vi/qVdxRm_O1TI/mqdefault.jpg",
-      "published": "2026-08-24T06:00:13Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "É SURREAL O QUE ESTÁ ACONTECENDO NO GRÊMIO. #CORTESDOFAG",
-      "videoId": "_x2KDk1ermk",
-      "url": "https://www.youtube.com/watch?v=_x2KDk1ermk",
-      "thumbnail": "https://i.ytimg.com/vi/_x2KDk1ermk/mqdefault.jpg",
-      "published": "2026-08-24T17:52:14Z"
+      "title": "LUÍS CASTRO PRESSIONADO E SEMANA GRE-NAL ABERTA! 🔹 THE TARDE 🔹#208",
+      "videoId": "ryEve76Zgj0",
+      "url": "https://www.youtube.com/watch?v=ryEve76Zgj0",
+      "thumbnail": "https://i.ytimg.com/vi/ryEve76Zgj0/mqdefault_live.jpg",
+      "published": "2026-08-24T18:30:53Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,7 @@
       "videoId": "jM8_L0MtxEY",
       "url": "https://www.youtube.com/watch?v=jM8_L0MtxEY",
       "thumbnail": "https://i.ytimg.com/vi/jM8_L0MtxEY/mqdefault_live.jpg",
-      "published": "2026-08-24T16:34:41Z"
+      "published": "2026-08-24T18:08:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "\"Nem morta\": a resposta de Elis Regina que Geraldo Lopes nunca esqueceu | Paralelas",
-      "videoId": "GgEEuC9S9NM",
-      "url": "https://www.youtube.com/watch?v=GgEEuC9S9NM",
-      "thumbnail": "https://i.ytimg.com/vi/GgEEuC9S9NM/mqdefault.jpg",
-      "published": "2026-08-24T16:00:28Z"
+      "title": "Canola aquece safra de inverno | Campo em Debate | 31/08/2026",
+      "videoId": "CfpgR3_W5no",
+      "url": "https://www.youtube.com/watch?v=CfpgR3_W5no",
+      "thumbnail": "https://i.ytimg.com/vi/CfpgR3_W5no/mqdefault_live.jpg",
+      "published": "2026-08-24T18:33:39Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "ekWEhjz9BKg",
       "url": "https://www.youtube.com/watch?v=ekWEhjz9BKg",
       "thumbnail": "https://i.ytimg.com/vi/ekWEhjz9BKg/mqdefault_live.jpg",
-      "published": "2026-08-24T15:00:31Z"
+      "published": "2026-08-24T18:00:28Z"
     },
     {
       "channel": "Jeremias Wernek",
