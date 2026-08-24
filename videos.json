@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-23T23:16:55.473539+00:00",
+  "updated_at": "2026-08-24T00:00:34.376476+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: INTER E GRÊMIO JUNTOS CONTRA O Z-4 | COMEÇA A SEMANA GRE-NAL",
+      "videoId": "H3_m1oVPVdA",
+      "url": "https://www.youtube.com/watch?v=H3_m1oVPVdA",
+      "thumbnail": "https://i.ytimg.com/vi/H3_m1oVPVdA/mqdefault_live.jpg",
+      "published": "2026-08-23T23:48:52Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Inter: O PLANO DE PEZZOLANO PARA O GRE-NAL | SANABRIA VAI ENTRAR? | ESCALAÇÃO DEFINIDA?",
@@ -11,12 +19,12 @@
       "published": "2026-08-23T21:57:12Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 0x1 RB Bragantino: Um time que não sabe atacar | Derrota expõe problemas de Luís Castro",
-      "videoId": "g_CLl8kRNuI",
-      "url": "https://www.youtube.com/watch?v=g_CLl8kRNuI",
-      "thumbnail": "https://i.ytimg.com/vi/g_CLl8kRNuI/mqdefault.jpg",
-      "published": "2026-08-23T21:45:59Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 BRAGANTINO X GRÊMIO [DIRETO DO ESTÁDIO CÍCERO DE SOUZA MARQUES]",
+      "videoId": "Hwl7NK8vJWs",
+      "url": "https://www.youtube.com/watch?v=Hwl7NK8vJWs",
+      "thumbnail": "https://i.ytimg.com/vi/Hwl7NK8vJWs/mqdefault.jpg",
+      "published": "2026-08-23T23:45:16Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=4_lTy1eecIo",
       "thumbnail": "https://i.ytimg.com/vi/4_lTy1eecIo/mqdefault.jpg",
       "published": "2026-08-23T22:09:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "MAIS UMA DERROTA DO CASTRO.",
-      "videoId": "Mockidhj_S4",
-      "url": "https://www.youtube.com/watch?v=Mockidhj_S4",
-      "thumbnail": "https://i.ytimg.com/vi/Mockidhj_S4/mqdefault.jpg",
-      "published": "2026-08-23T22:06:50Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PRAZO PARA LUIS CASTRO! PELAIPE FALOU APÓS O JOGO. #gremio #futebol",
+      "videoId": "N026tdcm3Q8",
+      "url": "https://www.youtube.com/watch?v=N026tdcm3Q8",
+      "thumbnail": "https://i.ytimg.com/vi/N026tdcm3Q8/mqdefault.jpg",
+      "published": "2026-08-23T23:20:46Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "BRAGANTINO X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "GI9NC0IYlzU",
       "url": "https://www.youtube.com/watch?v=GI9NC0IYlzU",
@@ -107,28 +115,20 @@
       "published": "2026-08-23T22:43:38Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "PERIGO: ACOSTUMOU A PERDER | BRAGANTINO 1 X 0 GRÊMIO  | COMENTÁRIO.",
-      "videoId": "y4T9_L0lOzY",
-      "url": "https://www.youtube.com/watch?v=y4T9_L0lOzY",
-      "thumbnail": "https://i.ytimg.com/vi/y4T9_L0lOzY/mqdefault.jpg",
-      "published": "2026-08-23T21:44:40Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE INTER x GRÊMO (GRENAL 453)  - COPA DO BRASIL | COLETIVAS | 27/08/26 #30",
+      "videoId": "vEJpaIQvJS8",
+      "url": "https://www.youtube.com/watch?v=vEJpaIQvJS8",
+      "thumbnail": "https://i.ytimg.com/vi/vEJpaIQvJS8/mqdefault_live.jpg",
+      "published": "2026-08-23T23:31:00Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE BRAGANTINO x GRÊMO - BRASILEIRÃO 2026 | COLETIVAS | 23/08/26 #29",
-      "videoId": "gR62weK5PX0",
-      "url": "https://www.youtube.com/watch?v=gR62weK5PX0",
-      "thumbnail": "https://i.ytimg.com/vi/gR62weK5PX0/mqdefault.jpg",
-      "published": "2026-08-23T22:42:58Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE BRAGANTINO x GRÊMIO DIRETO DE BRAGANÇA | BRASILEIRÃO 2026 | 23/08 #12",
-      "videoId": "Cv6HCC2ruxY",
-      "url": "https://www.youtube.com/watch?v=Cv6HCC2ruxY",
-      "thumbnail": "https://i.ytimg.com/vi/Cv6HCC2ruxY/mqdefault.jpg",
-      "published": "2026-08-23T18:37:34Z"
+      "title": "(AO VIVO) PRÉ-JOGO DE INTER x GRÊMIO (GRENAL 453) DIRETO DO BEIRA-RIO | COPA DO BRASIL | 27/08 #13",
+      "videoId": "95ACvfQDOQg",
+      "url": "https://www.youtube.com/watch?v=95ACvfQDOQg",
+      "thumbnail": "https://i.ytimg.com/vi/95ACvfQDOQg/mqdefault_live.jpg",
+      "published": "2026-08-23T23:27:05Z"
     },
     {
       "channel": "Duda Garbi",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨LUÍS CASTRO INDO EMBORA DO GRÊMIO? | \"TUDO NA VIDA TEM LIMITE\" | O QUE VAI DECIDIR O FUTURO DELE",
+      "videoId": "zoafxImyqGs",
+      "url": "https://www.youtube.com/watch?v=zoafxImyqGs",
+      "thumbnail": "https://i.ytimg.com/vi/zoafxImyqGs/mqdefault.jpg",
+      "published": "2026-08-23T23:28:02Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨NOVIDADES NO GRÊMIO | CORINTHIANS, VINA, PAULO MIRANDA | FICOU FEIO PRO TRICOLOR",
       "videoId": "onqaHvrCIjU",
       "url": "https://www.youtube.com/watch?v=onqaHvrCIjU",
       "thumbnail": "https://i.ytimg.com/vi/onqaHvrCIjU/mqdefault.jpg",
       "published": "2026-08-22T20:08:23Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨INTERESSE EM ZAGUEIRO | ELE VAI VOLTAR PRO GRÊMIO!? | NOVO MODELO PARA DÍVIDAS",
-      "videoId": "vhFxPX4l3Ow",
-      "url": "https://www.youtube.com/watch?v=vhFxPX4l3Ow",
-      "thumbnail": "https://i.ytimg.com/vi/vhFxPX4l3Ow/mqdefault.jpg",
-      "published": "2026-08-21T17:12:35Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO BRAGANTINO (1) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL INGRESSE",
-      "videoId": "e_5rQWM_9eY",
-      "url": "https://www.youtube.com/watch?v=e_5rQWM_9eY",
-      "thumbnail": "https://i.ytimg.com/vi/e_5rQWM_9eY/mqdefault_live.jpg",
-      "published": "2026-08-23T23:03:29Z"
+      "title": "TIMELINE IMORTAL #140 — GRÊMIO DISPARA CONTRA ARBITRAGEM E IMPRENSA APÓS DERROTA",
+      "videoId": "L9opRFvulfM",
+      "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
+      "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault_live.jpg",
+      "published": "2026-08-23T23:58:44Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM PORTO ALEGRE DIRETO DO AEROPORTO | REPERCUSSÕES DE MAIS UMA DERROTA",
-      "videoId": "wSH6hkO7MYk",
-      "url": "https://www.youtube.com/watch?v=wSH6hkO7MYk",
-      "thumbnail": "https://i.ytimg.com/vi/wSH6hkO7MYk/mqdefault_live.jpg",
-      "published": "2026-08-23T21:10:48Z"
+      "title": "AS REPERCUSSÕES DE MAIS UMA DERROTA DO GRÊMIO | COMO É BOM SER DO GRÊMIO #26",
+      "videoId": "4PAoUs0rUc8",
+      "url": "https://www.youtube.com/watch?v=4PAoUs0rUc8",
+      "thumbnail": "https://i.ytimg.com/vi/4PAoUs0rUc8/mqdefault_live.jpg",
+      "published": "2026-08-23T23:50:34Z"
     }
   ]
 }
