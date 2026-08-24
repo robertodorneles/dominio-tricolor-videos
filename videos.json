@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T01:00:29.419831+00:00",
+  "updated_at": "2026-08-24T01:26:26.533498+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM PORTO ALEGRE DIRETO DO AEROPORTO | REPERCUSSÕES DE MAIS UMA DERROTA",
+      "videoId": "wSH6hkO7MYk",
+      "url": "https://www.youtube.com/watch?v=wSH6hkO7MYk",
+      "thumbnail": "https://i.ytimg.com/vi/wSH6hkO7MYk/mqdefault_live.jpg",
+      "published": "2026-08-24T01:20:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #140 — GRÊMIO DISPARA CONTRA ARBITRAGEM E IMPRENSA APÓS DERROTA",
       "videoId": "L9opRFvulfM",
       "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
       "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault_live.jpg",
       "published": "2026-08-23T23:58:44Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS REPERCUSSÕES DE MAIS UMA DERROTA DO GRÊMIO | COMO É BOM SER DO GRÊMIO #26",
-      "videoId": "4PAoUs0rUc8",
-      "url": "https://www.youtube.com/watch?v=4PAoUs0rUc8",
-      "thumbnail": "https://i.ytimg.com/vi/4PAoUs0rUc8/mqdefault_live.jpg",
-      "published": "2026-08-23T23:50:34Z"
     }
   ]
 }
