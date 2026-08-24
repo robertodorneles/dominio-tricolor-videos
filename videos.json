@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T15:00:32.291645+00:00",
+  "updated_at": "2026-08-24T15:34:55.940313+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha+ | 24/08/2026",
+      "videoId": "ekWEhjz9BKg",
+      "url": "https://www.youtube.com/watch?v=ekWEhjz9BKg",
+      "thumbnail": "https://i.ytimg.com/vi/ekWEhjz9BKg/mqdefault_live.jpg",
+      "published": "2026-08-24T15:00:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CAVALO CRIOULO: conheça a origem do animal que se tornou um dos símbolos do RS | Aconteceu no RS",
       "videoId": "YMM8oVFQ63E",
       "url": "https://www.youtube.com/watch?v=YMM8oVFQ63E",
       "thumbnail": "https://i.ytimg.com/vi/YMM8oVFQ63E/mqdefault.jpg",
       "published": "2026-08-24T15:00:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Novidades no Timeline, entrevista com Nelson Motta, Regina Duarte e mais | Timeline | 24/08/2026",
-      "videoId": "l9zdmWyGwlo",
-      "url": "https://www.youtube.com/watch?v=l9zdmWyGwlo",
-      "thumbnail": "https://i.ytimg.com/vi/l9zdmWyGwlo/mqdefault.jpg",
-      "published": "2026-08-24T14:07:46Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ROGER É COLORADO OU GREMISTA? | ENTREVISTA EXCLUSIVA COM ROGER MACHADO - TÉCNICO DE FUTEBOL",
+      "videoId": "IqkOLdxWo_c",
+      "url": "https://www.youtube.com/watch?v=IqkOLdxWo_c",
+      "thumbnail": "https://i.ytimg.com/vi/IqkOLdxWo_c/mqdefault.jpg",
+      "published": "2026-08-24T15:25:35Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GRENAIS MARCANTES! 🎙️⚽",
       "videoId": "m5DYzrCdPlY",
       "url": "https://www.youtube.com/watch?v=m5DYzrCdPlY",
@@ -219,12 +227,12 @@
       "published": "2026-08-24T14:51:37Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 24/08/2026 | RÁDIO GRENAL",
-      "videoId": "iAVzNDa0pG0",
-      "url": "https://www.youtube.com/watch?v=iAVzNDa0pG0",
-      "thumbnail": "https://i.ytimg.com/vi/iAVzNDa0pG0/mqdefault_live.jpg",
-      "published": "2026-08-24T11:04:31Z"
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #140 — GRÊMIO EM CLIMA INSUSTENTÁVEL | FUGA DOS PROTESTOS | DIRETO DO CT",
+      "videoId": "L9opRFvulfM",
+      "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
+      "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault_live.jpg",
+      "published": "2026-08-24T15:02:57Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=4PAoUs0rUc8",
       "thumbnail": "https://i.ytimg.com/vi/4PAoUs0rUc8/mqdefault.jpg",
       "published": "2026-08-24T14:15:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #140 — GRÊMIO EM CLIMA INSUSTENTÁVEL | FUGA DOS PROTESTOS | DIRETO DO CT",
-      "videoId": "L9opRFvulfM",
-      "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
-      "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault_live.jpg",
-      "published": "2026-08-24T14:10:04Z"
     }
   ]
 }
