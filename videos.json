@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:00:34.279667+00:00",
+  "updated_at": "2026-08-24T09:42:05.194693+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO PERDE E FOGE DA TORCIDA 🌅🔵 BOM DIA GRÊMIO #106",
+      "videoId": "-EjE5pZB9yI",
+      "url": "https://www.youtube.com/watch?v=-EjE5pZB9yI",
+      "thumbnail": "https://i.ytimg.com/vi/-EjE5pZB9yI/mqdefault_live.jpg",
+      "published": "2026-08-24T09:33:07Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🌅🔵 BOM DIA GRÊMIO #108",
       "videoId": "JYvgEResKa4",
       "url": "https://www.youtube.com/watch?v=JYvgEResKa4",
       "thumbnail": "https://i.ytimg.com/vi/JYvgEResKa4/mqdefault_live.jpg",
       "published": "2026-08-24T03:20:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 26/08 - #620",
-      "videoId": "sHtBFfHDF2k",
-      "url": "https://www.youtube.com/watch?v=sHtBFfHDF2k",
-      "thumbnail": "https://i.ytimg.com/vi/sHtBFfHDF2k/mqdefault_live.jpg",
-      "published": "2026-08-24T03:19:22Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #06 — GRÊMIO PERDE MAIS UMA | CULPA DA ARBITRAGEM?",
+      "videoId": "w_E7uwDR5h0",
+      "url": "https://www.youtube.com/watch?v=w_E7uwDR5h0",
+      "thumbnail": "https://i.ytimg.com/vi/w_E7uwDR5h0/mqdefault_live.jpg",
+      "published": "2026-08-24T09:31:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM PORTO ALEGRE DIRETO DO AEROPORTO | REPERCUSSÕES DE MAIS UMA DERROTA",
       "videoId": "wSH6hkO7MYk",
       "url": "https://www.youtube.com/watch?v=wSH6hkO7MYk",
       "thumbnail": "https://i.ytimg.com/vi/wSH6hkO7MYk/mqdefault.jpg",
       "published": "2026-08-24T04:34:33Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #140 — GRÊMIO DISPARA CONTRA ARBITRAGEM E IMPRENSA APÓS DERROTA",
-      "videoId": "L9opRFvulfM",
-      "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
-      "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault_live.jpg",
-      "published": "2026-08-23T23:58:44Z"
     }
   ]
 }
