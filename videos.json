@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:27:03.486992+00:00",
+  "updated_at": "2026-08-24T18:00:36.797432+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Eles fugiram do torcedor.",
-      "videoId": "B-rWWJOlL9s",
-      "url": "https://www.youtube.com/watch?v=B-rWWJOlL9s",
-      "thumbnail": "https://i.ytimg.com/vi/B-rWWJOlL9s/mqdefault.jpg",
-      "published": "2026-08-24T16:51:05Z"
+      "title": "É SURREAL O QUE ESTÁ ACONTECENDO NO GRÊMIO. #CORTESDOFAG",
+      "videoId": "_x2KDk1ermk",
+      "url": "https://www.youtube.com/watch?v=_x2KDk1ermk",
+      "thumbnail": "https://i.ytimg.com/vi/_x2KDk1ermk/mqdefault.jpg",
+      "published": "2026-08-24T17:52:14Z"
     },
     {
       "channel": "Bage TV",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "BATE-BOLA COM ROGER MACHADO! ⚽🤝 #Trend #Futebol #Times #Entrevista  #RogerMachado",
+      "videoId": "zVujw_YTigU",
+      "url": "https://www.youtube.com/watch?v=zVujw_YTigU",
+      "thumbnail": "https://i.ytimg.com/vi/zVujw_YTigU/mqdefault.jpg",
+      "published": "2026-08-24T18:00:01Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "RENATO DE VOLTA? 🇪🇪 #gremio #renatoportaluppi #luiscastro #tricolor #futebolgaucho",
       "videoId": "g9-24K_Izsk",
       "url": "https://www.youtube.com/watch?v=g9-24K_Izsk",
@@ -219,28 +227,20 @@
       "published": "2026-08-24T17:17:57Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ANIVERSÁRIO DA GOLEADA! 🇮🇩 #inter #colorado #gremio #tricolor #grenal",
-      "videoId": "qr1GzyOIlW0",
-      "url": "https://www.youtube.com/watch?v=qr1GzyOIlW0",
-      "thumbnail": "https://i.ytimg.com/vi/qr1GzyOIlW0/mqdefault.jpg",
-      "published": "2026-08-24T17:00:06Z"
+      "channel": "Radio Imortal",
+      "title": "PLANTÃO IMORTAL - SEMANA GRENAL | GRÊMIO COMEÇA SEMANA EM TENSÃO ABSOLUTA | NADA DE MUDANÇAS",
+      "videoId": "LqYPD-Ro3VA",
+      "url": "https://www.youtube.com/watch?v=LqYPD-Ro3VA",
+      "thumbnail": "https://i.ytimg.com/vi/LqYPD-Ro3VA/mqdefault_live.jpg",
+      "published": "2026-08-24T17:46:25Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #140 — GRÊMIO EM CLIMA INSUSTENTÁVEL | FUGA DOS PROTESTOS | DIRETO DO CT",
-      "videoId": "L9opRFvulfM",
-      "url": "https://www.youtube.com/watch?v=L9opRFvulfM",
-      "thumbnail": "https://i.ytimg.com/vi/L9opRFvulfM/mqdefault.jpg",
-      "published": "2026-08-24T16:37:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS REPERCUSSÕES DE MAIS UMA DERROTA DO GRÊMIO | COMO É BOM SER DO GRÊMIO #26",
-      "videoId": "4PAoUs0rUc8",
-      "url": "https://www.youtube.com/watch?v=4PAoUs0rUc8",
-      "thumbnail": "https://i.ytimg.com/vi/4PAoUs0rUc8/mqdefault.jpg",
-      "published": "2026-08-24T14:15:49Z"
+      "title": "IMORTAL FC — 24/08",
+      "videoId": "JkjL4y0M45Y",
+      "url": "https://www.youtube.com/watch?v=JkjL4y0M45Y",
+      "thumbnail": "https://i.ytimg.com/vi/JkjL4y0M45Y/mqdefault_live.jpg",
+      "published": "2026-08-24T17:31:01Z"
     }
   ]
 }
