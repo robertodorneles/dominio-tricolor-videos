@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:00:33.089597+00:00",
+  "updated_at": "2026-08-24T22:21:08.410908+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "CRISE GREMISTA, INTER ESCAPA DO Z4 E POLÊMICAS NO BRASILEIRÃO!📰BAGÉTV NEWS #023",
       "videoId": "SXYUsggG3LY",
       "url": "https://www.youtube.com/watch?v=SXYUsggG3LY",
-      "thumbnail": "https://i.ytimg.com/vi/SXYUsggG3LY/mqdefault_live.jpg",
-      "published": "2026-08-24T20:30:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/SXYUsggG3LY/mqdefault.jpg",
+      "published": "2026-08-24T22:08:55Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "-p2BYeKQ4T0",
       "url": "https://www.youtube.com/watch?v=-p2BYeKQ4T0",
       "thumbnail": "https://i.ytimg.com/vi/-p2BYeKQ4T0/mqdefault_live.jpg",
-      "published": "2026-08-24T19:52:11Z"
+      "published": "2026-08-24T22:01:31Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,7 +100,7 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "REUNIÃO ROLOU: BASTIDORES | PATROCÍNIO NA CAMISA | ROGER FALA SOBE GRÊMIO",
+      "title": "REUNIÃO ROLOU: BASTIDORES | PATROCÍNIO NA CAMISA | ROGER FALA SOBRE O GRÊMIO.",
       "videoId": "794Cafqnb-k",
       "url": "https://www.youtube.com/watch?v=794Cafqnb-k",
       "thumbnail": "https://i.ytimg.com/vi/794Cafqnb-k/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "COMEÇA A SEMANA GRENAL | GRÊMIO DE MAL A PIOR | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #135 - 24/08",
-      "videoId": "kExZpk4SdRY",
-      "url": "https://www.youtube.com/watch?v=kExZpk4SdRY",
-      "thumbnail": "https://i.ytimg.com/vi/kExZpk4SdRY/mqdefault_live.jpg",
-      "published": "2026-08-24T21:43:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "O FUNDO DO POÇO JÁ CHEGOU? | LIDERANÇAS DO GRÊMIO SE ENCONTRAM COM TORCIDA | IMORTAL FC",
       "videoId": "JkjL4y0M45Y",
       "url": "https://www.youtube.com/watch?v=JkjL4y0M45Y",
-      "thumbnail": "https://i.ytimg.com/vi/JkjL4y0M45Y/mqdefault_live.jpg",
-      "published": "2026-08-24T21:01:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/JkjL4y0M45Y/mqdefault.jpg",
+      "published": "2026-08-24T22:04:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "PLANTÃO IMORTAL - SEMANA GRENAL | GRÊMIO COMEÇA SEMANA EM TENSÃO ABSOLUTA | NADA DE MUDANÇAS",
+      "videoId": "LqYPD-Ro3VA",
+      "url": "https://www.youtube.com/watch?v=LqYPD-Ro3VA",
+      "thumbnail": "https://i.ytimg.com/vi/LqYPD-Ro3VA/mqdefault_live.jpg",
+      "published": "2026-08-24T22:00:30Z"
     }
   ]
 }
