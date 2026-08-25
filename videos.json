@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T12:00:36.699289+00:00",
+  "updated_at": "2026-08-25T12:39:09.366525+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/08 - #619",
+      "title": "JOGADORES E CASTRO SE REÚNEM COM TORCEDORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/08 - #619",
       "videoId": "GbTn1c1aN0M",
       "url": "https://www.youtube.com/watch?v=GbTn1c1aN0M",
       "thumbnail": "https://i.ytimg.com/vi/GbTn1c1aN0M/mqdefault_live.jpg",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Bastidores do encontro entre os líderes do Grêmio e torcida | Corpo mole? | Mudanças no time",
+      "videoId": "g-0GyeKtNAc",
+      "url": "https://www.youtube.com/watch?v=g-0GyeKtNAc",
+      "thumbnail": "https://i.ytimg.com/vi/g-0GyeKtNAc/mqdefault.jpg",
+      "published": "2026-08-25T12:33:27Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - SEMANA GRENAL | LUIS CASTRO | BRASILEIRÃO E MAIS",
       "videoId": "EJUXfr6_vTU",
       "url": "https://www.youtube.com/watch?v=EJUXfr6_vTU",
       "thumbnail": "https://i.ytimg.com/vi/EJUXfr6_vTU/mqdefault.jpg",
       "published": "2026-08-25T01:14:05Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: INTER X GRÊMIO",
-      "videoId": "RQDWRcMIuF0",
-      "url": "https://www.youtube.com/watch?v=RQDWRcMIuF0",
-      "thumbnail": "https://i.ytimg.com/vi/RQDWRcMIuF0/mqdefault_live.jpg",
-      "published": "2026-08-25T00:38:23Z"
     },
     {
       "channel": "Canal do Farid",
@@ -136,7 +136,7 @@
       "videoId": "cEuqplC3JvU",
       "url": "https://www.youtube.com/watch?v=cEuqplC3JvU",
       "thumbnail": "https://i.ytimg.com/vi/cEuqplC3JvU/mqdefault_live.jpg",
-      "published": "2026-08-25T10:28:30Z"
+      "published": "2026-08-25T12:01:07Z"
     },
     {
       "channel": "Duda Garbi",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: Luís Castro bota a cara + Sanabria vai ou não vai  + regressiva pro Gre-Nal",
       "videoId": "mAo2pkL7xe8",
       "url": "https://www.youtube.com/watch?v=mAo2pkL7xe8",
-      "thumbnail": "https://i.ytimg.com/vi/mAo2pkL7xe8/mqdefault_live.jpg",
-      "published": "2026-08-25T11:01:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/mAo2pkL7xe8/mqdefault.jpg",
+      "published": "2026-08-25T12:12:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,15 +232,15 @@
       "videoId": "W4TZcoCyM5g",
       "url": "https://www.youtube.com/watch?v=W4TZcoCyM5g",
       "thumbnail": "https://i.ytimg.com/vi/W4TZcoCyM5g/mqdefault_live.jpg",
-      "published": "2026-08-25T09:45:16Z"
+      "published": "2026-08-25T12:34:16Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO DIRETO DA REUNIÃO DO CONSELHO DELIBERATIVO DO GRÊMIO | AS NOTÍCIAS DO DIA | IMORTAL FC",
-      "videoId": "eoPd8H1TplY",
-      "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
-      "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
-      "published": "2026-08-25T02:45:00Z"
+      "title": "A REUNIÃO DO GRÊMIO NA ARENA EM SEMANA DE GRENAL | COMO É BOM SER DO GRÊMIO #27",
+      "videoId": "00-smARKpgo",
+      "url": "https://www.youtube.com/watch?v=00-smARKpgo",
+      "thumbnail": "https://i.ytimg.com/vi/00-smARKpgo/mqdefault_live.jpg",
+      "published": "2026-08-25T12:32:40Z"
     }
   ]
 }
