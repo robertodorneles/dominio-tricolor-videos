@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:38:04.069310+00:00",
+  "updated_at": "2026-08-25T16:00:49.987957+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A REUNIÃO DO GRÊMIO NA ARENA EM SEMANA DE GRENAL | COMO É BOM SER DO GRÊMIO #27",
+      "videoId": "00-smARKpgo",
+      "url": "https://www.youtube.com/watch?v=00-smARKpgo",
+      "thumbnail": "https://i.ytimg.com/vi/00-smARKpgo/mqdefault.jpg",
+      "published": "2026-08-25T15:42:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #141 — A REUNIÃO DE ONTEM NA ARENA | REUNIÃO DE HOJE NO CONSELHO",
       "videoId": "2v8Ztl0v_9Q",
       "url": "https://www.youtube.com/watch?v=2v8Ztl0v_9Q",
       "thumbnail": "https://i.ytimg.com/vi/2v8Ztl0v_9Q/mqdefault.jpg",
       "published": "2026-08-25T15:05:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A REUNIÃO DO GRÊMIO NA ARENA EM SEMANA DE GRENAL | COMO É BOM SER DO GRÊMIO #27",
-      "videoId": "00-smARKpgo",
-      "url": "https://www.youtube.com/watch?v=00-smARKpgo",
-      "thumbnail": "https://i.ytimg.com/vi/00-smARKpgo/mqdefault_live.jpg",
-      "published": "2026-08-25T14:08:01Z"
     }
   ]
 }
