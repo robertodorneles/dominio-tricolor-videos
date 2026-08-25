@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T12:39:09.366525+00:00",
+  "updated_at": "2026-08-25T13:00:34.730229+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "7YacBKK8U8Y",
       "url": "https://www.youtube.com/watch?v=7YacBKK8U8Y",
       "thumbnail": "https://i.ytimg.com/vi/7YacBKK8U8Y/mqdefault_live.jpg",
-      "published": "2026-08-25T11:39:27Z"
+      "published": "2026-08-25T12:51:37Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PATROCÍNIO NO GRE-NAL! #gremio #futebol",
+      "videoId": "y4LplNGABuM",
+      "url": "https://www.youtube.com/watch?v=y4LplNGABuM",
+      "thumbnail": "https://i.ytimg.com/vi/y4LplNGABuM/mqdefault.jpg",
+      "published": "2026-08-25T13:00:01Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "REUNIÃO ROLOU: BASTIDORES | PATROCÍNIO NA CAMISA | ROGER FALA SOBRE O GRÊMIO.",
       "videoId": "794Cafqnb-k",
       "url": "https://www.youtube.com/watch?v=794Cafqnb-k",
       "thumbnail": "https://i.ytimg.com/vi/794Cafqnb-k/mqdefault.jpg",
       "published": "2026-08-24T21:17:27Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ACABOU O PROJETO. AGORA É RESULTADO 🙏🏻 #gremio #futebol #futebolalegriadogremio @bagetvoficial",
-      "videoId": "RrZlzZiqrlA",
-      "url": "https://www.youtube.com/watch?v=RrZlzZiqrlA",
-      "thumbnail": "https://i.ytimg.com/vi/RrZlzZiqrlA/mqdefault.jpg",
-      "published": "2026-08-24T13:51:00Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -231,8 +231,8 @@
       "title": "CAFÉ COM A IMORTAL #07 — REUNIÃO COM A TORCIDA VAI MUDAR ALGUMA COISA?",
       "videoId": "W4TZcoCyM5g",
       "url": "https://www.youtube.com/watch?v=W4TZcoCyM5g",
-      "thumbnail": "https://i.ytimg.com/vi/W4TZcoCyM5g/mqdefault_live.jpg",
-      "published": "2026-08-25T12:34:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/W4TZcoCyM5g/mqdefault.jpg",
+      "published": "2026-08-25T12:41:22Z"
     },
     {
       "channel": "Radio Imortal",
