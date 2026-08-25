@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-25T20:00:39.615472+00:00",
+  "updated_at": "2026-08-25T20:23:36.625974+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Cartada por renovação de Pavón dada pela direção | Motivos para o empresário sorrir",
+      "videoId": "9PY5wk9YHjk",
+      "url": "https://www.youtube.com/watch?v=9PY5wk9YHjk",
+      "thumbnail": "https://i.ytimg.com/vi/9PY5wk9YHjk/mqdefault.jpg",
+      "published": "2026-08-25T20:00:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 POSTURA DE ABEL DIZ MUITO | DUVIDA DESFEITA | EXPECTATIVA POR ARCE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=kfE8C8tzUx4",
       "thumbnail": "https://i.ytimg.com/vi/kfE8C8tzUx4/mqdefault.jpg",
       "published": "2026-08-25T06:17:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CASTRO NO LIMITE! Bastidor do vestiário | Mudanças para o Gre-Nal",
-      "videoId": "QWITWRUUCwU",
-      "url": "https://www.youtube.com/watch?v=QWITWRUUCwU",
-      "thumbnail": "https://i.ytimg.com/vi/QWITWRUUCwU/mqdefault.jpg",
-      "published": "2026-08-25T05:30:35Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "DOLLY PARTON MORRE aos 80 anos: relembre a carreira da cantora",
+      "videoId": "XLtBLPoQLec",
+      "url": "https://www.youtube.com/watch?v=XLtBLPoQLec",
+      "thumbnail": "https://i.ytimg.com/vi/XLtBLPoQLec/mqdefault.jpg",
+      "published": "2026-08-25T20:16:46Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Morre Dolly Parton, diagnóstico de Lito Sousa, notícias do RS e mais | Gaúcha+ | 25/08/26",
       "videoId": "B0uVM0HZv9U",
       "url": "https://www.youtube.com/watch?v=B0uVM0HZv9U",
       "thumbnail": "https://i.ytimg.com/vi/B0uVM0HZv9U/mqdefault_live.jpg",
       "published": "2026-08-25T19:34:03Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "A corrida de Lito Sousa por uma última chance de tratamento | Andei Pensando | 25/08/2026",
-      "videoId": "PDswix0to10",
-      "url": "https://www.youtube.com/watch?v=PDswix0to10",
-      "thumbnail": "https://i.ytimg.com/vi/PDswix0to10/mqdefault.jpg",
-      "published": "2026-08-25T18:52:44Z"
     },
     {
       "channel": "Jeremias Wernek",
