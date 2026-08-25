@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:00:44.887188+00:00",
+  "updated_at": "2026-08-25T21:23:24.579718+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "PETKOVIC TERIA LUGAR NA SELEÇÃO BRASILEIRA? OLHA O QUE O CRAQUE SÉRVIO FALOU | Cortes do Duda",
+      "videoId": "51-sriIucLc",
+      "url": "https://www.youtube.com/watch?v=51-sriIucLc",
+      "thumbnail": "https://i.ytimg.com/vi/51-sriIucLc/mqdefault.jpg",
+      "published": "2026-08-25T21:00:30Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "A MÁGOA DE PETKOVIC #dudagarbi #umassadopara",
       "videoId": "JI-tTFgDAEc",
       "url": "https://www.youtube.com/watch?v=JI-tTFgDAEc",
       "thumbnail": "https://i.ytimg.com/vi/JI-tTFgDAEc/mqdefault.jpg",
       "published": "2026-08-25T21:00:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 25.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "cEuqplC3JvU",
-      "url": "https://www.youtube.com/watch?v=cEuqplC3JvU",
-      "thumbnail": "https://i.ytimg.com/vi/cEuqplC3JvU/mqdefault.jpg",
-      "published": "2026-08-25T13:38:07Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "25/08/2026 | LIVE COMPLETA prt-1 | RÁDIO GRENAL",
+      "videoId": "Tck7CXNcOhM",
+      "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
+      "thumbnail": "https://i.ytimg.com/vi/Tck7CXNcOhM/mqdefault.jpg",
+      "published": "2026-08-25T21:10:51Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "25/08/2026 | GRENAL FC | RÁDIO GRENAL",
       "videoId": "6khllrUqKkY",
       "url": "https://www.youtube.com/watch?v=6khllrUqKkY",
@@ -219,12 +227,12 @@
       "published": "2026-08-25T20:42:36Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "25/08/2026 | LIVE COMPLETA prt-1 | RÁDIO GRENAL",
-      "videoId": "Tck7CXNcOhM",
-      "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
-      "thumbnail": "https://i.ytimg.com/vi/Tck7CXNcOhM/mqdefault_live.jpg",
-      "published": "2026-08-25T20:41:45Z"
+      "channel": "Radio Imortal",
+      "title": "TRANSFER BAN NO GRÊMIO? NÃO É BEM ASSIM! | A SITUAÇÃO FINANCEIRA DO CLUBE | IMORTAL FC",
+      "videoId": "eoPd8H1TplY",
+      "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
+      "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
+      "published": "2026-08-25T21:01:34Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=FaUQI_FVU6A",
       "thumbnail": "https://i.ytimg.com/vi/FaUQI_FVU6A/mqdefault.jpg",
       "published": "2026-08-25T19:48:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A REUNIÃO DO GRÊMIO NA ARENA EM SEMANA DE GRENAL | COMO É BOM SER DO GRÊMIO #27",
-      "videoId": "00-smARKpgo",
-      "url": "https://www.youtube.com/watch?v=00-smARKpgo",
-      "thumbnail": "https://i.ytimg.com/vi/00-smARKpgo/mqdefault.jpg",
-      "published": "2026-08-25T15:42:47Z"
     }
   ]
 }
