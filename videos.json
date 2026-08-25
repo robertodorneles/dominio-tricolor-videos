@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:00:34.730229+00:00",
+  "updated_at": "2026-08-25T13:45:24.126836+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #052",
+      "videoId": "sycH9abU8pk",
+      "url": "https://www.youtube.com/watch?v=sycH9abU8pk",
+      "thumbnail": "https://i.ytimg.com/vi/sycH9abU8pk/mqdefault_live.jpg",
+      "published": "2026-08-25T13:41:35Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "JOGADORES E CASTRO SE REÚNEM COM TORCEDORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/08 - #619",
       "videoId": "GbTn1c1aN0M",
       "url": "https://www.youtube.com/watch?v=GbTn1c1aN0M",
       "thumbnail": "https://i.ytimg.com/vi/GbTn1c1aN0M/mqdefault_live.jpg",
-      "published": "2026-08-25T11:57:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BASTIDORES DA REUNIÃO JOGADORES/TORCIDA 🌅🔵 BOM DIA GRÊMIO #107",
-      "videoId": "eJIRIlkZpc0",
-      "url": "https://www.youtube.com/watch?v=eJIRIlkZpc0",
-      "thumbnail": "https://i.ytimg.com/vi/eJIRIlkZpc0/mqdefault.jpg",
-      "published": "2026-08-25T11:56:20Z"
+      "published": "2026-08-25T13:37:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 25.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "cEuqplC3JvU",
       "url": "https://www.youtube.com/watch?v=cEuqplC3JvU",
-      "thumbnail": "https://i.ytimg.com/vi/cEuqplC3JvU/mqdefault_live.jpg",
-      "published": "2026-08-25T12:01:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/cEuqplC3JvU/mqdefault.jpg",
+      "published": "2026-08-25T13:38:07Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "SiK38j59KRc",
+      "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
+      "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault_live.jpg",
+      "published": "2026-08-25T13:05:28Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "PKF8h-z9BHA",
       "url": "https://www.youtube.com/watch?v=PKF8h-z9BHA",
@@ -155,28 +163,20 @@
       "published": "2026-08-23T22:13:23Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "P7YECSv3aog",
-      "url": "https://www.youtube.com/watch?v=P7YECSv3aog",
-      "thumbnail": "https://i.ytimg.com/vi/P7YECSv3aog/mqdefault.jpg",
-      "published": "2026-08-23T21:21:45Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Eleições 2026: análise da Pesquisa Quaest para governo do RS, Senado e Presidência | 24/08/2026",
-      "videoId": "vWfjBkASlpM",
-      "url": "https://www.youtube.com/watch?v=vWfjBkASlpM",
-      "thumbnail": "https://i.ytimg.com/vi/vWfjBkASlpM/mqdefault.jpg",
-      "published": "2026-08-25T11:39:41Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Secretário Nacional de Trânsito, pesquisa Quaest, trânsito e mais | Gaúcha Atualidade | 25/08/2026",
       "videoId": "36398w53VK4",
       "url": "https://www.youtube.com/watch?v=36398w53VK4",
-      "thumbnail": "https://i.ytimg.com/vi/36398w53VK4/mqdefault_live.jpg",
-      "published": "2026-08-25T11:01:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/36398w53VK4/mqdefault.jpg",
+      "published": "2026-08-25T13:39:42Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Órfãos de Feminicídio, falas de Regina Duarte sobre bolsonarismo e mais | Timeline | 25/08/2026",
+      "videoId": "JJ-D1Rrw9FU",
+      "url": "https://www.youtube.com/watch?v=JJ-D1Rrw9FU",
+      "thumbnail": "https://i.ytimg.com/vi/JJ-D1Rrw9FU/mqdefault_live.jpg",
+      "published": "2026-08-25T13:05:09Z"
     },
     {
       "channel": "Jeremias Wernek",
