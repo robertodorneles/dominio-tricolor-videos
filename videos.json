@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:31:06.469413+00:00",
+  "updated_at": "2026-08-25T10:00:33.687472+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BASTIDORES DA REUNIÃO JOGADORES/TORCIDA 🌅🔵 BOM DIA GRÊMIO #107",
+      "videoId": "eJIRIlkZpc0",
+      "url": "https://www.youtube.com/watch?v=eJIRIlkZpc0",
+      "thumbnail": "https://i.ytimg.com/vi/eJIRIlkZpc0/mqdefault_live.jpg",
+      "published": "2026-08-25T09:30:59Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CLIMA PESADO NO GRÊMIO! ORGANIZADAS SE REÚNEM COM JOGADORES E LUÍS CASTRO🌃🔵 BOA NOITE GRÊMIO #011",
       "videoId": "Zwe7eiWyY5M",
       "url": "https://www.youtube.com/watch?v=Zwe7eiWyY5M",
       "thumbnail": "https://i.ytimg.com/vi/Zwe7eiWyY5M/mqdefault.jpg",
       "published": "2026-08-25T02:07:29Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA TENSO NA ARENA! GRENAL PODE DERRUBAR LUÍS CASTRO?🟣RESENHA FORA DA SALA NOITE🟣#011",
-      "videoId": "A52Ejg-x5DI",
-      "url": "https://www.youtube.com/watch?v=A52Ejg-x5DI",
-      "thumbnail": "https://i.ytimg.com/vi/A52Ejg-x5DI/mqdefault.jpg",
-      "published": "2026-08-25T00:46:27Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #07 — REUNIÃO COM A TORCIDA VAI MUDAR ALGUMA COISA?",
+      "videoId": "W4TZcoCyM5g",
+      "url": "https://www.youtube.com/watch?v=W4TZcoCyM5g",
+      "thumbnail": "https://i.ytimg.com/vi/W4TZcoCyM5g/mqdefault_live.jpg",
+      "published": "2026-08-25T09:45:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO DIRETO DA REUNIÃO DO CONSELHO DELIBERATIVO DO GRÊMIO | AS NOTÍCIAS DO DIA | IMORTAL FC",
       "videoId": "eoPd8H1TplY",
       "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
       "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
       "published": "2026-08-25T02:45:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 25/08",
-      "videoId": "FaUQI_FVU6A",
-      "url": "https://www.youtube.com/watch?v=FaUQI_FVU6A",
-      "thumbnail": "https://i.ytimg.com/vi/FaUQI_FVU6A/mqdefault_live.jpg",
-      "published": "2026-08-25T02:36:45Z"
     }
   ]
 }
