@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T11:00:38.995204+00:00",
+  "updated_at": "2026-08-25T11:23:05.988173+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 24/08/2026",
+      "videoId": "-p2BYeKQ4T0",
+      "url": "https://www.youtube.com/watch?v=-p2BYeKQ4T0",
+      "thumbnail": "https://i.ytimg.com/vi/-p2BYeKQ4T0/mqdefault.jpg",
+      "published": "2026-08-25T11:09:12Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #001",
       "videoId": "gy14BrltVhI",
       "url": "https://www.youtube.com/watch?v=gy14BrltVhI",
       "thumbnail": "https://i.ytimg.com/vi/gy14BrltVhI/mqdefault.jpg",
       "published": "2026-08-25T00:38:48Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "OPNIÃO DO FARID | VAMOS PRA CIMA DELES | SEMANA DE GRENAL | 24/08/2026",
-      "videoId": "wry-9uSyZCc",
-      "url": "https://www.youtube.com/watch?v=wry-9uSyZCc",
-      "thumbnail": "https://i.ytimg.com/vi/wry-9uSyZCc/mqdefault.jpg",
-      "published": "2026-08-25T00:03:36Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -165,10 +165,10 @@
     {
       "channel": "GZH Digital",
       "title": "Secretário Nacional de Trânsito, pesquisa Quaest, trânsito e mais | Gaúcha Atualidade | 25/08/2026",
-      "videoId": "8oohN5ovKOY",
-      "url": "https://www.youtube.com/watch?v=8oohN5ovKOY",
-      "thumbnail": "https://i.ytimg.com/vi/8oohN5ovKOY/mqdefault_live.jpg",
-      "published": "2026-08-25T10:59:04Z"
+      "videoId": "36398w53VK4",
+      "url": "https://www.youtube.com/watch?v=36398w53VK4",
+      "thumbnail": "https://i.ytimg.com/vi/36398w53VK4/mqdefault_live.jpg",
+      "published": "2026-08-25T11:01:05Z"
     },
     {
       "channel": "GZH Digital",
@@ -184,7 +184,7 @@
       "videoId": "mAo2pkL7xe8",
       "url": "https://www.youtube.com/watch?v=mAo2pkL7xe8",
       "thumbnail": "https://i.ytimg.com/vi/mAo2pkL7xe8/mqdefault_live.jpg",
-      "published": "2026-08-25T01:29:30Z"
+      "published": "2026-08-25T11:01:16Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "Tck7CXNcOhM",
       "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
       "thumbnail": "https://i.ytimg.com/vi/Tck7CXNcOhM/mqdefault_live.jpg",
-      "published": "2026-08-25T10:46:58Z"
+      "published": "2026-08-25T11:01:34Z"
     },
     {
       "channel": "Radio Grenal",
