@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:00:27.032737+00:00",
+  "updated_at": "2026-08-25T01:23:41.733435+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - SEMANA GRENAL | LUIS CASTRO | BRASILEIRÃO E MAIS",
+      "videoId": "EJUXfr6_vTU",
+      "url": "https://www.youtube.com/watch?v=EJUXfr6_vTU",
+      "thumbnail": "https://i.ytimg.com/vi/EJUXfr6_vTU/mqdefault.jpg",
+      "published": "2026-08-25T01:14:05Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PÓS-JOGO: INTER X GRÊMIO",
       "videoId": "RQDWRcMIuF0",
       "url": "https://www.youtube.com/watch?v=RQDWRcMIuF0",
       "thumbnail": "https://i.ytimg.com/vi/RQDWRcMIuF0/mqdefault_live.jpg",
       "published": "2026-08-25T00:38:23Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - SEMANA GRENAL | LUIS CASTRO | BRASILEIRÃO E MAIS",
-      "videoId": "EJUXfr6_vTU",
-      "url": "https://www.youtube.com/watch?v=EJUXfr6_vTU",
-      "thumbnail": "https://i.ytimg.com/vi/EJUXfr6_vTU/mqdefault_live.jpg",
-      "published": "2026-08-25T00:00:11Z"
     },
     {
       "channel": "Canal do Farid",
