@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:27:42.627116+00:00",
+  "updated_at": "2026-08-25T18:00:39.324146+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Não teve respando ao trabalho do treinador.",
+      "videoId": "QvE6pFxIbkk",
+      "url": "https://www.youtube.com/watch?v=QvE6pFxIbkk",
+      "thumbnail": "https://i.ytimg.com/vi/QvE6pFxIbkk/mqdefault.jpg",
+      "published": "2026-08-25T17:40:45Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CBF RESTRINGE O GRÊMIO, CARBONERO DE SAÍDA E ARCE EM POA!🔸RESENHA FORA DA SALA🔸#115",
       "videoId": "8mMRv_qO9o4",
       "url": "https://www.youtube.com/watch?v=8mMRv_qO9o4",
       "thumbnail": "https://i.ytimg.com/vi/8mMRv_qO9o4/mqdefault_live.jpg",
       "published": "2026-08-25T16:30:11Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #052",
-      "videoId": "sycH9abU8pk",
-      "url": "https://www.youtube.com/watch?v=sycH9abU8pk",
-      "thumbnail": "https://i.ytimg.com/vi/sycH9abU8pk/mqdefault.jpg",
-      "published": "2026-08-25T16:16:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "SiK38j59KRc",
+      "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
+      "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault_live.jpg",
+      "published": "2026-08-25T17:49:57Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
       "videoId": "_VmKn91yU6c",
       "url": "https://www.youtube.com/watch?v=_VmKn91yU6c",
@@ -155,20 +163,12 @@
       "published": "2026-08-25T14:11:47Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "SiK38j59KRc",
-      "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
-      "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault_live.jpg",
-      "published": "2026-08-25T13:05:28Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Taxa de licenciamento de veículos, diagnóstico de Lito Sousa e mais | Gaúcha+ | 25/08/26",
       "videoId": "B0uVM0HZv9U",
       "url": "https://www.youtube.com/watch?v=B0uVM0HZv9U",
       "thumbnail": "https://i.ytimg.com/vi/B0uVM0HZv9U/mqdefault_live.jpg",
-      "published": "2026-08-25T16:59:26Z"
+      "published": "2026-08-25T17:59:59Z"
     },
     {
       "channel": "GZH Digital",
