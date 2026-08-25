@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:00:33.654794+00:00",
+  "updated_at": "2026-08-25T14:40:27.098430+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "JOGADORES E CASTRO SE REÚNEM COM TORCEDORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/08 - #619",
+      "videoId": "GbTn1c1aN0M",
+      "url": "https://www.youtube.com/watch?v=GbTn1c1aN0M",
+      "thumbnail": "https://i.ytimg.com/vi/GbTn1c1aN0M/mqdefault.jpg",
+      "published": "2026-08-25T14:22:36Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #052",
       "videoId": "sycH9abU8pk",
       "url": "https://www.youtube.com/watch?v=sycH9abU8pk",
@@ -27,12 +35,12 @@
       "published": "2026-08-25T13:41:35Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "JOGADORES E CASTRO SE REÚNEM COM TORCEDORES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/08 - #619",
-      "videoId": "GbTn1c1aN0M",
-      "url": "https://www.youtube.com/watch?v=GbTn1c1aN0M",
-      "thumbnail": "https://i.ytimg.com/vi/GbTn1c1aN0M/mqdefault_live.jpg",
-      "published": "2026-08-25T13:37:41Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ROGER MACHADO DE VOLTA? | POLÊMICA COM PATROCÍNIO MASTER | TITULAR PREOCUPA NO GRÊMIO PRO GRE-NAL!",
+      "videoId": "L012KHXoiZ8",
+      "url": "https://www.youtube.com/watch?v=L012KHXoiZ8",
+      "thumbnail": "https://i.ytimg.com/vi/L012KHXoiZ8/mqdefault.jpg",
+      "published": "2026-08-25T14:34:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=JVwaSvyH17A",
       "thumbnail": "https://i.ytimg.com/vi/JVwaSvyH17A/mqdefault.jpg",
       "published": "2026-08-24T23:01:20Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! SURPRESA! LUÍS CASTRO PODE SAIR DO GRÊMIO | PROTESTO E FUGA | É SEMANA GRE-NAL!",
-      "videoId": "Xt_WiBNeTIE",
-      "url": "https://www.youtube.com/watch?v=Xt_WiBNeTIE",
-      "thumbnail": "https://i.ytimg.com/vi/Xt_WiBNeTIE/mqdefault.jpg",
-      "published": "2026-08-24T14:20:13Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CONVERSA NA SALA! #grêmio #futebolalegriadogremio #futebol",
+      "videoId": "F2Ar1z7BXnU",
+      "url": "https://www.youtube.com/watch?v=F2Ar1z7BXnU",
+      "thumbnail": "https://i.ytimg.com/vi/F2Ar1z7BXnU/mqdefault.jpg",
+      "published": "2026-08-25T14:21:45Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PATROCÍNIO NO GRE-NAL! #gremio #futebol",
       "videoId": "y4LplNGABuM",
       "url": "https://www.youtube.com/watch?v=y4LplNGABuM",
       "thumbnail": "https://i.ytimg.com/vi/y4LplNGABuM/mqdefault.jpg",
       "published": "2026-08-25T13:00:01Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REUNIÃO ROLOU: BASTIDORES | PATROCÍNIO NA CAMISA | ROGER FALA SOBRE O GRÊMIO.",
-      "videoId": "794Cafqnb-k",
-      "url": "https://www.youtube.com/watch?v=794Cafqnb-k",
-      "thumbnail": "https://i.ytimg.com/vi/794Cafqnb-k/mqdefault.jpg",
-      "published": "2026-08-24T21:17:27Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
+      "videoId": "_VmKn91yU6c",
+      "url": "https://www.youtube.com/watch?v=_VmKn91yU6c",
+      "thumbnail": "https://i.ytimg.com/vi/_VmKn91yU6c/mqdefault_live.jpg",
+      "published": "2026-08-25T14:11:47Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "SiK38j59KRc",
       "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
@@ -155,20 +163,12 @@
       "published": "2026-08-25T13:05:28Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I BRAGANTINO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "PKF8h-z9BHA",
-      "url": "https://www.youtube.com/watch?v=PKF8h-z9BHA",
-      "thumbnail": "https://i.ytimg.com/vi/PKF8h-z9BHA/mqdefault.jpg",
-      "published": "2026-08-23T22:13:23Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Órfãos de Feminicídio, falas de Regina Duarte sobre bolsonarismo e mais | Timeline | 25/08/2026",
       "videoId": "JJ-D1Rrw9FU",
       "url": "https://www.youtube.com/watch?v=JJ-D1Rrw9FU",
-      "thumbnail": "https://i.ytimg.com/vi/JJ-D1Rrw9FU/mqdefault_live.jpg",
-      "published": "2026-08-25T13:56:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/JJ-D1Rrw9FU/mqdefault.jpg",
+      "published": "2026-08-25T14:37:03Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "25/08/2026 | FUTUBOL ALEGRIA DO POVO | RÁDIO GRENAL",
+      "title": "25/08/2026 | DUPLA DEBATE | RÁDIO GRENAL",
       "videoId": "Tck7CXNcOhM",
       "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
       "thumbnail": "https://i.ytimg.com/vi/Tck7CXNcOhM/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #07 — REUNIÃO COM A TORCIDA VAI MUDAR ALGUMA COISA?",
-      "videoId": "W4TZcoCyM5g",
-      "url": "https://www.youtube.com/watch?v=W4TZcoCyM5g",
-      "thumbnail": "https://i.ytimg.com/vi/W4TZcoCyM5g/mqdefault.jpg",
-      "published": "2026-08-25T12:41:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "A REUNIÃO DO GRÊMIO NA ARENA EM SEMANA DE GRENAL | COMO É BOM SER DO GRÊMIO #27",
       "videoId": "00-smARKpgo",
       "url": "https://www.youtube.com/watch?v=00-smARKpgo",
       "thumbnail": "https://i.ytimg.com/vi/00-smARKpgo/mqdefault_live.jpg",
-      "published": "2026-08-25T12:32:40Z"
+      "published": "2026-08-25T14:08:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #141 — A REUNIÃO DE ONTEM NA ARENA | REUNIÃO DE HOJE NO CONSELHO",
+      "videoId": "2v8Ztl0v_9Q",
+      "url": "https://www.youtube.com/watch?v=2v8Ztl0v_9Q",
+      "thumbnail": "https://i.ytimg.com/vi/2v8Ztl0v_9Q/mqdefault_live.jpg",
+      "published": "2026-08-25T14:07:49Z"
     }
   ]
 }
