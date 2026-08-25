@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-25T20:23:36.625974+00:00",
+  "updated_at": "2026-08-25T21:00:44.887188+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: DINHEIRO PARA TER ARCE? | SONDAGEM POR CARBONERO | RESCISÃO ENCAMINHADA",
+      "videoId": "EXCN8xCdpW8",
+      "url": "https://www.youtube.com/watch?v=EXCN8xCdpW8",
+      "thumbnail": "https://i.ytimg.com/vi/EXCN8xCdpW8/mqdefault.jpg",
+      "published": "2026-08-25T20:29:28Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Cartada por renovação de Pavón dada pela direção | Motivos para o empresário sorrir",
@@ -11,28 +19,20 @@
       "published": "2026-08-25T20:00:08Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 POSTURA DE ABEL DIZ MUITO | DUVIDA DESFEITA | EXPECTATIVA POR ARCE",
-      "videoId": "kfE8C8tzUx4",
-      "url": "https://www.youtube.com/watch?v=kfE8C8tzUx4",
-      "thumbnail": "https://i.ytimg.com/vi/kfE8C8tzUx4/mqdefault.jpg",
-      "published": "2026-08-25T06:17:29Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO SOFRE RESTRIÇÃO DA CBF PARA CONTRATAR 🔹 THE TARDE 🔹#209",
       "videoId": "dUtdXMwoXvs",
       "url": "https://www.youtube.com/watch?v=dUtdXMwoXvs",
-      "thumbnail": "https://i.ytimg.com/vi/dUtdXMwoXvs/mqdefault_live.jpg",
-      "published": "2026-08-25T19:50:20Z"
+      "thumbnail": "https://i.ytimg.com/vi/dUtdXMwoXvs/mqdefault.jpg",
+      "published": "2026-08-25T20:37:26Z"
     },
     {
       "channel": "Bage TV",
-      "title": "È um absurdo o Grêmio ser punido pela CBF.",
-      "videoId": "W1zCc_3cm-8",
-      "url": "https://www.youtube.com/watch?v=W1zCc_3cm-8",
-      "thumbnail": "https://i.ytimg.com/vi/W1zCc_3cm-8/mqdefault.jpg",
-      "published": "2026-08-25T19:43:19Z"
+      "title": "CRISE FINANCEIRA, GRÊMIO PROIBIDO DE CONTRATAR E CARBONERO NA MIRA DA RÚSSIA📰BAGÉTV NEWS #024",
+      "videoId": "GnH5h2vuai8",
+      "url": "https://www.youtube.com/watch?v=GnH5h2vuai8",
+      "thumbnail": "https://i.ytimg.com/vi/GnH5h2vuai8/mqdefault_live.jpg",
+      "published": "2026-08-25T20:29:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #662: Restrição ao Grêmio | Balbuena | Jovem na mira e mais",
+      "videoId": "uYvR_36iI3U",
+      "url": "https://www.youtube.com/watch?v=uYvR_36iI3U",
+      "thumbnail": "https://i.ytimg.com/vi/uYvR_36iI3U/mqdefault.jpg",
+      "published": "2026-08-25T20:37:14Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Bastidores do encontro entre os líderes do Grêmio e torcida | Corpo mole? | Mudanças no time",
       "videoId": "g-0GyeKtNAc",
       "url": "https://www.youtube.com/watch?v=g-0GyeKtNAc",
       "thumbnail": "https://i.ytimg.com/vi/g-0GyeKtNAc/mqdefault.jpg",
       "published": "2026-08-25T12:33:27Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - SEMANA GRENAL | LUIS CASTRO | BRASILEIRÃO E MAIS",
-      "videoId": "EJUXfr6_vTU",
-      "url": "https://www.youtube.com/watch?v=EJUXfr6_vTU",
-      "thumbnail": "https://i.ytimg.com/vi/EJUXfr6_vTU/mqdefault.jpg",
-      "published": "2026-08-25T01:14:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Grêmio sofre bloqueio preventivo: Como funciona | Empresário de Balbuena se manifesta",
+      "videoId": "CBHqeYsBcGQ",
+      "url": "https://www.youtube.com/watch?v=CBHqeYsBcGQ",
+      "thumbnail": "https://i.ytimg.com/vi/CBHqeYsBcGQ/mqdefault.jpg",
+      "published": "2026-08-25T20:28:28Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Zagueiro emprestado para clube russo | Novo patrocinador | Goleiro para o Gre-Nal",
       "videoId": "8oC0dnokbug",
       "url": "https://www.youtube.com/watch?v=8oC0dnokbug",
@@ -91,12 +99,12 @@
       "published": "2026-08-24T20:50:40Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Prazo para Luís Castro no Grêmio | Valor atualizado da multa",
-      "videoId": "g3yLL4XEwuM",
-      "url": "https://www.youtube.com/watch?v=g3yLL4XEwuM",
-      "thumbnail": "https://i.ytimg.com/vi/g3yLL4XEwuM/mqdefault.jpg",
-      "published": "2026-08-24T14:12:40Z"
+      "channel": "Careca de Saber TV",
+      "title": "GRÊMIO PUNIDO: ENTENDA | RETORNOS PARA O GRE-NAL: ESCALAÇÃO.",
+      "videoId": "WQkhhEzy3iU",
+      "url": "https://www.youtube.com/watch?v=WQkhhEzy3iU",
+      "thumbnail": "https://i.ytimg.com/vi/WQkhhEzy3iU/mqdefault.jpg",
+      "published": "2026-08-25T20:49:32Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=b3eBPsEf7BI",
       "thumbnail": "https://i.ytimg.com/vi/b3eBPsEf7BI/mqdefault.jpg",
       "published": "2026-08-25T18:45:29Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ROGER NO GRÊMIO? #gremio #futebol",
-      "videoId": "1FFBwDL8CCE",
-      "url": "https://www.youtube.com/watch?v=1FFBwDL8CCE",
-      "thumbnail": "https://i.ytimg.com/vi/1FFBwDL8CCE/mqdefault.jpg",
-      "published": "2026-08-25T15:00:21Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "A MÁGOA DE PETKOVIC #dudagarbi #umassadopara",
+      "videoId": "JI-tTFgDAEc",
+      "url": "https://www.youtube.com/watch?v=JI-tTFgDAEc",
+      "thumbnail": "https://i.ytimg.com/vi/JI-tTFgDAEc/mqdefault.jpg",
+      "published": "2026-08-25T21:00:02Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 25.08 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "cEuqplC3JvU",
       "url": "https://www.youtube.com/watch?v=cEuqplC3JvU",
@@ -139,20 +147,12 @@
       "published": "2026-08-25T13:38:07Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "COMO O CROATA PODE DAR CERTO NO GRÊMIO? PETKOVIC ANALISOU KROVINOVIC | Cortes do Duda",
-      "videoId": "_CI3uvcrpEc",
-      "url": "https://www.youtube.com/watch?v=_CI3uvcrpEc",
-      "thumbnail": "https://i.ytimg.com/vi/_CI3uvcrpEc/mqdefault.jpg",
-      "published": "2026-08-24T23:00:39Z"
-    },
-    {
       "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X FORTALEZA I MASC I SUB-17 (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "SiK38j59KRc",
       "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
-      "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault_live.jpg",
-      "published": "2026-08-25T19:56:25Z"
+      "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault.jpg",
+      "published": "2026-08-25T20:29:46Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "DOLLY PARTON MORRE aos 80 anos: relembre a carreira da cantora",
-      "videoId": "XLtBLPoQLec",
-      "url": "https://www.youtube.com/watch?v=XLtBLPoQLec",
-      "thumbnail": "https://i.ytimg.com/vi/XLtBLPoQLec/mqdefault.jpg",
-      "published": "2026-08-25T20:16:46Z"
+      "title": "Como melhorar as estradas e acelerar o desenvolvimento no RS? | Reapresentação | Conversas Cruzadas",
+      "videoId": "2ieOtN4Umks",
+      "url": "https://www.youtube.com/watch?v=2ieOtN4Umks",
+      "thumbnail": "https://i.ytimg.com/vi/2ieOtN4Umks/mqdefault.jpg",
+      "published": "2026-08-25T20:42:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Morre Dolly Parton, diagnóstico de Lito Sousa, notícias do RS e mais | Gaúcha+ | 25/08/26",
-      "videoId": "B0uVM0HZv9U",
-      "url": "https://www.youtube.com/watch?v=B0uVM0HZv9U",
-      "thumbnail": "https://i.ytimg.com/vi/B0uVM0HZv9U/mqdefault_live.jpg",
-      "published": "2026-08-25T19:34:03Z"
+      "title": "A corrida de Lito Sousa por uma última chance de tratamento | Andei Pensando | 25/08/2026",
+      "videoId": "PDswix0to10",
+      "url": "https://www.youtube.com/watch?v=PDswix0to10",
+      "thumbnail": "https://i.ytimg.com/vi/PDswix0to10/mqdefault.jpg",
+      "published": "2026-08-25T20:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "RUAS DE FOGO EM NOVO LOCAL! 🇲🇨 #Inter #Gremio #CopaDoBrasil #tricolor #Colorado",
-      "videoId": "-v_TId6UWoY",
-      "url": "https://www.youtube.com/watch?v=-v_TId6UWoY",
-      "thumbnail": "https://i.ytimg.com/vi/-v_TId6UWoY/mqdefault.jpg",
-      "published": "2026-08-25T19:01:00Z"
+      "title": "25/08/2026 | GRENAL FC | RÁDIO GRENAL",
+      "videoId": "6khllrUqKkY",
+      "url": "https://www.youtube.com/watch?v=6khllrUqKkY",
+      "thumbnail": "https://i.ytimg.com/vi/6khllrUqKkY/mqdefault_live.jpg",
+      "published": "2026-08-25T20:42:36Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "“SEM FAVORITOS” 🇪🇪🇮🇩 #Inter #Colorado #Gremio #Grenal #CopaDoBrasil",
-      "videoId": "KkCgqMNs7fQ",
-      "url": "https://www.youtube.com/watch?v=KkCgqMNs7fQ",
-      "thumbnail": "https://i.ytimg.com/vi/KkCgqMNs7fQ/mqdefault.jpg",
-      "published": "2026-08-25T18:59:18Z"
+      "title": "25/08/2026 | LIVE COMPLETA prt-1 | RÁDIO GRENAL",
+      "videoId": "Tck7CXNcOhM",
+      "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
+      "thumbnail": "https://i.ytimg.com/vi/Tck7CXNcOhM/mqdefault_live.jpg",
+      "published": "2026-08-25T20:41:45Z"
     },
     {
       "channel": "Radio Imortal",
