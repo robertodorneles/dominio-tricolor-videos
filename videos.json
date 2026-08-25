@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:00:37.804384+00:00",
+  "updated_at": "2026-08-25T22:21:57.266958+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CRISE FINANCEIRA, GRÊMIO PROIBIDO DE CONTRATAR E CARBONERO NA MIRA DA RÚSSIA📰BAGÉTV NEWS #024",
+      "videoId": "GnH5h2vuai8",
+      "url": "https://www.youtube.com/watch?v=GnH5h2vuai8",
+      "thumbnail": "https://i.ytimg.com/vi/GnH5h2vuai8/mqdefault.jpg",
+      "published": "2026-08-25T22:07:59Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO SOFRE RESTRIÇÃO DA CBF PARA CONTRATAR 🔹 THE TARDE 🔹#209",
       "videoId": "dUtdXMwoXvs",
       "url": "https://www.youtube.com/watch?v=dUtdXMwoXvs",
       "thumbnail": "https://i.ytimg.com/vi/dUtdXMwoXvs/mqdefault.jpg",
       "published": "2026-08-25T20:37:26Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CRISE FINANCEIRA, GRÊMIO PROIBIDO DE CONTRATAR E CARBONERO NA MIRA DA RÚSSIA📰BAGÉTV NEWS #024",
-      "videoId": "GnH5h2vuai8",
-      "url": "https://www.youtube.com/watch?v=GnH5h2vuai8",
-      "thumbnail": "https://i.ytimg.com/vi/GnH5h2vuai8/mqdefault_live.jpg",
-      "published": "2026-08-25T20:29:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "E SE PETKOVIC FOSSE BRASILEIRO? #dudagarbi #umassadopara",
+      "videoId": "nw0-UwdJrlU",
+      "url": "https://www.youtube.com/watch?v=nw0-UwdJrlU",
+      "thumbnail": "https://i.ytimg.com/vi/nw0-UwdJrlU/mqdefault.jpg",
+      "published": "2026-08-25T22:00:21Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "TEM RECEITA PRA FAZER GOL OLÍMPICO? PET REVELOU O SEGREDO DO ESPECIALISTA | Cortes do Duda",
       "videoId": "z1IdiPnyuLc",
       "url": "https://www.youtube.com/watch?v=z1IdiPnyuLc",
@@ -139,12 +147,12 @@
       "published": "2026-08-25T22:00:05Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "PETKOVIC TERIA LUGAR NA SELEÇÃO BRASILEIRA? OLHA O QUE O CRAQUE SÉRVIO FALOU | Cortes do Duda",
-      "videoId": "51-sriIucLc",
-      "url": "https://www.youtube.com/watch?v=51-sriIucLc",
-      "thumbnail": "https://i.ytimg.com/vi/51-sriIucLc/mqdefault.jpg",
-      "published": "2026-08-25T21:00:30Z"
+      "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GREMIO 1 X 0 BOTAFOGO (CAMPEONATO BRASILEIRO FEMININO A1)",
+      "videoId": "6w1SeyKrHug",
+      "url": "https://www.youtube.com/watch?v=6w1SeyKrHug",
+      "thumbnail": "https://i.ytimg.com/vi/6w1SeyKrHug/mqdefault.jpg",
+      "published": "2026-08-25T22:06:16Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=SiK38j59KRc",
       "thumbnail": "https://i.ytimg.com/vi/SiK38j59KRc/mqdefault.jpg",
       "published": "2026-08-25T20:29:46Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
-      "videoId": "_VmKn91yU6c",
-      "url": "https://www.youtube.com/watch?v=_VmKn91yU6c",
-      "thumbnail": "https://i.ytimg.com/vi/_VmKn91yU6c/mqdefault_live.jpg",
-      "published": "2026-08-25T14:11:47Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "TRANSFER BAN NO GRÊMIO? NÃO É BEM ASSIM! | A SITUAÇÃO FINANCEIRA DO CLUBE | IMORTAL FC",
+      "title": "AO VIVO | REUNIÃO DO CONSELHO DELIBERATIVO DO GRÊMIO | SITUAÇÃO FINANCEIRA NO FOCO | DIRETO DA ARENA",
       "videoId": "eoPd8H1TplY",
       "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
       "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
