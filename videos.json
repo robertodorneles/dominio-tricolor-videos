@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:23:41.733435+00:00",
+  "updated_at": "2026-08-25T02:00:34.915785+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "uh2G2Ukd0TI",
       "url": "https://www.youtube.com/watch?v=uh2G2Ukd0TI",
       "thumbnail": "https://i.ytimg.com/vi/uh2G2Ukd0TI/mqdefault_live.jpg",
-      "published": "2026-08-25T00:21:14Z"
+      "published": "2026-08-25T01:38:43Z"
     },
     {
       "channel": "A Dupla",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Luís Castro bota a cara + Sanabria vai ou não vai  + regressiva pro Gre-Nal",
+      "videoId": "mAo2pkL7xe8",
+      "url": "https://www.youtube.com/watch?v=mAo2pkL7xe8",
+      "thumbnail": "https://i.ytimg.com/vi/mAo2pkL7xe8/mqdefault_live.jpg",
+      "published": "2026-08-25T01:29:30Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "ENCONTRO COM ORGANIZADAS: Quem participou, o que foi dito + clima no CT e Luís Castro",
       "videoId": "VKevWoqhl1E",
       "url": "https://www.youtube.com/watch?v=VKevWoqhl1E",
       "thumbnail": "https://i.ytimg.com/vi/VKevWoqhl1E/mqdefault.jpg",
       "published": "2026-08-24T21:07:12Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "ULTIMATO A LUÍS CASTRO: Os bastidores e a aposta total no Gre-Nal",
-      "videoId": "XDC0cBkzoVo",
-      "url": "https://www.youtube.com/watch?v=XDC0cBkzoVo",
-      "thumbnail": "https://i.ytimg.com/vi/XDC0cBkzoVo/mqdefault.jpg",
-      "published": "2026-08-24T14:47:22Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "COMEÇA A SEMANA GRENAL | GRÊMIO DE MAL A PIOR | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #135 - 24/08",
       "videoId": "kExZpk4SdRY",
       "url": "https://www.youtube.com/watch?v=kExZpk4SdRY",
-      "thumbnail": "https://i.ytimg.com/vi/kExZpk4SdRY/mqdefault_live.jpg",
-      "published": "2026-08-25T00:01:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/kExZpk4SdRY/mqdefault.jpg",
+      "published": "2026-08-25T01:36:17Z"
     },
     {
       "channel": "Radio Imortal",
