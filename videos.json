@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:00:30.067134+00:00",
+  "updated_at": "2026-08-26T01:26:47.231655+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MONSALVE DE SAÍDA! #gremio #futebol #estudiantesdelaplata",
+      "videoId": "TYX3560Qpm0",
+      "url": "https://www.youtube.com/watch?v=TYX3560Qpm0",
+      "thumbnail": "https://i.ytimg.com/vi/TYX3560Qpm0/mqdefault.jpg",
+      "published": "2026-08-26T01:03:52Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO PUNIDO: ENTENDA | RETORNOS PARA O GRE-NAL: ESCALAÇÃO.",
       "videoId": "WQkhhEzy3iU",
       "url": "https://www.youtube.com/watch?v=WQkhhEzy3iU",
       "thumbnail": "https://i.ytimg.com/vi/WQkhhEzy3iU/mqdefault.jpg",
       "published": "2026-08-25T20:49:32Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO PUNIDO PELA CBF! #gremio #futebol #noticias",
-      "videoId": "b3eBPsEf7BI",
-      "url": "https://www.youtube.com/watch?v=b3eBPsEf7BI",
-      "thumbnail": "https://i.ytimg.com/vi/b3eBPsEf7BI/mqdefault.jpg",
-      "published": "2026-08-25T18:45:29Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "25/08/2026 | CLUBE GRENAL | RÁDIO GRENAL",
+      "videoId": "6khllrUqKkY",
+      "url": "https://www.youtube.com/watch?v=6khllrUqKkY",
+      "thumbnail": "https://i.ytimg.com/vi/6khllrUqKkY/mqdefault.jpg",
+      "published": "2026-08-26T01:20:37Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "25/08/2026 | LIVE COMPLETA prt-1 | RÁDIO GRENAL",
       "videoId": "Tck7CXNcOhM",
       "url": "https://www.youtube.com/watch?v=Tck7CXNcOhM",
@@ -219,20 +227,12 @@
       "published": "2026-08-25T21:10:51Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "25/08/2026 | CLUBE GRENAL | RÁDIO GRENAL",
-      "videoId": "6khllrUqKkY",
-      "url": "https://www.youtube.com/watch?v=6khllrUqKkY",
-      "thumbnail": "https://i.ytimg.com/vi/6khllrUqKkY/mqdefault_live.jpg",
-      "published": "2026-08-25T20:42:36Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "AO VIVO | REUNIÃO DO CONSELHO DELIBERATIVO DO GRÊMIO | SITUAÇÃO FINANCEIRA NO FOCO | DIRETO DA ARENA",
       "videoId": "eoPd8H1TplY",
       "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
-      "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
-      "published": "2026-08-26T00:55:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault.jpg",
+      "published": "2026-08-26T01:05:45Z"
     },
     {
       "channel": "Radio Imortal",
