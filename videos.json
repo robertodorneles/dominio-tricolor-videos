@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-26T00:00:33.838027+00:00",
+  "updated_at": "2026-08-26T01:00:30.067134+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: MANO A MANO DO CLÁSSICO (2/3) | Restrição para contratação no Grêmio",
+      "videoId": "ogWItsXxa0M",
+      "url": "https://www.youtube.com/watch?v=ogWItsXxa0M",
+      "thumbnail": "https://i.ytimg.com/vi/ogWItsXxa0M/mqdefault_live.jpg",
+      "published": "2026-08-26T00:24:49Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: DINHEIRO PARA TER ARCE? | SONDAGEM POR CARBONERO | RESCISÃO ENCAMINHADA",
@@ -11,28 +19,28 @@
       "published": "2026-08-25T20:29:28Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Cartada por renovação de Pavón dada pela direção | Motivos para o empresário sorrir",
-      "videoId": "9PY5wk9YHjk",
-      "url": "https://www.youtube.com/watch?v=9PY5wk9YHjk",
-      "thumbnail": "https://i.ytimg.com/vi/9PY5wk9YHjk/mqdefault.jpg",
-      "published": "2026-08-25T20:00:08Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO SOFRE BLOQUEIO PREVENTIVO DA CBF🟣RESENHA FORA DA SALA NOITE🟣#012",
       "videoId": "uYOKzXTBrEY",
       "url": "https://www.youtube.com/watch?v=uYOKzXTBrEY",
-      "thumbnail": "https://i.ytimg.com/vi/uYOKzXTBrEY/mqdefault_live.jpg",
-      "published": "2026-08-25T23:15:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/uYOKzXTBrEY/mqdefault.jpg",
+      "published": "2026-08-26T00:37:42Z"
     },
     {
       "channel": "Bage TV",
-      "title": "O Grêmio só vai contratar com autorização.",
-      "videoId": "oBbbBkNd1Hs",
-      "url": "https://www.youtube.com/watch?v=oBbbBkNd1Hs",
-      "thumbnail": "https://i.ytimg.com/vi/oBbbBkNd1Hs/mqdefault.jpg",
-      "published": "2026-08-25T22:40:19Z"
+      "title": "MONSALVE DE SAÍDA DO GRÊMIO!🌃🔵 BOA NOITE GRÊMIO #012",
+      "videoId": "JjdI7RLjwD0",
+      "url": "https://www.youtube.com/watch?v=JjdI7RLjwD0",
+      "thumbnail": "https://i.ytimg.com/vi/JjdI7RLjwD0/mqdefault_live.jpg",
+      "published": "2026-08-26T00:31:31Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO! NOVA SAÍDA! NEGÓCIO FECHADO! | QUATRO ALTERAÇÕES PREVISTAS NO TIME DO GRÊMIO | PAGAMENTOS",
+      "videoId": "xmdfD646XbM",
+      "url": "https://www.youtube.com/watch?v=xmdfD646XbM",
+      "thumbnail": "https://i.ytimg.com/vi/xmdfD646XbM/mqdefault.jpg",
+      "published": "2026-08-26T00:02:01Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=L012KHXoiZ8",
       "thumbnail": "https://i.ytimg.com/vi/L012KHXoiZ8/mqdefault.jpg",
       "published": "2026-08-25T14:34:15Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO JÁ FALA EM RENATO PRO LUGAR DE LUÍS CASTRO? | REUNIÃO FORTE | A POSTURA NO CLÁSSICO",
-      "videoId": "JVwaSvyH17A",
-      "url": "https://www.youtube.com/watch?v=JVwaSvyH17A",
-      "thumbnail": "https://i.ytimg.com/vi/JVwaSvyH17A/mqdefault.jpg",
-      "published": "2026-08-24T23:01:20Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #002",
+      "videoId": "7YacBKK8U8Y",
+      "url": "https://www.youtube.com/watch?v=7YacBKK8U8Y",
+      "thumbnail": "https://i.ytimg.com/vi/7YacBKK8U8Y/mqdefault.jpg",
+      "published": "2026-08-26T00:59:19Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #003",
       "videoId": "xiaoVykJWxc",
       "url": "https://www.youtube.com/watch?v=xiaoVykJWxc",
       "thumbnail": "https://i.ytimg.com/vi/xiaoVykJWxc/mqdefault_live.jpg",
       "published": "2026-08-25T23:09:16Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 25/08/2026",
-      "videoId": "UoHdauECQ3g",
-      "url": "https://www.youtube.com/watch?v=UoHdauECQ3g",
-      "thumbnail": "https://i.ytimg.com/vi/UoHdauECQ3g/mqdefault_live.jpg",
-      "published": "2026-08-25T23:03:30Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -232,15 +232,15 @@
       "videoId": "eoPd8H1TplY",
       "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
       "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault_live.jpg",
-      "published": "2026-08-25T21:01:34Z"
+      "published": "2026-08-26T00:55:41Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO COM RESTRIÇÃO PARA NOVOS REFORÇOS | QUAL A ESCALAÇÃO PARA O GRENAL? | ESPLANADA",
-      "videoId": "FaUQI_FVU6A",
-      "url": "https://www.youtube.com/watch?v=FaUQI_FVU6A",
-      "thumbnail": "https://i.ytimg.com/vi/FaUQI_FVU6A/mqdefault.jpg",
-      "published": "2026-08-25T19:48:11Z"
+      "title": "AO VIVO | PRÉ-JOGO INTERNACIONAL X GRÊMIO | GRENAL 453 | JORNADA IMORTAL | DIRETO DO BEIRA-RIO",
+      "videoId": "-vHBdqPmUEY",
+      "url": "https://www.youtube.com/watch?v=-vHBdqPmUEY",
+      "thumbnail": "https://i.ytimg.com/vi/-vHBdqPmUEY/mqdefault_live.jpg",
+      "published": "2026-08-26T00:34:21Z"
     }
   ]
 }
