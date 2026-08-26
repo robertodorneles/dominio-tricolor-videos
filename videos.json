@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:00:34.571162+00:00",
+  "updated_at": "2026-08-26T09:36:19.052307+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO ADIANTA PAGAMENTO AOS JOGADORES 🌅🔵 BOM DIA GRÊMIO #108",
+      "videoId": "JYvgEResKa4",
+      "url": "https://www.youtube.com/watch?v=JYvgEResKa4",
+      "thumbnail": "https://i.ytimg.com/vi/JYvgEResKa4/mqdefault_live.jpg",
+      "published": "2026-08-26T09:28:29Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "MONSALVE DE SAÍDA DO GRÊMIO!🌃🔵 BOA NOITE GRÊMIO #012",
       "videoId": "JjdI7RLjwD0",
       "url": "https://www.youtube.com/watch?v=JjdI7RLjwD0",
       "thumbnail": "https://i.ytimg.com/vi/JjdI7RLjwD0/mqdefault.jpg",
       "published": "2026-08-26T02:10:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO SOFRE BLOQUEIO PREVENTIVO DA CBF🟣RESENHA FORA DA SALA NOITE🟣#012",
-      "videoId": "uYOKzXTBrEY",
-      "url": "https://www.youtube.com/watch?v=uYOKzXTBrEY",
-      "thumbnail": "https://i.ytimg.com/vi/uYOKzXTBrEY/mqdefault.jpg",
-      "published": "2026-08-26T00:37:42Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #08 — MEIA SAINDO DO GRÊMIO | REPERCUSSÕES DA REUNIÃO NO CONSELHO",
+      "videoId": "FuWr1dkO7HU",
+      "url": "https://www.youtube.com/watch?v=FuWr1dkO7HU",
+      "thumbnail": "https://i.ytimg.com/vi/FuWr1dkO7HU/mqdefault_live.jpg",
+      "published": "2026-08-26T09:31:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | REUNIÃO DO CONSELHO DELIBERATIVO DO GRÊMIO | SITUAÇÃO FINANCEIRA NO FOCO | DIRETO DA ARENA",
       "videoId": "eoPd8H1TplY",
       "url": "https://www.youtube.com/watch?v=eoPd8H1TplY",
       "thumbnail": "https://i.ytimg.com/vi/eoPd8H1TplY/mqdefault.jpg",
       "published": "2026-08-26T01:05:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO INTERNACIONAL X GRÊMIO | GRENAL 453 | JORNADA IMORTAL | DIRETO DO BEIRA-RIO",
-      "videoId": "-vHBdqPmUEY",
-      "url": "https://www.youtube.com/watch?v=-vHBdqPmUEY",
-      "thumbnail": "https://i.ytimg.com/vi/-vHBdqPmUEY/mqdefault_live.jpg",
-      "published": "2026-08-26T00:34:21Z"
     }
   ]
 }
