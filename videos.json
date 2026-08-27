@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T23:00:38.005715+00:00",
-  "total": 28,
+  "updated_at": "2026-08-27T00:00:34.564039+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#013",
+      "videoId": "gJ8HUuJkMNg",
+      "url": "https://www.youtube.com/watch?v=gJ8HUuJkMNg",
+      "thumbnail": "https://i.ytimg.com/vi/gJ8HUuJkMNg/mqdefault_live.jpg",
+      "published": "2026-08-26T23:14:51Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "MANO A MANO DO GRENAL! #CORTESDONEWS",
       "videoId": "oRoDlpLYuSg",
       "url": "https://www.youtube.com/watch?v=oRoDlpLYuSg",
@@ -27,12 +35,12 @@
       "published": "2026-08-26T22:34:59Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "SUÁREZ COBRA O GRÊMIO? INTERNACIONAL NO TRANSFERBAN. NEYMAR JOGA?📰BAGÉTV NEWS #025",
-      "videoId": "4ICny0l2TGk",
-      "url": "https://www.youtube.com/watch?v=4ICny0l2TGk",
-      "thumbnail": "https://i.ytimg.com/vi/4ICny0l2TGk/mqdefault.jpg",
-      "published": "2026-08-26T22:06:35Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨SURPRESA! TETÊ SAINDO DO GRÊMIO? | NEGÓCIO COM KIKE | DÍVIDA COM SUAREZ",
+      "videoId": "xWbCXw2_o30",
+      "url": "https://www.youtube.com/watch?v=xWbCXw2_o30",
+      "thumbnail": "https://i.ytimg.com/vi/xWbCXw2_o30/mqdefault.jpg",
+      "published": "2026-08-26T23:53:44Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=cAcEfbRZw6M",
       "thumbnail": "https://i.ytimg.com/vi/cAcEfbRZw6M/mqdefault.jpg",
       "published": "2026-08-26T14:40:16Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! NOVA SAÍDA! NEGÓCIO FECHADO! | QUATRO ALTERAÇÕES PREVISTAS NO TIME DO GRÊMIO | PAGAMENTOS",
-      "videoId": "xmdfD646XbM",
-      "url": "https://www.youtube.com/watch?v=xmdfD646XbM",
-      "thumbnail": "https://i.ytimg.com/vi/xmdfD646XbM/mqdefault.jpg",
-      "published": "2026-08-26T00:02:01Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "rQsnXw-5Ocw",
       "url": "https://www.youtube.com/watch?v=rQsnXw-5Ocw",
       "thumbnail": "https://i.ytimg.com/vi/rQsnXw-5Ocw/mqdefault_live.jpg",
-      "published": "2026-08-26T22:00:38Z"
+      "published": "2026-08-26T23:02:03Z"
     },
     {
       "channel": "Canal do Farid",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GRE-NAL 453: O que esperar + escalações + bastidores + históricos",
+      "videoId": "wKfxSLqfKgA",
+      "url": "https://www.youtube.com/watch?v=wKfxSLqfKgA",
+      "thumbnail": "https://i.ytimg.com/vi/wKfxSLqfKgA/mqdefault.jpg",
+      "published": "2026-08-26T23:01:34Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: Transferban nos dois lados + prováveis times + bastidores",
       "videoId": "iaYg2mJL2kE",
       "url": "https://www.youtube.com/watch?v=iaYg2mJL2kE",
       "thumbnail": "https://i.ytimg.com/vi/iaYg2mJL2kE/mqdefault.jpg",
       "published": "2026-08-26T13:12:18Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "A TRISTE NOVA REALIDADE DE GRÊMIO E INTER",
-      "videoId": "RequCiTx8Ow",
-      "url": "https://www.youtube.com/watch?v=RequCiTx8Ow",
-      "thumbnail": "https://i.ytimg.com/vi/RequCiTx8Ow/mqdefault.jpg",
-      "published": "2026-08-26T10:30:14Z"
     },
     {
       "channel": "LH Benfica",
@@ -211,20 +211,36 @@
       "published": "2026-08-25T16:58:02Z"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO GANHA REFORÇO PARA O GRENAL? | PAGAMENTO ANTECIPADO | PROVÁVEL ESCALAÇÃO | ESPLANADA",
-      "videoId": "SQnAPXVXJDc",
-      "url": "https://www.youtube.com/watch?v=SQnAPXVXJDc",
-      "thumbnail": "https://i.ytimg.com/vi/SQnAPXVXJDc/mqdefault.jpg",
-      "published": "2026-08-26T22:46:45Z"
+      "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA | 26/08/2026 | RÁDIO GRENAL",
+      "videoId": "HHWkCPjfU1I",
+      "url": "https://www.youtube.com/watch?v=HHWkCPjfU1I",
+      "thumbnail": "https://i.ytimg.com/vi/HHWkCPjfU1I/mqdefault.jpg",
+      "published": "2026-08-26T23:35:34Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO | CLUBE GRENAL | 26/08/2026 | RÁDIO GRENAL",
+      "videoId": "bOrBbs-8UyA",
+      "url": "https://www.youtube.com/watch?v=bOrBbs-8UyA",
+      "thumbnail": "https://i.ytimg.com/vi/bOrBbs-8UyA/mqdefault_live.jpg",
+      "published": "2026-08-26T23:02:14Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO - CHEGADA DOS JOGADORES | GRÊMIO INICIA CONCENTRAÇÃO PARA O GRENAL | PLANTÃO IMORTAL",
       "videoId": "QG62sjRzrmc",
       "url": "https://www.youtube.com/watch?v=QG62sjRzrmc",
-      "thumbnail": "https://i.ytimg.com/vi/QG62sjRzrmc/mqdefault_live.jpg",
-      "published": "2026-08-26T22:05:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/QG62sjRzrmc/mqdefault.jpg",
+      "published": "2026-08-26T23:21:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO GANHA REFORÇO PARA O GRENAL? | PAGAMENTO ANTECIPADO | PROVÁVEL ESCALAÇÃO | ESPLANADA",
+      "videoId": "SQnAPXVXJDc",
+      "url": "https://www.youtube.com/watch?v=SQnAPXVXJDc",
+      "thumbnail": "https://i.ytimg.com/vi/SQnAPXVXJDc/mqdefault.jpg",
+      "published": "2026-08-26T22:46:45Z"
     }
   ]
 }
