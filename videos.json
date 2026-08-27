@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T17:00:48.401946+00:00",
+  "updated_at": "2026-08-27T18:00:36.859690+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: TUDO SOBRE O  GRE-NAL DIRETO DO ESTÁDIO BEIRA RIO",
+      "videoId": "rSn4NSgeVs4",
+      "url": "https://www.youtube.com/watch?v=rSn4NSgeVs4",
+      "thumbnail": "https://i.ytimg.com/vi/rSn4NSgeVs4/mqdefault_live.jpg",
+      "published": "2026-08-27T17:43:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: OS CAMINHOS DA VITÓRIA COLORADA | O INTER É MAIS TIME | COLETIVO VAI DETERMINAR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Cq6eRa6DMXg",
       "thumbnail": "https://i.ytimg.com/vi/Cq6eRa6DMXg/mqdefault.jpg",
       "published": "2026-08-27T16:58:08Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: SUÁREZ COBRA R$ 3,3 MILHÕES! TETÊ PODE SAIR E TIME DO GRE-NAL",
-      "videoId": "vrPfgwFQ4WM",
-      "url": "https://www.youtube.com/watch?v=vrPfgwFQ4WM",
-      "thumbnail": "https://i.ytimg.com/vi/vrPfgwFQ4WM/mqdefault.jpg",
-      "published": "2026-08-27T05:30:13Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "kRDOt619iA8",
       "url": "https://www.youtube.com/watch?v=kRDOt619iA8",
       "thumbnail": "https://i.ytimg.com/vi/kRDOt619iA8/mqdefault_live.jpg",
-      "published": "2026-08-27T16:06:11Z"
+      "published": "2026-08-27T17:15:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Por que NOSSO SEGREDO venceu o KIKITO DE MELHOR FILME no Festival de Gramado | Dica do Ticiano",
-      "videoId": "cB1nhlkBXD0",
-      "url": "https://www.youtube.com/watch?v=cB1nhlkBXD0",
-      "thumbnail": "https://i.ytimg.com/vi/cB1nhlkBXD0/mqdefault.jpg",
-      "published": "2026-08-27T16:28:48Z"
+      "title": "Tempestade no RS, tia de Samylle é presa, Gre-nal 453 e mais | Gaúcha+ | 27/08/2026",
+      "videoId": "WJa9qh6Njt4",
+      "url": "https://www.youtube.com/watch?v=WJa9qh6Njt4",
+      "thumbnail": "https://i.ytimg.com/vi/WJa9qh6Njt4/mqdefault_live.jpg",
+      "published": "2026-08-27T18:00:27Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
-      "videoId": "c74rlwbm1rE",
-      "url": "https://www.youtube.com/watch?v=c74rlwbm1rE",
-      "thumbnail": "https://i.ytimg.com/vi/c74rlwbm1rE/mqdefault_live.jpg",
-      "published": "2026-08-27T16:15:59Z"
+      "title": "Campanha eleitoral chega às notas do Instagram | Palanque Digital",
+      "videoId": "GKzWd0rDcVA",
+      "url": "https://www.youtube.com/watch?v=GKzWd0rDcVA",
+      "thumbnail": "https://i.ytimg.com/vi/GKzWd0rDcVA/mqdefault.jpg",
+      "published": "2026-08-27T18:00:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | 27/08/2026 | RÁDIO GRENAL",
-      "videoId": "bOrBbs-8UyA",
-      "url": "https://www.youtube.com/watch?v=bOrBbs-8UyA",
-      "thumbnail": "https://i.ytimg.com/vi/bOrBbs-8UyA/mqdefault.jpg",
-      "published": "2026-08-27T16:13:30Z"
+      "title": "FALA, SAVOIA! 🇪🇪🗣️🇮🇩",
+      "videoId": "cp7MH7CQFCM",
+      "url": "https://www.youtube.com/watch?v=cp7MH7CQFCM",
+      "thumbnail": "https://i.ytimg.com/vi/cp7MH7CQFCM/mqdefault.jpg",
+      "published": "2026-08-27T17:41:33Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO O JOGO INTER X GRÊMIO | COPA DO BRASIL | RÁDIO GRENAL | 27.08",
+      "title": "AO VIVO DO BEIRA-RIO | INTER X GRÊMIO | COPA DO BRASIL | RÁDIO GRENAL | 27/08",
       "videoId": "2zFiyBROUJw",
       "url": "https://www.youtube.com/watch?v=2zFiyBROUJw",
       "thumbnail": "https://i.ytimg.com/vi/2zFiyBROUJw/mqdefault_live.jpg",
-      "published": "2026-08-27T16:01:40Z"
+      "published": "2026-08-27T17:30:45Z"
     },
     {
       "channel": "Radio Imortal",
