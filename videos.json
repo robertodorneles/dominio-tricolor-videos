@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T01:00:30.311383+00:00",
+  "updated_at": "2026-08-27T02:00:45.773674+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O GRE-NAL É REALIDADE | MANO A MANO DO CLÁSSICO (3/3)",
+      "videoId": "rXlsS5wei5E",
+      "url": "https://www.youtube.com/watch?v=rXlsS5wei5E",
+      "thumbnail": "https://i.ytimg.com/vi/rXlsS5wei5E/mqdefault_live.jpg",
+      "published": "2026-08-27T01:03:26Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ ESTRATEGIA QUE NINGUÉM ESPERAVA | BASTIDORES DA MOBILIZAÇÃO",
@@ -11,28 +19,20 @@
       "published": "2026-08-26T20:41:09Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: GRE-NAL DE R$ 39 MILHÕES! O que está em jogo contra o Inter",
-      "videoId": "r0xXUyRY0tY",
-      "url": "https://www.youtube.com/watch?v=r0xXUyRY0tY",
-      "thumbnail": "https://i.ytimg.com/vi/r0xXUyRY0tY/mqdefault.jpg",
-      "published": "2026-08-26T20:00:22Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "SUÁREZ COBRA DÍVIDA DO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#013",
-      "videoId": "gJ8HUuJkMNg",
-      "url": "https://www.youtube.com/watch?v=gJ8HUuJkMNg",
-      "thumbnail": "https://i.ytimg.com/vi/gJ8HUuJkMNg/mqdefault.jpg",
-      "published": "2026-08-27T00:43:04Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🌃🔵 BOA NOITE GRÊMIO #013",
       "videoId": "Xdr3kgFcyZE",
       "url": "https://www.youtube.com/watch?v=Xdr3kgFcyZE",
       "thumbnail": "https://i.ytimg.com/vi/Xdr3kgFcyZE/mqdefault_live.jpg",
-      "published": "2026-08-27T00:32:21Z"
+      "published": "2026-08-27T01:59:51Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🌃🔵 BOA NOITE GRÊMIO #014",
+      "videoId": "G5SgzD6qZNI",
+      "url": "https://www.youtube.com/watch?v=G5SgzD6qZNI",
+      "thumbnail": "https://i.ytimg.com/vi/G5SgzD6qZNI/mqdefault_live.jpg",
+      "published": "2026-08-27T01:19:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -104,7 +104,7 @@
       "videoId": "HXXAHDszx0Y",
       "url": "https://www.youtube.com/watch?v=HXXAHDszx0Y",
       "thumbnail": "https://i.ytimg.com/vi/HXXAHDszx0Y/mqdefault_live.jpg",
-      "published": "2026-08-27T00:59:49Z"
+      "published": "2026-08-27T01:57:48Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -231,16 +231,16 @@
       "title": "AMANHÃ TEM GRENAL DECISIVO! PREPARAÇÃO DO GRÊMIO FINALIZADA | NOITES DE GRÊMIO #136 - 26/08",
       "videoId": "VnPvnKGaDXo",
       "url": "https://www.youtube.com/watch?v=VnPvnKGaDXo",
-      "thumbnail": "https://i.ytimg.com/vi/VnPvnKGaDXo/mqdefault_live.jpg",
-      "published": "2026-08-27T00:00:19Z"
+      "thumbnail": "https://i.ytimg.com/vi/VnPvnKGaDXo/mqdefault.jpg",
+      "published": "2026-08-27T01:35:16Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO - CHEGADA DOS JOGADORES | GRÊMIO INICIA CONCENTRAÇÃO PARA O GRENAL | PLANTÃO IMORTAL",
-      "videoId": "QG62sjRzrmc",
-      "url": "https://www.youtube.com/watch?v=QG62sjRzrmc",
-      "thumbnail": "https://i.ytimg.com/vi/QG62sjRzrmc/mqdefault.jpg",
-      "published": "2026-08-26T23:21:35Z"
+      "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
+      "videoId": "Cj8xt18akqE",
+      "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
+      "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault_live.jpg",
+      "published": "2026-08-27T01:11:17Z"
     }
   ]
 }
