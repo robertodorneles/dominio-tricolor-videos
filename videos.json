@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T09:00:37.051065+00:00",
+  "updated_at": "2026-08-27T10:00:36.942858+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CHEGOU O DIA DO GRENAL HISTÓRICO! 🌅🔵 BOM DIA GRÊMIO #109",
+      "videoId": "dO8x4IzoGI0",
+      "url": "https://www.youtube.com/watch?v=dO8x4IzoGI0",
+      "thumbnail": "https://i.ytimg.com/vi/dO8x4IzoGI0/mqdefault_live.jpg",
+      "published": "2026-08-27T09:29:53Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🌃🔵 BOA NOITE GRÊMIO #013",
       "videoId": "Xdr3kgFcyZE",
       "url": "https://www.youtube.com/watch?v=Xdr3kgFcyZE",
       "thumbnail": "https://i.ytimg.com/vi/Xdr3kgFcyZE/mqdefault.jpg",
       "published": "2026-08-27T02:04:23Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🌃🔵 BOA NOITE GRÊMIO #014",
-      "videoId": "G5SgzD6qZNI",
-      "url": "https://www.youtube.com/watch?v=G5SgzD6qZNI",
-      "thumbnail": "https://i.ytimg.com/vi/G5SgzD6qZNI/mqdefault_live.jpg",
-      "published": "2026-08-27T01:19:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #09 — CHEGOU O DIA DO GRENAL NA COPA DO BRASIL!",
+      "videoId": "HP-UaecAac0",
+      "url": "https://www.youtube.com/watch?v=HP-UaecAac0",
+      "thumbnail": "https://i.ytimg.com/vi/HP-UaecAac0/mqdefault_live.jpg",
+      "published": "2026-08-27T09:32:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AMANHÃ TEM GRENAL DECISIVO! PREPARAÇÃO DO GRÊMIO FINALIZADA | NOITES DE GRÊMIO #136 - 26/08",
       "videoId": "VnPvnKGaDXo",
       "url": "https://www.youtube.com/watch?v=VnPvnKGaDXo",
       "thumbnail": "https://i.ytimg.com/vi/VnPvnKGaDXo/mqdefault.jpg",
       "published": "2026-08-27T01:35:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
-      "videoId": "Cj8xt18akqE",
-      "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
-      "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault_live.jpg",
-      "published": "2026-08-27T01:11:17Z"
     }
   ]
 }
