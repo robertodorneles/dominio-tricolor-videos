@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T18:00:36.859690+00:00",
+  "updated_at": "2026-08-27T19:00:36.944729+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: OS CAMINHOS DA VITÓRIA TRICOLOR | O GRÊMIO TEM CAMISA 9",
+      "videoId": "-7NtCmvcizo",
+      "url": "https://www.youtube.com/watch?v=-7NtCmvcizo",
+      "thumbnail": "https://i.ytimg.com/vi/-7NtCmvcizo/mqdefault.jpg",
+      "published": "2026-08-27T18:00:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: TUDO SOBRE O  GRE-NAL DIRETO DO ESTÁDIO BEIRA RIO",
@@ -11,28 +19,20 @@
       "published": "2026-08-27T17:43:29Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: OS CAMINHOS DA VITÓRIA COLORADA | O INTER É MAIS TIME | COLETIVO VAI DETERMINAR",
-      "videoId": "Cq6eRa6DMXg",
-      "url": "https://www.youtube.com/watch?v=Cq6eRa6DMXg",
-      "thumbnail": "https://i.ytimg.com/vi/Cq6eRa6DMXg/mqdefault.jpg",
-      "published": "2026-08-27T16:58:08Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 INTERNACIONAL X GRÊMIO",
+      "videoId": "FLmt7wpq8Tw",
+      "url": "https://www.youtube.com/watch?v=FLmt7wpq8Tw",
+      "thumbnail": "https://i.ytimg.com/vi/FLmt7wpq8Tw/mqdefault_live.jpg",
+      "published": "2026-08-27T18:49:37Z"
     },
     {
       "channel": "Bage TV",
-      "title": "TUDO OU NADA! GRE-NAL VALE VAGA NA SEMIFINAL DA COPA DO BRASIL🔸RESENHA FORA DA SALA🔸#117",
-      "videoId": "PFtMMy3OH44",
-      "url": "https://www.youtube.com/watch?v=PFtMMy3OH44",
-      "thumbnail": "https://i.ytimg.com/vi/PFtMMy3OH44/mqdefault_live.jpg",
-      "published": "2026-08-27T16:30:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "LEMBRA DELES? ALGUNS JOGADORES QUE DISPUTARAM O GRE-NAL! #CORTESDOFAG",
-      "videoId": "7Q_RhOLjjzg",
-      "url": "https://www.youtube.com/watch?v=7Q_RhOLjjzg",
-      "thumbnail": "https://i.ytimg.com/vi/7Q_RhOLjjzg/mqdefault.jpg",
-      "published": "2026-08-27T15:16:07Z"
+      "title": "BOMBA NO GRE-NAL! #CORTESDORESENHA",
+      "videoId": "fkx5imTBS5g",
+      "url": "https://www.youtube.com/watch?v=fkx5imTBS5g",
+      "thumbnail": "https://i.ytimg.com/vi/fkx5imTBS5g/mqdefault.jpg",
+      "published": "2026-08-27T18:37:45Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Renan Santos, STF e o risco de cada um ter sua própria lei | Andei Pensando | 27/08/2026",
+      "videoId": "kIX-cn0k5ao",
+      "url": "https://www.youtube.com/watch?v=kIX-cn0k5ao",
+      "thumbnail": "https://i.ytimg.com/vi/kIX-cn0k5ao/mqdefault.jpg",
+      "published": "2026-08-27T18:21:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Tempestade no RS, tia de Samylle é presa, Gre-nal 453 e mais | Gaúcha+ | 27/08/2026",
       "videoId": "WJa9qh6Njt4",
       "url": "https://www.youtube.com/watch?v=WJa9qh6Njt4",
       "thumbnail": "https://i.ytimg.com/vi/WJa9qh6Njt4/mqdefault_live.jpg",
       "published": "2026-08-27T18:00:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Campanha eleitoral chega às notas do Instagram | Palanque Digital",
-      "videoId": "GKzWd0rDcVA",
-      "url": "https://www.youtube.com/watch?v=GKzWd0rDcVA",
-      "thumbnail": "https://i.ytimg.com/vi/GKzWd0rDcVA/mqdefault.jpg",
-      "published": "2026-08-27T18:00:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO INTERNACIONAL X GRÊMIO | GRENAL 453 | JORNADA IMORTAL | DIRETO DO BEIRA-RIO",
+      "videoId": "-vHBdqPmUEY",
+      "url": "https://www.youtube.com/watch?v=-vHBdqPmUEY",
+      "thumbnail": "https://i.ytimg.com/vi/-vHBdqPmUEY/mqdefault_live.jpg",
+      "published": "2026-08-27T18:00:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
       "videoId": "Cj8xt18akqE",
       "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
       "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault.jpg",
       "published": "2026-08-27T15:04:43Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! TUDO SOBRE O CLÁSSICO GRENAL 453 | COMO É BOM SER DO GRÊMIO #29",
-      "videoId": "fl-qSDotZtE",
-      "url": "https://www.youtube.com/watch?v=fl-qSDotZtE",
-      "thumbnail": "https://i.ytimg.com/vi/fl-qSDotZtE/mqdefault.jpg",
-      "published": "2026-08-27T14:08:31Z"
     }
   ]
 }
