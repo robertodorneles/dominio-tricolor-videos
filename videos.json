@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T15:00:41.779600+00:00",
+  "updated_at": "2026-08-27T16:00:39.459412+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "LEMBRA DELES? ALGUNS JOGADORES QUE DISPUTARAM O GRE-NAL! #CORTESDOFAG",
+      "videoId": "7Q_RhOLjjzg",
+      "url": "https://www.youtube.com/watch?v=7Q_RhOLjjzg",
+      "thumbnail": "https://i.ytimg.com/vi/7Q_RhOLjjzg/mqdefault.jpg",
+      "published": "2026-08-27T15:16:07Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "É DIA DE CLÁSSICO GRENAL! - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #054",
       "videoId": "X8LXvfoymK4",
       "url": "https://www.youtube.com/watch?v=X8LXvfoymK4",
       "thumbnail": "https://i.ytimg.com/vi/X8LXvfoymK4/mqdefault.jpg",
       "published": "2026-08-27T14:58:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "HOJE TUDO PASSA PELAS MÃOS DE LUÍS CASTRO! #CORTESDOFAG",
-      "videoId": "ejZV38cVsek",
-      "url": "https://www.youtube.com/watch?v=ejZV38cVsek",
-      "thumbnail": "https://i.ytimg.com/vi/ejZV38cVsek/mqdefault.jpg",
-      "published": "2026-08-27T14:39:02Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #1",
+      "videoId": "kRDOt619iA8",
+      "url": "https://www.youtube.com/watch?v=kRDOt619iA8",
+      "thumbnail": "https://i.ytimg.com/vi/kRDOt619iA8/mqdefault_live.jpg",
+      "published": "2026-08-27T15:47:56Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #004",
       "videoId": "tbPXGEkEZ_Y",
       "url": "https://www.youtube.com/watch?v=tbPXGEkEZ_Y",
       "thumbnail": "https://i.ytimg.com/vi/tbPXGEkEZ_Y/mqdefault_live.jpg",
       "published": "2026-08-27T12:33:55Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 26/08/2026",
-      "videoId": "rQsnXw-5Ocw",
-      "url": "https://www.youtube.com/watch?v=rQsnXw-5Ocw",
-      "thumbnail": "https://i.ytimg.com/vi/rQsnXw-5Ocw/mqdefault.jpg",
-      "published": "2026-08-27T11:10:07Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
+      "videoId": "Cj8xt18akqE",
+      "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
+      "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault.jpg",
+      "published": "2026-08-27T15:04:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O CLÁSSICO GRENAL 453 | COMO É BOM SER DO GRÊMIO #29",
       "videoId": "fl-qSDotZtE",
       "url": "https://www.youtube.com/watch?v=fl-qSDotZtE",
       "thumbnail": "https://i.ytimg.com/vi/fl-qSDotZtE/mqdefault.jpg",
       "published": "2026-08-27T14:08:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
-      "videoId": "Cj8xt18akqE",
-      "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
-      "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault_live.jpg",
-      "published": "2026-08-27T14:03:08Z"
     }
   ]
 }
