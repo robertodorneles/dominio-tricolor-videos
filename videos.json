@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T14:00:38.503463+00:00",
+  "updated_at": "2026-08-27T15:00:41.779600+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,24 @@
       "title": "É DIA DE CLÁSSICO GRENAL! - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #054",
       "videoId": "X8LXvfoymK4",
       "url": "https://www.youtube.com/watch?v=X8LXvfoymK4",
-      "thumbnail": "https://i.ytimg.com/vi/X8LXvfoymK4/mqdefault_live.jpg",
-      "published": "2026-08-27T13:41:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/X8LXvfoymK4/mqdefault.jpg",
+      "published": "2026-08-27T14:58:09Z"
     },
     {
       "channel": "Bage TV",
-      "title": "CHEGOU O DIA! CLÁSSICO GRENAL NA COPA! 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 27/08 - #621",
-      "videoId": "0CrLGNSNp1o",
-      "url": "https://www.youtube.com/watch?v=0CrLGNSNp1o",
-      "thumbnail": "https://i.ytimg.com/vi/0CrLGNSNp1o/mqdefault.jpg",
-      "published": "2026-08-27T13:38:04Z"
+      "title": "HOJE TUDO PASSA PELAS MÃOS DE LUÍS CASTRO! #CORTESDOFAG",
+      "videoId": "ejZV38cVsek",
+      "url": "https://www.youtube.com/watch?v=ejZV38cVsek",
+      "thumbnail": "https://i.ytimg.com/vi/ejZV38cVsek/mqdefault.jpg",
+      "published": "2026-08-27T14:39:02Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨MUDANÇAS! TÉCNICO E REFORÇOS | VAZOU O TIME DO GRÊMIO PRO GRE-NAL? | DE OLHO NO INTER..",
+      "videoId": "2KBLuyMyNdc",
+      "url": "https://www.youtube.com/watch?v=2KBLuyMyNdc",
+      "thumbnail": "https://i.ytimg.com/vi/2KBLuyMyNdc/mqdefault.jpg",
+      "published": "2026-08-27T14:27:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=xWbCXw2_o30",
       "thumbnail": "https://i.ytimg.com/vi/xWbCXw2_o30/mqdefault.jpg",
       "published": "2026-08-26T23:53:44Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨REVIRAVOLTA COM EVERTON CEBOLINHA | MEC NÃO VAI JOGAR MAIS NO GRÊMIO? | ERRO DA DIREÇÃO E O GRE-NAL",
-      "videoId": "cAcEfbRZw6M",
-      "url": "https://www.youtube.com/watch?v=cAcEfbRZw6M",
-      "thumbnail": "https://i.ytimg.com/vi/cAcEfbRZw6M/mqdefault.jpg",
-      "published": "2026-08-26T14:40:16Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Especial em dia de Gre-Nal pela Copa do Brasil e mais | Timeline | 27/08/2026",
-      "videoId": "YlL5UfOQ71g",
-      "url": "https://www.youtube.com/watch?v=YlL5UfOQ71g",
-      "thumbnail": "https://i.ytimg.com/vi/YlL5UfOQ71g/mqdefault_live.jpg",
-      "published": "2026-08-27T13:57:11Z"
+      "title": "Foodtech conecta 52 mil produtores e digitaliza cotações do HORTIFRÚTI | Radar de Inovação",
+      "videoId": "PCtMG-fvJZY",
+      "url": "https://www.youtube.com/watch?v=PCtMG-fvJZY",
+      "thumbnail": "https://i.ytimg.com/vi/PCtMG-fvJZY/mqdefault.jpg",
+      "published": "2026-08-27T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Últimas notícias, política, economia, trânsito e mais | Gaúcha Atualidade | 27/08/2026",
-      "videoId": "M8ElrhtFljA",
-      "url": "https://www.youtube.com/watch?v=M8ElrhtFljA",
-      "thumbnail": "https://i.ytimg.com/vi/M8ElrhtFljA/mqdefault_live.jpg",
-      "published": "2026-08-27T13:04:07Z"
+      "title": "Especial em dia de Gre-Nal pela Copa do Brasil e mais | Timeline | 27/08/2026",
+      "videoId": "YlL5UfOQ71g",
+      "url": "https://www.youtube.com/watch?v=YlL5UfOQ71g",
+      "thumbnail": "https://i.ytimg.com/vi/YlL5UfOQ71g/mqdefault.jpg",
+      "published": "2026-08-27T14:52:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 27/08/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE | 27/08/2026 | RÁDIO GRENAL",
       "videoId": "bOrBbs-8UyA",
       "url": "https://www.youtube.com/watch?v=bOrBbs-8UyA",
       "thumbnail": "https://i.ytimg.com/vi/bOrBbs-8UyA/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #09 — CHEGOU O DIA DO GRENAL NA COPA DO BRASIL!",
-      "videoId": "HP-UaecAac0",
-      "url": "https://www.youtube.com/watch?v=HP-UaecAac0",
-      "thumbnail": "https://i.ytimg.com/vi/HP-UaecAac0/mqdefault.jpg",
-      "published": "2026-08-27T12:40:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! TUDO SOBRE O CLÁSSICO GRENAL 453 | COMO É BOM SER DO GRÊMIO #29",
       "videoId": "fl-qSDotZtE",
       "url": "https://www.youtube.com/watch?v=fl-qSDotZtE",
-      "thumbnail": "https://i.ytimg.com/vi/fl-qSDotZtE/mqdefault_live.jpg",
-      "published": "2026-08-27T12:32:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/fl-qSDotZtE/mqdefault.jpg",
+      "published": "2026-08-27T14:08:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #143 — GRÊMIO VAI TER SURPRESA NO GRENAL? | MOBILIZAÇÃO COMPLETA",
+      "videoId": "Cj8xt18akqE",
+      "url": "https://www.youtube.com/watch?v=Cj8xt18akqE",
+      "thumbnail": "https://i.ytimg.com/vi/Cj8xt18akqE/mqdefault_live.jpg",
+      "published": "2026-08-27T14:03:08Z"
     }
   ]
 }
