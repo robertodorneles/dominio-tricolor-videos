@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T16:00:39.459412+00:00",
+  "updated_at": "2026-08-27T17:00:48.401946+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: OS CAMINHOS DA VITÓRIA COLORADA | O INTER É MAIS TIME | COLETIVO VAI DETERMINAR",
+      "videoId": "Cq6eRa6DMXg",
+      "url": "https://www.youtube.com/watch?v=Cq6eRa6DMXg",
+      "thumbnail": "https://i.ytimg.com/vi/Cq6eRa6DMXg/mqdefault.jpg",
+      "published": "2026-08-27T16:58:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: SUÁREZ COBRA R$ 3,3 MILHÕES! TETÊ PODE SAIR E TIME DO GRE-NAL",
@@ -11,12 +19,12 @@
       "published": "2026-08-27T05:30:13Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 ISSO NUNCA FOI FEITO EM GRENAL | TUDO SOBRE O AMBIENTE | LATERAL NA MIRA",
-      "videoId": "y6hMzqpsUQ0",
-      "url": "https://www.youtube.com/watch?v=y6hMzqpsUQ0",
-      "thumbnail": "https://i.ytimg.com/vi/y6hMzqpsUQ0/mqdefault.jpg",
-      "published": "2026-08-27T05:25:25Z"
+      "channel": "Bage TV",
+      "title": "TUDO OU NADA! GRE-NAL VALE VAGA NA SEMIFINAL DA COPA DO BRASIL🔸RESENHA FORA DA SALA🔸#117",
+      "videoId": "PFtMMy3OH44",
+      "url": "https://www.youtube.com/watch?v=PFtMMy3OH44",
+      "thumbnail": "https://i.ytimg.com/vi/PFtMMy3OH44/mqdefault_live.jpg",
+      "published": "2026-08-27T16:30:07Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=7Q_RhOLjjzg",
       "thumbnail": "https://i.ytimg.com/vi/7Q_RhOLjjzg/mqdefault.jpg",
       "published": "2026-08-27T15:16:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "É DIA DE CLÁSSICO GRENAL! - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #054",
-      "videoId": "X8LXvfoymK4",
-      "url": "https://www.youtube.com/watch?v=X8LXvfoymK4",
-      "thumbnail": "https://i.ytimg.com/vi/X8LXvfoymK4/mqdefault.jpg",
-      "published": "2026-08-27T14:58:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "kRDOt619iA8",
       "url": "https://www.youtube.com/watch?v=kRDOt619iA8",
       "thumbnail": "https://i.ytimg.com/vi/kRDOt619iA8/mqdefault_live.jpg",
-      "published": "2026-08-27T15:47:56Z"
+      "published": "2026-08-27T16:06:11Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Foodtech conecta 52 mil produtores e digitaliza cotações do HORTIFRÚTI | Radar de Inovação",
-      "videoId": "PCtMG-fvJZY",
-      "url": "https://www.youtube.com/watch?v=PCtMG-fvJZY",
-      "thumbnail": "https://i.ytimg.com/vi/PCtMG-fvJZY/mqdefault.jpg",
-      "published": "2026-08-27T15:00:06Z"
+      "title": "Por que NOSSO SEGREDO venceu o KIKITO DE MELHOR FILME no Festival de Gramado | Dica do Ticiano",
+      "videoId": "cB1nhlkBXD0",
+      "url": "https://www.youtube.com/watch?v=cB1nhlkBXD0",
+      "thumbnail": "https://i.ytimg.com/vi/cB1nhlkBXD0/mqdefault.jpg",
+      "published": "2026-08-27T16:28:48Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Especial em dia de Gre-Nal pela Copa do Brasil e mais | Timeline | 27/08/2026",
-      "videoId": "YlL5UfOQ71g",
-      "url": "https://www.youtube.com/watch?v=YlL5UfOQ71g",
-      "thumbnail": "https://i.ytimg.com/vi/YlL5UfOQ71g/mqdefault.jpg",
-      "published": "2026-08-27T14:52:18Z"
+      "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
+      "videoId": "c74rlwbm1rE",
+      "url": "https://www.youtube.com/watch?v=c74rlwbm1rE",
+      "thumbnail": "https://i.ytimg.com/vi/c74rlwbm1rE/mqdefault_live.jpg",
+      "published": "2026-08-27T16:15:59Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨NEGÓCIO DE 20 MILHÕES DE EUROS | A DÍVIDA COM LUIS SUÁREZ | ALEX CABEÇÃO, MEC...",
+      "videoId": "OK5XgMdL-Rc",
+      "url": "https://www.youtube.com/watch?v=OK5XgMdL-Rc",
+      "thumbnail": "https://i.ytimg.com/vi/OK5XgMdL-Rc/mqdefault.jpg",
+      "published": "2026-08-27T16:57:23Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨NEGÓCIO FECHADO! | INFORMAÇÃO IMPORTANTE SOBRE RENATO | LUÍS CASTRO: CONTAGEM REGRESSIVA",
       "videoId": "oRsSUs0Zaao",
       "url": "https://www.youtube.com/watch?v=oRsSUs0Zaao",
@@ -203,28 +211,20 @@
       "published": "2026-08-26T16:55:56Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨O SUBSTITUTO DE LUÍS CASTRO NO GRÊMIO | RENOVAÇÃO À VISTA | TEM JOGADOR PEDINDO PRA SAIR",
-      "videoId": "kt5UWAje7b0",
-      "url": "https://www.youtube.com/watch?v=kt5UWAje7b0",
-      "thumbnail": "https://i.ytimg.com/vi/kt5UWAje7b0/mqdefault.jpg",
-      "published": "2026-08-25T16:58:02Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 27/08/2026 | RÁDIO GRENAL",
+      "title": "LIVE COMPLETA | 27/08/2026 | RÁDIO GRENAL",
       "videoId": "bOrBbs-8UyA",
       "url": "https://www.youtube.com/watch?v=bOrBbs-8UyA",
-      "thumbnail": "https://i.ytimg.com/vi/bOrBbs-8UyA/mqdefault_live.jpg",
-      "published": "2026-08-27T11:01:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/bOrBbs-8UyA/mqdefault.jpg",
+      "published": "2026-08-27T16:13:30Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | 26/08/2026 | RÁDIO GRENAL",
-      "videoId": "HHWkCPjfU1I",
-      "url": "https://www.youtube.com/watch?v=HHWkCPjfU1I",
-      "thumbnail": "https://i.ytimg.com/vi/HHWkCPjfU1I/mqdefault.jpg",
-      "published": "2026-08-26T23:35:34Z"
+      "title": "AO VIVO | ESQUENTANDO O JOGO INTER X GRÊMIO | COPA DO BRASIL | RÁDIO GRENAL | 27.08",
+      "videoId": "2zFiyBROUJw",
+      "url": "https://www.youtube.com/watch?v=2zFiyBROUJw",
+      "thumbnail": "https://i.ytimg.com/vi/2zFiyBROUJw/mqdefault_live.jpg",
+      "published": "2026-08-27T16:01:40Z"
     },
     {
       "channel": "Radio Imortal",
