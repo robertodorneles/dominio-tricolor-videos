@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-28T02:00:36.866042+00:00",
-  "total": 28,
+  "updated_at": "2026-08-28T04:00:28.364992+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: TUDO SOBRE O  GRE-NAL DIRETO DO ESTÁDIO BEIRA RIO",
+      "videoId": "rSn4NSgeVs4",
+      "url": "https://www.youtube.com/watch?v=rSn4NSgeVs4",
+      "thumbnail": "https://i.ytimg.com/vi/rSn4NSgeVs4/mqdefault_live.jpg",
+      "published": "2026-08-28T03:06:35Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ GRÊMIO 0X0 INTER: VEJA OS MELHORES MOMENTOS | MUDOU O COMPORTAMENTO E SAIU VIVO DO BEIRA-RIO",
@@ -11,28 +19,28 @@
       "published": "2026-08-28T01:49:11Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter 0x0 Grêmio: TINHA QUE TER JOGADO MAIS | VEJA OS LANCES | PEZZOLANO ERROU! | ASSIM, VAI CAIR",
-      "videoId": "hQMMe5HleDU",
-      "url": "https://www.youtube.com/watch?v=hQMMe5HleDU",
-      "thumbnail": "https://i.ytimg.com/vi/hQMMe5HleDU/mqdefault.jpg",
-      "published": "2026-08-28T01:43:17Z"
+      "channel": "Bage TV",
+      "title": "AO VIVO 🔵 JORNADA DO BAGÉ 🔵 INTERNACIONAL X GRÊMIO - [DIRETO DO BEIRA-RIO]",
+      "videoId": "FLmt7wpq8Tw",
+      "url": "https://www.youtube.com/watch?v=FLmt7wpq8Tw",
+      "thumbnail": "https://i.ytimg.com/vi/FLmt7wpq8Tw/mqdefault.jpg",
+      "published": "2026-08-28T03:35:23Z"
     },
     {
       "channel": "Bage TV",
-      "title": "0X0 NO NO PRIMEIRO TEMPO! #CORTESDAJORNADA",
-      "videoId": "KkKOmwTzonU",
-      "url": "https://www.youtube.com/watch?v=KkKOmwTzonU",
-      "thumbnail": "https://i.ytimg.com/vi/KkKOmwTzonU/mqdefault.jpg",
-      "published": "2026-08-28T00:16:50Z"
+      "title": "GRÊMIO PERDEU NO PREPARO FISICO! #CORTESDAJORNADA",
+      "videoId": "6GyiWYM52R8",
+      "url": "https://www.youtube.com/watch?v=6GyiWYM52R8",
+      "thumbnail": "https://i.ytimg.com/vi/6GyiWYM52R8/mqdefault.jpg",
+      "published": "2026-08-28T02:12:15Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "TUDO OU NADA! GRE-NAL VALE VAGA NA SEMIFINAL DA COPA DO BRASIL🔸RESENHA FORA DA SALA🔸#117",
-      "videoId": "PFtMMy3OH44",
-      "url": "https://www.youtube.com/watch?v=PFtMMy3OH44",
-      "thumbnail": "https://i.ytimg.com/vi/PFtMMy3OH44/mqdefault.jpg",
-      "published": "2026-08-27T20:13:24Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨O ABSURDO DITO POR LUÍS CASTRO | BOM RESULTADO E ATUAÇÃO PÉSSIMA DO GRÊMIO DO PORTUGUÊS",
+      "videoId": "cbNBZb7cyP4",
+      "url": "https://www.youtube.com/watch?v=cbNBZb7cyP4",
+      "thumbnail": "https://i.ytimg.com/vi/cbNBZb7cyP4/mqdefault.jpg",
+      "published": "2026-08-28T02:16:24Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,36 +51,28 @@
       "published": "2026-08-27T14:27:57Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨SURPRESA! TETÊ SAINDO DO GRÊMIO? | NEGÓCIO COM KIKE | DÍVIDA COM SUAREZ",
-      "videoId": "xWbCXw2_o30",
-      "url": "https://www.youtube.com/watch?v=xWbCXw2_o30",
-      "thumbnail": "https://i.ytimg.com/vi/xWbCXw2_o30/mqdefault.jpg",
-      "published": "2026-08-26T23:53:44Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "INTER 0 X 0 GRÊMIO: TUDO IGUAL NO PRIMEIRO GRENAL",
       "videoId": "RQDWRcMIuF0",
       "url": "https://www.youtube.com/watch?v=RQDWRcMIuF0",
-      "thumbnail": "https://i.ytimg.com/vi/RQDWRcMIuF0/mqdefault_live.jpg",
-      "published": "2026-08-28T01:07:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/RQDWRcMIuF0/mqdefault.jpg",
+      "published": "2026-08-28T02:46:40Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Inter x Grêmio: Decisão no Beira-Rio | Times | Pressão e mais",
-      "videoId": "_9NpkotQ6As",
-      "url": "https://www.youtube.com/watch?v=_9NpkotQ6As",
-      "thumbnail": "https://i.ytimg.com/vi/_9NpkotQ6As/mqdefault.jpg",
-      "published": "2026-08-27T12:33:31Z"
+      "title": "Resultado aceitável, mas fica a sensação de que o Grêmio poderia ter vencido",
+      "videoId": "dnTV0Ggs-yQ",
+      "url": "https://www.youtube.com/watch?v=dnTV0Ggs-yQ",
+      "thumbnail": "https://i.ytimg.com/vi/dnTV0Ggs-yQ/mqdefault.jpg",
+      "published": "2026-08-28T02:42:35Z"
     },
     {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X SCI | COPA DO BRASIL | REACT AO VIVO DE FARID - 27/08/2026",
       "videoId": "dTEETI-cGMs",
       "url": "https://www.youtube.com/watch?v=dTEETI-cGMs",
-      "thumbnail": "https://i.ytimg.com/vi/dTEETI-cGMs/mqdefault_live.jpg",
-      "published": "2026-08-28T01:42:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/dTEETI-cGMs/mqdefault.jpg",
+      "published": "2026-08-28T02:05:54Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "INTERNACIONAL  X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
+      "videoId": "HXuZslHFrdg",
+      "url": "https://www.youtube.com/watch?v=HXuZslHFrdg",
+      "thumbnail": "https://i.ytimg.com/vi/HXuZslHFrdg/mqdefault.jpg",
+      "published": "2026-08-28T02:38:56Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ERA PRA VENCER? O QUE ACONTECEU NO SEGUNDO TEMPO?  INTER 0 X 0 GRÊMIO | COMENTÁRIO.",
       "videoId": "ppA1zANVQig",
       "url": "https://www.youtube.com/watch?v=ppA1zANVQig",
@@ -107,20 +115,12 @@
       "published": "2026-08-28T01:42:53Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "INTERNACIONAL  X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
-      "videoId": "HXuZslHFrdg",
-      "url": "https://www.youtube.com/watch?v=HXuZslHFrdg",
-      "thumbnail": "https://i.ytimg.com/vi/HXuZslHFrdg/mqdefault_live.jpg",
-      "published": "2026-08-28T01:10:58Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE INTER x GRÊMO (GRENAL 453)  - COPA DO BRASIL | COLETIVAS | 27/08/26 #30",
       "videoId": "vEJpaIQvJS8",
       "url": "https://www.youtube.com/watch?v=vEJpaIQvJS8",
-      "thumbnail": "https://i.ytimg.com/vi/vEJpaIQvJS8/mqdefault_live.jpg",
-      "published": "2026-08-28T01:07:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/vEJpaIQvJS8/mqdefault.jpg",
+      "published": "2026-08-28T02:42:02Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | COLETIVA PÓS-JOGO I INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
       "videoId": "0NtbVf-OiyQ",
       "url": "https://www.youtube.com/watch?v=0NtbVf-OiyQ",
-      "thumbnail": "https://i.ytimg.com/vi/0NtbVf-OiyQ/mqdefault_live.jpg",
-      "published": "2026-08-28T01:41:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/0NtbVf-OiyQ/mqdefault.jpg",
+      "published": "2026-08-28T03:21:24Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "AWsiPYD9VY0",
       "url": "https://www.youtube.com/watch?v=AWsiPYD9VY0",
       "thumbnail": "https://i.ytimg.com/vi/AWsiPYD9VY0/mqdefault_live.jpg",
-      "published": "2026-08-28T01:20:02Z"
+      "published": "2026-08-28T03:20:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -211,20 +211,36 @@
       "published": "2026-08-26T16:55:56Z"
     },
     {
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE ALESSANDRO BARCELLOS - PRESIDENTE DO INTER | INTER 0X0 GRÊMIO | 28/08/2026",
+      "videoId": "WtDDJIFQPD0",
+      "url": "https://www.youtube.com/watch?v=WtDDJIFQPD0",
+      "thumbnail": "https://i.ytimg.com/vi/WtDDJIFQPD0/mqdefault.jpg",
+      "published": "2026-08-28T03:59:49Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUÍS CASTRO | INTER 0X 0 GRÊMIO | COPA DO BRASIL | 28/28/2026 | RÁDIO GRENAL",
+      "videoId": "PiB6JCxf-5E",
+      "url": "https://www.youtube.com/watch?v=PiB6JCxf-5E",
+      "thumbnail": "https://i.ytimg.com/vi/PiB6JCxf-5E/mqdefault.jpg",
+      "published": "2026-08-28T03:39:00Z"
+    },
+    {
       "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ CRISTIANO ANALISA O EMPATE SEM GOLS NO GRENAL 453",
-      "videoId": "Tb21A4XFcS0",
-      "url": "https://www.youtube.com/watch?v=Tb21A4XFcS0",
-      "thumbnail": "https://i.ytimg.com/vi/Tb21A4XFcS0/mqdefault.jpg",
-      "published": "2026-08-28T01:39:55Z"
+      "title": "CAFÉ COM A IMORTAL #10 — TUDO IGUAL NO GRENAL 453 | DOIS JOGOS DECISIVOS NA ARENA",
+      "videoId": "cjZgj0fDVN8",
+      "url": "https://www.youtube.com/watch?v=cjZgj0fDVN8",
+      "thumbnail": "https://i.ytimg.com/vi/cjZgj0fDVN8/mqdefault_live.jpg",
+      "published": "2026-08-28T03:57:02Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO INTERNACIONAL (0) X (0) GRÊMIO | GRENAL 453 | JORNADA IMORTAL",
       "videoId": "-vHBdqPmUEY",
       "url": "https://www.youtube.com/watch?v=-vHBdqPmUEY",
-      "thumbnail": "https://i.ytimg.com/vi/-vHBdqPmUEY/mqdefault_live.jpg",
-      "published": "2026-08-27T18:00:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/-vHBdqPmUEY/mqdefault.jpg",
+      "published": "2026-08-28T03:34:54Z"
     }
   ]
 }
