@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T10:17:44.978820+00:00",
+  "updated_at": "2026-08-28T11:00:33.921641+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NÃO É NORMAL NO GRÊMIO! #gremio #futebol",
+      "videoId": "wDdVhJ1y_mI",
+      "url": "https://www.youtube.com/watch?v=wDdVhJ1y_mI",
+      "thumbnail": "https://i.ytimg.com/vi/wDdVhJ1y_mI/mqdefault.jpg",
+      "published": "2026-08-28T11:00:08Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "INTERNACIONAL  X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
       "videoId": "HXuZslHFrdg",
       "url": "https://www.youtube.com/watch?v=HXuZslHFrdg",
@@ -107,28 +115,20 @@
       "published": "2026-08-28T02:38:56Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "ERA PRA VENCER? O QUE ACONTECEU NO SEGUNDO TEMPO?  INTER 0 X 0 GRÊMIO | COMENTÁRIO.",
-      "videoId": "ppA1zANVQig",
-      "url": "https://www.youtube.com/watch?v=ppA1zANVQig",
-      "thumbnail": "https://i.ytimg.com/vi/ppA1zANVQig/mqdefault.jpg",
-      "published": "2026-08-28T01:42:53Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 30/08/26 #31",
+      "videoId": "giF5u3i7yt4",
+      "url": "https://www.youtube.com/watch?v=giF5u3i7yt4",
+      "thumbnail": "https://i.ytimg.com/vi/giF5u3i7yt4/mqdefault_live.jpg",
+      "published": "2026-08-28T10:59:18Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE INTER x GRÊMO (GRENAL 453)  - COPA DO BRASIL | COLETIVAS | 27/08/26 #30",
-      "videoId": "vEJpaIQvJS8",
-      "url": "https://www.youtube.com/watch?v=vEJpaIQvJS8",
-      "thumbnail": "https://i.ytimg.com/vi/vEJpaIQvJS8/mqdefault.jpg",
-      "published": "2026-08-28T02:42:02Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE INTER x GRÊMIO (GRENAL 453) DIRETO DO BEIRA-RIO | COPA DO BRASIL | 27/08 #13",
-      "videoId": "95ACvfQDOQg",
-      "url": "https://www.youtube.com/watch?v=95ACvfQDOQg",
-      "thumbnail": "https://i.ytimg.com/vi/95ACvfQDOQg/mqdefault.jpg",
-      "published": "2026-08-27T23:11:48Z"
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | 30/08 #14",
+      "videoId": "xJYfjV1wPLw",
+      "url": "https://www.youtube.com/watch?v=xJYfjV1wPLw",
+      "thumbnail": "https://i.ytimg.com/vi/xJYfjV1wPLw/mqdefault_live.jpg",
+      "published": "2026-08-28T10:54:13Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Direto da Expointer: últimas notícias, trânsito, entrevistas e mais | Gaúcha Atualidade | 28/08/2026",
+      "videoId": "1Tc4qHlzSas",
+      "url": "https://www.youtube.com/watch?v=1Tc4qHlzSas",
+      "thumbnail": "https://i.ytimg.com/vi/1Tc4qHlzSas/mqdefault_live.jpg",
+      "published": "2026-08-28T10:57:41Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
       "videoId": "c74rlwbm1rE",
       "url": "https://www.youtube.com/watch?v=c74rlwbm1rE",
       "thumbnail": "https://i.ytimg.com/vi/c74rlwbm1rE/mqdefault.jpg",
       "published": "2026-08-28T08:35:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Tempestade no RS, tia de Samylle é presa, Gre-nal 453 e mais | Gaúcha+ | 27/08/2026",
-      "videoId": "WJa9qh6Njt4",
-      "url": "https://www.youtube.com/watch?v=WJa9qh6Njt4",
-      "thumbnail": "https://i.ytimg.com/vi/WJa9qh6Njt4/mqdefault.jpg",
-      "published": "2026-08-28T07:41:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 28/08/2026",
+      "videoId": "H2KOBkZbNC0",
+      "url": "https://www.youtube.com/watch?v=H2KOBkZbNC0",
+      "thumbnail": "https://i.ytimg.com/vi/H2KOBkZbNC0/mqdefault_live.jpg",
+      "published": "2026-08-28T10:57:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVA DE ALESSANDRO BARCELLOS - PRESIDENTE DO INTER | INTER 0X0 GRÊMIO | 28/08/2026",
       "videoId": "WtDDJIFQPD0",
       "url": "https://www.youtube.com/watch?v=WtDDJIFQPD0",
       "thumbnail": "https://i.ytimg.com/vi/WtDDJIFQPD0/mqdefault.jpg",
       "published": "2026-08-28T03:59:49Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE LUÍS CASTRO | INTER 0X 0 GRÊMIO | COPA DO BRASIL | 28/28/2026 | RÁDIO GRENAL",
-      "videoId": "PiB6JCxf-5E",
-      "url": "https://www.youtube.com/watch?v=PiB6JCxf-5E",
-      "thumbnail": "https://i.ytimg.com/vi/PiB6JCxf-5E/mqdefault.jpg",
-      "published": "2026-08-28T03:39:00Z"
     },
     {
       "channel": "Radio Imortal",
