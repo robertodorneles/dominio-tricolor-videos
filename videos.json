@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T17:00:43.563465+00:00",
+  "updated_at": "2026-08-28T18:00:41.196237+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "A choradeira da Arbitragem.",
+      "videoId": "HpGQQvLwya8",
+      "url": "https://www.youtube.com/watch?v=HpGQQvLwya8",
+      "thumbnail": "https://i.ytimg.com/vi/HpGQQvLwya8/mqdefault.jpg",
+      "published": "2026-08-28T17:46:46Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "NADA DECIDIDO! 👀 GRENAL TERMINA IGUAL, COM POLÊMICA NA ARBITRAGEM🔸RESENHA FORA DA SALA🔸#118",
       "videoId": "OtBQQWq_Xx8",
       "url": "https://www.youtube.com/watch?v=OtBQQWq_Xx8",
       "thumbnail": "https://i.ytimg.com/vi/OtBQQWq_Xx8/mqdefault_live.jpg",
       "published": "2026-08-28T16:37:49Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "As narrativas que o lado de lá constroi.",
-      "videoId": "X5ZQrNuRcwA",
-      "url": "https://www.youtube.com/watch?v=X5ZQrNuRcwA",
-      "thumbnail": "https://i.ytimg.com/vi/X5ZQrNuRcwA/mqdefault.jpg",
-      "published": "2026-08-28T16:34:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
-      "videoId": "G0GulI7V4rI",
-      "url": "https://www.youtube.com/watch?v=G0GulI7V4rI",
-      "thumbnail": "https://i.ytimg.com/vi/G0GulI7V4rI/mqdefault.jpg",
-      "published": "2026-08-28T16:37:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 28/08/2026",
+      "title": "Menino morre devido a queda de árvore, uso de IA no TJ, trânsito e mais | Gaúcha+ | 28/08/2026",
       "videoId": "vf_xT7l21ts",
       "url": "https://www.youtube.com/watch?v=vf_xT7l21ts",
       "thumbnail": "https://i.ytimg.com/vi/vf_xT7l21ts/mqdefault_live.jpg",
-      "published": "2026-08-28T16:33:38Z"
+      "published": "2026-08-28T18:00:17Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Um dos últimos tropeiros profissionais do RS transmite a tradição ao filho",
+      "videoId": "ob0KVvthYAo",
+      "url": "https://www.youtube.com/watch?v=ob0KVvthYAo",
+      "thumbnail": "https://i.ytimg.com/vi/ob0KVvthYAo/mqdefault.jpg",
+      "published": "2026-08-28T17:30:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨UM REFORÇO CARO PRO GRÊMIO | LUÍS CASTRO GANHOU SOBREVIDA? | PREPARAÇÃO FÍSICA PREOCUPA",
+      "videoId": "J5d1jrmoFHA",
+      "url": "https://www.youtube.com/watch?v=J5d1jrmoFHA",
+      "thumbnail": "https://i.ytimg.com/vi/J5d1jrmoFHA/mqdefault.jpg",
+      "published": "2026-08-28T17:26:40Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨NEGÓCIO DE 20 MILHÕES DE EUROS | A DÍVIDA COM LUIS SUÁREZ | ALEX CABEÇÃO, MEC...",
       "videoId": "OK5XgMdL-Rc",
       "url": "https://www.youtube.com/watch?v=OK5XgMdL-Rc",
@@ -203,16 +211,8 @@
       "published": "2026-08-27T16:57:23Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨NEGÓCIO FECHADO! | INFORMAÇÃO IMPORTANTE SOBRE RENATO | LUÍS CASTRO: CONTAGEM REGRESSIVA",
-      "videoId": "oRsSUs0Zaao",
-      "url": "https://www.youtube.com/watch?v=oRsSUs0Zaao",
-      "thumbnail": "https://i.ytimg.com/vi/oRsSUs0Zaao/mqdefault.jpg",
-      "published": "2026-08-26T16:55:56Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 28/08/2026",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 28/08/2026",
       "videoId": "H2KOBkZbNC0",
       "url": "https://www.youtube.com/watch?v=H2KOBkZbNC0",
       "thumbnail": "https://i.ytimg.com/vi/H2KOBkZbNC0/mqdefault_live.jpg",
