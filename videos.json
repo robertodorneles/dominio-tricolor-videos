@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-28T21:00:38.326567+00:00",
+  "updated_at": "2026-08-28T22:00:35.437424+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA O QUE WALLACE FEZ COM O INTERNACIONAL | UMA ATUAÇÃO IMPECÁVEL!",
+      "videoId": "1lAbMNaV1Xk",
+      "url": "https://www.youtube.com/watch?v=1lAbMNaV1Xk",
+      "thumbnail": "https://i.ytimg.com/vi/1lAbMNaV1Xk/mqdefault.jpg",
+      "published": "2026-08-28T21:35:10Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 O REAL MOTIVO DA DECISÃO | “CHAMARAM PRA SI” | DETALHES DA REUNIÃO",
@@ -11,20 +19,12 @@
       "published": "2026-08-28T19:09:32Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 💣 ATRASO EM SALÁRIOS CONFIRMADOS | BARCELLOS SAIU DO SÉRIO | VEJA AS FALAS",
-      "videoId": "yWoeCxbpnVk",
-      "url": "https://www.youtube.com/watch?v=yWoeCxbpnVk",
-      "thumbnail": "https://i.ytimg.com/vi/yWoeCxbpnVk/mqdefault.jpg",
-      "published": "2026-08-28T07:19:39Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "A origem da CHOCUTINA.",
-      "videoId": "pCm80ZPhlfw",
-      "url": "https://www.youtube.com/watch?v=pCm80ZPhlfw",
-      "thumbnail": "https://i.ytimg.com/vi/pCm80ZPhlfw/mqdefault.jpg",
-      "published": "2026-08-28T20:56:51Z"
+      "title": "O Grêmio tem pontas que não resolvem",
+      "videoId": "vZaqjvNsw_c",
+      "url": "https://www.youtube.com/watch?v=vZaqjvNsw_c",
+      "thumbnail": "https://i.ytimg.com/vi/vZaqjvNsw_c/mqdefault.jpg",
+      "published": "2026-08-28T21:36:05Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Interesse da Turquia em Gabriel Mec do Grêmio 🇪🇪",
+      "videoId": "Wj4KunI97_k",
+      "url": "https://www.youtube.com/watch?v=Wj4KunI97_k",
+      "thumbnail": "https://i.ytimg.com/vi/Wj4KunI97_k/mqdefault.jpg",
+      "published": "2026-08-28T22:00:08Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #664: Proposta por Mec? | Jogador fora | Mudanças no time | Arthur e mais",
       "videoId": "BZrXYLMSVe8",
       "url": "https://www.youtube.com/watch?v=BZrXYLMSVe8",
       "thumbnail": "https://i.ytimg.com/vi/BZrXYLMSVe8/mqdefault.jpg",
       "published": "2026-08-28T20:37:35Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA",
-      "videoId": "v5j-YmCV3gs",
-      "url": "https://www.youtube.com/watch?v=v5j-YmCV3gs",
-      "thumbnail": "https://i.ytimg.com/vi/v5j-YmCV3gs/mqdefault_live.jpg",
-      "published": "2026-08-28T15:01:56Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "O TREINADOR QUE BOICOTOU PETKOVIC NO REAL MADRID TINHA RAZÃO? | Cortes do Duda",
+      "videoId": "QL0KmT86_DQ",
+      "url": "https://www.youtube.com/watch?v=QL0KmT86_DQ",
+      "thumbnail": "https://i.ytimg.com/vi/QL0KmT86_DQ/mqdefault.jpg",
+      "published": "2026-08-28T21:00:39Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "QUAL FOI O MELHOR FLAMENGO? #dudagarbi #umassadopara",
       "videoId": "qWZaXXj8FSM",
       "url": "https://www.youtube.com/watch?v=qWZaXXj8FSM",
       "thumbnail": "https://i.ytimg.com/vi/qWZaXXj8FSM/mqdefault.jpg",
       "published": "2026-08-28T21:00:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 28.08 | AO VIVO - RICA, DUDA GARBI e LISCA",
-      "videoId": "KxEgnbn6qsE",
-      "url": "https://www.youtube.com/watch?v=KxEgnbn6qsE",
-      "thumbnail": "https://i.ytimg.com/vi/KxEgnbn6qsE/mqdefault.jpg",
-      "published": "2026-08-28T13:15:30Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições 2026: começa a propaganda de rádio e TV; saiba as estratégias no RS | Conversa de Gabinete",
-      "videoId": "xKtsNIsO5F4",
-      "url": "https://www.youtube.com/watch?v=xKtsNIsO5F4",
-      "thumbnail": "https://i.ytimg.com/vi/xKtsNIsO5F4/mqdefault.jpg",
-      "published": "2026-08-28T20:24:21Z"
+      "title": "LULA E JULIANA BRIZOLA: qual será a PRESENÇA do PRESIDENTE na CAMPANHA ao RS? | Conversa de Gabinete",
+      "videoId": "2z9eOoYr7e0",
+      "url": "https://www.youtube.com/watch?v=2z9eOoYr7e0",
+      "thumbnail": "https://i.ytimg.com/vi/2z9eOoYr7e0/mqdefault.jpg",
+      "published": "2026-08-28T22:00:19Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Menino morre devido a queda de árvore, uso de IA no TJ, trânsito e mais | Gaúcha+ | 28/08/2026",
-      "videoId": "vf_xT7l21ts",
-      "url": "https://www.youtube.com/watch?v=vf_xT7l21ts",
-      "thumbnail": "https://i.ytimg.com/vi/vf_xT7l21ts/mqdefault_live.jpg",
-      "published": "2026-08-28T19:36:14Z"
+      "title": "Sem cimento e sem data: as taipas centenárias dos tropeiros gaúchos",
+      "videoId": "GGfN45RBdpo",
+      "url": "https://www.youtube.com/watch?v=GGfN45RBdpo",
+      "thumbnail": "https://i.ytimg.com/vi/GGfN45RBdpo/mqdefault.jpg",
+      "published": "2026-08-28T21:52:29Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 28/08/2026",
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 28/08/2026",
       "videoId": "H2KOBkZbNC0",
       "url": "https://www.youtube.com/watch?v=H2KOBkZbNC0",
       "thumbnail": "https://i.ytimg.com/vi/H2KOBkZbNC0/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "O EMPATE NO GRENAL E A PROJEÇÃO DO GRÊMIO PARA O FINAL DE SEMANA | RODADA IMPORTANTE | ESPLANADA",
-      "videoId": "YZp9Tw9AmHQ",
-      "url": "https://www.youtube.com/watch?v=YZp9Tw9AmHQ",
-      "thumbnail": "https://i.ytimg.com/vi/YZp9Tw9AmHQ/mqdefault.jpg",
-      "published": "2026-08-28T19:46:17Z"
+      "title": "EMPATE NO GRENAL | GRÊMIO VAI POUPAR NO FINAL DE SEMANA? | NOITES DE GRÊMIO #137 - 27/08",
+      "videoId": "I8wVUIarTEs",
+      "url": "https://www.youtube.com/watch?v=I8wVUIarTEs",
+      "thumbnail": "https://i.ytimg.com/vi/I8wVUIarTEs/mqdefault_live.jpg",
+      "published": "2026-08-28T21:31:47Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #144 — EMPATE BOM PARA O GRÊMIO? | CONFRONTOS IMPORTANTES NA ARENA",
-      "videoId": "sWbqTQJB0DU",
-      "url": "https://www.youtube.com/watch?v=sWbqTQJB0DU",
-      "thumbnail": "https://i.ytimg.com/vi/sWbqTQJB0DU/mqdefault.jpg",
-      "published": "2026-08-28T15:03:58Z"
+      "title": "GRÊMIO TRAZ DECISÃO PARA A ARENA | VAMOS POUPAR CONTRA A CHAPE? | RODADA IMPORTANTE | IMORTAL FC",
+      "videoId": "N7McTRjbss4",
+      "url": "https://www.youtube.com/watch?v=N7McTRjbss4",
+      "thumbnail": "https://i.ytimg.com/vi/N7McTRjbss4/mqdefault_live.jpg",
+      "published": "2026-08-28T21:02:25Z"
     }
   ]
 }
