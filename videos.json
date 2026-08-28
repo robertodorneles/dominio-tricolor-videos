@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T14:00:52.474783+00:00",
+  "updated_at": "2026-08-28T15:00:49.961535+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "O INTER FOI PREJUDICADO NO GRE-NAL?",
+      "videoId": "ujfHrdV0CzM",
+      "url": "https://www.youtube.com/watch?v=ujfHrdV0CzM",
+      "thumbnail": "https://i.ytimg.com/vi/ujfHrdV0CzM/mqdefault.jpg",
+      "published": "2026-08-28T14:50:22Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRENAL EMPATADO | PARTICIPAÇÃO: MARTINA OLIVEIRA! - BOLEIRAGi AO VIVO - #055",
       "videoId": "0axsZTWwI5o",
       "url": "https://www.youtube.com/watch?v=0axsZTWwI5o",
       "thumbnail": "https://i.ytimg.com/vi/0axsZTWwI5o/mqdefault_live.jpg",
       "published": "2026-08-28T13:50:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "LADO VERMELHO JÁ COMEÇOU COM AS NARRATIVAS 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 28/08 - #622",
-      "videoId": "FmUftUeQs9w",
-      "url": "https://www.youtube.com/watch?v=FmUftUeQs9w",
-      "thumbnail": "https://i.ytimg.com/vi/FmUftUeQs9w/mqdefault.jpg",
-      "published": "2026-08-28T13:42:04Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PÓS-JOGO: GRÊMIO X CHAPECOENSE",
+      "videoId": "dew0t0l-EXM",
+      "url": "https://www.youtube.com/watch?v=dew0t0l-EXM",
+      "thumbnail": "https://i.ytimg.com/vi/dew0t0l-EXM/mqdefault_live.jpg",
+      "published": "2026-08-28T14:55:55Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Tudo sobre o pós-jogo do Grenal: Coletivas, leituras e muito mais",
       "videoId": "TFrhSf6GMZs",
       "url": "https://www.youtube.com/watch?v=TFrhSf6GMZs",
       "thumbnail": "https://i.ytimg.com/vi/TFrhSf6GMZs/mqdefault.jpg",
       "published": "2026-08-28T12:20:41Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "INTER 0 X 0 GRÊMIO: TUDO IGUAL NO PRIMEIRO GRENAL",
-      "videoId": "RQDWRcMIuF0",
-      "url": "https://www.youtube.com/watch?v=RQDWRcMIuF0",
-      "thumbnail": "https://i.ytimg.com/vi/RQDWRcMIuF0/mqdefault.jpg",
-      "published": "2026-08-28T02:46:40Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Repercussão do Gre-Nal | A verdade sobre o atraso salarial | Vem aí novo transfer ban",
+      "videoId": "p9YAoJRH4B8",
+      "url": "https://www.youtube.com/watch?v=p9YAoJRH4B8",
+      "thumbnail": "https://i.ytimg.com/vi/p9YAoJRH4B8/mqdefault.jpg",
+      "published": "2026-08-28T14:52:19Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Gre-Nal | Cebolinha no mercado | Valor cobrado por Suárez | Kike nos EUA",
       "videoId": "N2hr1pRvP14",
       "url": "https://www.youtube.com/watch?v=N2hr1pRvP14",
@@ -91,12 +99,12 @@
       "published": "2026-08-27T13:21:02Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Novo time de Monsalve e valor da cláusula. Arthur negocia com clube da Série A | Pagamento adiantado",
-      "videoId": "qxOD1qWyDUg",
-      "url": "https://www.youtube.com/watch?v=qxOD1qWyDUg",
-      "thumbnail": "https://i.ytimg.com/vi/qxOD1qWyDUg/mqdefault.jpg",
-      "published": "2026-08-26T13:14:07Z"
+      "channel": "Careca de Saber TV",
+      "title": "FATOS NOVOS! NARRATIVA DO INTER⚠️ #gremio #futebol #futebolalegriadogremio #GreNal",
+      "videoId": "PfqlCExGJTc",
+      "url": "https://www.youtube.com/watch?v=PfqlCExGJTc",
+      "thumbnail": "https://i.ytimg.com/vi/PfqlCExGJTc/mqdefault.jpg",
+      "published": "2026-08-28T14:14:54Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=wDdVhJ1y_mI",
       "thumbnail": "https://i.ytimg.com/vi/wDdVhJ1y_mI/mqdefault.jpg",
       "published": "2026-08-28T11:00:08Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "INTERNACIONAL  X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
-      "videoId": "HXuZslHFrdg",
-      "url": "https://www.youtube.com/watch?v=HXuZslHFrdg",
-      "thumbnail": "https://i.ytimg.com/vi/HXuZslHFrdg/mqdefault.jpg",
-      "published": "2026-08-28T02:38:56Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Criança morre após queda de árvore, alerta de tempestade no RS e mais | Timeline | 28/08/2026",
-      "videoId": "KudGV7Udd5g",
-      "url": "https://www.youtube.com/watch?v=KudGV7Udd5g",
-      "thumbnail": "https://i.ytimg.com/vi/KudGV7Udd5g/mqdefault_live.jpg",
-      "published": "2026-08-28T14:00:12Z"
+      "title": "\"A MÁQUINA NÃO DÁ COLO\": psicanalista Gutfreind fala sobre telas, infância e SOLIDÃO | Paralelas",
+      "videoId": "Ur9R9Zv8gWI",
+      "url": "https://www.youtube.com/watch?v=Ur9R9Zv8gWI",
+      "thumbnail": "https://i.ytimg.com/vi/Ur9R9Zv8gWI/mqdefault.jpg",
+      "published": "2026-08-28T15:00:24Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições RS: candidatos discutem propostas para o agronegócio | Grupo RBS",
-      "videoId": "Jr-kTGZixWw",
-      "url": "https://www.youtube.com/watch?v=Jr-kTGZixWw",
-      "thumbnail": "https://i.ytimg.com/vi/Jr-kTGZixWw/mqdefault_live.jpg",
-      "published": "2026-08-28T12:55:01Z"
+      "title": "Como o rock sobrevive em Porto Alegre? Conheça os refúgios da cena | Zero Hora",
+      "videoId": "4a43ZyOxrBM",
+      "url": "https://www.youtube.com/watch?v=4a43ZyOxrBM",
+      "thumbnail": "https://i.ytimg.com/vi/4a43ZyOxrBM/mqdefault.jpg",
+      "published": "2026-08-28T14:34:06Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "GRE-NAL 453: O que ninguém vai te dizer sobre o jogo no Beira-Rio",
+      "videoId": "HhMf3sb-xdc",
+      "url": "https://www.youtube.com/watch?v=HhMf3sb-xdc",
+      "thumbnail": "https://i.ytimg.com/vi/HhMf3sb-xdc/mqdefault.jpg",
+      "published": "2026-08-28T14:57:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=PY4zxodYrdA",
       "thumbnail": "https://i.ytimg.com/vi/PY4zxodYrdA/mqdefault.jpg",
       "published": "2026-08-28T12:15:01Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: TUDO SOBRE O GRE-NAL DA COPA DO BRASIL",
-      "videoId": "AWsiPYD9VY0",
-      "url": "https://www.youtube.com/watch?v=AWsiPYD9VY0",
-      "thumbnail": "https://i.ytimg.com/vi/AWsiPYD9VY0/mqdefault_live.jpg",
-      "published": "2026-08-28T03:20:09Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #10 — TUDO IGUAL NO GRENAL 453 | DOIS JOGOS DECISIVOS NA ARENA",
-      "videoId": "cjZgj0fDVN8",
-      "url": "https://www.youtube.com/watch?v=cjZgj0fDVN8",
-      "thumbnail": "https://i.ytimg.com/vi/cjZgj0fDVN8/mqdefault.jpg",
-      "published": "2026-08-28T12:44:54Z"
+      "title": "PLANTÃO IMORTAL - SEMANA GRENAL | GRÊMIO DECIDE TUDO NA ARENA | VITÓRIA É INEGOCIÁVEL DOMINGO",
+      "videoId": "eKE3o06gJIo",
+      "url": "https://www.youtube.com/watch?v=eKE3o06gJIo",
+      "thumbnail": "https://i.ytimg.com/vi/eKE3o06gJIo/mqdefault_live.jpg",
+      "published": "2026-08-28T14:41:39Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "REPERCUSSÕES DO EMPATE DO GRÊMIO NO GRENAL 453 | COMO É BOM SER DO GRÊMIO #30",
-      "videoId": "2DMztWRm36s",
-      "url": "https://www.youtube.com/watch?v=2DMztWRm36s",
-      "thumbnail": "https://i.ytimg.com/vi/2DMztWRm36s/mqdefault_live.jpg",
-      "published": "2026-08-28T12:35:39Z"
+      "title": "TIMELINE IMORTAL #144 — EMPATE BOM PARA O GRÊMIO? | CONFRONTOS IMPORTANTES NA ARENA",
+      "videoId": "sWbqTQJB0DU",
+      "url": "https://www.youtube.com/watch?v=sWbqTQJB0DU",
+      "thumbnail": "https://i.ytimg.com/vi/sWbqTQJB0DU/mqdefault_live.jpg",
+      "published": "2026-08-28T14:20:36Z"
     }
   ]
 }
