@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T12:00:41.025854+00:00",
+  "updated_at": "2026-08-28T13:00:32.650119+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "LADO VERMELHO JÁ COMEÇOU COM AS NARRATIVAS 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 28/08 - #622",
+      "videoId": "FmUftUeQs9w",
+      "url": "https://www.youtube.com/watch?v=FmUftUeQs9w",
+      "thumbnail": "https://i.ytimg.com/vi/FmUftUeQs9w/mqdefault_live.jpg",
+      "published": "2026-08-28T12:03:15Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ARBITRAGEM AJUDOU O GRÊMIO? #CORTESDOBOMDIA",
       "videoId": "qROEgxbsy-I",
       "url": "https://www.youtube.com/watch?v=qROEgxbsy-I",
       "thumbnail": "https://i.ytimg.com/vi/qROEgxbsy-I/mqdefault.jpg",
       "published": "2026-08-28T11:59:19Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO EMPATA E LEVA DECISÃO PARA ARENA🌅🔵 BOM DIA GRÊMIO #110",
-      "videoId": "Y07nk3C7-ZE",
-      "url": "https://www.youtube.com/watch?v=Y07nk3C7-ZE",
-      "thumbnail": "https://i.ytimg.com/vi/Y07nk3C7-ZE/mqdefault.jpg",
-      "published": "2026-08-28T11:57:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Tudo sobre o pós-jogo do Grenal: Coletivas, leituras e muito mais",
+      "videoId": "TFrhSf6GMZs",
+      "url": "https://www.youtube.com/watch?v=TFrhSf6GMZs",
+      "thumbnail": "https://i.ytimg.com/vi/TFrhSf6GMZs/mqdefault.jpg",
+      "published": "2026-08-28T12:20:41Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "INTER 0 X 0 GRÊMIO: TUDO IGUAL NO PRIMEIRO GRENAL",
       "videoId": "RQDWRcMIuF0",
       "url": "https://www.youtube.com/watch?v=RQDWRcMIuF0",
@@ -59,20 +67,12 @@
       "published": "2026-08-28T02:46:40Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Resultado aceitável, mas fica a sensação de que o Grêmio poderia ter vencido",
-      "videoId": "dnTV0Ggs-yQ",
-      "url": "https://www.youtube.com/watch?v=dnTV0Ggs-yQ",
-      "thumbnail": "https://i.ytimg.com/vi/dnTV0Ggs-yQ/mqdefault.jpg",
-      "published": "2026-08-28T02:42:35Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #005",
       "videoId": "0-KcpJ55RW4",
       "url": "https://www.youtube.com/watch?v=0-KcpJ55RW4",
       "thumbnail": "https://i.ytimg.com/vi/0-KcpJ55RW4/mqdefault_live.jpg",
-      "published": "2026-08-28T11:37:33Z"
+      "published": "2026-08-28T12:41:03Z"
     },
     {
       "channel": "Canal do Farid",
@@ -136,7 +136,7 @@
       "videoId": "KxEgnbn6qsE",
       "url": "https://www.youtube.com/watch?v=KxEgnbn6qsE",
       "thumbnail": "https://i.ytimg.com/vi/KxEgnbn6qsE/mqdefault_live.jpg",
-      "published": "2026-08-28T11:10:58Z"
+      "published": "2026-08-28T12:01:56Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Eleições RS: candidatos discutem propostas para o agronegócio | Grupo RBS",
+      "videoId": "Jr-kTGZixWw",
+      "url": "https://www.youtube.com/watch?v=Jr-kTGZixWw",
+      "thumbnail": "https://i.ytimg.com/vi/Jr-kTGZixWw/mqdefault_live.jpg",
+      "published": "2026-08-28T12:55:01Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Direto da Expointer: últimas notícias, trânsito, entrevistas e mais | Gaúcha Atualidade | 28/08/2026",
       "videoId": "1Tc4qHlzSas",
       "url": "https://www.youtube.com/watch?v=1Tc4qHlzSas",
@@ -171,20 +179,12 @@
       "published": "2026-08-28T10:57:41Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
-      "videoId": "c74rlwbm1rE",
-      "url": "https://www.youtube.com/watch?v=c74rlwbm1rE",
-      "thumbnail": "https://i.ytimg.com/vi/c74rlwbm1rE/mqdefault.jpg",
-      "published": "2026-08-28T08:35:08Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: Gre-Nal de doer + crise no Inter + Luís Castro bem ou mal?",
       "videoId": "PY4zxodYrdA",
       "url": "https://www.youtube.com/watch?v=PY4zxodYrdA",
-      "thumbnail": "https://i.ytimg.com/vi/PY4zxodYrdA/mqdefault_live.jpg",
-      "published": "2026-08-28T11:02:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/PY4zxodYrdA/mqdefault.jpg",
+      "published": "2026-08-28T12:15:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "CAFÉ COM A IMORTAL #10 — TUDO IGUAL NO GRENAL 453 | DOIS JOGOS DECISIVOS NA ARENA",
       "videoId": "cjZgj0fDVN8",
       "url": "https://www.youtube.com/watch?v=cjZgj0fDVN8",
-      "thumbnail": "https://i.ytimg.com/vi/cjZgj0fDVN8/mqdefault_live.jpg",
-      "published": "2026-08-28T09:31:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/cjZgj0fDVN8/mqdefault.jpg",
+      "published": "2026-08-28T12:44:54Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #144 — EMPATE BOM PARA O GRÊMIO? | CONFRONTOS IMPORTANTES NA ARENA",
-      "videoId": "sWbqTQJB0DU",
-      "url": "https://www.youtube.com/watch?v=sWbqTQJB0DU",
-      "thumbnail": "https://i.ytimg.com/vi/sWbqTQJB0DU/mqdefault_live.jpg",
-      "published": "2026-08-28T04:12:35Z"
+      "title": "REPERCUSSÕES DO EMPATE DO GRÊMIO NO GRENAL 453 | COMO É BOM SER DO GRÊMIO #30",
+      "videoId": "2DMztWRm36s",
+      "url": "https://www.youtube.com/watch?v=2DMztWRm36s",
+      "thumbnail": "https://i.ytimg.com/vi/2DMztWRm36s/mqdefault_live.jpg",
+      "published": "2026-08-28T12:35:39Z"
     }
   ]
 }
