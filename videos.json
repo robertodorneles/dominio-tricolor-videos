@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T09:00:48.808058+00:00",
+  "updated_at": "2026-08-28T10:00:32.323863+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO EMPATA E LEVA DECISÃO PARA ARENA🌅🔵 BOM DIA GRÊMIO #110",
+      "videoId": "Y07nk3C7-ZE",
+      "url": "https://www.youtube.com/watch?v=Y07nk3C7-ZE",
+      "thumbnail": "https://i.ytimg.com/vi/Y07nk3C7-ZE/mqdefault_live.jpg",
+      "published": "2026-08-28T09:27:17Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "AO VIVO 🔵 JORNADA DO BAGÉ 🔵 INTERNACIONAL X GRÊMIO - [DIRETO DO BEIRA-RIO]",
       "videoId": "FLmt7wpq8Tw",
       "url": "https://www.youtube.com/watch?v=FLmt7wpq8Tw",
       "thumbnail": "https://i.ytimg.com/vi/FLmt7wpq8Tw/mqdefault.jpg",
       "published": "2026-08-28T03:35:23Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PERDEU NO PREPARO FISICO! #CORTESDAJORNADA",
-      "videoId": "6GyiWYM52R8",
-      "url": "https://www.youtube.com/watch?v=6GyiWYM52R8",
-      "thumbnail": "https://i.ytimg.com/vi/6GyiWYM52R8/mqdefault.jpg",
-      "published": "2026-08-28T02:12:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #10 — TUDO IGUAL NO GRENAL 453 | DOIS JOGOS DECISIVOS NA ARENA",
+      "videoId": "cjZgj0fDVN8",
+      "url": "https://www.youtube.com/watch?v=cjZgj0fDVN8",
+      "thumbnail": "https://i.ytimg.com/vi/cjZgj0fDVN8/mqdefault_live.jpg",
+      "published": "2026-08-28T09:31:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #144 — EMPATE BOM PARA O GRÊMIO? | CONFRONTOS IMPORTANTES NA ARENA",
       "videoId": "sWbqTQJB0DU",
       "url": "https://www.youtube.com/watch?v=sWbqTQJB0DU",
       "thumbnail": "https://i.ytimg.com/vi/sWbqTQJB0DU/mqdefault_live.jpg",
       "published": "2026-08-28T04:12:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "REPERCUSSÕES DO EMPATE DO GRÊMIO NO GRENAL 453 | COMO É BOM SER DO GRÊMIO #30",
-      "videoId": "2DMztWRm36s",
-      "url": "https://www.youtube.com/watch?v=2DMztWRm36s",
-      "thumbnail": "https://i.ytimg.com/vi/2DMztWRm36s/mqdefault_live.jpg",
-      "published": "2026-08-28T04:01:08Z"
     }
   ]
 }
