@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:00:33.239878+00:00",
+  "updated_at": "2026-08-29T13:00:37.461129+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO DEVE PRESERVAR CONTRA A CHAPECOENSE? | DOIS TITULARES FORA | PLANTÃO IMORTAL",
+      "videoId": "zCeAVFUkvDw",
+      "url": "https://www.youtube.com/watch?v=zCeAVFUkvDw",
+      "thumbnail": "https://i.ytimg.com/vi/zCeAVFUkvDw/mqdefault_live.jpg",
+      "published": "2026-08-29T12:05:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "EMPATE NO GRENAL | GRÊMIO VAI POUPAR NO FINAL DE SEMANA? | NOITES DE GRÊMIO #137 - 27/08",
       "videoId": "I8wVUIarTEs",
       "url": "https://www.youtube.com/watch?v=I8wVUIarTEs",
       "thumbnail": "https://i.ytimg.com/vi/I8wVUIarTEs/mqdefault.jpg",
       "published": "2026-08-29T01:49:29Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO DEVE PRESERVAR CONTRA A CHAPECOENSE? | DOIS TITULARES FORA | PLANTÃO IMORTAL",
-      "videoId": "zCeAVFUkvDw",
-      "url": "https://www.youtube.com/watch?v=zCeAVFUkvDw",
-      "thumbnail": "https://i.ytimg.com/vi/zCeAVFUkvDw/mqdefault_live.jpg",
-      "published": "2026-08-28T23:16:42Z"
     }
   ]
 }
