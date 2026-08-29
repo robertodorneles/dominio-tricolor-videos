@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-29T22:00:33.607762+00:00",
+  "updated_at": "2026-08-29T23:00:40.363205+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter:  PEZZOLANO IDENTIFICOU OS CULPADOS | VEJA TODAS AS COBRANÇAS! | ADMITIU ERRO",
+      "videoId": "WAaIKW8dUug",
+      "url": "https://www.youtube.com/watch?v=WAaIKW8dUug",
+      "thumbnail": "https://i.ytimg.com/vi/WAaIKW8dUug/mqdefault.jpg",
+      "published": "2026-08-29T22:21:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA A ATUAÇÃO DE CARLOS VINÍCIUS NO GRE-NAL | O PIOR MOMENTO PARA RENOVAR CONTRATO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=yh0MrbBSyUw",
       "thumbnail": "https://i.ytimg.com/vi/yh0MrbBSyUw/mqdefault.jpg",
       "published": "2026-08-29T20:00:18Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 PROBLEMA É MAIOR AINDA | CORRERIA NO BASTIDOR | TORCIDA PRO CRUZEIRO!",
-      "videoId": "uDCJEfw7Lww",
-      "url": "https://www.youtube.com/watch?v=uDCJEfw7Lww",
-      "thumbnail": "https://i.ytimg.com/vi/uDCJEfw7Lww/mqdefault.jpg",
-      "published": "2026-08-29T07:14:21Z"
     },
     {
       "channel": "Bage TV",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MEC FORA! POLÊMICA? | GRÊMIO RESERVA? | MONSALVE SAIU DE GRAÇA?",
+      "videoId": "kH7LfpEvbk0",
+      "url": "https://www.youtube.com/watch?v=kH7LfpEvbk0",
+      "thumbnail": "https://i.ytimg.com/vi/kH7LfpEvbk0/mqdefault.jpg",
+      "published": "2026-08-29T22:20:34Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "A HISTÓRIA DO WALLACE! #gremio #futebol",
       "videoId": "HDCRKxuGTDI",
       "url": "https://www.youtube.com/watch?v=HDCRKxuGTDI",
@@ -107,12 +115,12 @@
       "published": "2026-08-29T20:00:15Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "SALÁRIO E CONTRATO DO ARTHUR NO SANTOS. #gremio #futebol",
-      "videoId": "UYZYcw5YkR8",
-      "url": "https://www.youtube.com/watch?v=UYZYcw5YkR8",
-      "thumbnail": "https://i.ytimg.com/vi/UYZYcw5YkR8/mqdefault.jpg",
-      "published": "2026-08-29T16:00:22Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "GABRIEL MEC SAINDO? PORTO? FENERBAHÇE? | AS DATAS DAS JANELAS | CARLOS VINICIUS E MAIS",
+      "videoId": "nitXS3mB964",
+      "url": "https://www.youtube.com/watch?v=nitXS3mB964",
+      "thumbnail": "https://i.ytimg.com/vi/nitXS3mB964/mqdefault.jpg",
+      "published": "2026-08-29T22:28:29Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=AEISWO3xRKI",
       "thumbnail": "https://i.ytimg.com/vi/AEISWO3xRKI/mqdefault.jpg",
       "published": "2026-08-28T16:57:51Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 30/08/26 #31",
-      "videoId": "giF5u3i7yt4",
-      "url": "https://www.youtube.com/watch?v=giF5u3i7yt4",
-      "thumbnail": "https://i.ytimg.com/vi/giF5u3i7yt4/mqdefault_live.jpg",
-      "published": "2026-08-28T10:59:18Z"
     },
     {
       "channel": "Duda Garbi",
