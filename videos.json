@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-29T20:00:34.168778+00:00",
+  "updated_at": "2026-08-29T21:00:37.611957+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: VEJA A ATUAÇÃO DE CARLOS VINÍCIUS NO GRE-NAL | O PIOR MOMENTO PARA RENOVAR CONTRATO",
+      "videoId": "yh0MrbBSyUw",
+      "url": "https://www.youtube.com/watch?v=yh0MrbBSyUw",
+      "thumbnail": "https://i.ytimg.com/vi/yh0MrbBSyUw/mqdefault.jpg",
+      "published": "2026-08-29T20:00:18Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 PROBLEMA É MAIOR AINDA | CORRERIA NO BASTIDOR | TORCIDA PRO CRUZEIRO!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=uDCJEfw7Lww",
       "thumbnail": "https://i.ytimg.com/vi/uDCJEfw7Lww/mqdefault.jpg",
       "published": "2026-08-29T07:14:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CAITO FORA E ALERTA PARA O GRE-NAL; FENERBAHÇE QUER GABRIEL MEC",
-      "videoId": "_CQp53N3IDo",
-      "url": "https://www.youtube.com/watch?v=_CQp53N3IDo",
-      "thumbnail": "https://i.ytimg.com/vi/_CQp53N3IDo/mqdefault.jpg",
-      "published": "2026-08-29T05:00:35Z"
     },
     {
       "channel": "Bage TV",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨MAIS R$ 50 MILHÕES | ITÁLIA TIRA REFORÇO DO GRÊMIO | O FUTURO DE MEC",
+      "videoId": "BWRTeNRLZVM",
+      "url": "https://www.youtube.com/watch?v=BWRTeNRLZVM",
+      "thumbnail": "https://i.ytimg.com/vi/BWRTeNRLZVM/mqdefault.jpg",
+      "published": "2026-08-29T20:16:31Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨UM REFORÇO CARO PRO GRÊMIO | LUÍS CASTRO GANHOU SOBREVIDA? | PREPARAÇÃO FÍSICA PREOCUPA",
       "videoId": "J5d1jrmoFHA",
       "url": "https://www.youtube.com/watch?v=J5d1jrmoFHA",
       "thumbnail": "https://i.ytimg.com/vi/J5d1jrmoFHA/mqdefault.jpg",
       "published": "2026-08-28T17:26:40Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨NEGÓCIO DE 20 MILHÕES DE EUROS | A DÍVIDA COM LUIS SUÁREZ | ALEX CABEÇÃO, MEC...",
-      "videoId": "OK5XgMdL-Rc",
-      "url": "https://www.youtube.com/watch?v=OK5XgMdL-Rc",
-      "thumbnail": "https://i.ytimg.com/vi/OK5XgMdL-Rc/mqdefault.jpg",
-      "published": "2026-08-27T16:57:23Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
+      "videoId": "8AXf7TOJwQc",
+      "url": "https://www.youtube.com/watch?v=8AXf7TOJwQc",
+      "thumbnail": "https://i.ytimg.com/vi/8AXf7TOJwQc/mqdefault_live.jpg",
+      "published": "2026-08-29T20:15:13Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL TIME COM MUDANÇAS | SITUAÇÃO NA TABELA | PLANTÃO IMORTAL",
       "videoId": "iTQUfPRSitM",
       "url": "https://www.youtube.com/watch?v=iTQUfPRSitM",
       "thumbnail": "https://i.ytimg.com/vi/iTQUfPRSitM/mqdefault_live.jpg",
       "published": "2026-08-29T16:14:30Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO DEVE PRESERVAR CONTRA A CHAPECOENSE? | DOIS TITULARES FORA | PLANTÃO IMORTAL",
-      "videoId": "zCeAVFUkvDw",
-      "url": "https://www.youtube.com/watch?v=zCeAVFUkvDw",
-      "thumbnail": "https://i.ytimg.com/vi/zCeAVFUkvDw/mqdefault.jpg",
-      "published": "2026-08-29T15:50:30Z"
     }
   ]
 }
