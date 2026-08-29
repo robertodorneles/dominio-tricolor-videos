@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-29T06:17:09.432343+00:00",
+  "updated_at": "2026-08-29T09:00:43.000959+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 PROBLEMA É MAIOR AINDA | CORRERIA NO BASTIDOR | TORCIDA PRO CRUZEIRO!",
+      "videoId": "uDCJEfw7Lww",
+      "url": "https://www.youtube.com/watch?v=uDCJEfw7Lww",
+      "thumbnail": "https://i.ytimg.com/vi/uDCJEfw7Lww/mqdefault.jpg",
+      "published": "2026-08-29T07:14:21Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CAITO FORA E ALERTA PARA O GRE-NAL; FENERBAHÇE QUER GABRIEL MEC",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=_CQp53N3IDo",
       "thumbnail": "https://i.ytimg.com/vi/_CQp53N3IDo/mqdefault.jpg",
       "published": "2026-08-29T05:00:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: VEJA O QUE WALLACE FEZ COM O INTERNACIONAL | UMA ATUAÇÃO IMPECÁVEL!",
-      "videoId": "1lAbMNaV1Xk",
-      "url": "https://www.youtube.com/watch?v=1lAbMNaV1Xk",
-      "thumbnail": "https://i.ytimg.com/vi/1lAbMNaV1Xk/mqdefault.jpg",
-      "published": "2026-08-28T21:35:10Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Menino morre devido a queda de árvore, uso de IA no TJ, trânsito e mais | Gaúcha+ | 28/08/2026",
+      "videoId": "vf_xT7l21ts",
+      "url": "https://www.youtube.com/watch?v=vf_xT7l21ts",
+      "thumbnail": "https://i.ytimg.com/vi/vf_xT7l21ts/mqdefault.jpg",
+      "published": "2026-08-29T07:42:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A BATALHA POR ELEITORES: COMEÇA A PROPAGANDA ELEITORAL GRATUITA | Conversa de Gabinete",
       "videoId": "BTwQt-tcnCQ",
       "url": "https://www.youtube.com/watch?v=BTwQt-tcnCQ",
       "thumbnail": "https://i.ytimg.com/vi/BTwQt-tcnCQ/mqdefault.jpg",
       "published": "2026-08-29T00:00:22Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "\"DEBANDADA\": MDB sinaliza que não apoiará Brizola em eventual 2º turno | Conversa de Gabinete",
-      "videoId": "gpqMEiAt3eM",
-      "url": "https://www.youtube.com/watch?v=gpqMEiAt3eM",
-      "thumbnail": "https://i.ytimg.com/vi/gpqMEiAt3eM/mqdefault.jpg",
-      "published": "2026-08-29T00:00:15Z"
     },
     {
       "channel": "Jeremias Wernek",
