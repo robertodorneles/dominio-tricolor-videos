@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:00:36.939440+00:00",
+  "updated_at": "2026-08-30T21:49:38.512672+00:00",
   "total": 30,
   "videos": [
     {
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | 30/08 #14",
       "videoId": "xJYfjV1wPLw",
       "url": "https://www.youtube.com/watch?v=xJYfjV1wPLw",
-      "thumbnail": "https://i.ytimg.com/vi/xJYfjV1wPLw/mqdefault_live.jpg",
-      "published": "2026-08-30T20:52:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/xJYfjV1wPLw/mqdefault.jpg",
+      "published": "2026-08-30T21:09:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | JORNADA ESPORTIVA | GRÊMIO 0 X 0 CHAPECOENSE | 30/08/2026 | BRASILEIRÃO | RÁDIO GRENAL",
+      "title": "\"NÃO GOSTARIA QUE O INTER CAÍSSE\" | ENTREVISTA EXCLUSIVA COM FELIPÃO - COORDENADOR TÉCNICO DO GRÊMIO",
+      "videoId": "EpKmwGw0KKY",
+      "url": "https://www.youtube.com/watch?v=EpKmwGw0KKY",
+      "thumbnail": "https://i.ytimg.com/vi/EpKmwGw0KKY/mqdefault.jpg",
+      "published": "2026-08-30T21:14:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO | JORNADA ESPORTIVA | GRÊMIO 0 X 1 CHAPECOENSE | 30/08/2026 | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "3l8XDC7vdS0",
       "url": "https://www.youtube.com/watch?v=3l8XDC7vdS0",
       "thumbnail": "https://i.ytimg.com/vi/3l8XDC7vdS0/mqdefault_live.jpg",
       "published": "2026-08-30T19:06:08Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "28/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "H2KOBkZbNC0",
-      "url": "https://www.youtube.com/watch?v=H2KOBkZbNC0",
-      "thumbnail": "https://i.ytimg.com/vi/H2KOBkZbNC0/mqdefault.jpg",
-      "published": "2026-08-28T23:31:44Z"
     },
     {
       "channel": "Radio Imortal",
@@ -236,7 +236,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
+      "title": "AO VIVO | GRÊMIO (0) X (1) CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
       "videoId": "8AXf7TOJwQc",
       "url": "https://www.youtube.com/watch?v=8AXf7TOJwQc",
       "thumbnail": "https://i.ytimg.com/vi/8AXf7TOJwQc/mqdefault_live.jpg",
