@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:00:38.877626+00:00",
+  "updated_at": "2026-08-30T21:00:36.939440+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FORÇA MÁXIMA! MAS????? GRÊMIO X CHAPECOENSE.#gremio #futebol",
+      "videoId": "MXxqM7UEWgk",
+      "url": "https://www.youtube.com/watch?v=MXxqM7UEWgk",
+      "thumbnail": "https://i.ytimg.com/vi/MXxqM7UEWgk/mqdefault.jpg",
+      "published": "2026-08-30T20:51:14Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X CHAPECOENSE | LIVE PÓS JOGO | COLETIVA | BRASILEIRÃO",
       "videoId": "yIENBRMJbW8",
       "url": "https://www.youtube.com/watch?v=yIENBRMJbW8",
@@ -107,20 +115,12 @@
       "published": "2026-08-30T15:52:25Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "NOVELA MEC! ACABOU COM FINAL FELIZ? #gremio #futebol @blascortintas",
-      "videoId": "rBuX72rL4_g",
-      "url": "https://www.youtube.com/watch?v=rBuX72rL4_g",
-      "thumbnail": "https://i.ytimg.com/vi/rBuX72rL4_g/mqdefault.jpg",
-      "published": "2026-08-30T15:33:08Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | 30/08 #14",
       "videoId": "xJYfjV1wPLw",
       "url": "https://www.youtube.com/watch?v=xJYfjV1wPLw",
       "thumbnail": "https://i.ytimg.com/vi/xJYfjV1wPLw/mqdefault_live.jpg",
-      "published": "2026-08-30T19:29:58Z"
+      "published": "2026-08-30T20:52:31Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO JOGO | GRÊMIO X CHAPECOENSE | 30/08/2026 | BRASILEIRÃO | RÁDIO GRENAL",
+      "title": "AO VIVO | JORNADA ESPORTIVA | GRÊMIO 0 X 0 CHAPECOENSE | 30/08/2026 | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "3l8XDC7vdS0",
       "url": "https://www.youtube.com/watch?v=3l8XDC7vdS0",
       "thumbnail": "https://i.ytimg.com/vi/3l8XDC7vdS0/mqdefault_live.jpg",
