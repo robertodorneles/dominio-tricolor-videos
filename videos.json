@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:00:36.891254+00:00",
+  "updated_at": "2026-08-30T18:23:15.647188+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🚎 O ÔNIBUS DO GRÊMIO ESTÁ NA CONCENTRAÇÃO",
+      "videoId": "X-gQTGHV4wQ",
+      "url": "https://www.youtube.com/watch?v=X-gQTGHV4wQ",
+      "thumbnail": "https://i.ytimg.com/vi/X-gQTGHV4wQ/mqdefault.jpg",
+      "published": "2026-08-30T18:16:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
       "videoId": "8AXf7TOJwQc",
       "url": "https://www.youtube.com/watch?v=8AXf7TOJwQc",
       "thumbnail": "https://i.ytimg.com/vi/8AXf7TOJwQc/mqdefault_live.jpg",
       "published": "2026-08-30T17:30:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL TIME COM MUDANÇAS | SITUAÇÃO NA TABELA | PLANTÃO IMORTAL",
-      "videoId": "iTQUfPRSitM",
-      "url": "https://www.youtube.com/watch?v=iTQUfPRSitM",
-      "thumbnail": "https://i.ytimg.com/vi/iTQUfPRSitM/mqdefault.jpg",
-      "published": "2026-08-30T15:11:58Z"
     }
   ]
 }
