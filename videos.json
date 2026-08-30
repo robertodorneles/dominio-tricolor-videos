@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:00:36.276915+00:00",
+  "updated_at": "2026-08-30T16:00:38.082296+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨BOMBA! ELE TÁ SAINDO DO GRÊMIO | OITO TROCAS NO TIME PRA HOJE? | SIMULANDO JOGOS ATÉ O FINAL DO BR",
+      "title": "🚨ATENÇÃO! ELE TÁ SAINDO DO GRÊMIO! MILHÕES CHEGANDO | 8 TROCAS NO TIME? | FAZENDO AS CONTAS..",
       "videoId": "EW9qgFEqHFc",
       "url": "https://www.youtube.com/watch?v=EW9qgFEqHFc",
       "thumbnail": "https://i.ytimg.com/vi/EW9qgFEqHFc/mqdefault.jpg",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Gabriel Mec está cada vez mais fora do Grêmio",
+      "videoId": "FqXqBdfv4Ks",
+      "url": "https://www.youtube.com/watch?v=FqXqBdfv4Ks",
+      "thumbnail": "https://i.ytimg.com/vi/FqXqBdfv4Ks/mqdefault.jpg",
+      "published": "2026-08-30T15:04:33Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "A saída de Gabriel Mec e a decisão do Grêmio contra a Chapecoense",
       "videoId": "FF3TsxLohfY",
       "url": "https://www.youtube.com/watch?v=FF3TsxLohfY",
       "thumbnail": "https://i.ytimg.com/vi/FF3TsxLohfY/mqdefault.jpg",
       "published": "2026-08-30T13:08:43Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #665: Gabriel Mec | Despedida | Time do Grêmio | Novidades e dúvidas",
-      "videoId": "1WyPhffZ-bM",
-      "url": "https://www.youtube.com/watch?v=1WyPhffZ-bM",
-      "thumbnail": "https://i.ytimg.com/vi/1WyPhffZ-bM/mqdefault.jpg",
-      "published": "2026-08-29T19:16:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,27 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "MEC FORA! POLÊMICA? | GRÊMIO RESERVA? | MONSALVE SAIU DE GRAÇA?",
-      "videoId": "kH7LfpEvbk0",
-      "url": "https://www.youtube.com/watch?v=kH7LfpEvbk0",
-      "thumbnail": "https://i.ytimg.com/vi/kH7LfpEvbk0/mqdefault.jpg",
-      "published": "2026-08-29T22:20:34Z"
+      "title": "GRÊMIO X CHAPECOENSE | LIVE PÓS JOGO | COLETIVA | BRASILEIRÃO",
+      "videoId": "yIENBRMJbW8",
+      "url": "https://www.youtube.com/watch?v=yIENBRMJbW8",
+      "thumbnail": "https://i.ytimg.com/vi/yIENBRMJbW8/mqdefault_live.jpg",
+      "published": "2026-08-30T15:52:25Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "A HISTÓRIA DO WALLACE! #gremio #futebol",
-      "videoId": "HDCRKxuGTDI",
-      "url": "https://www.youtube.com/watch?v=HDCRKxuGTDI",
-      "thumbnail": "https://i.ytimg.com/vi/HDCRKxuGTDI/mqdefault.jpg",
-      "published": "2026-08-29T20:00:15Z"
+      "title": "NOVELA MEC! ACABOU COM FINAL FELIZ? #gremio #futebol @blascortintas",
+      "videoId": "rBuX72rL4_g",
+      "url": "https://www.youtube.com/watch?v=rBuX72rL4_g",
+      "thumbnail": "https://i.ytimg.com/vi/rBuX72rL4_g/mqdefault.jpg",
+      "published": "2026-08-30T15:33:08Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
+      "title": "VENDIDO! GABRIEL MEC VAI JOGAR NO PORTO! | OS VALORES | DESPEDIDA E QUEM PROCUROU O JOGADOR",
+      "videoId": "Z8rWEn5bQaY",
+      "url": "https://www.youtube.com/watch?v=Z8rWEn5bQaY",
+      "thumbnail": "https://i.ytimg.com/vi/Z8rWEn5bQaY/mqdefault_live.jpg",
+      "published": "2026-08-30T15:45:01Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -123,12 +131,12 @@
       "published": "2026-08-29T22:28:29Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "EVERTON CEBOLINHA VALE INVESTIMENTO? | MEC E TETÊ DE SAÍDA? | DESTAQUE DO GRENAL | PRESERVAÇÕES",
-      "videoId": "AEISWO3xRKI",
-      "url": "https://www.youtube.com/watch?v=AEISWO3xRKI",
-      "thumbnail": "https://i.ytimg.com/vi/AEISWO3xRKI/mqdefault.jpg",
-      "published": "2026-08-28T16:57:51Z"
+      "channel": "Duda Garbi",
+      "title": "AFINAL, POR QUE SUMIRAM OS ESPECIALISTAS EM BATER FALTA NO BRASIL? | Cortes do Duda",
+      "videoId": "RbUpENNcceI",
+      "url": "https://www.youtube.com/watch?v=RbUpENNcceI",
+      "thumbnail": "https://i.ytimg.com/vi/RbUpENNcceI/mqdefault.jpg",
+      "published": "2026-08-30T15:00:14Z"
     },
     {
       "channel": "Duda Garbi",
@@ -137,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=iY6XNtmZX3M",
       "thumbnail": "https://i.ytimg.com/vi/iY6XNtmZX3M/mqdefault.jpg",
       "published": "2026-08-30T15:00:00Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A RECEITA DO SUCESSO DO FLAMENGO #dudagarbi #umassadopara",
-      "videoId": "EAaAqtIdxM4",
-      "url": "https://www.youtube.com/watch?v=EAaAqtIdxM4",
-      "thumbnail": "https://i.ytimg.com/vi/EAaAqtIdxM4/mqdefault.jpg",
-      "published": "2026-08-29T15:00:07Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -172,11 +172,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Debate esvaziado, pane na economia, avalanche no Nepal e rancho do Maia | RivoNews #146",
-      "videoId": "Uhb4suuJ5K4",
-      "url": "https://www.youtube.com/watch?v=Uhb4suuJ5K4",
-      "thumbnail": "https://i.ytimg.com/vi/Uhb4suuJ5K4/mqdefault.jpg",
-      "published": "2026-08-30T12:30:06Z"
+      "title": "Por que é tão difícil sair das redes sociais? | Tá Tudo Bem?",
+      "videoId": "p9ZTGx2zSMI",
+      "url": "https://www.youtube.com/watch?v=p9ZTGx2zSMI",
+      "thumbnail": "https://i.ytimg.com/vi/p9ZTGx2zSMI/mqdefault.jpg",
+      "published": "2026-08-30T13:00:20Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "GRÊMIO ACEITA OFERTA POR MEC: Quanto fica na Arena + bastidores + o plano B",
+      "videoId": "amK66mUDj1g",
+      "url": "https://www.youtube.com/watch?v=amK66mUDj1g",
+      "thumbnail": "https://i.ytimg.com/vi/amK66mUDj1g/mqdefault.jpg",
+      "published": "2026-08-30T15:41:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=5V64fP8572Q",
       "thumbnail": "https://i.ytimg.com/vi/5V64fP8572Q/mqdefault.jpg",
       "published": "2026-08-30T12:45:16Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GABRIEL MEC: Bastidores pegam fogo + novo interessado",
-      "videoId": "DeyUWCEQrM8",
-      "url": "https://www.youtube.com/watch?v=DeyUWCEQrM8",
-      "thumbnail": "https://i.ytimg.com/vi/DeyUWCEQrM8/mqdefault.jpg",
-      "published": "2026-08-29T21:34:53Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL TIME COM MUDANÇAS | SITUAÇÃO NA TABELA | PLANTÃO IMORTAL",
       "videoId": "iTQUfPRSitM",
       "url": "https://www.youtube.com/watch?v=iTQUfPRSitM",
-      "thumbnail": "https://i.ytimg.com/vi/iTQUfPRSitM/mqdefault_live.jpg",
-      "published": "2026-08-30T12:00:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/iTQUfPRSitM/mqdefault.jpg",
+      "published": "2026-08-30T15:11:58Z"
     },
     {
       "channel": "Radio Imortal",
