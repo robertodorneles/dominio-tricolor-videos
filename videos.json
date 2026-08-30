@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-30T10:00:36.845255+00:00",
+  "updated_at": "2026-08-30T11:00:40.531796+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 Z4 ENGOLE O INTER | O TIME DE PEZZOLANO | BRONCA COM ÁRBITRO",
+      "videoId": "BgGR-z-bB3w",
+      "url": "https://www.youtube.com/watch?v=BgGR-z-bB3w",
+      "thumbnail": "https://i.ytimg.com/vi/BgGR-z-bB3w/mqdefault.jpg",
+      "published": "2026-08-30T10:33:57Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: VENDA DE R$ 50 MILHÕES! Gabriel Mec na mira | TIME com muitas TROCAS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=S4tdEbcS9s4",
       "thumbnail": "https://i.ytimg.com/vi/S4tdEbcS9s4/mqdefault.jpg",
       "published": "2026-08-30T06:21:15Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter:  PEZZOLANO IDENTIFICOU OS CULPADOS | VEJA TODAS AS COBRANÇAS! | ADMITIU ERRO",
-      "videoId": "WAaIKW8dUug",
-      "url": "https://www.youtube.com/watch?v=WAaIKW8dUug",
-      "thumbnail": "https://i.ytimg.com/vi/WAaIKW8dUug/mqdefault.jpg",
-      "published": "2026-08-29T22:21:29Z"
     },
     {
       "channel": "Bage TV",
