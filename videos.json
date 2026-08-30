@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T17:00:38.417253+00:00",
+  "updated_at": "2026-08-30T18:00:36.891254+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Gabriel Mec está vendido!",
+      "videoId": "1exjDZfKetE",
+      "url": "https://www.youtube.com/watch?v=1exjDZfKetE",
+      "thumbnail": "https://i.ytimg.com/vi/1exjDZfKetE/mqdefault.jpg",
+      "published": "2026-08-30T17:10:55Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ESPECIAL DIRETO DA EXPOINTER🌅🔵 BOM DIA GRÊMIO #111",
       "videoId": "llTz400NCYU",
       "url": "https://www.youtube.com/watch?v=llTz400NCYU",
       "thumbnail": "https://i.ytimg.com/vi/llTz400NCYU/mqdefault.jpg",
       "published": "2026-08-29T18:19:48Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RESENHA ESPECIAL NA EXPOINTER! DIEGO CAITO FORA E INTER COM DESFALQUES🔸RESENHA FORA DA SALA🔸#119",
-      "videoId": "aI-t80ND0AE",
-      "url": "https://www.youtube.com/watch?v=aI-t80ND0AE",
-      "thumbnail": "https://i.ytimg.com/vi/aI-t80ND0AE/mqdefault.jpg",
-      "published": "2026-08-29T17:00:25Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Mito ou verdade: o psicanalista consegue não julgar o paciente? | Paralelas",
+      "videoId": "UVTCBc1jx60",
+      "url": "https://www.youtube.com/watch?v=UVTCBc1jx60",
+      "thumbnail": "https://i.ytimg.com/vi/UVTCBc1jx60/mqdefault.jpg",
+      "published": "2026-08-30T17:00:38Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "NOSSO SEGREDO: um DRAMA familiar cheio de MISTÉRIOS | Dica do Ticiano",
       "videoId": "Zevq1pwF7EI",
       "url": "https://www.youtube.com/watch?v=Zevq1pwF7EI",
       "thumbnail": "https://i.ytimg.com/vi/Zevq1pwF7EI/mqdefault.jpg",
       "published": "2026-08-30T16:30:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Cavalo Crioulo: entenda a evolução das provas do Freio de Ouro | Aconteceu no RS",
-      "videoId": "1_5CDc6vi4I",
-      "url": "https://www.youtube.com/watch?v=1_5CDc6vi4I",
-      "thumbnail": "https://i.ytimg.com/vi/1_5CDc6vi4I/mqdefault.jpg",
-      "published": "2026-08-30T14:45:25Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "28/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "AO VIVO | ESQUENTANDO JOGO | GRÊMIO X CHAPECOENSE | 30/08/2026 | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "3l8XDC7vdS0",
       "url": "https://www.youtube.com/watch?v=3l8XDC7vdS0",
       "thumbnail": "https://i.ytimg.com/vi/3l8XDC7vdS0/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
+      "videoId": "8AXf7TOJwQc",
+      "url": "https://www.youtube.com/watch?v=8AXf7TOJwQc",
+      "thumbnail": "https://i.ytimg.com/vi/8AXf7TOJwQc/mqdefault_live.jpg",
+      "published": "2026-08-30T17:30:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIA DE GRÊMIO NO BRASILEIRÃO! | PROVÁVEL TIME COM MUDANÇAS | SITUAÇÃO NA TABELA | PLANTÃO IMORTAL",
       "videoId": "iTQUfPRSitM",
       "url": "https://www.youtube.com/watch?v=iTQUfPRSitM",
       "thumbnail": "https://i.ytimg.com/vi/iTQUfPRSitM/mqdefault.jpg",
       "published": "2026-08-30T15:11:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🚎 GRÊMIO CONCENTRADO PARA O JOGO CONTRA A CHAPECOENSE",
-      "videoId": "R9rGfW8X3dE",
-      "url": "https://www.youtube.com/watch?v=R9rGfW8X3dE",
-      "thumbnail": "https://i.ytimg.com/vi/R9rGfW8X3dE/mqdefault.jpg",
-      "published": "2026-08-30T02:16:57Z"
     }
   ]
 }
