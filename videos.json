@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:00:38.781285+00:00",
+  "updated_at": "2026-08-30T14:00:35.730095+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A saída de Gabriel Mec e a decisão do Grêmio contra a Chapecoense",
+      "videoId": "FF3TsxLohfY",
+      "url": "https://www.youtube.com/watch?v=FF3TsxLohfY",
+      "thumbnail": "https://i.ytimg.com/vi/FF3TsxLohfY/mqdefault.jpg",
+      "published": "2026-08-30T13:08:43Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #665: Gabriel Mec | Despedida | Time do Grêmio | Novidades e dúvidas",
       "videoId": "1WyPhffZ-bM",
       "url": "https://www.youtube.com/watch?v=1WyPhffZ-bM",
       "thumbnail": "https://i.ytimg.com/vi/1WyPhffZ-bM/mqdefault.jpg",
       "published": "2026-08-29T19:16:38Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Interesse da Turquia em Gabriel Mec do Grêmio 🇪🇪",
-      "videoId": "Wj4KunI97_k",
-      "url": "https://www.youtube.com/watch?v=Wj4KunI97_k",
-      "thumbnail": "https://i.ytimg.com/vi/Wj4KunI97_k/mqdefault.jpg",
-      "published": "2026-08-28T22:00:08Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "3JToJnBu0Bg",
+      "url": "https://www.youtube.com/watch?v=3JToJnBu0Bg",
+      "thumbnail": "https://i.ytimg.com/vi/3JToJnBu0Bg/mqdefault_live.jpg",
+      "published": "2026-08-30T13:59:22Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
       "videoId": "0NtbVf-OiyQ",
       "url": "https://www.youtube.com/watch?v=0NtbVf-OiyQ",
       "thumbnail": "https://i.ytimg.com/vi/0NtbVf-OiyQ/mqdefault.jpg",
       "published": "2026-08-28T03:21:24Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
-      "videoId": "_VmKn91yU6c",
-      "url": "https://www.youtube.com/watch?v=_VmKn91yU6c",
-      "thumbnail": "https://i.ytimg.com/vi/_VmKn91yU6c/mqdefault.jpg",
-      "published": "2026-08-28T01:37:02Z"
     },
     {
       "channel": "GZH Digital",
