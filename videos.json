@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T14:00:48.367155+00:00",
+  "updated_at": "2026-08-31T15:00:41.926403+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Só a torcida pode fazer esse time do Grêmio jogar.",
-      "videoId": "HNZ4YKTaAS0",
-      "url": "https://www.youtube.com/watch?v=HNZ4YKTaAS0",
-      "thumbnail": "https://i.ytimg.com/vi/HNZ4YKTaAS0/mqdefault.jpg",
-      "published": "2026-08-31T13:58:28Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #056",
       "videoId": "zTLIXiWny1E",
       "url": "https://www.youtube.com/watch?v=zTLIXiWny1E",
-      "thumbnail": "https://i.ytimg.com/vi/zTLIXiWny1E/mqdefault_live.jpg",
-      "published": "2026-08-31T13:43:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/zTLIXiWny1E/mqdefault.jpg",
+      "published": "2026-08-31T14:58:12Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "COMO O GRÊMIO VAI PARA O GRE-NAL! #CORTESDOFAG",
+      "videoId": "a4M9FQGUB0s",
+      "url": "https://www.youtube.com/watch?v=a4M9FQGUB0s",
+      "thumbnail": "https://i.ytimg.com/vi/a4M9FQGUB0s/mqdefault.jpg",
+      "published": "2026-08-31T14:45:38Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨FELIPÃO FAZ REVELAÇÃO CHOCANTE | CULPADOS ESCOLHIDOS PELO GRÊMIO | O INTER TÁ DESTRUÍDO!",
+      "videoId": "azyJStlHOc0",
+      "url": "https://www.youtube.com/watch?v=azyJStlHOc0",
+      "thumbnail": "https://i.ytimg.com/vi/azyJStlHOc0/mqdefault.jpg",
+      "published": "2026-08-31T14:27:24Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=wTnEbixkeZY",
       "thumbnail": "https://i.ytimg.com/vi/wTnEbixkeZY/mqdefault.jpg",
       "published": "2026-08-31T00:57:26Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! ELE TÁ SAINDO DO GRÊMIO! MILHÕES CHEGANDO | 8 TROCAS NO TIME? | FAZENDO AS CONTAS..",
-      "videoId": "EW9qgFEqHFc",
-      "url": "https://www.youtube.com/watch?v=EW9qgFEqHFc",
-      "thumbnail": "https://i.ytimg.com/vi/EW9qgFEqHFc/mqdefault.jpg",
-      "published": "2026-08-30T14:55:33Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com Consuelo Dieguez, últimas da política e mais | Timeline | 31/08/2026",
-      "videoId": "rDkHgTCjIJQ",
-      "url": "https://www.youtube.com/watch?v=rDkHgTCjIJQ",
-      "thumbnail": "https://i.ytimg.com/vi/rDkHgTCjIJQ/mqdefault_live.jpg",
-      "published": "2026-08-31T13:55:27Z"
+      "title": "Quem foi ASSIS BRASIL? Entenda como ele ajudou a impulsionar a agropecuária gaúcha | Aconteceu no RS",
+      "videoId": "9mp8UjQbJHU",
+      "url": "https://www.youtube.com/watch?v=9mp8UjQbJHU",
+      "thumbnail": "https://i.ytimg.com/vi/9mp8UjQbJHU/mqdefault.jpg",
+      "published": "2026-08-31T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "CfpgR3_W5no",
       "url": "https://www.youtube.com/watch?v=CfpgR3_W5no",
       "thumbnail": "https://i.ytimg.com/vi/CfpgR3_W5no/mqdefault_live.jpg",
-      "published": "2026-08-31T12:57:01Z"
+      "published": "2026-08-31T14:54:03Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RADIO GENAL | 31/08/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RADIO GENAL | 31/08/2026",
       "videoId": "EtC_OL_DDYI",
       "url": "https://www.youtube.com/watch?v=EtC_OL_DDYI",
       "thumbnail": "https://i.ytimg.com/vi/EtC_OL_DDYI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE E INTER NO Z4 — ESPECIAL DIRETO DA EXPOINTER | COMO É BOM SER DO GRÊMIO #31",
+      "videoId": "o6OHxdVou6Y",
+      "url": "https://www.youtube.com/watch?v=o6OHxdVou6Y",
+      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault_live.jpg",
+      "published": "2026-08-31T14:59:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #11 — GRÊMIO VENCE, MAS JOGA MAL | ALÍVIO NA TABELA",
       "videoId": "cX8xi5Nxiio",
       "url": "https://www.youtube.com/watch?v=cX8xi5Nxiio",
       "thumbnail": "https://i.ytimg.com/vi/cX8xi5Nxiio/mqdefault.jpg",
       "published": "2026-08-31T12:55:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE E INTER NO Z4 — ESPECIAL DIRETO DA EXPOINTER | COMO É BOM SER DO GRÊMIO #31",
-      "videoId": "o6OHxdVou6Y",
-      "url": "https://www.youtube.com/watch?v=o6OHxdVou6Y",
-      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault_live.jpg",
-      "published": "2026-08-31T12:46:03Z"
     }
   ]
 }
