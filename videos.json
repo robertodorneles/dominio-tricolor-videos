@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-31T17:00:39.973856+00:00",
+  "updated_at": "2026-08-31T18:00:40.686016+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter: 🔥 GARANTIDO ATÉ QUANDO? | MEDIDA DESESPERADA PODE VIR | EXISTE CONFIANÇA!",
+      "videoId": "IycyC3af87g",
+      "url": "https://www.youtube.com/watch?v=IycyC3af87g",
+      "thumbnail": "https://i.ytimg.com/vi/IycyC3af87g/mqdefault.jpg",
+      "published": "2026-08-31T17:33:31Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: JOVANE E AMUZU PREOCUPAM para o Gre-Nal | MEC a caminho do Porto",
@@ -11,20 +19,12 @@
       "published": "2026-08-31T07:00:38Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🚨 CAOS EM SALVADOR | NINGUÉM SABE O QUE DIZER | REMO PODE PASSAR",
-      "videoId": "tPdnHMkX85M",
-      "url": "https://www.youtube.com/watch?v=tPdnHMkX85M",
-      "thumbnail": "https://i.ytimg.com/vi/tPdnHMkX85M/mqdefault.jpg",
-      "published": "2026-08-31T06:00:14Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "Jairo passando pano pro Barcellos?",
-      "videoId": "BzFXi4qxzQo",
-      "url": "https://www.youtube.com/watch?v=BzFXi4qxzQo",
-      "thumbnail": "https://i.ytimg.com/vi/BzFXi4qxzQo/mqdefault.jpg",
-      "published": "2026-08-31T16:59:21Z"
+      "title": "🌅🔵 BOM DIA GRÊMIO #113",
+      "videoId": "UIHDLuUwI60",
+      "url": "https://www.youtube.com/watch?v=UIHDLuUwI60",
+      "thumbnail": "https://i.ytimg.com/vi/UIHDLuUwI60/mqdefault_live.jpg",
+      "published": "2026-08-31T17:55:20Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "2Dlj-iXygRk",
       "url": "https://www.youtube.com/watch?v=2Dlj-iXygRk",
       "thumbnail": "https://i.ytimg.com/vi/2Dlj-iXygRk/mqdefault_live.jpg",
-      "published": "2026-08-31T16:01:50Z"
+      "published": "2026-08-31T17:11:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AUGUSTO CURY surpreende em pesquisas | Chamada Eleitoral",
+      "videoId": "yxZL49FqxO4",
+      "url": "https://www.youtube.com/watch?v=yxZL49FqxO4",
+      "thumbnail": "https://i.ytimg.com/vi/yxZL49FqxO4/mqdefault.jpg",
+      "published": "2026-08-31T17:35:37Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "As estratégias para o arroz ganhar espaço na mesa | Campo em Debate | 31/08/2026",
       "videoId": "Hgfl-igePYw",
       "url": "https://www.youtube.com/watch?v=Hgfl-igePYw",
       "thumbnail": "https://i.ytimg.com/vi/Hgfl-igePYw/mqdefault_live.jpg",
       "published": "2026-08-31T16:54:12Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Troféu Guri 2026 | 01/09/2026",
-      "videoId": "JZMHyirpcJk",
-      "url": "https://www.youtube.com/watch?v=JZMHyirpcJk",
-      "thumbnail": "https://i.ytimg.com/vi/JZMHyirpcJk/mqdefault_live.jpg",
-      "published": "2026-08-31T16:07:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "INTER CHEGA À CASA DO RIVAL! 🇮🇩 #shorts",
+      "videoId": "kDZxIQHH0wE",
+      "url": "https://www.youtube.com/watch?v=kDZxIQHH0wE",
+      "thumbnail": "https://i.ytimg.com/vi/kDZxIQHH0wE/mqdefault.jpg",
+      "published": "2026-08-31T17:42:48Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "VITINHO TEVE O EMPATE NOS PÉS… 🦶⚽ #inter #colorado #vitinho #brasileirao #bahia",
       "videoId": "Yb2CCd3kisc",
       "url": "https://www.youtube.com/watch?v=Yb2CCd3kisc",
       "thumbnail": "https://i.ytimg.com/vi/Yb2CCd3kisc/mqdefault.jpg",
       "published": "2026-08-31T16:50:29Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "“NÃO INVENTA, PEZZOLANO!” 🇮🇩🇺🇾 #inter #colorado #grenal #copadobrasil #futebol",
-      "videoId": "ZcEMj8EHfeM",
-      "url": "https://www.youtube.com/watch?v=ZcEMj8EHfeM",
-      "thumbnail": "https://i.ytimg.com/vi/ZcEMj8EHfeM/mqdefault.jpg",
-      "published": "2026-08-31T16:42:15Z"
     },
     {
       "channel": "Radio Imortal",
