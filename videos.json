@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:00:41.926403+00:00",
+  "updated_at": "2026-08-31T16:00:58.219883+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #056",
-      "videoId": "zTLIXiWny1E",
-      "url": "https://www.youtube.com/watch?v=zTLIXiWny1E",
-      "thumbnail": "https://i.ytimg.com/vi/zTLIXiWny1E/mqdefault.jpg",
-      "published": "2026-08-31T14:58:12Z"
+      "title": "GRÊMIO VENCE A CHAPE, MAS ATUAÇÃO PREOCUPA! #CORTESDOFAG",
+      "videoId": "KlGUvacNO7E",
+      "url": "https://www.youtube.com/watch?v=KlGUvacNO7E",
+      "thumbnail": "https://i.ytimg.com/vi/KlGUvacNO7E/mqdefault.jpg",
+      "published": "2026-08-31T15:14:18Z"
     },
     {
       "channel": "Bage TV",
-      "title": "COMO O GRÊMIO VAI PARA O GRE-NAL! #CORTESDOFAG",
-      "videoId": "a4M9FQGUB0s",
-      "url": "https://www.youtube.com/watch?v=a4M9FQGUB0s",
-      "thumbnail": "https://i.ytimg.com/vi/a4M9FQGUB0s/mqdefault.jpg",
-      "published": "2026-08-31T14:45:38Z"
+      "title": "Pezzolano não tinha o melhor trabalho de Porto Alegre?",
+      "videoId": "b1AtNCytPu8",
+      "url": "https://www.youtube.com/watch?v=b1AtNCytPu8",
+      "thumbnail": "https://i.ytimg.com/vi/b1AtNCytPu8/mqdefault.jpg",
+      "published": "2026-08-31T15:12:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,27 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #007",
-      "videoId": "0mPNzv_5L9U",
-      "url": "https://www.youtube.com/watch?v=0mPNzv_5L9U",
-      "thumbnail": "https://i.ytimg.com/vi/0mPNzv_5L9U/mqdefault_live.jpg",
-      "published": "2026-08-31T13:12:33Z"
+      "title": "GRÊMIO X SCI | COPA DO BRASIL | REACT AO VIVO DE FARID - 03/09/2026",
+      "videoId": "TFQs7FIfauw",
+      "url": "https://www.youtube.com/watch?v=TFQs7FIfauw",
+      "thumbnail": "https://i.ytimg.com/vi/TFQs7FIfauw/mqdefault_live.jpg",
+      "published": "2026-08-31T15:08:27Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #006",
-      "videoId": "1XEjjloqUm8",
-      "url": "https://www.youtube.com/watch?v=1XEjjloqUm8",
-      "thumbnail": "https://i.ytimg.com/vi/1XEjjloqUm8/mqdefault_live.jpg",
-      "published": "2026-08-31T13:03:24Z"
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 02/09/2026",
+      "videoId": "JPIqrHnZcVU",
+      "url": "https://www.youtube.com/watch?v=JPIqrHnZcVU",
+      "thumbnail": "https://i.ytimg.com/vi/JPIqrHnZcVU/mqdefault_live.jpg",
+      "published": "2026-08-31T15:06:42Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
+      "title": "O valor que ficará com o Grêmio na venda de Gabriel Mec para o Porto",
+      "videoId": "ig89GnSeiHA",
+      "url": "https://www.youtube.com/watch?v=ig89GnSeiHA",
+      "thumbnail": "https://i.ytimg.com/vi/ig89GnSeiHA/mqdefault.jpg",
+      "published": "2026-08-31T15:16:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=6veiFh84bUI",
       "thumbnail": "https://i.ytimg.com/vi/6veiFh84bUI/mqdefault.jpg",
       "published": "2026-08-31T13:37:06Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "“Tá de sacanagem”: Veja a súmula do Gre-Nal | Luís Castro sobrevive | Grêmio x Chapecoense",
-      "videoId": "Ey-k7PNZNTM",
-      "url": "https://www.youtube.com/watch?v=Ey-k7PNZNTM",
-      "thumbnail": "https://i.ytimg.com/vi/Ey-k7PNZNTM/mqdefault.jpg",
-      "published": "2026-08-28T16:48:15Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Expointer, câmeras que flagram infrações dentro de veículos, trânsito e mais | Gaúcha+ | 31/08/2026",
+      "videoId": "TMErfWdwIDQ",
+      "url": "https://www.youtube.com/watch?v=TMErfWdwIDQ",
+      "thumbnail": "https://i.ytimg.com/vi/TMErfWdwIDQ/mqdefault_live.jpg",
+      "published": "2026-08-31T15:30:42Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Quem foi ASSIS BRASIL? Entenda como ele ajudou a impulsionar a agropecuária gaúcha | Aconteceu no RS",
       "videoId": "9mp8UjQbJHU",
       "url": "https://www.youtube.com/watch?v=9mp8UjQbJHU",
@@ -171,12 +179,12 @@
       "published": "2026-08-31T15:00:06Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Canola aquece safra de inverno | Campo em Debate | 31/08/2026",
-      "videoId": "CfpgR3_W5no",
-      "url": "https://www.youtube.com/watch?v=CfpgR3_W5no",
-      "thumbnail": "https://i.ytimg.com/vi/CfpgR3_W5no/mqdefault_live.jpg",
-      "published": "2026-08-31T14:54:03Z"
+      "channel": "Jeremias Wernek",
+      "title": "Inter em queda livre no campeonato brasileiro. Vai cair? Comenta aí",
+      "videoId": "_WwY9AIoMbg",
+      "url": "https://www.youtube.com/watch?v=_WwY9AIoMbg",
+      "thumbnail": "https://i.ytimg.com/vi/_WwY9AIoMbg/mqdefault.jpg",
+      "published": "2026-08-31T15:15:33Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=Z-PHmbAnnHI",
       "thumbnail": "https://i.ytimg.com/vi/Z-PHmbAnnHI/mqdefault.jpg",
       "published": "2026-08-31T12:51:49Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: Inter afunda no Z4 + Grêmio vence e respira + venda do Mec",
-      "videoId": "ZUNTRZ-3m-A",
-      "url": "https://www.youtube.com/watch?v=ZUNTRZ-3m-A",
-      "thumbnail": "https://i.ytimg.com/vi/ZUNTRZ-3m-A/mqdefault.jpg",
-      "published": "2026-08-31T12:16:12Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO VENCE E INTER NO Z4 — ESPECIAL DIRETO DA EXPOINTER | COMO É BOM SER DO GRÊMIO #31",
       "videoId": "o6OHxdVou6Y",
       "url": "https://www.youtube.com/watch?v=o6OHxdVou6Y",
-      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault_live.jpg",
-      "published": "2026-08-31T14:59:29Z"
+      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault.jpg",
+      "published": "2026-08-31T15:06:07Z"
     },
     {
       "channel": "Radio Imortal",
