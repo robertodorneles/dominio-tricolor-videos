@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-31T00:00:37.572449+00:00",
+  "updated_at": "2026-08-31T00:10:30.668748+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: INTER NO Z4 DO BRASILEIRÃO!!! | VITÓRIA CULPOSA DO GRÊMIO CONTRA O LANTERNA",
+      "videoId": "RObXHEuJoYA",
+      "url": "https://www.youtube.com/watch?v=RObXHEuJoYA",
+      "thumbnail": "https://i.ytimg.com/vi/RObXHEuJoYA/mqdefault_live.jpg",
+      "published": "2026-08-31T00:09:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 Z4 ENGOLE O INTER | O TIME DE PEZZOLANO | BRONCA COM ÁRBITRO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=BgGR-z-bB3w",
       "thumbnail": "https://i.ytimg.com/vi/BgGR-z-bB3w/mqdefault.jpg",
       "published": "2026-08-30T10:33:57Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: VENDA DE R$ 50 MILHÕES! Gabriel Mec na mira | TIME com muitas TROCAS",
-      "videoId": "S4tdEbcS9s4",
-      "url": "https://www.youtube.com/watch?v=S4tdEbcS9s4",
-      "thumbnail": "https://i.ytimg.com/vi/S4tdEbcS9s4/mqdefault.jpg",
-      "published": "2026-08-30T06:21:15Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ALÍVIO E PREOCUPAÇÃO | GRÊMIO 3 X 1 CHAPECOENSE: COMENTÁRIO.",
+      "videoId": "oEDdDFVrpWI",
+      "url": "https://www.youtube.com/watch?v=oEDdDFVrpWI",
+      "thumbnail": "https://i.ytimg.com/vi/oEDdDFVrpWI/mqdefault.jpg",
+      "published": "2026-08-31T00:08:47Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X CHAPECOENSE | LIVE PÓS JOGO | COLETIVA | BRASILEIRÃO",
       "videoId": "yIENBRMJbW8",
       "url": "https://www.youtube.com/watch?v=yIENBRMJbW8",
       "thumbnail": "https://i.ytimg.com/vi/yIENBRMJbW8/mqdefault_live.jpg",
       "published": "2026-08-30T23:29:20Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "FORÇA MÁXIMA! MAS????? GRÊMIO X CHAPECOENSE.#gremio #futebol",
-      "videoId": "MXxqM7UEWgk",
-      "url": "https://www.youtube.com/watch?v=MXxqM7UEWgk",
-      "thumbnail": "https://i.ytimg.com/vi/MXxqM7UEWgk/mqdefault.jpg",
-      "published": "2026-08-30T20:51:14Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GRÊMIO 3 X 1 CHAPE: Vitória importante com pouco futebol + destaques + situação",
+      "videoId": "h3HQr69fm4g",
+      "url": "https://www.youtube.com/watch?v=h3HQr69fm4g",
+      "thumbnail": "https://i.ytimg.com/vi/h3HQr69fm4g/mqdefault.jpg",
+      "published": "2026-08-31T00:02:03Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "GRÊMIO ACEITA OFERTA POR MEC: Quanto fica na Arena + bastidores + o plano B",
       "videoId": "amK66mUDj1g",
       "url": "https://www.youtube.com/watch?v=amK66mUDj1g",
       "thumbnail": "https://i.ytimg.com/vi/amK66mUDj1g/mqdefault.jpg",
       "published": "2026-08-30T15:41:52Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GOLPE DURO CONTRA AS BET'S: Como isso afeta Grêmio e Inter",
-      "videoId": "5V64fP8572Q",
-      "url": "https://www.youtube.com/watch?v=5V64fP8572Q",
-      "thumbnail": "https://i.ytimg.com/vi/5V64fP8572Q/mqdefault.jpg",
-      "published": "2026-08-30T12:45:16Z"
     },
     {
       "channel": "LH Benfica",
