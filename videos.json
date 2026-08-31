@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:40:10.593318+00:00",
+  "updated_at": "2026-08-31T17:00:39.973856+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#120",
+      "title": "Jairo passando pano pro Barcellos?",
+      "videoId": "BzFXi4qxzQo",
+      "url": "https://www.youtube.com/watch?v=BzFXi4qxzQo",
+      "thumbnail": "https://i.ytimg.com/vi/BzFXi4qxzQo/mqdefault.jpg",
+      "published": "2026-08-31T16:59:21Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "INTER NO Z-4 E GRÊMIO CHEIO DE DÚVIDAS PRO GRENAL🔸RESENHA FORA DA SALA🔸#120",
       "videoId": "sfpPGF0_wx8",
       "url": "https://www.youtube.com/watch?v=sfpPGF0_wx8",
       "thumbnail": "https://i.ytimg.com/vi/sfpPGF0_wx8/mqdefault_live.jpg",
       "published": "2026-08-31T16:34:49Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VENCE A CHAPE, MAS ATUAÇÃO PREOCUPA! #CORTESDOFAG",
-      "videoId": "KlGUvacNO7E",
-      "url": "https://www.youtube.com/watch?v=KlGUvacNO7E",
-      "thumbnail": "https://i.ytimg.com/vi/KlGUvacNO7E/mqdefault.jpg",
-      "published": "2026-08-31T15:14:18Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "As estratégias para o arroz ganhar espaço na mesa | Campo em Debate | 31/08/2026",
+      "videoId": "Hgfl-igePYw",
+      "url": "https://www.youtube.com/watch?v=Hgfl-igePYw",
+      "thumbnail": "https://i.ytimg.com/vi/Hgfl-igePYw/mqdefault_live.jpg",
+      "published": "2026-08-31T16:54:12Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Troféu Guri 2026 | 01/09/2026",
       "videoId": "JZMHyirpcJk",
       "url": "https://www.youtube.com/watch?v=JZMHyirpcJk",
       "thumbnail": "https://i.ytimg.com/vi/JZMHyirpcJk/mqdefault_live.jpg",
       "published": "2026-08-31T16:07:19Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Planejamento regional: como tornar as cidades mais resilientes? | Conversas Cruzadas | 27/08/2026",
-      "videoId": "N24vo5cvMj4",
-      "url": "https://www.youtube.com/watch?v=N24vo5cvMj4",
-      "thumbnail": "https://i.ytimg.com/vi/N24vo5cvMj4/mqdefault.jpg",
-      "published": "2026-08-31T16:03:45Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨GRÊMIO: R$ 48 MILHÕES POR JOGADOR | FELIPÃO APONTA OS CULPADOS | O FUTURO DE LUÍS CASTRO",
+      "videoId": "wQQ7S-0THNE",
+      "url": "https://www.youtube.com/watch?v=wQQ7S-0THNE",
+      "thumbnail": "https://i.ytimg.com/vi/wQQ7S-0THNE/mqdefault.jpg",
+      "published": "2026-08-31T16:59:33Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨BAITA NOTÍCIA! 60 MILHÕES DE REAIS NOS COFRES DO GRÊMIO | NEGÓCIO FECHADO! | COM A FORÇA DE NEYMAR",
       "videoId": "eUfJwC1NSBo",
       "url": "https://www.youtube.com/watch?v=eUfJwC1NSBo",
@@ -203,28 +211,20 @@
       "published": "2026-08-30T16:40:56Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨MAIS R$ 50 MILHÕES | ITÁLIA TIRA REFORÇO DO GRÊMIO | O FUTURO DE MEC",
-      "videoId": "BWRTeNRLZVM",
-      "url": "https://www.youtube.com/watch?v=BWRTeNRLZVM",
-      "thumbnail": "https://i.ytimg.com/vi/BWRTeNRLZVM/mqdefault.jpg",
-      "published": "2026-08-29T20:16:31Z"
+      "channel": "Radio Grenal",
+      "title": "VITINHO TEVE O EMPATE NOS PÉS… 🦶⚽ #inter #colorado #vitinho #brasileirao #bahia",
+      "videoId": "Yb2CCd3kisc",
+      "url": "https://www.youtube.com/watch?v=Yb2CCd3kisc",
+      "thumbnail": "https://i.ytimg.com/vi/Yb2CCd3kisc/mqdefault.jpg",
+      "published": "2026-08-31T16:50:29Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RADIO GENAL | 31/08/2026",
-      "videoId": "EtC_OL_DDYI",
-      "url": "https://www.youtube.com/watch?v=EtC_OL_DDYI",
-      "thumbnail": "https://i.ytimg.com/vi/EtC_OL_DDYI/mqdefault_live.jpg",
-      "published": "2026-08-31T11:02:16Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "30/08/2026 | GRÊMIO 3X1 CHAPECOENSE | BAHIA 3X2 INTER | CAMPEONATO BRASILEIRO | LIVE COMPLETA",
-      "videoId": "3l8XDC7vdS0",
-      "url": "https://www.youtube.com/watch?v=3l8XDC7vdS0",
-      "thumbnail": "https://i.ytimg.com/vi/3l8XDC7vdS0/mqdefault.jpg",
-      "published": "2026-08-31T02:21:23Z"
+      "title": "“NÃO INVENTA, PEZZOLANO!” 🇮🇩🇺🇾 #inter #colorado #grenal #copadobrasil #futebol",
+      "videoId": "ZcEMj8EHfeM",
+      "url": "https://www.youtube.com/watch?v=ZcEMj8EHfeM",
+      "thumbnail": "https://i.ytimg.com/vi/ZcEMj8EHfeM/mqdefault.jpg",
+      "published": "2026-08-31T16:42:15Z"
     },
     {
       "channel": "Radio Imortal",
