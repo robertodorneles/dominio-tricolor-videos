@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:00:48.830103+00:00",
+  "updated_at": "2026-08-31T20:00:39.557761+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #114",
-      "videoId": "dy6fcdfbUSc",
-      "url": "https://www.youtube.com/watch?v=dy6fcdfbUSc",
-      "thumbnail": "https://i.ytimg.com/vi/dy6fcdfbUSc/mqdefault_live.jpg",
-      "published": "2026-08-31T18:59:06Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "GRÊMIO VENCE, MAS PREOCUPA ANTES DO GRE-NAL 🔹 THE TARDE 🔹#212",
       "videoId": "aEjOKsrMuY8",
       "url": "https://www.youtube.com/watch?v=aEjOKsrMuY8",
-      "thumbnail": "https://i.ytimg.com/vi/aEjOKsrMuY8/mqdefault_live.jpg",
-      "published": "2026-08-31T18:32:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/aEjOKsrMuY8/mqdefault.jpg",
+      "published": "2026-08-31T19:51:04Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "🌅🔵 BOM DIA GRÊMIO #117",
+      "videoId": "Je8-dJdTuEY",
+      "url": "https://www.youtube.com/watch?v=Je8-dJdTuEY",
+      "thumbnail": "https://i.ytimg.com/vi/Je8-dJdTuEY/mqdefault_live.jpg",
+      "published": "2026-08-31T19:46:52Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "AO VIVO: ESQUENTA GRE-NAL | DIRETO DA ARENA DO GRÊMIO.",
+      "videoId": "X4JV2Cf4Ad0",
+      "url": "https://www.youtube.com/watch?v=X4JV2Cf4Ad0",
+      "thumbnail": "https://i.ytimg.com/vi/X4JV2Cf4Ad0/mqdefault_live.jpg",
+      "published": "2026-08-31T19:41:02Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VAIAS NA ARENA #gremio #futebol #brasileirao",
       "videoId": "S8gvmiE7DYk",
       "url": "https://www.youtube.com/watch?v=S8gvmiE7DYk",
       "thumbnail": "https://i.ytimg.com/vi/S8gvmiE7DYk/mqdefault.jpg",
       "published": "2026-08-31T13:00:27Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "BRAITHWAITE OU CARLOS VINÍCIUS? #gremio #futebol #noticias",
-      "videoId": "PvaYYvCuwC8",
-      "url": "https://www.youtube.com/watch?v=PvaYYvCuwC8",
-      "thumbnail": "https://i.ytimg.com/vi/PvaYYvCuwC8/mqdefault.jpg",
-      "published": "2026-08-31T00:34:24Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "FELIPÃO E CARLOS MIGUEL RELEMBRAM 31 ANOS DAS LIBERTADORES",
+      "videoId": "PNhPfpMHj1I",
+      "url": "https://www.youtube.com/watch?v=PNhPfpMHj1I",
+      "thumbnail": "https://i.ytimg.com/vi/PNhPfpMHj1I/mqdefault.jpg",
+      "published": "2026-08-31T19:46:31Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GOLS | GRÊMIO 3X1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "TRR4r3o95n8",
       "url": "https://www.youtube.com/watch?v=TRR4r3o95n8",
@@ -155,28 +163,20 @@
       "published": "2026-08-31T01:24:52Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "3JToJnBu0Bg",
-      "url": "https://www.youtube.com/watch?v=3JToJnBu0Bg",
-      "thumbnail": "https://i.ytimg.com/vi/3JToJnBu0Bg/mqdefault.jpg",
-      "published": "2026-08-31T01:01:19Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "As estratégias para o arroz ganhar espaço na mesa | Campo em Debate | 31/08/2026",
-      "videoId": "Hgfl-igePYw",
-      "url": "https://www.youtube.com/watch?v=Hgfl-igePYw",
-      "thumbnail": "https://i.ytimg.com/vi/Hgfl-igePYw/mqdefault_live.jpg",
-      "published": "2026-08-31T18:51:02Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Animal mais pesado da Expointer, Toffoli suspende campanha de Renan Santos e + | Gaúcha+ | 31/08/26",
       "videoId": "TMErfWdwIDQ",
       "url": "https://www.youtube.com/watch?v=TMErfWdwIDQ",
       "thumbnail": "https://i.ytimg.com/vi/TMErfWdwIDQ/mqdefault_live.jpg",
-      "published": "2026-08-31T18:01:37Z"
+      "published": "2026-08-31T19:30:07Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Cidade do Agro, desenvolvimento, conexão e futuro | Campo em Debate | 31/08/2026",
+      "videoId": "aisfN74vYfQ",
+      "url": "https://www.youtube.com/watch?v=aisfN74vYfQ",
+      "thumbnail": "https://i.ytimg.com/vi/aisfN74vYfQ/mqdefault_live.jpg",
+      "published": "2026-08-31T19:23:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "SEMANA COMEÇA COM ALÍVIO NO GRÊMIO | RENDIMENTO PREOCUPA | CRISE NO LADO DELES | ESPLANADA",
       "videoId": "cbRUZ4N5CL8",
       "url": "https://www.youtube.com/watch?v=cbRUZ4N5CL8",
-      "thumbnail": "https://i.ytimg.com/vi/cbRUZ4N5CL8/mqdefault_live.jpg",
-      "published": "2026-08-31T18:32:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/cbRUZ4N5CL8/mqdefault.jpg",
+      "published": "2026-08-31T19:46:31Z"
     },
     {
       "channel": "Radio Imortal",
