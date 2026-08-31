@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T01:00:58.573816+00:00",
+  "updated_at": "2026-08-31T02:00:41.931389+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CHAPECOENSE - [DIRETO DA ARENA]",
+      "videoId": "ZKtLpW91QAA",
+      "url": "https://www.youtube.com/watch?v=ZKtLpW91QAA",
+      "thumbnail": "https://i.ytimg.com/vi/ZKtLpW91QAA/mqdefault.jpg",
+      "published": "2026-08-31T01:50:48Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ALÍVIO TRICOLOR.",
       "videoId": "m121sGwp2rU",
       "url": "https://www.youtube.com/watch?v=m121sGwp2rU",
       "thumbnail": "https://i.ytimg.com/vi/m121sGwp2rU/mqdefault.jpg",
       "published": "2026-08-31T00:44:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VENCEU A CHAPECOENSE POR 3X1 E GANHA UM ALÍVIO NA TABELA.",
-      "videoId": "Qr45GIhMHpI",
-      "url": "https://www.youtube.com/watch?v=Qr45GIhMHpI",
-      "thumbnail": "https://i.ytimg.com/vi/Qr45GIhMHpI/mqdefault.jpg",
-      "published": "2026-08-31T00:37:14Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -55,16 +55,16 @@
       "title": "GRÊMIO 3 X 1 CHAPECOENSE: VITÓRIA IMPORTANTE NA ARENA",
       "videoId": "dew0t0l-EXM",
       "url": "https://www.youtube.com/watch?v=dew0t0l-EXM",
-      "thumbnail": "https://i.ytimg.com/vi/dew0t0l-EXM/mqdefault_live.jpg",
-      "published": "2026-08-31T00:51:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/dew0t0l-EXM/mqdefault.jpg",
+      "published": "2026-08-31T01:26:45Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Grêmio 3 X 1 Chape: Vitória importante na Arena",
-      "videoId": "YZsoy9EG66w",
-      "url": "https://www.youtube.com/watch?v=YZsoy9EG66w",
-      "thumbnail": "https://i.ytimg.com/vi/YZsoy9EG66w/mqdefault.jpg",
-      "published": "2026-08-31T00:29:54Z"
+      "title": "PÓS-JOGO: GRÊMIO X INTER",
+      "videoId": "s-V04r5v5M8",
+      "url": "https://www.youtube.com/watch?v=s-V04r5v5M8",
+      "thumbnail": "https://i.ytimg.com/vi/s-V04r5v5M8/mqdefault_live.jpg",
+      "published": "2026-08-31T01:08:42Z"
     },
     {
       "channel": "Canal do Farid",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMO x CHAPECOENSE DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 30/08/26 #31",
       "videoId": "giF5u3i7yt4",
       "url": "https://www.youtube.com/watch?v=giF5u3i7yt4",
-      "thumbnail": "https://i.ytimg.com/vi/giF5u3i7yt4/mqdefault_live.jpg",
-      "published": "2026-08-30T23:27:20Z"
+      "thumbnail": "https://i.ytimg.com/vi/giF5u3i7yt4/mqdefault.jpg",
+      "published": "2026-08-31T01:24:12Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "3JToJnBu0Bg",
-      "url": "https://www.youtube.com/watch?v=3JToJnBu0Bg",
-      "thumbnail": "https://i.ytimg.com/vi/3JToJnBu0Bg/mqdefault_live.jpg",
-      "published": "2026-08-31T00:46:51Z"
+      "title": "GOLS | GRÊMIO 3X1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "TRR4r3o95n8",
+      "url": "https://www.youtube.com/watch?v=TRR4r3o95n8",
+      "thumbnail": "https://i.ytimg.com/vi/TRR4r3o95n8/mqdefault.jpg",
+      "published": "2026-08-31T01:24:52Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I INTERNACIONAL X GRÊMIO (COPA DO BRASIL 2026)",
-      "videoId": "0NtbVf-OiyQ",
-      "url": "https://www.youtube.com/watch?v=0NtbVf-OiyQ",
-      "thumbnail": "https://i.ytimg.com/vi/0NtbVf-OiyQ/mqdefault.jpg",
-      "published": "2026-08-28T03:21:24Z"
+      "title": "AO VIVO | GRÊMIO X CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "3JToJnBu0Bg",
+      "url": "https://www.youtube.com/watch?v=3JToJnBu0Bg",
+      "thumbnail": "https://i.ytimg.com/vi/3JToJnBu0Bg/mqdefault.jpg",
+      "published": "2026-08-31T01:01:19Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTER | BAHIA 3X2 INTER | 30/08/2026",
+      "videoId": "eLCQzFF3hYw",
+      "url": "https://www.youtube.com/watch?v=eLCQzFF3hYw",
+      "thumbnail": "https://i.ytimg.com/vi/eLCQzFF3hYw/mqdefault.jpg",
+      "published": "2026-08-31T01:48:30Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE BAHIA 3 X 2 INTER - NARRAÇÃO DE PC CARVALHO | BRASILEIRÃO | RÁDIO GRENAL | 30/08/26",
       "videoId": "UMTHXEmJGoM",
       "url": "https://www.youtube.com/watch?v=UMTHXEmJGoM",
@@ -219,28 +227,20 @@
       "published": "2026-08-31T00:33:40Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 3 X 1 CHAPECOENSE | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | 30/08/2026 | RÁDIO GRENAL",
-      "videoId": "ryJKY4PsSWw",
-      "url": "https://www.youtube.com/watch?v=ryJKY4PsSWw",
-      "thumbnail": "https://i.ytimg.com/vi/ryJKY4PsSWw/mqdefault.jpg",
-      "published": "2026-08-30T23:50:55Z"
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 31/08",
+      "videoId": "cbRUZ4N5CL8",
+      "url": "https://www.youtube.com/watch?v=cbRUZ4N5CL8",
+      "thumbnail": "https://i.ytimg.com/vi/cbRUZ4N5CL8/mqdefault_live.jpg",
+      "published": "2026-08-31T01:31:08Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (3) X (1) CHAPECOENSE | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
-      "videoId": "8AXf7TOJwQc",
-      "url": "https://www.youtube.com/watch?v=8AXf7TOJwQc",
-      "thumbnail": "https://i.ytimg.com/vi/8AXf7TOJwQc/mqdefault.jpg",
-      "published": "2026-08-31T00:51:38Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🚎 O ÔNIBUS DO GRÊMIO ESTÁ NA CONCENTRAÇÃO",
-      "videoId": "X-gQTGHV4wQ",
-      "url": "https://www.youtube.com/watch?v=X-gQTGHV4wQ",
-      "thumbnail": "https://i.ytimg.com/vi/X-gQTGHV4wQ/mqdefault.jpg",
-      "published": "2026-08-30T18:16:24Z"
+      "title": "ESPECIAL DIRETO DA EXPOINTER — GRÊMIO VENCE E INTER NO Z4 | COMO É BOM SER DO GRÊMIO #",
+      "videoId": "o6OHxdVou6Y",
+      "url": "https://www.youtube.com/watch?v=o6OHxdVou6Y",
+      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault_live.jpg",
+      "published": "2026-08-31T01:27:18Z"
     }
   ]
 }
