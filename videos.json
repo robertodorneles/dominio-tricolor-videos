@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:00:38.251766+00:00",
+  "updated_at": "2026-08-31T10:00:42.924866+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO VENCE JOGANDO MAL 🌅🔵 BOM DIA GRÊMIO #112",
+      "videoId": "qlrqVSvx8s0",
+      "url": "https://www.youtube.com/watch?v=qlrqVSvx8s0",
+      "thumbnail": "https://i.ytimg.com/vi/qlrqVSvx8s0/mqdefault_live.jpg",
+      "published": "2026-08-31T09:29:47Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔹 THE TARDE 🔹#212",
       "videoId": "aEjOKsrMuY8",
       "url": "https://www.youtube.com/watch?v=aEjOKsrMuY8",
       "thumbnail": "https://i.ytimg.com/vi/aEjOKsrMuY8/mqdefault_live.jpg",
       "published": "2026-08-31T04:59:37Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#120",
-      "videoId": "sfpPGF0_wx8",
-      "url": "https://www.youtube.com/watch?v=sfpPGF0_wx8",
-      "thumbnail": "https://i.ytimg.com/vi/sfpPGF0_wx8/mqdefault_live.jpg",
-      "published": "2026-08-31T04:57:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #11 — GRÊMIO VENCE, MAS JOGA MAL | ALÍVIO NA TABELA",
+      "videoId": "cX8xi5Nxiio",
+      "url": "https://www.youtube.com/watch?v=cX8xi5Nxiio",
+      "thumbnail": "https://i.ytimg.com/vi/cX8xi5Nxiio/mqdefault_live.jpg",
+      "published": "2026-08-31T09:31:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 31/08",
       "videoId": "cbRUZ4N5CL8",
       "url": "https://www.youtube.com/watch?v=cbRUZ4N5CL8",
       "thumbnail": "https://i.ytimg.com/vi/cbRUZ4N5CL8/mqdefault_live.jpg",
       "published": "2026-08-31T01:31:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE E INTER NO Z4 — ESPECIAL DIRETO DA EXPOINTER | COMO É BOM SER DO GRÊMIO #31",
-      "videoId": "o6OHxdVou6Y",
-      "url": "https://www.youtube.com/watch?v=o6OHxdVou6Y",
-      "thumbnail": "https://i.ytimg.com/vi/o6OHxdVou6Y/mqdefault_live.jpg",
-      "published": "2026-08-31T01:27:18Z"
     }
   ]
 }
