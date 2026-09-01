@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-01T22:00:43.156999+00:00",
+  "updated_at": "2026-09-01T22:58:04.626261+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🥹 VEJA A EMOÇÃO DE ABEL E SUA FAMÍLIA | ELE AGORA É UMA ESTÁTUA | PROTESTO SOLITÁRIO",
+      "videoId": "rUN1m7J6A-0",
+      "url": "https://www.youtube.com/watch?v=rUN1m7J6A-0",
+      "thumbnail": "https://i.ytimg.com/vi/rUN1m7J6A-0/mqdefault.jpg",
+      "published": "2026-09-01T22:01:51Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Everton Cebolinha e o seu desejo de voltar para Porto Alegre | A realidade da direção",
@@ -11,28 +19,20 @@
       "published": "2026-09-01T20:00:24Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 JOGADORES VÃO CUMPRIR? | ESTATUA DE ABEL | VITORIA NO GRENAL",
-      "videoId": "DU4-Po7G4NQ",
-      "url": "https://www.youtube.com/watch?v=DU4-Po7G4NQ",
-      "thumbnail": "https://i.ytimg.com/vi/DU4-Po7G4NQ/mqdefault.jpg",
-      "published": "2026-09-01T06:42:42Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "A VERDADE SOBRE A POLÊMICA! #CORTESDOFAG",
-      "videoId": "Sv-uIhZes1o",
-      "url": "https://www.youtube.com/watch?v=Sv-uIhZes1o",
-      "thumbnail": "https://i.ytimg.com/vi/Sv-uIhZes1o/mqdefault.jpg",
-      "published": "2026-09-01T21:51:25Z"
+      "title": "MANO MENEZES FEZ MAIS QUE LUÍS CASTRO? #CORTESDOFAG",
+      "videoId": "v-qNSDXUdBA",
+      "url": "https://www.youtube.com/watch?v=v-qNSDXUdBA",
+      "thumbnail": "https://i.ytimg.com/vi/v-qNSDXUdBA/mqdefault.jpg",
+      "published": "2026-09-01T22:31:53Z"
     },
     {
       "channel": "Bage TV",
       "title": "PEPÊ NO GRÊMIO? CEBOLINHA QUER VOLTAR? ABEL VIRA ESTÁTUA 📰BAGÉTV NEWS #028",
       "videoId": "N_DJdAGH-xE",
       "url": "https://www.youtube.com/watch?v=N_DJdAGH-xE",
-      "thumbnail": "https://i.ytimg.com/vi/N_DJdAGH-xE/mqdefault_live.jpg",
-      "published": "2026-09-01T20:27:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/N_DJdAGH-xE/mqdefault.jpg",
+      "published": "2026-09-01T22:14:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 01/09/2026",
+      "videoId": "vdYDgQfwVVI",
+      "url": "https://www.youtube.com/watch?v=vdYDgQfwVVI",
+      "thumbnail": "https://i.ytimg.com/vi/vdYDgQfwVVI/mqdefault_live.jpg",
+      "published": "2026-09-01T22:00:19Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #3",
       "videoId": "lwD_CtCwxW4",
       "url": "https://www.youtube.com/watch?v=lwD_CtCwxW4",
@@ -75,12 +83,12 @@
       "published": "2026-09-01T17:14:17Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #008",
-      "videoId": "UTve0dyChCs",
-      "url": "https://www.youtube.com/watch?v=UTve0dyChCs",
-      "thumbnail": "https://i.ytimg.com/vi/UTve0dyChCs/mqdefault_live.jpg",
-      "published": "2026-09-01T13:09:18Z"
+      "channel": "Canal do Gabardo",
+      "title": "Veja a estátua de Abel Braga #inter",
+      "videoId": "Rge_D4FshA8",
+      "url": "https://www.youtube.com/watch?v=Rge_D4FshA8",
+      "thumbnail": "https://i.ytimg.com/vi/Rge_D4FshA8/mqdefault.jpg",
+      "published": "2026-09-01T22:02:11Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -91,12 +99,12 @@
       "published": "2026-09-01T21:25:00Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Cebolinha pode voltar para o Grêmio?",
-      "videoId": "FPxALHFxA9k",
-      "url": "https://www.youtube.com/watch?v=FPxALHFxA9k",
-      "thumbnail": "https://i.ytimg.com/vi/FPxALHFxA9k/mqdefault.jpg",
-      "published": "2026-09-01T19:00:03Z"
+      "channel": "Careca de Saber TV",
+      "title": "O PODEROSO QUE BARROU O DINHEIRO DO GRÊMIO | CEBOLINHA: LIGARAM?",
+      "videoId": "iOrlTbPkgv8",
+      "url": "https://www.youtube.com/watch?v=iOrlTbPkgv8",
+      "thumbnail": "https://i.ytimg.com/vi/iOrlTbPkgv8/mqdefault.jpg",
+      "published": "2026-09-01T22:13:08Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=-Skj4Y-5hKM",
       "thumbnail": "https://i.ytimg.com/vi/-Skj4Y-5hKM/mqdefault.jpg",
       "published": "2026-09-01T14:00:22Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ARTHUR E RONALDINHO GAÚCHO. 🫤 #gremio #Santos #futebol",
-      "videoId": "UX9v_6EHHB0",
-      "url": "https://www.youtube.com/watch?v=UX9v_6EHHB0",
-      "thumbnail": "https://i.ytimg.com/vi/UX9v_6EHHB0/mqdefault.jpg",
-      "published": "2026-09-01T11:00:07Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "A AULA TÁTICA DO TÉCNICO DA SELEÇÃO FEMININA QUE BATEU OS ESTADOS UNIDOS | Cortes do Duda",
-      "videoId": "9Iho8jO-Whg",
-      "url": "https://www.youtube.com/watch?v=9Iho8jO-Whg",
-      "thumbnail": "https://i.ytimg.com/vi/9Iho8jO-Whg/mqdefault.jpg",
-      "published": "2026-09-01T21:30:24Z"
+      "title": "ARTHUR ELIAS NO FUTEBOL MASCULINO #dudagarbi #umassadopara",
+      "videoId": "cH7dJZvWksI",
+      "url": "https://www.youtube.com/watch?v=cH7dJZvWksI",
+      "thumbnail": "https://i.ytimg.com/vi/cH7dJZvWksI/mqdefault.jpg",
+      "published": "2026-09-01T22:00:11Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "QUEM VAI GANHAR A COPA FEMININA? #dudagarbi #umassadopara",
-      "videoId": "mKQqHPxwyOQ",
-      "url": "https://www.youtube.com/watch?v=mKQqHPxwyOQ",
-      "thumbnail": "https://i.ytimg.com/vi/mKQqHPxwyOQ/mqdefault.jpg",
-      "published": "2026-09-01T21:30:23Z"
+      "title": "ELE TEM LUGAR NO SEU TIME? ARTHUR ELIAS VAI PARA O FUTEBOL MASCULINO | Cortes do Duda",
+      "videoId": "SiRdS3w2Pz4",
+      "url": "https://www.youtube.com/watch?v=SiRdS3w2Pz4",
+      "thumbnail": "https://i.ytimg.com/vi/SiRdS3w2Pz4/mqdefault.jpg",
+      "published": "2026-09-01T22:00:07Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS GRANDES DÚVIDAS DO GRÊMIO PARA O GRENAL | NOVO SISTEMA NA ARENA | COBRANÇA NA CBF | IMORTAL FC",
+      "videoId": "aBXoUid5NN8",
+      "url": "https://www.youtube.com/watch?v=aBXoUid5NN8",
+      "thumbnail": "https://i.ytimg.com/vi/aBXoUid5NN8/mqdefault.jpg",
+      "published": "2026-09-01T22:13:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIEGO CAITO FORA? PAVÓN NA LATERAL? | GRÊMIO FOCA NO CLÁSSICO | PLANTÃO IMORTAL — SEMANA GRENAL",
       "videoId": "Up0Rsl-BDgs",
       "url": "https://www.youtube.com/watch?v=Up0Rsl-BDgs",
       "thumbnail": "https://i.ytimg.com/vi/Up0Rsl-BDgs/mqdefault_live.jpg",
-      "published": "2026-09-01T21:04:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS GRANDES DÚVIDAS DO GRÊMIO PARA O GRENAL | NOVO SISTEMA NA ARENA | COBRANÇA NA CBF | IMORTAL FC",
-      "videoId": "aBXoUid5NN8",
-      "url": "https://www.youtube.com/watch?v=aBXoUid5NN8",
-      "thumbnail": "https://i.ytimg.com/vi/aBXoUid5NN8/mqdefault_live.jpg",
-      "published": "2026-09-01T21:00:28Z"
+      "published": "2026-09-01T22:03:18Z"
     }
   ]
 }
