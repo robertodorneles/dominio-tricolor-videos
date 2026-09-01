@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:00:42.155040+00:00",
+  "updated_at": "2026-09-01T10:00:40.444896+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "A MÁ NOTÍCIA DO GRENAL 🌅🔵 BOM DIA GRÊMIO #113",
+      "videoId": "UIHDLuUwI60",
+      "url": "https://www.youtube.com/watch?v=UIHDLuUwI60",
+      "thumbnail": "https://i.ytimg.com/vi/UIHDLuUwI60/mqdefault_live.jpg",
+      "published": "2026-09-01T09:34:15Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CEBOLINHA QUER O GRÊMIO!🔵 BOA NOITE GRÊMIO #015",
       "videoId": "doPBb1Wv44U",
       "url": "https://www.youtube.com/watch?v=doPBb1Wv44U",
       "thumbnail": "https://i.ytimg.com/vi/doPBb1Wv44U/mqdefault.jpg",
       "published": "2026-09-01T02:03:26Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "AS DÚVIDAS DE LUÍS CASTRO PARA O CLÁSSICO GRENAL🟣RESENHA FORA DA SALA NOITE🟣#015",
-      "videoId": "YtF3KIpbxFQ",
-      "url": "https://www.youtube.com/watch?v=YtF3KIpbxFQ",
-      "thumbnail": "https://i.ytimg.com/vi/YtF3KIpbxFQ/mqdefault.jpg",
-      "published": "2026-09-01T00:39:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Cidade do Agro, desenvolvimento, conexão e futuro | Campo em Debate | 31/08/2026",
+      "videoId": "aisfN74vYfQ",
+      "url": "https://www.youtube.com/watch?v=aisfN74vYfQ",
+      "thumbnail": "https://i.ytimg.com/vi/aisfN74vYfQ/mqdefault.jpg",
+      "published": "2026-09-01T09:07:39Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Animal mais pesado da Expointer, Toffoli suspende campanha de Renan Santos e + | Gaúcha+ | 31/08/26",
       "videoId": "TMErfWdwIDQ",
       "url": "https://www.youtube.com/watch?v=TMErfWdwIDQ",
       "thumbnail": "https://i.ytimg.com/vi/TMErfWdwIDQ/mqdefault.jpg",
       "published": "2026-09-01T07:40:28Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "As estratégias para o arroz ganhar espaço na mesa | Campo em Debate | 31/08/2026",
-      "videoId": "Hgfl-igePYw",
-      "url": "https://www.youtube.com/watch?v=Hgfl-igePYw",
-      "thumbnail": "https://i.ytimg.com/vi/Hgfl-igePYw/mqdefault.jpg",
-      "published": "2026-09-01T06:58:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #12 — GRÊMIO DEVE SEGUIR DESFALCADO NO CLÁSSICO GRENAL",
+      "videoId": "1PDU3d-X1xw",
+      "url": "https://www.youtube.com/watch?v=1PDU3d-X1xw",
+      "thumbnail": "https://i.ytimg.com/vi/1PDU3d-X1xw/mqdefault_live.jpg",
+      "published": "2026-09-01T09:35:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COMEÇA A SEMANA GRENAL | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO - 31/08",
       "videoId": "OJAnUMlNZ8k",
       "url": "https://www.youtube.com/watch?v=OJAnUMlNZ8k",
       "thumbnail": "https://i.ytimg.com/vi/OJAnUMlNZ8k/mqdefault_live.jpg",
       "published": "2026-09-01T01:30:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #145 — GRÊMIO COM PROBLEMÃO NA LATERAL | PARTE FÍSICA PREOCUPA",
-      "videoId": "_sOIFeuwLGs",
-      "url": "https://www.youtube.com/watch?v=_sOIFeuwLGs",
-      "thumbnail": "https://i.ytimg.com/vi/_sOIFeuwLGs/mqdefault_live.jpg",
-      "published": "2026-08-31T23:04:06Z"
     }
   ]
 }
