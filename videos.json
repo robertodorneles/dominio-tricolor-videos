@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:00:56.320951+00:00",
+  "updated_at": "2026-09-01T17:00:42.412999+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CEBOLINHA DE VOLTA AO GRÊMIO? VILLAGRA DE SAÍDA E MISTÉRIO NO GRE-NAL!🔸RESENHA FORA DA SALA🔸#121",
+      "videoId": "plOb9hV_ZgA",
+      "url": "https://www.youtube.com/watch?v=plOb9hV_ZgA",
+      "thumbnail": "https://i.ytimg.com/vi/plOb9hV_ZgA/mqdefault_live.jpg",
+      "published": "2026-09-01T16:28:55Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #057",
       "videoId": "tA9jc_3SSLU",
       "url": "https://www.youtube.com/watch?v=tA9jc_3SSLU",
       "thumbnail": "https://i.ytimg.com/vi/tA9jc_3SSLU/mqdefault.jpg",
       "published": "2026-09-01T15:36:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CEBOLINHA VEM PARA O GRÊMIO? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 01/09 - #624",
-      "videoId": "hBwAjSPnj_E",
-      "url": "https://www.youtube.com/watch?v=hBwAjSPnj_E",
-      "thumbnail": "https://i.ytimg.com/vi/hBwAjSPnj_E/mqdefault.jpg",
-      "published": "2026-09-01T14:02:09Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "lwD_CtCwxW4",
       "url": "https://www.youtube.com/watch?v=lwD_CtCwxW4",
       "thumbnail": "https://i.ytimg.com/vi/lwD_CtCwxW4/mqdefault_live.jpg",
-      "published": "2026-09-01T14:41:26Z"
+      "published": "2026-09-01T16:01:20Z"
     },
     {
       "channel": "Canal do Farid",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨NEGOCIAÇÃO EM ANDAMENTO | MAIS UM REFORÇO PRO GRÊMIO? | NOVIDADE SOBRE CEBOLINHA",
+      "videoId": "mDHq-lDCBUU",
+      "url": "https://www.youtube.com/watch?v=mDHq-lDCBUU",
+      "thumbnail": "https://i.ytimg.com/vi/mDHq-lDCBUU/mqdefault.jpg",
+      "published": "2026-09-01T16:58:19Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨GRÊMIO: R$ 48 MILHÕES POR JOGADOR | FELIPÃO APONTA OS CULPADOS | O FUTURO DE LUÍS CASTRO",
       "videoId": "wQQ7S-0THNE",
       "url": "https://www.youtube.com/watch?v=wQQ7S-0THNE",
       "thumbnail": "https://i.ytimg.com/vi/wQQ7S-0THNE/mqdefault.jpg",
       "published": "2026-08-31T16:59:33Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨BAITA NOTÍCIA! 60 MILHÕES DE REAIS NOS COFRES DO GRÊMIO | NEGÓCIO FECHADO! | COM A FORÇA DE NEYMAR",
-      "videoId": "eUfJwC1NSBo",
-      "url": "https://www.youtube.com/watch?v=eUfJwC1NSBo",
-      "thumbnail": "https://i.ytimg.com/vi/eUfJwC1NSBo/mqdefault.jpg",
-      "published": "2026-08-30T16:40:56Z"
     },
     {
       "channel": "Radio Grenal",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 01/09/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 01/09/2026 | RÁDIO GRENAL",
       "videoId": "cFZgeloN0u0",
       "url": "https://www.youtube.com/watch?v=cFZgeloN0u0",
       "thumbnail": "https://i.ytimg.com/vi/cFZgeloN0u0/mqdefault_live.jpg",
       "published": "2026-09-01T11:03:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #145 — GRÊMIO COM PROBLEMÃO NA LATERAL | PARTE FÍSICA PREOCUPA",
+      "videoId": "_sOIFeuwLGs",
+      "url": "https://www.youtube.com/watch?v=_sOIFeuwLGs",
+      "thumbnail": "https://i.ytimg.com/vi/_sOIFeuwLGs/mqdefault.jpg",
+      "published": "2026-09-01T16:10:33Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=PD0sJyprnHI",
       "thumbnail": "https://i.ytimg.com/vi/PD0sJyprnHI/mqdefault.jpg",
       "published": "2026-09-01T15:25:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 01/09",
-      "videoId": "aBXoUid5NN8",
-      "url": "https://www.youtube.com/watch?v=aBXoUid5NN8",
-      "thumbnail": "https://i.ytimg.com/vi/aBXoUid5NN8/mqdefault_live.jpg",
-      "published": "2026-09-01T15:22:43Z"
     }
   ]
 }
