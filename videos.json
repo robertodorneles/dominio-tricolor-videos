@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-01T00:00:44.916512+00:00",
+  "updated_at": "2026-09-01T00:57:41.241380+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  A SEMANA GRE-NAL COMEÇOU OFICIALMENTE | BASTIDORES!",
+      "videoId": "yZvki_UxTyM",
+      "url": "https://www.youtube.com/watch?v=yZvki_UxTyM",
+      "thumbnail": "https://i.ytimg.com/vi/yZvki_UxTyM/mqdefault_live.jpg",
+      "published": "2026-09-01T00:47:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "⚽ THIS IS FOOTBALL!!!!",
@@ -11,28 +19,20 @@
       "published": "2026-08-31T20:56:43Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: Direção e treinador do Inter armam cenário para classificação na Arena | Bastidores",
-      "videoId": "1ZD9stBvObk",
-      "url": "https://www.youtube.com/watch?v=1ZD9stBvObk",
-      "thumbnail": "https://i.ytimg.com/vi/1ZD9stBvObk/mqdefault.jpg",
-      "published": "2026-08-31T20:00:07Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "TIME DO LUÍS CASTRO NÃO MOSTRA EVOLUÇÃO! #CORTESDONEWS",
-      "videoId": "Iquxi7HTKys",
-      "url": "https://www.youtube.com/watch?v=Iquxi7HTKys",
-      "thumbnail": "https://i.ytimg.com/vi/Iquxi7HTKys/mqdefault.jpg",
-      "published": "2026-08-31T23:44:37Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "AS DÚVIDAS DE LUÍS CASTRO PARA O CLÁSSICO GRENAL🟣RESENHA FORA DA SALA NOITE🟣#015",
       "videoId": "YtF3KIpbxFQ",
       "url": "https://www.youtube.com/watch?v=YtF3KIpbxFQ",
-      "thumbnail": "https://i.ytimg.com/vi/YtF3KIpbxFQ/mqdefault_live.jpg",
-      "published": "2026-08-31T23:15:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/YtF3KIpbxFQ/mqdefault.jpg",
+      "published": "2026-09-01T00:39:21Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "CEBOLINHA QUER O GRÊMIO!🔵 BOA NOITE GRÊMIO #015",
+      "videoId": "doPBb1Wv44U",
+      "url": "https://www.youtube.com/watch?v=doPBb1Wv44U",
+      "thumbnail": "https://i.ytimg.com/vi/doPBb1Wv44U/mqdefault_live.jpg",
+      "published": "2026-09-01T00:32:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - BRASILEIRÃO | GRENAL | SAÍDA DE MEC E MAIS",
+      "videoId": "v5j-YmCV3gs",
+      "url": "https://www.youtube.com/watch?v=v5j-YmCV3gs",
+      "thumbnail": "https://i.ytimg.com/vi/v5j-YmCV3gs/mqdefault_live.jpg",
+      "published": "2026-09-01T00:00:57Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #666: Tabela do Brasileirão | Arthur | Valor por Mec | Caito | Grenal e mais",
       "videoId": "S2tZO5FqAF0",
       "url": "https://www.youtube.com/watch?v=S2tZO5FqAF0",
       "thumbnail": "https://i.ytimg.com/vi/S2tZO5FqAF0/mqdefault.jpg",
       "published": "2026-08-31T20:29:10Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "GRÊMIO 3 X 1 CHAPECOENSE: VITÓRIA IMPORTANTE NA ARENA",
-      "videoId": "dew0t0l-EXM",
-      "url": "https://www.youtube.com/watch?v=dew0t0l-EXM",
-      "thumbnail": "https://i.ytimg.com/vi/dew0t0l-EXM/mqdefault.jpg",
-      "published": "2026-08-31T01:26:45Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "BASTIDORES | GRÊMIO 3x1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "61CzkRvnE5w",
+      "url": "https://www.youtube.com/watch?v=61CzkRvnE5w",
+      "thumbnail": "https://i.ytimg.com/vi/61CzkRvnE5w/mqdefault.jpg",
+      "published": "2026-09-01T00:08:06Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "FELIPÃO E CARLOS MIGUEL RELEMBRAM 31 ANOS DAS LIBERTADORES",
       "videoId": "PNhPfpMHj1I",
       "url": "https://www.youtube.com/watch?v=PNhPfpMHj1I",
       "thumbnail": "https://i.ytimg.com/vi/PNhPfpMHj1I/mqdefault.jpg",
       "published": "2026-08-31T19:46:31Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GOLS | GRÊMIO 3X1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "TRR4r3o95n8",
-      "url": "https://www.youtube.com/watch?v=TRR4r3o95n8",
-      "thumbnail": "https://i.ytimg.com/vi/TRR4r3o95n8/mqdefault.jpg",
-      "published": "2026-08-31T01:24:52Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "COMEÇA A SEMANA GRENAL | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO - 31/08",
+      "videoId": "OJAnUMlNZ8k",
+      "url": "https://www.youtube.com/watch?v=OJAnUMlNZ8k",
+      "thumbnail": "https://i.ytimg.com/vi/OJAnUMlNZ8k/mqdefault_live.jpg",
+      "published": "2026-09-01T00:02:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #145 — GRÊMIO COM PROBLEMÃO NA LATERAL | PARTE FÍSICA PREOCUPA",
       "videoId": "_sOIFeuwLGs",
       "url": "https://www.youtube.com/watch?v=_sOIFeuwLGs",
       "thumbnail": "https://i.ytimg.com/vi/_sOIFeuwLGs/mqdefault_live.jpg",
       "published": "2026-08-31T23:04:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO COM DÚVIDAS PARA O GRENAL DECISIVO — COMO É BOM SER DO GRÊMIO #32",
-      "videoId": "PD0sJyprnHI",
-      "url": "https://www.youtube.com/watch?v=PD0sJyprnHI",
-      "thumbnail": "https://i.ytimg.com/vi/PD0sJyprnHI/mqdefault_live.jpg",
-      "published": "2026-08-31T22:57:38Z"
     }
   ]
 }
