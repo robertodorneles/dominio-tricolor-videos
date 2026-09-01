@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:00:46.153417+00:00",
+  "updated_at": "2026-09-01T15:00:41.955587+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "tA9jc_3SSLU",
       "url": "https://www.youtube.com/watch?v=tA9jc_3SSLU",
       "thumbnail": "https://i.ytimg.com/vi/tA9jc_3SSLU/mqdefault_live.jpg",
-      "published": "2026-09-01T13:38:43Z"
+      "published": "2026-09-01T14:53:52Z"
     },
     {
       "channel": "Bage TV",
       "title": "CEBOLINHA VEM PARA O GRÊMIO? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 01/09 - #624",
       "videoId": "hBwAjSPnj_E",
       "url": "https://www.youtube.com/watch?v=hBwAjSPnj_E",
-      "thumbnail": "https://i.ytimg.com/vi/hBwAjSPnj_E/mqdefault_live.jpg",
-      "published": "2026-09-01T13:32:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/hBwAjSPnj_E/mqdefault.jpg",
+      "published": "2026-09-01T14:02:09Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨CEBOLINHA NEGOCIANDO PRA VOLTAR PRO GRÊMIO? | O PROBLEMA GRAVE DO TIME | DISPUTA NO ATAQUE",
+      "videoId": "Per3sRMC_xY",
+      "url": "https://www.youtube.com/watch?v=Per3sRMC_xY",
+      "thumbnail": "https://i.ytimg.com/vi/Per3sRMC_xY/mqdefault.jpg",
+      "published": "2026-09-01T14:43:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=hmpUtFHqbIw",
       "thumbnail": "https://i.ytimg.com/vi/hmpUtFHqbIw/mqdefault.jpg",
       "published": "2026-08-31T23:04:32Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨FELIPÃO FAZ REVELAÇÃO CHOCANTE | CULPADOS ESCOLHIDOS PELO GRÊMIO | O INTER TÁ DESTRUÍDO!",
-      "videoId": "azyJStlHOc0",
-      "url": "https://www.youtube.com/watch?v=azyJStlHOc0",
-      "thumbnail": "https://i.ytimg.com/vi/azyJStlHOc0/mqdefault.jpg",
-      "published": "2026-08-31T14:27:24Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #3",
+      "videoId": "lwD_CtCwxW4",
+      "url": "https://www.youtube.com/watch?v=lwD_CtCwxW4",
+      "thumbnail": "https://i.ytimg.com/vi/lwD_CtCwxW4/mqdefault_live.jpg",
+      "published": "2026-09-01T14:41:26Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #008",
       "videoId": "UTve0dyChCs",
       "url": "https://www.youtube.com/watch?v=UTve0dyChCs",
       "thumbnail": "https://i.ytimg.com/vi/UTve0dyChCs/mqdefault_live.jpg",
       "published": "2026-09-01T13:09:18Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #007",
-      "videoId": "0mPNzv_5L9U",
-      "url": "https://www.youtube.com/watch?v=0mPNzv_5L9U",
-      "thumbnail": "https://i.ytimg.com/vi/0mPNzv_5L9U/mqdefault_live.jpg",
-      "published": "2026-09-01T12:37:24Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO BATEU A META DE VENDA DE JOGADORES! MAS A META PODE AUMENTAR,  DEVIDO AS DÍVIDAS!  #futebol",
+      "videoId": "-Skj4Y-5hKM",
+      "url": "https://www.youtube.com/watch?v=-Skj4Y-5hKM",
+      "thumbnail": "https://i.ytimg.com/vi/-Skj4Y-5hKM/mqdefault.jpg",
+      "published": "2026-09-01T14:00:22Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ARTHUR E RONALDINHO GAÚCHO. 🫤 #gremio #Santos #futebol",
       "videoId": "UX9v_6EHHB0",
       "url": "https://www.youtube.com/watch?v=UX9v_6EHHB0",
@@ -107,12 +115,12 @@
       "published": "2026-09-01T11:00:07Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "MEC: VALOR DIFERENTE | VEM MUDANÇAS NO NO GRÊMIO PARA GRE-NAL.",
-      "videoId": "YtMKAy7izqo",
-      "url": "https://www.youtube.com/watch?v=YtMKAy7izqo",
-      "thumbnail": "https://i.ytimg.com/vi/YtMKAy7izqo/mqdefault.jpg",
-      "published": "2026-08-31T21:57:57Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "CEBOLINHA VEM AI? MANDACA ADIANTADO? | R$150 MILHÕES NOS BOLSOS | MONSALVE E MANO MENEZES",
+      "videoId": "4vxSS6LJd2g",
+      "url": "https://www.youtube.com/watch?v=4vxSS6LJd2g",
+      "thumbnail": "https://i.ytimg.com/vi/4vxSS6LJd2g/mqdefault.jpg",
+      "published": "2026-09-01T14:18:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=JZa2m4YRB6g",
       "thumbnail": "https://i.ytimg.com/vi/JZa2m4YRB6g/mqdefault_live.jpg",
       "published": "2026-08-31T02:54:41Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x INTER (GRENAL 454) DIRETO DA ARENA | COPA DO BRASIL | 03/09 #15",
-      "videoId": "GUZYOwfOtuo",
-      "url": "https://www.youtube.com/watch?v=GUZYOwfOtuo",
-      "thumbnail": "https://i.ytimg.com/vi/GUZYOwfOtuo/mqdefault_live.jpg",
-      "published": "2026-08-31T02:50:14Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "NOVO SISTEMA PARA LOTAR A ARENA!",
+      "videoId": "91fnHtRcPXQ",
+      "url": "https://www.youtube.com/watch?v=91fnHtRcPXQ",
+      "thumbnail": "https://i.ytimg.com/vi/91fnHtRcPXQ/mqdefault.jpg",
+      "published": "2026-09-01T14:06:57Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "BASTIDORES | GRÊMIO 3x1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "61CzkRvnE5w",
       "url": "https://www.youtube.com/watch?v=61CzkRvnE5w",
@@ -155,28 +163,20 @@
       "published": "2026-09-01T00:08:06Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "FELIPÃO E CARLOS MIGUEL RELEMBRAM 31 ANOS DAS LIBERTADORES",
-      "videoId": "PNhPfpMHj1I",
-      "url": "https://www.youtube.com/watch?v=PNhPfpMHj1I",
-      "thumbnail": "https://i.ytimg.com/vi/PNhPfpMHj1I/mqdefault.jpg",
-      "published": "2026-08-31T19:46:31Z"
+      "channel": "GZH Digital",
+      "title": "Vacinas contra o câncer: o que já é realidade e o que ainda está em estudo | Tá Tudo Bem?",
+      "videoId": "g1ml0j_0kxs",
+      "url": "https://www.youtube.com/watch?v=g1ml0j_0kxs",
+      "thumbnail": "https://i.ytimg.com/vi/g1ml0j_0kxs/mqdefault.jpg",
+      "published": "2026-09-01T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Campanha de Renan Santos suspensa, gaúchos desaparecem em trilha e mais | Timeline | 01/09/2026",
-      "videoId": "QcdPwzmNJPc",
-      "url": "https://www.youtube.com/watch?v=QcdPwzmNJPc",
-      "thumbnail": "https://i.ytimg.com/vi/QcdPwzmNJPc/mqdefault_live.jpg",
-      "published": "2026-09-01T13:54:35Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "100 anos de tecnologia e inovação | Campo em Debate | 01/09/2026",
-      "videoId": "yVdi7xoRWWY",
-      "url": "https://www.youtube.com/watch?v=yVdi7xoRWWY",
-      "thumbnail": "https://i.ytimg.com/vi/yVdi7xoRWWY/mqdefault_live.jpg",
-      "published": "2026-09-01T12:59:56Z"
+      "title": "Resgate de gaúchos em trilha, notícias do RS, trânsito e + | Gaúcha+ | 1º/09/26",
+      "videoId": "4o1MQlMh4Lo",
+      "url": "https://www.youtube.com/watch?v=4o1MQlMh4Lo",
+      "thumbnail": "https://i.ytimg.com/vi/4o1MQlMh4Lo/mqdefault_live.jpg",
+      "published": "2026-09-01T14:57:56Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,35 +212,35 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 01/09/2026 | RÁDIO GRENAL",
+      "title": "MAIOR RIVALIDADE DO BRASIL! 🇪🇪🇮🇩 #gremio #inter #grenal #ciceromello #maurobeting",
+      "videoId": "f1ceniNb_xg",
+      "url": "https://www.youtube.com/watch?v=f1ceniNb_xg",
+      "thumbnail": "https://i.ytimg.com/vi/f1ceniNb_xg/mqdefault.jpg",
+      "published": "2026-09-01T14:35:37Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO | DUPLA EM DEBATE | 01/09/2026 | RÁDIO GRENAL",
       "videoId": "cFZgeloN0u0",
       "url": "https://www.youtube.com/watch?v=cFZgeloN0u0",
       "thumbnail": "https://i.ytimg.com/vi/cFZgeloN0u0/mqdefault_live.jpg",
       "published": "2026-09-01T11:03:35Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "31/08/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "EtC_OL_DDYI",
-      "url": "https://www.youtube.com/watch?v=EtC_OL_DDYI",
-      "thumbnail": "https://i.ytimg.com/vi/EtC_OL_DDYI/mqdefault.jpg",
-      "published": "2026-08-31T23:55:13Z"
+      "channel": "Radio Imortal",
+      "title": "ESPLANADA — 01/09",
+      "videoId": "2DDFQzN9o6M",
+      "url": "https://www.youtube.com/watch?v=2DDFQzN9o6M",
+      "thumbnail": "https://i.ytimg.com/vi/2DDFQzN9o6M/mqdefault_live.jpg",
+      "published": "2026-09-01T14:09:13Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "COMEÇA A SEMANA GRENAL | ÚLTIMAS NOTÍCIAS DO GRÊMIO | NOITES DE GRÊMIO - 31/08",
-      "videoId": "OJAnUMlNZ8k",
-      "url": "https://www.youtube.com/watch?v=OJAnUMlNZ8k",
-      "thumbnail": "https://i.ytimg.com/vi/OJAnUMlNZ8k/mqdefault.jpg",
-      "published": "2026-09-01T13:53:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO COM DÚVIDAS PARA O GRENAL DECISIVO — COMO É BOM SER DO GRÊMIO #32",
-      "videoId": "PD0sJyprnHI",
-      "url": "https://www.youtube.com/watch?v=PD0sJyprnHI",
-      "thumbnail": "https://i.ytimg.com/vi/PD0sJyprnHI/mqdefault_live.jpg",
-      "published": "2026-09-01T12:31:48Z"
+      "title": "TIMELINE IMORTAL #145 — GRÊMIO COM PROBLEMÃO NA LATERAL | PARTE FÍSICA PREOCUPA",
+      "videoId": "_sOIFeuwLGs",
+      "url": "https://www.youtube.com/watch?v=_sOIFeuwLGs",
+      "thumbnail": "https://i.ytimg.com/vi/_sOIFeuwLGs/mqdefault_live.jpg",
+      "published": "2026-09-01T14:08:48Z"
     }
   ]
 }
