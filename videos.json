@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:00:41.955587+00:00",
+  "updated_at": "2026-09-01T16:00:56.320951+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #057",
       "videoId": "tA9jc_3SSLU",
       "url": "https://www.youtube.com/watch?v=tA9jc_3SSLU",
-      "thumbnail": "https://i.ytimg.com/vi/tA9jc_3SSLU/mqdefault_live.jpg",
-      "published": "2026-09-01T14:53:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/tA9jc_3SSLU/mqdefault.jpg",
+      "published": "2026-09-01T15:36:33Z"
     },
     {
       "channel": "Bage TV",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Piloto de check-out no GreNal | Everton Cebolinha procurado por 5 clubes | Empresário cobra R$ 19 mi",
+      "videoId": "EmU-QK4zf6Y",
+      "url": "https://www.youtube.com/watch?v=EmU-QK4zf6Y",
+      "thumbnail": "https://i.ytimg.com/vi/EmU-QK4zf6Y/mqdefault.jpg",
+      "published": "2026-09-01T15:39:39Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Pezzolano corre risco? Cartão de Bernabei | Estreia de Arthur contra o Inter",
       "videoId": "ORnrJg2d7ZQ",
       "url": "https://www.youtube.com/watch?v=ORnrJg2d7ZQ",
       "thumbnail": "https://i.ytimg.com/vi/ORnrJg2d7ZQ/mqdefault.jpg",
       "published": "2026-08-31T21:37:53Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "O valor que ficará com o Grêmio na venda de Gabriel Mec para o Porto",
-      "videoId": "ig89GnSeiHA",
-      "url": "https://www.youtube.com/watch?v=ig89GnSeiHA",
-      "thumbnail": "https://i.ytimg.com/vi/ig89GnSeiHA/mqdefault.jpg",
-      "published": "2026-08-31T15:16:33Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -172,11 +172,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Resgate de gaúchos em trilha, notícias do RS, trânsito e + | Gaúcha+ | 1º/09/26",
+      "title": "Moraes e Vorcaro, resgate de gaúchos em trilha, notícias do RS, trânsito e + | Gaúcha+ | 1º/09/26",
       "videoId": "4o1MQlMh4Lo",
       "url": "https://www.youtube.com/watch?v=4o1MQlMh4Lo",
       "thumbnail": "https://i.ytimg.com/vi/4o1MQlMh4Lo/mqdefault_live.jpg",
       "published": "2026-09-01T14:57:56Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "DUPLA GRE-NAL EM CRISE: A teoria sobre a situação de Grêmio e Inter",
+      "videoId": "l3YGHTS5af8",
+      "url": "https://www.youtube.com/watch?v=l3YGHTS5af8",
+      "thumbnail": "https://i.ytimg.com/vi/l3YGHTS5af8/mqdefault.jpg",
+      "published": "2026-09-01T15:09:11Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=ofjgVAhVkk4",
       "thumbnail": "https://i.ytimg.com/vi/ofjgVAhVkk4/mqdefault.jpg",
       "published": "2026-09-01T12:17:31Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Felipão “entrega” plano + nova investida por reforço + grana final do Mec",
-      "videoId": "SqeMENkbQRw",
-      "url": "https://www.youtube.com/watch?v=SqeMENkbQRw",
-      "thumbnail": "https://i.ytimg.com/vi/SqeMENkbQRw/mqdefault.jpg",
-      "published": "2026-08-31T23:02:07Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 01/09",
-      "videoId": "2DDFQzN9o6M",
-      "url": "https://www.youtube.com/watch?v=2DDFQzN9o6M",
-      "thumbnail": "https://i.ytimg.com/vi/2DDFQzN9o6M/mqdefault_live.jpg",
-      "published": "2026-09-01T14:09:13Z"
+      "title": "GRÊMIO COM DÚVIDAS PARA O GRENAL DECISIVO — COMO É BOM SER DO GRÊMIO #32",
+      "videoId": "PD0sJyprnHI",
+      "url": "https://www.youtube.com/watch?v=PD0sJyprnHI",
+      "thumbnail": "https://i.ytimg.com/vi/PD0sJyprnHI/mqdefault.jpg",
+      "published": "2026-09-01T15:25:31Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #145 — GRÊMIO COM PROBLEMÃO NA LATERAL | PARTE FÍSICA PREOCUPA",
-      "videoId": "_sOIFeuwLGs",
-      "url": "https://www.youtube.com/watch?v=_sOIFeuwLGs",
-      "thumbnail": "https://i.ytimg.com/vi/_sOIFeuwLGs/mqdefault_live.jpg",
-      "published": "2026-09-01T14:08:48Z"
+      "title": "IMORTAL FC — 01/09",
+      "videoId": "aBXoUid5NN8",
+      "url": "https://www.youtube.com/watch?v=aBXoUid5NN8",
+      "thumbnail": "https://i.ytimg.com/vi/aBXoUid5NN8/mqdefault_live.jpg",
+      "published": "2026-09-01T15:22:43Z"
     }
   ]
 }
