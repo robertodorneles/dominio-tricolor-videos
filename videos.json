@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:00:31.114602+00:00",
+  "updated_at": "2026-09-01T02:00:55.918710+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "yZvki_UxTyM",
       "url": "https://www.youtube.com/watch?v=yZvki_UxTyM",
       "thumbnail": "https://i.ytimg.com/vi/yZvki_UxTyM/mqdefault_live.jpg",
-      "published": "2026-09-01T00:47:06Z"
+      "published": "2026-09-01T01:35:05Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CEBOLINHA QUER O GRÊMIO!🔵 BOA NOITE GRÊMIO #015",
+      "videoId": "doPBb1Wv44U",
+      "url": "https://www.youtube.com/watch?v=doPBb1Wv44U",
+      "thumbnail": "https://i.ytimg.com/vi/doPBb1Wv44U/mqdefault_live.jpg",
+      "published": "2026-09-01T01:58:42Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "AS DÚVIDAS DE LUÍS CASTRO PARA O CLÁSSICO GRENAL🟣RESENHA FORA DA SALA NOITE🟣#015",
       "videoId": "YtF3KIpbxFQ",
       "url": "https://www.youtube.com/watch?v=YtF3KIpbxFQ",
       "thumbnail": "https://i.ytimg.com/vi/YtF3KIpbxFQ/mqdefault.jpg",
       "published": "2026-09-01T00:39:21Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CEBOLINHA QUER O GRÊMIO!🔵 BOA NOITE GRÊMIO #015",
-      "videoId": "doPBb1Wv44U",
-      "url": "https://www.youtube.com/watch?v=doPBb1Wv44U",
-      "thumbnail": "https://i.ytimg.com/vi/doPBb1Wv44U/mqdefault_live.jpg",
-      "published": "2026-09-01T00:32:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -55,8 +55,8 @@
       "title": "PAPO DE GREMISTA PARA GREMISTA - BRASILEIRÃO | GRENAL | SAÍDA DE MEC E MAIS",
       "videoId": "v5j-YmCV3gs",
       "url": "https://www.youtube.com/watch?v=v5j-YmCV3gs",
-      "thumbnail": "https://i.ytimg.com/vi/v5j-YmCV3gs/mqdefault_live.jpg",
-      "published": "2026-09-01T00:00:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/v5j-YmCV3gs/mqdefault.jpg",
+      "published": "2026-09-01T01:20:30Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #006",
+      "videoId": "1XEjjloqUm8",
+      "url": "https://www.youtube.com/watch?v=1XEjjloqUm8",
+      "thumbnail": "https://i.ytimg.com/vi/1XEjjloqUm8/mqdefault.jpg",
+      "published": "2026-09-01T01:10:28Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 31/08/2026",
       "videoId": "Des92ulPBxs",
       "url": "https://www.youtube.com/watch?v=Des92ulPBxs",
       "thumbnail": "https://i.ytimg.com/vi/Des92ulPBxs/mqdefault_live.jpg",
       "published": "2026-08-31T23:07:39Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "OBRIGADO, KANNEMANN!",
-      "videoId": "-ah2W9m7sJw",
-      "url": "https://www.youtube.com/watch?v=-ah2W9m7sJw",
-      "thumbnail": "https://i.ytimg.com/vi/-ah2W9m7sJw/mqdefault.jpg",
-      "published": "2026-08-31T22:11:58Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com Consuelo Dieguez, últimas da política e mais | Timeline | 31/08/2026",
+      "videoId": "rDkHgTCjIJQ",
+      "url": "https://www.youtube.com/watch?v=rDkHgTCjIJQ",
+      "thumbnail": "https://i.ytimg.com/vi/rDkHgTCjIJQ/mqdefault.jpg",
+      "published": "2026-09-01T02:00:21Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O ARROZ ESTÁ PERDENDO ESPAÇO NO PRATO?",
       "videoId": "sfknOBzefhE",
       "url": "https://www.youtube.com/watch?v=sfknOBzefhE",
       "thumbnail": "https://i.ytimg.com/vi/sfknOBzefhE/mqdefault.jpg",
       "published": "2026-08-31T21:54:04Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "QUEM FOI ASSIS BRASIL? | ACONTECEU NO RS",
-      "videoId": "_bUIjcJrXVc",
-      "url": "https://www.youtube.com/watch?v=_bUIjcJrXVc",
-      "thumbnail": "https://i.ytimg.com/vi/_bUIjcJrXVc/mqdefault.jpg",
-      "published": "2026-08-31T21:12:53Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "OJAnUMlNZ8k",
       "url": "https://www.youtube.com/watch?v=OJAnUMlNZ8k",
       "thumbnail": "https://i.ytimg.com/vi/OJAnUMlNZ8k/mqdefault_live.jpg",
-      "published": "2026-09-01T00:02:19Z"
+      "published": "2026-09-01T01:30:18Z"
     },
     {
       "channel": "Radio Imortal",
