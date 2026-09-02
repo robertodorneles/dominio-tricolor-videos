@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:00:42.710159+00:00",
+  "updated_at": "2026-09-02T03:36:21.287321+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla: JÁ NO CLIMA DA COPA DO BRASIL | O PRIMEIRO SEMIFINALISTA DEFINIDO",
       "videoId": "u1zgZBAcRsA",
       "url": "https://www.youtube.com/watch?v=u1zgZBAcRsA",
-      "thumbnail": "https://i.ytimg.com/vi/u1zgZBAcRsA/mqdefault_live.jpg",
-      "published": "2026-09-01T23:27:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/u1zgZBAcRsA/mqdefault.jpg",
+      "published": "2026-09-02T03:34:04Z"
     },
     {
       "channel": "A Dupla",
@@ -23,8 +23,8 @@
       "title": "TITULAR RETORNA E REFORÇA O GRÊMIO PARA O CLÁSSICO🔵 BOA NOITE GRÊMIO #016",
       "videoId": "lW9Sk9eMdrs",
       "url": "https://www.youtube.com/watch?v=lW9Sk9eMdrs",
-      "thumbnail": "https://i.ytimg.com/vi/lW9Sk9eMdrs/mqdefault_live.jpg",
-      "published": "2026-09-02T01:59:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/lW9Sk9eMdrs/mqdefault.jpg",
+      "published": "2026-09-02T02:06:57Z"
     },
     {
       "channel": "Bage TV",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "100 anos de tecnologia e inovação | Campo em Debate | 01/09/2026",
+      "videoId": "yVdi7xoRWWY",
+      "url": "https://www.youtube.com/watch?v=yVdi7xoRWWY",
+      "thumbnail": "https://i.ytimg.com/vi/yVdi7xoRWWY/mqdefault.jpg",
+      "published": "2026-09-02T03:06:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Troféu Guri 2026 | 01/09/2026",
       "videoId": "JZMHyirpcJk",
       "url": "https://www.youtube.com/watch?v=JZMHyirpcJk",
@@ -171,12 +179,12 @@
       "published": "2026-09-01T23:44:54Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Influenciadora sergipana que mora no RS conhece pavilhão dos pequenos animais na Expointer",
-      "videoId": "QJWWtjsZuG4",
-      "url": "https://www.youtube.com/watch?v=QJWWtjsZuG4",
-      "thumbnail": "https://i.ytimg.com/vi/QJWWtjsZuG4/mqdefault.jpg",
-      "published": "2026-09-01T22:00:25Z"
+      "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Véspera de Gre-Nal e... + deu Galo na semifinal + Abelão + dívida",
+      "videoId": "7KXjoGPhs1g",
+      "url": "https://www.youtube.com/watch?v=7KXjoGPhs1g",
+      "thumbnail": "https://i.ytimg.com/vi/7KXjoGPhs1g/mqdefault_live.jpg",
+      "published": "2026-09-02T02:20:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=MRvnWqXmjTU",
       "thumbnail": "https://i.ytimg.com/vi/MRvnWqXmjTU/mqdefault.jpg",
       "published": "2026-09-02T01:30:29Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Penhora pedida + ficaram pistola + Cebolinha de volta?",
-      "videoId": "5IS0cS1YrsM",
-      "url": "https://www.youtube.com/watch?v=5IS0cS1YrsM",
-      "thumbnail": "https://i.ytimg.com/vi/5IS0cS1YrsM/mqdefault.jpg",
-      "published": "2026-09-01T23:02:32Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "MISTÉRIO NA ESCALAÇÃO | DESFALQUES PARA O GRENAL | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #139 - 01/09",
       "videoId": "rA8hK7mv_kY",
       "url": "https://www.youtube.com/watch?v=rA8hK7mv_kY",
-      "thumbnail": "https://i.ytimg.com/vi/rA8hK7mv_kY/mqdefault_live.jpg",
-      "published": "2026-09-02T01:31:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/rA8hK7mv_kY/mqdefault.jpg",
+      "published": "2026-09-02T02:00:55Z"
     },
     {
       "channel": "Radio Imortal",
