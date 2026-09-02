@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:00:45.968494+00:00",
+  "updated_at": "2026-09-02T10:00:35.863219+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO TERÁ RETORNO NO GRENAL 🌅🔵 BOM DIA GRÊMIO #114",
+      "videoId": "dy6fcdfbUSc",
+      "url": "https://www.youtube.com/watch?v=dy6fcdfbUSc",
+      "thumbnail": "https://i.ytimg.com/vi/dy6fcdfbUSc/mqdefault_live.jpg",
+      "published": "2026-09-02T09:31:07Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "TITULAR RETORNA E REFORÇA O GRÊMIO PARA O CLÁSSICO🔵 BOA NOITE GRÊMIO #016",
       "videoId": "lW9Sk9eMdrs",
       "url": "https://www.youtube.com/watch?v=lW9Sk9eMdrs",
       "thumbnail": "https://i.ytimg.com/vi/lW9Sk9eMdrs/mqdefault.jpg",
       "published": "2026-09-02T02:06:57Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "R$ 19 MILHÕES! EMPRESÁRIO VAI À JUSTIÇA CONTRA O GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#016",
-      "videoId": "sSXHVD6IE2Q",
-      "url": "https://www.youtube.com/watch?v=sSXHVD6IE2Q",
-      "thumbnail": "https://i.ytimg.com/vi/sSXHVD6IE2Q/mqdefault.jpg",
-      "published": "2026-09-02T00:57:38Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #13 — GRÊMIO TEM RETORNO DE VOLTANTE PARA O GRENAL DE AMANHÃ",
+      "videoId": "d1ikK1VlF_U",
+      "url": "https://www.youtube.com/watch?v=d1ikK1VlF_U",
+      "thumbnail": "https://i.ytimg.com/vi/d1ikK1VlF_U/mqdefault_live.jpg",
+      "published": "2026-09-02T09:33:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MISTÉRIO NA ESCALAÇÃO | DESFALQUES PARA O GRENAL | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #139 - 01/09",
       "videoId": "rA8hK7mv_kY",
       "url": "https://www.youtube.com/watch?v=rA8hK7mv_kY",
       "thumbnail": "https://i.ytimg.com/vi/rA8hK7mv_kY/mqdefault.jpg",
       "published": "2026-09-02T02:00:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #146 — NARDONI DEVE VOLTAR AMANHÃ | 55 MIL NA ARENA?",
-      "videoId": "oNLa4z3W9ww",
-      "url": "https://www.youtube.com/watch?v=oNLa4z3W9ww",
-      "thumbnail": "https://i.ytimg.com/vi/oNLa4z3W9ww/mqdefault_live.jpg",
-      "published": "2026-09-01T23:46:37Z"
     }
   ]
 }
