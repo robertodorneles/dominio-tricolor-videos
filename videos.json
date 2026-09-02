@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-02T21:00:49.071631+00:00",
+  "updated_at": "2026-09-02T22:00:42.108846+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 PEZZOLANO PODE CORRIGIR ISTO | BERNABEI PREJUDICADO | COMO JOGAR O CLASSICO?",
+      "videoId": "xXisre9SH-o",
+      "url": "https://www.youtube.com/watch?v=xXisre9SH-o",
+      "thumbnail": "https://i.ytimg.com/vi/xXisre9SH-o/mqdefault.jpg",
+      "published": "2026-09-02T21:10:21Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O PROBLEMA DE CASTRO NA PRANCHETA | O RETORNO DE NARDONI | OPÇÕES TESTADAS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=6rJLalqNcuY",
       "thumbnail": "https://i.ytimg.com/vi/6rJLalqNcuY/mqdefault.jpg",
       "published": "2026-09-02T20:00:18Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 FORAM PRA CIMA! | GRENAL FERVE | PARCEIRO VAI AJUDAR? | VILLAGRA FICA",
-      "videoId": "FeSd6dZYUBs",
-      "url": "https://www.youtube.com/watch?v=FeSd6dZYUBs",
-      "thumbnail": "https://i.ytimg.com/vi/FeSd6dZYUBs/mqdefault.jpg",
-      "published": "2026-09-02T06:13:29Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 02/09/2026",
+      "videoId": "JPIqrHnZcVU",
+      "url": "https://www.youtube.com/watch?v=JPIqrHnZcVU",
+      "thumbnail": "https://i.ytimg.com/vi/JPIqrHnZcVU/mqdefault_live.jpg",
+      "published": "2026-09-02T21:58:39Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #4",
       "videoId": "Ll_GzQZT1Cg",
       "url": "https://www.youtube.com/watch?v=Ll_GzQZT1Cg",
       "thumbnail": "https://i.ytimg.com/vi/Ll_GzQZT1Cg/mqdefault_live.jpg",
       "published": "2026-09-02T17:10:31Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #009",
-      "videoId": "ftPxGa1usII",
-      "url": "https://www.youtube.com/watch?v=ftPxGa1usII",
-      "thumbnail": "https://i.ytimg.com/vi/ftPxGa1usII/mqdefault_live.jpg",
-      "published": "2026-09-02T12:47:26Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,27 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 02.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "AkE1Flrj5NQ",
-      "url": "https://www.youtube.com/watch?v=AkE1Flrj5NQ",
-      "thumbnail": "https://i.ytimg.com/vi/AkE1Flrj5NQ/mqdefault.jpg",
-      "published": "2026-09-02T14:03:15Z"
+      "title": "ELES TÊM QUE VALORIZAR NOSSAS JOGADORAS #dudagarbi #umassadopara",
+      "videoId": "Gc371Jag0xk",
+      "url": "https://www.youtube.com/watch?v=Gc371Jag0xk",
+      "thumbnail": "https://i.ytimg.com/vi/Gc371Jag0xk/mqdefault.jpg",
+      "published": "2026-09-02T22:00:04Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "ARTHUR ELIAS NO FUTEBOL MASCULINO #dudagarbi #umassadopara",
-      "videoId": "cH7dJZvWksI",
-      "url": "https://www.youtube.com/watch?v=cH7dJZvWksI",
-      "thumbnail": "https://i.ytimg.com/vi/cH7dJZvWksI/mqdefault.jpg",
-      "published": "2026-09-01T22:00:11Z"
+      "title": "OS SALÁRIOS DAS JOGADORAS DA SELEÇÃO BRASILEIRA DE FUTEBOL FEMININO SÃO JUSTOS? | Cortes do Duda",
+      "videoId": "Dw_FVKPYHs8",
+      "url": "https://www.youtube.com/watch?v=Dw_FVKPYHs8",
+      "thumbnail": "https://i.ytimg.com/vi/Dw_FVKPYHs8/mqdefault.jpg",
+      "published": "2026-09-02T22:00:02Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL (COPA DO BRASIL 2026)",
+      "videoId": "llfAlqtLi2s",
+      "url": "https://www.youtube.com/watch?v=llfAlqtLi2s",
+      "thumbnail": "https://i.ytimg.com/vi/llfAlqtLi2s/mqdefault_live.jpg",
+      "published": "2026-09-02T21:35:31Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,20 +163,12 @@
       "published": "2026-09-01T14:06:57Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "BASTIDORES | GRÊMIO 3x1 CHAPECOENSE (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "61CzkRvnE5w",
-      "url": "https://www.youtube.com/watch?v=61CzkRvnE5w",
-      "thumbnail": "https://i.ytimg.com/vi/61CzkRvnE5w/mqdefault.jpg",
-      "published": "2026-09-01T00:08:06Z"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "Mais presos, menos vagas: o desafio do sistema prisional | Reapresentação | Conversas Cruzadas",
-      "videoId": "lWfBrpAyrJk",
-      "url": "https://www.youtube.com/watch?v=lWfBrpAyrJk",
-      "thumbnail": "https://i.ytimg.com/vi/lWfBrpAyrJk/mqdefault.jpg",
-      "published": "2026-09-02T20:45:06Z"
+      "title": "Crise da Braskem, crédito para o agro, empregos de tecnologia e rombo da Simpala",
+      "videoId": "w3G5Oe2vaG4",
+      "url": "https://www.youtube.com/watch?v=w3G5Oe2vaG4",
+      "thumbnail": "https://i.ytimg.com/vi/w3G5Oe2vaG4/mqdefault.jpg",
+      "published": "2026-09-02T21:53:02Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "WKzRbuUywb0",
       "url": "https://www.youtube.com/watch?v=WKzRbuUywb0",
       "thumbnail": "https://i.ytimg.com/vi/WKzRbuUywb0/mqdefault_live.jpg",
-      "published": "2026-09-02T19:26:31Z"
+      "published": "2026-09-02T21:00:40Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TUDO SOBRE O GRENAL 454! GRÊMIO DEVE TER PAVÓN NO ATAQUE | DÚVIDA SEGUE NA LATERAL | IMORTAL FC",
+      "videoId": "7ChK91cpjxU",
+      "url": "https://www.youtube.com/watch?v=7ChK91cpjxU",
+      "thumbnail": "https://i.ytimg.com/vi/7ChK91cpjxU/mqdefault_live.jpg",
+      "published": "2026-09-02T21:01:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DO GRENAL | ZAGUEIRO ESPECULADO | CALENDÁRIO ATUALIZADO | ESPLANADA",
       "videoId": "3s2NC9HQbWA",
       "url": "https://www.youtube.com/watch?v=3s2NC9HQbWA",
       "thumbnail": "https://i.ytimg.com/vi/3s2NC9HQbWA/mqdefault.jpg",
       "published": "2026-09-02T19:45:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ZAGUEIRO URUGUAIO NO GRÊMIO? | ÚLTIMOS AJUSTES ANTES DO GRENAL | COMO É BOM SER DO GRÊMIO #33",
-      "videoId": "rlGUzFIUiaU",
-      "url": "https://www.youtube.com/watch?v=rlGUzFIUiaU",
-      "thumbnail": "https://i.ytimg.com/vi/rlGUzFIUiaU/mqdefault.jpg",
-      "published": "2026-09-02T15:52:38Z"
     }
   ]
 }
