@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-03T01:00:43.706998+00:00",
+  "updated_at": "2026-09-03T02:00:41.838671+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: FALTA UM! O PRÉ-JOGO DO CLÁSSICO GRE-NAL | CHEGOU A HORA",
+      "videoId": "7Z3QIknob2U",
+      "url": "https://www.youtube.com/watch?v=7Z3QIknob2U",
+      "thumbnail": "https://i.ytimg.com/vi/7Z3QIknob2U/mqdefault_live.jpg",
+      "published": "2026-09-03T01:26:36Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 PEZZOLANO PODE CORRIGIR ISTO | BERNABEI PREJUDICADO | COMO JOGAR O CLASSICO?",
@@ -11,12 +19,12 @@
       "published": "2026-09-02T21:10:21Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O PROBLEMA DE CASTRO NA PRANCHETA | O RETORNO DE NARDONI | OPÇÕES TESTADAS",
-      "videoId": "6rJLalqNcuY",
-      "url": "https://www.youtube.com/watch?v=6rJLalqNcuY",
-      "thumbnail": "https://i.ytimg.com/vi/6rJLalqNcuY/mqdefault.jpg",
-      "published": "2026-09-02T20:00:18Z"
+      "channel": "Bage TV",
+      "title": "DIEGO CAITO TITULAR? AS ESCOLHAS DE CASTRO PARA O GRE-NAL🔵 BOA NOITE GRÊMIO #017",
+      "videoId": "2gYNM4W0CSc",
+      "url": "https://www.youtube.com/watch?v=2gYNM4W0CSc",
+      "thumbnail": "https://i.ytimg.com/vi/2gYNM4W0CSc/mqdefault_live.jpg",
+      "published": "2026-09-03T01:57:47Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=Z59QJKnmCIU",
       "thumbnail": "https://i.ytimg.com/vi/Z59QJKnmCIU/mqdefault.jpg",
       "published": "2026-09-03T00:46:49Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIEGO CAITO TITULAR? AS ESCOLHAS DE CASTRO PARA O GRE-NAL🔵 BOA NOITE GRÊMIO #017",
-      "videoId": "2gYNM4W0CSc",
-      "url": "https://www.youtube.com/watch?v=2gYNM4W0CSc",
-      "thumbnail": "https://i.ytimg.com/vi/2gYNM4W0CSc/mqdefault_live.jpg",
-      "published": "2026-09-03T00:34:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FORA DO GRE-NAL! | MEC PROVOCOU O GRÊMIO? | INTER ARRUMA DINHEIRO!",
+      "videoId": "L7gPVgJKlq0",
+      "url": "https://www.youtube.com/watch?v=L7gPVgJKlq0",
+      "thumbnail": "https://i.ytimg.com/vi/L7gPVgJKlq0/mqdefault.jpg",
+      "published": "2026-09-03T01:45:30Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "AO VIVO: ESQUENTA GRE-NAL | DIRETO DA ARENA DO GRÊMIO.",
       "videoId": "X4JV2Cf4Ad0",
       "url": "https://www.youtube.com/watch?v=X4JV2Cf4Ad0",
       "thumbnail": "https://i.ytimg.com/vi/X4JV2Cf4Ad0/mqdefault.jpg",
       "published": "2026-09-02T23:15:16Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "QUEM É O PODEROSO QUE COBRA O PRÊMIO DO GRÊMIO! #gremio #futebol",
-      "videoId": "4OdSwdZEjl8",
-      "url": "https://www.youtube.com/watch?v=4OdSwdZEjl8",
-      "thumbnail": "https://i.ytimg.com/vi/4OdSwdZEjl8/mqdefault.jpg",
-      "published": "2026-09-02T16:00:38Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
