@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T00:00:50.824029+00:00",
+  "updated_at": "2026-09-03T00:59:49.150610+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "MANO A MANO DAS CELEBRIDADES! #CORTESDORESENHA",
-      "videoId": "HgqNQ_wCjm8",
-      "url": "https://www.youtube.com/watch?v=HgqNQ_wCjm8",
-      "thumbnail": "https://i.ytimg.com/vi/HgqNQ_wCjm8/mqdefault.jpg",
-      "published": "2026-09-02T23:41:25Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "PORTO ANUNCIA MEC | INTER PAGA VALORES AOS JOGADORES🟣RESENHA FORA DA SALA NOITE🟣#017",
       "videoId": "Z59QJKnmCIU",
       "url": "https://www.youtube.com/watch?v=Z59QJKnmCIU",
-      "thumbnail": "https://i.ytimg.com/vi/Z59QJKnmCIU/mqdefault_live.jpg",
-      "published": "2026-09-02T23:14:50Z"
+      "thumbnail": "https://i.ytimg.com/vi/Z59QJKnmCIU/mqdefault.jpg",
+      "published": "2026-09-03T00:46:49Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "DIEGO CAITO TITULAR? AS ESCOLHAS DE CASTRO PARA O GRE-NAL🔵 BOA NOITE GRÊMIO #017",
+      "videoId": "2gYNM4W0CSc",
+      "url": "https://www.youtube.com/watch?v=2gYNM4W0CSc",
+      "thumbnail": "https://i.ytimg.com/vi/2gYNM4W0CSc/mqdefault_live.jpg",
+      "published": "2026-09-03T00:34:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #008",
+      "videoId": "UTve0dyChCs",
+      "url": "https://www.youtube.com/watch?v=UTve0dyChCs",
+      "thumbnail": "https://i.ytimg.com/vi/UTve0dyChCs/mqdefault.jpg",
+      "published": "2026-09-03T00:47:57Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 02/09/2026",
       "videoId": "JPIqrHnZcVU",
       "url": "https://www.youtube.com/watch?v=JPIqrHnZcVU",
@@ -75,12 +83,12 @@
       "published": "2026-09-02T23:14:54Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #4",
-      "videoId": "Ll_GzQZT1Cg",
-      "url": "https://www.youtube.com/watch?v=Ll_GzQZT1Cg",
-      "thumbnail": "https://i.ytimg.com/vi/Ll_GzQZT1Cg/mqdefault_live.jpg",
-      "published": "2026-09-02T17:10:31Z"
+      "channel": "Canal do Gabardo",
+      "title": "O valor total da venda de Gabriel Mec para o Porto #gremio",
+      "videoId": "nvMDCZGFvdI",
+      "url": "https://www.youtube.com/watch?v=nvMDCZGFvdI",
+      "thumbnail": "https://i.ytimg.com/vi/nvMDCZGFvdI/mqdefault.jpg",
+      "published": "2026-09-03T00:36:17Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=rd69Y-K6Who",
       "thumbnail": "https://i.ytimg.com/vi/rd69Y-K6Who/mqdefault.jpg",
       "published": "2026-09-02T22:46:31Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Os 6 jogadores que estavam na lista do golpista que se passava por L. Castro | Escalações do GreNal",
-      "videoId": "weJZxZn1XDo",
-      "url": "https://www.youtube.com/watch?v=weJZxZn1XDo",
-      "thumbnail": "https://i.ytimg.com/vi/weJZxZn1XDo/mqdefault.jpg",
-      "published": "2026-09-02T18:13:49Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Por que a logística ainda encarece o agro no RS? | Campo em Debate",
+      "videoId": "APX_dmCEbTQ",
+      "url": "https://www.youtube.com/watch?v=APX_dmCEbTQ",
+      "thumbnail": "https://i.ytimg.com/vi/APX_dmCEbTQ/mqdefault.jpg",
+      "published": "2026-09-03T00:00:35Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "RS busca soluções para a transição climática | Campo em Debate",
       "videoId": "fbXmIfjzcy4",
       "url": "https://www.youtube.com/watch?v=fbXmIfjzcy4",
       "thumbnail": "https://i.ytimg.com/vi/fbXmIfjzcy4/mqdefault.jpg",
       "published": "2026-09-02T22:35:01Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Crise da Braskem, crédito para o agro, empregos de tecnologia e rombo da Simpala",
-      "videoId": "w3G5Oe2vaG4",
-      "url": "https://www.youtube.com/watch?v=w3G5Oe2vaG4",
-      "thumbnail": "https://i.ytimg.com/vi/w3G5Oe2vaG4/mqdefault.jpg",
-      "published": "2026-09-02T21:53:02Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -215,8 +215,8 @@
       "title": "02/09/2026 | LIVE COMPLETA| RÁDIO GRENAL",
       "videoId": "Jag9meb1RAY",
       "url": "https://www.youtube.com/watch?v=Jag9meb1RAY",
-      "thumbnail": "https://i.ytimg.com/vi/Jag9meb1RAY/mqdefault_live.jpg",
-      "published": "2026-09-02T23:02:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/Jag9meb1RAY/mqdefault.jpg",
+      "published": "2026-09-03T00:10:09Z"
     },
     {
       "channel": "Radio Grenal",
