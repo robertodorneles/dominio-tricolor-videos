@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:00:43.653682+00:00",
+  "updated_at": "2026-09-03T11:00:39.073030+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO x INTERNACIONAL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
+      "videoId": "mv9b3t7k5IU",
+      "url": "https://www.youtube.com/watch?v=mv9b3t7k5IU",
+      "thumbnail": "https://i.ytimg.com/vi/mv9b3t7k5IU/mqdefault_live.jpg",
+      "published": "2026-09-03T10:58:10Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "FORA DO GRE-NAL! | MEC PROVOCOU O GRÊMIO? | INTER ARRUMA DINHEIRO!",
       "videoId": "L7gPVgJKlq0",
       "url": "https://www.youtube.com/watch?v=L7gPVgJKlq0",
       "thumbnail": "https://i.ytimg.com/vi/L7gPVgJKlq0/mqdefault.jpg",
       "published": "2026-09-03T01:45:30Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "AO VIVO: ESQUENTA GRE-NAL | DIRETO DA ARENA DO GRÊMIO.",
-      "videoId": "X4JV2Cf4Ad0",
-      "url": "https://www.youtube.com/watch?v=X4JV2Cf4Ad0",
-      "thumbnail": "https://i.ytimg.com/vi/X4JV2Cf4Ad0/mqdefault.jpg",
-      "published": "2026-09-02T23:15:16Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 03/09/2026",
+      "videoId": "wtJKQ4DzO_E",
+      "url": "https://www.youtube.com/watch?v=wtJKQ4DzO_E",
+      "thumbnail": "https://i.ytimg.com/vi/wtJKQ4DzO_E/mqdefault_live.jpg",
+      "published": "2026-09-03T10:57:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Inovação e sustentabilidade para o desenvolvimento do RS | Campo em Debate | 02/09/2026",
       "videoId": "WKzRbuUywb0",
       "url": "https://www.youtube.com/watch?v=WKzRbuUywb0",
       "thumbnail": "https://i.ytimg.com/vi/WKzRbuUywb0/mqdefault.jpg",
       "published": "2026-09-03T09:03:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Alexandre de Moraes e Vorcaro, visita de Flávio ao RS, Expointer e mais | Gaúcha+ | 02/09/2026",
-      "videoId": "Ve-RbYx-ExE",
-      "url": "https://www.youtube.com/watch?v=Ve-RbYx-ExE",
-      "thumbnail": "https://i.ytimg.com/vi/Ve-RbYx-ExE/mqdefault.jpg",
-      "published": "2026-09-03T07:47:19Z"
     },
     {
       "channel": "Jeremias Wernek",
