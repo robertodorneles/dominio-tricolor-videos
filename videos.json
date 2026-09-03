@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:29:18.078812+00:00",
+  "updated_at": "2026-09-03T18:00:56.542014+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Quem é Germano Rigotto? Candidato ao Senado pelo MDB",
+      "videoId": "tc5FLk1pXwU",
+      "url": "https://www.youtube.com/watch?v=tc5FLk1pXwU",
+      "thumbnail": "https://i.ytimg.com/vi/tc5FLk1pXwU/mqdefault.jpg",
+      "published": "2026-09-03T17:30:10Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Gás natural e biometano: novas energias para a frota pesada | Campo em Debate | 03/09/2026",
       "videoId": "Hod8Ys72aR4",
       "url": "https://www.youtube.com/watch?v=Hod8Ys72aR4",
       "thumbnail": "https://i.ytimg.com/vi/Hod8Ys72aR4/mqdefault_live.jpg",
       "published": "2026-09-03T17:25:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Crise no STF, Expointer, últimas da política, economia e mais | Gaúcha Atualidade | 03/09/2026",
-      "videoId": "wtJKQ4DzO_E",
-      "url": "https://www.youtube.com/watch?v=wtJKQ4DzO_E",
-      "thumbnail": "https://i.ytimg.com/vi/wtJKQ4DzO_E/mqdefault.jpg",
-      "published": "2026-09-03T15:41:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "TIMELINE IMORTAL #147 — GRÊMIO DECIDE A VIDA NA COPA DO BRASIL | PROVÁVEL ESCALAÇÃO PARA HOJE",
       "videoId": "tFnp5mnT3iI",
       "url": "https://www.youtube.com/watch?v=tFnp5mnT3iI",
-      "thumbnail": "https://i.ytimg.com/vi/tFnp5mnT3iI/mqdefault_live.jpg",
-      "published": "2026-09-03T15:01:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/tFnp5mnT3iI/mqdefault.jpg",
+      "published": "2026-09-03T17:43:58Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "VAMOS GRÊMIO! DIA DE GRENAL NA COPA DO BRASIL | COMO É BOM SER DO GRÊMIO #34",
       "videoId": "0Y2Ctbjgrr8",
       "url": "https://www.youtube.com/watch?v=0Y2Ctbjgrr8",
-      "thumbnail": "https://i.ytimg.com/vi/0Y2Ctbjgrr8/mqdefault_live.jpg",
-      "published": "2026-09-03T14:02:46Z"
+      "thumbnail": "https://i.ytimg.com/vi/0Y2Ctbjgrr8/mqdefault.jpg",
+      "published": "2026-09-03T17:29:33Z"
     }
   ]
 }
