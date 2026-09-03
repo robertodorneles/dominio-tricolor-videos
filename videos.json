@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-03T22:00:56.410616+00:00",
+  "updated_at": "2026-09-03T22:57:05.409484+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  GRE-NAL HISTÓRICO NA ARENA | TODA A REPERCUSSÃO DIRETO DA ARENA",
+      "videoId": "UH1Eyhi38U4",
+      "url": "https://www.youtube.com/watch?v=UH1Eyhi38U4",
+      "thumbnail": "https://i.ytimg.com/vi/UH1Eyhi38U4/mqdefault_live.jpg",
+      "published": "2026-09-03T22:06:32Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CAITO VAI PRO GRE-NAL! Castro define o time | MEC vendido ao Porto",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=em0YjoCKPBQ",
       "thumbnail": "https://i.ytimg.com/vi/em0YjoCKPBQ/mqdefault.jpg",
       "published": "2026-09-03T06:00:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 BASTIDORES DA MOBILIZAÇÃO | DIREÇÃO FEZ A BOA | VENCERAM BATALHA COM BM",
-      "videoId": "kce_UecKUmQ",
-      "url": "https://www.youtube.com/watch?v=kce_UecKUmQ",
-      "thumbnail": "https://i.ytimg.com/vi/kce_UecKUmQ/mqdefault.jpg",
-      "published": "2026-09-03T04:31:02Z"
     },
     {
       "channel": "Bage TV",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ESCALAÇÃO DO GRÊMIO! #gremio #futebol",
+      "videoId": "roNIlhaoaTU",
+      "url": "https://www.youtube.com/watch?v=roNIlhaoaTU",
+      "thumbnail": "https://i.ytimg.com/vi/roNIlhaoaTU/mqdefault.jpg",
+      "published": "2026-09-03T22:13:08Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CHEGOU A HORA! GRE-NAL! #grêmio #futebol",
       "videoId": "qE7sYc3dEyo",
       "url": "https://www.youtube.com/watch?v=qE7sYc3dEyo",
@@ -107,20 +115,12 @@
       "published": "2026-09-03T12:27:59Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO x INTERNACIONAL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
-      "videoId": "mv9b3t7k5IU",
-      "url": "https://www.youtube.com/watch?v=mv9b3t7k5IU",
-      "thumbnail": "https://i.ytimg.com/vi/mv9b3t7k5IU/mqdefault_live.jpg",
-      "published": "2026-09-03T10:58:10Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x INTER (GRENAL 454) DIRETO DA ARENA | COPA DO BRASIL | 03/09 #15",
       "videoId": "GUZYOwfOtuo",
       "url": "https://www.youtube.com/watch?v=GUZYOwfOtuo",
-      "thumbnail": "https://i.ytimg.com/vi/GUZYOwfOtuo/mqdefault_live.jpg",
-      "published": "2026-09-03T20:29:40Z"
+      "thumbnail": "https://i.ytimg.com/vi/GUZYOwfOtuo/mqdefault.jpg",
+      "published": "2026-09-03T22:33:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X INTER | GRENAL 454 | COPA DO BRASIL | JORNADA IMORTAL DIRETO DA ARENA",
+      "title": "AO VIVO | GRÊMIO (0) X (0) INTERNACIONAL | GRENAL 454 | COPA DO BRASIL 2026 | JORNADA IMORTAL",
       "videoId": "mtE2zH878oc",
       "url": "https://www.youtube.com/watch?v=mtE2zH878oc",
       "thumbnail": "https://i.ytimg.com/vi/mtE2zH878oc/mqdefault_live.jpg",
