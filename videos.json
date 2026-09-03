@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:00:40.517578+00:00",
+  "updated_at": "2026-09-03T15:00:44.831341+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
+      "title": "A BagéTV aproxima o torcedor do Grêmio.",
+      "videoId": "7ZxN0ur8Ovw",
+      "url": "https://www.youtube.com/watch?v=7ZxN0ur8Ovw",
+      "thumbnail": "https://i.ytimg.com/vi/7ZxN0ur8Ovw/mqdefault.jpg",
+      "published": "2026-09-03T14:56:36Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "É DIA DE CLÁSSICO GRENAL! - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #059",
       "videoId": "Pqe4X40K9Jg",
       "url": "https://www.youtube.com/watch?v=Pqe4X40K9Jg",
       "thumbnail": "https://i.ytimg.com/vi/Pqe4X40K9Jg/mqdefault_live.jpg",
-      "published": "2026-09-03T13:48:07Z"
+      "published": "2026-09-03T14:51:56Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "HOJE É DIA DE GRENAL HISTÓRICO! 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 03/09 - #626",
-      "videoId": "FLG1ZHgbiG0",
-      "url": "https://www.youtube.com/watch?v=FLG1ZHgbiG0",
-      "thumbnail": "https://i.ytimg.com/vi/FLG1ZHgbiG0/mqdefault_live.jpg",
-      "published": "2026-09-03T13:40:36Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨TROCA? TRÊS POR EVERTON CEBOLINHA | DIA DE GRE-NAL! ARENA CHEIA! GRÊMIO PRONTO! GERAL ESPETACULAR",
+      "videoId": "X25z1zdZdko",
+      "url": "https://www.youtube.com/watch?v=X25z1zdZdko",
+      "thumbnail": "https://i.ytimg.com/vi/X25z1zdZdko/mqdefault.jpg",
+      "published": "2026-09-03T14:14:32Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=vny_iN2xW2w",
       "thumbnail": "https://i.ytimg.com/vi/vny_iN2xW2w/mqdefault.jpg",
       "published": "2026-09-02T22:58:31Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨VAZOU NOVO REFORÇO DO GRÊMIO? | CEBOLINHA FALOU! A OFERTA QUE ELE TEM | RENOVAÇÃO DE TITULAR",
-      "videoId": "iWnPm-MNjiU",
-      "url": "https://www.youtube.com/watch?v=iWnPm-MNjiU",
-      "thumbnail": "https://i.ytimg.com/vi/iWnPm-MNjiU/mqdefault.jpg",
-      "published": "2026-09-02T16:29:08Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #009",
-      "videoId": "ftPxGa1usII",
-      "url": "https://www.youtube.com/watch?v=ftPxGa1usII",
-      "thumbnail": "https://i.ytimg.com/vi/ftPxGa1usII/mqdefault_live.jpg",
-      "published": "2026-09-03T12:39:11Z"
+      "title": "GRENAL SHOW - #5",
+      "videoId": "udzUQUhs6R0",
+      "url": "https://www.youtube.com/watch?v=udzUQUhs6R0",
+      "thumbnail": "https://i.ytimg.com/vi/udzUQUhs6R0/mqdefault_live.jpg",
+      "published": "2026-09-03T14:44:13Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 02/09/2026",
-      "videoId": "JPIqrHnZcVU",
-      "url": "https://www.youtube.com/watch?v=JPIqrHnZcVU",
-      "thumbnail": "https://i.ytimg.com/vi/JPIqrHnZcVU/mqdefault.jpg",
-      "published": "2026-09-03T11:24:55Z"
+      "title": "ACORDA, GRÊMIO! #010",
+      "videoId": "0i8fod_TCEU",
+      "url": "https://www.youtube.com/watch?v=0i8fod_TCEU",
+      "thumbnail": "https://i.ytimg.com/vi/0i8fod_TCEU/mqdefault_live.jpg",
+      "published": "2026-09-03T14:03:01Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 03.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "8S2iyfHdmfE",
       "url": "https://www.youtube.com/watch?v=8S2iyfHdmfE",
-      "thumbnail": "https://i.ytimg.com/vi/8S2iyfHdmfE/mqdefault_live.jpg",
-      "published": "2026-09-03T13:11:33Z"
+      "thumbnail": "https://i.ytimg.com/vi/8S2iyfHdmfE/mqdefault.jpg",
+      "published": "2026-09-03T14:21:18Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Especial de Gre-Nal nas quartas da Copa do Brasil, crise no STF e mais | Timeline | 03/09/2026",
-      "videoId": "_rLfVKTQ7Fk",
-      "url": "https://www.youtube.com/watch?v=_rLfVKTQ7Fk",
-      "thumbnail": "https://i.ytimg.com/vi/_rLfVKTQ7Fk/mqdefault_live.jpg",
-      "published": "2026-09-03T13:54:55Z"
+      "title": "GAÚCHOS vendem AÇAÍ DE ESPECIALIDADE com MÉTODO INOVADOR | Radar de Inovação",
+      "videoId": "zmoNLHOhiR4",
+      "url": "https://www.youtube.com/watch?v=zmoNLHOhiR4",
+      "thumbnail": "https://i.ytimg.com/vi/zmoNLHOhiR4/mqdefault.jpg",
+      "published": "2026-09-03T15:00:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "rsjV4SlR0I0",
       "url": "https://www.youtube.com/watch?v=rsjV4SlR0I0",
       "thumbnail": "https://i.ytimg.com/vi/rsjV4SlR0I0/mqdefault_live.jpg",
-      "published": "2026-09-03T12:55:42Z"
+      "published": "2026-09-03T14:59:53Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #14 — É DIA DE GRÊMIO! TUDO SOBRE O GRENAL NA COPA DO BRASIL",
-      "videoId": "__tccqjLO-U",
-      "url": "https://www.youtube.com/watch?v=__tccqjLO-U",
-      "thumbnail": "https://i.ytimg.com/vi/__tccqjLO-U/mqdefault.jpg",
-      "published": "2026-09-03T12:40:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "VAMOS GRÊMIO! DIA DE GRENAL NA COPA DO BRASIL | COMO É BOM SER DO GRÊMIO #34",
       "videoId": "0Y2Ctbjgrr8",
       "url": "https://www.youtube.com/watch?v=0Y2Ctbjgrr8",
       "thumbnail": "https://i.ytimg.com/vi/0Y2Ctbjgrr8/mqdefault_live.jpg",
-      "published": "2026-09-03T12:31:56Z"
+      "published": "2026-09-03T14:02:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #147 — GRÊMIO DECIDE A VIDA NA COPA DO BRASIL | PROVÁVEL ESCALAÇÃO PARA HOJE",
+      "videoId": "tFnp5mnT3iI",
+      "url": "https://www.youtube.com/watch?v=tFnp5mnT3iI",
+      "thumbnail": "https://i.ytimg.com/vi/tFnp5mnT3iI/mqdefault_live.jpg",
+      "published": "2026-09-03T14:02:26Z"
     }
   ]
 }
