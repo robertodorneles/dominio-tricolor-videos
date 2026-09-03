@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:26:45.142476+00:00",
+  "updated_at": "2026-09-03T21:00:58.020541+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "AMUZU JOGA O GRE-NAL? #CORTESDAJORNADA",
-      "videoId": "DbdubAj0i_s",
-      "url": "https://www.youtube.com/watch?v=DbdubAj0i_s",
-      "thumbnail": "https://i.ytimg.com/vi/DbdubAj0i_s/mqdefault.jpg",
-      "published": "2026-09-03T19:41:00Z"
+      "title": "IMAGENS AÉREAS DO PRÉ-JOGO DA ARENA! #CORTESDAJORNADA",
+      "videoId": "xCMcHxcxE-A",
+      "url": "https://www.youtube.com/watch?v=xCMcHxcxE-A",
+      "thumbnail": "https://i.ytimg.com/vi/xCMcHxcxE-A/mqdefault.jpg",
+      "published": "2026-09-03T20:50:10Z"
     },
     {
       "channel": "Bage TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x INTER (GRENAL 454) DIRETO DA ARENA | COPA DO BRASIL | 03/09 #15",
+      "videoId": "GUZYOwfOtuo",
+      "url": "https://www.youtube.com/watch?v=GUZYOwfOtuo",
+      "thumbnail": "https://i.ytimg.com/vi/GUZYOwfOtuo/mqdefault_live.jpg",
+      "published": "2026-09-03T20:29:40Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "NAHUEL HERRERA CHEGANDO? | REFORÇO PRO GRENAL | SHAKTHAR QUIS OUTRO JOGADOR | DÍVIDA E MUITO MAIS",
       "videoId": "kQ_i23ScRuw",
       "url": "https://www.youtube.com/watch?v=kQ_i23ScRuw",
       "thumbnail": "https://i.ytimg.com/vi/kQ_i23ScRuw/mqdefault.jpg",
       "published": "2026-09-02T17:22:11Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "CEBOLINHA VEM AI? MANDACA ADIANTADO? | R$150 MILHÕES NOS BOLSOS | MONSALVE E MANO MENEZES",
-      "videoId": "4vxSS6LJd2g",
-      "url": "https://www.youtube.com/watch?v=4vxSS6LJd2g",
-      "thumbnail": "https://i.ytimg.com/vi/4vxSS6LJd2g/mqdefault.jpg",
-      "published": "2026-09-01T14:18:36Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL (COPA DO BRASIL 2026)",
+      "videoId": "llfAlqtLi2s",
+      "url": "https://www.youtube.com/watch?v=llfAlqtLi2s",
+      "thumbnail": "https://i.ytimg.com/vi/llfAlqtLi2s/mqdefault_live.jpg",
+      "published": "2026-09-03T20:59:21Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "DO GUIA PARA TV | ENTREVISTA EXCLUSIVA COM KROVINOVIĆ",
       "videoId": "BDeaDOwAwuM",
       "url": "https://www.youtube.com/watch?v=BDeaDOwAwuM",
@@ -155,20 +163,12 @@
       "published": "2026-09-03T16:05:31Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X INTERNACIONAL (COPA DO BRASIL 2026)",
-      "videoId": "llfAlqtLi2s",
-      "url": "https://www.youtube.com/watch?v=llfAlqtLi2s",
-      "thumbnail": "https://i.ytimg.com/vi/llfAlqtLi2s/mqdefault_live.jpg",
-      "published": "2026-09-02T21:35:31Z"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "NIKOLAS FERREIRA e VORCARO: o que se sabe | Chamada Eleitoral",
-      "videoId": "pXSM7TGA-b0",
-      "url": "https://www.youtube.com/watch?v=pXSM7TGA-b0",
-      "thumbnail": "https://i.ytimg.com/vi/pXSM7TGA-b0/mqdefault.jpg",
-      "published": "2026-09-03T20:05:16Z"
+      "title": "Crescimento de AUGUSTO CURY e os debates | Chamada Eleitoral",
+      "videoId": "HhrzjcBf5QE",
+      "url": "https://www.youtube.com/watch?v=HhrzjcBf5QE",
+      "thumbnail": "https://i.ytimg.com/vi/HhrzjcBf5QE/mqdefault.jpg",
+      "published": "2026-09-03T21:00:15Z"
     },
     {
       "channel": "GZH Digital",
