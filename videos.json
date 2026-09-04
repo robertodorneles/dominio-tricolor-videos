@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:00:42.900338+00:00",
+  "updated_at": "2026-09-04T22:45:03.833093+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO ELIMINA O INTER! ARENA BATE RECORDE E BARCELLOS SE DESCULPA📰BAGÉTV NEWS #030",
       "videoId": "MclMVtXWuWE",
       "url": "https://www.youtube.com/watch?v=MclMVtXWuWE",
-      "thumbnail": "https://i.ytimg.com/vi/MclMVtXWuWE/mqdefault_live.jpg",
-      "published": "2026-09-04T20:28:33Z"
+      "thumbnail": "https://i.ytimg.com/vi/MclMVtXWuWE/mqdefault.jpg",
+      "published": "2026-09-04T22:10:07Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "MARCEL VAN HATTEM: trajetória política e a atuação na OPOSIÇÃO AO  PT | Conversa de Gabinete",
+      "videoId": "tKOVvq0bQMI",
+      "url": "https://www.youtube.com/watch?v=tKOVvq0bQMI",
+      "thumbnail": "https://i.ytimg.com/vi/tKOVvq0bQMI/mqdefault.jpg",
+      "published": "2026-09-04T22:15:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "MANUELA D’ÁVILA e a estratégia para ser SENADORA: \"Campanha para MULHERES\" | Conversa de Gabinete",
       "videoId": "gV4-tqX8RgQ",
       "url": "https://www.youtube.com/watch?v=gV4-tqX8RgQ",
       "thumbnail": "https://i.ytimg.com/vi/gV4-tqX8RgQ/mqdefault.jpg",
       "published": "2026-09-04T21:45:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Quem é Manuela d'Ávila? A trajetória da candidata ao Senado",
-      "videoId": "Q0LNSeEwtMc",
-      "url": "https://www.youtube.com/watch?v=Q0LNSeEwtMc",
-      "thumbnail": "https://i.ytimg.com/vi/Q0LNSeEwtMc/mqdefault.jpg",
-      "published": "2026-09-04T21:37:37Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "GRÊMIO SE CLASSIFICA E AFUNDA O RIVAL | CLASSIFICAÇÃO INCONTESTÁVEL | IMORTAL FC",
       "videoId": "YRO-qOa18HY",
       "url": "https://www.youtube.com/watch?v=YRO-qOa18HY",
-      "thumbnail": "https://i.ytimg.com/vi/YRO-qOa18HY/mqdefault_live.jpg",
-      "published": "2026-09-04T21:01:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/YRO-qOa18HY/mqdefault.jpg",
+      "published": "2026-09-04T22:23:01Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
-      "videoId": "k5YfUvILSzU",
-      "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
-      "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault_live.jpg",
-      "published": "2026-09-04T21:01:21Z"
+      "title": "GRÊMIO VOLTA AOS TREINOS NESTE SÁBADO | FOCO VOLTA AO BRASILEIRÃO | PLANTÃO IMORTAL",
+      "videoId": "PCBXrSb7QKI",
+      "url": "https://www.youtube.com/watch?v=PCBXrSb7QKI",
+      "thumbnail": "https://i.ytimg.com/vi/PCBXrSb7QKI/mqdefault_live.jpg",
+      "published": "2026-09-04T22:16:20Z"
     }
   ]
 }
