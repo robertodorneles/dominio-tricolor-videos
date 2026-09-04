@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:00:41.378226+00:00",
+  "updated_at": "2026-09-04T12:00:44.094261+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "wTlp4vXY26M",
       "url": "https://www.youtube.com/watch?v=wTlp4vXY26M",
       "thumbnail": "https://i.ytimg.com/vi/wTlp4vXY26M/mqdefault_live.jpg",
-      "published": "2026-09-04T09:40:13Z"
+      "published": "2026-09-04T11:57:16Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #010",
+      "videoId": "0i8fod_TCEU",
+      "url": "https://www.youtube.com/watch?v=0i8fod_TCEU",
+      "thumbnail": "https://i.ytimg.com/vi/0i8fod_TCEU/mqdefault_live.jpg",
+      "published": "2026-09-04T11:40:29Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #5",
       "videoId": "udzUQUhs6R0",
       "url": "https://www.youtube.com/watch?v=udzUQUhs6R0",
       "thumbnail": "https://i.ytimg.com/vi/udzUQUhs6R0/mqdefault.jpg",
       "published": "2026-09-04T05:49:59Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X SCI | COPA DO BRASIL | REACT AO VIVO DE FARID - 03/09/2026",
-      "videoId": "TFQs7FIfauw",
-      "url": "https://www.youtube.com/watch?v=TFQs7FIfauw",
-      "thumbnail": "https://i.ytimg.com/vi/TFQs7FIfauw/mqdefault.jpg",
-      "published": "2026-09-04T02:15:13Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 04.09 | AO VIVO - GRÊMIO CLASSIFICADO! RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "3sDrAOh6dSU",
+      "url": "https://www.youtube.com/watch?v=3sDrAOh6dSU",
+      "thumbnail": "https://i.ytimg.com/vi/3sDrAOh6dSU/mqdefault_live.jpg",
+      "published": "2026-09-04T12:00:13Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 03.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "8S2iyfHdmfE",
       "url": "https://www.youtube.com/watch?v=8S2iyfHdmfE",
       "thumbnail": "https://i.ytimg.com/vi/8S2iyfHdmfE/mqdefault.jpg",
       "published": "2026-09-03T14:21:18Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ELES TÊM QUE VALORIZAR NOSSAS JOGADORAS #dudagarbi #umassadopara",
-      "videoId": "Gc371Jag0xk",
-      "url": "https://www.youtube.com/watch?v=Gc371Jag0xk",
-      "thumbnail": "https://i.ytimg.com/vi/Gc371Jag0xk/mqdefault.jpg",
-      "published": "2026-09-02T22:00:04Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Baianinho de Mauá disputa uma vaga na Câmara dos Deputados por São Paulo | Palanque Digital",
+      "videoId": "WR2XD-b720U",
+      "url": "https://www.youtube.com/watch?v=WR2XD-b720U",
+      "thumbnail": "https://i.ytimg.com/vi/WR2XD-b720U/mqdefault.jpg",
+      "published": "2026-09-04T12:00:09Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Crise no STF, reta final da Expointer e mais | Gaúcha Atualidade | 04/09/2026",
       "videoId": "DY_PL2t2l4g",
       "url": "https://www.youtube.com/watch?v=DY_PL2t2l4g",
@@ -171,20 +179,12 @@
       "published": "2026-09-04T10:57:47Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Combustíveis alternativos no transporte rodoviário de carga | Campo em Debate | 03/09/2026",
-      "videoId": "hbAFI93tkQA",
-      "url": "https://www.youtube.com/watch?v=hbAFI93tkQA",
-      "thumbnail": "https://i.ytimg.com/vi/hbAFI93tkQA/mqdefault.jpg",
-      "published": "2026-09-04T09:45:35Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: GRÊMIO AMASSA INTER NO GRE-NAL E PEZZOLANO NA CORDA BAMBA",
       "videoId": "67HGz-pYs3Y",
       "url": "https://www.youtube.com/watch?v=67HGz-pYs3Y",
       "thumbnail": "https://i.ytimg.com/vi/67HGz-pYs3Y/mqdefault_live.jpg",
-      "published": "2026-09-04T03:43:06Z"
+      "published": "2026-09-04T11:04:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "LOnYqurH4WA",
       "url": "https://www.youtube.com/watch?v=LOnYqurH4WA",
       "thumbnail": "https://i.ytimg.com/vi/LOnYqurH4WA/mqdefault_live.jpg",
-      "published": "2026-09-04T10:56:13Z"
+      "published": "2026-09-04T11:03:25Z"
     },
     {
       "channel": "Radio Grenal",
