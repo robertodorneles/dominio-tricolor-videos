@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-04T02:00:38.992065+00:00",
-  "total": 29,
+  "updated_at": "2026-09-04T03:36:11.996164+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  GRE-NAL HISTÓRICO NA ARENA | TODA A REPERCUSSÃO DIRETO DA ARENA",
+      "videoId": "UH1Eyhi38U4",
+      "url": "https://www.youtube.com/watch?v=UH1Eyhi38U4",
+      "thumbnail": "https://i.ytimg.com/vi/UH1Eyhi38U4/mqdefault_live.jpg",
+      "published": "2026-09-04T03:01:07Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 3x1 Inter: VEJA OS MELHORES MOMENTOS | CLASSIFICOU COM SOBRAS | CASTRO FICA!!!!",
@@ -11,28 +19,28 @@
       "published": "2026-09-04T01:52:14Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪ ❌ INTER ELIMINADO! | ASSISTA AOS LANCES | MAIS UM FIASCO |  NINGUÉM É PIOR QUE O INTER",
-      "videoId": "5valil4VP-0",
-      "url": "https://www.youtube.com/watch?v=5valil4VP-0",
-      "thumbnail": "https://i.ytimg.com/vi/5valil4VP-0/mqdefault.jpg",
-      "published": "2026-09-04T01:32:49Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO VENCE O GRE-NAL!!!! #CORTESDAJORNADA",
+      "videoId": "I3V78sEYP2w",
+      "url": "https://www.youtube.com/watch?v=I3V78sEYP2w",
+      "thumbnail": "https://i.ytimg.com/vi/I3V78sEYP2w/mqdefault.jpg",
+      "published": "2026-09-04T03:01:55Z"
     },
     {
       "channel": "Bage TV",
-      "title": "CARLOS VINICIUS FAZ GRÊMIO 2X0 inter!",
-      "videoId": "lp1rhfSbJMc",
-      "url": "https://www.youtube.com/watch?v=lp1rhfSbJMc",
-      "thumbnail": "https://i.ytimg.com/vi/lp1rhfSbJMc/mqdefault.jpg",
-      "published": "2026-09-03T23:53:37Z"
+      "title": "⚫️⚽️🔵 CASTRO JANTOU O INTER SEM DÓ",
+      "videoId": "iyTUEl8DwA8",
+      "url": "https://www.youtube.com/watch?v=iyTUEl8DwA8",
+      "thumbnail": "https://i.ytimg.com/vi/iyTUEl8DwA8/mqdefault.jpg",
+      "published": "2026-09-04T02:55:51Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "CHEGADA DO GRÊMIO NA ARENA! #CORTESDAJORNADA",
-      "videoId": "RaDnTHBHZfQ",
-      "url": "https://www.youtube.com/watch?v=RaDnTHBHZfQ",
-      "thumbnail": "https://i.ytimg.com/vi/RaDnTHBHZfQ/mqdefault.jpg",
-      "published": "2026-09-03T21:26:38Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨HUMILHAMOS O INTER QUE TÁ MORTO! GRÊMIO GIGANTE MASSACROU O RIVAL! ESTAMOS NA SEMI!",
+      "videoId": "v3hcR56MaG8",
+      "url": "https://www.youtube.com/watch?v=v3hcR56MaG8",
+      "thumbnail": "https://i.ytimg.com/vi/v3hcR56MaG8/mqdefault.jpg",
+      "published": "2026-09-04T02:23:38Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,36 +51,28 @@
       "published": "2026-09-03T14:14:32Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨OFICIAL! GRÊMIO CONFIRMA SAÍDA | POLÊMICA COM MEIA | VAZOU O TIME PRO GRE-NAL COM BOA NOTÍCIA!",
-      "videoId": "vny_iN2xW2w",
-      "url": "https://www.youtube.com/watch?v=vny_iN2xW2w",
-      "thumbnail": "https://i.ytimg.com/vi/vny_iN2xW2w/mqdefault.jpg",
-      "published": "2026-09-02T22:58:31Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Weverton fala após Grêmio 3 X 1 Inter",
-      "videoId": "6pDEmoV9m3g",
-      "url": "https://www.youtube.com/watch?v=6pDEmoV9m3g",
-      "thumbnail": "https://i.ytimg.com/vi/6pDEmoV9m3g/mqdefault.jpg",
-      "published": "2026-09-04T01:15:48Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "GRÊMIO 3 X 1 INTER: ESTAMOS NA SEMIFINAL DA COPA DO BRASIL",
       "videoId": "s-V04r5v5M8",
       "url": "https://www.youtube.com/watch?v=s-V04r5v5M8",
       "thumbnail": "https://i.ytimg.com/vi/s-V04r5v5M8/mqdefault_live.jpg",
-      "published": "2026-09-04T00:59:31Z"
+      "published": "2026-09-04T02:54:03Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Grêmio 3 x 1 Inter: COMEMORA, TORCEDOR! Estamos na semifinal! 🇪🇪",
+      "videoId": "O9rPEakQWN8",
+      "url": "https://www.youtube.com/watch?v=O9rPEakQWN8",
+      "thumbnail": "https://i.ytimg.com/vi/O9rPEakQWN8/mqdefault.jpg",
+      "published": "2026-09-04T02:21:40Z"
     },
     {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X SCI | COPA DO BRASIL | REACT AO VIVO DE FARID - 03/09/2026",
       "videoId": "TFQs7FIfauw",
       "url": "https://www.youtube.com/watch?v=TFQs7FIfauw",
-      "thumbnail": "https://i.ytimg.com/vi/TFQs7FIfauw/mqdefault_live.jpg",
-      "published": "2026-09-04T01:59:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/TFQs7FIfauw/mqdefault.jpg",
+      "published": "2026-09-04T02:15:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO x INTERNACIONAL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
+      "videoId": "mv9b3t7k5IU",
+      "url": "https://www.youtube.com/watch?v=mv9b3t7k5IU",
+      "thumbnail": "https://i.ytimg.com/vi/mv9b3t7k5IU/mqdefault.jpg",
+      "published": "2026-09-04T03:02:26Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ELES DANÇARAM NA ARENA! GRÊMIO 3 X 1 INTER | COMENTÁRIO",
       "videoId": "qK2YqFZYqxM",
       "url": "https://www.youtube.com/watch?v=qK2YqFZYqxM",
@@ -107,20 +115,12 @@
       "published": "2026-09-04T01:45:53Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO x INTERNACIONAL | LIVE PÓS-JOGO | COLETIVA | AO VIVO | COPA DO BRASIL",
-      "videoId": "mv9b3t7k5IU",
-      "url": "https://www.youtube.com/watch?v=mv9b3t7k5IU",
-      "thumbnail": "https://i.ytimg.com/vi/mv9b3t7k5IU/mqdefault_live.jpg",
-      "published": "2026-09-04T01:01:34Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DO GRENAL 454 DIRETO DA ARENA | COPA DO BRASIL | COLETIVAS | 03/09 #32",
       "videoId": "JZa2m4YRB6g",
       "url": "https://www.youtube.com/watch?v=JZa2m4YRB6g",
-      "thumbnail": "https://i.ytimg.com/vi/JZa2m4YRB6g/mqdefault_live.jpg",
-      "published": "2026-09-04T00:54:39Z"
+      "thumbnail": "https://i.ytimg.com/vi/JZa2m4YRB6g/mqdefault.jpg",
+      "published": "2026-09-04T03:11:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,19 +148,27 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X INTERNACIONAL (COPA DO BRASIL 2026)",
-      "videoId": "llfAlqtLi2s",
-      "url": "https://www.youtube.com/watch?v=llfAlqtLi2s",
-      "thumbnail": "https://i.ytimg.com/vi/llfAlqtLi2s/mqdefault_live.jpg",
-      "published": "2026-09-03T20:59:21Z"
+      "title": "OS GOLS DO BAILE DA CLASSIFICAÇÃO | GRÊMIO 3X1 INTERNACIONAL (COPA DO BRASIL 2026)",
+      "videoId": "ZGs3ya2b24I",
+      "url": "https://www.youtube.com/watch?v=ZGs3ya2b24I",
+      "thumbnail": "https://i.ytimg.com/vi/ZGs3ya2b24I/mqdefault.jpg",
+      "published": "2026-09-04T02:59:09Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "DO GUIA PARA TV | ENTREVISTA EXCLUSIVA COM KROVINOVIĆ",
-      "videoId": "BDeaDOwAwuM",
-      "url": "https://www.youtube.com/watch?v=BDeaDOwAwuM",
-      "thumbnail": "https://i.ytimg.com/vi/BDeaDOwAwuM/mqdefault.jpg",
-      "published": "2026-09-03T16:05:31Z"
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL (COPA DO BRASIL 2026)",
+      "videoId": "llfAlqtLi2s",
+      "url": "https://www.youtube.com/watch?v=llfAlqtLi2s",
+      "thumbnail": "https://i.ytimg.com/vi/llfAlqtLi2s/mqdefault.jpg",
+      "published": "2026-09-04T02:43:32Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Jogadores da dupla Gre-Nal que agora disputam voto no mesmo partido | Palanque Digital",
+      "videoId": "t-dFe85z3WU",
+      "url": "https://www.youtube.com/watch?v=t-dFe85z3WU",
+      "thumbnail": "https://i.ytimg.com/vi/t-dFe85z3WU/mqdefault.jpg",
+      "published": "2026-09-04T03:00:07Z"
     },
     {
       "channel": "GZH Digital",
@@ -171,12 +179,12 @@
       "published": "2026-09-03T22:59:20Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Conheça Mário e Aventador, o maior touro e o maior cavalo da Expointer 2026",
-      "videoId": "pDkmMtL6prQ",
-      "url": "https://www.youtube.com/watch?v=pDkmMtL6prQ",
-      "thumbnail": "https://i.ytimg.com/vi/pDkmMtL6prQ/mqdefault.jpg",
-      "published": "2026-09-03T21:57:07Z"
+      "channel": "Jeremias Wernek",
+      "title": "HISTÓRICO: Grêmio sobra e elimina o Inter com direito a provocação na Arena",
+      "videoId": "VWj_QktkLNw",
+      "url": "https://www.youtube.com/watch?v=VWj_QktkLNw",
+      "thumbnail": "https://i.ytimg.com/vi/VWj_QktkLNw/mqdefault.jpg",
+      "published": "2026-09-04T02:09:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=CU3l-TFVkvo",
       "thumbnail": "https://i.ytimg.com/vi/CU3l-TFVkvo/mqdefault.jpg",
       "published": "2026-09-03T12:21:58Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "JOGADOR DO GRÊMIO CAI EM GOLPE DE \"FALSO LUÍS CASTRO\"",
-      "videoId": "efC2_DNDdJM",
-      "url": "https://www.youtube.com/watch?v=efC2_DNDdJM",
-      "thumbnail": "https://i.ytimg.com/vi/efC2_DNDdJM/mqdefault.jpg",
-      "published": "2026-09-02T17:30:38Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,27 +212,35 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 3 X 1 INTER | NARRAÇÃO HAROLDO DE SOUZA | COPA DO BRASIL | RÁDIO GRENAL | 03/09/2026",
-      "videoId": "Hb1pNrPyEMc",
-      "url": "https://www.youtube.com/watch?v=Hb1pNrPyEMc",
-      "thumbnail": "https://i.ytimg.com/vi/Hb1pNrPyEMc/mqdefault.jpg",
-      "published": "2026-09-04T01:09:51Z"
+      "title": "COLETIVA DE LUÍS CASTRO | GRÊMIO 3X0 INTER | COPA DO BRASIL | 03/09/2026 | RÁDIO GRENAL",
+      "videoId": "3adUyC__-xM",
+      "url": "https://www.youtube.com/watch?v=3adUyC__-xM",
+      "thumbnail": "https://i.ytimg.com/vi/3adUyC__-xM/mqdefault.jpg",
+      "published": "2026-09-04T03:34:43Z"
     },
     {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🧤 O GOLEIRO WEVERTON FALA APÓS VITÓRIA NO GRENAL 454!",
-      "videoId": "ACjjXnHESTc",
-      "url": "https://www.youtube.com/watch?v=ACjjXnHESTc",
-      "thumbnail": "https://i.ytimg.com/vi/ACjjXnHESTc/mqdefault.jpg",
-      "published": "2026-09-04T01:43:19Z"
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE PAULO PEZZOLANO - TÉCNICO DO INTER | GRÊMIO 3X0 INTER | 03/09/2026 | RÁDIO GRENAL",
+      "videoId": "Tf7JmDnoG0g",
+      "url": "https://www.youtube.com/watch?v=Tf7JmDnoG0g",
+      "thumbnail": "https://i.ytimg.com/vi/Tf7JmDnoG0g/mqdefault.jpg",
+      "published": "2026-09-04T03:21:27Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "GRÊMIO CLASSIFICADO | PÓS-JOGO GRÊMIO (3) X (1) INTERNACIONAL | COLETIVA LUÍS CASTRO | GRENAL 454",
       "videoId": "mtE2zH878oc",
       "url": "https://www.youtube.com/watch?v=mtE2zH878oc",
-      "thumbnail": "https://i.ytimg.com/vi/mtE2zH878oc/mqdefault_live.jpg",
-      "published": "2026-09-03T18:04:04Z"
+      "thumbnail": "https://i.ytimg.com/vi/mtE2zH878oc/mqdefault.jpg",
+      "published": "2026-09-04T03:17:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "🇪🇪🗣️ CARLOS VINÍCIUS FALA SOBRE A TORCIDA E A RENOVAÇÃO DE CONTRATO.",
+      "videoId": "amW9NSPJfRY",
+      "url": "https://www.youtube.com/watch?v=amW9NSPJfRY",
+      "thumbnail": "https://i.ytimg.com/vi/amW9NSPJfRY/mqdefault.jpg",
+      "published": "2026-09-04T03:07:57Z"
     }
   ]
 }
