@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:00:59.859194+00:00",
+  "updated_at": "2026-09-04T10:00:34.507684+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "💃 DEU A LÓGICA! 💃 VENCEU O MAIOR  🌅🔵 BOM DIA GRÊMIO #116",
+      "videoId": "wTlp4vXY26M",
+      "url": "https://www.youtube.com/watch?v=wTlp4vXY26M",
+      "thumbnail": "https://i.ytimg.com/vi/wTlp4vXY26M/mqdefault_live.jpg",
+      "published": "2026-09-04T09:40:13Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X INTERNACIONAL - [DIRETO DA ARENA]",
       "videoId": "u9clLmDggpc",
       "url": "https://www.youtube.com/watch?v=u9clLmDggpc",
       "thumbnail": "https://i.ytimg.com/vi/u9clLmDggpc/mqdefault.jpg",
       "published": "2026-09-04T04:07:10Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VENCE O GRE-NAL!!!! #CORTESDAJORNADA",
-      "videoId": "I3V78sEYP2w",
-      "url": "https://www.youtube.com/watch?v=I3V78sEYP2w",
-      "thumbnail": "https://i.ytimg.com/vi/I3V78sEYP2w/mqdefault.jpg",
-      "published": "2026-09-04T03:01:55Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Combustíveis alternativos no transporte rodoviário de carga | Campo em Debate | 03/09/2026",
+      "videoId": "hbAFI93tkQA",
+      "url": "https://www.youtube.com/watch?v=hbAFI93tkQA",
+      "thumbnail": "https://i.ytimg.com/vi/hbAFI93tkQA/mqdefault.jpg",
+      "published": "2026-09-04T09:45:35Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Gre-Nal 454, Expointer 2026, Freio de Ouro, notícias do RS e mais | Gaúcha+ | 03/09/2026",
       "videoId": "RwFEysEZF7U",
       "url": "https://www.youtube.com/watch?v=RwFEysEZF7U",
       "thumbnail": "https://i.ytimg.com/vi/RwFEysEZF7U/mqdefault.jpg",
       "published": "2026-09-04T08:35:56Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 04/09/2026",
-      "videoId": "DY_PL2t2l4g",
-      "url": "https://www.youtube.com/watch?v=DY_PL2t2l4g",
-      "thumbnail": "https://i.ytimg.com/vi/DY_PL2t2l4g/mqdefault_live.jpg",
-      "published": "2026-09-04T07:39:29Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #15 — GRÊMIO VENCE O GRENAL E ESTÁ NA SEMIFINAL DA COPA DO BRASIL",
+      "videoId": "OGCDWw_Zwq8",
+      "url": "https://www.youtube.com/watch?v=OGCDWw_Zwq8",
+      "thumbnail": "https://i.ytimg.com/vi/OGCDWw_Zwq8/mqdefault_live.jpg",
+      "published": "2026-09-04T09:31:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ESPLANADA — 04/09",
       "videoId": "oJoRLacVPJ8",
       "url": "https://www.youtube.com/watch?v=oJoRLacVPJ8",
       "thumbnail": "https://i.ytimg.com/vi/oJoRLacVPJ8/mqdefault_live.jpg",
       "published": "2026-09-04T05:07:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #148 — GRÊMIO ELIMINA O INTER COM VALSA E TUDO | É HORA DE COMEMORAR!",
-      "videoId": "adDuBRC1VXk",
-      "url": "https://www.youtube.com/watch?v=adDuBRC1VXk",
-      "thumbnail": "https://i.ytimg.com/vi/adDuBRC1VXk/mqdefault_live.jpg",
-      "published": "2026-09-04T05:04:00Z"
     }
   ]
 }
