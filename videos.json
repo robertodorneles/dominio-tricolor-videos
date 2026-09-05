@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:45:25.417164+00:00",
+  "updated_at": "2026-09-05T16:00:37.005204+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO: ESQUENTANDO JOGO | INTER X JUVENTUDE GAUCHÃO SUB-15  | RÁDIO GRENAL | 05/09/26",
+      "videoId": "cMkAlW30tlk",
+      "url": "https://www.youtube.com/watch?v=cMkAlW30tlk",
+      "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault_live.jpg",
+      "published": "2026-09-05T15:47:04Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "04/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "LOnYqurH4WA",
       "url": "https://www.youtube.com/watch?v=LOnYqurH4WA",
@@ -219,12 +227,12 @@
       "published": "2026-09-04T23:30:51Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "DUPLA EM DEBATE QUASE VIROU MMA! | CORTES RÁDIO GRENAL | 04/09/2026",
-      "videoId": "yTUinCA6VNo",
-      "url": "https://www.youtube.com/watch?v=yTUinCA6VNo",
-      "thumbnail": "https://i.ytimg.com/vi/yTUinCA6VNo/mqdefault.jpg",
-      "published": "2026-09-04T18:39:23Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
+      "videoId": "k5YfUvILSzU",
+      "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
+      "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault.jpg",
+      "published": "2026-09-05T15:47:37Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=PCBXrSb7QKI",
       "thumbnail": "https://i.ytimg.com/vi/PCBXrSb7QKI/mqdefault.jpg",
       "published": "2026-09-05T14:30:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
-      "videoId": "k5YfUvILSzU",
-      "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
-      "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault_live.jpg",
-      "published": "2026-09-05T01:31:20Z"
     }
   ]
 }
