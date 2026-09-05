@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-05T01:00:42.323752+00:00",
+  "updated_at": "2026-09-05T02:00:42.985510+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 VEJA IMAGENS DA TRETA | DIA PESADO NO CT | TORCEDOR CONVOCADO",
+      "videoId": "R1iuiohfRQg",
+      "url": "https://www.youtube.com/watch?v=R1iuiohfRQg",
+      "thumbnail": "https://i.ytimg.com/vi/R1iuiohfRQg/mqdefault.jpg",
+      "published": "2026-09-05T01:55:58Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA COMO KROVINOVIC SE TORNOU PEÇA CHAVE DO TIME DE CASTRO | UM GRE-NAL COMPLETO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=XzSwj-Ubo3w",
       "thumbnail": "https://i.ytimg.com/vi/XzSwj-Ubo3w/mqdefault.jpg",
       "published": "2026-09-04T21:31:01Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter: ⚠️ E SE PEZZOLANO CAIR? | DESESPERO BATENDO NA PORTA | DESCARTEM ABEL BRAGA!",
-      "videoId": "E1C2MqOj9h4",
-      "url": "https://www.youtube.com/watch?v=E1C2MqOj9h4",
-      "thumbnail": "https://i.ytimg.com/vi/E1C2MqOj9h4/mqdefault.jpg",
-      "published": "2026-09-04T20:52:02Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A festa no vestiário de Grêmio após o Grenal da Copa do Brasil 🎥 Grêmio TV",
+      "videoId": "tuBI1FZkUms",
+      "url": "https://www.youtube.com/watch?v=tuBI1FZkUms",
+      "thumbnail": "https://i.ytimg.com/vi/tuBI1FZkUms/mqdefault.jpg",
+      "published": "2026-09-05T01:29:19Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #669: Estragos na Arena | Carlos Vinícius | Luan | Kannemann | Desfalques e mais",
       "videoId": "so0oixR804A",
       "url": "https://www.youtube.com/watch?v=so0oixR804A",
       "thumbnail": "https://i.ytimg.com/vi/so0oixR804A/mqdefault.jpg",
       "published": "2026-09-04T20:44:38Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O gol que foi uma obra de arte! Krovinovic - Grêmio 3 x 1 Inter",
-      "videoId": "x1AD4BOLRgc",
-      "url": "https://www.youtube.com/watch?v=x1AD4BOLRgc",
-      "thumbnail": "https://i.ytimg.com/vi/x1AD4BOLRgc/mqdefault.jpg",
-      "published": "2026-09-04T16:47:56Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "BASTIDORES DA CLASSIFICAÇÃO | GRÊMIO 3x1 INTERNACIONAL (COPA DO BRASIL 2026)",
+      "videoId": "TkP1sc-Useo",
+      "url": "https://www.youtube.com/watch?v=TkP1sc-Useo",
+      "thumbnail": "https://i.ytimg.com/vi/TkP1sc-Useo/mqdefault.jpg",
+      "published": "2026-09-05T01:09:51Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | VITÓRIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "69hJL4KRkqs",
       "url": "https://www.youtube.com/watch?v=69hJL4KRkqs",
       "thumbnail": "https://i.ytimg.com/vi/69hJL4KRkqs/mqdefault_live.jpg",
       "published": "2026-09-04T19:26:00Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO TV É GREMISMO DE VERDADE!  #aquiégrêmio #futebol #gremio #grêmiotv #maisque1milhão",
-      "videoId": "qOiNQIs7VU8",
-      "url": "https://www.youtube.com/watch?v=qOiNQIs7VU8",
-      "thumbnail": "https://i.ytimg.com/vi/qOiNQIs7VU8/mqdefault.jpg",
-      "published": "2026-09-04T18:49:28Z"
     },
     {
       "channel": "GZH Digital",
@@ -232,7 +232,7 @@
       "videoId": "k5YfUvILSzU",
       "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
       "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault_live.jpg",
-      "published": "2026-09-05T00:01:10Z"
+      "published": "2026-09-05T01:31:20Z"
     },
     {
       "channel": "Radio Imortal",
