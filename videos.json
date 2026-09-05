@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-05T21:00:35.304553+00:00",
+  "updated_at": "2026-09-05T21:52:56.845338+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: ABELÃO TAMBÉM É RESPONSÁVEL | OS ERROS COMETIDOS | ELE NÃO TEM PERFIL",
+      "title": "🔴⚪️ Inter: 🔥 ABELÃO TAMBÉM É RESPONSÁVEL | OS ERROS COMETIDOS | ELE NÃO TEM PERFIL",
       "videoId": "FAYnM3fiibI",
       "url": "https://www.youtube.com/watch?v=FAYnM3fiibI",
       "thumbnail": "https://i.ytimg.com/vi/FAYnM3fiibI/mqdefault.jpg",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨SURGE UMA GRANDE OPORTUNIDADE PARA O GRÊMIO | TRÊS ESCOLHAS DIFÍCEIS | PROBLEMÃO PARA LUÍS CASTRO",
+      "videoId": "7mCNH6zZHlc",
+      "url": "https://www.youtube.com/watch?v=7mCNH6zZHlc",
+      "thumbnail": "https://i.ytimg.com/vi/7mCNH6zZHlc/mqdefault.jpg",
+      "published": "2026-09-05T21:04:54Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨UMA BAITA NOTÍCIA PRA TORCIDA | NOVIDADES SOBRE VINÍCIUS | GRÊMIO JOGOU MUITO OU INTER FACILITOU?",
       "videoId": "PY7x2sE_U2k",
       "url": "https://www.youtube.com/watch?v=PY7x2sE_U2k",
@@ -203,12 +211,12 @@
       "published": "2026-09-04T22:53:30Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO: DECISÃO IMPORTANTE SOBRE JOGADOR | LIBERTADORES 2027 | TESTE FINAL PARA O TREINADOR",
-      "videoId": "gypsUdPV_CQ",
-      "url": "https://www.youtube.com/watch?v=gypsUdPV_CQ",
-      "thumbnail": "https://i.ytimg.com/vi/gypsUdPV_CQ/mqdefault.jpg",
-      "published": "2026-09-04T17:00:26Z"
+      "channel": "Radio Grenal",
+      "title": "GOLS DE INTER 4X1 JUVENTUDE | NARRAÇÃO DANIEL FELIX | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/2026",
+      "videoId": "ycA2PLFVxoU",
+      "url": "https://www.youtube.com/watch?v=ycA2PLFVxoU",
+      "thumbnail": "https://i.ytimg.com/vi/ycA2PLFVxoU/mqdefault.jpg",
+      "published": "2026-09-05T21:12:52Z"
     },
     {
       "channel": "Radio Grenal",
@@ -217,14 +225,6 @@
       "url": "https://www.youtube.com/watch?v=cMkAlW30tlk",
       "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault.jpg",
       "published": "2026-09-05T20:12:48Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO: JORNADA ESPORTIVA | INTER 4X1 JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
-      "videoId": "1vGg_kBXtHM",
-      "url": "https://www.youtube.com/watch?v=1vGg_kBXtHM",
-      "thumbnail": "https://i.ytimg.com/vi/1vGg_kBXtHM/mqdefault_live.jpg",
-      "published": "2026-09-05T20:02:24Z"
     },
     {
       "channel": "Radio Imortal",
