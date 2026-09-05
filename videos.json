@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:00:39.782920+00:00",
+  "updated_at": "2026-09-05T17:53:25.228588+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AÇAÍ DE ESPECIALIDADE? Viagem à Amazônia muda a vida de empresários gaúchos | Radar de Inovação",
+      "videoId": "6oRhYNbFDAQ",
+      "url": "https://www.youtube.com/watch?v=6oRhYNbFDAQ",
+      "thumbnail": "https://i.ytimg.com/vi/6oRhYNbFDAQ/mqdefault.jpg",
+      "published": "2026-09-05T17:00:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "\"Precisava resgatá-la\": a história que deu origem a uma empresa de perfumes em Gramado | Paralelas",
       "videoId": "8sM1Y-1Md74",
       "url": "https://www.youtube.com/watch?v=8sM1Y-1Md74",
@@ -171,12 +179,12 @@
       "published": "2026-09-05T17:00:08Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Por que TRÊS FURACÕES avançam ao mesmo tempo no OCEANO PACÍFICO? | Zero Hora",
-      "videoId": "ZxvtUXaITPI",
-      "url": "https://www.youtube.com/watch?v=ZxvtUXaITPI",
-      "thumbnail": "https://i.ytimg.com/vi/ZxvtUXaITPI/mqdefault.jpg",
-      "published": "2026-09-05T16:00:28Z"
+      "channel": "Jeremias Wernek",
+      "title": "O INTER JÁ CAIU? O que a gente descobre olhando para 2025 e pro time atual",
+      "videoId": "eHKIoI6HJxw",
+      "url": "https://www.youtube.com/watch?v=eHKIoI6HJxw",
+      "thumbnail": "https://i.ytimg.com/vi/eHKIoI6HJxw/mqdefault.jpg",
+      "published": "2026-09-05T17:09:46Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=yGsJ4qKd_LI",
       "thumbnail": "https://i.ytimg.com/vi/yGsJ4qKd_LI/mqdefault.jpg",
       "published": "2026-09-05T00:02:23Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "EFEITO DO GRE-NAL: Luís Castro elogiado + o plano daqui pra frente",
-      "videoId": "sBfeYzanNsc",
-      "url": "https://www.youtube.com/watch?v=sBfeYzanNsc",
-      "thumbnail": "https://i.ytimg.com/vi/sBfeYzanNsc/mqdefault.jpg",
-      "published": "2026-09-04T21:00:24Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO: ESQUENTANDO JOGO | INTER X JUVENTUDE GAUCHÃO SUB-15  | RÁDIO GRENAL | 05/09/26",
+      "title": "AO VIVO: ESQUENTANDO JOGO | INTER X JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
       "videoId": "cMkAlW30tlk",
       "url": "https://www.youtube.com/watch?v=cMkAlW30tlk",
       "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault_live.jpg",
-      "published": "2026-09-05T15:47:04Z"
+      "published": "2026-09-05T17:32:34Z"
     },
     {
       "channel": "Radio Grenal",
