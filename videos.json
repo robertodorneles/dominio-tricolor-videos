@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:00:49.310024+00:00",
+  "updated_at": "2026-09-05T12:19:35.568271+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VOLTA AOS TREINOS NESTE SÁBADO | FOCO VOLTA AO BRASILEIRÃO | PLANTÃO IMORTAL",
+      "videoId": "PCBXrSb7QKI",
+      "url": "https://www.youtube.com/watch?v=PCBXrSb7QKI",
+      "thumbnail": "https://i.ytimg.com/vi/PCBXrSb7QKI/mqdefault_live.jpg",
+      "published": "2026-09-05T12:03:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
       "videoId": "k5YfUvILSzU",
       "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
       "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault_live.jpg",
       "published": "2026-09-05T01:31:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SE CLASSIFICA E AFUNDA O RIVAL | CLASSIFICAÇÃO INCONTESTÁVEL | IMORTAL FC",
-      "videoId": "YRO-qOa18HY",
-      "url": "https://www.youtube.com/watch?v=YRO-qOa18HY",
-      "thumbnail": "https://i.ytimg.com/vi/YRO-qOa18HY/mqdefault.jpg",
-      "published": "2026-09-04T22:23:01Z"
     }
   ]
 }
