@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-05T19:00:41.217276+00:00",
-  "total": 30,
+  "updated_at": "2026-09-05T19:52:25.585865+00:00",
+  "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio:  O BASTIDOR DE KANNEMANN QUE AJUDA A EXPLICAR O GRE-NAL",
+      "videoId": "9t0ujHdu6nw",
+      "url": "https://www.youtube.com/watch?v=9t0ujHdu6nw",
+      "thumbnail": "https://i.ytimg.com/vi/9t0ujHdu6nw/mqdefault.jpg",
+      "published": "2026-09-05T19:45:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CAITO PREOCUPA E PODE PARAR! | Renovação de Carlos Vinícius avança",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8vSVLEw0eTw",
       "thumbnail": "https://i.ytimg.com/vi/8vSVLEw0eTw/mqdefault.jpg",
       "published": "2026-09-05T05:00:16Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 VEJA IMAGENS DA TRETA | DIA PESADO NO CT | TORCEDOR CONVOCADO",
-      "videoId": "R1iuiohfRQg",
-      "url": "https://www.youtube.com/watch?v=R1iuiohfRQg",
-      "thumbnail": "https://i.ytimg.com/vi/R1iuiohfRQg/mqdefault.jpg",
-      "published": "2026-09-05T01:55:58Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Bastidores importantes sobre a permanência de Luis Castro no Grêmio",
+      "videoId": "X-2D6qRVq38",
+      "url": "https://www.youtube.com/watch?v=X-2D6qRVq38",
+      "thumbnail": "https://i.ytimg.com/vi/X-2D6qRVq38/mqdefault.jpg",
+      "published": "2026-09-05T19:12:49Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PÓS-JOGO: VITÓRIA X GRÊMIO",
       "videoId": "A8uffRSLX4w",
       "url": "https://www.youtube.com/watch?v=A8uffRSLX4w",
       "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault_live.jpg",
       "published": "2026-09-05T13:50:47Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO",
-      "videoId": "PQiWhrnjhts",
-      "url": "https://www.youtube.com/watch?v=PQiWhrnjhts",
-      "thumbnail": "https://i.ytimg.com/vi/PQiWhrnjhts/mqdefault_live.jpg",
-      "published": "2026-09-05T13:44:48Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "KANNEMANN ASSUSTOU O WEVERTON!😄😁 #Conheça a @blascortintas #gremio #futebol",
+      "videoId": "4GAhsCYepZA",
+      "url": "https://www.youtube.com/watch?v=4GAhsCYepZA",
+      "thumbnail": "https://i.ytimg.com/vi/4GAhsCYepZA/mqdefault.jpg",
+      "published": "2026-09-05T19:06:51Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "MOTIVOS: FESTA INESQUECÍVEL NA ARENA #gremio #futebol",
       "videoId": "Ibhs1zJBBo8",
       "url": "https://www.youtube.com/watch?v=Ibhs1zJBBo8",
       "thumbnail": "https://i.ytimg.com/vi/Ibhs1zJBBo8/mqdefault.jpg",
       "published": "2026-09-05T13:00:15Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REUNIÃO CARLOS VINÍCIUS | BASTIDORES DAS CORNETAS DO GRÊMIO | KANNEMANN \"QUEBRA\" VESTIÁRIO.",
-      "videoId": "fBhWbvGbpRQ",
-      "url": "https://www.youtube.com/watch?v=fBhWbvGbpRQ",
-      "thumbnail": "https://i.ytimg.com/vi/fBhWbvGbpRQ/mqdefault.jpg",
-      "published": "2026-09-04T21:21:11Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,19 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO: JORNADA ESPORTIVA | INTER 2X1 JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
+      "title": "AO VIVO: JORNADA ESPORTIVA | INTER 4X1 JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
       "videoId": "cMkAlW30tlk",
       "url": "https://www.youtube.com/watch?v=cMkAlW30tlk",
       "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault_live.jpg",
       "published": "2026-09-05T17:32:34Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "04/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "LOnYqurH4WA",
-      "url": "https://www.youtube.com/watch?v=LOnYqurH4WA",
-      "thumbnail": "https://i.ytimg.com/vi/LOnYqurH4WA/mqdefault.jpg",
-      "published": "2026-09-04T23:30:51Z"
     },
     {
       "channel": "Radio Imortal",
