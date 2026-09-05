@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:35:20.628239+00:00",
+  "updated_at": "2026-09-05T01:00:42.323752+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 BOA NOITE GRÊMIO #018",
+      "title": "GRÊMIO DE LUÍS CASTRO VIROU A CHAVE?🟣RESENHA FORA DA SALA NOITE🟣#018",
+      "videoId": "MR8pPloWVjM",
+      "url": "https://www.youtube.com/watch?v=MR8pPloWVjM",
+      "thumbnail": "https://i.ytimg.com/vi/MR8pPloWVjM/mqdefault.jpg",
+      "published": "2026-09-05T00:49:44Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "WEVERTON REVELA RITUAL DE KANNEMANN🔵 BOA NOITE GRÊMIO #018",
       "videoId": "BayUdpzg5Pk",
       "url": "https://www.youtube.com/watch?v=BayUdpzg5Pk",
       "thumbnail": "https://i.ytimg.com/vi/BayUdpzg5Pk/mqdefault_live.jpg",
       "published": "2026-09-05T00:34:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO DE LUÍS CASTRO VIROU A CHAVE?🟣RESENHA FORA DA SALA NOITE🟣#018",
-      "videoId": "MR8pPloWVjM",
-      "url": "https://www.youtube.com/watch?v=MR8pPloWVjM",
-      "thumbnail": "https://i.ytimg.com/vi/MR8pPloWVjM/mqdefault_live.jpg",
-      "published": "2026-09-04T23:15:51Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #010",
+      "videoId": "0i8fod_TCEU",
+      "url": "https://www.youtube.com/watch?v=0i8fod_TCEU",
+      "thumbnail": "https://i.ytimg.com/vi/0i8fod_TCEU/mqdefault.jpg",
+      "published": "2026-09-05T00:55:26Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! GRÊMIO CLASSIFICADO | VALSA | RECORDE DE PÚBLICO | PASSAMOS POS CIMA DELES - 04/09/2026",
       "videoId": "YYKkcgFtsrA",
       "url": "https://www.youtube.com/watch?v=YYKkcgFtsrA",
       "thumbnail": "https://i.ytimg.com/vi/YYKkcgFtsrA/mqdefault_live.jpg",
       "published": "2026-09-04T23:48:41Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "FARID LIGA PARA BALDASSO AO VIVO!!",
-      "videoId": "iHXFnXFHrFs",
-      "url": "https://www.youtube.com/watch?v=iHXFnXFHrFs",
-      "thumbnail": "https://i.ytimg.com/vi/iHXFnXFHrFs/mqdefault.jpg",
-      "published": "2026-09-04T22:50:03Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -220,11 +220,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "04/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "WS5L86Plt-E",
-      "url": "https://www.youtube.com/watch?v=WS5L86Plt-E",
-      "thumbnail": "https://i.ytimg.com/vi/WS5L86Plt-E/mqdefault_live.jpg",
-      "published": "2026-09-04T23:01:28Z"
+      "title": "DUPLA EM DEBATE QUASE VIROU MMA! | CORTES RÁDIO GRENAL | 04/09/2026",
+      "videoId": "yTUinCA6VNo",
+      "url": "https://www.youtube.com/watch?v=yTUinCA6VNo",
+      "thumbnail": "https://i.ytimg.com/vi/yTUinCA6VNo/mqdefault.jpg",
+      "published": "2026-09-04T18:39:23Z"
     },
     {
       "channel": "Radio Imortal",
