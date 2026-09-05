@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:00:59.116396+00:00",
+  "updated_at": "2026-09-05T00:35:20.628239+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 BOA NOITE GRÊMIO #018",
+      "videoId": "BayUdpzg5Pk",
+      "url": "https://www.youtube.com/watch?v=BayUdpzg5Pk",
+      "thumbnail": "https://i.ytimg.com/vi/BayUdpzg5Pk/mqdefault_live.jpg",
+      "published": "2026-09-05T00:34:55Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO DE LUÍS CASTRO VIROU A CHAVE?🟣RESENHA FORA DA SALA NOITE🟣#018",
       "videoId": "MR8pPloWVjM",
       "url": "https://www.youtube.com/watch?v=MR8pPloWVjM",
       "thumbnail": "https://i.ytimg.com/vi/MR8pPloWVjM/mqdefault_live.jpg",
       "published": "2026-09-04T23:15:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ELIMINA O INTER! ARENA BATE RECORDE E BARCELLOS SE DESCULPA📰BAGÉTV NEWS #030",
-      "videoId": "MclMVtXWuWE",
-      "url": "https://www.youtube.com/watch?v=MclMVtXWuWE",
-      "thumbnail": "https://i.ytimg.com/vi/MclMVtXWuWE/mqdefault.jpg",
-      "published": "2026-09-04T22:10:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "CLIMA PESADO NO INTER: Os bastidores depois da derrota no Gre-Nal + futuro de Pezzolano",
+      "videoId": "yGsJ4qKd_LI",
+      "url": "https://www.youtube.com/watch?v=yGsJ4qKd_LI",
+      "thumbnail": "https://i.ytimg.com/vi/yGsJ4qKd_LI/mqdefault.jpg",
+      "published": "2026-09-05T00:02:23Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "EFEITO DO GRE-NAL: Luís Castro elogiado + o plano daqui pra frente",
       "videoId": "sBfeYzanNsc",
       "url": "https://www.youtube.com/watch?v=sBfeYzanNsc",
       "thumbnail": "https://i.ytimg.com/vi/sBfeYzanNsc/mqdefault.jpg",
       "published": "2026-09-04T21:00:24Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: GRÊMIO AMASSA INTER NO GRE-NAL E PEZZOLANO NA CORDA BAMBA",
-      "videoId": "67HGz-pYs3Y",
-      "url": "https://www.youtube.com/watch?v=67HGz-pYs3Y",
-      "thumbnail": "https://i.ytimg.com/vi/67HGz-pYs3Y/mqdefault.jpg",
-      "published": "2026-09-04T12:29:54Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
+      "videoId": "k5YfUvILSzU",
+      "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
+      "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault_live.jpg",
+      "published": "2026-09-05T00:01:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO SE CLASSIFICA E AFUNDA O RIVAL | CLASSIFICAÇÃO INCONTESTÁVEL | IMORTAL FC",
       "videoId": "YRO-qOa18HY",
       "url": "https://www.youtube.com/watch?v=YRO-qOa18HY",
       "thumbnail": "https://i.ytimg.com/vi/YRO-qOa18HY/mqdefault.jpg",
       "published": "2026-09-04T22:23:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VOLTA AOS TREINOS NESTE SÁBADO | FOCO VOLTA AO BRASILEIRÃO | PLANTÃO IMORTAL",
-      "videoId": "PCBXrSb7QKI",
-      "url": "https://www.youtube.com/watch?v=PCBXrSb7QKI",
-      "thumbnail": "https://i.ytimg.com/vi/PCBXrSb7QKI/mqdefault_live.jpg",
-      "published": "2026-09-04T22:16:20Z"
     }
   ]
 }
