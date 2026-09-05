@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-05T20:00:39.801249+00:00",
-  "total": 29,
+  "updated_at": "2026-09-05T21:00:35.304553+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ABELÃO TAMBÉM É RESPONSÁVEL | OS ERROS COMETIDOS | ELE NÃO TEM PERFIL",
+      "videoId": "FAYnM3fiibI",
+      "url": "https://www.youtube.com/watch?v=FAYnM3fiibI",
+      "thumbnail": "https://i.ytimg.com/vi/FAYnM3fiibI/mqdefault.jpg",
+      "published": "2026-09-05T20:58:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio:  O BASTIDOR DE KANNEMANN QUE AJUDA A EXPLICAR O GRE-NAL",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=9t0ujHdu6nw",
       "thumbnail": "https://i.ytimg.com/vi/9t0ujHdu6nw/mqdefault.jpg",
       "published": "2026-09-05T19:45:29Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CAITO PREOCUPA E PODE PARAR! | Renovação de Carlos Vinícius avança",
-      "videoId": "8vSVLEw0eTw",
-      "url": "https://www.youtube.com/watch?v=8vSVLEw0eTw",
-      "thumbnail": "https://i.ytimg.com/vi/8vSVLEw0eTw/mqdefault.jpg",
-      "published": "2026-09-05T05:00:16Z"
     },
     {
       "channel": "Bage TV",
@@ -212,11 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO: JORNADA ESPORTIVA | INTER 4X1 JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
+      "title": "05/09/2026 | INTER 4X1 JUVENTUDE | CAMPEONATO GAÚCHO SUB-15 | LIVE COMPLETA",
       "videoId": "cMkAlW30tlk",
       "url": "https://www.youtube.com/watch?v=cMkAlW30tlk",
-      "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault_live.jpg",
-      "published": "2026-09-05T19:56:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/cMkAlW30tlk/mqdefault.jpg",
+      "published": "2026-09-05T20:12:48Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO: JORNADA ESPORTIVA | INTER 4X1 JUVENTUDE | GAUCHÃO SUB-15 | RÁDIO GRENAL | 05/09/26",
+      "videoId": "1vGg_kBXtHM",
+      "url": "https://www.youtube.com/watch?v=1vGg_kBXtHM",
+      "thumbnail": "https://i.ytimg.com/vi/1vGg_kBXtHM/mqdefault_live.jpg",
+      "published": "2026-09-05T20:02:24Z"
     },
     {
       "channel": "Radio Imortal",
