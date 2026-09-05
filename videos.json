@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:00:35.920721+00:00",
+  "updated_at": "2026-09-05T23:00:46.509857+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #670: Escalação do Grêmio | Sub-17 | Situação do Galo e mais",
+      "videoId": "NI_UKDaj3oQ",
+      "url": "https://www.youtube.com/watch?v=NI_UKDaj3oQ",
+      "thumbnail": "https://i.ytimg.com/vi/NI_UKDaj3oQ/mqdefault.jpg",
+      "published": "2026-09-05T22:59:16Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Bastidores importantes sobre a permanência de Luis Castro no Grêmio",
       "videoId": "X-2D6qRVq38",
       "url": "https://www.youtube.com/watch?v=X-2D6qRVq38",
       "thumbnail": "https://i.ytimg.com/vi/X-2D6qRVq38/mqdefault.jpg",
       "published": "2026-09-05T19:12:49Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: VITÓRIA X GRÊMIO",
-      "videoId": "A8uffRSLX4w",
-      "url": "https://www.youtube.com/watch?v=A8uffRSLX4w",
-      "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault_live.jpg",
-      "published": "2026-09-05T13:50:47Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE GRENAL HISTÓRICO | O RIO GRANDE ESTÁ EM FESTA | NOITES DE GRÊMIO #140",
-      "videoId": "k5YfUvILSzU",
-      "url": "https://www.youtube.com/watch?v=k5YfUvILSzU",
-      "thumbnail": "https://i.ytimg.com/vi/k5YfUvILSzU/mqdefault.jpg",
-      "published": "2026-09-05T15:47:37Z"
+      "title": "AO VIVO | PRÉ-JOGO VITÓRIA X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
+      "videoId": "Y7RkWYAaQvM",
+      "url": "https://www.youtube.com/watch?v=Y7RkWYAaQvM",
+      "thumbnail": "https://i.ytimg.com/vi/Y7RkWYAaQvM/mqdefault_live.jpg",
+      "published": "2026-09-05T22:33:26Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VOLTA AOS TREINOS NESTE SÁBADO | FOCO VOLTA AO BRASILEIRÃO | PLANTÃO IMORTAL",
-      "videoId": "PCBXrSb7QKI",
-      "url": "https://www.youtube.com/watch?v=PCBXrSb7QKI",
-      "thumbnail": "https://i.ytimg.com/vi/PCBXrSb7QKI/mqdefault.jpg",
-      "published": "2026-09-05T14:30:47Z"
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM SALVADOR | RELACIONADOS PARA O JOGO CONTRA O VITÓRIA",
+      "videoId": "r9AJo3LxBkM",
+      "url": "https://www.youtube.com/watch?v=r9AJo3LxBkM",
+      "thumbnail": "https://i.ytimg.com/vi/r9AJo3LxBkM/mqdefault_live.jpg",
+      "published": "2026-09-05T22:28:25Z"
     }
   ]
 }
