@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:00:38.931307+00:00",
+  "updated_at": "2026-09-06T23:26:46.313415+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO - BRASILEIRÃO | COPA DO BRASIL | LUIS CASTRO E MAIS",
+      "videoId": "PQiWhrnjhts",
+      "url": "https://www.youtube.com/watch?v=PQiWhrnjhts",
+      "thumbnail": "https://i.ytimg.com/vi/PQiWhrnjhts/mqdefault_live.jpg",
+      "published": "2026-09-06T23:00:10Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #671: Relacionados | Time do Grêmio | Tabela do Brasileirão e mais",
       "videoId": "hsjN9fYwL6k",
       "url": "https://www.youtube.com/watch?v=hsjN9fYwL6k",
       "thumbnail": "https://i.ytimg.com/vi/hsjN9fYwL6k/mqdefault.jpg",
       "published": "2026-09-06T21:41:28Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #670: Escalação do Grêmio | Sub-17 | Situação do Galo e mais",
-      "videoId": "NI_UKDaj3oQ",
-      "url": "https://www.youtube.com/watch?v=NI_UKDaj3oQ",
-      "thumbnail": "https://i.ytimg.com/vi/NI_UKDaj3oQ/mqdefault.jpg",
-      "published": "2026-09-05T22:59:16Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
+      "videoId": "raSLO0OQmQ0",
+      "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
+      "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault_live.jpg",
+      "published": "2026-09-06T23:12:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM SALVADOR | RELACIONADOS PARA O JOGO CONTRA O VITÓRIA",
       "videoId": "r9AJo3LxBkM",
       "url": "https://www.youtube.com/watch?v=r9AJo3LxBkM",
       "thumbnail": "https://i.ytimg.com/vi/r9AJo3LxBkM/mqdefault.jpg",
       "published": "2026-09-06T22:20:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A CHEGADA DO GRÊMIO NO AEROPORTO SALGADO FILHO!",
-      "videoId": "euPn9BZquAI",
-      "url": "https://www.youtube.com/watch?v=euPn9BZquAI",
-      "thumbnail": "https://i.ytimg.com/vi/euPn9BZquAI/mqdefault.jpg",
-      "published": "2026-09-06T20:39:42Z"
     }
   ]
 }
