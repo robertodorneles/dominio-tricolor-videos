@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-06T19:00:33.438158+00:00",
+  "updated_at": "2026-09-06T20:00:37.935400+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: AMUZU GANHA UMA NOVA OPORTUNIDADE DE SEGUIR NO CLUBE | RENOVAÇÃO E MUDANÇA DE STATUS",
+      "videoId": "TdyY17ttPqg",
+      "url": "https://www.youtube.com/watch?v=TdyY17ttPqg",
+      "thumbnail": "https://i.ytimg.com/vi/TdyY17ttPqg/mqdefault.jpg",
+      "published": "2026-09-06T19:45:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CASTRO SURPREENDE e pode ir com FORÇA MÁXIMA | Caito pede para jogar lesionado",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=fyKlXHSRmlg",
       "thumbnail": "https://i.ytimg.com/vi/fyKlXHSRmlg/mqdefault.jpg",
       "published": "2026-09-06T05:00:05Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 TENSÃO EXPLODIU NO CT! | DETALHES DA REUNIÃO | PRA SAIR DO Z4",
-      "videoId": "JI2QfAh5zUQ",
-      "url": "https://www.youtube.com/watch?v=JI2QfAh5zUQ",
-      "thumbnail": "https://i.ytimg.com/vi/JI2QfAh5zUQ/mqdefault.jpg",
-      "published": "2026-09-06T04:59:27Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "DIEGO CAITO: GEL, OMBREIRA CIRURGIA?Entrevista para @gzhdigital #gremio #futebol",
+      "videoId": "HVZ8yFcp_AU",
+      "url": "https://www.youtube.com/watch?v=HVZ8yFcp_AU",
+      "thumbnail": "https://i.ytimg.com/vi/HVZ8yFcp_AU/mqdefault.jpg",
+      "published": "2026-09-06T19:00:36Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "DINHEIRO E RENDA DA ARENA DO GRÊMIO #gremio #futbol",
       "videoId": "Zj_cGAq4J4k",
       "url": "https://www.youtube.com/watch?v=Zj_cGAq4J4k",
       "thumbnail": "https://i.ytimg.com/vi/Zj_cGAq4J4k/mqdefault.jpg",
       "published": "2026-09-06T16:00:15Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CAITO CIRURGIA? | RENDA E LUCRO DA ARENA DO GRÊMIO: COMO FUNCIONA.",
-      "videoId": "X5Pq2j8aFlc",
-      "url": "https://www.youtube.com/watch?v=X5Pq2j8aFlc",
-      "thumbnail": "https://i.ytimg.com/vi/X5Pq2j8aFlc/mqdefault.jpg",
-      "published": "2026-09-06T00:02:59Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BEIRA-RIO | INTER 0X0 SANTOS | BRASILEIRÃO | RÁDIO GRENAL | 06/09/26",
+      "title": "AO VIVO DO BEIRA-RIO | INTER 0X3 SANTOS | BRASILEIRÃO | RÁDIO GRENAL | 06/09/2026",
       "videoId": "1vGg_kBXtHM",
       "url": "https://www.youtube.com/watch?v=1vGg_kBXtHM",
       "thumbnail": "https://i.ytimg.com/vi/1vGg_kBXtHM/mqdefault_live.jpg",
