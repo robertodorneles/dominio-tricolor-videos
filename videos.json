@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:00:39.024420+00:00",
+  "updated_at": "2026-09-06T12:34:48.536681+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO SE PREPARA PARA A RETOMADA NO BRASILEIRÃO | POSSÍVEIS DESFALQUES | PLANTÃO IMORTAL",
+      "videoId": "RDSdzl5P8J0",
+      "url": "https://www.youtube.com/watch?v=RDSdzl5P8J0",
+      "thumbnail": "https://i.ytimg.com/vi/RDSdzl5P8J0/mqdefault_live.jpg",
+      "published": "2026-09-06T12:01:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | PRÉ-JOGO VITÓRIA X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
       "videoId": "Y7RkWYAaQvM",
       "url": "https://www.youtube.com/watch?v=Y7RkWYAaQvM",
       "thumbnail": "https://i.ytimg.com/vi/Y7RkWYAaQvM/mqdefault_live.jpg",
       "published": "2026-09-05T22:33:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM SALVADOR | RELACIONADOS PARA O JOGO CONTRA O VITÓRIA",
-      "videoId": "r9AJo3LxBkM",
-      "url": "https://www.youtube.com/watch?v=r9AJo3LxBkM",
-      "thumbnail": "https://i.ytimg.com/vi/r9AJo3LxBkM/mqdefault_live.jpg",
-      "published": "2026-09-05T22:28:25Z"
     }
   ]
 }
