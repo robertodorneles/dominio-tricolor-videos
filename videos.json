@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:00:39.106625+00:00",
+  "updated_at": "2026-09-07T11:00:37.295087+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 07/09/2026",
+      "title": "Violência contra mulher na zona rural, política, economia e mais | Gaúcha Atualidade | 07/09/2026",
       "videoId": "YVliwkEI8-A",
       "url": "https://www.youtube.com/watch?v=YVliwkEI8-A",
       "thumbnail": "https://i.ytimg.com/vi/YVliwkEI8-A/mqdefault_live.jpg",
-      "published": "2026-09-07T07:43:33Z"
+      "published": "2026-09-07T10:54:07Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #16 — DIA DE GRÊMIO EM BUSCA DA PRIMEIRA VITÓRIA FORA DE CASA!",
+      "videoId": "wwjQsAkO43w",
+      "url": "https://www.youtube.com/watch?v=wwjQsAkO43w",
+      "thumbnail": "https://i.ytimg.com/vi/wwjQsAkO43w/mqdefault_live.jpg",
+      "published": "2026-09-07T10:59:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
       "videoId": "raSLO0OQmQ0",
       "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
       "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault_live.jpg",
       "published": "2026-09-06T23:12:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM SALVADOR | RELACIONADOS PARA O JOGO CONTRA O VITÓRIA",
-      "videoId": "r9AJo3LxBkM",
-      "url": "https://www.youtube.com/watch?v=r9AJo3LxBkM",
-      "thumbnail": "https://i.ytimg.com/vi/r9AJo3LxBkM/mqdefault.jpg",
-      "published": "2026-09-06T22:20:01Z"
     }
   ]
 }
