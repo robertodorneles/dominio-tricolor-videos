@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-07T19:00:38.776921+00:00",
+  "updated_at": "2026-09-07T20:00:36.173516+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ⚠️ ANÚNCIOS A QUALQUER MOMENTO | BUSCA SUBSTITUTO | FEZ CONTATOS!",
+      "videoId": "3YbyRseivPQ",
+      "url": "https://www.youtube.com/watch?v=3YbyRseivPQ",
+      "thumbnail": "https://i.ytimg.com/vi/3YbyRseivPQ/mqdefault.jpg",
+      "published": "2026-09-07T19:26:41Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: JOGO VIROU DECISÃO e AMUZU ESTÁ FORA | Último reforço ainda pode chegar",
@@ -11,28 +19,20 @@
       "published": "2026-09-07T06:00:33Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 DECISÃO ABSURDA! VEJA! | DEMISSÕES PODEM VIR | CONFUSÃO | CADÊ PEZZOLANO?",
-      "videoId": "3axiNgNv9vs",
-      "url": "https://www.youtube.com/watch?v=3axiNgNv9vs",
-      "thumbnail": "https://i.ytimg.com/vi/3axiNgNv9vs/mqdefault.jpg",
-      "published": "2026-09-07T05:02:24Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "DIA DE GRÊMIO! TRICOLOR BUSCA PRIMEIRA VITÓRIA FORA DE CASA - PRELEÇÃO",
       "videoId": "CDdBHQRz_2Q",
       "url": "https://www.youtube.com/watch?v=CDdBHQRz_2Q",
-      "thumbnail": "https://i.ytimg.com/vi/CDdBHQRz_2Q/mqdefault_live.jpg",
-      "published": "2026-09-07T18:37:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/CDdBHQRz_2Q/mqdefault.jpg",
+      "published": "2026-09-07T19:47:39Z"
     },
     {
       "channel": "Bage TV",
-      "title": "ELE NÃO VAI FICAR? #CORTESDORESENHA",
-      "videoId": "pZmGICplVh4",
-      "url": "https://www.youtube.com/watch?v=pZmGICplVh4",
-      "thumbnail": "https://i.ytimg.com/vi/pZmGICplVh4/mqdefault.jpg",
-      "published": "2026-09-07T18:23:11Z"
+      "title": "CHEGOU A HORA DE VENCER FORA DE CASA? #CORTESDOFAG",
+      "videoId": "yPyCscnC6rc",
+      "url": "https://www.youtube.com/watch?v=yPyCscnC6rc",
+      "thumbnail": "https://i.ytimg.com/vi/yPyCscnC6rc/mqdefault.jpg",
+      "published": "2026-09-07T19:39:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -168,15 +168,15 @@
       "videoId": "d7IrK7giU08",
       "url": "https://www.youtube.com/watch?v=d7IrK7giU08",
       "thumbnail": "https://i.ytimg.com/vi/d7IrK7giU08/mqdefault_live.jpg",
-      "published": "2026-09-07T18:00:17Z"
+      "published": "2026-09-07T19:34:44Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Lula participa do Desfile de Independência, em Brasília | Zero Hora",
-      "videoId": "0kmw42Ratwg",
-      "url": "https://www.youtube.com/watch?v=0kmw42Ratwg",
-      "thumbnail": "https://i.ytimg.com/vi/0kmw42Ratwg/mqdefault.jpg",
-      "published": "2026-09-07T17:03:27Z"
+      "title": "Quem é Marcel van Hattem? A trajetória do candidato do Novo ao Senado",
+      "videoId": "lBe687c0GSQ",
+      "url": "https://www.youtube.com/watch?v=lBe687c0GSQ",
+      "thumbnail": "https://i.ytimg.com/vi/lBe687c0GSQ/mqdefault.jpg",
+      "published": "2026-09-07T19:30:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO VITÓRIA X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
+      "videoId": "Y7RkWYAaQvM",
+      "url": "https://www.youtube.com/watch?v=Y7RkWYAaQvM",
+      "thumbnail": "https://i.ytimg.com/vi/Y7RkWYAaQvM/mqdefault_live.jpg",
+      "published": "2026-09-07T19:01:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
       "videoId": "raSLO0OQmQ0",
       "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
       "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault.jpg",
       "published": "2026-09-07T15:32:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #36",
-      "videoId": "G1UHm9n1Hrw",
-      "url": "https://www.youtube.com/watch?v=G1UHm9n1Hrw",
-      "thumbnail": "https://i.ytimg.com/vi/G1UHm9n1Hrw/mqdefault.jpg",
-      "published": "2026-09-07T14:49:18Z"
     }
   ]
 }
