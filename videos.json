@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:00:41.486661+00:00",
+  "updated_at": "2026-09-07T17:00:37.456379+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "INTER PERDE E SE AFUNDA NA CRISE! CAVANI CADA VEZ MAIS DISTANTE🔸RESENHA FORA DA SALA🔸#125",
+      "videoId": "ueLzHNl0QT0",
+      "url": "https://www.youtube.com/watch?v=ueLzHNl0QT0",
+      "thumbnail": "https://i.ytimg.com/vi/ueLzHNl0QT0/mqdefault_live.jpg",
+      "published": "2026-09-07T16:34:19Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #061",
       "videoId": "p_jeKQ5sdr0",
       "url": "https://www.youtube.com/watch?v=p_jeKQ5sdr0",
@@ -27,12 +35,12 @@
       "published": "2026-09-07T15:35:02Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "Jairo Desabafa no meio do programa.",
-      "videoId": "vdfZ1lP7j84",
-      "url": "https://www.youtube.com/watch?v=vdfZ1lP7j84",
-      "thumbnail": "https://i.ytimg.com/vi/vdfZ1lP7j84/mqdefault.jpg",
-      "published": "2026-09-07T14:58:39Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨DEFINIÇÃO SOBRE GRANDE SAÍDA | O TIME DO GRÊMIO PRO JOGO CONTRA O VITÓRIA | A CRISE DO INTER..",
+      "videoId": "666ZIf8XtkU",
+      "url": "https://www.youtube.com/watch?v=666ZIf8XtkU",
+      "thumbnail": "https://i.ytimg.com/vi/666ZIf8XtkU/mqdefault.jpg",
+      "published": "2026-09-07T16:45:44Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=T8DcwEcHMaQ",
       "thumbnail": "https://i.ytimg.com/vi/T8DcwEcHMaQ/mqdefault.jpg",
       "published": "2026-09-07T01:41:20Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TITULAR FICA PERTO DE SAIR! A OFERTA PRA ATACANTE | MUDANÇAS NO TIME DO GRÊMIO CONTRA O VITÓRIA",
-      "videoId": "hmUCEX_Sr-Q",
-      "url": "https://www.youtube.com/watch?v=hmUCEX_Sr-Q",
-      "thumbnail": "https://i.ytimg.com/vi/hmUCEX_Sr-Q/mqdefault.jpg",
-      "published": "2026-09-06T15:18:30Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "PiISkGzudxo",
       "url": "https://www.youtube.com/watch?v=PiISkGzudxo",
       "thumbnail": "https://i.ytimg.com/vi/PiISkGzudxo/mqdefault_live.jpg",
-      "published": "2026-09-07T15:20:02Z"
+      "published": "2026-09-07T16:01:16Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha+ | 07/09/2026",
+      "videoId": "d7IrK7giU08",
+      "url": "https://www.youtube.com/watch?v=d7IrK7giU08",
+      "thumbnail": "https://i.ytimg.com/vi/d7IrK7giU08/mqdefault_live.jpg",
+      "published": "2026-09-07T16:44:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Da enxada às colheitadeiras gigantes: a história da mecanização rural no RS | Aconteceu no RS",
       "videoId": "uJaWDBBpu4Q",
       "url": "https://www.youtube.com/watch?v=uJaWDBBpu4Q",
       "thumbnail": "https://i.ytimg.com/vi/uJaWDBBpu4Q/mqdefault.jpg",
       "published": "2026-09-07T14:55:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Entrevista com ex-ministro do STF Marco Aurélio, 7 de Setembro e mais | Timeline | 07/09/2026",
-      "videoId": "zVw611cNgr4",
-      "url": "https://www.youtube.com/watch?v=zVw611cNgr4",
-      "thumbnail": "https://i.ytimg.com/vi/zVw611cNgr4/mqdefault_live.jpg",
-      "published": "2026-09-07T13:54:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 07/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 07/09/2026",
       "videoId": "n3g-iE-XVgM",
       "url": "https://www.youtube.com/watch?v=n3g-iE-XVgM",
       "thumbnail": "https://i.ytimg.com/vi/n3g-iE-XVgM/mqdefault_live.jpg",
