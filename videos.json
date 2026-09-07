@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:00:48.870191+00:00",
+  "updated_at": "2026-09-07T16:00:41.486661+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #061",
+      "videoId": "p_jeKQ5sdr0",
+      "url": "https://www.youtube.com/watch?v=p_jeKQ5sdr0",
+      "thumbnail": "https://i.ytimg.com/vi/p_jeKQ5sdr0/mqdefault.jpg",
+      "published": "2026-09-07T15:35:02Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "Jairo Desabafa no meio do programa.",
       "videoId": "vdfZ1lP7j84",
       "url": "https://www.youtube.com/watch?v=vdfZ1lP7j84",
       "thumbnail": "https://i.ytimg.com/vi/vdfZ1lP7j84/mqdefault.jpg",
       "published": "2026-09-07T14:58:39Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #061",
-      "videoId": "p_jeKQ5sdr0",
-      "url": "https://www.youtube.com/watch?v=p_jeKQ5sdr0",
-      "thumbnail": "https://i.ytimg.com/vi/p_jeKQ5sdr0/mqdefault_live.jpg",
-      "published": "2026-09-07T14:53:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #7",
+      "videoId": "PiISkGzudxo",
+      "url": "https://www.youtube.com/watch?v=PiISkGzudxo",
+      "thumbnail": "https://i.ytimg.com/vi/PiISkGzudxo/mqdefault_live.jpg",
+      "published": "2026-09-07T15:20:02Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #011",
       "videoId": "WviQ27gee5c",
       "url": "https://www.youtube.com/watch?v=WviQ27gee5c",
@@ -75,12 +83,12 @@
       "published": "2026-09-07T12:34:35Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "VITÓRIA X GRÊMIO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 07/09/2026",
-      "videoId": "3UOLB_35Rw0",
-      "url": "https://www.youtube.com/watch?v=3UOLB_35Rw0",
-      "thumbnail": "https://i.ytimg.com/vi/3UOLB_35Rw0/mqdefault_live.jpg",
-      "published": "2026-09-07T00:28:28Z"
+      "channel": "Canal do Gabardo",
+      "title": "O fato novo do Internacional após a derrota para o Santos",
+      "videoId": "nVqmsJ1Om8w",
+      "url": "https://www.youtube.com/watch?v=nVqmsJ1Om8w",
+      "thumbnail": "https://i.ytimg.com/vi/nVqmsJ1Om8w/mqdefault.jpg",
+      "published": "2026-09-07T15:05:09Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -91,28 +99,20 @@
       "published": "2026-09-07T14:17:08Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "O cálculo para o Inter escapar do rebaixamento em 2026",
-      "videoId": "6iw1BzOUXJs",
-      "url": "https://www.youtube.com/watch?v=6iw1BzOUXJs",
-      "thumbnail": "https://i.ytimg.com/vi/6iw1BzOUXJs/mqdefault.jpg",
-      "published": "2026-09-05T18:02:56Z"
+      "channel": "Careca de Saber TV",
+      "title": "VITÓRIA X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
+      "videoId": "oCGOSxqjB5g",
+      "url": "https://www.youtube.com/watch?v=oCGOSxqjB5g",
+      "thumbnail": "https://i.ytimg.com/vi/oCGOSxqjB5g/mqdefault_live.jpg",
+      "published": "2026-09-07T15:22:17Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "TABELA: CRISE NO RIVAL E O CAMINHO DO GRÊMIO | SURPRESA NA VIAGEM: VITÓRIA X GRÊMIO.",
-      "videoId": "1MNNFARa6ZU",
-      "url": "https://www.youtube.com/watch?v=1MNNFARa6ZU",
-      "thumbnail": "https://i.ytimg.com/vi/1MNNFARa6ZU/mqdefault.jpg",
-      "published": "2026-09-06T21:36:56Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DIEGO CAITO: GEL, OMBREIRA CIRURGIA?Entrevista para @gzhdigital #gremio #futebol",
-      "videoId": "HVZ8yFcp_AU",
-      "url": "https://www.youtube.com/watch?v=HVZ8yFcp_AU",
-      "thumbnail": "https://i.ytimg.com/vi/HVZ8yFcp_AU/mqdefault.jpg",
-      "published": "2026-09-06T19:00:36Z"
+      "title": "CARLOS VINÍCIUS NÃO RENOVA E FICA PRA DEZEMBRO: MOTIVOS | AGORA: CEBOLINHA E SAÍDAS NO GRÊMIO",
+      "videoId": "ht6kt_gG_wc",
+      "url": "https://www.youtube.com/watch?v=ht6kt_gG_wc",
+      "thumbnail": "https://i.ytimg.com/vi/ht6kt_gG_wc/mqdefault.jpg",
+      "published": "2026-09-07T15:13:59Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GRÊMIO E O MÊS DECISIVO: O que os números e a tabela mostram na briga contra o Z4 e o futuro",
+      "videoId": "gj0KCLiXMeo",
+      "url": "https://www.youtube.com/watch?v=gj0KCLiXMeo",
+      "thumbnail": "https://i.ytimg.com/vi/gj0KCLiXMeo/mqdefault.jpg",
+      "published": "2026-09-07T15:08:30Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: Inter afunda na crise + Grêmio joga hoje + bastidores",
       "videoId": "aRBK2InkZcg",
       "url": "https://www.youtube.com/watch?v=aRBK2InkZcg",
       "thumbnail": "https://i.ytimg.com/vi/aRBK2InkZcg/mqdefault.jpg",
       "published": "2026-09-07T12:39:39Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "DERROTA DE TIME REBAIXADO: Inter leva 3 a 2 do Santos no Beira-Rio",
-      "videoId": "zGIeIeIj10c",
-      "url": "https://www.youtube.com/watch?v=zGIeIeIj10c",
-      "thumbnail": "https://i.ytimg.com/vi/zGIeIeIj10c/mqdefault.jpg",
-      "published": "2026-09-06T21:36:50Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
+      "videoId": "raSLO0OQmQ0",
+      "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
+      "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault.jpg",
+      "published": "2026-09-07T15:32:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #36",
       "videoId": "G1UHm9n1Hrw",
       "url": "https://www.youtube.com/watch?v=G1UHm9n1Hrw",
       "thumbnail": "https://i.ytimg.com/vi/G1UHm9n1Hrw/mqdefault.jpg",
       "published": "2026-09-07T14:49:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
-      "videoId": "raSLO0OQmQ0",
-      "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
-      "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault_live.jpg",
-      "published": "2026-09-07T14:07:55Z"
     }
   ]
 }
