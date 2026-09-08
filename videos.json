@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:39:24.304092+00:00",
+  "updated_at": "2026-09-08T21:00:40.334053+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "CRISE! GRÊMIO PERDE, TORCIDA COLORADA PROTESTA E CEBOLINHA NO SANTOS!📰BAGÉTV NEWS #031",
+      "title": "GRÊMIO DIZ NÃO A CEBOLINHA! PROTESTOS NO BEIRA-RIO. COUTINHO NO SANTOS📰BAGÉTV NEWS #031",
       "videoId": "jf3D1BdpSP0",
       "url": "https://www.youtube.com/watch?v=jf3D1BdpSP0",
       "thumbnail": "https://i.ytimg.com/vi/jf3D1BdpSP0/mqdefault_live.jpg",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "AQUILO ME REVOLTOU DEMAIS #dudagarbi #umassadopara",
+      "videoId": "kX7magWwODw",
+      "url": "https://www.youtube.com/watch?v=kX7magWwODw",
+      "thumbnail": "https://i.ytimg.com/vi/kX7magWwODw/mqdefault.jpg",
+      "published": "2026-09-08T21:00:10Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 08.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "d9sQBGTFPVo",
       "url": "https://www.youtube.com/watch?v=d9sQBGTFPVo",
       "thumbnail": "https://i.ytimg.com/vi/d9sQBGTFPVo/mqdefault.jpg",
       "published": "2026-09-08T13:10:09Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O DIA QUE PELÉ DEU UMA \"SAPATADA\" NO TINO MARCOS E BASTIDORES DO REI DO FUTEBOL | Cortes do Duda",
-      "videoId": "Zu-xNGuxGJ0",
-      "url": "https://www.youtube.com/watch?v=Zu-xNGuxGJ0",
-      "thumbnail": "https://i.ytimg.com/vi/Zu-xNGuxGJ0/mqdefault.jpg",
-      "published": "2026-09-07T21:30:33Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "As inovações nos sabores da Agricultura Familiar | Reapresentação | Conversas Cruzadas",
+      "videoId": "aMbkJGZxBW8",
+      "url": "https://www.youtube.com/watch?v=aMbkJGZxBW8",
+      "thumbnail": "https://i.ytimg.com/vi/aMbkJGZxBW8/mqdefault.jpg",
+      "published": "2026-09-08T20:45:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Mendonça afasta Andrei Rodrigues; crise entre STF e Polícia Federal | Andei Pensando | 08/09/2026",
       "videoId": "pbovEvWdlcM",
       "url": "https://www.youtube.com/watch?v=pbovEvWdlcM",
@@ -171,12 +179,12 @@
       "published": "2026-09-08T20:30:26Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Afastamento de diretor da PF, trend dos anos 80, trânsito e mais | Gaúcha+ | 08/09/2026",
-      "videoId": "9hsDDpcNE1I",
-      "url": "https://www.youtube.com/watch?v=9hsDDpcNE1I",
-      "thumbnail": "https://i.ytimg.com/vi/9hsDDpcNE1I/mqdefault_live.jpg",
-      "published": "2026-09-08T19:31:32Z"
+      "channel": "Jeremias Wernek",
+      "title": "LIVE: Grêmio e Cebolinha. Quem não quis? +  bastidores + fim da janela e semana pesada",
+      "videoId": "-vO_63nFlg0",
+      "url": "https://www.youtube.com/watch?v=-vO_63nFlg0",
+      "thumbnail": "https://i.ytimg.com/vi/-vO_63nFlg0/mqdefault_live.jpg",
+      "published": "2026-09-08T20:57:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=ggqwOQVkIHU",
       "thumbnail": "https://i.ytimg.com/vi/ggqwOQVkIHU/mqdefault.jpg",
       "published": "2026-09-08T16:35:17Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Contato com Cebolinha + bastidores + prazos",
-      "videoId": "18K6dhEBuZM",
-      "url": "https://www.youtube.com/watch?v=18K6dhEBuZM",
-      "thumbnail": "https://i.ytimg.com/vi/18K6dhEBuZM/mqdefault.jpg",
-      "published": "2026-09-08T15:49:06Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
+      "videoId": "Vrb0mFSMb38",
+      "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
+      "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault_live.jpg",
+      "published": "2026-09-08T20:44:04Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CEBOLINHA ACERTA COM OUTRO CLUBE BRASILEIRO | GRÊMIO PERDE MAIS UMA FORA DE CASA | ESPLANADA",
       "videoId": "NURcKzB7AG0",
       "url": "https://www.youtube.com/watch?v=NURcKzB7AG0",
       "thumbnail": "https://i.ytimg.com/vi/NURcKzB7AG0/mqdefault.jpg",
       "published": "2026-09-08T19:57:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SEGUE PERDENDO E JOGANDO MAL FORA DE CASA | CEBOLINHA NÃO VEM | IMORTAL FC",
-      "videoId": "3x5a4D6lEZE",
-      "url": "https://www.youtube.com/watch?v=3x5a4D6lEZE",
-      "thumbnail": "https://i.ytimg.com/vi/3x5a4D6lEZE/mqdefault_live.jpg",
-      "published": "2026-09-08T18:32:55Z"
     }
   ]
 }
