@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T00:00:34.613498+00:00",
+  "updated_at": "2026-09-08T01:00:37.575048+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "VITÓRIA 1 X 0 GRÊMIO: CASTRO JOGA PARA PERDER NO BARRADÃO",
+      "videoId": "A8uffRSLX4w",
+      "url": "https://www.youtube.com/watch?v=A8uffRSLX4w",
+      "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault_live.jpg",
+      "published": "2026-09-08T00:59:01Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Vitória x Grêmio: Decisão na Bahia | Tabela | Time e mais",
       "videoId": "k-E_pQqc6rM",
       "url": "https://www.youtube.com/watch?v=k-E_pQqc6rM",
@@ -59,12 +67,12 @@
       "published": "2026-09-07T14:34:48Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE DOMINGO - BRASILEIRÃO | COPA DO BRASIL | LUIS CASTRO E MAIS",
-      "videoId": "PQiWhrnjhts",
-      "url": "https://www.youtube.com/watch?v=PQiWhrnjhts",
-      "thumbnail": "https://i.ytimg.com/vi/PQiWhrnjhts/mqdefault.jpg",
-      "published": "2026-09-07T00:07:21Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #011",
+      "videoId": "WviQ27gee5c",
+      "url": "https://www.youtube.com/watch?v=WviQ27gee5c",
+      "thumbnail": "https://i.ytimg.com/vi/WviQ27gee5c/mqdefault.jpg",
+      "published": "2026-09-08T00:43:01Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=3UOLB_35Rw0",
       "thumbnail": "https://i.ytimg.com/vi/3UOLB_35Rw0/mqdefault_live.jpg",
       "published": "2026-09-07T21:03:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #7",
-      "videoId": "PiISkGzudxo",
-      "url": "https://www.youtube.com/watch?v=PiISkGzudxo",
-      "thumbnail": "https://i.ytimg.com/vi/PiISkGzudxo/mqdefault_live.jpg",
-      "published": "2026-09-07T17:12:14Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE  VITÓRIA x GRÊMIO DIRETO DO BARRADÃO | BRASILEIRÃO | COLETIVAS | 07/09 #33",
+      "videoId": "IQNb8akplJg",
+      "url": "https://www.youtube.com/watch?v=IQNb8akplJg",
+      "thumbnail": "https://i.ytimg.com/vi/IQNb8akplJg/mqdefault_live.jpg",
+      "published": "2026-09-08T01:00:06Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PRÉ-JOGO DE VITÓRIA x GRÊMIO DIRETO DO BARRADÃO | BRASILEIRÃO | 07/09 #16",
       "videoId": "iRfZQBC2Xic",
       "url": "https://www.youtube.com/watch?v=iRfZQBC2Xic",
       "thumbnail": "https://i.ytimg.com/vi/iRfZQBC2Xic/mqdefault.jpg",
       "published": "2026-09-07T23:09:08Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "REFORÇOS PARA SEMIFINAL? | CIRURGIA DESCARTADA | A MISSÃO DO GRÊMIO NO BRASILEIRÃO",
-      "videoId": "yIb1Geicd5M",
-      "url": "https://www.youtube.com/watch?v=yIb1Geicd5M",
-      "thumbnail": "https://i.ytimg.com/vi/yIb1Geicd5M/mqdefault.jpg",
-      "published": "2026-09-06T14:52:12Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I VITÓRIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "JQhYEQLnTbY",
+      "url": "https://www.youtube.com/watch?v=JQhYEQLnTbY",
+      "thumbnail": "https://i.ytimg.com/vi/JQhYEQLnTbY/mqdefault_live.jpg",
+      "published": "2026-09-08T00:41:22Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | VITÓRIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "69hJL4KRkqs",
       "url": "https://www.youtube.com/watch?v=69hJL4KRkqs",
       "thumbnail": "https://i.ytimg.com/vi/69hJL4KRkqs/mqdefault_live.jpg",
       "published": "2026-09-07T21:31:11Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "COLETIVA PÓS-JOGO SÃO PAULO X GRÊMIO (CAMPEONATO BRASILEIRO FEMININO A1)",
-      "videoId": "QLNsz30sL2I",
-      "url": "https://www.youtube.com/watch?v=QLNsz30sL2I",
-      "thumbnail": "https://i.ytimg.com/vi/QLNsz30sL2I/mqdefault.jpg",
-      "published": "2026-09-06T01:49:17Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JORNADA ESPORTIVA AO VIVO | VITÓRIA 0X0 GRÊMIO | RÁDIO GRENAL | 07/09/2026",
+      "title": "JORNADA ESPORTIVA AO VIVO | VITÓRIA 1X0 GRÊMIO | RÁDIO GRENAL | 07/09/2026",
       "videoId": "ZbSTJ4iYsKk",
       "url": "https://www.youtube.com/watch?v=ZbSTJ4iYsKk",
       "thumbnail": "https://i.ytimg.com/vi/ZbSTJ4iYsKk/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | VITÓRIA (0) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
+      "title": "AO VIVO | PÓS-JOGO VITÓRIA (1) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
       "videoId": "Y7RkWYAaQvM",
       "url": "https://www.youtube.com/watch?v=Y7RkWYAaQvM",
       "thumbnail": "https://i.ytimg.com/vi/Y7RkWYAaQvM/mqdefault_live.jpg",
