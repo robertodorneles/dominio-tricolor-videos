@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:01:02.997668+00:00",
+  "updated_at": "2026-09-08T17:00:54.531519+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO PERDE FORA, CEBOLINHA SE APROXIMA E INTER TEM PROTESTO NO CT!🔸RESENHA FORA DA SALA🔸#126",
+      "videoId": "3pJowkEdnGk",
+      "url": "https://www.youtube.com/watch?v=3pJowkEdnGk",
+      "thumbnail": "https://i.ytimg.com/vi/3pJowkEdnGk/mqdefault_live.jpg",
+      "published": "2026-09-08T16:37:01Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "O Time do Grêmio é fraco.",
       "videoId": "IzoPsw83c50",
       "url": "https://www.youtube.com/watch?v=IzoPsw83c50",
       "thumbnail": "https://i.ytimg.com/vi/IzoPsw83c50/mqdefault.jpg",
       "published": "2026-09-08T15:52:01Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "O Grêmio não apresenta nada.",
-      "videoId": "IVvoV0fxc7c",
-      "url": "https://www.youtube.com/watch?v=IVvoV0fxc7c",
-      "thumbnail": "https://i.ytimg.com/vi/IVvoV0fxc7c/mqdefault.jpg",
-      "published": "2026-09-08T15:34:27Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,27 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Everton Cebolinha | Caíque e presidente do Vitória | Tetê | Decisões do Grêmio",
-      "videoId": "_JRl5kRTrJk",
-      "url": "https://www.youtube.com/watch?v=_JRl5kRTrJk",
-      "thumbnail": "https://i.ytimg.com/vi/_JRl5kRTrJk/mqdefault.jpg",
-      "published": "2026-09-08T14:40:39Z"
+      "title": "LIVE DE DOMINGO",
+      "videoId": "uq7BTjjmhEM",
+      "url": "https://www.youtube.com/watch?v=uq7BTjjmhEM",
+      "thumbnail": "https://i.ytimg.com/vi/uq7BTjjmhEM/mqdefault_live.jpg",
+      "published": "2026-09-08T16:17:38Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "VITÓRIA 1 X 0 GRÊMIO: CASTRO JOGA PARA PERDER NO BARRADÃO",
-      "videoId": "A8uffRSLX4w",
-      "url": "https://www.youtube.com/watch?v=A8uffRSLX4w",
-      "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault.jpg",
-      "published": "2026-09-08T03:00:17Z"
+      "title": "PÓS-JOGO: GRÊMIO X VASCO",
+      "videoId": "QArf5jV7rBw",
+      "url": "https://www.youtube.com/watch?v=QArf5jV7rBw",
+      "thumbnail": "https://i.ytimg.com/vi/QArf5jV7rBw/mqdefault_live.jpg",
+      "published": "2026-09-08T16:12:22Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #8",
+      "videoId": "glO2f2cDLGY",
+      "url": "https://www.youtube.com/watch?v=glO2f2cDLGY",
+      "thumbnail": "https://i.ytimg.com/vi/glO2f2cDLGY/mqdefault_live.jpg",
+      "published": "2026-09-08T16:00:31Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=gNRCLUKWFFw",
       "thumbnail": "https://i.ytimg.com/vi/gNRCLUKWFFw/mqdefault_live.jpg",
       "published": "2026-09-08T15:50:04Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "INACREDITÁVEL! 3 PERGUNTAS SINCERAS PARA O LUÍS CASTRO…",
-      "videoId": "QACBP6xkhKw",
-      "url": "https://www.youtube.com/watch?v=QACBP6xkhKw",
-      "thumbnail": "https://i.ytimg.com/vi/QACBP6xkhKw/mqdefault.jpg",
-      "published": "2026-09-08T14:03:46Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "EVERTON CEBOLINHA: ESQUEÇAM! | MÁ NOTÍCIA PARA SÁBADO | HISTÓRICO NADA POSITIVO",
+      "videoId": "lkh9cvVkcoQ",
+      "url": "https://www.youtube.com/watch?v=lkh9cvVkcoQ",
+      "thumbnail": "https://i.ytimg.com/vi/lkh9cvVkcoQ/mqdefault.jpg",
+      "published": "2026-09-08T16:03:26Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE  VITÓRIA x GRÊMIO DIRETO DO BARRADÃO | BRASILEIRÃO | COLETIVAS | 07/09 #33",
       "videoId": "IQNb8akplJg",
       "url": "https://www.youtube.com/watch?v=IQNb8akplJg",
       "thumbnail": "https://i.ytimg.com/vi/IQNb8akplJg/mqdefault.jpg",
       "published": "2026-09-08T02:09:19Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE VITÓRIA x GRÊMIO DIRETO DO BARRADÃO | BRASILEIRÃO | 07/09 #16",
-      "videoId": "iRfZQBC2Xic",
-      "url": "https://www.youtube.com/watch?v=iRfZQBC2Xic",
-      "thumbnail": "https://i.ytimg.com/vi/iRfZQBC2Xic/mqdefault.jpg",
-      "published": "2026-09-07T23:09:08Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gaúcha+ | 08/09/2026",
+      "videoId": "9hsDDpcNE1I",
+      "url": "https://www.youtube.com/watch?v=9hsDDpcNE1I",
+      "thumbnail": "https://i.ytimg.com/vi/9hsDDpcNE1I/mqdefault_live.jpg",
+      "published": "2026-09-08T16:39:28Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Suplementação alimentar: quem precisa de whey protein e creatina? | Tá Tudo Bem?",
       "videoId": "x9Kx41zVxL0",
       "url": "https://www.youtube.com/watch?v=x9Kx41zVxL0",
@@ -171,12 +179,12 @@
       "published": "2026-09-08T14:55:06Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "André Mendonça afasta chefe da PF, últimas da política e mais | Timeline | 08/09/2026",
-      "videoId": "0Ualsh8aVfw",
-      "url": "https://www.youtube.com/watch?v=0Ualsh8aVfw",
-      "thumbnail": "https://i.ytimg.com/vi/0Ualsh8aVfw/mqdefault.jpg",
-      "published": "2026-09-08T14:31:59Z"
+      "channel": "Jeremias Wernek",
+      "title": "Grêmio entrou em contato com Everton Cebolinha",
+      "videoId": "ggqwOQVkIHU",
+      "url": "https://www.youtube.com/watch?v=ggqwOQVkIHU",
+      "thumbnail": "https://i.ytimg.com/vi/ggqwOQVkIHU/mqdefault.jpg",
+      "published": "2026-09-08T16:35:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -187,12 +195,12 @@
       "published": "2026-09-08T15:49:06Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: GRÊMIO PERDE DE NOVO E COUDET DE VOLTA AO INTER?",
-      "videoId": "T-96qY48pes",
-      "url": "https://www.youtube.com/watch?v=T-96qY48pes",
-      "thumbnail": "https://i.ytimg.com/vi/T-96qY48pes/mqdefault.jpg",
-      "published": "2026-09-08T12:11:00Z"
+      "channel": "LH Benfica",
+      "title": "🚨GRÊMIO: CEBOLINHA VEM AÍ!? | TEM PROPOSTA PELO JOGADOR, SIM | MENTIRAM SOBRE AMUZU",
+      "videoId": "qIugzCZtRFE",
+      "url": "https://www.youtube.com/watch?v=qIugzCZtRFE",
+      "thumbnail": "https://i.ytimg.com/vi/qIugzCZtRFE/mqdefault.jpg",
+      "published": "2026-09-08T16:54:09Z"
     },
     {
       "channel": "LH Benfica",
@@ -203,16 +211,8 @@
       "published": "2026-09-08T02:20:16Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO SUSPENDE NEGOCIAÇÃO | ZAGUEIRO ESTÁ DE VOLTA | PROMESSA PERDE ESPAÇO",
-      "videoId": "1jXg5d8fbrk",
-      "url": "https://www.youtube.com/watch?v=1jXg5d8fbrk",
-      "thumbnail": "https://i.ytimg.com/vi/1jXg5d8fbrk/mqdefault.jpg",
-      "published": "2026-09-07T17:20:05Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 08/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 08/09/2026",
       "videoId": "GjOCrBZBvfU",
       "url": "https://www.youtube.com/watch?v=GjOCrBZBvfU",
       "thumbnail": "https://i.ytimg.com/vi/GjOCrBZBvfU/mqdefault_live.jpg",
