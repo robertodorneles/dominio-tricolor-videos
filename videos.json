@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:00:44.270286+00:00",
+  "updated_at": "2026-09-08T10:00:45.374324+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 VITÓRIA X GRÊMIO",
-      "videoId": "e_29zWWMO0c",
-      "url": "https://www.youtube.com/watch?v=e_29zWWMO0c",
-      "thumbnail": "https://i.ytimg.com/vi/e_29zWWMO0c/mqdefault.jpg",
-      "published": "2026-09-08T02:32:42Z"
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#019",
+      "videoId": "E61eHEawWCw",
+      "url": "https://www.youtube.com/watch?v=E61eHEawWCw",
+      "thumbnail": "https://i.ytimg.com/vi/E61eHEawWCw/mqdefault_live.jpg",
+      "published": "2026-09-08T09:59:32Z"
     },
     {
       "channel": "Bage TV",
-      "title": "O GRÊMIO SE NAGA A GANHAR LONGE DE CASA.",
-      "videoId": "GiKNguK7GfA",
-      "url": "https://www.youtube.com/watch?v=GiKNguK7GfA",
-      "thumbnail": "https://i.ytimg.com/vi/GiKNguK7GfA/mqdefault.jpg",
-      "published": "2026-09-08T02:10:37Z"
+      "title": "GRÊMIO PERDE E VOLTA A DURA REALIDADE🌅🔵 BOM DIA GRÊMIO #119",
+      "videoId": "eTDaGya6Rxw",
+      "url": "https://www.youtube.com/watch?v=eTDaGya6Rxw",
+      "thumbnail": "https://i.ytimg.com/vi/eTDaGya6Rxw/mqdefault_live.jpg",
+      "published": "2026-09-08T09:25:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #17 — GRÊMIO SOFRE NOVA DERROTA FORA DE CASA | LUÍS CASTRO GOSTOU?",
+      "videoId": "NwYd01FLJFc",
+      "url": "https://www.youtube.com/watch?v=NwYd01FLJFc",
+      "thumbnail": "https://i.ytimg.com/vi/NwYd01FLJFc/mqdefault_live.jpg",
+      "published": "2026-09-08T09:30:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #150 — NADA DE NOVO PARA O GRÊMIO FORA DE CASA | LUTA CONTRA O REBAIXAMENTO",
       "videoId": "c2VKr74pR-U",
       "url": "https://www.youtube.com/watch?v=c2VKr74pR-U",
       "thumbnail": "https://i.ytimg.com/vi/c2VKr74pR-U/mqdefault_live.jpg",
       "published": "2026-09-08T03:19:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PERDE E SEGUE NA LUTA CONTRA O REBAIXAMENTO | COMO É BOM SER DO GRÊMIO #37",
-      "videoId": "xKeWu9y7A8c",
-      "url": "https://www.youtube.com/watch?v=xKeWu9y7A8c",
-      "thumbnail": "https://i.ytimg.com/vi/xKeWu9y7A8c/mqdefault_live.jpg",
-      "published": "2026-09-08T03:13:27Z"
     }
   ]
 }
