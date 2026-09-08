@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:00:39.927219+00:00",
+  "updated_at": "2026-09-08T03:42:37.753093+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "cy_0gxbxX3s",
       "url": "https://www.youtube.com/watch?v=cy_0gxbxX3s",
       "thumbnail": "https://i.ytimg.com/vi/cy_0gxbxX3s/mqdefault_live.jpg",
-      "published": "2026-09-08T01:37:12Z"
+      "published": "2026-09-08T03:40:00Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#126",
-      "videoId": "3pJowkEdnGk",
-      "url": "https://www.youtube.com/watch?v=3pJowkEdnGk",
-      "thumbnail": "https://i.ytimg.com/vi/3pJowkEdnGk/mqdefault_live.jpg",
-      "published": "2026-09-08T01:41:01Z"
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 VITÓRIA X GRÊMIO",
+      "videoId": "e_29zWWMO0c",
+      "url": "https://www.youtube.com/watch?v=e_29zWWMO0c",
+      "thumbnail": "https://i.ytimg.com/vi/e_29zWWMO0c/mqdefault.jpg",
+      "published": "2026-09-08T02:32:42Z"
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #062",
-      "videoId": "OzjpyBp44wM",
-      "url": "https://www.youtube.com/watch?v=OzjpyBp44wM",
-      "thumbnail": "https://i.ytimg.com/vi/OzjpyBp44wM/mqdefault_live.jpg",
-      "published": "2026-09-08T01:40:07Z"
+      "title": "O GRÊMIO SE NAGA A GANHAR LONGE DE CASA.",
+      "videoId": "GiKNguK7GfA",
+      "url": "https://www.youtube.com/watch?v=GiKNguK7GfA",
+      "thumbnail": "https://i.ytimg.com/vi/GiKNguK7GfA/mqdefault.jpg",
+      "published": "2026-09-08T02:10:37Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨LUÍS CASTRO “PIROU” NA ENTREVISTA | INCOMPETÊNCIA E FALTA DE QUALIDADE | ARBITRAGEM | GRÊMIO PERDEU",
+      "videoId": "PZtC8yWqemg",
+      "url": "https://www.youtube.com/watch?v=PZtC8yWqemg",
+      "thumbnail": "https://i.ytimg.com/vi/PZtC8yWqemg/mqdefault.jpg",
+      "published": "2026-09-08T02:20:45Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,36 +51,28 @@
       "published": "2026-09-07T16:45:44Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TEMOS UM NOVO CAMISA 10! VAI DAR CONTA? | DESFALQUES CONFIRMADOS E OS RELACIONADOS PRO JOGO!",
-      "videoId": "T8DcwEcHMaQ",
-      "url": "https://www.youtube.com/watch?v=T8DcwEcHMaQ",
-      "thumbnail": "https://i.ytimg.com/vi/T8DcwEcHMaQ/mqdefault.jpg",
-      "published": "2026-09-07T01:41:20Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O Grêmio joga para cair. Até quando Luis Castro vai insistir no erro?",
-      "videoId": "cm3dppv96fU",
-      "url": "https://www.youtube.com/watch?v=cm3dppv96fU",
-      "thumbnail": "https://i.ytimg.com/vi/cm3dppv96fU/mqdefault.jpg",
-      "published": "2026-09-08T01:13:26Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "VITÓRIA 1 X 0 GRÊMIO: CASTRO JOGA PARA PERDER NO BARRADÃO",
       "videoId": "A8uffRSLX4w",
       "url": "https://www.youtube.com/watch?v=A8uffRSLX4w",
-      "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault_live.jpg",
-      "published": "2026-09-08T00:59:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/A8uffRSLX4w/mqdefault.jpg",
+      "published": "2026-09-08T03:00:17Z"
+    },
+    {
+      "channel": "Canal do CCD",
+      "title": "Vitória 1 x 0 Grêmio: Luis Castro insiste em erros e nossa briga é contra o rebaixamento",
+      "videoId": "9rk3O9ZNgsE",
+      "url": "https://www.youtube.com/watch?v=9rk3O9ZNgsE",
+      "thumbnail": "https://i.ytimg.com/vi/9rk3O9ZNgsE/mqdefault.jpg",
+      "published": "2026-09-08T02:20:00Z"
     },
     {
       "channel": "Canal do Farid",
       "title": "VITÓRIA X GRÊMIO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 07/09/2026",
       "videoId": "3UOLB_35Rw0",
       "url": "https://www.youtube.com/watch?v=3UOLB_35Rw0",
-      "thumbnail": "https://i.ytimg.com/vi/3UOLB_35Rw0/mqdefault_live.jpg",
-      "published": "2026-09-08T01:49:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/3UOLB_35Rw0/mqdefault.jpg",
+      "published": "2026-09-08T02:03:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -103,24 +103,24 @@
       "title": "VITÓRIA X GRÊMIO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
       "videoId": "oCGOSxqjB5g",
       "url": "https://www.youtube.com/watch?v=oCGOSxqjB5g",
-      "thumbnail": "https://i.ytimg.com/vi/oCGOSxqjB5g/mqdefault_live.jpg",
-      "published": "2026-09-08T01:58:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/oCGOSxqjB5g/mqdefault.jpg",
+      "published": "2026-09-08T02:19:07Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "O GRÊMIO VAI CAIR? É ELE OU NÓS? | LUIS CASTRO SE REPETE | VITÓRIA 1 X 0 GRÊMIO.",
-      "videoId": "JkuVpsqqIw0",
-      "url": "https://www.youtube.com/watch?v=JkuVpsqqIw0",
-      "thumbnail": "https://i.ytimg.com/vi/JkuVpsqqIw0/mqdefault.jpg",
-      "published": "2026-09-08T01:54:01Z"
+      "title": "OU CAI O GRÊMIO OU CAI O INTER #gremio #futebol #brasileirao",
+      "videoId": "zdhAojBykHk",
+      "url": "https://www.youtube.com/watch?v=zdhAojBykHk",
+      "thumbnail": "https://i.ytimg.com/vi/zdhAojBykHk/mqdefault.jpg",
+      "published": "2026-09-08T02:17:00Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE  VITÓRIA x GRÊMIO DIRETO DO BARRADÃO | BRASILEIRÃO | COLETIVAS | 07/09 #33",
       "videoId": "IQNb8akplJg",
       "url": "https://www.youtube.com/watch?v=IQNb8akplJg",
-      "thumbnail": "https://i.ytimg.com/vi/IQNb8akplJg/mqdefault_live.jpg",
-      "published": "2026-09-08T01:00:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/IQNb8akplJg/mqdefault.jpg",
+      "published": "2026-09-08T02:09:19Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,6 +180,14 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: GRÊMIO PERDE DE NOVO E COUDET DE VOLTA AO INTER?",
+      "videoId": "T-96qY48pes",
+      "url": "https://www.youtube.com/watch?v=T-96qY48pes",
+      "thumbnail": "https://i.ytimg.com/vi/T-96qY48pes/mqdefault_live.jpg",
+      "published": "2026-09-08T02:25:59Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "GRÊMIO PERDE PRO VITÓRIA: A volta a realidade + o que fica pra daqui em diante",
       "videoId": "HZNXfrG-oJk",
       "url": "https://www.youtube.com/watch?v=HZNXfrG-oJk",
@@ -187,12 +195,12 @@
       "published": "2026-09-08T01:54:46Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "GRÊMIO E O MÊS DECISIVO: O que os números e a tabela mostram na briga contra o Z4 e o futuro",
-      "videoId": "gj0KCLiXMeo",
-      "url": "https://www.youtube.com/watch?v=gj0KCLiXMeo",
-      "thumbnail": "https://i.ytimg.com/vi/gj0KCLiXMeo/mqdefault.jpg",
-      "published": "2026-09-07T15:08:30Z"
+      "channel": "LH Benfica",
+      "title": "GRÊMIO PERDE DE NOVO E O PIOR AINDA PODE ESTAR PIR VIR",
+      "videoId": "MEtCPpcNa2c",
+      "url": "https://www.youtube.com/watch?v=MEtCPpcNa2c",
+      "thumbnail": "https://i.ytimg.com/vi/MEtCPpcNa2c/mqdefault.jpg",
+      "published": "2026-09-08T02:20:16Z"
     },
     {
       "channel": "LH Benfica",
@@ -203,44 +211,36 @@
       "published": "2026-09-07T17:20:05Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨SURGE UMA GRANDE OPORTUNIDADE PARA O GRÊMIO | TRÊS ESCOLHAS DIFÍCEIS | PROBLEMÃO PARA LUÍS CASTRO",
-      "videoId": "7mCNH6zZHlc",
-      "url": "https://www.youtube.com/watch?v=7mCNH6zZHlc",
-      "thumbnail": "https://i.ytimg.com/vi/7mCNH6zZHlc/mqdefault.jpg",
-      "published": "2026-09-05T21:04:54Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "GOLS DE VITÓRIA 1 X 0 GRÊMIO | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | RÁDIO GRENAL | 07/09/2026",
-      "videoId": "uf4cDZsQ7u4",
-      "url": "https://www.youtube.com/watch?v=uf4cDZsQ7u4",
-      "thumbnail": "https://i.ytimg.com/vi/uf4cDZsQ7u4/mqdefault.jpg",
-      "published": "2026-09-08T01:17:06Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | VITÓRIA 1X0 GRÊMIO | RÁDIO GRENAL | 07/09/2026",
+      "title": "07/09/2026 | JOGO COMPLETO | VITÓRIA 1X0 GRÊMIO | RÁDIO GRENAL",
       "videoId": "ZbSTJ4iYsKk",
       "url": "https://www.youtube.com/watch?v=ZbSTJ4iYsKk",
-      "thumbnail": "https://i.ytimg.com/vi/ZbSTJ4iYsKk/mqdefault_live.jpg",
-      "published": "2026-09-07T18:02:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/ZbSTJ4iYsKk/mqdefault.jpg",
+      "published": "2026-09-08T02:43:56Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | VITÓRIA 1X0 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL",
+      "videoId": "oELcxTnGf48",
+      "url": "https://www.youtube.com/watch?v=oELcxTnGf48",
+      "thumbnail": "https://i.ytimg.com/vi/oELcxTnGf48/mqdefault.jpg",
+      "published": "2026-09-08T02:03:00Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO VITÓRIA (1) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO BARRADÃO",
-      "videoId": "Y7RkWYAaQvM",
-      "url": "https://www.youtube.com/watch?v=Y7RkWYAaQvM",
-      "thumbnail": "https://i.ytimg.com/vi/Y7RkWYAaQvM/mqdefault_live.jpg",
-      "published": "2026-09-07T19:01:38Z"
+      "title": "TIMELINE IMORTAL #150 — NADA DE NOVO PARA O GRÊMIO FORA DE CASA | LUTA CONTRA O REBAIXAMENTO",
+      "videoId": "c2VKr74pR-U",
+      "url": "https://www.youtube.com/watch?v=c2VKr74pR-U",
+      "thumbnail": "https://i.ytimg.com/vi/c2VKr74pR-U/mqdefault_live.jpg",
+      "published": "2026-09-08T03:19:58Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #149 — GRÊMIO VAI MODIFICADO CONTRA O VITÓRIA | SITUAÇÃO NA TABELA",
-      "videoId": "raSLO0OQmQ0",
-      "url": "https://www.youtube.com/watch?v=raSLO0OQmQ0",
-      "thumbnail": "https://i.ytimg.com/vi/raSLO0OQmQ0/mqdefault.jpg",
-      "published": "2026-09-07T15:32:01Z"
+      "title": "GRÊMIO PERDE E SEGUE NA LUTA CONTRA O REBAIXAMENTO | COMO É BOM SER DO GRÊMIO #37",
+      "videoId": "xKeWu9y7A8c",
+      "url": "https://www.youtube.com/watch?v=xKeWu9y7A8c",
+      "thumbnail": "https://i.ytimg.com/vi/xKeWu9y7A8c/mqdefault_live.jpg",
+      "published": "2026-09-08T03:13:27Z"
     }
   ]
 }
