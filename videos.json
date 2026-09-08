@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:16:28.522295+00:00",
+  "updated_at": "2026-09-08T14:00:43.939723+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X VASCO DA GAMA",
-      "videoId": "h05BcHnrQKw",
-      "url": "https://www.youtube.com/watch?v=h05BcHnrQKw",
-      "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault_live.jpg",
-      "published": "2026-09-08T12:47:42Z"
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #062",
+      "videoId": "OzjpyBp44wM",
+      "url": "https://www.youtube.com/watch?v=OzjpyBp44wM",
+      "thumbnail": "https://i.ytimg.com/vi/OzjpyBp44wM/mqdefault_live.jpg",
+      "published": "2026-09-08T13:39:49Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,7 @@
       "videoId": "Jpf2nubEydI",
       "url": "https://www.youtube.com/watch?v=Jpf2nubEydI",
       "thumbnail": "https://i.ytimg.com/vi/Jpf2nubEydI/mqdefault_live.jpg",
-      "published": "2026-09-08T12:01:19Z"
+      "published": "2026-09-08T13:34:55Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #8",
+      "videoId": "glO2f2cDLGY",
+      "url": "https://www.youtube.com/watch?v=glO2f2cDLGY",
+      "thumbnail": "https://i.ytimg.com/vi/glO2f2cDLGY/mqdefault_live.jpg",
+      "published": "2026-09-08T13:24:54Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #013",
       "videoId": "0jdT3ZOVkyM",
       "url": "https://www.youtube.com/watch?v=0jdT3ZOVkyM",
@@ -75,12 +83,12 @@
       "published": "2026-09-08T12:52:12Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #012",
-      "videoId": "aXbspbABw4I",
-      "url": "https://www.youtube.com/watch?v=aXbspbABw4I",
-      "thumbnail": "https://i.ytimg.com/vi/aXbspbABw4I/mqdefault_live.jpg",
-      "published": "2026-09-08T12:38:04Z"
+      "channel": "Canal do Gabardo",
+      "title": "Explicação de Luís Castro | 10% de aproveitamento fora | Novo ataque para a decisão contra o Vasco",
+      "videoId": "9V95ezVmSlw",
+      "url": "https://www.youtube.com/watch?v=9V95ezVmSlw",
+      "thumbnail": "https://i.ytimg.com/vi/9V95ezVmSlw/mqdefault.jpg",
+      "published": "2026-09-08T13:35:46Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=nVqmsJ1Om8w",
       "thumbnail": "https://i.ytimg.com/vi/nVqmsJ1Om8w/mqdefault.jpg",
       "published": "2026-09-07T15:05:09Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Fato novo | Pezzolano fica no Inter | Protesto e confusão",
-      "videoId": "ZXxb2KY-Hxo",
-      "url": "https://www.youtube.com/watch?v=ZXxb2KY-Hxo",
-      "thumbnail": "https://i.ytimg.com/vi/ZXxb2KY-Hxo/mqdefault.jpg",
-      "published": "2026-09-07T14:17:08Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -168,15 +168,15 @@
       "videoId": "0Ualsh8aVfw",
       "url": "https://www.youtube.com/watch?v=0Ualsh8aVfw",
       "thumbnail": "https://i.ytimg.com/vi/0Ualsh8aVfw/mqdefault_live.jpg",
-      "published": "2026-09-08T13:05:24Z"
+      "published": "2026-09-08T13:54:30Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Ministro Mendonça afasta chefe da PF, fila do INSS, economia e mais | Gaúcha Atualidade | 08/09/2026",
       "videoId": "8vDgeU8zotE",
       "url": "https://www.youtube.com/watch?v=8vDgeU8zotE",
-      "thumbnail": "https://i.ytimg.com/vi/8vDgeU8zotE/mqdefault_live.jpg",
-      "published": "2026-09-08T13:03:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/8vDgeU8zotE/mqdefault.jpg",
+      "published": "2026-09-08T13:26:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 08/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 08/09/2026",
       "videoId": "GjOCrBZBvfU",
       "url": "https://www.youtube.com/watch?v=GjOCrBZBvfU",
       "thumbnail": "https://i.ytimg.com/vi/GjOCrBZBvfU/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #17 — GRÊMIO SOFRE NOVA DERROTA FORA DE CASA | LUÍS CASTRO GOSTOU?",
-      "videoId": "NwYd01FLJFc",
-      "url": "https://www.youtube.com/watch?v=NwYd01FLJFc",
-      "thumbnail": "https://i.ytimg.com/vi/NwYd01FLJFc/mqdefault.jpg",
-      "published": "2026-09-08T12:51:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO PERDE E SEGUE NA LUTA CONTRA O REBAIXAMENTO | COMO É BOM SER DO GRÊMIO #37",
       "videoId": "xKeWu9y7A8c",
       "url": "https://www.youtube.com/watch?v=xKeWu9y7A8c",
       "thumbnail": "https://i.ytimg.com/vi/xKeWu9y7A8c/mqdefault_live.jpg",
-      "published": "2026-09-08T12:33:13Z"
+      "published": "2026-09-08T13:59:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #150 — NADA DE NOVO PARA O GRÊMIO FORA DE CASA | LUTA CONTRA O REBAIXAMENTO",
+      "videoId": "c2VKr74pR-U",
+      "url": "https://www.youtube.com/watch?v=c2VKr74pR-U",
+      "thumbnail": "https://i.ytimg.com/vi/c2VKr74pR-U/mqdefault_live.jpg",
+      "published": "2026-09-08T13:59:51Z"
     }
   ]
 }
