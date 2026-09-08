@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:00:43.939723+00:00",
+  "updated_at": "2026-09-08T15:00:49.964426+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,24 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #062",
       "videoId": "OzjpyBp44wM",
       "url": "https://www.youtube.com/watch?v=OzjpyBp44wM",
-      "thumbnail": "https://i.ytimg.com/vi/OzjpyBp44wM/mqdefault_live.jpg",
-      "published": "2026-09-08T13:39:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/OzjpyBp44wM/mqdefault.jpg",
+      "published": "2026-09-08T14:59:36Z"
     },
     {
       "channel": "Bage TV",
-      "title": "CASTRO PERDE MAIS UMA FORA DE CASA🔵 FUTEBOL ALEGRIA DO GRÊMIO - 08/09 - #629",
-      "videoId": "Jpf2nubEydI",
-      "url": "https://www.youtube.com/watch?v=Jpf2nubEydI",
-      "thumbnail": "https://i.ytimg.com/vi/Jpf2nubEydI/mqdefault_live.jpg",
-      "published": "2026-09-08T13:34:55Z"
+      "title": "ELE ACHA QUE SÓ ELE ENTENDE DE FUTEBOL! #CORTESDOFAG",
+      "videoId": "zqMwuXbGQdU",
+      "url": "https://www.youtube.com/watch?v=zqMwuXbGQdU",
+      "thumbnail": "https://i.ytimg.com/vi/zqMwuXbGQdU/mqdefault.jpg",
+      "published": "2026-09-08T14:39:40Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨BOMBA! PROPOSTA PRA CEBOLINHA E RESPOSTA DO JOGADOR! ELE QUER VIR | A SITUAÇÃO DO GRÊMIO NO BR!",
+      "videoId": "dYPJ2N1OROY",
+      "url": "https://www.youtube.com/watch?v=dYPJ2N1OROY",
+      "thumbnail": "https://i.ytimg.com/vi/dYPJ2N1OROY/mqdefault.jpg",
+      "published": "2026-09-08T14:29:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-09-08T02:20:45Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DEFINIÇÃO SOBRE GRANDE SAÍDA | O TIME DO GRÊMIO PRO JOGO CONTRA O VITÓRIA | A CRISE DO INTER..",
-      "videoId": "666ZIf8XtkU",
-      "url": "https://www.youtube.com/watch?v=666ZIf8XtkU",
-      "thumbnail": "https://i.ytimg.com/vi/666ZIf8XtkU/mqdefault.jpg",
-      "published": "2026-09-07T16:45:44Z"
+      "channel": "Canal do CCD",
+      "title": "Everton Cebolinha | Caíque e presidente do Vitória | Tetê | Decisões do Grêmio",
+      "videoId": "_JRl5kRTrJk",
+      "url": "https://www.youtube.com/watch?v=_JRl5kRTrJk",
+      "thumbnail": "https://i.ytimg.com/vi/_JRl5kRTrJk/mqdefault.jpg",
+      "published": "2026-09-08T14:40:39Z"
     },
     {
       "channel": "Canal do CCD",
@@ -59,12 +67,12 @@
       "published": "2026-09-08T03:00:17Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Vitória 1 x 0 Grêmio: Luis Castro insiste em erros e nossa briga é contra o rebaixamento",
-      "videoId": "9rk3O9ZNgsE",
-      "url": "https://www.youtube.com/watch?v=9rk3O9ZNgsE",
-      "thumbnail": "https://i.ytimg.com/vi/9rk3O9ZNgsE/mqdefault.jpg",
-      "published": "2026-09-08T02:20:00Z"
+      "channel": "Canal do Farid",
+      "title": "INACREDITÁVEL! 3 PERGUNTAS SINCERAS PARA O LUÍS CASTRO…",
+      "videoId": "QACBP6xkhKw",
+      "url": "https://www.youtube.com/watch?v=QACBP6xkhKw",
+      "thumbnail": "https://i.ytimg.com/vi/QACBP6xkhKw/mqdefault.jpg",
+      "published": "2026-09-08T14:03:46Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=glO2f2cDLGY",
       "thumbnail": "https://i.ytimg.com/vi/glO2f2cDLGY/mqdefault_live.jpg",
       "published": "2026-09-08T13:24:54Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #013",
-      "videoId": "0jdT3ZOVkyM",
-      "url": "https://www.youtube.com/watch?v=0jdT3ZOVkyM",
-      "thumbnail": "https://i.ytimg.com/vi/0jdT3ZOVkyM/mqdefault_live.jpg",
-      "published": "2026-09-08T12:52:12Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X REAL S.C. I MASC I SUB-20 (COPA DO BRASIL 2026)",
+      "videoId": "q4LdeoUvnzY",
+      "url": "https://www.youtube.com/watch?v=q4LdeoUvnzY",
+      "thumbnail": "https://i.ytimg.com/vi/q4LdeoUvnzY/mqdefault_live.jpg",
+      "published": "2026-09-08T14:23:00Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I VITÓRIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "JQhYEQLnTbY",
       "url": "https://www.youtube.com/watch?v=JQhYEQLnTbY",
@@ -155,28 +163,20 @@
       "published": "2026-09-08T01:44:11Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | VITÓRIA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "69hJL4KRkqs",
-      "url": "https://www.youtube.com/watch?v=69hJL4KRkqs",
-      "thumbnail": "https://i.ytimg.com/vi/69hJL4KRkqs/mqdefault.jpg",
-      "published": "2026-09-08T01:38:09Z"
+      "channel": "GZH Digital",
+      "title": "Suplementação alimentar: quem precisa de whey protein e creatina? | Tá Tudo Bem?",
+      "videoId": "x9Kx41zVxL0",
+      "url": "https://www.youtube.com/watch?v=x9Kx41zVxL0",
+      "thumbnail": "https://i.ytimg.com/vi/x9Kx41zVxL0/mqdefault.jpg",
+      "published": "2026-09-08T14:55:06Z"
     },
     {
       "channel": "GZH Digital",
       "title": "André Mendonça afasta chefe da PF, últimas da política e mais | Timeline | 08/09/2026",
       "videoId": "0Ualsh8aVfw",
       "url": "https://www.youtube.com/watch?v=0Ualsh8aVfw",
-      "thumbnail": "https://i.ytimg.com/vi/0Ualsh8aVfw/mqdefault_live.jpg",
-      "published": "2026-09-08T13:54:30Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Ministro Mendonça afasta chefe da PF, fila do INSS, economia e mais | Gaúcha Atualidade | 08/09/2026",
-      "videoId": "8vDgeU8zotE",
-      "url": "https://www.youtube.com/watch?v=8vDgeU8zotE",
-      "thumbnail": "https://i.ytimg.com/vi/8vDgeU8zotE/mqdefault.jpg",
-      "published": "2026-09-08T13:26:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/0Ualsh8aVfw/mqdefault.jpg",
+      "published": "2026-09-08T14:31:59Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #150 — NADA DE NOVO PARA O GRÊMIO FORA DE CASA | LUTA CONTRA O REBAIXAMENTO",
+      "videoId": "c2VKr74pR-U",
+      "url": "https://www.youtube.com/watch?v=c2VKr74pR-U",
+      "thumbnail": "https://i.ytimg.com/vi/c2VKr74pR-U/mqdefault_live.jpg",
+      "published": "2026-09-08T15:00:28Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO PERDE E SEGUE NA LUTA CONTRA O REBAIXAMENTO | COMO É BOM SER DO GRÊMIO #37",
       "videoId": "xKeWu9y7A8c",
       "url": "https://www.youtube.com/watch?v=xKeWu9y7A8c",
       "thumbnail": "https://i.ytimg.com/vi/xKeWu9y7A8c/mqdefault_live.jpg",
       "published": "2026-09-08T13:59:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #150 — NADA DE NOVO PARA O GRÊMIO FORA DE CASA | LUTA CONTRA O REBAIXAMENTO",
-      "videoId": "c2VKr74pR-U",
-      "url": "https://www.youtube.com/watch?v=c2VKr74pR-U",
-      "thumbnail": "https://i.ytimg.com/vi/c2VKr74pR-U/mqdefault_live.jpg",
-      "published": "2026-09-08T13:59:51Z"
     }
   ]
 }
