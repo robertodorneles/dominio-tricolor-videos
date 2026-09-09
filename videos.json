@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-09T17:00:50.624548+00:00",
+  "updated_at": "2026-09-09T17:30:26.257651+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 CONVERSA DAS ORGANIZADAS COM PLANTEL E PEZZOLANO | VEJA OUTRO PROTESTO | O QUE FOI DITO",
+      "videoId": "EnK0XNTxpn8",
+      "url": "https://www.youtube.com/watch?v=EnK0XNTxpn8",
+      "thumbnail": "https://i.ytimg.com/vi/EnK0XNTxpn8/mqdefault.jpg",
+      "published": "2026-09-09T17:28:40Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CEBOLINHA QUERIA VOLTAR, mas CLUBE DESISTIU | R$30 MILHÕES por Gustavo Martins",
@@ -11,20 +19,12 @@
       "published": "2026-09-09T06:00:19Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 REUNIÃO TEVE BASTIDORES INACREDITAVEIS | CLEMER? | CARPINI? | ELE FICA!",
-      "videoId": "djABs4UkO3Y",
-      "url": "https://www.youtube.com/watch?v=djABs4UkO3Y",
-      "thumbnail": "https://i.ytimg.com/vi/djABs4UkO3Y/mqdefault.jpg",
-      "published": "2026-09-09T04:46:29Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "GUSTAVO MARTINS NA MIRA DOS EMIRADOS! #CORTESDOFAG",
-      "videoId": "eBBPrOIIrvI",
-      "url": "https://www.youtube.com/watch?v=eBBPrOIIrvI",
-      "thumbnail": "https://i.ytimg.com/vi/eBBPrOIIrvI/mqdefault.jpg",
-      "published": "2026-09-09T16:40:10Z"
+      "title": "PESSOA PRÓXIMA DE LUÍS CASTRO LIGOU PRO DIOGO ROSSI! #CORTESDOFAG",
+      "videoId": "VgmPXb1aIQI",
+      "url": "https://www.youtube.com/watch?v=VgmPXb1aIQI",
+      "thumbnail": "https://i.ytimg.com/vi/VgmPXb1aIQI/mqdefault.jpg",
+      "published": "2026-09-09T17:03:24Z"
     },
     {
       "channel": "Bage TV",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨REVIRAVOLTA E GRANDE REFORÇO PRO ATAQUE EM 2027? | TITULAR PODE SAIR DO GRÊMIO | NOVIDADE NO TIME!",
+      "title": "🚨ATENÇÃO! GRANDE REFORÇO AINDA PODE CHEGAR NO GRÊMIO | TITULAR PODE SAIR | NOVIDADE NO TIME",
       "videoId": "RZ1qbdkgUMY",
       "url": "https://www.youtube.com/watch?v=RZ1qbdkgUMY",
       "thumbnail": "https://i.ytimg.com/vi/RZ1qbdkgUMY/mqdefault.jpg",
@@ -72,7 +72,7 @@
       "videoId": "ti1pw4E-bec",
       "url": "https://www.youtube.com/watch?v=ti1pw4E-bec",
       "thumbnail": "https://i.ytimg.com/vi/ti1pw4E-bec/mqdefault_live.jpg",
-      "published": "2026-09-09T16:03:17Z"
+      "published": "2026-09-09T17:07:39Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Flávio Dino reverte decisão de Mendonça, notícias do RS, trânsito e mais | Gaúcha+ | 09/09/2026",
+      "title": "Augusto Cury sobe drones e sobe nas pesquisas  | Palanque Digital",
+      "videoId": "BxSmdzl2GPE",
+      "url": "https://www.youtube.com/watch?v=BxSmdzl2GPE",
+      "thumbnail": "https://i.ytimg.com/vi/BxSmdzl2GPE/mqdefault.jpg",
+      "published": "2026-09-09T17:05:17Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Flávio Dino reverte decisão de Mendonça, Seleção Brasileira, trânsito e mais | Gaúcha+ | 09/09/2026",
       "videoId": "CaaWKTFSuWQ",
       "url": "https://www.youtube.com/watch?v=CaaWKTFSuWQ",
       "thumbnail": "https://i.ytimg.com/vi/CaaWKTFSuWQ/mqdefault_live.jpg",
       "published": "2026-09-09T15:16:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Dino reintegra Andrei Rodrigues na direção da PF, crise no STF e mais | Timeline | 09/09/2026",
-      "videoId": "E8yJEThWtqU",
-      "url": "https://www.youtube.com/watch?v=E8yJEThWtqU",
-      "thumbnail": "https://i.ytimg.com/vi/E8yJEThWtqU/mqdefault.jpg",
-      "published": "2026-09-09T13:58:19Z"
     },
     {
       "channel": "Jeremias Wernek",
