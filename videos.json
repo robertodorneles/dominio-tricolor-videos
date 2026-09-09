@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:00:51.775648+00:00",
+  "updated_at": "2026-09-09T15:00:55.936796+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "ivKxAFIkJGQ",
       "url": "https://www.youtube.com/watch?v=ivKxAFIkJGQ",
       "thumbnail": "https://i.ytimg.com/vi/ivKxAFIkJGQ/mqdefault_live.jpg",
-      "published": "2026-09-09T13:45:19Z"
+      "published": "2026-09-09T14:53:27Z"
     },
     {
       "channel": "Bage TV",
-      "title": "DAVA PRA TER TRAZIDO CEBOLINHA? 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 09/09 - #630",
-      "videoId": "pjI-Q4-ZOk4",
-      "url": "https://www.youtube.com/watch?v=pjI-Q4-ZOk4",
-      "thumbnail": "https://i.ytimg.com/vi/pjI-Q4-ZOk4/mqdefault_live.jpg",
-      "published": "2026-09-09T13:38:40Z"
+      "title": "Ele era o melhor driblador.",
+      "videoId": "59xYPYS-eBU",
+      "url": "https://www.youtube.com/watch?v=59xYPYS-eBU",
+      "thumbnail": "https://i.ytimg.com/vi/59xYPYS-eBU/mqdefault.jpg",
+      "published": "2026-09-09T14:31:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CEBOLINHA E A CONVICÇÃO COM O GRÊMIO. #gremio #futebol #santos #noticias",
+      "videoId": "HVRTOFlZFWg",
+      "url": "https://www.youtube.com/watch?v=HVRTOFlZFWg",
+      "thumbnail": "https://i.ytimg.com/vi/HVRTOFlZFWg/mqdefault.jpg",
+      "published": "2026-09-09T14:09:38Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "O OUTRO LADO DA HISTÓRIA! VITÓRIA RECLAMA DO GRÊMIO, MAS NÃO É BEM ASSIM! #futebol #wagnerleonardo",
       "videoId": "ACwte5TJMek",
       "url": "https://www.youtube.com/watch?v=ACwte5TJMek",
       "thumbnail": "https://i.ytimg.com/vi/ACwte5TJMek/mqdefault.jpg",
       "published": "2026-09-09T11:00:14Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "TUDO QUE CEBOLINHA PEDIU PARA O GRÊMIO | VITÓRIA JÁ RECEBEU SOBRE WAGNER LEONARDO?",
-      "videoId": "j09idTXTer4",
-      "url": "https://www.youtube.com/watch?v=j09idTXTer4",
-      "thumbnail": "https://i.ytimg.com/vi/j09idTXTer4/mqdefault.jpg",
-      "published": "2026-09-08T18:51:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
-      "videoId": "Vrb0mFSMb38",
-      "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
-      "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault.jpg",
-      "published": "2026-09-09T13:58:03Z"
+      "title": "TIMELINE IMORTAL #151 — GRÊMIO DE VOLTA AOS TREINOS AGORA | ZAGUEIRO RECEBE SONDAGENS",
+      "videoId": "N7M0M2WGHy4",
+      "url": "https://www.youtube.com/watch?v=N7M0M2WGHy4",
+      "thumbnail": "https://i.ytimg.com/vi/N7M0M2WGHy4/mqdefault_live.jpg",
+      "published": "2026-09-09T14:17:58Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "8YvzqjT3Qjs",
       "url": "https://www.youtube.com/watch?v=8YvzqjT3Qjs",
       "thumbnail": "https://i.ytimg.com/vi/8YvzqjT3Qjs/mqdefault_live.jpg",
-      "published": "2026-09-09T12:32:43Z"
+      "published": "2026-09-09T14:17:52Z"
     }
   ]
 }
