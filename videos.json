@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:09:17.238089+00:00",
+  "updated_at": "2026-09-09T00:00:41.497075+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ENCAMINHADO COM O SANTOS, CEBOLINHA RECUSA PROPOSTA DO GRÊMIO 🟣RESENHA FORA DA SALA NOITE🟣#019",
+      "videoId": "E61eHEawWCw",
+      "url": "https://www.youtube.com/watch?v=E61eHEawWCw",
+      "thumbnail": "https://i.ytimg.com/vi/E61eHEawWCw/mqdefault_live.jpg",
+      "published": "2026-09-08T23:21:01Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO DIZ NÃO A CEBOLINHA! PROTESTOS NO BEIRA-RIO. COUTINHO NO SANTOS📰BAGÉTV NEWS #031",
       "videoId": "jf3D1BdpSP0",
       "url": "https://www.youtube.com/watch?v=jf3D1BdpSP0",
@@ -27,12 +35,12 @@
       "published": "2026-09-08T22:23:01Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VACILA E SANTOS ENCAMINHA CONTRATAÇÃO DE CEBOLINHA🔹 THE TARDE 🔹#216",
-      "videoId": "RKiNZK5npn8",
-      "url": "https://www.youtube.com/watch?v=RKiNZK5npn8",
-      "thumbnail": "https://i.ytimg.com/vi/RKiNZK5npn8/mqdefault.jpg",
-      "published": "2026-09-08T19:59:07Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO CONTRATA JOVEM | TRETA PESADA COM JOGADOR E DIRIGENTE | EVERTON CEBOLINHA | PREJUÍZOS",
+      "videoId": "X_0eJILonng",
+      "url": "https://www.youtube.com/watch?v=X_0eJILonng",
+      "thumbnail": "https://i.ytimg.com/vi/X_0eJILonng/mqdefault.jpg",
+      "published": "2026-09-08T23:37:19Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,12 +51,12 @@
       "published": "2026-09-08T14:29:07Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨LUÍS CASTRO “PIROU” NA ENTREVISTA | INCOMPETÊNCIA E FALTA DE QUALIDADE | ARBITRAGEM | GRÊMIO PERDEU",
-      "videoId": "PZtC8yWqemg",
-      "url": "https://www.youtube.com/watch?v=PZtC8yWqemg",
-      "thumbnail": "https://i.ytimg.com/vi/PZtC8yWqemg/mqdefault.jpg",
-      "published": "2026-09-08T02:20:45Z"
+      "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #672: Cebolinha | Goleada na base | Risco de rebaixamento | Contratação e mais",
+      "videoId": "PyXCyqykcvs",
+      "url": "https://www.youtube.com/watch?v=PyXCyqykcvs",
+      "thumbnail": "https://i.ytimg.com/vi/PyXCyqykcvs/mqdefault.jpg",
+      "published": "2026-09-08T23:35:31Z"
     },
     {
       "channel": "Canal do CCD",
@@ -59,20 +67,12 @@
       "published": "2026-09-08T16:17:38Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: GRÊMIO X VASCO",
-      "videoId": "QArf5jV7rBw",
-      "url": "https://www.youtube.com/watch?v=QArf5jV7rBw",
-      "thumbnail": "https://i.ytimg.com/vi/QArf5jV7rBw/mqdefault_live.jpg",
-      "published": "2026-09-08T16:12:22Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 08/09/2026",
       "videoId": "gNRCLUKWFFw",
       "url": "https://www.youtube.com/watch?v=gNRCLUKWFFw",
       "thumbnail": "https://i.ytimg.com/vi/gNRCLUKWFFw/mqdefault_live.jpg",
-      "published": "2026-09-08T22:00:07Z"
+      "published": "2026-09-08T23:12:08Z"
     },
     {
       "channel": "Canal do Farid",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 08/09/2026",
+      "videoId": "GjOCrBZBvfU",
+      "url": "https://www.youtube.com/watch?v=GjOCrBZBvfU",
+      "thumbnail": "https://i.ytimg.com/vi/GjOCrBZBvfU/mqdefault.jpg",
+      "published": "2026-09-08T23:42:12Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 08/09/2026",
       "videoId": "B0vTrojQDZ0",
       "url": "https://www.youtube.com/watch?v=B0vTrojQDZ0",
       "thumbnail": "https://i.ytimg.com/vi/B0vTrojQDZ0/mqdefault_live.jpg",
       "published": "2026-09-08T23:02:30Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 08/09/2026",
-      "videoId": "GjOCrBZBvfU",
-      "url": "https://www.youtube.com/watch?v=GjOCrBZBvfU",
-      "thumbnail": "https://i.ytimg.com/vi/GjOCrBZBvfU/mqdefault_live.jpg",
-      "published": "2026-09-08T23:02:01Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
+      "videoId": "Vrb0mFSMb38",
+      "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
+      "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault_live.jpg",
+      "published": "2026-09-09T00:00:09Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=3x5a4D6lEZE",
       "thumbnail": "https://i.ytimg.com/vi/3x5a4D6lEZE/mqdefault.jpg",
       "published": "2026-09-08T22:25:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
-      "videoId": "Vrb0mFSMb38",
-      "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
-      "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault_live.jpg",
-      "published": "2026-09-08T20:44:04Z"
     }
   ]
 }
