@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-09T00:00:41.497075+00:00",
+  "updated_at": "2026-09-09T01:00:48.045849+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  DIA DE CONFUSÕES E CAOS | HORA DE SIMULARMOS AS SITUAÇÕES DE INTER E GRÊMIO",
+      "videoId": "UBAMgU9MUFI",
+      "url": "https://www.youtube.com/watch?v=UBAMgU9MUFI",
+      "thumbnail": "https://i.ytimg.com/vi/UBAMgU9MUFI/mqdefault_live.jpg",
+      "published": "2026-09-09T00:06:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 VEJA AS CENAS DO PROTESTO! | JOGADORES FICARAM PRESOS! | TENSÃO EXPLODIU!",
@@ -11,32 +19,24 @@
       "published": "2026-09-08T17:14:51Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: TENTOU ATRAVESSAR E FOI ATRAVESSADO? MAIS UM REFORÇO PERDIDO PARA O SANTOS | EVERTON!",
-      "videoId": "k71Ct8kykZA",
-      "url": "https://www.youtube.com/watch?v=k71Ct8kykZA",
-      "thumbnail": "https://i.ytimg.com/vi/k71Ct8kykZA/mqdefault.jpg",
-      "published": "2026-09-08T17:07:54Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "ENCAMINHADO COM O SANTOS, CEBOLINHA RECUSA PROPOSTA DO GRÊMIO 🟣RESENHA FORA DA SALA NOITE🟣#019",
       "videoId": "E61eHEawWCw",
       "url": "https://www.youtube.com/watch?v=E61eHEawWCw",
-      "thumbnail": "https://i.ytimg.com/vi/E61eHEawWCw/mqdefault_live.jpg",
-      "published": "2026-09-08T23:21:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/E61eHEawWCw/mqdefault.jpg",
+      "published": "2026-09-09T00:49:15Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO DIZ NÃO A CEBOLINHA! PROTESTOS NO BEIRA-RIO. COUTINHO NO SANTOS📰BAGÉTV NEWS #031",
-      "videoId": "jf3D1BdpSP0",
-      "url": "https://www.youtube.com/watch?v=jf3D1BdpSP0",
-      "thumbnail": "https://i.ytimg.com/vi/jf3D1BdpSP0/mqdefault.jpg",
-      "published": "2026-09-08T22:23:01Z"
+      "title": "GRÊMIO ERROU EM NÃO FECHAR COM CEBOLINHA?🔵 BOA NOITE GRÊMIO #019",
+      "videoId": "ntZSW16Y400",
+      "url": "https://www.youtube.com/watch?v=ntZSW16Y400",
+      "thumbnail": "https://i.ytimg.com/vi/ntZSW16Y400/mqdefault_live.jpg",
+      "published": "2026-09-09T00:39:19Z"
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO CONTRATA JOVEM | TRETA PESADA COM JOGADOR E DIRIGENTE | EVERTON CEBOLINHA | PREJUÍZOS",
+      "title": "🚨TRETA FORTE: JOGADOR E DIRIGENTE | CONTRATAÇÃO FECHADA | GRÊMIO NÃO QUIS CEBOLINHA | OS PREJUÍZOS",
       "videoId": "X_0eJILonng",
       "url": "https://www.youtube.com/watch?v=X_0eJILonng",
       "thumbnail": "https://i.ytimg.com/vi/X_0eJILonng/mqdefault.jpg",
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #012",
+      "videoId": "aXbspbABw4I",
+      "url": "https://www.youtube.com/watch?v=aXbspbABw4I",
+      "thumbnail": "https://i.ytimg.com/vi/aXbspbABw4I/mqdefault.jpg",
+      "published": "2026-09-09T00:47:38Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 08/09/2026",
       "videoId": "gNRCLUKWFFw",
       "url": "https://www.youtube.com/watch?v=gNRCLUKWFFw",
@@ -75,12 +83,12 @@
       "published": "2026-09-08T23:12:08Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #8",
-      "videoId": "glO2f2cDLGY",
-      "url": "https://www.youtube.com/watch?v=glO2f2cDLGY",
-      "thumbnail": "https://i.ytimg.com/vi/glO2f2cDLGY/mqdefault_live.jpg",
-      "published": "2026-09-08T17:12:27Z"
+      "channel": "Canal do Gabardo",
+      "title": "Conheça João Scatolin: o novo reforço do Grêmio",
+      "videoId": "xO8NBdqNZ6E",
+      "url": "https://www.youtube.com/watch?v=xO8NBdqNZ6E",
+      "thumbnail": "https://i.ytimg.com/vi/xO8NBdqNZ6E/mqdefault.jpg",
+      "published": "2026-09-09T00:03:18Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=wWrY5pN-KeE",
       "thumbnail": "https://i.ytimg.com/vi/wWrY5pN-KeE/mqdefault.jpg",
       "published": "2026-09-08T21:27:05Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "O pedido de Cebolinha para jogar no Grêmio",
-      "videoId": "_wCB_mXSJvg",
-      "url": "https://www.youtube.com/watch?v=_wCB_mXSJvg",
-      "thumbnail": "https://i.ytimg.com/vi/_wCB_mXSJvg/mqdefault.jpg",
-      "published": "2026-09-08T17:34:37Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospicio - 09/09",
+      "videoId": "m77UPWytrvA",
+      "url": "https://www.youtube.com/watch?v=m77UPWytrvA",
+      "thumbnail": "https://i.ytimg.com/vi/m77UPWytrvA/mqdefault_live.jpg",
+      "published": "2026-09-09T00:13:01Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DETALHES DO MOMENTO MAIS MARCANTE DAS COBERTURAS OLÍMPICAS DE TINO MARCOS | Cortes do Duda",
       "videoId": "F0sWoHbGUZA",
       "url": "https://www.youtube.com/watch?v=F0sWoHbGUZA",
       "thumbnail": "https://i.ytimg.com/vi/F0sWoHbGUZA/mqdefault.jpg",
       "published": "2026-09-08T22:00:36Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "FUI PARAR NA AMBULÂNCIA COM O GALVÃO  #dudagarbi #umassadopara",
-      "videoId": "kKeGgliHvG8",
-      "url": "https://www.youtube.com/watch?v=kKeGgliHvG8",
-      "thumbnail": "https://i.ytimg.com/vi/kKeGgliHvG8/mqdefault.jpg",
-      "published": "2026-09-08T22:00:14Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #151 — GRÊMIO DE VOLTA AOS TREINOS AGORA | ZAGUEIRO RECEBE SONDAGENS",
+      "videoId": "N7M0M2WGHy4",
+      "url": "https://www.youtube.com/watch?v=N7M0M2WGHy4",
+      "thumbnail": "https://i.ytimg.com/vi/N7M0M2WGHy4/mqdefault_live.jpg",
+      "published": "2026-09-09T00:26:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
       "videoId": "Vrb0mFSMb38",
       "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
       "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault_live.jpg",
       "published": "2026-09-09T00:00:09Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SEGUE PERDENDO E JOGANDO MAL FORA DE CASA | CEBOLINHA NÃO VEM | IMORTAL FC",
-      "videoId": "3x5a4D6lEZE",
-      "url": "https://www.youtube.com/watch?v=3x5a4D6lEZE",
-      "thumbnail": "https://i.ytimg.com/vi/3x5a4D6lEZE/mqdefault.jpg",
-      "published": "2026-09-08T22:25:48Z"
     }
   ]
 }
