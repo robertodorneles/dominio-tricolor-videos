@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:00:39.903199+00:00",
+  "updated_at": "2026-09-09T10:00:42.310009+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO PERDE CEBOLINHA PARA O SANTOS 🌅🔵 BOM DIA GRÊMIO #120",
+      "videoId": "vs9nheik1yo",
+      "url": "https://www.youtube.com/watch?v=vs9nheik1yo",
+      "thumbnail": "https://i.ytimg.com/vi/vs9nheik1yo/mqdefault_live.jpg",
+      "published": "2026-09-09T09:28:36Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ERROU EM NÃO FECHAR COM CEBOLINHA?🔵 BOA NOITE GRÊMIO #019",
       "videoId": "ntZSW16Y400",
       "url": "https://www.youtube.com/watch?v=ntZSW16Y400",
       "thumbnail": "https://i.ytimg.com/vi/ntZSW16Y400/mqdefault.jpg",
       "published": "2026-09-09T02:34:37Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ENCAMINHADO COM O SANTOS, CEBOLINHA RECUSA PROPOSTA DO GRÊMIO 🟣RESENHA FORA DA SALA NOITE🟣#019",
-      "videoId": "E61eHEawWCw",
-      "url": "https://www.youtube.com/watch?v=E61eHEawWCw",
-      "thumbnail": "https://i.ytimg.com/vi/E61eHEawWCw/mqdefault.jpg",
-      "published": "2026-09-09T00:49:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #18 — ZAGUEIRO DO GRÊMIO DE SAÍDA?",
+      "videoId": "AQtM9rhCdq4",
+      "url": "https://www.youtube.com/watch?v=AQtM9rhCdq4",
+      "thumbnail": "https://i.ytimg.com/vi/AQtM9rhCdq4/mqdefault_live.jpg",
+      "published": "2026-09-09T09:36:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO NÃO SABE O QUE É VENCER FORA DE CASA | NOVIDADE NA BASE | NOITES DE GRÊMIO #141",
       "videoId": "Vrb0mFSMb38",
       "url": "https://www.youtube.com/watch?v=Vrb0mFSMb38",
       "thumbnail": "https://i.ytimg.com/vi/Vrb0mFSMb38/mqdefault_live.jpg",
       "published": "2026-09-09T01:33:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #151 — GRÊMIO DE VOLTA AOS TREINOS AGORA | ZAGUEIRO RECEBE SONDAGENS",
-      "videoId": "N7M0M2WGHy4",
-      "url": "https://www.youtube.com/watch?v=N7M0M2WGHy4",
-      "thumbnail": "https://i.ytimg.com/vi/N7M0M2WGHy4/mqdefault_live.jpg",
-      "published": "2026-09-09T00:26:30Z"
     }
   ]
 }
