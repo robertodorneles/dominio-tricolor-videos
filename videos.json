@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:00:55.936796+00:00",
+  "updated_at": "2026-09-09T16:00:45.518976+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #063",
       "videoId": "ivKxAFIkJGQ",
       "url": "https://www.youtube.com/watch?v=ivKxAFIkJGQ",
-      "thumbnail": "https://i.ytimg.com/vi/ivKxAFIkJGQ/mqdefault_live.jpg",
-      "published": "2026-09-09T14:53:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/ivKxAFIkJGQ/mqdefault.jpg",
+      "published": "2026-09-09T15:21:44Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Flávio Dino reverte decisão de Mendonça, notícias do RS, trânsito e mais | Gaúcha+ | 09/09/2026",
+      "videoId": "CaaWKTFSuWQ",
+      "url": "https://www.youtube.com/watch?v=CaaWKTFSuWQ",
+      "thumbnail": "https://i.ytimg.com/vi/CaaWKTFSuWQ/mqdefault_live.jpg",
+      "published": "2026-09-09T15:16:21Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Dino reintegra Andrei Rodrigues na direção da PF, crise no STF e mais | Timeline | 09/09/2026",
       "videoId": "E8yJEThWtqU",
       "url": "https://www.youtube.com/watch?v=E8yJEThWtqU",
       "thumbnail": "https://i.ytimg.com/vi/E8yJEThWtqU/mqdefault.jpg",
       "published": "2026-09-09T13:58:19Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "EMOCIONANTE: a história da filha que criou uma empresa para ajudar a mãe com depressão | Paralelas",
-      "videoId": "jF1QMG6cjgM",
-      "url": "https://www.youtube.com/watch?v=jF1QMG6cjgM",
-      "thumbnail": "https://i.ytimg.com/vi/jF1QMG6cjgM/mqdefault.jpg",
-      "published": "2026-09-09T13:38:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "TIMELINE IMORTAL #151 — GRÊMIO DE VOLTA AOS TREINOS AGORA | ZAGUEIRO RECEBE SONDAGENS",
       "videoId": "N7M0M2WGHy4",
       "url": "https://www.youtube.com/watch?v=N7M0M2WGHy4",
-      "thumbnail": "https://i.ytimg.com/vi/N7M0M2WGHy4/mqdefault_live.jpg",
-      "published": "2026-09-09T14:17:58Z"
+      "thumbnail": "https://i.ytimg.com/vi/N7M0M2WGHy4/mqdefault.jpg",
+      "published": "2026-09-09T15:30:33Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO RETOMA OS TRABALHOS E TERÁ DECISÃO NO SÁBADO! | COMO É BOM SER DO GRÊMIO #38",
-      "videoId": "8YvzqjT3Qjs",
-      "url": "https://www.youtube.com/watch?v=8YvzqjT3Qjs",
-      "thumbnail": "https://i.ytimg.com/vi/8YvzqjT3Qjs/mqdefault_live.jpg",
-      "published": "2026-09-09T14:17:52Z"
+      "title": "IMORTAL FC — 09/09",
+      "videoId": "SR8GtKZ6DQE",
+      "url": "https://www.youtube.com/watch?v=SR8GtKZ6DQE",
+      "thumbnail": "https://i.ytimg.com/vi/SR8GtKZ6DQE/mqdefault_live.jpg",
+      "published": "2026-09-09T15:22:27Z"
     }
   ]
 }
