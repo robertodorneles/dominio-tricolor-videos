@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:00:45.930513+00:00",
+  "updated_at": "2026-09-10T11:00:45.268878+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 10/09/2026",
+      "videoId": "3WRgSYT-NY0",
+      "url": "https://www.youtube.com/watch?v=3WRgSYT-NY0",
+      "thumbnail": "https://i.ytimg.com/vi/3WRgSYT-NY0/mqdefault_live.jpg",
+      "published": "2026-09-10T10:55:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Flávio Dino reverte decisão de Mendonça, Seleção Brasileira, trânsito e mais | Gaúcha+ | 09/09/2026",
       "videoId": "CaaWKTFSuWQ",
       "url": "https://www.youtube.com/watch?v=CaaWKTFSuWQ",
       "thumbnail": "https://i.ytimg.com/vi/CaaWKTFSuWQ/mqdefault.jpg",
       "published": "2026-09-10T07:35:29Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Quem será o senador misterioso | Palanque Digital",
-      "videoId": "17ODbF3egr0",
-      "url": "https://www.youtube.com/watch?v=17ODbF3egr0",
-      "thumbnail": "https://i.ytimg.com/vi/17ODbF3egr0/mqdefault.jpg",
-      "published": "2026-09-09T21:30:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL |",
+      "videoId": "RB5ll_UbgdE",
+      "url": "https://www.youtube.com/watch?v=RB5ll_UbgdE",
+      "thumbnail": "https://i.ytimg.com/vi/RB5ll_UbgdE/mqdefault_live.jpg",
+      "published": "2026-09-10T10:18:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "09/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "B0vTrojQDZ0",
       "url": "https://www.youtube.com/watch?v=B0vTrojQDZ0",
       "thumbnail": "https://i.ytimg.com/vi/B0vTrojQDZ0/mqdefault.jpg",
       "published": "2026-09-09T23:24:57Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 08/09/2026",
-      "videoId": "GjOCrBZBvfU",
-      "url": "https://www.youtube.com/watch?v=GjOCrBZBvfU",
-      "thumbnail": "https://i.ytimg.com/vi/GjOCrBZBvfU/mqdefault.jpg",
-      "published": "2026-09-08T23:42:12Z"
     },
     {
       "channel": "Radio Imortal",
