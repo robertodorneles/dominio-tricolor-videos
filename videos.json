@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-09-10T02:00:39.856490+00:00",
+  "updated_at": "2026-09-10T03:46:07.299728+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Diário do Inter: 🔥 PEZZOLANO SENTIU E VAI MUDAR | ABEL DISSE QUE NÃO SAI | CBF CONFIRMA ESCÂNDALO",
+      "videoId": "et4dm0IogGM",
+      "url": "https://www.youtube.com/watch?v=et4dm0IogGM",
+      "thumbnail": "https://i.ytimg.com/vi/et4dm0IogGM/mqdefault.jpg",
+      "published": "2026-09-10T03:39:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla:  NOITE DE SIMULADOS DE INTER E GRÊMIO NO BRASILEIRÃO",
       "videoId": "R1GSvHde_Lc",
       "url": "https://www.youtube.com/watch?v=R1GSvHde_Lc",
       "thumbnail": "https://i.ytimg.com/vi/R1GSvHde_Lc/mqdefault_live.jpg",
-      "published": "2026-09-10T00:20:33Z"
+      "published": "2026-09-10T03:36:42Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: A MÃO DE FERRO QUE EXECUTA O MERCADO | CONTRATAÇÃO ATÉ SEXTA-FEIRA?!",
-      "videoId": "key-MQ_mCDE",
-      "url": "https://www.youtube.com/watch?v=key-MQ_mCDE",
-      "thumbnail": "https://i.ytimg.com/vi/key-MQ_mCDE/mqdefault.jpg",
-      "published": "2026-09-09T20:00:17Z"
+      "channel": "Bage TV",
+      "title": "GOLEIRO DO GRÊMIO É CHAMADO POR ANCELOTTI🔵 BOA NOITE GRÊMIO #020",
+      "videoId": "UC8FpW6J0-o",
+      "url": "https://www.youtube.com/watch?v=UC8FpW6J0-o",
+      "thumbnail": "https://i.ytimg.com/vi/UC8FpW6J0-o/mqdefault.jpg",
+      "published": "2026-09-10T02:26:36Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=eaZ6uYh8soU",
       "thumbnail": "https://i.ytimg.com/vi/eaZ6uYh8soU/mqdefault.jpg",
       "published": "2026-09-10T00:43:53Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GOLEIRO DO GRÊMIO É CHAMADO POR ANCELOTTI🔵 BOA NOITE GRÊMIO #020",
-      "videoId": "UC8FpW6J0-o",
-      "url": "https://www.youtube.com/watch?v=UC8FpW6J0-o",
-      "thumbnail": "https://i.ytimg.com/vi/UC8FpW6J0-o/mqdefault_live.jpg",
-      "published": "2026-09-10T00:36:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: ARMAGGEDON DE INTER E GRÊMIO NO SÁBADO",
+      "videoId": "XixnTQsAkw4",
+      "url": "https://www.youtube.com/watch?v=XixnTQsAkw4",
+      "thumbnail": "https://i.ytimg.com/vi/XixnTQsAkw4/mqdefault_live.jpg",
+      "published": "2026-09-10T02:43:34Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "POR QUE CEBOLINHA NÃO FECHOU COM O GRÊMIO: tudo que eu descobri sobre a história",
       "videoId": "PAueFw951UM",
       "url": "https://www.youtube.com/watch?v=PAueFw951UM",
       "thumbnail": "https://i.ytimg.com/vi/PAueFw951UM/mqdefault.jpg",
       "published": "2026-09-09T13:15:22Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: A real sobre o Cebolinha + Inter liga pra novo técnico + dias insanos",
-      "videoId": "UBrdlf53z3Y",
-      "url": "https://www.youtube.com/watch?v=UBrdlf53z3Y",
-      "thumbnail": "https://i.ytimg.com/vi/UBrdlf53z3Y/mqdefault.jpg",
-      "published": "2026-09-09T12:26:24Z"
     },
     {
       "channel": "LH Benfica",
