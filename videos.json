@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:00:37.305403+00:00",
+  "updated_at": "2026-09-10T10:00:45.930513+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO TEM RETORNO DE TITULAR 🌅🔵 BOM DIA GRÊMIO #121",
+      "videoId": "hu02brAu6AQ",
+      "url": "https://www.youtube.com/watch?v=hu02brAu6AQ",
+      "thumbnail": "https://i.ytimg.com/vi/hu02brAu6AQ/mqdefault_live.jpg",
+      "published": "2026-09-10T09:35:57Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GOLEIRO DO GRÊMIO É CHAMADO POR ANCELOTTI🔵 BOA NOITE GRÊMIO #020",
       "videoId": "UC8FpW6J0-o",
       "url": "https://www.youtube.com/watch?v=UC8FpW6J0-o",
       "thumbnail": "https://i.ytimg.com/vi/UC8FpW6J0-o/mqdefault.jpg",
       "published": "2026-09-10T02:26:36Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO CORRE RISCO DE NOVO TRANSFERBAN🟣RESENHA FORA DA SALA NOITE🟣#020",
-      "videoId": "eaZ6uYh8soU",
-      "url": "https://www.youtube.com/watch?v=eaZ6uYh8soU",
-      "thumbnail": "https://i.ytimg.com/vi/eaZ6uYh8soU/mqdefault.jpg",
-      "published": "2026-09-10T00:43:53Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #19 — VENDA DE INGRESSOS PARA GRÊMIO X VASCO ABRE LOGO MAIS!",
+      "videoId": "T-_0LueaiLo",
+      "url": "https://www.youtube.com/watch?v=T-_0LueaiLo",
+      "thumbnail": "https://i.ytimg.com/vi/T-_0LueaiLo/mqdefault_live.jpg",
+      "published": "2026-09-10T09:33:33Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FOCO TOTAL NO BRASILEIRÃO | MANDOS DE CAMPO SERÃO DEFINIDOS | NOITES DE GRÊMIO #142 - 09/09",
       "videoId": "5g6fCriHYnk",
       "url": "https://www.youtube.com/watch?v=5g6fCriHYnk",
       "thumbnail": "https://i.ytimg.com/vi/5g6fCriHYnk/mqdefault_live.jpg",
       "published": "2026-09-10T01:31:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #152 — AGORA: DEFINIÇÃO DO MANDO DE CAMPO NA COPA | GRÊMIO COM DÚVIDAS NO TIME",
-      "videoId": "8bBcNh1ld4s",
-      "url": "https://www.youtube.com/watch?v=8bBcNh1ld4s",
-      "thumbnail": "https://i.ytimg.com/vi/8bBcNh1ld4s/mqdefault_live.jpg",
-      "published": "2026-09-10T00:09:35Z"
     }
   ]
 }
