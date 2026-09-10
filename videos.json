@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-10T00:00:43.861971+00:00",
+  "updated_at": "2026-09-10T00:47:50.930600+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  NOITE DE SIMULADOS DE INTER E GRÊMIO NO BRASILEIRÃO",
+      "videoId": "R1GSvHde_Lc",
+      "url": "https://www.youtube.com/watch?v=R1GSvHde_Lc",
+      "thumbnail": "https://i.ytimg.com/vi/R1GSvHde_Lc/mqdefault_live.jpg",
+      "published": "2026-09-10T00:20:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A MÃO DE FERRO QUE EXECUTA O MERCADO | CONTRATAÇÃO ATÉ SEXTA-FEIRA?!",
@@ -11,28 +19,20 @@
       "published": "2026-09-09T20:00:17Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 CONVERSA DAS ORGANIZADAS COM PLANTEL E PEZZOLANO | VEJA OUTRO PROTESTO | O QUE FOI DITO",
-      "videoId": "EnK0XNTxpn8",
-      "url": "https://www.youtube.com/watch?v=EnK0XNTxpn8",
-      "thumbnail": "https://i.ytimg.com/vi/EnK0XNTxpn8/mqdefault.jpg",
-      "published": "2026-09-09T17:28:40Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO CORRE RISCO DE NOVO TRANSFERBAN🟣RESENHA FORA DA SALA NOITE🟣#020",
       "videoId": "eaZ6uYh8soU",
       "url": "https://www.youtube.com/watch?v=eaZ6uYh8soU",
-      "thumbnail": "https://i.ytimg.com/vi/eaZ6uYh8soU/mqdefault_live.jpg",
-      "published": "2026-09-09T23:17:27Z"
+      "thumbnail": "https://i.ytimg.com/vi/eaZ6uYh8soU/mqdefault.jpg",
+      "published": "2026-09-10T00:43:53Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🚨 GUSTAVO MARTINS DE SAÍDA DO GRÊMIO? CARPINI NO INTER E CONVOCAÇÃO DA SELEÇÃO! 📰BAGÉTV NEWS #032",
-      "videoId": "5qRUyw5Mcvk",
-      "url": "https://www.youtube.com/watch?v=5qRUyw5Mcvk",
-      "thumbnail": "https://i.ytimg.com/vi/5qRUyw5Mcvk/mqdefault.jpg",
-      "published": "2026-09-09T22:22:21Z"
+      "title": "GOLEIRO DO GRÊMIO É CHAMADO POR ANCELOTTI🔵 BOA NOITE GRÊMIO #020",
+      "videoId": "UC8FpW6J0-o",
+      "url": "https://www.youtube.com/watch?v=UC8FpW6J0-o",
+      "thumbnail": "https://i.ytimg.com/vi/UC8FpW6J0-o/mqdefault_live.jpg",
+      "published": "2026-09-10T00:36:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "O MONZA DO GRÊMIO! #gremio #futebol",
+      "videoId": "AgjLa9cKz6s",
+      "url": "https://www.youtube.com/watch?v=AgjLa9cKz6s",
+      "thumbnail": "https://i.ytimg.com/vi/AgjLa9cKz6s/mqdefault.jpg",
+      "published": "2026-09-10T00:00:35Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "REFORÇO: VALOR E ESTREIA RÁPIDA? | RETORNO DE LESÃO NO GRÊMIO.",
       "videoId": "jcxikvsDnu4",
       "url": "https://www.youtube.com/watch?v=jcxikvsDnu4",
       "thumbnail": "https://i.ytimg.com/vi/jcxikvsDnu4/mqdefault.jpg",
       "published": "2026-09-09T22:16:07Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "CEBOLINHA E A CONVICÇÃO COM O GRÊMIO. #gremio #futebol #santos #noticias",
-      "videoId": "HVRTOFlZFWg",
-      "url": "https://www.youtube.com/watch?v=HVRTOFlZFWg",
-      "thumbnail": "https://i.ytimg.com/vi/HVRTOFlZFWg/mqdefault.jpg",
-      "published": "2026-09-09T14:09:38Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA VENDA DE INGRESSOS PARA DECISÃO DO SÁBADO | NOVIDADES NO TREINO | IMORTAL FC",
-      "videoId": "SR8GtKZ6DQE",
-      "url": "https://www.youtube.com/watch?v=SR8GtKZ6DQE",
-      "thumbnail": "https://i.ytimg.com/vi/SR8GtKZ6DQE/mqdefault.jpg",
-      "published": "2026-09-09T22:18:32Z"
+      "title": "TIMELINE IMORTAL #152 — AGORA: DEFINIÇÃO DO MANDO DE CAMPO NA COPA | GRÊMIO COM DÚVIDAS NO TIME",
+      "videoId": "8bBcNh1ld4s",
+      "url": "https://www.youtube.com/watch?v=8bBcNh1ld4s",
+      "thumbnail": "https://i.ytimg.com/vi/8bBcNh1ld4s/mqdefault_live.jpg",
+      "published": "2026-09-10T00:09:35Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "5g6fCriHYnk",
       "url": "https://www.youtube.com/watch?v=5g6fCriHYnk",
       "thumbnail": "https://i.ytimg.com/vi/5g6fCriHYnk/mqdefault_live.jpg",
-      "published": "2026-09-09T21:34:47Z"
+      "published": "2026-09-10T00:00:21Z"
     }
   ]
 }
