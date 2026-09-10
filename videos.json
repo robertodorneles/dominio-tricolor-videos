@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T01:00:38.720742+00:00",
+  "updated_at": "2026-09-10T02:00:39.856490+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #013",
+      "videoId": "0jdT3ZOVkyM",
+      "url": "https://www.youtube.com/watch?v=0jdT3ZOVkyM",
+      "thumbnail": "https://i.ytimg.com/vi/0jdT3ZOVkyM/mqdefault.jpg",
+      "published": "2026-09-10T01:25:38Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "CRISE TOTAL NO RIVAL!!",
       "videoId": "zIgTpp41S_g",
       "url": "https://www.youtube.com/watch?v=zIgTpp41S_g",
       "thumbnail": "https://i.ytimg.com/vi/zIgTpp41S_g/mqdefault.jpg",
       "published": "2026-09-09T23:51:28Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 08/09/2026",
-      "videoId": "2Xzt59sdS7c",
-      "url": "https://www.youtube.com/watch?v=2Xzt59sdS7c",
-      "thumbnail": "https://i.ytimg.com/vi/2Xzt59sdS7c/mqdefault_live.jpg",
-      "published": "2026-09-09T23:07:55Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "FOCO TOTAL NO BRASILEIRÃO | MANDOS DE CAMPO SERÃO DEFINIDOS | NOITES DE GRÊMIO #142 - 09/09",
+      "videoId": "5g6fCriHYnk",
+      "url": "https://www.youtube.com/watch?v=5g6fCriHYnk",
+      "thumbnail": "https://i.ytimg.com/vi/5g6fCriHYnk/mqdefault_live.jpg",
+      "published": "2026-09-10T01:31:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #152 — AGORA: DEFINIÇÃO DO MANDO DE CAMPO NA COPA | GRÊMIO COM DÚVIDAS NO TIME",
       "videoId": "8bBcNh1ld4s",
       "url": "https://www.youtube.com/watch?v=8bBcNh1ld4s",
       "thumbnail": "https://i.ytimg.com/vi/8bBcNh1ld4s/mqdefault_live.jpg",
       "published": "2026-09-10T00:09:35Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FOCO TOTAL NO BRASILEIRÃO | MANDOS DE CAMPO SERÃO DEFINIDOS | NOITES DE GRÊMIO #142 - 09/09",
-      "videoId": "5g6fCriHYnk",
-      "url": "https://www.youtube.com/watch?v=5g6fCriHYnk",
-      "thumbnail": "https://i.ytimg.com/vi/5g6fCriHYnk/mqdefault_live.jpg",
-      "published": "2026-09-10T00:00:21Z"
     }
   ]
 }
