@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:00:39.166828+00:00",
+  "updated_at": "2026-09-10T13:17:54.198936+00:00",
   "total": 30,
   "videos": [
     {
@@ -69,18 +69,18 @@
     {
       "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #014",
+      "videoId": "Ba9T4FdXoOQ",
+      "url": "https://www.youtube.com/watch?v=Ba9T4FdXoOQ",
+      "thumbnail": "https://i.ytimg.com/vi/Ba9T4FdXoOQ/mqdefault_live.jpg",
+      "published": "2026-09-10T13:01:09Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #014",
       "videoId": "-TZ-rziOH5g",
       "url": "https://www.youtube.com/watch?v=-TZ-rziOH5g",
       "thumbnail": "https://i.ytimg.com/vi/-TZ-rziOH5g/mqdefault_live.jpg",
       "published": "2026-09-10T12:42:00Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #10",
-      "videoId": "VRL7RnE2jYE",
-      "url": "https://www.youtube.com/watch?v=VRL7RnE2jYE",
-      "thumbnail": "https://i.ytimg.com/vi/VRL7RnE2jYE/mqdefault_live.jpg",
-      "published": "2026-09-10T11:36:46Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -136,7 +136,7 @@
       "videoId": "oNtod82IdrI",
       "url": "https://www.youtube.com/watch?v=oNtod82IdrI",
       "thumbnail": "https://i.ytimg.com/vi/oNtod82IdrI/mqdefault_live.jpg",
-      "published": "2026-09-10T12:03:29Z"
+      "published": "2026-09-10T13:12:52Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Últimas da política, economia, trânsito, previsão do tempo e mais | Gaúcha Atualidade | 10/09/2026",
+      "videoId": "3WRgSYT-NY0",
+      "url": "https://www.youtube.com/watch?v=3WRgSYT-NY0",
+      "thumbnail": "https://i.ytimg.com/vi/3WRgSYT-NY0/mqdefault.jpg",
+      "published": "2026-09-10T13:09:21Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Crise no STF, decisões de Fachin, reação de Moraes e mais | Timeline | 10/09/2026",
       "videoId": "MBZLLScINlA",
       "url": "https://www.youtube.com/watch?v=MBZLLScINlA",
       "thumbnail": "https://i.ytimg.com/vi/MBZLLScINlA/mqdefault_live.jpg",
       "published": "2026-09-10T13:00:02Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Últimas da política, economia, trânsito, previsão do tempo e mais | Gaúcha Atualidade | 10/09/2026",
-      "videoId": "3WRgSYT-NY0",
-      "url": "https://www.youtube.com/watch?v=3WRgSYT-NY0",
-      "thumbnail": "https://i.ytimg.com/vi/3WRgSYT-NY0/mqdefault_live.jpg",
-      "published": "2026-09-10T10:55:52Z"
     },
     {
       "channel": "Jeremias Wernek",
