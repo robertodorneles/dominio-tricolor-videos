@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:00:40.222362+00:00",
+  "updated_at": "2026-09-11T10:00:39.519852+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🌅🔵 BOM DIA GRÊMIO #122",
+      "videoId": "vs4PguP2gr8",
+      "url": "https://www.youtube.com/watch?v=vs4PguP2gr8",
+      "thumbnail": "https://i.ytimg.com/vi/vs4PguP2gr8/mqdefault_live.jpg",
+      "published": "2026-09-11T09:30:33Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "RISCO DE Z-4! GRÊMIO TEM MUDANÇAS PARA DECISÃO CONTRA O VASCO 🔵 BOA NOITE GRÊMIO #021",
       "videoId": "oh1PkyTzJZo",
       "url": "https://www.youtube.com/watch?v=oh1PkyTzJZo",
       "thumbnail": "https://i.ytimg.com/vi/oh1PkyTzJZo/mqdefault.jpg",
       "published": "2026-09-11T02:07:02Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 - ENTREVISTA COLETIVA DE WEVERTON E WALLACE",
-      "videoId": "Mm_MNYtvC3k",
-      "url": "https://www.youtube.com/watch?v=Mm_MNYtvC3k",
-      "thumbnail": "https://i.ytimg.com/vi/Mm_MNYtvC3k/mqdefault_live.jpg",
-      "published": "2026-09-11T01:42:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #20 — GRÊMIO ENFRENTA O VASCO EM JOGO DE SEIS PONTOS",
+      "videoId": "tXxiMAbn3BM",
+      "url": "https://www.youtube.com/watch?v=tXxiMAbn3BM",
+      "thumbnail": "https://i.ytimg.com/vi/tXxiMAbn3BM/mqdefault_live.jpg",
+      "published": "2026-09-11T09:31:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "LEITÃO GARANTE PERMANÊNCIA DE CASTRO | AINDA VAMOS CONTRATAR? | NOITES DE GRÊMIO #143 - 10/09",
       "videoId": "otyryQMb_u4",
       "url": "https://www.youtube.com/watch?v=otyryQMb_u4",
       "thumbnail": "https://i.ytimg.com/vi/otyryQMb_u4/mqdefault_live.jpg",
       "published": "2026-09-11T01:32:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE WEVERTON E WALLACE | ENTREVISTA DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "ycgDtqkNTSk",
-      "url": "https://www.youtube.com/watch?v=ycgDtqkNTSk",
-      "thumbnail": "https://i.ytimg.com/vi/ycgDtqkNTSk/mqdefault_live.jpg",
-      "published": "2026-09-10T22:52:55Z"
     }
   ]
 }
