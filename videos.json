@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-11T21:00:37.399726+00:00",
+  "updated_at": "2026-09-11T22:00:40.506882+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 IMAGENS MOSTRAM O ABSURDO | MAIS DE 40 MILHÕES | SE ESCONDE DO JOGO!",
+      "videoId": "kbjEOR42DGg",
+      "url": "https://www.youtube.com/watch?v=kbjEOR42DGg",
+      "thumbnail": "https://i.ytimg.com/vi/kbjEOR42DGg/mqdefault.jpg",
+      "published": "2026-09-11T21:47:14Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A JANELA FECHOU E AS CONTRATAÇÕES DE ODORICO AGORA SERÃO AVALIADAS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=WRbdPyhJNxE",
       "thumbnail": "https://i.ytimg.com/vi/WRbdPyhJNxE/mqdefault.jpg",
       "published": "2026-09-11T20:00:28Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: ÁRABES QUEREM AMUZU AGORA | R$ 34 MILHÕES EM JOGO | MUDANÇAS NO TIME",
-      "videoId": "ezJDiBYFNEs",
-      "url": "https://www.youtube.com/watch?v=ezJDiBYFNEs",
-      "thumbnail": "https://i.ytimg.com/vi/ezJDiBYFNEs/mqdefault.jpg",
-      "published": "2026-09-11T05:00:06Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #675: Times | Público | Marlon | Favoritismo | Base do Grêmio e mais",
+      "videoId": "sILHfSfYp7U",
+      "url": "https://www.youtube.com/watch?v=sILHfSfYp7U",
+      "thumbnail": "https://i.ytimg.com/vi/sILHfSfYp7U/mqdefault.jpg",
+      "published": "2026-09-11T21:32:00Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Será esse o caminho para um futebol competitivo no Brasil?",
       "videoId": "Q9RdlFNXhwA",
       "url": "https://www.youtube.com/watch?v=Q9RdlFNXhwA",
       "thumbnail": "https://i.ytimg.com/vi/Q9RdlFNXhwA/mqdefault.jpg",
       "published": "2026-09-11T14:30:54Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #674: Reforço caseiro | Desfalque | Provável Grêmio | Erro de arbitragem e mais",
-      "videoId": "BGEZsc27zeY",
-      "url": "https://www.youtube.com/watch?v=BGEZsc27zeY",
-      "thumbnail": "https://i.ytimg.com/vi/BGEZsc27zeY/mqdefault.jpg",
-      "published": "2026-09-10T22:51:46Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PEDIDO DO GRUPO! | LESÃO E TESTES: GRÊMIO X VASCO  | ALERTA DE GOLPE.",
+      "videoId": "76Ag00pCEfY",
+      "url": "https://www.youtube.com/watch?v=76Ag00pCEfY",
+      "thumbnail": "https://i.ytimg.com/vi/76Ag00pCEfY/mqdefault.jpg",
+      "published": "2026-09-11T21:54:58Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ZAGUEIRO DE R$300 MILHÕES | SAÍDAS E CHEGADAS |  GRÊMIO DECIDI EM CASA: BOM MOTIVOS.",
       "videoId": "26_hlXuIw5E",
       "url": "https://www.youtube.com/watch?v=26_hlXuIw5E",
       "thumbnail": "https://i.ytimg.com/vi/26_hlXuIw5E/mqdefault.jpg",
       "published": "2026-09-10T21:55:01Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "AGORA? DEFINIDO OS MANDOS DA SEMIFINAL E COMO SERÁ A FINA DA COPA DO BRASIL! #gremio #futebol",
-      "videoId": "jpvsbyPgslI",
-      "url": "https://www.youtube.com/watch?v=jpvsbyPgslI",
-      "thumbnail": "https://i.ytimg.com/vi/jpvsbyPgslI/mqdefault.jpg",
-      "published": "2026-09-10T15:22:12Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "O MEDO DE SER CANCELADO E AS OPINIÕES POLÊMICAS DO MACAÉ | Cortes do Duda",
+      "videoId": "J36lTXhAL-o",
+      "url": "https://www.youtube.com/watch?v=J36lTXhAL-o",
+      "thumbnail": "https://i.ytimg.com/vi/J36lTXhAL-o/mqdefault.jpg",
+      "published": "2026-09-11T21:30:35Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DUDA RIU MUITO COM AS PIADAS PRA ZOAR O DICA DE GORDINHO | Cortes do Duda",
       "videoId": "VVQ-SL6VRTU",
       "url": "https://www.youtube.com/watch?v=VVQ-SL6VRTU",
       "thumbnail": "https://i.ytimg.com/vi/VVQ-SL6VRTU/mqdefault.jpg",
       "published": "2026-09-11T21:00:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Hospício  - 11/09",
-      "videoId": "fTKDgcLIE4Y",
-      "url": "https://www.youtube.com/watch?v=fTKDgcLIE4Y",
-      "thumbnail": "https://i.ytimg.com/vi/fTKDgcLIE4Y/mqdefault.jpg",
-      "published": "2026-09-11T13:05:36Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "“MENINO DO MOURÃO” FICOU PARA TRÁS? Zucco mira nova estratégia de campanha | Conversa de Gabinete",
-      "videoId": "4D2rgVxvZfA",
-      "url": "https://www.youtube.com/watch?v=4D2rgVxvZfA",
-      "thumbnail": "https://i.ytimg.com/vi/4D2rgVxvZfA/mqdefault.jpg",
-      "published": "2026-09-11T21:00:18Z"
+      "title": "LULA NO RS: os bastidores da agenda do candidato à Presidência | Conversa de Gabinete",
+      "videoId": "v6Rdsfs_IT0",
+      "url": "https://www.youtube.com/watch?v=v6Rdsfs_IT0",
+      "thumbnail": "https://i.ytimg.com/vi/v6Rdsfs_IT0/mqdefault.jpg",
+      "published": "2026-09-11T22:00:17Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Campanha nacional no RS: como o Estado entra na disputa presidenciável | Conversa de Gabinete",
-      "videoId": "9FnAesDBcug",
-      "url": "https://www.youtube.com/watch?v=9FnAesDBcug",
-      "thumbnail": "https://i.ytimg.com/vi/9FnAesDBcug/mqdefault.jpg",
-      "published": "2026-09-11T20:30:06Z"
+      "title": "NOVE VEZES em que Tom Cruise DESAFIOU A MORTE nos filmes MISSÃO: IMPOSSÍVEL | Dica do Ticiano",
+      "videoId": "Up3NwzVRe0o",
+      "url": "https://www.youtube.com/watch?v=Up3NwzVRe0o",
+      "thumbnail": "https://i.ytimg.com/vi/Up3NwzVRe0o/mqdefault.jpg",
+      "published": "2026-09-11T21:10:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "FILIPE KUNRATH ELOGIA GRÊMIO POR ENTREVISTAS ANTES DA PARTIDA CONTRA O VASCO",
-      "videoId": "e99aAj7xJlU",
-      "url": "https://www.youtube.com/watch?v=e99aAj7xJlU",
-      "thumbnail": "https://i.ytimg.com/vi/e99aAj7xJlU/mqdefault.jpg",
-      "published": "2026-09-11T21:00:05Z"
+      "title": "VENCER OU VENCER NA ARENA | GRÊMIO TEM DESFALQUES CONTRA O VASCO | NOITES DE GRÊMIO #144 - 11/09",
+      "videoId": "xWjVzOpwTB0",
+      "url": "https://www.youtube.com/watch?v=xWjVzOpwTB0",
+      "thumbnail": "https://i.ytimg.com/vi/xWjVzOpwTB0/mqdefault_live.jpg",
+      "published": "2026-09-11T21:57:48Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "CRISTIANO OLIVEIRA REFORÇA A IMPORTÂNCIA DA PRESENÇA DA TORCIDA EM GRÊMIO X VASCO",
-      "videoId": "czlig22GiaM",
-      "url": "https://www.youtube.com/watch?v=czlig22GiaM",
-      "thumbnail": "https://i.ytimg.com/vi/czlig22GiaM/mqdefault.jpg",
-      "published": "2026-09-11T19:46:09Z"
+      "title": "GRÊMIO SE MOBILIZA PARA JOGO IMPORTANTE NO BRASILEIRÃO | VASCO VEM REFORÇADO | IMORTAL FC",
+      "videoId": "ogeHyrGSm-Y",
+      "url": "https://www.youtube.com/watch?v=ogeHyrGSm-Y",
+      "thumbnail": "https://i.ytimg.com/vi/ogeHyrGSm-Y/mqdefault_live.jpg",
+      "published": "2026-09-11T21:01:24Z"
     }
   ]
 }
