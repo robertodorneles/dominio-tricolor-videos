@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-11T20:00:52.936305+00:00",
-  "total": 28,
+  "updated_at": "2026-09-11T20:23:51.076787+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A JANELA FECHOU E AS CONTRATAÇÕES DE ODORICO AGORA SERÃO AVALIADAS",
+      "videoId": "WRbdPyhJNxE",
+      "url": "https://www.youtube.com/watch?v=WRbdPyhJNxE",
+      "thumbnail": "https://i.ytimg.com/vi/WRbdPyhJNxE/mqdefault.jpg",
+      "published": "2026-09-11T20:00:28Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: ÁRABES QUEREM AMUZU AGORA | R$ 34 MILHÕES EM JOGO | MUDANÇAS NO TIME",
@@ -11,28 +19,36 @@
       "published": "2026-09-11T05:00:06Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla:  PRÉ-RODADA E PREOCUPAÇÕES NOS DOIS LADOS | A SIMULAÇÃO DO GRÊMIO",
-      "videoId": "vLg6uiTwDzA",
-      "url": "https://www.youtube.com/watch?v=vLg6uiTwDzA",
-      "thumbnail": "https://i.ytimg.com/vi/vLg6uiTwDzA/mqdefault.jpg",
-      "published": "2026-09-11T04:02:18Z"
+      "channel": "Bage TV",
+      "title": "A CHAPE QUER VENCER E VOLTAR PRA BRIGA! #CORTESDORESENHA",
+      "videoId": "SFoS0YqnSvo",
+      "url": "https://www.youtube.com/watch?v=SFoS0YqnSvo",
+      "thumbnail": "https://i.ytimg.com/vi/SFoS0YqnSvo/mqdefault.jpg",
+      "published": "2026-09-11T20:22:38Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO ENFRENTA O VASCO E NÃO PODE PERDER!!! #CORTESDORESENHA",
-      "videoId": "QS31GRXKH70",
-      "url": "https://www.youtube.com/watch?v=QS31GRXKH70",
-      "thumbnail": "https://i.ytimg.com/vi/QS31GRXKH70/mqdefault.jpg",
-      "published": "2026-09-11T20:00:00Z"
+      "title": "INTER TEM CHANCES DE ESCAPAR DO REBAIXAMENTO? #CORTESDORESENHA",
+      "videoId": "R1dlrKPbe1o",
+      "url": "https://www.youtube.com/watch?v=R1dlrKPbe1o",
+      "thumbnail": "https://i.ytimg.com/vi/R1dlrKPbe1o/mqdefault.jpg",
+      "published": "2026-09-11T20:08:14Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PERDE MARLON! LATERAL SOFRE LESÃO MUSCULAR QUAL TEMPO DE PARADA DE MARLON? 🔹 THE TARDE 🔹#219",
-      "videoId": "DNRVDFOKGRo",
-      "url": "https://www.youtube.com/watch?v=DNRVDFOKGRo",
-      "thumbnail": "https://i.ytimg.com/vi/DNRVDFOKGRo/mqdefault_live.jpg",
-      "published": "2026-09-11T19:49:09Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO! ATACANTE PEDE PRA JOGAR NO GRÊMIO EM 2027 | NOVO JOGADOR | UM ENORME PROBLEMA NO TIME",
+      "videoId": "Ry-jxvVcguE",
+      "url": "https://www.youtube.com/watch?v=Ry-jxvVcguE",
+      "thumbnail": "https://i.ytimg.com/vi/Ry-jxvVcguE/mqdefault.jpg",
+      "published": "2026-09-11T16:35:19Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨NOVO NEGÓCIO COM ATACANTE | ANÚNCIO DE COLETIVA IMPORTANTE | JOGO DA VIDA PRO GRÊMIO CONTRA O VASCO",
+      "videoId": "KSMjHxyv6-o",
+      "url": "https://www.youtube.com/watch?v=KSMjHxyv6-o",
+      "thumbnail": "https://i.ytimg.com/vi/KSMjHxyv6-o/mqdefault.jpg",
+      "published": "2026-09-10T23:00:18Z"
     },
     {
       "channel": "Canal do CCD",
@@ -196,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "EXPLICOU AS DÍVIDAS DO TRICOLOR! 🇪🇪",
+      "videoId": "3otU4-tGfRI",
+      "url": "https://www.youtube.com/watch?v=3otU4-tGfRI",
+      "thumbnail": "https://i.ytimg.com/vi/3otU4-tGfRI/mqdefault.jpg",
+      "published": "2026-09-11T20:01:46Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVAS DE WEVERTON E WALLACE - GOLEIRO E ZAGUEIRO DO GRÊMIO | RÁDIO GRENAL | 11/09/2026",
       "videoId": "9jI1pFoYNm4",
       "url": "https://www.youtube.com/watch?v=9jI1pFoYNm4",
       "thumbnail": "https://i.ytimg.com/vi/9jI1pFoYNm4/mqdefault.jpg",
       "published": "2026-09-11T19:16:26Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "11 de setembro de 2026",
-      "videoId": "nLIaLoH7pPQ",
-      "url": "https://www.youtube.com/watch?v=nLIaLoH7pPQ",
-      "thumbnail": "https://i.ytimg.com/vi/nLIaLoH7pPQ/mqdefault.jpg",
-      "published": "2026-09-11T17:28:10Z"
     },
     {
       "channel": "Radio Imortal",
