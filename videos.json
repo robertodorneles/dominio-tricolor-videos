@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:48:28.042082+00:00",
+  "updated_at": "2026-09-11T01:00:37.956031+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 BOA NOITE GRÊMIO #021",
+      "title": "JOGO CONTRA O VASCO VIRA DECISÃO NA ARENA 🟣RESENHA FORA DA SALA NOITE🟣#021",
+      "videoId": "rMkNv43vVRQ",
+      "url": "https://www.youtube.com/watch?v=rMkNv43vVRQ",
+      "thumbnail": "https://i.ytimg.com/vi/rMkNv43vVRQ/mqdefault.jpg",
+      "published": "2026-09-11T00:52:01Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "RISCO DE Z-4! GRÊMIO TEM MUDANÇAS PARA DECISÃO CONTRA O VASCO 🔵 BOA NOITE GRÊMIO #021",
       "videoId": "oh1PkyTzJZo",
       "url": "https://www.youtube.com/watch?v=oh1PkyTzJZo",
       "thumbnail": "https://i.ytimg.com/vi/oh1PkyTzJZo/mqdefault_live.jpg",
       "published": "2026-09-11T00:45:59Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "JOGO CONTRA O VASCO VIRA DECISÃO NA ARENA 🟣RESENHA FORA DA SALA NOITE🟣#021",
-      "videoId": "rMkNv43vVRQ",
-      "url": "https://www.youtube.com/watch?v=rMkNv43vVRQ",
-      "thumbnail": "https://i.ytimg.com/vi/rMkNv43vVRQ/mqdefault_live.jpg",
-      "published": "2026-09-11T00:41:48Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #014",
+      "videoId": "-TZ-rziOH5g",
+      "url": "https://www.youtube.com/watch?v=-TZ-rziOH5g",
+      "thumbnail": "https://i.ytimg.com/vi/-TZ-rziOH5g/mqdefault.jpg",
+      "published": "2026-09-11T00:48:32Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 10/09/2026",
       "videoId": "2XM489_Qb-k",
       "url": "https://www.youtube.com/watch?v=2XM489_Qb-k",
       "thumbnail": "https://i.ytimg.com/vi/2XM489_Qb-k/mqdefault_live.jpg",
       "published": "2026-09-10T23:05:55Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #10",
-      "videoId": "VRL7RnE2jYE",
-      "url": "https://www.youtube.com/watch?v=VRL7RnE2jYE",
-      "thumbnail": "https://i.ytimg.com/vi/VRL7RnE2jYE/mqdefault_live.jpg",
-      "published": "2026-09-10T17:09:06Z"
     },
     {
       "channel": "Canal do Gabardo",
