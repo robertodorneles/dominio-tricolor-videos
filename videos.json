@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:00:48.135648+00:00",
+  "updated_at": "2026-09-11T15:00:41.543012+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Amanhã é na força da Arquibancada.",
-      "videoId": "e834etNiAI4",
-      "url": "https://www.youtube.com/watch?v=e834etNiAI4",
-      "thumbnail": "https://i.ytimg.com/vi/e834etNiAI4/mqdefault.jpg",
-      "published": "2026-09-11T13:54:18Z"
-    },
-    {
-      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #065",
       "videoId": "aN6SMpwCQA8",
       "url": "https://www.youtube.com/watch?v=aN6SMpwCQA8",
       "thumbnail": "https://i.ytimg.com/vi/aN6SMpwCQA8/mqdefault_live.jpg",
-      "published": "2026-09-11T13:43:57Z"
+      "published": "2026-09-11T14:52:01Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "Amanhã quem vai vencer o jogo é a torcida.",
+      "videoId": "tSfIN8JZlu0",
+      "url": "https://www.youtube.com/watch?v=tSfIN8JZlu0",
+      "thumbnail": "https://i.ytimg.com/vi/tSfIN8JZlu0/mqdefault.jpg",
+      "published": "2026-09-11T14:21:17Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Será esse o caminho para um futebol competitivo no Brasil?",
+      "videoId": "Q9RdlFNXhwA",
+      "url": "https://www.youtube.com/watch?v=Q9RdlFNXhwA",
+      "thumbnail": "https://i.ytimg.com/vi/Q9RdlFNXhwA/mqdefault.jpg",
+      "published": "2026-09-11T14:30:54Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #674: Reforço caseiro | Desfalque | Provável Grêmio | Erro de arbitragem e mais",
       "videoId": "BGEZsc27zeY",
       "url": "https://www.youtube.com/watch?v=BGEZsc27zeY",
       "thumbnail": "https://i.ytimg.com/vi/BGEZsc27zeY/mqdefault.jpg",
       "published": "2026-09-10T22:51:46Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Público contra o Vasco | Mandos de Grêmio x Galo | Vendas da New Balance",
-      "videoId": "oz4UCnr6-_Q",
-      "url": "https://www.youtube.com/watch?v=oz4UCnr6-_Q",
-      "thumbnail": "https://i.ytimg.com/vi/oz4UCnr6-_Q/mqdefault.jpg",
-      "published": "2026-09-10T15:09:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "STF AO VIVO: sessão extraordinária sobre mensagens de Vorcaro a Moraes | 15/09/2026",
-      "videoId": "KettqjkprlA",
-      "url": "https://www.youtube.com/watch?v=KettqjkprlA",
-      "thumbnail": "https://i.ytimg.com/vi/KettqjkprlA/mqdefault_live.jpg",
-      "published": "2026-09-11T13:55:32Z"
+      "title": "82 anos de VERA BUBLITZ: a professora de balé que trouxe ESTRELAS MUNDIAIS para POA | Paralelas",
+      "videoId": "9naddR3eGvw",
+      "url": "https://www.youtube.com/watch?v=9naddR3eGvw",
+      "thumbnail": "https://i.ytimg.com/vi/9naddR3eGvw/mqdefault.jpg",
+      "published": "2026-09-11T14:57:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Alerta de tempestade no RS, crise no STF, Plano Diretor da Capital e mais | Gaúcha+ | 10/09/2026",
-      "videoId": "2RDSqcztDXQ",
-      "url": "https://www.youtube.com/watch?v=2RDSqcztDXQ",
-      "thumbnail": "https://i.ytimg.com/vi/2RDSqcztDXQ/mqdefault.jpg",
-      "published": "2026-09-11T07:38:57Z"
+      "title": "PARIS: O pátio da escola que esfria o bairro | Cidades Inteligentes | 11/09/2026",
+      "videoId": "40WLNzvTshc",
+      "url": "https://www.youtube.com/watch?v=40WLNzvTshc",
+      "thumbnail": "https://i.ytimg.com/vi/40WLNzvTshc/mqdefault.jpg",
+      "published": "2026-09-11T14:55:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 11/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 11/09/2026",
       "videoId": "jVRIIwMmoiw",
       "url": "https://www.youtube.com/watch?v=jVRIIwMmoiw",
       "thumbnail": "https://i.ytimg.com/vi/jVRIIwMmoiw/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X VASCO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "Gjtrhc_1qtw",
-      "url": "https://www.youtube.com/watch?v=Gjtrhc_1qtw",
-      "thumbnail": "https://i.ytimg.com/vi/Gjtrhc_1qtw/mqdefault_live.jpg",
-      "published": "2026-09-11T13:42:06Z"
+      "title": "IMORTAL FC — 11/09",
+      "videoId": "ogeHyrGSm-Y",
+      "url": "https://www.youtube.com/watch?v=ogeHyrGSm-Y",
+      "thumbnail": "https://i.ytimg.com/vi/ogeHyrGSm-Y/mqdefault_live.jpg",
+      "published": "2026-09-11T14:21:18Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO TEM CONFRONTO DIRETO CONTRA O VASCO AMANHÃ | COMO É BOM SER DO GRÊMIO #40",
-      "videoId": "XM5inpThHxs",
-      "url": "https://www.youtube.com/watch?v=XM5inpThHxs",
-      "thumbnail": "https://i.ytimg.com/vi/XM5inpThHxs/mqdefault_live.jpg",
-      "published": "2026-09-11T12:35:41Z"
+      "title": "TIMELINE IMORTAL #153 — GRÊMIO TEM DESFALQUE IMPORTANTE | JOGO DECISIVO NA ARENA!",
+      "videoId": "NpXAkbmLDZg",
+      "url": "https://www.youtube.com/watch?v=NpXAkbmLDZg",
+      "thumbnail": "https://i.ytimg.com/vi/NpXAkbmLDZg/mqdefault_live.jpg",
+      "published": "2026-09-11T14:08:37Z"
     }
   ]
 }
