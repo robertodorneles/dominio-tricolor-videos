@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:29:02.197034+00:00",
+  "updated_at": "2026-09-11T18:00:39.285985+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵AO VIVO🔵 - ENTREVISTA COLETIVA DE WEVERTON E WALLACE",
       "videoId": "Mm_MNYtvC3k",
       "url": "https://www.youtube.com/watch?v=Mm_MNYtvC3k",
-      "thumbnail": "https://i.ytimg.com/vi/Mm_MNYtvC3k/mqdefault_live.jpg",
-      "published": "2026-09-11T17:11:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/Mm_MNYtvC3k/mqdefault.jpg",
+      "published": "2026-09-11T17:48:00Z"
     },
     {
       "channel": "Bage TV",
@@ -168,15 +168,15 @@
       "videoId": "ulIgLJPc9gE",
       "url": "https://www.youtube.com/watch?v=ulIgLJPc9gE",
       "thumbnail": "https://i.ytimg.com/vi/ulIgLJPc9gE/mqdefault_live.jpg",
-      "published": "2026-09-11T17:13:48Z"
+      "published": "2026-09-11T17:59:58Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Banco Master: as suspeitas que vieram à tona após fim de parte do sigilo",
-      "videoId": "acd5E2ZvrEc",
-      "url": "https://www.youtube.com/watch?v=acd5E2ZvrEc",
-      "thumbnail": "https://i.ytimg.com/vi/acd5E2ZvrEc/mqdefault.jpg",
-      "published": "2026-09-11T16:38:53Z"
+      "title": "STF e o fim do sigilo do CASO MASTER | Chamada Eleitoral",
+      "videoId": "_AoO_vaf7ew",
+      "url": "https://www.youtube.com/watch?v=_AoO_vaf7ew",
+      "thumbnail": "https://i.ytimg.com/vi/_AoO_vaf7ew/mqdefault.jpg",
+      "published": "2026-09-11T17:45:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! JOGO DECISIVO NA ARENA | PROVÁVEL ESCALAÇÃO | PLANTÃO IMORTAL",
+      "videoId": "sF36M0DBOVw",
+      "url": "https://www.youtube.com/watch?v=sF36M0DBOVw",
+      "thumbnail": "https://i.ytimg.com/vi/sF36M0DBOVw/mqdefault_live.jpg",
+      "published": "2026-09-11T17:31:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COLETIVA COMPLETA: WEVERTON E WALLACE FALAM ANTES DE GRÊMIO X VASCO NO BRASILEIRÃO",
       "videoId": "iCp6IKSoRwI",
       "url": "https://www.youtube.com/watch?v=iCp6IKSoRwI",
       "thumbnail": "https://i.ytimg.com/vi/iCp6IKSoRwI/mqdefault.jpg",
       "published": "2026-09-11T17:28:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | COLETIVA DE WEVERTON E WALLACE | ENTREVISTA DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "ycgDtqkNTSk",
-      "url": "https://www.youtube.com/watch?v=ycgDtqkNTSk",
-      "thumbnail": "https://i.ytimg.com/vi/ycgDtqkNTSk/mqdefault.jpg",
-      "published": "2026-09-11T17:17:58Z"
     }
   ]
 }
