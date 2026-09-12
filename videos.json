@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-12T21:10:15.517304+00:00",
+  "updated_at": "2026-09-12T22:00:42.427219+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 1x2 Vasco: DERROTA INACEITÁVEL! Time desmorona na Arena",
+      "videoId": "8VSUfZ8Hfbs",
+      "url": "https://www.youtube.com/watch?v=8VSUfZ8Hfbs",
+      "thumbnail": "https://i.ytimg.com/vi/8VSUfZ8Hfbs/mqdefault.jpg",
+      "published": "2026-09-12T21:53:54Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: PÓS RODADA DE GRÊMIO E INTER NESTE SABADÃO DE LIVE",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=lGgOjsIrvtA",
       "thumbnail": "https://i.ytimg.com/vi/lGgOjsIrvtA/mqdefault_live.jpg",
       "published": "2026-09-12T18:19:40Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: DECISÃO CONTRA O VASCO! Castro define time com mudanças | Novidades no BID",
-      "videoId": "jXEOD2lyIZs",
-      "url": "https://www.youtube.com/watch?v=jXEOD2lyIZs",
-      "thumbnail": "https://i.ytimg.com/vi/jXEOD2lyIZs/mqdefault.jpg",
-      "published": "2026-09-12T06:00:26Z"
     },
     {
       "channel": "Bage TV",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨LUÍS CASTRO PRO OLHO DA RUA! DIREÇÃO INCOMPETENTE! JOGADORES RUINS | GRÊMIO CAMINHANDO PRA SÉRIE B!",
+      "videoId": "pwcjW9vkmKg",
+      "url": "https://www.youtube.com/watch?v=pwcjW9vkmKg",
+      "thumbnail": "https://i.ytimg.com/vi/pwcjW9vkmKg/mqdefault.jpg",
+      "published": "2026-09-12T21:33:07Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨JOGADOR FORA PELO EXTRACAMPO? | NOVO ESQUEMA? | ALEX LEITÃO ERROU FEIO | AS ENTREVISTAS NO GRÊMIO!",
       "videoId": "0k456dM2TT0",
       "url": "https://www.youtube.com/watch?v=0k456dM2TT0",
@@ -43,12 +51,12 @@
       "published": "2026-09-11T23:22:29Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ATENÇÃO! ATACANTE PEDE PRA JOGAR NO GRÊMIO EM 2027 | NOVO JOGADOR | UM ENORME PROBLEMA NO TIME",
-      "videoId": "Ry-jxvVcguE",
-      "url": "https://www.youtube.com/watch?v=Ry-jxvVcguE",
-      "thumbnail": "https://i.ytimg.com/vi/Ry-jxvVcguE/mqdefault.jpg",
-      "published": "2026-09-11T16:35:19Z"
+      "channel": "Canal do CCD",
+      "title": "Grêmio 1 x 2 Vasco: mais uma derrota e o trabalho se encaminha para o fim",
+      "videoId": "J-iHOCstAqg",
+      "url": "https://www.youtube.com/watch?v=J-iHOCstAqg",
+      "thumbnail": "https://i.ytimg.com/vi/J-iHOCstAqg/mqdefault.jpg",
+      "published": "2026-09-12T21:38:39Z"
     },
     {
       "channel": "Canal do CCD",
@@ -57,14 +65,6 @@
       "url": "https://www.youtube.com/watch?v=QArf5jV7rBw",
       "thumbnail": "https://i.ytimg.com/vi/QArf5jV7rBw/mqdefault_live.jpg",
       "published": "2026-09-12T20:56:56Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x Vasco: Novidades no time | Público | Tabela e mais",
-      "videoId": "YK6ii6zCFgU",
-      "url": "https://www.youtube.com/watch?v=YK6ii6zCFgU",
-      "thumbnail": "https://i.ytimg.com/vi/YK6ii6zCFgU/mqdefault.jpg",
-      "published": "2026-09-12T14:26:08Z"
     },
     {
       "channel": "Canal do Farid",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | GRÊMIO X VASCO I BRASILEIRÃO 2026",
       "videoId": "bIpng7gDs9I",
       "url": "https://www.youtube.com/watch?v=bIpng7gDs9I",
-      "thumbnail": "https://i.ytimg.com/vi/bIpng7gDs9I/mqdefault_live.jpg",
-      "published": "2026-09-12T20:59:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/bIpng7gDs9I/mqdefault.jpg",
+      "published": "2026-09-12T21:41:57Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -160,7 +160,7 @@
       "videoId": "KhHkqwrnmcs",
       "url": "https://www.youtube.com/watch?v=KhHkqwrnmcs",
       "thumbnail": "https://i.ytimg.com/vi/KhHkqwrnmcs/mqdefault_live.jpg",
-      "published": "2026-09-12T20:53:36Z"
+      "published": "2026-09-12T21:26:21Z"
     },
     {
       "channel": "GZH Digital",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GRÊMIO ENTRA DE VEZ NA BRIGA: Derrota e Luís Castro sob pressão de novo",
+      "videoId": "ZfatZVipiXk",
+      "url": "https://www.youtube.com/watch?v=ZfatZVipiXk",
+      "thumbnail": "https://i.ytimg.com/vi/ZfatZVipiXk/mqdefault.jpg",
+      "published": "2026-09-12T21:24:55Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "E SE O INTER CAIR? Descobri quanto é a cota de TV da Série B em 2027",
       "videoId": "aU-AiXE0Vf0",
       "url": "https://www.youtube.com/watch?v=aU-AiXE0Vf0",
       "thumbnail": "https://i.ytimg.com/vi/aU-AiXE0Vf0/mqdefault.jpg",
       "published": "2026-09-11T23:05:27Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: MUDANÇA DE PEZZOLANO NO INTER E PROBLEMA PARA LUIS CASTRO",
-      "videoId": "RXGYrW7R0IQ",
-      "url": "https://www.youtube.com/watch?v=RXGYrW7R0IQ",
-      "thumbnail": "https://i.ytimg.com/vi/RXGYrW7R0IQ/mqdefault.jpg",
-      "published": "2026-09-11T12:09:13Z"
     },
     {
       "channel": "LH Benfica",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DA ARENA | GRÊMIO 1X2 VASCO | CHAPECOENSE 1X1 INTER | CAMPEONATO BRASILEIRO | 12/09/2026",
+      "title": "AO VIVO | GRÊMIO 1X2 VASCO | CHAPECOENSE 1X2 INTER | CAMPEONATO BRASILEIRO | 12/09/2026",
       "videoId": "HC44nKjQEZ0",
       "url": "https://www.youtube.com/watch?v=HC44nKjQEZ0",
       "thumbnail": "https://i.ytimg.com/vi/HC44nKjQEZ0/mqdefault_live.jpg",
