@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:00:36.888878+00:00",
+  "updated_at": "2026-09-12T23:41:32.534143+00:00",
   "total": 30,
   "videos": [
     {
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x VASCO DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 12/09 #34",
       "videoId": "F-IHrZikCQM",
       "url": "https://www.youtube.com/watch?v=F-IHrZikCQM",
-      "thumbnail": "https://i.ytimg.com/vi/F-IHrZikCQM/mqdefault_live.jpg",
-      "published": "2026-09-12T22:47:55Z"
+      "thumbnail": "https://i.ytimg.com/vi/F-IHrZikCQM/mqdefault.jpg",
+      "published": "2026-09-12T23:01:55Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | GRÊMIO 1 X 2 VASCO | BRASILEIRÃO",
+      "videoId": "902a5E91DqQ",
+      "url": "https://www.youtube.com/watch?v=902a5E91DqQ",
+      "thumbnail": "https://i.ytimg.com/vi/902a5E91DqQ/mqdefault.jpg",
+      "published": "2026-09-12T23:05:40Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "O TRABALHO É BOM? 🇪🇪 #gremio #tricolor #gremistas #arena #brasileirao",
       "videoId": "XjZ2It2GxkY",
       "url": "https://www.youtube.com/watch?v=XjZ2It2GxkY",
@@ -219,12 +227,12 @@
       "published": "2026-09-12T22:43:46Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "GOLS DE CHAPECOENSE 1 X 2 INTER | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | RÁDIO GRENAL | 12/09/26",
-      "videoId": "aKGh00_3H3U",
-      "url": "https://www.youtube.com/watch?v=aKGh00_3H3U",
-      "thumbnail": "https://i.ytimg.com/vi/aKGh00_3H3U/mqdefault.jpg",
-      "published": "2026-09-12T22:19:30Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) VASCO | BRASILEIRÃO 2026 | JORNADA IMORTAL",
+      "videoId": "Gjtrhc_1qtw",
+      "url": "https://www.youtube.com/watch?v=Gjtrhc_1qtw",
+      "thumbnail": "https://i.ytimg.com/vi/Gjtrhc_1qtw/mqdefault.jpg",
+      "published": "2026-09-12T23:38:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=uWYjNLUIeZA",
       "thumbnail": "https://i.ytimg.com/vi/uWYjNLUIeZA/mqdefault.jpg",
       "published": "2026-09-12T22:33:21Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "LUÍS CASTRO DISCUTE SOBRE SEU TRABALHO NO GRÊMIO EM COLETIVA",
-      "videoId": "jenmTtz9nt4",
-      "url": "https://www.youtube.com/watch?v=jenmTtz9nt4",
-      "thumbnail": "https://i.ytimg.com/vi/jenmTtz9nt4/mqdefault.jpg",
-      "published": "2026-09-12T22:30:25Z"
     }
   ]
 }
