@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:00:40.355363+00:00",
+  "updated_at": "2026-09-12T14:00:41.035547+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨JOGADOR FORA POR INDISCIPLINA | NOVO ESQUEMA? | ALEX LEITÃO ERROU FEIO | AS ENTREVISTAS NO GRÊMIO!",
+      "title": "🚨JOGADOR FORA POR INDISCIPLINA? | NOVO ESQUEMA? | ALEX LEITÃO ERROU FEIO | AS ENTREVISTAS NO GRÊMIO!",
       "videoId": "0k456dM2TT0",
       "url": "https://www.youtube.com/watch?v=0k456dM2TT0",
       "thumbnail": "https://i.ytimg.com/vi/0k456dM2TT0/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VENCER OU VENCER NA ARENA | GRÊMIO TEM DESFALQUES CONTRA O VASCO | NOITES DE GRÊMIO #144 - 11/09",
+      "videoId": "xWjVzOpwTB0",
+      "url": "https://www.youtube.com/watch?v=xWjVzOpwTB0",
+      "thumbnail": "https://i.ytimg.com/vi/xWjVzOpwTB0/mqdefault.jpg",
+      "published": "2026-09-12T13:36:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO NO BRASILEIRÃO! JOGO DECISIVO NA ARENA | PROVÁVEL ESCALAÇÃO | PLANTÃO IMORTAL",
       "videoId": "sF36M0DBOVw",
       "url": "https://www.youtube.com/watch?v=sF36M0DBOVw",
       "thumbnail": "https://i.ytimg.com/vi/sF36M0DBOVw/mqdefault_live.jpg",
       "published": "2026-09-12T12:05:42Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VENCER OU VENCER NA ARENA | GRÊMIO TEM DESFALQUES CONTRA O VASCO | NOITES DE GRÊMIO #144 - 11/09",
-      "videoId": "xWjVzOpwTB0",
-      "url": "https://www.youtube.com/watch?v=xWjVzOpwTB0",
-      "thumbnail": "https://i.ytimg.com/vi/xWjVzOpwTB0/mqdefault_live.jpg",
-      "published": "2026-09-12T01:33:23Z"
     }
   ]
 }
