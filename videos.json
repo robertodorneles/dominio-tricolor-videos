@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T16:00:32.226549+00:00",
+  "updated_at": "2026-09-12T17:00:46.649527+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "PRÉ JOGO 🌅🔵 BOM DIA GRÊMIO #123",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X VASCO DA GAMA",
       "videoId": "h05BcHnrQKw",
       "url": "https://www.youtube.com/watch?v=h05BcHnrQKw",
       "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault_live.jpg",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x VASCO DIRETO DA ARENA | BRASILEIRÃO 2026 | 12/09 #17",
+      "videoId": "goWPnEeHIQ4",
+      "url": "https://www.youtube.com/watch?v=goWPnEeHIQ4",
+      "thumbnail": "https://i.ytimg.com/vi/goWPnEeHIQ4/mqdefault_live.jpg",
+      "published": "2026-09-12T17:00:02Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "GRÊMIO DECIDE FORA | NOVO TRANSFER BAN? | JOGO DECISIVO | CONVOCADO | RECLAMAÇÃO DE ESTILO?",
       "videoId": "VZLb3lOsLEM",
       "url": "https://www.youtube.com/watch?v=VZLb3lOsLEM",
       "thumbnail": "https://i.ytimg.com/vi/VZLb3lOsLEM/mqdefault.jpg",
       "published": "2026-09-10T17:10:07Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "CONVERSEI COM UMA PESSOA PRÓXIMA A LUÍS CASTRO | REFORÇO PRA SÁBADO | PROMESSA COMPRADA | SAÍDA?",
-      "videoId": "QmHsvyUvIoo",
-      "url": "https://www.youtube.com/watch?v=QmHsvyUvIoo",
-      "thumbnail": "https://i.ytimg.com/vi/QmHsvyUvIoo/mqdefault.jpg",
-      "published": "2026-09-09T20:27:30Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X VASCO I BRASILEIRÃO 2026",
+      "videoId": "bIpng7gDs9I",
+      "url": "https://www.youtube.com/watch?v=bIpng7gDs9I",
+      "thumbnail": "https://i.ytimg.com/vi/bIpng7gDs9I/mqdefault_live.jpg",
+      "published": "2026-09-12T16:47:12Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "DO GUIA PARA TV | ENTREVISTA EXCLUSIVA COM DIEGO CAITO",
       "videoId": "QuVFDSjaeyY",
       "url": "https://www.youtube.com/watch?v=QuVFDSjaeyY",
       "thumbnail": "https://i.ytimg.com/vi/QuVFDSjaeyY/mqdefault.jpg",
       "published": "2026-09-12T03:01:32Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GABRIEL MENEGON É CHAMADO PARA TREINOS COM A SELEÇÃO BRASILEIRA",
-      "videoId": "cO2_1IpSPZc",
-      "url": "https://www.youtube.com/watch?v=cO2_1IpSPZc",
-      "thumbnail": "https://i.ytimg.com/vi/cO2_1IpSPZc/mqdefault.jpg",
-      "published": "2026-09-11T00:00:33Z"
     },
     {
       "channel": "GZH Digital",
@@ -172,11 +172,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "QUEBRA PARCIAL DO SIGILO DO MASTER, FLÁVIO NA PAULISTA E PRESO NAS ALTURAS | RivoNews #148 - 11/09",
-      "videoId": "DjA5gLk0jmg",
-      "url": "https://www.youtube.com/watch?v=DjA5gLk0jmg",
-      "thumbnail": "https://i.ytimg.com/vi/DjA5gLk0jmg/mqdefault.jpg",
-      "published": "2026-09-12T12:30:18Z"
+      "title": "Fim de sigilo do Banco Master, Lula no RS, trânsito e mais | Gaúcha+ | 11/09/2026",
+      "videoId": "ulIgLJPc9gE",
+      "url": "https://www.youtube.com/watch?v=ulIgLJPc9gE",
+      "thumbnail": "https://i.ytimg.com/vi/ulIgLJPc9gE/mqdefault.jpg",
+      "published": "2026-09-12T07:37:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "11/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "ESQUENTANDO O JOGO | GRÊMIO 0X0 VASCO | CHAPECOENSE 0X0 INTER | CAMPEONATO BRASILEIRO | 12/09/2026",
       "videoId": "HC44nKjQEZ0",
       "url": "https://www.youtube.com/watch?v=HC44nKjQEZ0",
       "thumbnail": "https://i.ytimg.com/vi/HC44nKjQEZ0/mqdefault_live.jpg",
