@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:00:38.689581+00:00",
+  "updated_at": "2026-09-12T00:56:19.128892+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,16 @@
       "title": "GRÊMIO TEM DECISÃO AMANHÃ CONTRA O VASCO🟣RESENHA FORA DA SALA NOITE🟣#022",
       "videoId": "tU4Qxb8NYG4",
       "url": "https://www.youtube.com/watch?v=tU4Qxb8NYG4",
-      "thumbnail": "https://i.ytimg.com/vi/tU4Qxb8NYG4/mqdefault_live.jpg",
-      "published": "2026-09-11T23:14:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/tU4Qxb8NYG4/mqdefault.jpg",
+      "published": "2026-09-12T00:53:01Z"
     },
     {
       "channel": "Bage TV",
-      "title": "QUEM VOCÊ ESCOLHERIA? #CORTESDONEWS",
-      "videoId": "eod4geVy8cs",
-      "url": "https://www.youtube.com/watch?v=eod4geVy8cs",
-      "thumbnail": "https://i.ytimg.com/vi/eod4geVy8cs/mqdefault.jpg",
-      "published": "2026-09-11T22:18:27Z"
+      "title": "GRÊMIO TEM DECISÃO CONTRA O VASCO AMANHÃ NA ARENA🔵 BOA NOITE GRÊMIO #022",
+      "videoId": "I8DLZgjT7S4",
+      "url": "https://www.youtube.com/watch?v=I8DLZgjT7S4",
+      "thumbnail": "https://i.ytimg.com/vi/I8DLZgjT7S4/mqdefault_live.jpg",
+      "published": "2026-09-12T00:38:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VENCER OU VENCER NA ARENA | GRÊMIO TEM DESFALQUES CONTRA O VASCO | NOITES DE GRÊMIO #144 - 11/09",
+      "videoId": "xWjVzOpwTB0",
+      "url": "https://www.youtube.com/watch?v=xWjVzOpwTB0",
+      "thumbnail": "https://i.ytimg.com/vi/xWjVzOpwTB0/mqdefault_live.jpg",
+      "published": "2026-09-12T00:01:25Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO SE MOBILIZA PARA JOGO IMPORTANTE NO BRASILEIRÃO | VASCO VEM REFORÇADO | IMORTAL FC",
       "videoId": "ogeHyrGSm-Y",
       "url": "https://www.youtube.com/watch?v=ogeHyrGSm-Y",
       "thumbnail": "https://i.ytimg.com/vi/ogeHyrGSm-Y/mqdefault.jpg",
       "published": "2026-09-11T22:07:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VENCER OU VENCER NA ARENA | GRÊMIO TEM DESFALQUES CONTRA O VASCO | NOITES DE GRÊMIO #144 - 11/09",
-      "videoId": "xWjVzOpwTB0",
-      "url": "https://www.youtube.com/watch?v=xWjVzOpwTB0",
-      "thumbnail": "https://i.ytimg.com/vi/xWjVzOpwTB0/mqdefault_live.jpg",
-      "published": "2026-09-11T21:57:48Z"
     }
   ]
 }
