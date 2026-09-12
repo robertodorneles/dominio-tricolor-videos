@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-12T18:14:54.023184+00:00",
+  "updated_at": "2026-09-12T19:00:37.336427+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: PÓS RODADA DE GRÊMIO E INTER NESTE SABADÃO DE LIVE",
+      "videoId": "lGgOjsIrvtA",
+      "url": "https://www.youtube.com/watch?v=lGgOjsIrvtA",
+      "thumbnail": "https://i.ytimg.com/vi/lGgOjsIrvtA/mqdefault_live.jpg",
+      "published": "2026-09-12T18:19:40Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: DECISÃO CONTRA O VASCO! Castro define time com mudanças | Novidades no BID",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=jXEOD2lyIZs",
       "thumbnail": "https://i.ytimg.com/vi/jXEOD2lyIZs/mqdefault.jpg",
       "published": "2026-09-12T06:00:26Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 💣 BOMBA NO BASTIDOR! | TUDO SOBRE A DOAÇÃO | PARTIDA DECISIVA!",
-      "videoId": "bOuIU7xgfts",
-      "url": "https://www.youtube.com/watch?v=bOuIU7xgfts",
-      "thumbnail": "https://i.ytimg.com/vi/bOuIU7xgfts/mqdefault.jpg",
-      "published": "2026-09-12T05:07:00Z"
     },
     {
       "channel": "Bage TV",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x VASCO DIRETO DA ARENA | BRASILEIRÃO 2026 | 12/09 #17",
       "videoId": "goWPnEeHIQ4",
       "url": "https://www.youtube.com/watch?v=goWPnEeHIQ4",
-      "thumbnail": "https://i.ytimg.com/vi/goWPnEeHIQ4/mqdefault_live.jpg",
-      "published": "2026-09-12T17:00:02Z"
+      "thumbnail": "https://i.ytimg.com/vi/goWPnEeHIQ4/mqdefault.jpg",
+      "published": "2026-09-12T18:59:36Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
