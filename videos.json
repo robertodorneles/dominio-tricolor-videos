@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:12:52.893482+00:00",
+  "updated_at": "2026-09-13T18:00:39.813661+00:00",
   "total": 30,
   "videos": [
     {
@@ -120,7 +120,7 @@
       "videoId": "lFenFo6mYyQ",
       "url": "https://www.youtube.com/watch?v=lFenFo6mYyQ",
       "thumbnail": "https://i.ytimg.com/vi/lFenFo6mYyQ/mqdefault_live.jpg",
-      "published": "2026-09-13T11:43:24Z"
+      "published": "2026-09-13T17:52:24Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Suplementação alimentar: quem precisa de whey protein e creatina?",
+      "videoId": "VbOCa6ywCTk",
+      "url": "https://www.youtube.com/watch?v=VbOCa6ywCTk",
+      "thumbnail": "https://i.ytimg.com/vi/VbOCa6ywCTk/mqdefault.jpg",
+      "published": "2026-09-13T18:00:10Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Muito além da sapatilha: os desafios da vida de uma bailarina | Paralelas",
       "videoId": "Q05sgagnuXI",
       "url": "https://www.youtube.com/watch?v=Q05sgagnuXI",
       "thumbnail": "https://i.ytimg.com/vi/Q05sgagnuXI/mqdefault.jpg",
       "published": "2026-09-13T17:00:24Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Da enxada às gigantescas colheitadeiras: conheça a história da mecanização rural na RS",
-      "videoId": "KC6qSr4ysDU",
-      "url": "https://www.youtube.com/watch?v=KC6qSr4ysDU",
-      "thumbnail": "https://i.ytimg.com/vi/KC6qSr4ysDU/mqdefault.jpg",
-      "published": "2026-09-13T16:30:13Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | RENATO PORTALUPPI VEM AÍ? | REPERCUSSÕES DA DEMISSÃO DE LUÍS CASTRO | FELIPÃO ASSUME",
+      "videoId": "Vh8vS9HyRuc",
+      "url": "https://www.youtube.com/watch?v=Vh8vS9HyRuc",
+      "thumbnail": "https://i.ytimg.com/vi/Vh8vS9HyRuc/mqdefault_live.jpg",
+      "published": "2026-09-13T17:26:49Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "URGENTE: GRÊMIO DEMITE LUÍS CASTRO | FELIPÃO ASSUME | RENATO É CONTATADO PELO GRÊMIO | DIRETO DO CT",
       "videoId": "49xovNCaBn8",
       "url": "https://www.youtube.com/watch?v=49xovNCaBn8",
       "thumbnail": "https://i.ytimg.com/vi/49xovNCaBn8/mqdefault_live.jpg",
       "published": "2026-09-13T11:59:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (1) X (2) VASCO | BRASILEIRÃO 2026 | JORNADA IMORTAL",
-      "videoId": "Gjtrhc_1qtw",
-      "url": "https://www.youtube.com/watch?v=Gjtrhc_1qtw",
-      "thumbnail": "https://i.ytimg.com/vi/Gjtrhc_1qtw/mqdefault.jpg",
-      "published": "2026-09-12T23:38:07Z"
     }
   ]
 }
