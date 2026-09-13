@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:00:39.813661+00:00",
+  "updated_at": "2026-09-13T19:00:42.163366+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵AO VIVO🔵 - CASTRO DEMITIDO!",
       "videoId": "vfNVNblLaWE",
       "url": "https://www.youtube.com/watch?v=vfNVNblLaWE",
-      "thumbnail": "https://i.ytimg.com/vi/vfNVNblLaWE/mqdefault_live.jpg",
-      "published": "2026-09-13T16:27:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/vfNVNblLaWE/mqdefault.jpg",
+      "published": "2026-09-13T18:44:30Z"
     },
     {
       "channel": "Bage TV",
@@ -36,7 +36,7 @@
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "💣DEMISSÕES! CONFIRMADA SAÍDA DE LUÍS CASTRO E DE OUTROS PROFISSIONAIS! REFORMULAÇÃO NO GRÊMIO!",
+      "title": "💣DEMISSÕES! CONFIRMADAS SAÍDAS DE LUÍS CASTRO E DE OUTROS PROFISSIONAIS! REFORMULAÇÃO NO GRÊMIO!",
       "videoId": "Mv3UG-uRLAw",
       "url": "https://www.youtube.com/watch?v=Mv3UG-uRLAw",
       "thumbnail": "https://i.ytimg.com/vi/Mv3UG-uRLAw/mqdefault.jpg",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "A proposta do Grêmio para Renato | Os detalhes da negociação | Os outros dois nomes na lista",
+      "videoId": "lr951gb0-AE",
+      "url": "https://www.youtube.com/watch?v=lr951gb0-AE",
+      "thumbnail": "https://i.ytimg.com/vi/lr951gb0-AE/mqdefault.jpg",
+      "published": "2026-09-13T18:53:01Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Luis Castro demitido | Os três nomes na pauta do Grêmio",
       "videoId": "w5MH7gzCAGY",
       "url": "https://www.youtube.com/watch?v=w5MH7gzCAGY",
       "thumbnail": "https://i.ytimg.com/vi/w5MH7gzCAGY/mqdefault.jpg",
       "published": "2026-09-13T16:34:45Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Reunião no Grêmio | Luis Castro pode cair | Dois nomes surgem nos bastidores",
-      "videoId": "o_JujgHROwc",
-      "url": "https://www.youtube.com/watch?v=o_JujgHROwc",
-      "thumbnail": "https://i.ytimg.com/vi/o_JujgHROwc/mqdefault.jpg",
-      "published": "2026-09-13T01:25:19Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -119,8 +119,8 @@
       "title": "RENATO PORTALUPPI PROCURADO APÓS DEMISSÃO DE LUÍS CASTRO",
       "videoId": "lFenFo6mYyQ",
       "url": "https://www.youtube.com/watch?v=lFenFo6mYyQ",
-      "thumbnail": "https://i.ytimg.com/vi/lFenFo6mYyQ/mqdefault_live.jpg",
-      "published": "2026-09-13T17:52:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/lFenFo6mYyQ/mqdefault.jpg",
+      "published": "2026-09-13T18:10:46Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | RENATO PORTALUPPI VEM AÍ? | REPERCUSSÕES DA DEMISSÃO DE LUÍS CASTRO | FELIPÃO ASSUME",
+      "title": "URGENTE: GRÊMIO DEMITE LUÍS CASTRO | FELIPÃO ASSUME | RENATO É CONTATADO PELO GRÊMIO | DIRETO DO CT",
+      "videoId": "49xovNCaBn8",
+      "url": "https://www.youtube.com/watch?v=49xovNCaBn8",
+      "thumbnail": "https://i.ytimg.com/vi/49xovNCaBn8/mqdefault.jpg",
+      "published": "2026-09-13T18:53:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | RENATO PORTALUPPI VEM AÍ | REPERCUSSÕES DA DEMISSÃO DE LUÍS CASTRO | FELIPÃO ASSUME",
       "videoId": "Vh8vS9HyRuc",
       "url": "https://www.youtube.com/watch?v=Vh8vS9HyRuc",
       "thumbnail": "https://i.ytimg.com/vi/Vh8vS9HyRuc/mqdefault_live.jpg",
       "published": "2026-09-13T17:26:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "URGENTE: GRÊMIO DEMITE LUÍS CASTRO | FELIPÃO ASSUME | RENATO É CONTATADO PELO GRÊMIO | DIRETO DO CT",
-      "videoId": "49xovNCaBn8",
-      "url": "https://www.youtube.com/watch?v=49xovNCaBn8",
-      "thumbnail": "https://i.ytimg.com/vi/49xovNCaBn8/mqdefault_live.jpg",
-      "published": "2026-09-13T11:59:18Z"
     }
   ]
 }
