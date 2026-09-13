@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-13T09:00:38.034231+00:00",
+  "updated_at": "2026-09-13T10:00:53.163713+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ DIário do Inter: 🔥 VEJA O QUE ELE DISSE | DESABAFOU SOBRE TUDO | “AINDA ESTOU DEVENDO”",
+      "videoId": "u0y3rLeGqhM",
+      "url": "https://www.youtube.com/watch?v=u0y3rLeGqhM",
+      "thumbnail": "https://i.ytimg.com/vi/u0y3rLeGqhM/mqdefault.jpg",
+      "published": "2026-09-13T09:15:42Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: CASTRO POR UM FIO! Direção avalia demissão e Renato e Roger viram opções",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=vnVWGufFYYc",
       "thumbnail": "https://i.ytimg.com/vi/vnVWGufFYYc/mqdefault.jpg",
       "published": "2026-09-13T06:00:35Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: PÓS RODADA DE GRÊMIO E INTER NESTE SABADÃO DE LIVE",
-      "videoId": "lGgOjsIrvtA",
-      "url": "https://www.youtube.com/watch?v=lGgOjsIrvtA",
-      "thumbnail": "https://i.ytimg.com/vi/lGgOjsIrvtA/mqdefault.jpg",
-      "published": "2026-09-13T01:37:01Z"
     },
     {
       "channel": "Bage TV",
