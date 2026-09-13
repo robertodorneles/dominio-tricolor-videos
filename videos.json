@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-13T17:00:40.708371+00:00",
+  "updated_at": "2026-09-13T17:12:52.893482+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: OS NÚMEROS PEDIDOS POR RENATO A DIREÇÃO | DEMISSÃO DE CASTRO E CONSEQUÊNCIAS",
+      "videoId": "WIWlYnrA10U",
+      "url": "https://www.youtube.com/watch?v=WIWlYnrA10U",
+      "thumbnail": "https://i.ytimg.com/vi/WIWlYnrA10U/mqdefault.jpg",
+      "published": "2026-09-13T17:03:43Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ DIário do Inter: 🔥 VEJA O QUE ELE DISSE | DESABAFOU SOBRE TUDO | “AINDA ESTOU DEVENDO”",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=u0y3rLeGqhM",
       "thumbnail": "https://i.ytimg.com/vi/u0y3rLeGqhM/mqdefault.jpg",
       "published": "2026-09-13T09:15:42Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CASTRO POR UM FIO! Direção avalia demissão e Renato e Roger viram opções",
-      "videoId": "vnVWGufFYYc",
-      "url": "https://www.youtube.com/watch?v=vnVWGufFYYc",
-      "thumbnail": "https://i.ytimg.com/vi/vnVWGufFYYc/mqdefault.jpg",
-      "published": "2026-09-13T06:00:35Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO NEGOCIANDO COM RENATO!!",
+      "videoId": "Xa8DT5_lx6s",
+      "url": "https://www.youtube.com/watch?v=Xa8DT5_lx6s",
+      "thumbnail": "https://i.ytimg.com/vi/Xa8DT5_lx6s/mqdefault.jpg",
+      "published": "2026-09-13T17:03:47Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "LUIS CASTRO CAIU!",
       "videoId": "MtnYlQcob-Y",
       "url": "https://www.youtube.com/watch?v=MtnYlQcob-Y",
       "thumbnail": "https://i.ytimg.com/vi/MtnYlQcob-Y/mqdefault.jpg",
       "published": "2026-09-13T16:10:54Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "PODE CAIR!!! FUTURO DE CASTRO SERÁ DEFINIDO AMANHÃ",
-      "videoId": "vbtgqNKv96k",
-      "url": "https://www.youtube.com/watch?v=vbtgqNKv96k",
-      "thumbnail": "https://i.ytimg.com/vi/vbtgqNKv96k/mqdefault.jpg",
-      "published": "2026-09-13T03:26:53Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CAIU LUIS CASTRO! | FELIPÃO E RENATO! BASTIDORES DA DEMISSÃO | MULTA.",
+      "videoId": "-selNzkNzjg",
+      "url": "https://www.youtube.com/watch?v=-selNzkNzjg",
+      "thumbnail": "https://i.ytimg.com/vi/-selNzkNzjg/mqdefault.jpg",
+      "published": "2026-09-13T17:08:22Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ACABOU! DATA PARA SAIR LUIS CASTRO. #gremio #futebol #brasileirao",
       "videoId": "3cNXo6Bcg8E",
       "url": "https://www.youtube.com/watch?v=3cNXo6Bcg8E",
       "thumbnail": "https://i.ytimg.com/vi/3cNXo6Bcg8E/mqdefault.jpg",
       "published": "2026-09-12T22:59:01Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X VASCO | LIVE PÓS-JOGO | COLETIVA | AO VIVO | BRASILEIRÃO",
-      "videoId": "7zy2etO3yO4",
-      "url": "https://www.youtube.com/watch?v=7zy2etO3yO4",
-      "thumbnail": "https://i.ytimg.com/vi/7zy2etO3yO4/mqdefault.jpg",
-      "published": "2026-09-12T22:45:10Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
