@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-13T00:00:50.293445+00:00",
+  "updated_at": "2026-09-13T01:00:49.209872+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: PÓS RODADA DE GRÊMIO E INTER NESTE SABADÃO DE LIVE",
+      "videoId": "lGgOjsIrvtA",
+      "url": "https://www.youtube.com/watch?v=lGgOjsIrvtA",
+      "thumbnail": "https://i.ytimg.com/vi/lGgOjsIrvtA/mqdefault_live.jpg",
+      "published": "2026-09-13T00:02:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Chape 1x2 Inter: 🔥 VEJA OS GOLS E MELHORES MOMENTOS | VITÓRIA FUNDAMENTAL | ENFIM, APROVEITOU!",
@@ -11,20 +19,12 @@
       "published": "2026-09-12T22:38:46Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio 1x2 Vasco: DERROTA INACEITÁVEL! Time desmorona na Arena",
-      "videoId": "8VSUfZ8Hfbs",
-      "url": "https://www.youtube.com/watch?v=8VSUfZ8Hfbs",
-      "thumbnail": "https://i.ytimg.com/vi/8VSUfZ8Hfbs/mqdefault.jpg",
-      "published": "2026-09-12T21:53:54Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X VASCO DA GAMA",
       "videoId": "h05BcHnrQKw",
       "url": "https://www.youtube.com/watch?v=h05BcHnrQKw",
-      "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault_live.jpg",
-      "published": "2026-09-12T23:58:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault.jpg",
+      "published": "2026-09-13T00:38:32Z"
     },
     {
       "channel": "Bage TV",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨SUBSTITUTO DE LUÍS CASTRO NO GRÊMIO AINDA NÃO FOI ESCOLHIDO | ELE PODE CAIR | A DECISÃO DA DIREÇÃO",
+      "videoId": "_ohLQ0WDlZw",
+      "url": "https://www.youtube.com/watch?v=_ohLQ0WDlZw",
+      "thumbnail": "https://i.ytimg.com/vi/_ohLQ0WDlZw/mqdefault.jpg",
+      "published": "2026-09-13T00:35:51Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨REFORÇO DE ÚLTIMA HORA PRO GRÊMIO? | DECISÃO SOBRE LUÍS CASTRO | FALOU DEMAIS E FOI CASTIGADO",
       "videoId": "czC3UW_Xy1g",
       "url": "https://www.youtube.com/watch?v=czC3UW_Xy1g",
@@ -203,12 +211,12 @@
       "published": "2026-09-11T16:54:28Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨GRÊMIO: R$ 34 MILHÕES EM JOGO | ATRASO NO PAGAMENTO | NOVIDADES NO TIME",
-      "videoId": "oa_OsdXiRwk",
-      "url": "https://www.youtube.com/watch?v=oa_OsdXiRwk",
-      "thumbnail": "https://i.ytimg.com/vi/oa_OsdXiRwk/mqdefault.jpg",
-      "published": "2026-09-10T16:56:50Z"
+      "channel": "Radio Grenal",
+      "title": "COLETIVA DE PAULO PEZZOLANO - TREINADOR DO INTER | CHAPECOENSE 1 X 2 INTER | RÁDIO GRENAL | 12/09/26",
+      "videoId": "Xbwb-U94Hg0",
+      "url": "https://www.youtube.com/watch?v=Xbwb-U94Hg0",
+      "thumbnail": "https://i.ytimg.com/vi/Xbwb-U94Hg0/mqdefault.jpg",
+      "published": "2026-09-13T00:06:48Z"
     },
     {
       "channel": "Radio Grenal",
@@ -219,12 +227,12 @@
       "published": "2026-09-12T23:47:33Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTA COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | GRÊMIO 1 X 2 VASCO | BRASILEIRÃO",
-      "videoId": "902a5E91DqQ",
-      "url": "https://www.youtube.com/watch?v=902a5E91DqQ",
-      "thumbnail": "https://i.ytimg.com/vi/902a5E91DqQ/mqdefault.jpg",
-      "published": "2026-09-12T23:05:40Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO PERDE E LUÍS CASTRO PODE SER DEMITIDO | REUNIÕES DECISIVAS | AO VIVO DIRETO DO CT",
+      "videoId": "49xovNCaBn8",
+      "url": "https://www.youtube.com/watch?v=49xovNCaBn8",
+      "thumbnail": "https://i.ytimg.com/vi/49xovNCaBn8/mqdefault_live.jpg",
+      "published": "2026-09-13T00:24:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Gjtrhc_1qtw",
       "thumbnail": "https://i.ytimg.com/vi/Gjtrhc_1qtw/mqdefault.jpg",
       "published": "2026-09-12T23:38:07Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "LUÍS CASTRO DISCUTE (MAIS UMA VEZ) EM COLETIVA",
-      "videoId": "uWYjNLUIeZA",
-      "url": "https://www.youtube.com/watch?v=uWYjNLUIeZA",
-      "thumbnail": "https://i.ytimg.com/vi/uWYjNLUIeZA/mqdefault.jpg",
-      "published": "2026-09-12T22:33:21Z"
     }
   ]
 }
