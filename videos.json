@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-13T22:00:43.930830+00:00",
+  "updated_at": "2026-09-13T22:50:07.101784+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O MUNDO DO GRÊMIO SEM CASTRO | A VOLTA DE RENATO? ROGER ALTERNATIVA",
+      "videoId": "rovgWWklhlQ",
+      "url": "https://www.youtube.com/watch?v=rovgWWklhlQ",
+      "thumbnail": "https://i.ytimg.com/vi/rovgWWklhlQ/mqdefault_live.jpg",
+      "published": "2026-09-13T21:59:58Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 VEJA O QUE ELE FEZ | TODOS OS LANCES DO GAROTO | MOSTROU QUE DÁ PRA CONFIAR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=zFK2bb-fxs8",
       "thumbnail": "https://i.ytimg.com/vi/zFK2bb-fxs8/mqdefault.jpg",
       "published": "2026-09-13T21:35:16Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: OS NÚMEROS PEDIDOS POR RENATO A DIREÇÃO | DEMISSÃO DE CASTRO E CONSEQUÊNCIAS",
-      "videoId": "WIWlYnrA10U",
-      "url": "https://www.youtube.com/watch?v=WIWlYnrA10U",
-      "thumbnail": "https://i.ytimg.com/vi/WIWlYnrA10U/mqdefault.jpg",
-      "published": "2026-09-13T17:03:43Z"
     },
     {
       "channel": "Bage TV",
@@ -232,7 +232,7 @@
       "videoId": "Vh8vS9HyRuc",
       "url": "https://www.youtube.com/watch?v=Vh8vS9HyRuc",
       "thumbnail": "https://i.ytimg.com/vi/Vh8vS9HyRuc/mqdefault_live.jpg",
-      "published": "2026-09-13T21:00:29Z"
+      "published": "2026-09-13T22:23:24Z"
     },
     {
       "channel": "Radio Imortal",
