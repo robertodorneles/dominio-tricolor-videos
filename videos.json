@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:41:32.534143+00:00",
+  "updated_at": "2026-09-13T00:00:50.293445+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X VASCO DA GAMA",
+      "videoId": "h05BcHnrQKw",
+      "url": "https://www.youtube.com/watch?v=h05BcHnrQKw",
+      "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault_live.jpg",
+      "published": "2026-09-12T23:58:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "POR FAVOR, DEMITAM O CASTRO E SALVEM O GRÊMIO.",
       "videoId": "GAIVjFSTlmo",
       "url": "https://www.youtube.com/watch?v=GAIVjFSTlmo",
       "thumbnail": "https://i.ytimg.com/vi/GAIVjFSTlmo/mqdefault.jpg",
       "published": "2026-09-12T22:21:56Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X VASCO DA GAMA",
-      "videoId": "h05BcHnrQKw",
-      "url": "https://www.youtube.com/watch?v=h05BcHnrQKw",
-      "thumbnail": "https://i.ytimg.com/vi/h05BcHnrQKw/mqdefault_live.jpg",
-      "published": "2026-09-12T12:39:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA CONTURBADA 🇪🇪👀 #gremio #tricolor #luiscastro #entrevistacoletiva #brasileirao",
+      "videoId": "3-FzUme0T6U",
+      "url": "https://www.youtube.com/watch?v=3-FzUme0T6U",
+      "thumbnail": "https://i.ytimg.com/vi/3-FzUme0T6U/mqdefault.jpg",
+      "published": "2026-09-12T23:47:33Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "ENTREVISTA COLETIVA DE LUIS CASTRO - TREINADOR DO GRÊMIO | GRÊMIO 1 X 2 VASCO | BRASILEIRÃO",
       "videoId": "902a5E91DqQ",
       "url": "https://www.youtube.com/watch?v=902a5E91DqQ",
       "thumbnail": "https://i.ytimg.com/vi/902a5E91DqQ/mqdefault.jpg",
       "published": "2026-09-12T23:05:40Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "O TRABALHO É BOM? 🇪🇪 #gremio #tricolor #gremistas #arena #brasileirao",
-      "videoId": "XjZ2It2GxkY",
-      "url": "https://www.youtube.com/watch?v=XjZ2It2GxkY",
-      "thumbnail": "https://i.ytimg.com/vi/XjZ2It2GxkY/mqdefault.jpg",
-      "published": "2026-09-12T22:43:46Z"
     },
     {
       "channel": "Radio Imortal",
