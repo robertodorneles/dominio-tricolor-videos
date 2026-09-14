@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T10:00:35.755998+00:00",
+  "updated_at": "2026-09-14T11:00:43.247852+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ELE SEMPRE SOUBE!",
+      "videoId": "iPWEKNYbVZA",
+      "url": "https://www.youtube.com/watch?v=iPWEKNYbVZA",
+      "thumbnail": "https://i.ytimg.com/vi/iPWEKNYbVZA/mqdefault.jpg",
+      "published": "2026-09-14T10:20:00Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "RENATO ESTÁ DE VOLTA!!!",
       "videoId": "CY7tI5fxzYQ",
       "url": "https://www.youtube.com/watch?v=CY7tI5fxzYQ",
       "thumbnail": "https://i.ytimg.com/vi/CY7tI5fxzYQ/mqdefault.jpg",
       "published": "2026-09-13T23:39:01Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #016 - ELE ESTÁ DE VOLTA!",
-      "videoId": "gHEdvYmYsQQ",
-      "url": "https://www.youtube.com/watch?v=gHEdvYmYsQQ",
-      "thumbnail": "https://i.ytimg.com/vi/gHEdvYmYsQQ/mqdefault_live.jpg",
-      "published": "2026-09-13T21:55:48Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Hospicio - 14/09",
-      "videoId": "j_iJeFdcTMs",
-      "url": "https://www.youtube.com/watch?v=j_iJeFdcTMs",
-      "thumbnail": "https://i.ytimg.com/vi/j_iJeFdcTMs/mqdefault_live.jpg",
-      "published": "2026-09-14T09:21:24Z"
+      "title": "Hospicio - 1809",
+      "videoId": "jBca9JtTYSI",
+      "url": "https://www.youtube.com/watch?v=jBca9JtTYSI",
+      "thumbnail": "https://i.ytimg.com/vi/jBca9JtTYSI/mqdefault_live.jpg",
+      "published": "2026-09-14T10:29:13Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "60+ PODE IR NA ACADEMIA? #dudagarbi #rafaelbarleze #umaaulasobre",
-      "videoId": "qIe95g0w9Ys",
-      "url": "https://www.youtube.com/watch?v=qIe95g0w9Ys",
-      "thumbnail": "https://i.ytimg.com/vi/qIe95g0w9Ys/mqdefault.jpg",
-      "published": "2026-09-13T15:00:28Z"
+      "title": "Hospicio - 17/09",
+      "videoId": "RnX1xR_-Pkg",
+      "url": "https://www.youtube.com/watch?v=RnX1xR_-Pkg",
+      "thumbnail": "https://i.ytimg.com/vi/RnX1xR_-Pkg/mqdefault_live.jpg",
+      "published": "2026-09-14T10:28:07Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Últimas da política direto de Brasília, economia, trânsito e mais | Gaúcha Atualidade | 14/09/2026",
+      "videoId": "FTL-PUIJjrA",
+      "url": "https://www.youtube.com/watch?v=FTL-PUIJjrA",
+      "thumbnail": "https://i.ytimg.com/vi/FTL-PUIJjrA/mqdefault_live.jpg",
+      "published": "2026-09-14T10:56:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Timeline | 14/09/2026",
       "videoId": "7DNiF3XYGwY",
       "url": "https://www.youtube.com/watch?v=7DNiF3XYGwY",
       "thumbnail": "https://i.ytimg.com/vi/7DNiF3XYGwY/mqdefault_live.jpg",
       "published": "2026-09-14T08:28:10Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 14/09/2026",
-      "videoId": "FTL-PUIJjrA",
-      "url": "https://www.youtube.com/watch?v=FTL-PUIJjrA",
-      "thumbnail": "https://i.ytimg.com/vi/FTL-PUIJjrA/mqdefault_live.jpg",
-      "published": "2026-09-14T08:27:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 14/09/2026",
+      "videoId": "aW9XI4DlmkI",
+      "url": "https://www.youtube.com/watch?v=aW9XI4DlmkI",
+      "thumbnail": "https://i.ytimg.com/vi/aW9XI4DlmkI/mqdefault_live.jpg",
+      "published": "2026-09-14T10:20:12Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "13/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Utp7uh2R6oI",
       "url": "https://www.youtube.com/watch?v=Utp7uh2R6oI",
@@ -219,12 +227,12 @@
       "published": "2026-09-13T19:19:36Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "12/09/2026 | JOGO COMPLETO | GRÊMIO 1X2 VASCO | CHAPECOENSE 1X2 INTER | CAMPEONATO BRASILEIRO",
-      "videoId": "HC44nKjQEZ0",
-      "url": "https://www.youtube.com/watch?v=HC44nKjQEZ0",
-      "thumbnail": "https://i.ytimg.com/vi/HC44nKjQEZ0/mqdefault.jpg",
-      "published": "2026-09-13T01:31:20Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #21 — RENATO PORTALUPPI ANUNCIADO A QUALQUER MOMENTO NO GRÊMIO",
+      "videoId": "m0pXGPB1TJ4",
+      "url": "https://www.youtube.com/watch?v=m0pXGPB1TJ4",
+      "thumbnail": "https://i.ytimg.com/vi/m0pXGPB1TJ4/mqdefault_live.jpg",
+      "published": "2026-09-14T10:02:00Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=S4m4wy8vNPI",
       "thumbnail": "https://i.ytimg.com/vi/S4m4wy8vNPI/mqdefault.jpg",
       "published": "2026-09-14T00:57:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | RENATO PORTALUPPI VEM AÍ | REPERCUSSÕES DA DEMISSÃO DE LUÍS CASTRO | FELIPÃO ASSUME",
-      "videoId": "Vh8vS9HyRuc",
-      "url": "https://www.youtube.com/watch?v=Vh8vS9HyRuc",
-      "thumbnail": "https://i.ytimg.com/vi/Vh8vS9HyRuc/mqdefault.jpg",
-      "published": "2026-09-13T23:04:05Z"
     }
   ]
 }
