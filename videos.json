@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-14T17:00:44.039245+00:00",
+  "updated_at": "2026-09-14T18:00:51.964590+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: BRUNO CORTEZ E SUA NOVA FASE DENTRO DO CLUBE | COMISSÃO DE ÍDOLOS DA TORCIDA",
+      "videoId": "DQ3RRUNRiGU",
+      "url": "https://www.youtube.com/watch?v=DQ3RRUNRiGU",
+      "thumbnail": "https://i.ytimg.com/vi/DQ3RRUNRiGU/mqdefault.jpg",
+      "published": "2026-09-14T17:55:13Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 VEJA A TRETA | SÚMULA REVELOU TUDO | BOM RESULTADO | MARIPAN CRESCE!",
@@ -11,20 +19,12 @@
       "published": "2026-09-14T06:20:30Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO ESTÁ DE VOLTA! Bastidores revelam o que derrubou Luís Castro",
-      "videoId": "5ukd3C3L6a4",
-      "url": "https://www.youtube.com/watch?v=5ukd3C3L6a4",
-      "thumbnail": "https://i.ytimg.com/vi/5ukd3C3L6a4/mqdefault.jpg",
-      "published": "2026-09-14T05:00:19Z"
-    },
-    {
       "channel": "Bage TV",
-      "title": "📰BAGÉTV NEWS #035",
-      "videoId": "hhe3PgY2YbU",
-      "url": "https://www.youtube.com/watch?v=hhe3PgY2YbU",
-      "thumbnail": "https://i.ytimg.com/vi/hhe3PgY2YbU/mqdefault_live.jpg",
-      "published": "2026-09-14T16:58:15Z"
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 16/09 - #635",
+      "videoId": "aCu8r7Cxd3s",
+      "url": "https://www.youtube.com/watch?v=aCu8r7Cxd3s",
+      "thumbnail": "https://i.ytimg.com/vi/aCu8r7Cxd3s/mqdefault_live.jpg",
+      "published": "2026-09-14T17:59:26Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "FMU-fje4pBM",
       "url": "https://www.youtube.com/watch?v=FMU-fje4pBM",
       "thumbnail": "https://i.ytimg.com/vi/FMU-fje4pBM/mqdefault_live.jpg",
-      "published": "2026-09-14T16:11:36Z"
+      "published": "2026-09-14T17:17:41Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "O que a Renato Portaluppi me falou após o acerto com o Grêmio",
+      "videoId": "lINtWJPQt18",
+      "url": "https://www.youtube.com/watch?v=lINtWJPQt18",
+      "thumbnail": "https://i.ytimg.com/vi/lINtWJPQt18/mqdefault.jpg",
+      "published": "2026-09-14T17:23:51Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "⚠️ Grêmio acerta contratação de Renato | Veja detalhes do acerto",
       "videoId": "ztBkFG_3Gls",
       "url": "https://www.youtube.com/watch?v=ztBkFG_3Gls",
       "thumbnail": "https://i.ytimg.com/vi/ztBkFG_3Gls/mqdefault.jpg",
       "published": "2026-09-13T23:11:54Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "A proposta do Grêmio para Renato | Os detalhes da negociação | Os outros dois nomes na lista",
-      "videoId": "lr951gb0-AE",
-      "url": "https://www.youtube.com/watch?v=lr951gb0-AE",
-      "thumbnail": "https://i.ytimg.com/vi/lr951gb0-AE/mqdefault.jpg",
-      "published": "2026-09-13T18:53:01Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 14/09/2026",
+      "title": "Crise no STF, duplicação de trecho da BR-290, greve na Caixa e nos Correios e + | Gaúcha+ | 14/09/26",
       "videoId": "OBwzp0zj4oU",
       "url": "https://www.youtube.com/watch?v=OBwzp0zj4oU",
       "thumbnail": "https://i.ytimg.com/vi/OBwzp0zj4oU/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "RENATO DE VOLTA AO GRÊMIO: O QUE ESPERAR? | PLANEJAMENTO DEFINIDO COM FELIPÃO | IMORTAL FC",
+      "videoId": "P-MrIfSjI7g",
+      "url": "https://www.youtube.com/watch?v=P-MrIfSjI7g",
+      "thumbnail": "https://i.ytimg.com/vi/P-MrIfSjI7g/mqdefault_live.jpg",
+      "published": "2026-09-14T17:44:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #154 — FELIPÃO COMANDA TREINO | RENATO CHEGA QUANDO?",
       "videoId": "IxthaJaInVQ",
       "url": "https://www.youtube.com/watch?v=IxthaJaInVQ",
       "thumbnail": "https://i.ytimg.com/vi/IxthaJaInVQ/mqdefault.jpg",
       "published": "2026-09-14T15:38:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "MAESTRO DOUGLAS FALA SOBRE O RETORNO DE RENATO PORTALUPPI AO GRÊMIO",
-      "videoId": "V54qApCckAA",
-      "url": "https://www.youtube.com/watch?v=V54qApCckAA",
-      "thumbnail": "https://i.ytimg.com/vi/V54qApCckAA/mqdefault.jpg",
-      "published": "2026-09-14T15:01:54Z"
     }
   ]
 }
