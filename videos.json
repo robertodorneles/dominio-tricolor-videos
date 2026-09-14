@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-14T21:00:53.713706+00:00",
+  "updated_at": "2026-09-14T22:00:43.324017+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter: 💰 REFORÇOS, CT E POLÍTICA | BILIONÁRIO VIRA PLAYER FUNDAMENTAL | CHEGOU PARA MUDAR O JOGO!",
+      "videoId": "g45Bo0tyqCk",
+      "url": "https://www.youtube.com/watch?v=g45Bo0tyqCk",
+      "thumbnail": "https://i.ytimg.com/vi/g45Bo0tyqCk/mqdefault.jpg",
+      "published": "2026-09-14T21:03:52Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: BRUNO CORTEZ E SUA NOVA FASE DENTRO DO CLUBE | COMISSÃO DE ÍDOLOS DA TORCIDA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=DQ3RRUNRiGU",
       "thumbnail": "https://i.ytimg.com/vi/DQ3RRUNRiGU/mqdefault.jpg",
       "published": "2026-09-14T17:55:13Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 VEJA A TRETA | SÚMULA REVELOU TUDO | BOM RESULTADO | MARIPAN CRESCE!",
-      "videoId": "KxehjVgPUs4",
-      "url": "https://www.youtube.com/watch?v=KxehjVgPUs4",
-      "thumbnail": "https://i.ytimg.com/vi/KxehjVgPUs4/mqdefault.jpg",
-      "published": "2026-09-14T06:20:30Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 14.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "j_iJeFdcTMs",
-      "url": "https://www.youtube.com/watch?v=j_iJeFdcTMs",
-      "thumbnail": "https://i.ytimg.com/vi/j_iJeFdcTMs/mqdefault.jpg",
-      "published": "2026-09-14T13:06:34Z"
+      "title": "UM ASSADO PARA... JACOB PETRY [FILÓSOFO e ESCRITOR] | #410",
+      "videoId": "m9xhaiDgcHU",
+      "url": "https://www.youtube.com/watch?v=m9xhaiDgcHU",
+      "thumbnail": "https://i.ytimg.com/vi/m9xhaiDgcHU/mqdefault.jpg",
+      "published": "2026-09-14T22:00:06Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "Hospicio - 18/09",
-      "videoId": "jBca9JtTYSI",
-      "url": "https://www.youtube.com/watch?v=jBca9JtTYSI",
-      "thumbnail": "https://i.ytimg.com/vi/jBca9JtTYSI/mqdefault_live.jpg",
-      "published": "2026-09-14T10:29:13Z"
+      "title": "SE FALAR ISSO VAI SER CANCELADO? #dudagarbi #umassadopara",
+      "videoId": "fxgm2SZGqxk",
+      "url": "https://www.youtube.com/watch?v=fxgm2SZGqxk",
+      "thumbnail": "https://i.ytimg.com/vi/fxgm2SZGqxk/mqdefault.jpg",
+      "published": "2026-09-14T15:00:21Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "REAPRESENTAÇÃO: entrevista com José Falero, escritor gaúcho | Conversas Cruzadas",
-      "videoId": "buRmkoTpf8g",
-      "url": "https://www.youtube.com/watch?v=buRmkoTpf8g",
-      "thumbnail": "https://i.ytimg.com/vi/buRmkoTpf8g/mqdefault.jpg",
-      "published": "2026-09-14T20:30:10Z"
+      "title": "Começaram os ataques na disputa pelo governo do RS? 🤔",
+      "videoId": "BSRXq_ZMFGY",
+      "url": "https://www.youtube.com/watch?v=BSRXq_ZMFGY",
+      "thumbnail": "https://i.ytimg.com/vi/BSRXq_ZMFGY/mqdefault.jpg",
+      "published": "2026-09-14T21:58:16Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Perdido no Caso Master e na crise do STF? Gabriel Wainer explica | Zero Hora",
-      "videoId": "EQro8fcaKh0",
-      "url": "https://www.youtube.com/watch?v=EQro8fcaKh0",
-      "thumbnail": "https://i.ytimg.com/vi/EQro8fcaKh0/mqdefault.jpg",
-      "published": "2026-09-14T20:25:52Z"
+      "title": "| Gaúcha Atualidade | 15/09/2026",
+      "videoId": "m03ifVfEmjY",
+      "url": "https://www.youtube.com/watch?v=m03ifVfEmjY",
+      "thumbnail": "https://i.ytimg.com/vi/m03ifVfEmjY/mqdefault_live.jpg",
+      "published": "2026-09-14T21:21:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 14/09/2026",
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 14/09/2026",
       "videoId": "aW9XI4DlmkI",
       "url": "https://www.youtube.com/watch?v=aW9XI4DlmkI",
       "thumbnail": "https://i.ytimg.com/vi/aW9XI4DlmkI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "RENATO DE VOLTA AO GRÊMIO: O QUE ESPERAR? | PLANEJAMENTO DEFINIDO COM FELIPÃO | IMORTAL FC",
+      "videoId": "P-MrIfSjI7g",
+      "url": "https://www.youtube.com/watch?v=P-MrIfSjI7g",
+      "thumbnail": "https://i.ytimg.com/vi/P-MrIfSjI7g/mqdefault_live.jpg",
+      "published": "2026-09-14T21:03:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "FILIPE KUNRATH SOBRE O MOMENTO DO GRÊMIO E A VOLTA DE RENATO PORTALUPPI",
       "videoId": "R3k6ijnBvBs",
       "url": "https://www.youtube.com/watch?v=R3k6ijnBvBs",
       "thumbnail": "https://i.ytimg.com/vi/R3k6ijnBvBs/mqdefault.jpg",
       "published": "2026-09-14T20:36:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO É ANUNCIADO PELO GRÊMIO | ELENCO FAZ TREINO COM FELIPÃO E COMISSÃO INTERINA | ESPLANADA",
-      "videoId": "YriYIDr2W1I",
-      "url": "https://www.youtube.com/watch?v=YriYIDr2W1I",
-      "thumbnail": "https://i.ytimg.com/vi/YriYIDr2W1I/mqdefault.jpg",
-      "published": "2026-09-14T19:39:14Z"
     }
   ]
 }
