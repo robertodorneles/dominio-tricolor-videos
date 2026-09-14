@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:00:52.116323+00:00",
+  "updated_at": "2026-09-14T15:37:01.382939+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #12",
+      "videoId": "FMU-fje4pBM",
+      "url": "https://www.youtube.com/watch?v=FMU-fje4pBM",
+      "thumbnail": "https://i.ytimg.com/vi/FMU-fje4pBM/mqdefault_live.jpg",
+      "published": "2026-09-14T15:24:54Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "A ESPERANÇA DO GRÊMIO, O PAI DELES! RENATO ESTÁ DE VOLTA! - VAMO FARIDO 14/09/2026",
       "videoId": "speE7OtKfVM",
       "url": "https://www.youtube.com/watch?v=speE7OtKfVM",
       "thumbnail": "https://i.ytimg.com/vi/speE7OtKfVM/mqdefault_live.jpg",
       "published": "2026-09-14T14:57:09Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #017",
-      "videoId": "ygFTf4NY4Es",
-      "url": "https://www.youtube.com/watch?v=ygFTf4NY4Es",
-      "thumbnail": "https://i.ytimg.com/vi/ygFTf4NY4Es/mqdefault_live.jpg",
-      "published": "2026-09-14T13:30:02Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha+ | 14/09/2026",
+      "videoId": "OBwzp0zj4oU",
+      "url": "https://www.youtube.com/watch?v=OBwzp0zj4oU",
+      "thumbnail": "https://i.ytimg.com/vi/OBwzp0zj4oU/mqdefault_live.jpg",
+      "published": "2026-09-14T15:31:40Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Esteio: conheça a história do município com o menor território do RS | Aconteceu no RS",
       "videoId": "0aedeKQREJs",
       "url": "https://www.youtube.com/watch?v=0aedeKQREJs",
       "thumbnail": "https://i.ytimg.com/vi/0aedeKQREJs/mqdefault.jpg",
       "published": "2026-09-14T14:55:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Crise no STF, novidades sobre caso Master e mais | Timeline | 14/09/2026",
-      "videoId": "7DNiF3XYGwY",
-      "url": "https://www.youtube.com/watch?v=7DNiF3XYGwY",
-      "thumbnail": "https://i.ytimg.com/vi/7DNiF3XYGwY/mqdefault.jpg",
-      "published": "2026-09-14T14:07:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "EDILSON FELIZ COM A VOLTA DE RENATO PORTALUPPI AO GRÊMIO!",
-      "videoId": "aT6JmX2FrC4",
-      "url": "https://www.youtube.com/watch?v=aT6JmX2FrC4",
-      "thumbnail": "https://i.ytimg.com/vi/aT6JmX2FrC4/mqdefault.jpg",
-      "published": "2026-09-14T14:47:42Z"
+      "title": "MAESTRO DOUGLAS FALA SOBRE O RETORNO DE RENATO PORTALUPPI AO GRÊMIO",
+      "videoId": "V54qApCckAA",
+      "url": "https://www.youtube.com/watch?v=V54qApCckAA",
+      "thumbnail": "https://i.ytimg.com/vi/V54qApCckAA/mqdefault.jpg",
+      "published": "2026-09-14T15:01:54Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "IxthaJaInVQ",
       "url": "https://www.youtube.com/watch?v=IxthaJaInVQ",
       "thumbnail": "https://i.ytimg.com/vi/IxthaJaInVQ/mqdefault_live.jpg",
-      "published": "2026-09-14T14:08:54Z"
+      "published": "2026-09-14T15:01:06Z"
     }
   ]
 }
