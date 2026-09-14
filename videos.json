@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:37:01.382939+00:00",
+  "updated_at": "2026-09-14T16:00:41.845699+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "RENATO VOLTOU - BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #066",
       "videoId": "uBSuaUEsGBE",
       "url": "https://www.youtube.com/watch?v=uBSuaUEsGBE",
-      "thumbnail": "https://i.ytimg.com/vi/uBSuaUEsGBE/mqdefault_live.jpg",
-      "published": "2026-09-14T14:53:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/uBSuaUEsGBE/mqdefault.jpg",
+      "published": "2026-09-14T15:52:23Z"
     },
     {
       "channel": "Bage TV",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 14/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE:PRORROGAÇÃO | RÁDIO GRENAL | 14/09/2026",
       "videoId": "aW9XI4DlmkI",
       "url": "https://www.youtube.com/watch?v=aW9XI4DlmkI",
       "thumbnail": "https://i.ytimg.com/vi/aW9XI4DlmkI/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #154 — FELIPÃO COMANDA TREINO | RENATO CHEGA QUANDO?",
+      "videoId": "IxthaJaInVQ",
+      "url": "https://www.youtube.com/watch?v=IxthaJaInVQ",
+      "thumbnail": "https://i.ytimg.com/vi/IxthaJaInVQ/mqdefault.jpg",
+      "published": "2026-09-14T15:38:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "MAESTRO DOUGLAS FALA SOBRE O RETORNO DE RENATO PORTALUPPI AO GRÊMIO",
       "videoId": "V54qApCckAA",
       "url": "https://www.youtube.com/watch?v=V54qApCckAA",
       "thumbnail": "https://i.ytimg.com/vi/V54qApCckAA/mqdefault.jpg",
       "published": "2026-09-14T15:01:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #154 — FELIPÃO COMANDA TREINO | RENATO CHEGA QUANDO?",
-      "videoId": "IxthaJaInVQ",
-      "url": "https://www.youtube.com/watch?v=IxthaJaInVQ",
-      "thumbnail": "https://i.ytimg.com/vi/IxthaJaInVQ/mqdefault_live.jpg",
-      "published": "2026-09-14T15:01:06Z"
     }
   ]
 }
