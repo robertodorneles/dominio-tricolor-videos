@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:00:40.460022+00:00",
+  "updated_at": "2026-09-15T11:00:38.304052+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "STF decide se autoriza investigação contra Moraes, trânsito e mais | Gaúcha Atualidade | 15/09/2026",
+      "videoId": "m03ifVfEmjY",
+      "url": "https://www.youtube.com/watch?v=m03ifVfEmjY",
+      "thumbnail": "https://i.ytimg.com/vi/m03ifVfEmjY/mqdefault_live.jpg",
+      "published": "2026-09-15T10:56:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Crise no STF, duplicação de trecho da BR-290, greve na Caixa e nos Correios e + | Gaúcha+ | 14/09/26",
       "videoId": "OBwzp0zj4oU",
       "url": "https://www.youtube.com/watch?v=OBwzp0zj4oU",
       "thumbnail": "https://i.ytimg.com/vi/OBwzp0zj4oU/mqdefault.jpg",
       "published": "2026-09-15T07:34:42Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Começaram os ataques na disputa pelo governo do RS? 🤔",
-      "videoId": "BSRXq_ZMFGY",
-      "url": "https://www.youtube.com/watch?v=BSRXq_ZMFGY",
-      "thumbnail": "https://i.ytimg.com/vi/BSRXq_ZMFGY/mqdefault.jpg",
-      "published": "2026-09-14T21:58:16Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 14/09/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 15/09/2026",
       "videoId": "X8cC1KtOwSA",
       "url": "https://www.youtube.com/watch?v=X8cC1KtOwSA",
       "thumbnail": "https://i.ytimg.com/vi/X8cC1KtOwSA/mqdefault_live.jpg",
       "published": "2026-09-14T23:01:49Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #22 — 123 ANOS DE GRÊMIO! | O ENCONTRO COM RENATO NESTA TERÇA-FEIRA",
+      "videoId": "UpBLoB7cAeY",
+      "url": "https://www.youtube.com/watch?v=UpBLoB7cAeY",
+      "thumbnail": "https://i.ytimg.com/vi/UpBLoB7cAeY/mqdefault_live.jpg",
+      "published": "2026-09-15T10:02:56Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=h2FJXfAxE6U",
       "thumbnail": "https://i.ytimg.com/vi/h2FJXfAxE6U/mqdefault.jpg",
       "published": "2026-09-15T01:39:51Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #155 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM AO RIO DE JANEIRO",
-      "videoId": "NF4SokCRan8",
-      "url": "https://www.youtube.com/watch?v=NF4SokCRan8",
-      "thumbnail": "https://i.ytimg.com/vi/NF4SokCRan8/mqdefault_live.jpg",
-      "published": "2026-09-14T23:29:38Z"
     }
   ]
 }
