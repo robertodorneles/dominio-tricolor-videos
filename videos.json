@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T18:41:05.866105+00:00",
+  "updated_at": "2026-09-15T19:00:40.676202+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Ele tem dinheiro.",
-      "videoId": "EiEg2RUTI7E",
-      "url": "https://www.youtube.com/watch?v=EiEg2RUTI7E",
-      "thumbnail": "https://i.ytimg.com/vi/EiEg2RUTI7E/mqdefault.jpg",
-      "published": "2026-09-15T18:38:56Z"
+      "title": "Deixem o Renato chegar.",
+      "videoId": "imyLuoBE4cw",
+      "url": "https://www.youtube.com/watch?v=imyLuoBE4cw",
+      "thumbnail": "https://i.ytimg.com/vi/imyLuoBE4cw/mqdefault.jpg",
+      "published": "2026-09-15T18:44:15Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🇪🇪🚎🛫 O GRÊMIO EMBARCA PARA O RIO DE JANEIRO",
+      "videoId": "s_aqmMoRbo0",
+      "url": "https://www.youtube.com/watch?v=s_aqmMoRbo0",
+      "thumbnail": "https://i.ytimg.com/vi/s_aqmMoRbo0/mqdefault.jpg",
+      "published": "2026-09-15T18:49:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO - GRÊMIO A CAMINHO DO RIO DE JANEIRO | OS RELACIONADOS PARA O JOGO CONTRA O BOTAFOGO",
       "videoId": "756WgSxtAZQ",
       "url": "https://www.youtube.com/watch?v=756WgSxtAZQ",
       "thumbnail": "https://i.ytimg.com/vi/756WgSxtAZQ/mqdefault_live.jpg",
       "published": "2026-09-15T18:31:02Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO BOTAFOGO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO ENGENHÃO",
-      "videoId": "ZSFNSDI-x1A",
-      "url": "https://www.youtube.com/watch?v=ZSFNSDI-x1A",
-      "thumbnail": "https://i.ytimg.com/vi/ZSFNSDI-x1A/mqdefault_live.jpg",
-      "published": "2026-09-15T17:17:29Z"
     }
   ]
 }
