@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:00:47.815092+00:00",
+  "updated_at": "2026-09-15T14:00:39.503674+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵AO VIVO🔵 - CHEGADA DO GRÊMIO [DIRETO DO RIO DE JANEIRO-RJ]",
-      "videoId": "-aVa3mvK-mc",
-      "url": "https://www.youtube.com/watch?v=-aVa3mvK-mc",
-      "thumbnail": "https://i.ytimg.com/vi/-aVa3mvK-mc/mqdefault_live.jpg",
-      "published": "2026-09-15T12:56:53Z"
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #067",
+      "videoId": "xz04I51tYAA",
+      "url": "https://www.youtube.com/watch?v=xz04I51tYAA",
+      "thumbnail": "https://i.ytimg.com/vi/xz04I51tYAA/mqdefault_live.jpg",
+      "published": "2026-09-15T13:39:11Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,7 @@
       "videoId": "cJhpFNdj9PU",
       "url": "https://www.youtube.com/watch?v=cJhpFNdj9PU",
       "thumbnail": "https://i.ytimg.com/vi/cJhpFNdj9PU/mqdefault_live.jpg",
-      "published": "2026-09-15T12:00:07Z"
+      "published": "2026-09-15T13:32:32Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PÓS-JOGO: BOTAFOGO X GRÊMIO",
+      "videoId": "CSCxHHsqboY",
+      "url": "https://www.youtube.com/watch?v=CSCxHHsqboY",
+      "thumbnail": "https://i.ytimg.com/vi/CSCxHHsqboY/mqdefault_live.jpg",
+      "published": "2026-09-15T13:04:48Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O jogo é de grande risco e o Grêmio precisa de Renato e Felipão",
       "videoId": "P5hCsSQUOPI",
       "url": "https://www.youtube.com/watch?v=P5hCsSQUOPI",
       "thumbnail": "https://i.ytimg.com/vi/P5hCsSQUOPI/mqdefault.jpg",
       "published": "2026-09-15T12:04:35Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - RENATO ESTÁ DE VOLTA PARA SALVAR O GRÊMIO",
-      "videoId": "7-nfy9sOSIQ",
-      "url": "https://www.youtube.com/watch?v=7-nfy9sOSIQ",
-      "thumbnail": "https://i.ytimg.com/vi/7-nfy9sOSIQ/mqdefault.jpg",
-      "published": "2026-09-15T01:13:09Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO TEM PRESSA! #gremio #futebol",
+      "videoId": "kjcLrL50T4k",
+      "url": "https://www.youtube.com/watch?v=kjcLrL50T4k",
+      "thumbnail": "https://i.ytimg.com/vi/kjcLrL50T4k/mqdefault.jpg",
+      "published": "2026-09-15T13:55:42Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VAZAM PROBLEMAS | RENATO JÁ COMEÇA AGIR NO GRÊMIO.",
       "videoId": "eEGMiOY1TPo",
       "url": "https://www.youtube.com/watch?v=eEGMiOY1TPo",
       "thumbnail": "https://i.ytimg.com/vi/eEGMiOY1TPo/mqdefault.jpg",
       "published": "2026-09-14T22:10:43Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "OFICIAL! RENATO É DO GRÊMIO! CONTRATO ATÉ DEZEMBRO. #grêmio #futebol",
-      "videoId": "yE1SuECVSWY",
-      "url": "https://www.youtube.com/watch?v=yE1SuECVSWY",
-      "thumbnail": "https://i.ytimg.com/vi/yE1SuECVSWY/mqdefault.jpg",
-      "published": "2026-09-14T18:06:27Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -135,8 +135,8 @@
       "title": "HOSPÍCIO | 15.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "7Hcfhc3btTo",
       "url": "https://www.youtube.com/watch?v=7Hcfhc3btTo",
-      "thumbnail": "https://i.ytimg.com/vi/7Hcfhc3btTo/mqdefault_live.jpg",
-      "published": "2026-09-15T12:00:43Z"
+      "thumbnail": "https://i.ytimg.com/vi/7Hcfhc3btTo/mqdefault.jpg",
+      "published": "2026-09-15T13:08:27Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Marcelo Peruchin analisa sessão do STF sobre Alexandre de Moraes e Banco Master |",
-      "videoId": "h9vkcyu4P60",
-      "url": "https://www.youtube.com/watch?v=h9vkcyu4P60",
-      "thumbnail": "https://i.ytimg.com/vi/h9vkcyu4P60/mqdefault.jpg",
-      "published": "2026-09-15T12:33:36Z"
+      "title": "FILHOTES CAEM EM BUEIRO e mobilizam Corpo de Bombeiros em Passo Fundo",
+      "videoId": "vSF-QVG6T7M",
+      "url": "https://www.youtube.com/watch?v=vSF-QVG6T7M",
+      "thumbnail": "https://i.ytimg.com/vi/vSF-QVG6T7M/mqdefault.jpg",
+      "published": "2026-09-15T14:00:23Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "STF decide se autoriza investigação contra Moraes, trânsito e mais | Gaúcha Atualidade | 15/09/2026",
-      "videoId": "m03ifVfEmjY",
-      "url": "https://www.youtube.com/watch?v=m03ifVfEmjY",
-      "thumbnail": "https://i.ytimg.com/vi/m03ifVfEmjY/mqdefault_live.jpg",
-      "published": "2026-09-15T10:56:03Z"
+      "title": "STF AO VIVO: sessão extraordinária sobre mensagens de Vorcaro a Moraes | 15/09/2026",
+      "videoId": "KettqjkprlA",
+      "url": "https://www.youtube.com/watch?v=KettqjkprlA",
+      "thumbnail": "https://i.ytimg.com/vi/KettqjkprlA/mqdefault_live.jpg",
+      "published": "2026-09-15T13:36:56Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "GRÊMIO ATENDE PEDIDO DO RENATO: Cortez, Felipão, estreia, relação com Pelaipe",
+      "videoId": "a8t6YXmxfls",
+      "url": "https://www.youtube.com/watch?v=a8t6YXmxfls",
+      "thumbnail": "https://i.ytimg.com/vi/a8t6YXmxfls/mqdefault.jpg",
+      "published": "2026-09-15T13:44:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=Ia85TqVMIyc",
       "thumbnail": "https://i.ytimg.com/vi/Ia85TqVMIyc/mqdefault.jpg",
       "published": "2026-09-15T12:18:07Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GRÊMIO E INTER NO MEIO DO FURACÃO: As contas para fugir o rebaixamento foram atualizadas",
-      "videoId": "K8WUiILzB8E",
-      "url": "https://www.youtube.com/watch?v=K8WUiILzB8E",
-      "thumbnail": "https://i.ytimg.com/vi/K8WUiILzB8E/mqdefault.jpg",
-      "published": "2026-09-15T01:15:32Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #22 — 123 ANOS DE GRÊMIO! | O ENCONTRO COM RENATO NESTA TERÇA-FEIRA",
-      "videoId": "UpBLoB7cAeY",
-      "url": "https://www.youtube.com/watch?v=UpBLoB7cAeY",
-      "thumbnail": "https://i.ytimg.com/vi/UpBLoB7cAeY/mqdefault.jpg",
-      "published": "2026-09-15T12:44:39Z"
+      "title": "ESPLANADA — 15/09",
+      "videoId": "756WgSxtAZQ",
+      "url": "https://www.youtube.com/watch?v=756WgSxtAZQ",
+      "thumbnail": "https://i.ytimg.com/vi/756WgSxtAZQ/mqdefault_live.jpg",
+      "published": "2026-09-15T12:58:29Z"
     },
     {
       "channel": "Radio Imortal",
