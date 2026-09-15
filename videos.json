@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:08:06.527810+00:00",
+  "updated_at": "2026-09-15T15:00:39.750894+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "xz04I51tYAA",
       "url": "https://www.youtube.com/watch?v=xz04I51tYAA",
       "thumbnail": "https://i.ytimg.com/vi/xz04I51tYAA/mqdefault_live.jpg",
-      "published": "2026-09-15T13:39:11Z"
+      "published": "2026-09-15T14:52:09Z"
     },
     {
       "channel": "Bage TV",
       "title": "123 ANOS DE #GRÊMIO COM RENATO VOLTANDO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/09 - #634",
       "videoId": "cJhpFNdj9PU",
       "url": "https://www.youtube.com/watch?v=cJhpFNdj9PU",
-      "thumbnail": "https://i.ytimg.com/vi/cJhpFNdj9PU/mqdefault_live.jpg",
-      "published": "2026-09-15T13:32:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/cJhpFNdj9PU/mqdefault.jpg",
+      "published": "2026-09-15T14:18:02Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO ACERTA CONTRATAÇÃO! RENATO INDICOU O NOME! REESTRUTURAÇÃO | NOVO TIME PRA QUARTA?",
+      "videoId": "eig3mZnTZgE",
+      "url": "https://www.youtube.com/watch?v=eig3mZnTZgE",
+      "thumbnail": "https://i.ytimg.com/vi/eig3mZnTZgE/mqdefault.jpg",
+      "published": "2026-09-15T14:56:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=UCbxPKnBdmI",
       "thumbnail": "https://i.ytimg.com/vi/UCbxPKnBdmI/mqdefault.jpg",
       "published": "2026-09-15T00:43:22Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨MAIS UM CAMPEÃO VOLTANDO PRO GRÊMIO | O SALÁRIO DO RENATO | TRIO FORTE NO FUTEBOL DO CLUBE",
-      "videoId": "A975yxxL2QI",
-      "url": "https://www.youtube.com/watch?v=A975yxxL2QI",
-      "thumbnail": "https://i.ytimg.com/vi/A975yxxL2QI/mqdefault.jpg",
-      "published": "2026-09-14T14:22:15Z"
     },
     {
       "channel": "Canal do CCD",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "NOVO PREPARADOR DE GOLEIROS | A PRIMEIRA “CRISE” ENVOLVENDO RENATO: EU NÃO CONCORDO!",
+      "videoId": "9T7EmRC89Jc",
+      "url": "https://www.youtube.com/watch?v=9T7EmRC89Jc",
+      "thumbnail": "https://i.ytimg.com/vi/9T7EmRC89Jc/mqdefault.jpg",
+      "published": "2026-09-15T14:12:17Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "RENATO NO GRÊMIO: SALÁRIO, COMISSÃO TÉCNICA, QUANDO CHEGA?, PREMIAÇÕES, AS PRIMEIRAS MISSÕES E MAIS",
       "videoId": "DJaZhsjFSGI",
       "url": "https://www.youtube.com/watch?v=DJaZhsjFSGI",
       "thumbnail": "https://i.ytimg.com/vi/DJaZhsjFSGI/mqdefault.jpg",
       "published": "2026-09-14T20:43:59Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "RENATO VEM AÍ: ACORDO PRÓXIMO DO ANÚNCIO | DETALHES E BASTIDORES",
-      "videoId": "ZXytsOrvTRA",
-      "url": "https://www.youtube.com/watch?v=ZXytsOrvTRA",
-      "thumbnail": "https://i.ytimg.com/vi/ZXytsOrvTRA/mqdefault.jpg",
-      "published": "2026-09-13T23:08:58Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,15 +164,15 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "FILHOTES CAEM EM BUEIRO e mobilizam Corpo de Bombeiros em Passo Fundo",
-      "videoId": "vSF-QVG6T7M",
-      "url": "https://www.youtube.com/watch?v=vSF-QVG6T7M",
-      "thumbnail": "https://i.ytimg.com/vi/vSF-QVG6T7M/mqdefault.jpg",
-      "published": "2026-09-15T14:00:23Z"
+      "title": "Treinar hoje pode te ajudar a enfrentar uma UTI amanhã? | Tá Tudo bem? | 15/09/2026",
+      "videoId": "XxH2TO0of_I",
+      "url": "https://www.youtube.com/watch?v=XxH2TO0of_I",
+      "thumbnail": "https://i.ytimg.com/vi/XxH2TO0of_I/mqdefault.jpg",
+      "published": "2026-09-15T14:55:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "STF AO VIVO: sessão extraordinária sobre mensagens de Vorcaro a Moraes | 15/09/2026",
+      "title": "STF AO VIVO: STF decide se autoriza investigação contra Moraes por ligação com Vorcaro | 15/09/2026",
       "videoId": "KettqjkprlA",
       "url": "https://www.youtube.com/watch?v=KettqjkprlA",
       "thumbnail": "https://i.ytimg.com/vi/KettqjkprlA/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 15/09",
-      "videoId": "756WgSxtAZQ",
-      "url": "https://www.youtube.com/watch?v=756WgSxtAZQ",
-      "thumbnail": "https://i.ytimg.com/vi/756WgSxtAZQ/mqdefault_live.jpg",
-      "published": "2026-09-15T12:58:29Z"
+      "title": "MAESTRO DOUGLAS RESPONDE SOBRE AS MUDANÇAS QUE RENATO FARÁ NO GRÊMIO!",
+      "videoId": "5ezsyBLlgHY",
+      "url": "https://www.youtube.com/watch?v=5ezsyBLlgHY",
+      "thumbnail": "https://i.ytimg.com/vi/5ezsyBLlgHY/mqdefault.jpg",
+      "published": "2026-09-15T14:47:47Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO AINDA SEM RENATO CONTRA O BOTAFOGO? | COMO É BOM SER DO GRÊMIO #42",
-      "videoId": "wFiOODRMvQg",
-      "url": "https://www.youtube.com/watch?v=wFiOODRMvQg",
-      "thumbnail": "https://i.ytimg.com/vi/wFiOODRMvQg/mqdefault_live.jpg",
-      "published": "2026-09-15T12:34:42Z"
+      "title": "TIMELINE IMORTAL #155 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM AO RIO DE JANEIRO",
+      "videoId": "NF4SokCRan8",
+      "url": "https://www.youtube.com/watch?v=NF4SokCRan8",
+      "thumbnail": "https://i.ytimg.com/vi/NF4SokCRan8/mqdefault_live.jpg",
+      "published": "2026-09-15T14:10:32Z"
     }
   ]
 }
