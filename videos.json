@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T17:00:44.697624+00:00",
+  "updated_at": "2026-09-15T18:00:53.512796+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "7bHOqDNMo-c",
       "url": "https://www.youtube.com/watch?v=7bHOqDNMo-c",
       "thumbnail": "https://i.ytimg.com/vi/7bHOqDNMo-c/mqdefault_live.jpg",
-      "published": "2026-09-15T16:03:44Z"
+      "published": "2026-09-15T17:18:12Z"
     },
     {
       "channel": "Canal do Farid",
@@ -172,7 +172,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "GILMAR MENDES e FUX sobem o tom no debate sobre decisão de MENDONÇA",
+      "title": "GILMAR MENDES e FUX sobem o tom no debate sobre decisão de MENDONÇA, no STF",
       "videoId": "IMDJg27Zj8g",
       "url": "https://www.youtube.com/watch?v=IMDJg27Zj8g",
       "thumbnail": "https://i.ytimg.com/vi/IMDJg27Zj8g/mqdefault.jpg",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 15/09/2026",
+      "title": "15/09/2026 | LIVE COMPLETA - PARTE 1 | RÁDIO GRENAL",
       "videoId": "X8cC1KtOwSA",
       "url": "https://www.youtube.com/watch?v=X8cC1KtOwSA",
       "thumbnail": "https://i.ytimg.com/vi/X8cC1KtOwSA/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO BOTAFOGO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO ENGENHÃO",
+      "videoId": "ZSFNSDI-x1A",
+      "url": "https://www.youtube.com/watch?v=ZSFNSDI-x1A",
+      "thumbnail": "https://i.ytimg.com/vi/ZSFNSDI-x1A/mqdefault_live.jpg",
+      "published": "2026-09-15T17:17:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO AINDA SEM RENATO CONTRA O BOTAFOGO? | COMO É BOM SER DO GRÊMIO #42",
       "videoId": "wFiOODRMvQg",
       "url": "https://www.youtube.com/watch?v=wFiOODRMvQg",
       "thumbnail": "https://i.ytimg.com/vi/wFiOODRMvQg/mqdefault.jpg",
       "published": "2026-09-15T15:33:53Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #155 — GRÊMIO FAZ ÚLTIMO TREINO ANTES DA VIAGEM AO RIO DE JANEIRO",
-      "videoId": "NF4SokCRan8",
-      "url": "https://www.youtube.com/watch?v=NF4SokCRan8",
-      "thumbnail": "https://i.ytimg.com/vi/NF4SokCRan8/mqdefault.jpg",
-      "published": "2026-09-15T15:33:30Z"
     }
   ]
 }
