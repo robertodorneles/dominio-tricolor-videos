@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-16T00:00:31.318278+00:00",
+  "updated_at": "2026-09-16T01:00:39.422455+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: RENATO E FELIPÃO JUNTOS?????  | A ÚLTIMA CARTADA DE PEZZOLANO",
+      "videoId": "RoxbK-8h1nw",
+      "url": "https://www.youtube.com/watch?v=RoxbK-8h1nw",
+      "thumbnail": "https://i.ytimg.com/vi/RoxbK-8h1nw/mqdefault_live.jpg",
+      "published": "2026-09-16T00:46:18Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: QUAL A CHANCE DE DEMISSÃO? | JOGOS DO GRÊMIO INFLUENCIAM | DATA FIFA VEM AÍ",
@@ -11,12 +19,12 @@
       "published": "2026-09-15T20:45:26Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: O NOVO TIME COM A CHEGADA DE RENATO | 4 VAGAS ABERTAS NA ESCALAÇÃO",
-      "videoId": "py4_rwJh_0s",
-      "url": "https://www.youtube.com/watch?v=py4_rwJh_0s",
-      "thumbnail": "https://i.ytimg.com/vi/py4_rwJh_0s/mqdefault.jpg",
-      "published": "2026-09-15T20:00:31Z"
+      "channel": "Bage TV",
+      "title": "FELIPÃO E RENATO VÃO REPETIR A ESCALAÇÃO DE LUÍS CASTRO?🔵 BOA NOITE GRÊMIO #024",
+      "videoId": "2N4e-8QVCh0",
+      "url": "https://www.youtube.com/watch?v=2N4e-8QVCh0",
+      "thumbnail": "https://i.ytimg.com/vi/2N4e-8QVCh0/mqdefault_live.jpg",
+      "published": "2026-09-16T00:34:53Z"
     },
     {
       "channel": "Bage TV",
@@ -24,15 +32,15 @@
       "videoId": "IE6kBoT8AtQ",
       "url": "https://www.youtube.com/watch?v=IE6kBoT8AtQ",
       "thumbnail": "https://i.ytimg.com/vi/IE6kBoT8AtQ/mqdefault_live.jpg",
-      "published": "2026-09-15T23:14:35Z"
+      "published": "2026-09-16T00:34:02Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "CHEGADA DO GRÊMIO DIRETO DO RJ! SONDA AGITA ELEIÇÕES NO INTER E NOITE DE LIBERTA📰BAGÉTV NEWS #036",
-      "videoId": "Aj1G4U8qHSg",
-      "url": "https://www.youtube.com/watch?v=Aj1G4U8qHSg",
-      "thumbnail": "https://i.ytimg.com/vi/Aj1G4U8qHSg/mqdefault.jpg",
-      "published": "2026-09-15T22:04:42Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨VAZOU ATRITO DOS JOGADORES COM LUÍS CASTRO | UMA GRANDE NOTÍCIA NO GRÊMIO | MUDANÇA BOA NO ATAQUE",
+      "videoId": "HilVkcAY8yU",
+      "url": "https://www.youtube.com/watch?v=HilVkcAY8yU",
+      "thumbnail": "https://i.ytimg.com/vi/HilVkcAY8yU/mqdefault.jpg",
+      "published": "2026-09-16T00:19:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=eig3mZnTZgE",
       "thumbnail": "https://i.ytimg.com/vi/eig3mZnTZgE/mqdefault.jpg",
       "published": "2026-09-15T14:56:58Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨O ATACANTE QUE RENATO PEDIU E AGORA TERÁ | FALOU DO MOMENTO E DO ELENCO DO GRÊMIO | PROBLEMA NO RJ",
-      "videoId": "UCbxPKnBdmI",
-      "url": "https://www.youtube.com/watch?v=UCbxPKnBdmI",
-      "thumbnail": "https://i.ytimg.com/vi/UCbxPKnBdmI/mqdefault.jpg",
-      "published": "2026-09-15T00:43:22Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #017 - OS BASTIDORES DO RETORNO DE RENATO",
+      "videoId": "ygFTf4NY4Es",
+      "url": "https://www.youtube.com/watch?v=ygFTf4NY4Es",
+      "thumbnail": "https://i.ytimg.com/vi/ygFTf4NY4Es/mqdefault.jpg",
+      "published": "2026-09-16T00:54:53Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 15/09/2026",
       "videoId": "An9xPrSLW5o",
       "url": "https://www.youtube.com/watch?v=An9xPrSLW5o",
       "thumbnail": "https://i.ytimg.com/vi/An9xPrSLW5o/mqdefault_live.jpg",
       "published": "2026-09-15T23:03:02Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #13",
-      "videoId": "7bHOqDNMo-c",
-      "url": "https://www.youtube.com/watch?v=7bHOqDNMo-c",
-      "thumbnail": "https://i.ytimg.com/vi/7bHOqDNMo-c/mqdefault_live.jpg",
-      "published": "2026-09-15T17:18:12Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: DUPLA DINÂMICA DO GRÊMIO E NOVIDADE SOBRE VILLAGRA",
+      "videoId": "dNFHgBYSmRM",
+      "url": "https://www.youtube.com/watch?v=dNFHgBYSmRM",
+      "thumbnail": "https://i.ytimg.com/vi/dNFHgBYSmRM/mqdefault_live.jpg",
+      "published": "2026-09-16T00:08:59Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "CLIMA DE DECISÃO: Olha o que o Grêmio vai fazer contra o Botafogo",
       "videoId": "xtHZA3W56QM",
       "url": "https://www.youtube.com/watch?v=xtHZA3W56QM",
       "thumbnail": "https://i.ytimg.com/vi/xtHZA3W56QM/mqdefault.jpg",
       "published": "2026-09-15T23:20:53Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GRÊMIO ATENDE PEDIDO DO RENATO: Cortez, Felipão, estreia, relação com Pelaipe",
-      "videoId": "a8t6YXmxfls",
-      "url": "https://www.youtube.com/watch?v=a8t6YXmxfls",
-      "thumbnail": "https://i.ytimg.com/vi/a8t6YXmxfls/mqdefault.jpg",
-      "published": "2026-09-15T13:44:18Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "RENATO E FELIPÃO JUNTOS À BEIRA DE CAMPO | PROVÁVEL GRÊMIO X BOTAFOGO | NOITESDE GRÊMIO #146 - 15/09",
+      "videoId": "qGdfkIiQMc8",
+      "url": "https://www.youtube.com/watch?v=qGdfkIiQMc8",
+      "thumbnail": "https://i.ytimg.com/vi/qGdfkIiQMc8/mqdefault_live.jpg",
+      "published": "2026-09-16T00:00:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #156 — A MAIOR CASAMATA DA HISTÓRIA DO GRÊMIO | PROVÁVEL TIME PARA HOJE",
       "videoId": "ulOv7iKQDTk",
       "url": "https://www.youtube.com/watch?v=ulOv7iKQDTk",
       "thumbnail": "https://i.ytimg.com/vi/ulOv7iKQDTk/mqdefault_live.jpg",
       "published": "2026-09-15T23:43:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FELIPÃO E RENATO COMANDAM O GRÊMIO NESTA NOITE | COMO É BOM SER DO GRÊMIO #43",
-      "videoId": "ita8oMNGitM",
-      "url": "https://www.youtube.com/watch?v=ita8oMNGitM",
-      "thumbnail": "https://i.ytimg.com/vi/ita8oMNGitM/mqdefault_live.jpg",
-      "published": "2026-09-15T23:42:17Z"
     }
   ]
 }
