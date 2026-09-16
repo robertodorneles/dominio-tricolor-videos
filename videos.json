@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T10:00:35.208317+00:00",
+  "updated_at": "2026-09-16T11:00:46.584023+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 16/09/2026",
+      "title": "Sessão histórica no STF, últimas da política, economia, trânsito e +| Gaúcha Atualidade | 16/09/2026",
       "videoId": "ZYToPyPHvXs",
       "url": "https://www.youtube.com/watch?v=ZYToPyPHvXs",
       "thumbnail": "https://i.ytimg.com/vi/ZYToPyPHvXs/mqdefault_live.jpg",
-      "published": "2026-09-16T07:45:26Z"
+      "published": "2026-09-16T10:57:28Z"
     },
     {
       "channel": "GZH Digital",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "15/09/2026 | LIVE COMPLETA - PARTE 2 | RÁDIO GRENAL",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 16/09/2026",
       "videoId": "lpPTKzhSBbQ",
       "url": "https://www.youtube.com/watch?v=lpPTKzhSBbQ",
       "thumbnail": "https://i.ytimg.com/vi/lpPTKzhSBbQ/mqdefault_live.jpg",
       "published": "2026-09-16T01:01:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #23 — DIA DE GRÊMIO NO BRASILEIRÃO!",
+      "videoId": "_NY_19L4pS0",
+      "url": "https://www.youtube.com/watch?v=_NY_19L4pS0",
+      "thumbnail": "https://i.ytimg.com/vi/_NY_19L4pS0/mqdefault_live.jpg",
+      "published": "2026-09-16T10:02:12Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=9slIBL35i9s",
       "thumbnail": "https://i.ytimg.com/vi/9slIBL35i9s/mqdefault.jpg",
       "published": "2026-09-16T02:52:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO E FELIPÃO JUNTOS À BEIRA DE CAMPO | PROVÁVEL GRÊMIO X BOTAFOGO | NOITESDE GRÊMIO #146 - 15/09",
-      "videoId": "qGdfkIiQMc8",
-      "url": "https://www.youtube.com/watch?v=qGdfkIiQMc8",
-      "thumbnail": "https://i.ytimg.com/vi/qGdfkIiQMc8/mqdefault.jpg",
-      "published": "2026-09-16T01:38:11Z"
     }
   ]
 }
