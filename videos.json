@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:00:38.732266+00:00",
+  "updated_at": "2026-09-16T21:00:37.842254+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "ESSE VÍDEO NÃO É SOBRE POLÍTICA!!! #CORTESDORESENHA",
-      "videoId": "C8Jm8fQ_wkU",
-      "url": "https://www.youtube.com/watch?v=C8Jm8fQ_wkU",
-      "thumbnail": "https://i.ytimg.com/vi/C8Jm8fQ_wkU/mqdefault.jpg",
-      "published": "2026-09-16T19:05:19Z"
+      "title": "ELE SEMPRE CHEGA PRA RESOLVER! #CORTESDAJORNADA",
+      "videoId": "VrghfghXzPQ",
+      "url": "https://www.youtube.com/watch?v=VrghfghXzPQ",
+      "thumbnail": "https://i.ytimg.com/vi/VrghfghXzPQ/mqdefault.jpg",
+      "published": "2026-09-16T20:06:27Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X BOTAFOGO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 16/09/2026",
+      "videoId": "jZQ7lIIprqc",
+      "url": "https://www.youtube.com/watch?v=jZQ7lIIprqc",
+      "thumbnail": "https://i.ytimg.com/vi/jZQ7lIIprqc/mqdefault_live.jpg",
+      "published": "2026-09-16T20:29:21Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #14",
       "videoId": "Pyuv61EK1P8",
       "url": "https://www.youtube.com/watch?v=Pyuv61EK1P8",
       "thumbnail": "https://i.ytimg.com/vi/Pyuv61EK1P8/mqdefault_live.jpg",
       "published": "2026-09-16T17:11:47Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #019",
-      "videoId": "D4W6xyh489o",
-      "url": "https://www.youtube.com/watch?v=D4W6xyh489o",
-      "thumbnail": "https://i.ytimg.com/vi/D4W6xyh489o/mqdefault_live.jpg",
-      "published": "2026-09-16T13:00:17Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE BOTAFOGO x GRÊMIO DIRETO DO ENGENHÃO | BRASILEIRÃO 2026 | 16/09 #18",
+      "videoId": "3Tqis_xMl-g",
+      "url": "https://www.youtube.com/watch?v=3Tqis_xMl-g",
+      "thumbnail": "https://i.ytimg.com/vi/3Tqis_xMl-g/mqdefault_live.jpg",
+      "published": "2026-09-16T20:29:54Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "NOVO PREPARADOR DE GOLEIROS | A PRIMEIRA “CRISE” ENVOLVENDO RENATO: EU NÃO CONCORDO!",
       "videoId": "9T7EmRC89Jc",
       "url": "https://www.youtube.com/watch?v=9T7EmRC89Jc",
@@ -123,12 +131,12 @@
       "published": "2026-09-15T16:20:36Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "RENATO NO GRÊMIO: SALÁRIO, COMISSÃO TÉCNICA, QUANDO CHEGA?, PREMIAÇÕES, AS PRIMEIRAS MISSÕES E MAIS",
-      "videoId": "DJaZhsjFSGI",
-      "url": "https://www.youtube.com/watch?v=DJaZhsjFSGI",
-      "thumbnail": "https://i.ytimg.com/vi/DJaZhsjFSGI/mqdefault.jpg",
-      "published": "2026-09-14T20:43:59Z"
+      "channel": "Duda Garbi",
+      "title": "O MOTIVO ESCONDIDO DAS BRIGAS  #dudagarbi #umassadopara",
+      "videoId": "wJsKdEcobsE",
+      "url": "https://www.youtube.com/watch?v=wJsKdEcobsE",
+      "thumbnail": "https://i.ytimg.com/vi/wJsKdEcobsE/mqdefault.jpg",
+      "published": "2026-09-16T21:00:10Z"
     },
     {
       "channel": "Duda Garbi",
@@ -139,12 +147,12 @@
       "published": "2026-09-16T15:00:25Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 16.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "xdvKAAf8ND4",
-      "url": "https://www.youtube.com/watch?v=xdvKAAf8ND4",
-      "thumbnail": "https://i.ytimg.com/vi/xdvKAAf8ND4/mqdefault.jpg",
-      "published": "2026-09-16T13:10:09Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | BOTAFOGO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "DjZctUg8fsQ",
+      "url": "https://www.youtube.com/watch?v=DjZctUg8fsQ",
+      "thumbnail": "https://i.ytimg.com/vi/DjZctUg8fsQ/mqdefault_live.jpg",
+      "published": "2026-09-16T20:26:51Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,28 +163,28 @@
       "published": "2026-09-16T02:33:23Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "RECORDE HISTÓRICO DE PÚBLICO NA ARENA DO GRÊMIO",
-      "videoId": "HUBzc6XQQbc",
-      "url": "https://www.youtube.com/watch?v=HUBzc6XQQbc",
-      "thumbnail": "https://i.ytimg.com/vi/HUBzc6XQQbc/mqdefault.jpg",
-      "published": "2026-09-14T22:03:12Z"
+      "channel": "GZH Digital",
+      "title": "Violência contra crianças: quem pode evitar tragédias? | REAPRESENTAÇÃO | Conversas Cruzadas",
+      "videoId": "tF5r2lzX75s",
+      "url": "https://www.youtube.com/watch?v=tF5r2lzX75s",
+      "thumbnail": "https://i.ytimg.com/vi/tF5r2lzX75s/mqdefault.jpg",
+      "published": "2026-09-16T20:39:06Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Mais acesso, menos agulhas: solução gaúcha expande o alcance da COLETA DE SANGUE | Radar de Inovação",
-      "videoId": "EHEr1CKcM00",
-      "url": "https://www.youtube.com/watch?v=EHEr1CKcM00",
-      "thumbnail": "https://i.ytimg.com/vi/EHEr1CKcM00/mqdefault.jpg",
-      "published": "2026-09-16T19:37:17Z"
+      "title": "STF adia decisão sobre Alexandre de Moraes; impasse expõe tribunal | Andei Pensando | 16/09/2026",
+      "videoId": "fsT6PXZ3Zj4",
+      "url": "https://www.youtube.com/watch?v=fsT6PXZ3Zj4",
+      "thumbnail": "https://i.ytimg.com/vi/fsT6PXZ3Zj4/mqdefault.jpg",
+      "published": "2026-09-16T20:30:06Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Crise no STF, Serial killer na Paraíba, notícias do RS, trânsito e mais | Gaúcha+ | 16/09/2026",
-      "videoId": "iz9DEagBvRg",
-      "url": "https://www.youtube.com/watch?v=iz9DEagBvRg",
-      "thumbnail": "https://i.ytimg.com/vi/iz9DEagBvRg/mqdefault_live.jpg",
-      "published": "2026-09-16T19:33:14Z"
+      "channel": "Jeremias Wernek",
+      "title": "O DIA QUE RENATO JOGOU NO GRÊMIO DO FELIPÃO",
+      "videoId": "8ElsBcuuFlc",
+      "url": "https://www.youtube.com/watch?v=8ElsBcuuFlc",
+      "thumbnail": "https://i.ytimg.com/vi/8ElsBcuuFlc/mqdefault.jpg",
+      "published": "2026-09-16T20:15:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=uR8-Y8ccXKE",
       "thumbnail": "https://i.ytimg.com/vi/uR8-Y8ccXKE/mqdefault.jpg",
       "published": "2026-09-16T16:56:29Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: DUPLA DINÂMICA DO GRÊMIO E NOVIDADE SOBRE VILLAGRA",
-      "videoId": "dNFHgBYSmRM",
-      "url": "https://www.youtube.com/watch?v=dNFHgBYSmRM",
-      "thumbnail": "https://i.ytimg.com/vi/dNFHgBYSmRM/mqdefault.jpg",
-      "published": "2026-09-16T12:20:16Z"
     },
     {
       "channel": "LH Benfica",
