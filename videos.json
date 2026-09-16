@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:00:47.550502+00:00",
+  "updated_at": "2026-09-16T13:00:42.262917+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Botafogo x Grêmio: uma casamata histórica para uma decisão",
+      "videoId": "Qz4nUM4flhk",
+      "url": "https://www.youtube.com/watch?v=Qz4nUM4flhk",
+      "thumbnail": "https://i.ytimg.com/vi/Qz4nUM4flhk/mqdefault.jpg",
+      "published": "2026-09-16T12:34:26Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #677: Provável Grêmio | Felipão | Renato | Dívida | Contratação e mais",
       "videoId": "x-SI5lQgPn8",
       "url": "https://www.youtube.com/watch?v=x-SI5lQgPn8",
@@ -59,20 +67,12 @@
       "published": "2026-09-15T22:08:30Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: BOTAFOGO X GRÊMIO",
-      "videoId": "CSCxHHsqboY",
-      "url": "https://www.youtube.com/watch?v=CSCxHHsqboY",
-      "thumbnail": "https://i.ytimg.com/vi/CSCxHHsqboY/mqdefault_live.jpg",
-      "published": "2026-09-15T13:04:48Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #018 - DIA DE BOTAFOGO X GRÊMIO",
       "videoId": "YYHt9z0SXWo",
       "url": "https://www.youtube.com/watch?v=YYHt9z0SXWo",
       "thumbnail": "https://i.ytimg.com/vi/YYHt9z0SXWo/mqdefault_live.jpg",
-      "published": "2026-09-16T11:33:05Z"
+      "published": "2026-09-16T12:40:49Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 16.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "xdvKAAf8ND4",
+      "url": "https://www.youtube.com/watch?v=xdvKAAf8ND4",
+      "thumbnail": "https://i.ytimg.com/vi/xdvKAAf8ND4/mqdefault_live.jpg",
+      "published": "2026-09-16T12:01:35Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "COMO A MENTE VAZIA VIRA ALVO FÁCIL DA INDÚSTRIA? JACOB PETRY CONTA TUDO | Cortes do Duda",
       "videoId": "9YrecT52vFU",
       "url": "https://www.youtube.com/watch?v=9YrecT52vFU",
       "thumbnail": "https://i.ytimg.com/vi/9YrecT52vFU/mqdefault.jpg",
       "published": "2026-09-15T22:30:14Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "AS LIÇÕES QUE APRENDI COM CR7 #dudagarbi #umassadopara",
-      "videoId": "SaHEQET_R6E",
-      "url": "https://www.youtube.com/watch?v=SaHEQET_R6E",
-      "thumbnail": "https://i.ytimg.com/vi/SaHEQET_R6E/mqdefault.jpg",
-      "published": "2026-09-15T22:05:00Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Brasa ancestral e pampa: a história que fez do churrasco gaúcho uma referência | Do Espeto à Grelha",
+      "videoId": "xn--GWqZAlk",
+      "url": "https://www.youtube.com/watch?v=xn--GWqZAlk",
+      "thumbnail": "https://i.ytimg.com/vi/xn--GWqZAlk/mqdefault.jpg",
+      "published": "2026-09-16T12:35:30Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Sessão histórica no STF, últimas da política, economia, trânsito e +| Gaúcha Atualidade | 16/09/2026",
       "videoId": "ZYToPyPHvXs",
       "url": "https://www.youtube.com/watch?v=ZYToPyPHvXs",
@@ -171,20 +179,12 @@
       "published": "2026-09-16T10:57:28Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "| Timeline | 16/09/2026",
-      "videoId": "RAqtPv44Lf8",
-      "url": "https://www.youtube.com/watch?v=RAqtPv44Lf8",
-      "thumbnail": "https://i.ytimg.com/vi/RAqtPv44Lf8/mqdefault_live.jpg",
-      "published": "2026-09-16T07:44:54Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: DUPLA DINÂMICA DO GRÊMIO E NOVIDADE SOBRE VILLAGRA",
       "videoId": "dNFHgBYSmRM",
       "url": "https://www.youtube.com/watch?v=dNFHgBYSmRM",
-      "thumbnail": "https://i.ytimg.com/vi/dNFHgBYSmRM/mqdefault_live.jpg",
-      "published": "2026-09-16T11:03:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/dNFHgBYSmRM/mqdefault.jpg",
+      "published": "2026-09-16T12:20:16Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "CAFÉ COM A IMORTAL #23 — DIA DE GRÊMIO NO BRASILEIRÃO!",
       "videoId": "_NY_19L4pS0",
       "url": "https://www.youtube.com/watch?v=_NY_19L4pS0",
-      "thumbnail": "https://i.ytimg.com/vi/_NY_19L4pS0/mqdefault_live.jpg",
-      "published": "2026-09-16T10:02:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/_NY_19L4pS0/mqdefault.jpg",
+      "published": "2026-09-16T12:43:51Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "O RECADO DE RENATO PORTALUPPI AO TORCEDOR DO GRÊMIO!",
-      "videoId": "9slIBL35i9s",
-      "url": "https://www.youtube.com/watch?v=9slIBL35i9s",
-      "thumbnail": "https://i.ytimg.com/vi/9slIBL35i9s/mqdefault.jpg",
-      "published": "2026-09-16T02:52:46Z"
+      "title": "FELIPÃO E RENATO COMANDAM O GRÊMIO NESTA NOITE | COMO É BOM SER DO GRÊMIO #43",
+      "videoId": "ita8oMNGitM",
+      "url": "https://www.youtube.com/watch?v=ita8oMNGitM",
+      "thumbnail": "https://i.ytimg.com/vi/ita8oMNGitM/mqdefault_live.jpg",
+      "published": "2026-09-16T12:35:34Z"
     }
   ]
 }
