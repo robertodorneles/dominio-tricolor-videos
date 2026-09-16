@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:00:45.007421+00:00",
+  "updated_at": "2026-09-16T18:07:33.442734+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | BOTAFOGO X GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 16/09/2026",
+      "videoId": "7DMH-88baGQ",
+      "url": "https://www.youtube.com/watch?v=7DMH-88baGQ",
+      "thumbnail": "https://i.ytimg.com/vi/7DMH-88baGQ/mqdefault_live.jpg",
+      "published": "2026-09-16T18:02:00Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "16/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "lpPTKzhSBbQ",
       "url": "https://www.youtube.com/watch?v=lpPTKzhSBbQ",
       "thumbnail": "https://i.ytimg.com/vi/lpPTKzhSBbQ/mqdefault.jpg",
       "published": "2026-09-16T17:16:40Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | BOTAFOGO X GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 16/09/2026",
-      "videoId": "7DMH-88baGQ",
-      "url": "https://www.youtube.com/watch?v=7DMH-88baGQ",
-      "thumbnail": "https://i.ytimg.com/vi/7DMH-88baGQ/mqdefault_live.jpg",
-      "published": "2026-09-16T17:01:24Z"
     },
     {
       "channel": "Radio Imortal",
