@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:00:48.931316+00:00",
+  "updated_at": "2026-09-17T18:00:42.462520+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Tem que aparecer na hora ruim também.",
-      "videoId": "jbNQKfAMc2c",
-      "url": "https://www.youtube.com/watch?v=jbNQKfAMc2c",
-      "thumbnail": "https://i.ytimg.com/vi/jbNQKfAMc2c/mqdefault.jpg",
-      "published": "2026-09-17T16:57:45Z"
+      "title": "Tava ou não impedido?",
+      "videoId": "gxCWlGDogA0",
+      "url": "https://www.youtube.com/watch?v=gxCWlGDogA0",
+      "thumbnail": "https://i.ytimg.com/vi/gxCWlGDogA0/mqdefault.jpg",
+      "published": "2026-09-17T17:55:11Z"
     },
     {
       "channel": "Bage TV",
@@ -71,8 +71,8 @@
       "title": "GRENAL SHOW - #15",
       "videoId": "yrj9AwG-phU",
       "url": "https://www.youtube.com/watch?v=yrj9AwG-phU",
-      "thumbnail": "https://i.ytimg.com/vi/yrj9AwG-phU/mqdefault_live.jpg",
-      "published": "2026-09-17T16:06:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/yrj9AwG-phU/mqdefault.jpg",
+      "published": "2026-09-17T17:16:16Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UM ASSADO PARA... DUDA KROEFF | #411",
+      "videoId": "N00lEOHqh1o",
+      "url": "https://www.youtube.com/watch?v=N00lEOHqh1o",
+      "thumbnail": "https://i.ytimg.com/vi/N00lEOHqh1o/mqdefault.jpg",
+      "published": "2026-09-17T14:43:27Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 17.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "RnX1xR_-Pkg",
       "url": "https://www.youtube.com/watch?v=RnX1xR_-Pkg",
       "thumbnail": "https://i.ytimg.com/vi/RnX1xR_-Pkg/mqdefault.jpg",
       "published": "2026-09-17T13:13:28Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O MOTIVO ESCONDIDO DAS BRIGAS  #dudagarbi #umassadopara",
-      "videoId": "wJsKdEcobsE",
-      "url": "https://www.youtube.com/watch?v=wJsKdEcobsE",
-      "thumbnail": "https://i.ytimg.com/vi/wJsKdEcobsE/mqdefault.jpg",
-      "published": "2026-09-16T21:00:10Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "A capital do Sul que planeja enterrar 120 km de fios com R$ 1,2 bilhão | Giane Guerra",
-      "videoId": "CY_HuyeB_8E",
-      "url": "https://www.youtube.com/watch?v=CY_HuyeB_8E",
-      "thumbnail": "https://i.ytimg.com/vi/CY_HuyeB_8E/mqdefault.jpg",
-      "published": "2026-09-17T15:38:23Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Novas regras da ANAC, abstenções aumentam no RS, trânsito e mais | Gaúcha+ | 17/09/2026",
       "videoId": "mI1cmZ7E1B0",
       "url": "https://www.youtube.com/watch?v=mI1cmZ7E1B0",
       "thumbnail": "https://i.ytimg.com/vi/mI1cmZ7E1B0/mqdefault_live.jpg",
-      "published": "2026-09-17T15:10:15Z"
+      "published": "2026-09-17T17:59:39Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "A sessão do STF mudou a campanha? O avanço de Flávio e os dilemas de Lula | Chamada Eleitoral",
+      "videoId": "5ncJjsizK78",
+      "url": "https://www.youtube.com/watch?v=5ncJjsizK78",
+      "thumbnail": "https://i.ytimg.com/vi/5ncJjsizK78/mqdefault.jpg",
+      "published": "2026-09-17T17:25:26Z"
     },
     {
       "channel": "Jeremias Wernek",
