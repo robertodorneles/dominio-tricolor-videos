@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:00:41.836850+00:00",
+  "updated_at": "2026-09-17T12:00:41.978962+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "jZB0qJSaSwQ",
       "url": "https://www.youtube.com/watch?v=jZB0qJSaSwQ",
       "thumbnail": "https://i.ytimg.com/vi/jZB0qJSaSwQ/mqdefault_live.jpg",
-      "published": "2026-09-17T09:30:50Z"
+      "published": "2026-09-17T11:55:09Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #019",
+      "videoId": "D4W6xyh489o",
+      "url": "https://www.youtube.com/watch?v=D4W6xyh489o",
+      "thumbnail": "https://i.ytimg.com/vi/D4W6xyh489o/mqdefault_live.jpg",
+      "published": "2026-09-17T11:45:36Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #14",
       "videoId": "Pyuv61EK1P8",
       "url": "https://www.youtube.com/watch?v=Pyuv61EK1P8",
       "thumbnail": "https://i.ytimg.com/vi/Pyuv61EK1P8/mqdefault.jpg",
       "published": "2026-09-17T05:16:44Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO X BOTAFOGO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 16/09/2026",
-      "videoId": "jZQ7lIIprqc",
-      "url": "https://www.youtube.com/watch?v=jZQ7lIIprqc",
-      "thumbnail": "https://i.ytimg.com/vi/jZQ7lIIprqc/mqdefault.jpg",
-      "published": "2026-09-17T01:55:38Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 17.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "RnX1xR_-Pkg",
+      "url": "https://www.youtube.com/watch?v=RnX1xR_-Pkg",
+      "thumbnail": "https://i.ytimg.com/vi/RnX1xR_-Pkg/mqdefault_live.jpg",
+      "published": "2026-09-17T11:59:52Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O MOTIVO ESCONDIDO DAS BRIGAS  #dudagarbi #umassadopara",
       "videoId": "wJsKdEcobsE",
       "url": "https://www.youtube.com/watch?v=wJsKdEcobsE",
       "thumbnail": "https://i.ytimg.com/vi/wJsKdEcobsE/mqdefault.jpg",
       "published": "2026-09-16T21:00:10Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O GRANDE PROBLEMA DOS RELACIONAMENTOS #dudagarbi #umassadopara",
-      "videoId": "e-lC32Jvpk4",
-      "url": "https://www.youtube.com/watch?v=e-lC32Jvpk4",
-      "thumbnail": "https://i.ytimg.com/vi/e-lC32Jvpk4/mqdefault.jpg",
-      "published": "2026-09-16T15:00:25Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "fYUhEgH7220",
       "url": "https://www.youtube.com/watch?v=fYUhEgH7220",
       "thumbnail": "https://i.ytimg.com/vi/fYUhEgH7220/mqdefault_live.jpg",
-      "published": "2026-09-17T02:17:36Z"
+      "published": "2026-09-17T11:03:15Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 27/09/2026",
+      "videoId": "Kq2JDgrInq0",
+      "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
+      "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault_live.jpg",
+      "published": "2026-09-17T11:02:12Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "16/09/2026 | BOTAFOGO 3X2 GRÊMIO | CHEGADA DE RENATO GAÚCHO | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "7DMH-88baGQ",
       "url": "https://www.youtube.com/watch?v=7DMH-88baGQ",
       "thumbnail": "https://i.ytimg.com/vi/7DMH-88baGQ/mqdefault.jpg",
       "published": "2026-09-17T06:07:50Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 27/09/2026",
-      "videoId": "Kq2JDgrInq0",
-      "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
-      "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault_live.jpg",
-      "published": "2026-09-17T05:39:20Z"
     },
     {
       "channel": "Radio Imortal",
