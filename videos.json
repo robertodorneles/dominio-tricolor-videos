@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:00:36.937839+00:00",
+  "updated_at": "2026-09-17T00:00:39.800996+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA E RECEPÇÃO I TÉCNICO RENATO PORTALUPPI",
+      "videoId": "ydA6WDzv4Dg",
+      "url": "https://www.youtube.com/watch?v=ydA6WDzv4Dg",
+      "thumbnail": "https://i.ytimg.com/vi/ydA6WDzv4Dg/mqdefault_live.jpg",
+      "published": "2026-09-16T23:11:37Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | BOTAFOGO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "DjZctUg8fsQ",
       "url": "https://www.youtube.com/watch?v=DjZctUg8fsQ",
       "thumbnail": "https://i.ytimg.com/vi/DjZctUg8fsQ/mqdefault_live.jpg",
       "published": "2026-09-16T21:05:36Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "ENERGIA POSITIVA: RENATO PORTALUPPI FALA COM EXCLUSIVIDADE À GRÊMIO TV",
-      "videoId": "2izwqCr_9wE",
-      "url": "https://www.youtube.com/watch?v=2izwqCr_9wE",
-      "thumbnail": "https://i.ytimg.com/vi/2izwqCr_9wE/mqdefault.jpg",
-      "published": "2026-09-16T02:33:23Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | BOTAFOGO 0 X 0 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 16/09/2026",
+      "title": "AO VIVO | BOTAFOGO 2 X 1 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 16/09/2026",
       "videoId": "7DMH-88baGQ",
       "url": "https://www.youtube.com/watch?v=7DMH-88baGQ",
       "thumbnail": "https://i.ytimg.com/vi/7DMH-88baGQ/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | BOTAFOGO (0) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO ENGENHÃO",
+      "title": "AO VIVO | BOTAFOGO (2) X (1) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO ENGENHÃO",
       "videoId": "ZSFNSDI-x1A",
       "url": "https://www.youtube.com/watch?v=ZSFNSDI-x1A",
       "thumbnail": "https://i.ytimg.com/vi/ZSFNSDI-x1A/mqdefault_live.jpg",
