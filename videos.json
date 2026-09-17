@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T18:00:42.462520+00:00",
+  "updated_at": "2026-09-17T18:46:47.422474+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "Tava ou não impedido?",
-      "videoId": "gxCWlGDogA0",
-      "url": "https://www.youtube.com/watch?v=gxCWlGDogA0",
-      "thumbnail": "https://i.ytimg.com/vi/gxCWlGDogA0/mqdefault.jpg",
-      "published": "2026-09-17T17:55:11Z"
+      "title": "GRÊMIO NÃO REAGE FORA E RENATO JÁ TEM PRIMEIRO GRANDE DESAFIO🔹 THE TARDE 🔹#222",
+      "videoId": "ADm3AGFrFQI",
+      "url": "https://www.youtube.com/watch?v=ADm3AGFrFQI",
+      "thumbnail": "https://i.ytimg.com/vi/ADm3AGFrFQI/mqdefault_live.jpg",
+      "published": "2026-09-17T18:31:14Z"
     },
     {
       "channel": "Bage TV",
       "title": "DERROTA DO GRÊMIO AUMENTA RISCO DE QUEDA; INTER TRAÇA PLANO POR VILLAGRA🔸RESENHA FORA DA SALA🔸#133",
       "videoId": "wMx3gGXiBvE",
       "url": "https://www.youtube.com/watch?v=wMx3gGXiBvE",
-      "thumbnail": "https://i.ytimg.com/vi/wMx3gGXiBvE/mqdefault_live.jpg",
-      "published": "2026-09-17T16:32:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/wMx3gGXiBvE/mqdefault.jpg",
+      "published": "2026-09-17T18:19:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "A transformação do churrasco gaúcho | DO ESPETO À GRELHA",
+      "videoId": "kq3R81olElQ",
+      "url": "https://www.youtube.com/watch?v=kq3R81olElQ",
+      "thumbnail": "https://i.ytimg.com/vi/kq3R81olElQ/mqdefault.jpg",
+      "published": "2026-09-17T18:36:20Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Novas regras da ANAC, abstenções aumentam no RS, trânsito e mais | Gaúcha+ | 17/09/2026",
       "videoId": "mI1cmZ7E1B0",
       "url": "https://www.youtube.com/watch?v=mI1cmZ7E1B0",
       "thumbnail": "https://i.ytimg.com/vi/mI1cmZ7E1B0/mqdefault_live.jpg",
       "published": "2026-09-17T17:59:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "A sessão do STF mudou a campanha? O avanço de Flávio e os dilemas de Lula | Chamada Eleitoral",
-      "videoId": "5ncJjsizK78",
-      "url": "https://www.youtube.com/watch?v=5ncJjsizK78",
-      "thumbnail": "https://i.ytimg.com/vi/5ncJjsizK78/mqdefault.jpg",
-      "published": "2026-09-17T17:25:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 27/09/2026",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 27/09/2026",
       "videoId": "Kq2JDgrInq0",
       "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
       "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault_live.jpg",
       "published": "2026-09-17T11:02:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "REPERCUSSÕES DA DERROTA DO GRÊMIO | RENATO PORTALUPPI COMANDA O PRIMEIRO TREINO | ESPLANADA",
+      "videoId": "dYgzm_B_HtM",
+      "url": "https://www.youtube.com/watch?v=dYgzm_B_HtM",
+      "thumbnail": "https://i.ytimg.com/vi/dYgzm_B_HtM/mqdefault_live.jpg",
+      "published": "2026-09-17T18:30:38Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=ZweQKVo5D9E",
       "thumbnail": "https://i.ytimg.com/vi/ZweQKVo5D9E/mqdefault.jpg",
       "published": "2026-09-17T15:06:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PERDE MESMO COM FELIPÃO E RENATO | VAR DUVIDOSO | COMO É BOM SER DO GRÊMIO #44",
-      "videoId": "JFBQvvDIpSU",
-      "url": "https://www.youtube.com/watch?v=JFBQvvDIpSU",
-      "thumbnail": "https://i.ytimg.com/vi/JFBQvvDIpSU/mqdefault.jpg",
-      "published": "2026-09-17T14:09:41Z"
     }
   ]
 }
