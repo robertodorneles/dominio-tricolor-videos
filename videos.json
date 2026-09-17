@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-17T14:04:20.770789+00:00",
+  "updated_at": "2026-09-17T15:00:40.441839+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "VAR, POLÊMICA E GRÊMIO",
+      "videoId": "83E4wjl-cko",
+      "url": "https://www.youtube.com/watch?v=83E4wjl-cko",
+      "thumbnail": "https://i.ytimg.com/vi/83E4wjl-cko/mqdefault.jpg",
+      "published": "2026-09-17T14:36:32Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: PROBLEMA PRA PEZZOLANO | BRASIL X ARGENTINA NO BEIRA-RIO | TABELA FICOU BOA",
@@ -11,12 +19,12 @@
       "published": "2026-09-17T07:33:47Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CLUBE VAI À CBF APÓS POLÊMICA DO VAR | FELIPÃO DISPARA E BOTAFOGO REAGE",
-      "videoId": "UpkbI6gEduQ",
-      "url": "https://www.youtube.com/watch?v=UpkbI6gEduQ",
-      "thumbnail": "https://i.ytimg.com/vi/UpkbI6gEduQ/mqdefault.jpg",
-      "published": "2026-09-17T06:00:05Z"
+      "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #069",
+      "videoId": "O1Hw2cDEgvk",
+      "url": "https://www.youtube.com/watch?v=O1Hw2cDEgvk",
+      "thumbnail": "https://i.ytimg.com/vi/O1Hw2cDEgvk/mqdefault.jpg",
+      "published": "2026-09-17T14:58:15Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=8CqyIRujd_s",
       "thumbnail": "https://i.ytimg.com/vi/8CqyIRujd_s/mqdefault.jpg",
       "published": "2026-09-17T13:40:10Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #069",
-      "videoId": "O1Hw2cDEgvk",
-      "url": "https://www.youtube.com/watch?v=O1Hw2cDEgvk",
-      "thumbnail": "https://i.ytimg.com/vi/O1Hw2cDEgvk/mqdefault_live.jpg",
-      "published": "2026-09-17T13:38:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "A chegada de Renato em Porto Alegre #gremio",
+      "videoId": "xfLk7UWUrns",
+      "url": "https://www.youtube.com/watch?v=xfLk7UWUrns",
+      "thumbnail": "https://i.ytimg.com/vi/xfLk7UWUrns/mqdefault.jpg",
+      "published": "2026-09-17T14:19:12Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Renato Portaluppi: “Deixa comigo” | A imagem do VAR | Botafogo quer processar CEO do Grêmio",
       "videoId": "RlTCDpHr54g",
       "url": "https://www.youtube.com/watch?v=RlTCDpHr54g",
@@ -91,28 +99,28 @@
       "published": "2026-09-17T13:22:14Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "Felipão e Renato juntos na casamata | Como vai funcionar | Veja as imagens da chegada de Renato",
-      "videoId": "BIyWxkJN7eg",
-      "url": "https://www.youtube.com/watch?v=BIyWxkJN7eg",
-      "thumbnail": "https://i.ytimg.com/vi/BIyWxkJN7eg/mqdefault.jpg",
-      "published": "2026-09-16T13:25:36Z"
+      "channel": "Careca de Saber TV",
+      "title": "RECEPÇÃO E COLETIVA RENATO PORTALUPPI | 17H:30min",
+      "videoId": "yOx8lDwJ2Aw",
+      "url": "https://www.youtube.com/watch?v=yOx8lDwJ2Aw",
+      "thumbnail": "https://i.ytimg.com/vi/yOx8lDwJ2Aw/mqdefault_live.jpg",
+      "published": "2026-09-17T14:52:34Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "VOLTOU A TREINAR E NÃO QUER MAIS. FELIPÃO BRABO COM VAR! A PARTIR DE AGORA RENATO ASSUME. #gremio",
-      "videoId": "x8zoXKFf9SY",
-      "url": "https://www.youtube.com/watch?v=x8zoXKFf9SY",
-      "thumbnail": "https://i.ytimg.com/vi/x8zoXKFf9SY/mqdefault.jpg",
-      "published": "2026-09-17T13:00:39Z"
+      "title": "SISTEMA PROGRAMADO! #grêmio #futebol",
+      "videoId": "41hrCxwbArw",
+      "url": "https://www.youtube.com/watch?v=41hrCxwbArw",
+      "thumbnail": "https://i.ytimg.com/vi/41hrCxwbArw/mqdefault.jpg",
+      "published": "2026-09-17T14:13:02Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "ROBÔ ROUBOU O GRÊMIO!  #gremio #futebol",
-      "videoId": "BfiigU546jk",
-      "url": "https://www.youtube.com/watch?v=BfiigU546jk",
-      "thumbnail": "https://i.ytimg.com/vi/BfiigU546jk/mqdefault.jpg",
-      "published": "2026-09-17T10:00:26Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "LEONARDO GACIBA FALA SOBRE OS ERROS DE BOTAFOGO x GRÊMIO: “A MÁQUINA PODE ERRAR”",
+      "videoId": "7LrmGXdWfVY",
+      "url": "https://www.youtube.com/watch?v=7LrmGXdWfVY",
+      "thumbnail": "https://i.ytimg.com/vi/7LrmGXdWfVY/mqdefault.jpg",
+      "published": "2026-09-17T14:39:59Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=NXXIx0O2mww",
       "thumbnail": "https://i.ytimg.com/vi/NXXIx0O2mww/mqdefault.jpg",
       "published": "2026-09-17T02:05:15Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE BOTAFOGO x GRÊMIO DIRETO DO ENGENHÃO | BRASILEIRÃO 2026 | 16/09 #18",
-      "videoId": "3Tqis_xMl-g",
-      "url": "https://www.youtube.com/watch?v=3Tqis_xMl-g",
-      "thumbnail": "https://i.ytimg.com/vi/3Tqis_xMl-g/mqdefault.jpg",
-      "published": "2026-09-16T22:23:08Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "A Eleição que Eu Vi: expectativa de vitória de Britto e virada de Olívio em 98 | Rosane de Oliveira",
-      "videoId": "qbHZqYSeZrE",
-      "url": "https://www.youtube.com/watch?v=qbHZqYSeZrE",
-      "thumbnail": "https://i.ytimg.com/vi/qbHZqYSeZrE/mqdefault.jpg",
-      "published": "2026-09-17T14:02:08Z"
+      "title": "Mais acesso, menos agulhas: solução gaúcha expande o alcance da COLETA DE SANGUE | Radar de Inovação",
+      "videoId": "EHEr1CKcM00",
+      "url": "https://www.youtube.com/watch?v=EHEr1CKcM00",
+      "thumbnail": "https://i.ytimg.com/vi/EHEr1CKcM00/mqdefault.jpg",
+      "published": "2026-09-17T14:55:17Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Fim da soberania do espeto? Por que a grelha virou a nova queridinha do RS | Do Espeto à Grelha",
-      "videoId": "4mncUtprITk",
-      "url": "https://www.youtube.com/watch?v=4mncUtprITk",
-      "thumbnail": "https://i.ytimg.com/vi/4mncUtprITk/mqdefault.jpg",
-      "published": "2026-09-17T13:58:06Z"
+      "title": "LULA X TRUMP: risco de intervenção nas eleições brasileiras? Entenda o conflito",
+      "videoId": "KC-a5z3sQ4Q",
+      "url": "https://www.youtube.com/watch?v=KC-a5z3sQ4Q",
+      "thumbnail": "https://i.ytimg.com/vi/KC-a5z3sQ4Q/mqdefault.jpg",
+      "published": "2026-09-17T14:41:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO PERDE MESMO COM FELIPÃO E RENATO | VAR DUVIDOSO | COMO É BOM SER DO GRÊMIO #44",
       "videoId": "JFBQvvDIpSU",
       "url": "https://www.youtube.com/watch?v=JFBQvvDIpSU",
-      "thumbnail": "https://i.ytimg.com/vi/JFBQvvDIpSU/mqdefault_live.jpg",
-      "published": "2026-09-17T14:03:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/JFBQvvDIpSU/mqdefault.jpg",
+      "published": "2026-09-17T14:09:41Z"
     },
     {
       "channel": "Radio Imortal",
