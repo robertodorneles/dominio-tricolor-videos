@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:00:44.909559+00:00",
+  "updated_at": "2026-09-17T21:53:45.171979+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ESPECIAL  VAMO FARIDO! COLETIVA DE PORTALUPPI E A CHEGADA AO GRÊMIO - AO VIVO - 17/09/2026",
+      "videoId": "k25aR6EBP6Y",
+      "url": "https://www.youtube.com/watch?v=k25aR6EBP6Y",
+      "thumbnail": "https://i.ytimg.com/vi/k25aR6EBP6Y/mqdefault_live.jpg",
+      "published": "2026-09-17T21:00:24Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #15",
       "videoId": "yrj9AwG-phU",
       "url": "https://www.youtube.com/watch?v=yrj9AwG-phU",
       "thumbnail": "https://i.ytimg.com/vi/yrj9AwG-phU/mqdefault.jpg",
       "published": "2026-09-17T17:16:16Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ESPECIAL  VAMO FARIDO! COLETIVA DE PORTALUPPI E A CHEGADA AO GRÊMIO - AO VIVO - 17/09/2026",
-      "videoId": "k25aR6EBP6Y",
-      "url": "https://www.youtube.com/watch?v=k25aR6EBP6Y",
-      "thumbnail": "https://i.ytimg.com/vi/k25aR6EBP6Y/mqdefault_live.jpg",
-      "published": "2026-09-17T13:25:44Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA E RECEPÇÃO I TÉCNICO RENATO PORTALUPPI",
+      "videoId": "ydA6WDzv4Dg",
+      "url": "https://www.youtube.com/watch?v=ydA6WDzv4Dg",
+      "thumbnail": "https://i.ytimg.com/vi/ydA6WDzv4Dg/mqdefault_live.jpg",
+      "published": "2026-09-17T21:05:10Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS-JOGO | BOTAFOGO X GRÊMIO | BRASILEIRÃO 2026",
       "videoId": "5nm-SMGzq34",
       "url": "https://www.youtube.com/watch?v=5nm-SMGzq34",
@@ -155,12 +163,12 @@
       "published": "2026-09-17T01:29:32Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | BOTAFOGO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "DjZctUg8fsQ",
-      "url": "https://www.youtube.com/watch?v=DjZctUg8fsQ",
-      "thumbnail": "https://i.ytimg.com/vi/DjZctUg8fsQ/mqdefault.jpg",
-      "published": "2026-09-17T00:55:10Z"
+      "channel": "GZH Digital",
+      "title": "Lula vai à Organização das Nações Unidas | Chamada Eleitoral",
+      "videoId": "kaXN-tWnpwk",
+      "url": "https://www.youtube.com/watch?v=kaXN-tWnpwk",
+      "thumbnail": "https://i.ytimg.com/vi/kaXN-tWnpwk/mqdefault.jpg",
+      "published": "2026-09-17T21:00:20Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=9kzWg0uLq-g",
       "thumbnail": "https://i.ytimg.com/vi/9kzWg0uLq-g/mqdefault.jpg",
       "published": "2026-09-17T20:44:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "LULA PARA TRUMP: “NÃO SE META NAS ELEIÇÕES DO BRASIL”",
-      "videoId": "0RWxZW5zBVI",
-      "url": "https://www.youtube.com/watch?v=0RWxZW5zBVI",
-      "thumbnail": "https://i.ytimg.com/vi/0RWxZW5zBVI/mqdefault.jpg",
-      "published": "2026-09-17T20:43:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 17/09/2026",
+      "title": "AO VIVO | APRESENTAÇÃO RENATO PORTALUPPI | RÁDIO GRENAL | 17/09/2026",
       "videoId": "Kq2JDgrInq0",
       "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
       "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault_live.jpg",
