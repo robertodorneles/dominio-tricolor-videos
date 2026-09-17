@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:00:39.488639+00:00",
+  "updated_at": "2026-09-17T14:04:20.770789+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "A Eleição que Eu Vi: expectativa de vitória de Britto e virada de Olívio em 98 | Rosane de Oliveira",
+      "videoId": "qbHZqYSeZrE",
+      "url": "https://www.youtube.com/watch?v=qbHZqYSeZrE",
+      "thumbnail": "https://i.ytimg.com/vi/qbHZqYSeZrE/mqdefault.jpg",
+      "published": "2026-09-17T14:02:08Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Fim da soberania do espeto? Por que a grelha virou a nova queridinha do RS | Do Espeto à Grelha",
       "videoId": "4mncUtprITk",
       "url": "https://www.youtube.com/watch?v=4mncUtprITk",
       "thumbnail": "https://i.ytimg.com/vi/4mncUtprITk/mqdefault.jpg",
       "published": "2026-09-17T13:58:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como crise no STF vai afetar eleições e mais | Timeline | 17/09/2026",
-      "videoId": "sdEGfUeQ5dg",
-      "url": "https://www.youtube.com/watch?v=sdEGfUeQ5dg",
-      "thumbnail": "https://i.ytimg.com/vi/sdEGfUeQ5dg/mqdefault.jpg",
-      "published": "2026-09-17T13:57:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 27/09/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 27/09/2026",
       "videoId": "Kq2JDgrInq0",
       "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
       "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #24 — GRÊMIO PERDE PARA O BOTAFOGO COM POLÊMICA DE ARBITRAGEM",
-      "videoId": "SBC6FtEQtu4",
-      "url": "https://www.youtube.com/watch?v=SBC6FtEQtu4",
-      "thumbnail": "https://i.ytimg.com/vi/SBC6FtEQtu4/mqdefault.jpg",
-      "published": "2026-09-17T12:37:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO PERDE MESMO COM FELIPÃO E RENATO | VAR DUVIDOSO | COMO É BOM SER DO GRÊMIO #44",
       "videoId": "JFBQvvDIpSU",
       "url": "https://www.youtube.com/watch?v=JFBQvvDIpSU",
       "thumbnail": "https://i.ytimg.com/vi/JFBQvvDIpSU/mqdefault_live.jpg",
-      "published": "2026-09-17T12:30:43Z"
+      "published": "2026-09-17T14:03:26Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #157 — GRÊMIO PERDE PARA O BOTAFOGO E DISPARA CONTRA A ARBITRAGEM",
+      "videoId": "ZweQKVo5D9E",
+      "url": "https://www.youtube.com/watch?v=ZweQKVo5D9E",
+      "thumbnail": "https://i.ytimg.com/vi/ZweQKVo5D9E/mqdefault_live.jpg",
+      "published": "2026-09-17T14:02:59Z"
     }
   ]
 }
