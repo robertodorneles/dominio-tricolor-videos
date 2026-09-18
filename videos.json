@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:00:50.030002+00:00",
+  "updated_at": "2026-09-18T17:00:40.974829+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #070",
-      "videoId": "_qaqsuoq9OQ",
-      "url": "https://www.youtube.com/watch?v=_qaqsuoq9OQ",
-      "thumbnail": "https://i.ytimg.com/vi/_qaqsuoq9OQ/mqdefault.jpg",
-      "published": "2026-09-18T14:56:29Z"
+      "title": "Não foi o Sonda que colocou o Inter na justiça?",
+      "videoId": "3rc5e5PK3b8",
+      "url": "https://www.youtube.com/watch?v=3rc5e5PK3b8",
+      "thumbnail": "https://i.ytimg.com/vi/3rc5e5PK3b8/mqdefault.jpg",
+      "published": "2026-09-18T16:54:27Z"
     },
     {
       "channel": "Bage TV",
-      "title": "Temos que acreditar é apoiar.",
-      "videoId": "UJyRD9H0mKQ",
-      "url": "https://www.youtube.com/watch?v=UJyRD9H0mKQ",
-      "thumbnail": "https://i.ytimg.com/vi/UJyRD9H0mKQ/mqdefault.jpg",
-      "published": "2026-09-18T14:51:18Z"
+      "title": "RENATO FAZ AS CONTAS NO GRÊMIO | INTER SOFRE MAIS TRANSFERBANS🔸RESENHA FORA DA SALA🔸#134",
+      "videoId": "wcXpJ7KlzTo",
+      "url": "https://www.youtube.com/watch?v=wcXpJ7KlzTo",
+      "thumbnail": "https://i.ytimg.com/vi/wcXpJ7KlzTo/mqdefault_live.jpg",
+      "published": "2026-09-18T16:30:25Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PÓS-JOGO: GRÊMIO X PALMEIRAS",
+      "videoId": "32aZjWG4dQU",
+      "url": "https://www.youtube.com/watch?v=32aZjWG4dQU",
+      "thumbnail": "https://i.ytimg.com/vi/32aZjWG4dQU/mqdefault_live.jpg",
+      "published": "2026-09-18T16:52:37Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #678: Renato | Luis Castro | Carballo | Chances de Rebaixamento e mais",
       "videoId": "kFqnr8qu1o0",
       "url": "https://www.youtube.com/watch?v=kFqnr8qu1o0",
@@ -59,20 +67,12 @@
       "published": "2026-09-18T12:34:00Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Nossa esperança é Renato Portaluppi | Apresentação e entrevista do técnico do Grêmio",
-      "videoId": "864NH0PhN3E",
-      "url": "https://www.youtube.com/watch?v=864NH0PhN3E",
-      "thumbnail": "https://i.ytimg.com/vi/864NH0PhN3E/mqdefault.jpg",
-      "published": "2026-09-17T23:18:25Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #16",
       "videoId": "IziMs_JifyA",
       "url": "https://www.youtube.com/watch?v=IziMs_JifyA",
       "thumbnail": "https://i.ytimg.com/vi/IziMs_JifyA/mqdefault_live.jpg",
-      "published": "2026-09-18T15:37:48Z"
+      "published": "2026-09-18T16:05:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Entrevista com Rodrigo Navarro, diretor da ANIP",
+      "videoId": "F3oaaX3rHqw",
+      "url": "https://www.youtube.com/watch?v=F3oaaX3rHqw",
+      "thumbnail": "https://i.ytimg.com/vi/F3oaaX3rHqw/mqdefault.jpg",
+      "published": "2026-09-18T16:44:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Dos CTGs ao The Voice Kids: Luíza Barbosa ABRE O CORAÇÃO sobre ser gaúcha, HATERS e mais | Paralelas",
       "videoId": "ATqw07U_UTs",
       "url": "https://www.youtube.com/watch?v=ATqw07U_UTs",
       "thumbnail": "https://i.ytimg.com/vi/ATqw07U_UTs/mqdefault.jpg",
       "published": "2026-09-18T15:05:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Quem faz o Acampamento Farroupilha acontecer? | No Rumo da Tradição #01",
-      "videoId": "SVyr3JnOP7U",
-      "url": "https://www.youtube.com/watch?v=SVyr3JnOP7U",
-      "thumbnail": "https://i.ytimg.com/vi/SVyr3JnOP7U/mqdefault.jpg",
-      "published": "2026-09-18T14:59:06Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 18/09/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 18/09/2026 | RÁDIO GRENAL",
       "videoId": "aknC_xPrISs",
       "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
       "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault_live.jpg",
