@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:00:38.336452+00:00",
+  "updated_at": "2026-09-18T11:00:41.253107+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #128",
+      "title": "RENATO VAI NOS SALVAR?🌅🔵 BOM DIA GRÊMIO #128",
       "videoId": "jZPs0scPs9w",
       "url": "https://www.youtube.com/watch?v=jZPs0scPs9w",
       "thumbnail": "https://i.ytimg.com/vi/jZPs0scPs9w/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Últimas notícias, política, trânsito, previsão do tempo e mais | Gaúcha Atualidade | 18/09/2026",
+      "videoId": "TgJSdLzhrkk",
+      "url": "https://www.youtube.com/watch?v=TgJSdLzhrkk",
+      "thumbnail": "https://i.ytimg.com/vi/TgJSdLzhrkk/mqdefault_live.jpg",
+      "published": "2026-09-18T10:56:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Novas regras da ANAC, abstenções aumentam no RS, trânsito e mais | Gaúcha+ | 17/09/2026",
       "videoId": "mI1cmZ7E1B0",
       "url": "https://www.youtube.com/watch?v=mI1cmZ7E1B0",
       "thumbnail": "https://i.ytimg.com/vi/mI1cmZ7E1B0/mqdefault.jpg",
       "published": "2026-09-18T07:38:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Eleição vai acabar no 1º turno? | Chamada Eleitoral",
-      "videoId": "MYMbA9E1i4I",
-      "url": "https://www.youtube.com/watch?v=MYMbA9E1i4I",
-      "thumbnail": "https://i.ytimg.com/vi/MYMbA9E1i4I/mqdefault.jpg",
-      "published": "2026-09-17T22:30:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 18/09/2026",
+      "videoId": "aknC_xPrISs",
+      "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
+      "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault_live.jpg",
+      "published": "2026-09-18T10:56:16Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "COLETIVA DE APRESENTAÇÃO DE RENATO GAÚCHO - NOVO TÉCNICO DO GRÊMIO | RÁDIO GRENAL | 17/09/2026",
       "videoId": "4mz9sU_iPHU",
       "url": "https://www.youtube.com/watch?v=4mz9sU_iPHU",
@@ -219,12 +227,12 @@
       "published": "2026-09-18T01:02:25Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "17/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Kq2JDgrInq0",
-      "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
-      "thumbnail": "https://i.ytimg.com/vi/Kq2JDgrInq0/mqdefault.jpg",
-      "published": "2026-09-17T23:45:10Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #25 — RENATO CONVOCA A TORCIDA PARA DOMINGO | CBF TIRA SARRO DO GRÊMIO!!",
+      "videoId": "RJsGp4TJb48",
+      "url": "https://www.youtube.com/watch?v=RJsGp4TJb48",
+      "thumbnail": "https://i.ytimg.com/vi/RJsGp4TJb48/mqdefault_live.jpg",
+      "published": "2026-09-18T10:08:45Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=ml4Q7Ziyk0k",
       "thumbnail": "https://i.ytimg.com/vi/ml4Q7Ziyk0k/mqdefault.jpg",
       "published": "2026-09-18T01:36:55Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #158 — GRÊMIO ARMA CLIMA DE DECISÃO PARA A REESTREIA DE RENATO PORTALUPPI",
-      "videoId": "PbKO-1V7Zdo",
-      "url": "https://www.youtube.com/watch?v=PbKO-1V7Zdo",
-      "thumbnail": "https://i.ytimg.com/vi/PbKO-1V7Zdo/mqdefault_live.jpg",
-      "published": "2026-09-18T01:08:55Z"
     }
   ]
 }
