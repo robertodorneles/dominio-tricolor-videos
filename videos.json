@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-18T01:00:40.985369+00:00",
+  "updated_at": "2026-09-18T02:00:42.837571+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: RENATO APRESENTADO  | OS CÁLCULOS DE INTER E GRÊMIO AGORA...",
+      "videoId": "WlQUO5-lb50",
+      "url": "https://www.youtube.com/watch?v=WlQUO5-lb50",
+      "thumbnail": "https://i.ytimg.com/vi/WlQUO5-lb50/mqdefault_live.jpg",
+      "published": "2026-09-18T01:48:52Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: É MT PIOR DO QUE PARECIA | ESPECIALISTAS CHEGAM NO MESMO RESULTADO",
@@ -11,12 +19,12 @@
       "published": "2026-09-17T19:12:33Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "VAR, POLÊMICA E GRÊMIO",
-      "videoId": "83E4wjl-cko",
-      "url": "https://www.youtube.com/watch?v=83E4wjl-cko",
-      "thumbnail": "https://i.ytimg.com/vi/83E4wjl-cko/mqdefault.jpg",
-      "published": "2026-09-17T14:36:32Z"
+      "channel": "Bage TV",
+      "title": "RENATO VAI SALVAR O GRÊMIO DO REBAIXAMENTO?🔵 BOA NOITE GRÊMIO #025",
+      "videoId": "a0J2qHMPVEA",
+      "url": "https://www.youtube.com/watch?v=a0J2qHMPVEA",
+      "thumbnail": "https://i.ytimg.com/vi/a0J2qHMPVEA/mqdefault_live.jpg",
+      "published": "2026-09-18T01:58:57Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=z2JOdVd1zdg",
       "thumbnail": "https://i.ytimg.com/vi/z2JOdVd1zdg/mqdefault.jpg",
       "published": "2026-09-18T00:40:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO VAI SALVAR O GRÊMIO DO REBAIXAMENTO?🔵 BOA NOITE GRÊMIO #025",
-      "videoId": "a0J2qHMPVEA",
-      "url": "https://www.youtube.com/watch?v=a0J2qHMPVEA",
-      "thumbnail": "https://i.ytimg.com/vi/a0J2qHMPVEA/mqdefault_live.jpg",
-      "published": "2026-09-18T00:38:24Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "RISCO DO GRÊMIO AUMENTA: Veja a nova conta + Clube vai à CBF + “chá de revelação” e nova aposta",
-      "videoId": "1fOnoiCSoMk",
-      "url": "https://www.youtube.com/watch?v=1fOnoiCSoMk",
-      "thumbnail": "https://i.ytimg.com/vi/1fOnoiCSoMk/mqdefault.jpg",
-      "published": "2026-09-17T15:25:26Z"
+      "title": "AQUELA LIVE: Renato revela a conta dele + transferban no Inter",
+      "videoId": "gM_f8-ULqkM",
+      "url": "https://www.youtube.com/watch?v=gM_f8-ULqkM",
+      "thumbnail": "https://i.ytimg.com/vi/gM_f8-ULqkM/mqdefault_live.jpg",
+      "published": "2026-09-18T01:51:27Z"
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: GRÊMIO PERDE MAIS UMA FORA E GRINGO VOLTANDO NO INTER",
-      "videoId": "fYUhEgH7220",
-      "url": "https://www.youtube.com/watch?v=fYUhEgH7220",
-      "thumbnail": "https://i.ytimg.com/vi/fYUhEgH7220/mqdefault.jpg",
-      "published": "2026-09-17T12:08:09Z"
+      "title": "RENATO TÁ CERTO? A conta pra escapar (fui conferir se é real) + Tetê e um discurso claro",
+      "videoId": "yMDRNSEgA-c",
+      "url": "https://www.youtube.com/watch?v=yMDRNSEgA-c",
+      "thumbnail": "https://i.ytimg.com/vi/yMDRNSEgA-c/mqdefault.jpg",
+      "published": "2026-09-18T01:15:05Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE APRESENTAÇÃO DE RENATO GAÚCHO - NOVO TÉCNICO DO GRÊMIO | RÁDIO GRENAL | 17/09/2026",
+      "videoId": "4mz9sU_iPHU",
+      "url": "https://www.youtube.com/watch?v=4mz9sU_iPHU",
+      "thumbnail": "https://i.ytimg.com/vi/4mz9sU_iPHU/mqdefault.jpg",
+      "published": "2026-09-18T01:02:25Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "17/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Kq2JDgrInq0",
       "url": "https://www.youtube.com/watch?v=Kq2JDgrInq0",
@@ -219,28 +227,20 @@
       "published": "2026-09-17T23:45:10Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "RENATO E TETÊ 🇪🇪",
-      "videoId": "KTC6ROLk4sA",
-      "url": "https://www.youtube.com/watch?v=KTC6ROLk4sA",
-      "thumbnail": "https://i.ytimg.com/vi/KTC6ROLk4sA/mqdefault.jpg",
-      "published": "2026-09-17T23:02:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #25 — RENATO CONVOCA A TORCIDA PARA DOMINGO | CBF TIRA SARRO DO GRÊMIO!!",
-      "videoId": "RJsGp4TJb48",
-      "url": "https://www.youtube.com/watch?v=RJsGp4TJb48",
-      "thumbnail": "https://i.ytimg.com/vi/RJsGp4TJb48/mqdefault_live.jpg",
-      "published": "2026-09-18T01:00:11Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "ENTREVISTA COM LEONARDO GACIBA I RENATO PORTALUPPI APRESENTADO |  NOITES DE GRÊMIO #147 - 17/09",
       "videoId": "ml4Q7Ziyk0k",
       "url": "https://www.youtube.com/watch?v=ml4Q7Ziyk0k",
-      "thumbnail": "https://i.ytimg.com/vi/ml4Q7Ziyk0k/mqdefault_live.jpg",
-      "published": "2026-09-18T00:07:12Z"
+      "thumbnail": "https://i.ytimg.com/vi/ml4Q7Ziyk0k/mqdefault.jpg",
+      "published": "2026-09-18T01:36:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #158 — GRÊMIO ARMA CLIMA DE DECISÃO PARA A REESTREIA DE RENATO PORTALUPPI",
+      "videoId": "PbKO-1V7Zdo",
+      "url": "https://www.youtube.com/watch?v=PbKO-1V7Zdo",
+      "thumbnail": "https://i.ytimg.com/vi/PbKO-1V7Zdo/mqdefault_live.jpg",
+      "published": "2026-09-18T01:08:55Z"
     }
   ]
 }
