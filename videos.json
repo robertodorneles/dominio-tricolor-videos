@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-18T20:00:40.783061+00:00",
+  "updated_at": "2026-09-18T20:20:13.678048+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio",
+      "videoId": "NiCT8jCA0Yo",
+      "url": "https://www.youtube.com/watch?v=NiCT8jCA0Yo",
+      "thumbnail": "https://i.ytimg.com/vi/NiCT8jCA0Yo/mqdefault.jpg",
+      "published": "2026-09-18T20:00:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 SOLUÇÃO PARA DÍVIDA | MAIS UM TRANSFERBAN | A OPÇÃO POR VILLAGRA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=aYg15mfEeqI",
       "thumbnail": "https://i.ytimg.com/vi/aYg15mfEeqI/mqdefault.jpg",
       "published": "2026-09-18T07:18:41Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO LIGA ALERTA E DEFINE PRIORIDADE | RISCO DE QUEDA PASSA DE 50%",
-      "videoId": "1nLHKPKwi_0",
-      "url": "https://www.youtube.com/watch?v=1nLHKPKwi_0",
-      "thumbnail": "https://i.ytimg.com/vi/1nLHKPKwi_0/mqdefault.jpg",
-      "published": "2026-09-18T05:30:08Z"
     },
     {
       "channel": "Bage TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "LAÍS GIACOMEL, A NOVA LATERAL-DIREITA DO GRÊMIO FEMININO #aquiégrêmio",
+      "videoId": "sX9oxr0rpCw",
+      "url": "https://www.youtube.com/watch?v=sX9oxr0rpCw",
+      "thumbnail": "https://i.ytimg.com/vi/sX9oxr0rpCw/mqdefault.jpg",
+      "published": "2026-09-18T20:03:43Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "ENTREVISTA EXCLUSIVA COM LAÍS GIACOMEL",
       "videoId": "0DGB778a8gY",
       "url": "https://www.youtube.com/watch?v=0DGB778a8gY",
@@ -155,12 +163,12 @@
       "published": "2026-09-18T14:00:03Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA E RECEPÇÃO I TÉCNICO RENATO PORTALUPPI",
-      "videoId": "ydA6WDzv4Dg",
-      "url": "https://www.youtube.com/watch?v=ydA6WDzv4Dg",
-      "thumbnail": "https://i.ytimg.com/vi/ydA6WDzv4Dg/mqdefault.jpg",
-      "published": "2026-09-17T22:46:15Z"
+      "channel": "GZH Digital",
+      "title": "Como o churrasqueiro virou estrela de eventos e influenciador no RS | Do Espeto à Grelha",
+      "videoId": "SC2c1Cw5CpU",
+      "url": "https://www.youtube.com/watch?v=SC2c1Cw5CpU",
+      "thumbnail": "https://i.ytimg.com/vi/SC2c1Cw5CpU/mqdefault.jpg",
+      "published": "2026-09-18T20:01:58Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=UPAG8vWABJg",
       "thumbnail": "https://i.ytimg.com/vi/UPAG8vWABJg/mqdefault.jpg",
       "published": "2026-09-18T19:50:43Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Windbanners nas eleições, vereador preso, informações do trânsito e mais | Gaúcha+ | 18/09/2026",
-      "videoId": "zXfGkMgEZsY",
-      "url": "https://www.youtube.com/watch?v=zXfGkMgEZsY",
-      "thumbnail": "https://i.ytimg.com/vi/zXfGkMgEZsY/mqdefault_live.jpg",
-      "published": "2026-09-18T19:34:47Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TUDO SOBRE GRÊMIO X PALMEIRAS | RETORNOS IMPORTANTES PARA DOMINGO | NOITES DE GRÊMIO #148 - 18/09",
+      "videoId": "yRM1mdc3zvk",
+      "url": "https://www.youtube.com/watch?v=yRM1mdc3zvk",
+      "thumbnail": "https://i.ytimg.com/vi/yRM1mdc3zvk/mqdefault_live.jpg",
+      "published": "2026-09-18T20:18:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "RENATO VAI PROMOVER MUDANÇAS NO TIME? | GRÊMIO TEM RODADA IMPORTANTE ANTES DA DATA FIFA | ESPLANADA",
       "videoId": "aTTODMc5yT8",
       "url": "https://www.youtube.com/watch?v=aTTODMc5yT8",
       "thumbnail": "https://i.ytimg.com/vi/aTTODMc5yT8/mqdefault.jpg",
       "published": "2026-09-18T19:36:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #158 — GRÊMIO ARMA CLIMA DE DECISÃO PARA A REESTREIA DE RENATO PORTALUPPI",
-      "videoId": "PbKO-1V7Zdo",
-      "url": "https://www.youtube.com/watch?v=PbKO-1V7Zdo",
-      "thumbnail": "https://i.ytimg.com/vi/PbKO-1V7Zdo/mqdefault.jpg",
-      "published": "2026-09-18T15:08:41Z"
     }
   ]
 }
