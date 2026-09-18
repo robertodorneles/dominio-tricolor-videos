@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T12:00:39.513478+00:00",
+  "updated_at": "2026-09-18T13:00:42.610424+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 18/09 - #637",
+      "title": "COMO ELE VAI ARRUMAR O TIME? #CORTESDOBOMDIA",
+      "videoId": "1XAw6g55thA",
+      "url": "https://www.youtube.com/watch?v=1XAw6g55thA",
+      "thumbnail": "https://i.ytimg.com/vi/1XAw6g55thA/mqdefault.jpg",
+      "published": "2026-09-18T12:00:20Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "RENATO ESCLARECE HISTÓRIA COM TETÊ🔵 FUTEBOL ALEGRIA DO GRÊMIO - 18/09 - #637",
       "videoId": "NlTHGnc06rc",
       "url": "https://www.youtube.com/watch?v=NlTHGnc06rc",
       "thumbnail": "https://i.ytimg.com/vi/NlTHGnc06rc/mqdefault_live.jpg",
       "published": "2026-09-18T11:59:34Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO VAI NOS SALVAR?🌅🔵 BOM DIA GRÊMIO #128",
-      "videoId": "jZPs0scPs9w",
-      "url": "https://www.youtube.com/watch?v=jZPs0scPs9w",
-      "thumbnail": "https://i.ytimg.com/vi/jZPs0scPs9w/mqdefault.jpg",
-      "published": "2026-09-18T11:55:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #678: Renato | Luis Castro | Carballo | Chances de Rebaixamento e mais",
+      "videoId": "kFqnr8qu1o0",
+      "url": "https://www.youtube.com/watch?v=kFqnr8qu1o0",
+      "thumbnail": "https://i.ytimg.com/vi/kFqnr8qu1o0/mqdefault.jpg",
+      "published": "2026-09-18T12:34:00Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Nossa esperança é Renato Portaluppi | Apresentação e entrevista do técnico do Grêmio",
       "videoId": "864NH0PhN3E",
       "url": "https://www.youtube.com/watch?v=864NH0PhN3E",
@@ -59,20 +67,12 @@
       "published": "2026-09-17T23:18:25Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "“Vai ser difícil, mas não impossível”  As primeiras palavras de Renato na volta ao Grêmio",
-      "videoId": "DRZL6Qkan64",
-      "url": "https://www.youtube.com/watch?v=DRZL6Qkan64",
-      "thumbnail": "https://i.ytimg.com/vi/DRZL6Qkan64/mqdefault.jpg",
-      "published": "2026-09-17T21:56:41Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #020",
       "videoId": "YdpOOKGCgXM",
       "url": "https://www.youtube.com/watch?v=YdpOOKGCgXM",
-      "thumbnail": "https://i.ytimg.com/vi/YdpOOKGCgXM/mqdefault_live.jpg",
-      "published": "2026-09-18T11:36:48Z"
+      "thumbnail": "https://i.ytimg.com/vi/YdpOOKGCgXM/mqdefault.jpg",
+      "published": "2026-09-18T12:53:34Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ELE VOLTOU! DJALMA BELTRAMI, ÁRBITRO DA BATALHA DO AFLITOS! #gremio #futebol #palmeiras",
+      "videoId": "7FZZojfIDHc",
+      "url": "https://www.youtube.com/watch?v=7FZZojfIDHc",
+      "thumbnail": "https://i.ytimg.com/vi/7FZZojfIDHc/mqdefault.jpg",
+      "published": "2026-09-18T12:30:12Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "TUDO DA COLETIVA DO RENATO DE APRESENTAÇÃO | AS MUDANÇAS COMEÇARAM NO GRÊMIO.",
       "videoId": "8vfw9fzDAhY",
       "url": "https://www.youtube.com/watch?v=8vfw9fzDAhY",
       "thumbnail": "https://i.ytimg.com/vi/8vfw9fzDAhY/mqdefault.jpg",
       "published": "2026-09-17T23:59:22Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "RECEPÇÃO E COLETIVA RENATO PORTALUPPI | 17H:30min",
-      "videoId": "yOx8lDwJ2Aw",
-      "url": "https://www.youtube.com/watch?v=yOx8lDwJ2Aw",
-      "thumbnail": "https://i.ytimg.com/vi/yOx8lDwJ2Aw/mqdefault.jpg",
-      "published": "2026-09-17T22:52:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 18.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "jBca9JtTYSI",
+      "url": "https://www.youtube.com/watch?v=jBca9JtTYSI",
+      "thumbnail": "https://i.ytimg.com/vi/jBca9JtTYSI/mqdefault_live.jpg",
+      "published": "2026-09-18T12:00:56Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O GRÊMIO VAI REPETIR O PASSADO?",
       "videoId": "YF6FuUHr_f4",
       "url": "https://www.youtube.com/watch?v=YF6FuUHr_f4",
       "thumbnail": "https://i.ytimg.com/vi/YF6FuUHr_f4/mqdefault.jpg",
       "published": "2026-09-17T23:30:19Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A MELHOR CONTRATAÇÃO DO GRÊMIO NA ERA DUDA KROEFF: O MAESTRO QUE COMANDOU O TIME | Cortes do Duda",
-      "videoId": "uT0B64c4dV8",
-      "url": "https://www.youtube.com/watch?v=uT0B64c4dV8",
-      "thumbnail": "https://i.ytimg.com/vi/uT0B64c4dV8/mqdefault.jpg",
-      "published": "2026-09-17T23:30:07Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: Renato revela a conta dele + transferban no Inter",
-      "videoId": "gM_f8-ULqkM",
-      "url": "https://www.youtube.com/watch?v=gM_f8-ULqkM",
-      "thumbnail": "https://i.ytimg.com/vi/gM_f8-ULqkM/mqdefault_live.jpg",
-      "published": "2026-09-18T11:02:53Z"
+      "title": "O QUE ESTÁ POR TRÁS? Clubes a favor das bets + o perigo real",
+      "videoId": "Eezhvl14noE",
+      "url": "https://www.youtube.com/watch?v=Eezhvl14noE",
+      "thumbnail": "https://i.ytimg.com/vi/Eezhvl14noE/mqdefault.jpg",
+      "published": "2026-09-18T12:36:11Z"
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "RENATO TÁ CERTO? A conta pra escapar (fui conferir se é real) + Tetê e um discurso claro",
-      "videoId": "yMDRNSEgA-c",
-      "url": "https://www.youtube.com/watch?v=yMDRNSEgA-c",
-      "thumbnail": "https://i.ytimg.com/vi/yMDRNSEgA-c/mqdefault.jpg",
-      "published": "2026-09-18T01:15:05Z"
+      "title": "👀 AQUELA LIVE: O que aconteceu aqui? Uma live sem ninguém!!",
+      "videoId": "gM_f8-ULqkM",
+      "url": "https://www.youtube.com/watch?v=gM_f8-ULqkM",
+      "thumbnail": "https://i.ytimg.com/vi/gM_f8-ULqkM/mqdefault.jpg",
+      "published": "2026-09-18T12:06:33Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,16 +231,16 @@
       "title": "CAFÉ COM A IMORTAL #25 — RENATO CONVOCA A TORCIDA PARA DOMINGO | CBF TIRA SARRO DO GRÊMIO!!",
       "videoId": "RJsGp4TJb48",
       "url": "https://www.youtube.com/watch?v=RJsGp4TJb48",
-      "thumbnail": "https://i.ytimg.com/vi/RJsGp4TJb48/mqdefault_live.jpg",
-      "published": "2026-09-18T10:08:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/RJsGp4TJb48/mqdefault.jpg",
+      "published": "2026-09-18T12:45:28Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "ENTREVISTA COM LEONARDO GACIBA I RENATO PORTALUPPI APRESENTADO |  NOITES DE GRÊMIO #147 - 17/09",
-      "videoId": "ml4Q7Ziyk0k",
-      "url": "https://www.youtube.com/watch?v=ml4Q7Ziyk0k",
-      "thumbnail": "https://i.ytimg.com/vi/ml4Q7Ziyk0k/mqdefault.jpg",
-      "published": "2026-09-18T01:36:55Z"
+      "title": "GRÊMIO BUSCA FORÇAS PARA CONFRONTO CONTRA O PALMEIRAS | COMO É BOM SER DO GRÊMIO #45",
+      "videoId": "h2Mtm-gEK6U",
+      "url": "https://www.youtube.com/watch?v=h2Mtm-gEK6U",
+      "thumbnail": "https://i.ytimg.com/vi/h2Mtm-gEK6U/mqdefault_live.jpg",
+      "published": "2026-09-18T12:35:10Z"
     }
   ]
 }
