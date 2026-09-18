@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-18T21:01:01.072800+00:00",
+  "updated_at": "2026-09-18T22:00:42.517379+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 💰 CANDIDATOS AVANÇAM POR INVESTIDORES | O PLANO PARA SAIR DO BURACO DE CADA UM | RJ?",
+      "videoId": "inMorx1N8tE",
+      "url": "https://www.youtube.com/watch?v=inMorx1N8tE",
+      "thumbnail": "https://i.ytimg.com/vi/inMorx1N8tE/mqdefault.jpg",
+      "published": "2026-09-18T21:58:24Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Castro e direção buscam acordo para finalizar o contrato do treinador | R$ 30 milhões?!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=NiCT8jCA0Yo",
       "thumbnail": "https://i.ytimg.com/vi/NiCT8jCA0Yo/mqdefault.jpg",
       "published": "2026-09-18T20:00:16Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 SOLUÇÃO PARA DÍVIDA | MAIS UM TRANSFERBAN | A OPÇÃO POR VILLAGRA",
-      "videoId": "aYg15mfEeqI",
-      "url": "https://www.youtube.com/watch?v=aYg15mfEeqI",
-      "thumbnail": "https://i.ytimg.com/vi/aYg15mfEeqI/mqdefault.jpg",
-      "published": "2026-09-18T07:18:41Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #679: Polêmica | Felipão | Time de Renato | Público na Arena e mais",
+      "videoId": "E5RKjYtiSf8",
+      "url": "https://www.youtube.com/watch?v=E5RKjYtiSf8",
+      "thumbnail": "https://i.ytimg.com/vi/E5RKjYtiSf8/mqdefault.jpg",
+      "published": "2026-09-18T21:56:45Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PÓS-JOGO: GRÊMIO X PALMEIRAS",
       "videoId": "32aZjWG4dQU",
       "url": "https://www.youtube.com/watch?v=32aZjWG4dQU",
@@ -59,12 +67,12 @@
       "published": "2026-09-18T16:52:37Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #678: Renato | Luis Castro | Carballo | Chances de Rebaixamento e mais",
-      "videoId": "kFqnr8qu1o0",
-      "url": "https://www.youtube.com/watch?v=kFqnr8qu1o0",
-      "thumbnail": "https://i.ytimg.com/vi/kFqnr8qu1o0/mqdefault.jpg",
-      "published": "2026-09-18T12:34:00Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 18/09/2026",
+      "videoId": "jFYffCKLrt0",
+      "url": "https://www.youtube.com/watch?v=jFYffCKLrt0",
+      "thumbnail": "https://i.ytimg.com/vi/jFYffCKLrt0/mqdefault_live.jpg",
+      "published": "2026-09-18T21:46:56Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=IziMs_JifyA",
       "thumbnail": "https://i.ytimg.com/vi/IziMs_JifyA/mqdefault.jpg",
       "published": "2026-09-18T17:17:11Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #020",
-      "videoId": "YdpOOKGCgXM",
-      "url": "https://www.youtube.com/watch?v=YdpOOKGCgXM",
-      "thumbnail": "https://i.ytimg.com/vi/YdpOOKGCgXM/mqdefault.jpg",
-      "published": "2026-09-18T12:53:34Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MUDANÇAS NO TIME | BLOQUEOU A CONTA NO BANCO? | REUNIÃO GRÊMIO E CBF!",
+      "videoId": "_6nrBqC9hkA",
+      "url": "https://www.youtube.com/watch?v=_6nrBqC9hkA",
+      "thumbnail": "https://i.ytimg.com/vi/_6nrBqC9hkA/mqdefault.jpg",
+      "published": "2026-09-18T21:24:02Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ELE VOLTOU! DJALMA BELTRAMI, ÁRBITRO DA BATALHA DO AFLITOS! #gremio #futebol #palmeiras",
       "videoId": "7FZZojfIDHc",
       "url": "https://www.youtube.com/watch?v=7FZZojfIDHc",
       "thumbnail": "https://i.ytimg.com/vi/7FZZojfIDHc/mqdefault.jpg",
       "published": "2026-09-18T12:30:12Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "TUDO DA COLETIVA DO RENATO DE APRESENTAÇÃO | AS MUDANÇAS COMEÇARAM NO GRÊMIO.",
-      "videoId": "8vfw9fzDAhY",
-      "url": "https://www.youtube.com/watch?v=8vfw9fzDAhY",
-      "thumbnail": "https://i.ytimg.com/vi/8vfw9fzDAhY/mqdefault.jpg",
-      "published": "2026-09-17T23:59:22Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "A nova rota da campanha de Zucco e o pacto de não agressão com Juliana",
+      "videoId": "Gb9XSrvQcU8",
+      "url": "https://www.youtube.com/watch?v=Gb9XSrvQcU8",
+      "thumbnail": "https://i.ytimg.com/vi/Gb9XSrvQcU8/mqdefault.jpg",
+      "published": "2026-09-18T22:00:21Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Ministros do STF viram personagens de jogo de luta | PALANQUE DIGITAL",
       "videoId": "DQvumpkeC78",
       "url": "https://www.youtube.com/watch?v=DQvumpkeC78",
       "thumbnail": "https://i.ytimg.com/vi/DQvumpkeC78/mqdefault.jpg",
       "published": "2026-09-18T20:33:56Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Eleições no RS: as apostas dos partidos para eleger deputados federais | Conversa de Gabinete",
-      "videoId": "GG2zGOBQMRk",
-      "url": "https://www.youtube.com/watch?v=GG2zGOBQMRk",
-      "thumbnail": "https://i.ytimg.com/vi/GG2zGOBQMRk/mqdefault.jpg",
-      "published": "2026-09-18T20:30:10Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | 18/09/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | CLUBE GRENAL | 18/09/2026 | RÁDIO GRENAL",
       "videoId": "aknC_xPrISs",
       "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
       "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault_live.jpg",
       "published": "2026-09-18T11:06:28Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO BUSCA VITÓRIA IMPROVÁVEL NA ESTREIA DE RENATO | A PROJEÇÃO DA RODADA 28 | IMORTAL FC",
+      "videoId": "94iqtpDjWtM",
+      "url": "https://www.youtube.com/watch?v=94iqtpDjWtM",
+      "thumbnail": "https://i.ytimg.com/vi/94iqtpDjWtM/mqdefault_live.jpg",
+      "published": "2026-09-18T21:01:46Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=TZplpWZJef4",
       "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault_live.jpg",
       "published": "2026-09-18T20:51:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TUDO SOBRE GRÊMIO X PALMEIRAS | RETORNOS IMPORTANTES PARA DOMINGO | NOITES DE GRÊMIO #148 - 18/09",
-      "videoId": "yRM1mdc3zvk",
-      "url": "https://www.youtube.com/watch?v=yRM1mdc3zvk",
-      "thumbnail": "https://i.ytimg.com/vi/yRM1mdc3zvk/mqdefault_live.jpg",
-      "published": "2026-09-18T20:18:08Z"
     }
   ]
 }
