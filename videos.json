@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:00:37.569003+00:00",
+  "updated_at": "2026-09-19T15:00:39.609404+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE DOMINGO",
+      "videoId": "RKRfw4ckbow",
+      "url": "https://www.youtube.com/watch?v=RKRfw4ckbow",
+      "thumbnail": "https://i.ytimg.com/vi/RKRfw4ckbow/mqdefault_live.jpg",
+      "published": "2026-09-19T14:50:19Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #679: Polêmica | Felipão | Time de Renato | Público na Arena e mais",
       "videoId": "E5RKjYtiSf8",
       "url": "https://www.youtube.com/watch?v=E5RKjYtiSf8",
@@ -59,12 +67,12 @@
       "published": "2026-09-18T21:56:45Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: GRÊMIO X PALMEIRAS",
-      "videoId": "32aZjWG4dQU",
-      "url": "https://www.youtube.com/watch?v=32aZjWG4dQU",
-      "thumbnail": "https://i.ytimg.com/vi/32aZjWG4dQU/mqdefault_live.jpg",
-      "published": "2026-09-18T16:52:37Z"
+      "channel": "Canal do Farid",
+      "title": "ENTREVISTA COM FBI TRICOLOR - \"FALA, COSTA!\" #10",
+      "videoId": "AjajoGU0anA",
+      "url": "https://www.youtube.com/watch?v=AjajoGU0anA",
+      "thumbnail": "https://i.ytimg.com/vi/AjajoGU0anA/mqdefault.jpg",
+      "published": "2026-09-19T13:46:37Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=hIx_3hQnZoI",
       "thumbnail": "https://i.ytimg.com/vi/hIx_3hQnZoI/mqdefault_live.jpg",
       "published": "2026-09-19T00:27:38Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 18/09/2026",
-      "videoId": "jFYffCKLrt0",
-      "url": "https://www.youtube.com/watch?v=jFYffCKLrt0",
-      "thumbnail": "https://i.ytimg.com/vi/jFYffCKLrt0/mqdefault.jpg",
-      "published": "2026-09-18T23:10:59Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,35 +132,43 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UMA AULA SOBRE… ABDÔMEN, POSTURA E DOR com Roberta Toledo | #39",
-      "videoId": "bmdLQn07nDU",
-      "url": "https://www.youtube.com/watch?v=bmdLQn07nDU",
-      "thumbnail": "https://i.ytimg.com/vi/bmdLQn07nDU/mqdefault.jpg",
-      "published": "2026-09-19T13:00:20Z"
+      "title": "ACORDE SEM DOR NAS COSTAS #dudagarbi #rafaelbarleze #umaaulasobre",
+      "videoId": "7tKDhckWigI",
+      "url": "https://www.youtube.com/watch?v=7tKDhckWigI",
+      "thumbnail": "https://i.ytimg.com/vi/7tKDhckWigI/mqdefault.jpg",
+      "published": "2026-09-19T14:30:31Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM GREMISTA HISTÓRICO #dudagarbi #umassadopara",
-      "videoId": "T4eZUuJ0src",
-      "url": "https://www.youtube.com/watch?v=T4eZUuJ0src",
-      "thumbnail": "https://i.ytimg.com/vi/T4eZUuJ0src/mqdefault.jpg",
-      "published": "2026-09-18T21:00:36Z"
+      "title": "BUSCA POR POSTURA PERFEITA PODE CAUSAR DOR | Uma Aula Sobre… Abdômen, Postura e Dor",
+      "videoId": "IjsGWZIyFB0",
+      "url": "https://www.youtube.com/watch?v=IjsGWZIyFB0",
+      "thumbnail": "https://i.ytimg.com/vi/IjsGWZIyFB0/mqdefault.jpg",
+      "published": "2026-09-19T14:30:04Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ARAUCÁRIA I MASC (COPA SUL SUB-20 I 2026)",
-      "videoId": "oKC8n2qdxCs",
-      "url": "https://www.youtube.com/watch?v=oKC8n2qdxCs",
-      "thumbnail": "https://i.ytimg.com/vi/oKC8n2qdxCs/mqdefault_live.jpg",
-      "published": "2026-09-19T13:36:46Z"
+      "title": "GRÊMIO FEMININO PREPARADO PARA A ESTREIA NO GAUCHÃO",
+      "videoId": "tKRWWlahDGo",
+      "url": "https://www.youtube.com/watch?v=tKRWWlahDGo",
+      "thumbnail": "https://i.ytimg.com/vi/tKRWWlahDGo/mqdefault.jpg",
+      "published": "2026-09-19T14:40:36Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "LAÍS GIACOMEL, A NOVA LATERAL-DIREITA DO GRÊMIO FEMININO #aquiégrêmio",
-      "videoId": "sX9oxr0rpCw",
-      "url": "https://www.youtube.com/watch?v=sX9oxr0rpCw",
-      "thumbnail": "https://i.ytimg.com/vi/sX9oxr0rpCw/mqdefault.jpg",
-      "published": "2026-09-18T20:03:43Z"
+      "title": "GRÊMIO FEMININO PREPARADO PARA A ESTREIA NO GAUCHÃO",
+      "videoId": "Qv3tRpGpvhs",
+      "url": "https://www.youtube.com/watch?v=Qv3tRpGpvhs",
+      "thumbnail": "https://i.ytimg.com/vi/Qv3tRpGpvhs/mqdefault.jpg",
+      "published": "2026-09-19T14:00:15Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Em volta do fogo | No Rumo da Tradição #02",
+      "videoId": "8boRoaSJ-ow",
+      "url": "https://www.youtube.com/watch?v=8boRoaSJ-ow",
+      "thumbnail": "https://i.ytimg.com/vi/8boRoaSJ-ow/mqdefault.jpg",
+      "published": "2026-09-19T15:00:07Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=UPAG8vWABJg",
       "thumbnail": "https://i.ytimg.com/vi/UPAG8vWABJg/mqdefault.jpg",
       "published": "2026-09-19T14:00:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Capital do Churrasco mantém tradição dos espetos de pau",
-      "videoId": "FXgR7OmFnW0",
-      "url": "https://www.youtube.com/watch?v=FXgR7OmFnW0",
-      "thumbnail": "https://i.ytimg.com/vi/FXgR7OmFnW0/mqdefault.jpg",
-      "published": "2026-09-19T11:00:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DE ENCARAR O PALMEIRAS | AJUSTES TÁTICOS NO TIME | PLANTÃO IMORTAL",
       "videoId": "TZplpWZJef4",
       "url": "https://www.youtube.com/watch?v=TZplpWZJef4",
-      "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault_live.jpg",
-      "published": "2026-09-19T12:04:34Z"
+      "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault.jpg",
+      "published": "2026-09-19T14:32:17Z"
     },
     {
       "channel": "Radio Imortal",
