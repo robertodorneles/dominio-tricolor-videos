@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-09-19T18:00:41.198653+00:00",
+  "updated_at": "2026-09-19T19:00:36.211912+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter KTO: 🔥 SONDAGEM POR TITULARES | PEZZOLANO VAI MUDAR? | DÁ PRA SAIR DO Z4",
+      "title": "🔵⚫️ Grêmio: RENATO JÁ ESCOLHEU QUEM QUER RECUPERAR | A missão com 3 jogadores",
+      "videoId": "KLsB2JSphSY",
+      "url": "https://www.youtube.com/watch?v=KLsB2JSphSY",
+      "thumbnail": "https://i.ytimg.com/vi/KLsB2JSphSY/mqdefault.jpg",
+      "published": "2026-09-19T18:58:12Z"
+    },
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 SONDAGEM POR TITULARES | PEZZOLANO VAI MUDAR? | DÁ PRA SAIR DO Z4",
       "videoId": "HSnGokSQAxE",
       "url": "https://www.youtube.com/watch?v=HSnGokSQAxE",
       "thumbnail": "https://i.ytimg.com/vi/HSnGokSQAxE/mqdefault.jpg",
       "published": "2026-09-19T06:22:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO MANDA MUDAR E DEFINE PRIMEIRA ORDEM! CBF DIVULGA ÁUDIO DO VAR",
-      "videoId": "WY7IPl3pwFw",
-      "url": "https://www.youtube.com/watch?v=WY7IPl3pwFw",
-      "thumbnail": "https://i.ytimg.com/vi/WY7IPl3pwFw/mqdefault.jpg",
-      "published": "2026-09-19T06:00:50Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "\"Não fazemos exames\": por que startup gaúcha rejeita comparação com Theranos | Radar de Inovação",
-      "videoId": "Th1z8T4jXVE",
-      "url": "https://www.youtube.com/watch?v=Th1z8T4jXVE",
-      "thumbnail": "https://i.ytimg.com/vi/Th1z8T4jXVE/mqdefault.jpg",
-      "published": "2026-09-19T17:00:06Z"
+      "title": "Relembre o escândalo da Theranos e por que startup gaúcha diz ser diferente | Radar de Inovação",
+      "videoId": "4iqTzw4GQr4",
+      "url": "https://www.youtube.com/watch?v=4iqTzw4GQr4",
+      "thumbnail": "https://i.ytimg.com/vi/4iqTzw4GQr4/mqdefault.jpg",
+      "published": "2026-09-19T19:00:14Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Por que Piratini foi a primeira capital da República Rio-Grandense? | Aconteceu no RS",
-      "videoId": "ofrwmj10n7A",
-      "url": "https://www.youtube.com/watch?v=ofrwmj10n7A",
-      "thumbnail": "https://i.ytimg.com/vi/ofrwmj10n7A/mqdefault.jpg",
-      "published": "2026-09-19T16:15:15Z"
+      "title": "Mulheres comediantes transformam temas do cotidiano em humor",
+      "videoId": "y4FLtAUcOeM",
+      "url": "https://www.youtube.com/watch?v=y4FLtAUcOeM",
+      "thumbnail": "https://i.ytimg.com/vi/y4FLtAUcOeM/mqdefault.jpg",
+      "published": "2026-09-19T19:00:13Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X PALMEIRAS | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA DO GRÊMIO",
+      "videoId": "f4i4X4MpELs",
+      "url": "https://www.youtube.com/watch?v=f4i4X4MpELs",
+      "thumbnail": "https://i.ytimg.com/vi/f4i4X4MpELs/mqdefault_live.jpg",
+      "published": "2026-09-19T18:30:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DE ENCARAR O PALMEIRAS | AJUSTES TÁTICOS NO TIME | PLANTÃO IMORTAL",
       "videoId": "TZplpWZJef4",
       "url": "https://www.youtube.com/watch?v=TZplpWZJef4",
       "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault.jpg",
       "published": "2026-09-19T14:32:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TUDO SOBRE GRÊMIO X PALMEIRAS | RETORNOS IMPORTANTES PARA DOMINGO | NOITES DE GRÊMIO #148 - 18/09",
-      "videoId": "yRM1mdc3zvk",
-      "url": "https://www.youtube.com/watch?v=yRM1mdc3zvk",
-      "thumbnail": "https://i.ytimg.com/vi/yRM1mdc3zvk/mqdefault.jpg",
-      "published": "2026-09-19T01:34:46Z"
     }
   ]
 }
