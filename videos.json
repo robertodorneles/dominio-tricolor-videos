@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:00:39.054884+00:00",
+  "updated_at": "2026-09-19T14:00:37.569003+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "ANALISAMOS A TABELA DO BRASILEIRÃO! #CORTESDOBOMDIA",
+      "videoId": "LZJnypxvYQo",
+      "url": "https://www.youtube.com/watch?v=LZJnypxvYQo",
+      "thumbnail": "https://i.ytimg.com/vi/LZJnypxvYQo/mqdefault.jpg",
+      "published": "2026-09-19T13:33:55Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ENCARA O PALMEIRAS CHEIO DE DÚVIDAS 🌅🔵 BOM DIA GRÊMIO #129",
       "videoId": "eZYg8eg2GtA",
       "url": "https://www.youtube.com/watch?v=eZYg8eg2GtA",
@@ -27,12 +35,12 @@
       "published": "2026-09-19T12:33:57Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "RENATO PREPARA MUDANÇAS PARA DOMINGO?🔵 BOA NOITE GRÊMIO #026",
-      "videoId": "jGpZDOSMnMk",
-      "url": "https://www.youtube.com/watch?v=jGpZDOSMnMk",
-      "thumbnail": "https://i.ytimg.com/vi/jGpZDOSMnMk/mqdefault.jpg",
-      "published": "2026-09-19T02:08:36Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRÊMIO ASSINA COM ATACANTE JOVEM QUE TAVA NA MIRA DO CRUZEIRO | IMPROVISO NO TIME | OS PONTOS…",
+      "videoId": "A_7x5uvWVJk",
+      "url": "https://www.youtube.com/watch?v=A_7x5uvWVJk",
+      "thumbnail": "https://i.ytimg.com/vi/A_7x5uvWVJk/mqdefault.jpg",
+      "published": "2026-09-19T14:00:00Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=gbm5Jn0zqmg",
       "thumbnail": "https://i.ytimg.com/vi/gbm5Jn0zqmg/mqdefault.jpg",
       "published": "2026-09-19T00:06:24Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO AINDA PODE CONTRATAR | ATACANTE DE VOLTA | TROCA NA LATERAL",
-      "videoId": "h_yfSJsDZ54",
-      "url": "https://www.youtube.com/watch?v=h_yfSJsDZ54",
-      "thumbnail": "https://i.ytimg.com/vi/h_yfSJsDZ54/mqdefault.jpg",
-      "published": "2026-09-18T15:05:52Z"
     },
     {
       "channel": "Canal do CCD",
@@ -132,6 +132,14 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "UMA AULA SOBRE… ABDÔMEN, POSTURA E DOR com Roberta Toledo | #39",
+      "videoId": "bmdLQn07nDU",
+      "url": "https://www.youtube.com/watch?v=bmdLQn07nDU",
+      "thumbnail": "https://i.ytimg.com/vi/bmdLQn07nDU/mqdefault.jpg",
+      "published": "2026-09-19T13:00:20Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM GREMISTA HISTÓRICO #dudagarbi #umassadopara",
       "videoId": "T4eZUuJ0src",
       "url": "https://www.youtube.com/watch?v=T4eZUuJ0src",
@@ -139,12 +147,12 @@
       "published": "2026-09-18T21:00:36Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "COMO RENATO TRANSFORMOU UM ELENCO MÉDIO EM TIME FORTE | Cortes do Duda",
-      "videoId": "uzt2gZ3eysQ",
-      "url": "https://www.youtube.com/watch?v=uzt2gZ3eysQ",
-      "thumbnail": "https://i.ytimg.com/vi/uzt2gZ3eysQ/mqdefault.jpg",
-      "published": "2026-09-18T21:00:00Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ARAUCÁRIA I MASC (COPA SUL SUB-20 I 2026)",
+      "videoId": "oKC8n2qdxCs",
+      "url": "https://www.youtube.com/watch?v=oKC8n2qdxCs",
+      "thumbnail": "https://i.ytimg.com/vi/oKC8n2qdxCs/mqdefault_live.jpg",
+      "published": "2026-09-19T13:36:46Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -155,12 +163,12 @@
       "published": "2026-09-18T20:03:43Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "ENTREVISTA EXCLUSIVA COM LAÍS GIACOMEL",
-      "videoId": "0DGB778a8gY",
-      "url": "https://www.youtube.com/watch?v=0DGB778a8gY",
-      "thumbnail": "https://i.ytimg.com/vi/0DGB778a8gY/mqdefault.jpg",
-      "published": "2026-09-18T14:00:03Z"
+      "channel": "GZH Digital",
+      "title": "Espeto de madeira e parrilla: o que muda no jeito de fazer churrasco pelo RS | Do Espeto à Grelha",
+      "videoId": "UPAG8vWABJg",
+      "url": "https://www.youtube.com/watch?v=UPAG8vWABJg",
+      "thumbnail": "https://i.ytimg.com/vi/UPAG8vWABJg/mqdefault.jpg",
+      "published": "2026-09-19T14:00:08Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=FXgR7OmFnW0",
       "thumbnail": "https://i.ytimg.com/vi/FXgR7OmFnW0/mqdefault.jpg",
       "published": "2026-09-19T11:00:26Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Windbanners nas eleições, vereador preso, informações do trânsito e mais | Gaúcha+ | 18/09/2026",
-      "videoId": "zXfGkMgEZsY",
-      "url": "https://www.youtube.com/watch?v=zXfGkMgEZsY",
-      "thumbnail": "https://i.ytimg.com/vi/zXfGkMgEZsY/mqdefault.jpg",
-      "published": "2026-09-19T07:38:19Z"
     },
     {
       "channel": "Jeremias Wernek",
