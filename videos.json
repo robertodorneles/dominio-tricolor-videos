@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:00:39.388305+00:00",
+  "updated_at": "2026-09-19T00:00:32.520613+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "AS DÚVIDAS DE RENATO PARA A DECISÃO DE DOMINGO🟣RESENHA FORA DA SALA NOITE🟣#026",
+      "videoId": "0xlQgdk5g0g",
+      "url": "https://www.youtube.com/watch?v=0xlQgdk5g0g",
+      "thumbnail": "https://i.ytimg.com/vi/0xlQgdk5g0g/mqdefault_live.jpg",
+      "published": "2026-09-18T23:14:29Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "RENATO DEFINE TIME, INTER COM TRANSFERBAN E FLAMENGO SE CLASSIFICA📰BAGÉTV NEWS #038",
       "videoId": "PMD5RYuwee8",
       "url": "https://www.youtube.com/watch?v=PMD5RYuwee8",
       "thumbnail": "https://i.ytimg.com/vi/PMD5RYuwee8/mqdefault.jpg",
       "published": "2026-09-18T22:06:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ÁRBITRO DA BATALHA DOS AFLITOS ESTARÁ NO JOGO DO GRÊMIO🔹 THE TARDE 🔹#223",
-      "videoId": "3V48uc70kyc",
-      "url": "https://www.youtube.com/watch?v=3V48uc70kyc",
-      "thumbnail": "https://i.ytimg.com/vi/3V48uc70kyc/mqdefault.jpg",
-      "published": "2026-09-18T19:55:13Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,8 +71,8 @@
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 18/09/2026",
       "videoId": "jFYffCKLrt0",
       "url": "https://www.youtube.com/watch?v=jFYffCKLrt0",
-      "thumbnail": "https://i.ytimg.com/vi/jFYffCKLrt0/mqdefault_live.jpg",
-      "published": "2026-09-18T22:05:20Z"
+      "thumbnail": "https://i.ytimg.com/vi/jFYffCKLrt0/mqdefault.jpg",
+      "published": "2026-09-18T23:10:59Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ESPERANÇA COM RENATO! 🇪🇪 #Grêmio #RenatoPortaluppi #TorcidaGremista #Tricolor #brasileirao",
-      "videoId": "aolWXaXy5_U",
-      "url": "https://www.youtube.com/watch?v=aolWXaXy5_U",
-      "thumbnail": "https://i.ytimg.com/vi/aolWXaXy5_U/mqdefault.jpg",
-      "published": "2026-09-18T17:12:34Z"
+      "title": "18/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "aknC_xPrISs",
+      "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
+      "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault.jpg",
+      "published": "2026-09-18T23:36:47Z"
     },
     {
       "channel": "Radio Grenal",
       "title": "18/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "aknC_xPrISs",
-      "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
-      "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault_live.jpg",
-      "published": "2026-09-18T11:06:28Z"
+      "videoId": "6Q_RYALvSOw",
+      "url": "https://www.youtube.com/watch?v=6Q_RYALvSOw",
+      "thumbnail": "https://i.ytimg.com/vi/6Q_RYALvSOw/mqdefault_live.jpg",
+      "published": "2026-09-18T23:03:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TUDO SOBRE GRÊMIO X PALMEIRAS | RETORNOS IMPORTANTES PARA DOMINGO | NOITES DE GRÊMIO #148 - 18/09",
+      "videoId": "yRM1mdc3zvk",
+      "url": "https://www.youtube.com/watch?v=yRM1mdc3zvk",
+      "thumbnail": "https://i.ytimg.com/vi/yRM1mdc3zvk/mqdefault_live.jpg",
+      "published": "2026-09-19T00:00:09Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=94iqtpDjWtM",
       "thumbnail": "https://i.ytimg.com/vi/94iqtpDjWtM/mqdefault.jpg",
       "published": "2026-09-18T22:10:10Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DE ENCARAR O PALMEIRAS | AJUSTES TÁTICOS NO TIME | PLANTÃO IMORTAL",
-      "videoId": "TZplpWZJef4",
-      "url": "https://www.youtube.com/watch?v=TZplpWZJef4",
-      "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault_live.jpg",
-      "published": "2026-09-18T20:51:59Z"
     }
   ]
 }
