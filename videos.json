@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:00:36.624734+00:00",
+  "updated_at": "2026-09-19T22:04:43.014237+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ESCALAÇÃO E ARENA LOTADA! |  VEJA: SHOW DE JOÃO BORNE NA BASE DO GRÊMIO.",
+      "videoId": "uLo2eDAiQZU",
+      "url": "https://www.youtube.com/watch?v=uLo2eDAiQZU",
+      "thumbnail": "https://i.ytimg.com/vi/uLo2eDAiQZU/mqdefault.jpg",
+      "published": "2026-09-19T22:01:34Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X PALMEIRAS | PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
       "videoId": "i6zapN8NsTc",
       "url": "https://www.youtube.com/watch?v=i6zapN8NsTc",
       "thumbnail": "https://i.ytimg.com/vi/i6zapN8NsTc/mqdefault_live.jpg",
       "published": "2026-09-19T17:18:47Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "AS PRIMEIRAS MUDANÇAS DE RENATO NO TIME #gremio #futebol",
-      "videoId": "H5qiatdakw4",
-      "url": "https://www.youtube.com/watch?v=H5qiatdakw4",
-      "thumbnail": "https://i.ytimg.com/vi/H5qiatdakw4/mqdefault.jpg",
-      "published": "2026-09-19T15:00:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | ESQUENTANDO JOGO | SÃO PAULO X INTER | RÁDIO GRENAL | 19/09/2026",
+      "videoId": "6Q_RYALvSOw",
+      "url": "https://www.youtube.com/watch?v=6Q_RYALvSOw",
+      "thumbnail": "https://i.ytimg.com/vi/6Q_RYALvSOw/mqdefault_live.jpg",
+      "published": "2026-09-19T22:02:52Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "18/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "aknC_xPrISs",
       "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
       "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault.jpg",
       "published": "2026-09-18T23:36:47Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO JOGO | SÃO PAULO X INTER | RÁDIO GRENAL | 19/09/2026",
-      "videoId": "6Q_RYALvSOw",
-      "url": "https://www.youtube.com/watch?v=6Q_RYALvSOw",
-      "thumbnail": "https://i.ytimg.com/vi/6Q_RYALvSOw/mqdefault_live.jpg",
-      "published": "2026-09-18T23:03:19Z"
     },
     {
       "channel": "Radio Imortal",
