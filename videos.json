@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T17:16:03.978297+00:00",
-  "total": 28,
+  "updated_at": "2026-09-20T18:00:38.409688+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X PALMEIRAS - [ DIRETO DA ARENA ]",
+      "videoId": "ezByT6de35Y",
+      "url": "https://www.youtube.com/watch?v=ezByT6de35Y",
+      "thumbnail": "https://i.ytimg.com/vi/ezByT6de35Y/mqdefault_live.jpg",
+      "published": "2026-09-20T17:55:08Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "EMPATE SABOR VITÓRIA DO GRÊMIO!",
       "videoId": "lsNCwxbFuMU",
       "url": "https://www.youtube.com/watch?v=lsNCwxbFuMU",
       "thumbnail": "https://i.ytimg.com/vi/lsNCwxbFuMU/mqdefault.jpg",
-      "published": "2026-09-20T17:08:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Weverton brilha, e o Grêmio empata em 0 a 0 com o Palmeiras na Arena.",
-      "videoId": "ZAAP3ifNXFc",
-      "url": "https://www.youtube.com/watch?v=ZAAP3ifNXFc",
-      "thumbnail": "https://i.ytimg.com/vi/ZAAP3ifNXFc/mqdefault.jpg",
-      "published": "2026-09-20T17:07:35Z"
+      "published": "2026-09-20T17:26:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "GRÊMIO 0 X 0  PALMEIRAS: WEVERTON SALVA O GRÊMIO NA ARENA",
+      "videoId": "32aZjWG4dQU",
+      "url": "https://www.youtube.com/watch?v=32aZjWG4dQU",
+      "thumbnail": "https://i.ytimg.com/vi/32aZjWG4dQU/mqdefault.jpg",
+      "published": "2026-09-20T17:43:45Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio 0 x 0 Palmeiras: o que podemos tirar do empate na Arena",
       "videoId": "bEGuZXT4kys",
       "url": "https://www.youtube.com/watch?v=bEGuZXT4kys",
@@ -59,20 +67,12 @@
       "published": "2026-09-20T17:10:47Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "GRÊMIO 0 X 0  PALMEIRAS: WEVERTON SALVA O GRÊMIO NA ARENA",
-      "videoId": "32aZjWG4dQU",
-      "url": "https://www.youtube.com/watch?v=32aZjWG4dQU",
-      "thumbnail": "https://i.ytimg.com/vi/32aZjWG4dQU/mqdefault_live.jpg",
-      "published": "2026-09-20T16:04:12Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "GRÊMIO X PALMEIRAS | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 20/09/2026",
       "videoId": "hIx_3hQnZoI",
       "url": "https://www.youtube.com/watch?v=hIx_3hQnZoI",
-      "thumbnail": "https://i.ytimg.com/vi/hIx_3hQnZoI/mqdefault_live.jpg",
-      "published": "2026-09-20T17:07:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/hIx_3hQnZoI/mqdefault.jpg",
+      "published": "2026-09-20T17:22:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO X PALMEIRAS | PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
+      "videoId": "i6zapN8NsTc",
+      "url": "https://www.youtube.com/watch?v=i6zapN8NsTc",
+      "thumbnail": "https://i.ytimg.com/vi/i6zapN8NsTc/mqdefault.jpg",
+      "published": "2026-09-20T17:27:51Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ESTE GRÊMIO NÃO CAI! | MILAGRES E MUDANÇAS | COMENTÁRIO GRÊMIO 0X0 PALMEIRAS.",
       "videoId": "348Q_iBMtUw",
       "url": "https://www.youtube.com/watch?v=348Q_iBMtUw",
@@ -107,20 +115,12 @@
       "published": "2026-09-20T16:55:46Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X PALMEIRAS | PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
-      "videoId": "i6zapN8NsTc",
-      "url": "https://www.youtube.com/watch?v=i6zapN8NsTc",
-      "thumbnail": "https://i.ytimg.com/vi/i6zapN8NsTc/mqdefault_live.jpg",
-      "published": "2026-09-20T16:04:53Z"
-    },
-    {
       "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x PALMEIRAS DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 20/09 #36",
       "videoId": "rlNtkghB7F0",
       "url": "https://www.youtube.com/watch?v=rlNtkghB7F0",
-      "thumbnail": "https://i.ytimg.com/vi/rlNtkghB7F0/mqdefault_live.jpg",
-      "published": "2026-09-20T16:02:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/rlNtkghB7F0/mqdefault.jpg",
+      "published": "2026-09-20T17:56:51Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -151,8 +151,8 @@
       "title": "AO VIVO | GRÊMIO X PALMEIRAS I BRASILEIRÃO 2026",
       "videoId": "95h2fZINFTI",
       "url": "https://www.youtube.com/watch?v=95h2fZINFTI",
-      "thumbnail": "https://i.ytimg.com/vi/95h2fZINFTI/mqdefault_live.jpg",
-      "published": "2026-09-20T12:31:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/95h2fZINFTI/mqdefault.jpg",
+      "published": "2026-09-20T17:37:21Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -180,7 +180,7 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "WEVERTON SALVA O GRÊMIO: O que eu vi da Arena no empate com o Palmeiras",
+      "title": "WEVERTON SALVA O GRÊMIO: O que eu vi da Arena na estreia do Renato",
       "videoId": "crNwbX3WHU4",
       "url": "https://www.youtube.com/watch?v=crNwbX3WHU4",
       "thumbnail": "https://i.ytimg.com/vi/crNwbX3WHU4/mqdefault.jpg",
@@ -211,12 +211,20 @@
       "published": "2026-09-16T16:54:49Z"
     },
     {
+      "channel": "Radio Grenal",
+      "title": "NÃO RESPONDEU AGORA! 🇪🇪👀 #gremio #grenal #tricolor #brasileirao #renato",
+      "videoId": "Ib8i9wdCW1Q",
+      "url": "https://www.youtube.com/watch?v=Ib8i9wdCW1Q",
+      "thumbnail": "https://i.ytimg.com/vi/Ib8i9wdCW1Q/mqdefault.jpg",
+      "published": "2026-09-20T17:40:37Z"
+    },
+    {
       "channel": "Radio Imortal",
       "title": "AO VIVO | PÓS-JOGO GRÊMIO (0) X (0) PALMEIRAS | COLETIVA DE RENATO PORTALUPPI | JORNADA IMORTAL",
       "videoId": "f4i4X4MpELs",
       "url": "https://www.youtube.com/watch?v=f4i4X4MpELs",
       "thumbnail": "https://i.ytimg.com/vi/f4i4X4MpELs/mqdefault_live.jpg",
-      "published": "2026-09-20T11:04:35Z"
+      "published": "2026-09-20T17:39:49Z"
     },
     {
       "channel": "Radio Imortal",
