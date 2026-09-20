@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-20T17:00:38.165848+00:00",
+  "updated_at": "2026-09-20T17:16:03.978297+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Weverton 0x0 Palmeiras: GRÊMIO GARANTE PONTO GRAÇAS AO GOLEIRO | A PRIMEIRA IDEIA DE RENATO",
+      "videoId": "QW8b3z-ljw0",
+      "url": "https://www.youtube.com/watch?v=QW8b3z-ljw0",
+      "thumbnail": "https://i.ytimg.com/vi/QW8b3z-ljw0/mqdefault.jpg",
+      "published": "2026-09-20T17:01:12Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 UMA RUA SEM SAÍDA! | VEJA O QUE ALAN PATRICK DISSE | ATITUDE DOS JOGADORES",
@@ -11,28 +19,20 @@
       "published": "2026-09-20T05:29:24Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: A CONTA PIOROU! Renato perde titular e pressão aumenta contra o Palmeiras",
-      "videoId": "aB2ekCz4v6o",
-      "url": "https://www.youtube.com/watch?v=aB2ekCz4v6o",
-      "thumbnail": "https://i.ytimg.com/vi/aB2ekCz4v6o/mqdefault.jpg",
-      "published": "2026-09-20T05:00:16Z"
+      "channel": "Bage TV",
+      "title": "EMPATE SABOR VITÓRIA DO GRÊMIO!",
+      "videoId": "lsNCwxbFuMU",
+      "url": "https://www.youtube.com/watch?v=lsNCwxbFuMU",
+      "thumbnail": "https://i.ytimg.com/vi/lsNCwxbFuMU/mqdefault.jpg",
+      "published": "2026-09-20T17:08:05Z"
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X PALMEIRAS - [ DIRETO DA ARENA ]",
-      "videoId": "ezByT6de35Y",
-      "url": "https://www.youtube.com/watch?v=ezByT6de35Y",
-      "thumbnail": "https://i.ytimg.com/vi/ezByT6de35Y/mqdefault_live.jpg",
-      "published": "2026-09-20T09:38:13Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "A CBF divulgou o áudio da análise do VAR no gol de Carlos Vinícius!",
-      "videoId": "r4l2TmcBrQU",
-      "url": "https://www.youtube.com/watch?v=r4l2TmcBrQU",
-      "thumbnail": "https://i.ytimg.com/vi/r4l2TmcBrQU/mqdefault.jpg",
-      "published": "2026-09-19T16:41:32Z"
+      "title": "Weverton brilha, e o Grêmio empata em 0 a 0 com o Palmeiras na Arena.",
+      "videoId": "ZAAP3ifNXFc",
+      "url": "https://www.youtube.com/watch?v=ZAAP3ifNXFc",
+      "thumbnail": "https://i.ytimg.com/vi/ZAAP3ifNXFc/mqdefault.jpg",
+      "published": "2026-09-20T17:07:35Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,11 +52,11 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Weverton fez a maior atuação de um goleiro na Arena do Grêmio",
-      "videoId": "c7yV81X3cqg",
-      "url": "https://www.youtube.com/watch?v=c7yV81X3cqg",
-      "thumbnail": "https://i.ytimg.com/vi/c7yV81X3cqg/mqdefault.jpg",
-      "published": "2026-09-20T16:39:57Z"
+      "title": "Grêmio 0 x 0 Palmeiras: o que podemos tirar do empate na Arena",
+      "videoId": "bEGuZXT4kys",
+      "url": "https://www.youtube.com/watch?v=bEGuZXT4kys",
+      "thumbnail": "https://i.ytimg.com/vi/bEGuZXT4kys/mqdefault.jpg",
+      "published": "2026-09-20T17:10:47Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "hIx_3hQnZoI",
       "url": "https://www.youtube.com/watch?v=hIx_3hQnZoI",
       "thumbnail": "https://i.ytimg.com/vi/hIx_3hQnZoI/mqdefault_live.jpg",
-      "published": "2026-09-20T12:56:50Z"
+      "published": "2026-09-20T17:07:59Z"
     },
     {
       "channel": "Canal do Farid",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "WEVERTON SALVA O GRÊMIO: O que eu vi da Arena no empate com o Palmeiras",
+      "videoId": "crNwbX3WHU4",
+      "url": "https://www.youtube.com/watch?v=crNwbX3WHU4",
+      "thumbnail": "https://i.ytimg.com/vi/crNwbX3WHU4/mqdefault.jpg",
+      "published": "2026-09-20T17:04:06Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "A MAIOR APOSTA DAS BETS NO BRASIL",
       "videoId": "pLyZOTJGxhg",
       "url": "https://www.youtube.com/watch?v=pLyZOTJGxhg",
       "thumbnail": "https://i.ytimg.com/vi/pLyZOTJGxhg/mqdefault.jpg",
       "published": "2026-09-18T14:23:35Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O QUE ESTÁ POR TRÁS? Clubes a favor das bets + o perigo real",
-      "videoId": "Eezhvl14noE",
-      "url": "https://www.youtube.com/watch?v=Eezhvl14noE",
-      "thumbnail": "https://i.ytimg.com/vi/Eezhvl14noE/mqdefault.jpg",
-      "published": "2026-09-18T12:36:11Z"
     },
     {
       "channel": "LH Benfica",
