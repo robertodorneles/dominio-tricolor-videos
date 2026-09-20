@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:00:38.568474+00:00",
+  "updated_at": "2026-09-20T12:00:35.716189+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "DIA DE GRÊMIO! 🌅🔵 BOM DIA GRÊMIO #130",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X PALMEIRAS - [ DIRETO DA ARENA ]",
       "videoId": "ezByT6de35Y",
       "url": "https://www.youtube.com/watch?v=ezByT6de35Y",
       "thumbnail": "https://i.ytimg.com/vi/ezByT6de35Y/mqdefault_live.jpg",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x PALMEIRAS DIRETO DA ARENA | BRASILEIRÃO 2026 | 20/09 #19",
+      "videoId": "XAOPKymO8Ws",
+      "url": "https://www.youtube.com/watch?v=XAOPKymO8Ws",
+      "thumbnail": "https://i.ytimg.com/vi/XAOPKymO8Ws/mqdefault_live.jpg",
+      "published": "2026-09-20T11:59:58Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "SIMULEI O GRÊMIO NO BRASILEIRÃO: RENATO ESTÁ CERTO? QUEM CAIU? QUEM FOI CAMPEÃO?",
       "videoId": "BnYWf_fFSY4",
       "url": "https://www.youtube.com/watch?v=BnYWf_fFSY4",
       "thumbnail": "https://i.ytimg.com/vi/BnYWf_fFSY4/mqdefault.jpg",
       "published": "2026-09-19T15:02:16Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "RENATO REVELA MATEMÁTICA CONTRA O REBAIXAMENTO, CONVERSA COM TETÊ E FAZ PROIBIÇÃO AO TORCEDOR",
-      "videoId": "xtTEvXcpNKA",
-      "url": "https://www.youtube.com/watch?v=xtTEvXcpNKA",
-      "thumbnail": "https://i.ytimg.com/vi/xtTEvXcpNKA/mqdefault.jpg",
-      "published": "2026-09-17T23:14:45Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "SESSÃO HISTÓRICA E TENSA NO SUPREMO, FLÁVIO PASSA LULA E ESTREIA DA FAZENDA | RivoNews #149",
+      "videoId": "vCq8UabIl4s",
+      "url": "https://www.youtube.com/watch?v=vCq8UabIl4s",
+      "thumbnail": "https://i.ytimg.com/vi/vCq8UabIl4s/mqdefault.jpg",
+      "published": "2026-09-20T12:00:09Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Como o mestre churrasqueiro se tornou uma estrela de eventos e influenciador no RS",
       "videoId": "vTJ0Y3hrZNs",
       "url": "https://www.youtube.com/watch?v=vTJ0Y3hrZNs",
       "thumbnail": "https://i.ytimg.com/vi/vTJ0Y3hrZNs/mqdefault.jpg",
       "published": "2026-09-20T11:00:25Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "400 anos das Missões: como jesuítas e guaranis ajudaram a formar o RS",
-      "videoId": "pt8ULVYEhr8",
-      "url": "https://www.youtube.com/watch?v=pt8ULVYEhr8",
-      "thumbnail": "https://i.ytimg.com/vi/pt8ULVYEhr8/mqdefault.jpg",
-      "published": "2026-09-19T20:30:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "f4i4X4MpELs",
       "url": "https://www.youtube.com/watch?v=f4i4X4MpELs",
       "thumbnail": "https://i.ytimg.com/vi/f4i4X4MpELs/mqdefault_live.jpg",
-      "published": "2026-09-19T18:30:23Z"
+      "published": "2026-09-20T11:04:35Z"
     },
     {
       "channel": "Radio Imortal",
