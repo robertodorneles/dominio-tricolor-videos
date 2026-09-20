@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:00:41.285621+00:00",
+  "updated_at": "2026-09-20T22:55:54.645310+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "A ESTRATÉGIA HISTÓRICA DO GRÊMIO PARA SOBREVIVER | Cortes do Duda",
+      "videoId": "kLiTG4dcK2c",
+      "url": "https://www.youtube.com/watch?v=kLiTG4dcK2c",
+      "thumbnail": "https://i.ytimg.com/vi/kLiTG4dcK2c/mqdefault.jpg",
+      "published": "2026-09-20T22:00:30Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "GUIA PRÁTICO DE COMO ACORDAR SEM DOR NAS COSTAS | Uma Aula Sobre… Abdômen, Postura e Dor",
       "videoId": "QFLvDCQYGEY",
       "url": "https://www.youtube.com/watch?v=QFLvDCQYGEY",
       "thumbnail": "https://i.ytimg.com/vi/QFLvDCQYGEY/mqdefault.jpg",
       "published": "2026-09-20T15:00:32Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A POSTURA PERFEITA EXISTE? #dudagarbi #rafaelbarleze #umaaulasobre",
-      "videoId": "MqfSakcjbKQ",
-      "url": "https://www.youtube.com/watch?v=MqfSakcjbKQ",
-      "thumbnail": "https://i.ytimg.com/vi/MqfSakcjbKQ/mqdefault.jpg",
-      "published": "2026-09-20T15:00:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (0) X (0) PALMEIRAS | COLETIVA DE RENATO PORTALUPPI | JORNADA IMORTAL",
-      "videoId": "f4i4X4MpELs",
-      "url": "https://www.youtube.com/watch?v=f4i4X4MpELs",
-      "thumbnail": "https://i.ytimg.com/vi/f4i4X4MpELs/mqdefault.jpg",
-      "published": "2026-09-20T18:04:30Z"
+      "title": "WEVERTON GARANTE EMPATE DO GRÊMIO CONTRA O PALMEIRAS | COMO É BOM SER DO GRÊMIO #46",
+      "videoId": "p4bXrhpvifQ",
+      "url": "https://www.youtube.com/watch?v=p4bXrhpvifQ",
+      "thumbnail": "https://i.ytimg.com/vi/p4bXrhpvifQ/mqdefault_live.jpg",
+      "published": "2026-09-20T22:51:38Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO FAZ ÚLTIMO TREINO ANTES DE ENCARAR O PALMEIRAS | AJUSTES TÁTICOS NO TIME | PLANTÃO IMORTAL",
-      "videoId": "TZplpWZJef4",
-      "url": "https://www.youtube.com/watch?v=TZplpWZJef4",
-      "thumbnail": "https://i.ytimg.com/vi/TZplpWZJef4/mqdefault.jpg",
-      "published": "2026-09-19T14:32:17Z"
+      "title": "CAFÉ COM A IMORTAL #26 — GRÊMIO EMPATA COM ATUAÇÃO INCRÍVEL DE WEVERTON",
+      "videoId": "CqVYf_SJ5zY",
+      "url": "https://www.youtube.com/watch?v=CqVYf_SJ5zY",
+      "thumbnail": "https://i.ytimg.com/vi/CqVYf_SJ5zY/mqdefault_live.jpg",
+      "published": "2026-09-20T22:43:36Z"
     }
   ]
 }
