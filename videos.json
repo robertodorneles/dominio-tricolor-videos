@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-20T02:00:53.820350+00:00",
+  "updated_at": "2026-09-20T04:04:17.246618+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ São Paulo 1x0 Inter: ❌ NÃO DÁ MAIS! | ASSIM, JÁ CAIU | PEDE DEMISSÃO FABINHO! | JOGO HORRÍVEL",
+      "videoId": "5fxpwo9Xb78",
+      "url": "https://www.youtube.com/watch?v=5fxpwo9Xb78",
+      "thumbnail": "https://i.ytimg.com/vi/5fxpwo9Xb78/mqdefault.jpg",
+      "published": "2026-09-20T02:13:28Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: RENATO JÁ ESCOLHEU QUEM QUER RECUPERAR | A missão com 3 jogadores",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=KLsB2JSphSY",
       "thumbnail": "https://i.ytimg.com/vi/KLsB2JSphSY/mqdefault.jpg",
       "published": "2026-09-19T18:58:12Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 SONDAGEM POR TITULARES | PEZZOLANO VAI MUDAR? | DÁ PRA SAIR DO Z4",
-      "videoId": "HSnGokSQAxE",
-      "url": "https://www.youtube.com/watch?v=HSnGokSQAxE",
-      "thumbnail": "https://i.ytimg.com/vi/HSnGokSQAxE/mqdefault.jpg",
-      "published": "2026-09-19T06:22:21Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "COMPLICOU! #brasileirao #futebol #gremio #inter",
+      "videoId": "CDqlulHzJfo",
+      "url": "https://www.youtube.com/watch?v=CDqlulHzJfo",
+      "thumbnail": "https://i.ytimg.com/vi/CDqlulHzJfo/mqdefault.jpg",
+      "published": "2026-09-20T02:20:43Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ESCALAÇÃO E ARENA LOTADA! |  VEJA: SHOW DE JOÃO BORNE NA BASE DO GRÊMIO.",
       "videoId": "uLo2eDAiQZU",
       "url": "https://www.youtube.com/watch?v=uLo2eDAiQZU",
       "thumbnail": "https://i.ytimg.com/vi/uLo2eDAiQZU/mqdefault.jpg",
       "published": "2026-09-19T22:01:34Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X PALMEIRAS | PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
-      "videoId": "i6zapN8NsTc",
-      "url": "https://www.youtube.com/watch?v=i6zapN8NsTc",
-      "thumbnail": "https://i.ytimg.com/vi/i6zapN8NsTc/mqdefault_live.jpg",
-      "published": "2026-09-19T17:18:47Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | SÃO PAULO 1 X 0 INTER | RÁDIO GRENAL | 19/09/2026",
+      "title": "19/09/2026 | JOGO COMPLETO | SÃO PAULO 1 X 0 INTER | RÁDIO GRENAL",
       "videoId": "6Q_RYALvSOw",
       "url": "https://www.youtube.com/watch?v=6Q_RYALvSOw",
-      "thumbnail": "https://i.ytimg.com/vi/6Q_RYALvSOw/mqdefault_live.jpg",
-      "published": "2026-09-19T22:02:52Z"
+      "thumbnail": "https://i.ytimg.com/vi/6Q_RYALvSOw/mqdefault.jpg",
+      "published": "2026-09-20T03:21:07Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "18/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "aknC_xPrISs",
-      "url": "https://www.youtube.com/watch?v=aknC_xPrISs",
-      "thumbnail": "https://i.ytimg.com/vi/aknC_xPrISs/mqdefault.jpg",
-      "published": "2026-09-18T23:36:47Z"
+      "title": "GOL DE SÃO PAULO 1 X 0 INTER | NARRAÇÃO DANIEL FÉLIX | BRASILEIRÃO | RÁDIO GRENAL | 19/09/2026",
+      "videoId": "jK1vZRyHnG4",
+      "url": "https://www.youtube.com/watch?v=jK1vZRyHnG4",
+      "thumbnail": "https://i.ytimg.com/vi/jK1vZRyHnG4/mqdefault.jpg",
+      "published": "2026-09-20T02:42:24Z"
     },
     {
       "channel": "Radio Imortal",
