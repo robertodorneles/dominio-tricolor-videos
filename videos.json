@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:00:47.270690+00:00",
+  "updated_at": "2026-09-21T15:37:19.416419+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Foram 9 meses de nada.",
+      "videoId": "QN0a4x_gwjE",
+      "url": "https://www.youtube.com/watch?v=QN0a4x_gwjE",
+      "thumbnail": "https://i.ytimg.com/vi/QN0a4x_gwjE/mqdefault.jpg",
+      "published": "2026-09-21T15:02:49Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #071",
       "videoId": "qXOhj54b_8w",
       "url": "https://www.youtube.com/watch?v=qXOhj54b_8w",
       "thumbnail": "https://i.ytimg.com/vi/qXOhj54b_8w/mqdefault.jpg",
       "published": "2026-09-21T14:59:25Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "O Grêmio com a cara do Renato.",
-      "videoId": "vq3iFC_ehlY",
-      "url": "https://www.youtube.com/watch?v=vq3iFC_ehlY",
-      "thumbnail": "https://i.ytimg.com/vi/vq3iFC_ehlY/mqdefault.jpg",
-      "published": "2026-09-21T14:52:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #159 — REPERCUSSÕES DO EMPATE DO GRÊMIO | PLANEJAMENTO ALTERADO NA DATA FIFA",
+      "videoId": "aV9appbGAOE",
+      "url": "https://www.youtube.com/watch?v=aV9appbGAOE",
+      "thumbnail": "https://i.ytimg.com/vi/aV9appbGAOE/mqdefault.jpg",
+      "published": "2026-09-21T15:04:19Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "WEVERTON GARANTE EMPATE DO GRÊMIO CONTRA O PALMEIRAS | COMO É BOM SER DO GRÊMIO #46",
       "videoId": "p4bXrhpvifQ",
       "url": "https://www.youtube.com/watch?v=p4bXrhpvifQ",
       "thumbnail": "https://i.ytimg.com/vi/p4bXrhpvifQ/mqdefault.jpg",
       "published": "2026-09-21T14:05:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #159 — REPERCUSSÕES DO EMPATE DO GRÊMIO | PLANEJAMENTO ALTERADO NA DATA FIFA",
-      "videoId": "aV9appbGAOE",
-      "url": "https://www.youtube.com/watch?v=aV9appbGAOE",
-      "thumbnail": "https://i.ytimg.com/vi/aV9appbGAOE/mqdefault_live.jpg",
-      "published": "2026-09-21T13:58:33Z"
     }
   ]
 }
