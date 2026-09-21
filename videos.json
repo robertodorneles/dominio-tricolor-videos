@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:00:46.558552+00:00",
+  "updated_at": "2026-09-21T00:49:34.744968+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "9NafsfgtFOo",
       "url": "https://www.youtube.com/watch?v=9NafsfgtFOo",
       "thumbnail": "https://i.ytimg.com/vi/9NafsfgtFOo/mqdefault_live.jpg",
-      "published": "2026-09-20T21:58:04Z"
+      "published": "2026-09-21T00:03:39Z"
     },
     {
       "channel": "A Dupla",
@@ -55,16 +55,24 @@
       "title": "LIVE DE DOMINGO: GRÊMIO EMPATA NA ARENA | SITUAÇÃO DO BRASILEIRÃO",
       "videoId": "RKRfw4ckbow",
       "url": "https://www.youtube.com/watch?v=RKRfw4ckbow",
-      "thumbnail": "https://i.ytimg.com/vi/RKRfw4ckbow/mqdefault_live.jpg",
-      "published": "2026-09-20T23:00:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/RKRfw4ckbow/mqdefault.jpg",
+      "published": "2026-09-21T00:08:26Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #681: Weverton | Renato | Tabela do Brasileirão | Multa de Castro e mais",
-      "videoId": "QmuiidO8rcY",
-      "url": "https://www.youtube.com/watch?v=QmuiidO8rcY",
-      "thumbnail": "https://i.ytimg.com/vi/QmuiidO8rcY/mqdefault.jpg",
-      "published": "2026-09-20T21:57:23Z"
+      "title": "PAPO DE GREMISTA PARA GREMISTA",
+      "videoId": "SzXyIRAaE1Y",
+      "url": "https://www.youtube.com/watch?v=SzXyIRAaE1Y",
+      "thumbnail": "https://i.ytimg.com/vi/SzXyIRAaE1Y/mqdefault_live.jpg",
+      "published": "2026-09-21T00:06:49Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #021 - TEMOS O MELHOR GOLEIRO DO BRASIL!",
+      "videoId": "0Q8V2wUvUFw",
+      "url": "https://www.youtube.com/watch?v=0Q8V2wUvUFw",
+      "thumbnail": "https://i.ytimg.com/vi/0Q8V2wUvUFw/mqdefault_live.jpg",
+      "published": "2026-09-21T00:47:38Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=hIx_3hQnZoI",
       "thumbnail": "https://i.ytimg.com/vi/hIx_3hQnZoI/mqdefault.jpg",
       "published": "2026-09-20T17:22:38Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ENTREVISTA COM MAURO GALVÃO - \"FALA, COSTA!\" #10",
-      "videoId": "AjajoGU0anA",
-      "url": "https://www.youtube.com/watch?v=AjajoGU0anA",
-      "thumbnail": "https://i.ytimg.com/vi/AjajoGU0anA/mqdefault.jpg",
-      "published": "2026-09-19T22:00:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "A RODADA FOI BOA ? FALTAM 10 JOGOS #brasileirao #gremio",
+      "videoId": "bhzArfoRnG0",
+      "url": "https://www.youtube.com/watch?v=bhzArfoRnG0",
+      "thumbnail": "https://i.ytimg.com/vi/bhzArfoRnG0/mqdefault.jpg",
+      "published": "2026-09-21T00:08:31Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ATITUDE INESPERADA DE RENATO! #gremio #futebol #brasileirao",
       "videoId": "ssmqsDX-Qyk",
       "url": "https://www.youtube.com/watch?v=ssmqsDX-Qyk",
       "thumbnail": "https://i.ytimg.com/vi/ssmqsDX-Qyk/mqdefault.jpg",
       "published": "2026-09-20T18:09:43Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "GRÊMIO X PALMEIRAS | PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
-      "videoId": "i6zapN8NsTc",
-      "url": "https://www.youtube.com/watch?v=i6zapN8NsTc",
-      "thumbnail": "https://i.ytimg.com/vi/i6zapN8NsTc/mqdefault.jpg",
-      "published": "2026-09-20T17:27:51Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
