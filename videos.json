@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-21T02:00:52.270361+00:00",
+  "updated_at": "2026-09-21T04:01:37.486249+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Diário do Inter: 💣 ZUBELDIA NA MIRA! | BASTIDORES DA QUEDA! | ANÚNCIO PODE SER AMANHÃ!",
+      "videoId": "haj3VbN11ZU",
+      "url": "https://www.youtube.com/watch?v=haj3VbN11ZU",
+      "thumbnail": "https://i.ytimg.com/vi/haj3VbN11ZU/mqdefault.jpg",
+      "published": "2026-09-21T02:25:41Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: LADEIRA ABAIXO NESSA DATA FIFA | A RODADA DE INTER E GRÊMIO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=9NafsfgtFOo",
       "thumbnail": "https://i.ytimg.com/vi/9NafsfgtFOo/mqdefault.jpg",
       "published": "2026-09-21T01:51:20Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Inter:  🔥 DECISÕES SENDO TOMADAS | ABEL VAI PROTEGER PEZZOLANO? | BATATA DE FABINHO ASSOU!",
-      "videoId": "KHQd7q1VahE",
-      "url": "https://www.youtube.com/watch?v=KHQd7q1VahE",
-      "thumbnail": "https://i.ytimg.com/vi/KHQd7q1VahE/mqdefault.jpg",
-      "published": "2026-09-20T21:12:51Z"
     },
     {
       "channel": "Bage TV",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: O NOVO TÉCNICO DO INTER E O PLANO ESPECIAL DE RENATO NO GRÊMIO",
+      "videoId": "129UySXHCKw",
+      "url": "https://www.youtube.com/watch?v=129UySXHCKw",
+      "thumbnail": "https://i.ytimg.com/vi/129UySXHCKw/mqdefault_live.jpg",
+      "published": "2026-09-21T03:47:36Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "WEVERTON SALVA O GRÊMIO: O que eu vi da Arena na estreia do Renato",
       "videoId": "crNwbX3WHU4",
       "url": "https://www.youtube.com/watch?v=crNwbX3WHU4",
       "thumbnail": "https://i.ytimg.com/vi/crNwbX3WHU4/mqdefault.jpg",
       "published": "2026-09-20T17:04:06Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "A MAIOR APOSTA DAS BETS NO BRASIL",
-      "videoId": "pLyZOTJGxhg",
-      "url": "https://www.youtube.com/watch?v=pLyZOTJGxhg",
-      "thumbnail": "https://i.ytimg.com/vi/pLyZOTJGxhg/mqdefault.jpg",
-      "published": "2026-09-18T14:23:35Z"
     },
     {
       "channel": "LH Benfica",
