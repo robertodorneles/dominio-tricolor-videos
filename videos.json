@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-21T04:01:37.486249+00:00",
+  "updated_at": "2026-09-21T09:00:43.536474+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: RENATO MUDA PLANO E AVISA O ELENCO! ODORICO PROMETE “MUDANÇAS PROFUNDAS”",
+      "videoId": "6VEKB61ysqk",
+      "url": "https://www.youtube.com/watch?v=6VEKB61ysqk",
+      "thumbnail": "https://i.ytimg.com/vi/6VEKB61ysqk/mqdefault.jpg",
+      "published": "2026-09-21T06:00:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Diário do Inter: 💣 ZUBELDIA NA MIRA! | BASTIDORES DA QUEDA! | ANÚNCIO PODE SER AMANHÃ!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=haj3VbN11ZU",
       "thumbnail": "https://i.ytimg.com/vi/haj3VbN11ZU/mqdefault.jpg",
       "published": "2026-09-21T02:25:41Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: LADEIRA ABAIXO NESSA DATA FIFA | A RODADA DE INTER E GRÊMIO",
-      "videoId": "9NafsfgtFOo",
-      "url": "https://www.youtube.com/watch?v=9NafsfgtFOo",
-      "thumbnail": "https://i.ytimg.com/vi/9NafsfgtFOo/mqdefault.jpg",
-      "published": "2026-09-21T01:51:20Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospicio - 21/09",
+      "videoId": "iBFkbF93tF0",
+      "url": "https://www.youtube.com/watch?v=iBFkbF93tF0",
+      "thumbnail": "https://i.ytimg.com/vi/iBFkbF93tF0/mqdefault_live.jpg",
+      "published": "2026-09-21T04:38:17Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "A ESTRATÉGIA HISTÓRICA DO GRÊMIO PARA SOBREVIVER | Cortes do Duda",
       "videoId": "kLiTG4dcK2c",
       "url": "https://www.youtube.com/watch?v=kLiTG4dcK2c",
       "thumbnail": "https://i.ytimg.com/vi/kLiTG4dcK2c/mqdefault.jpg",
       "published": "2026-09-20T22:00:30Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "GUIA PRÁTICO DE COMO ACORDAR SEM DOR NAS COSTAS | Uma Aula Sobre… Abdômen, Postura e Dor",
-      "videoId": "QFLvDCQYGEY",
-      "url": "https://www.youtube.com/watch?v=QFLvDCQYGEY",
-      "thumbnail": "https://i.ytimg.com/vi/QFLvDCQYGEY/mqdefault.jpg",
-      "published": "2026-09-20T15:00:32Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Um dia de carneada e churrasco na fazenda de Mano Lima",
-      "videoId": "7VFWTKFFfpM",
-      "url": "https://www.youtube.com/watch?v=7VFWTKFFfpM",
-      "thumbnail": "https://i.ytimg.com/vi/7VFWTKFFfpM/mqdefault.jpg",
-      "published": "2026-09-21T01:44:13Z"
+      "title": "| Timeline | 21/09/2026",
+      "videoId": "VydOUNiQztA",
+      "url": "https://www.youtube.com/watch?v=VydOUNiQztA",
+      "thumbnail": "https://i.ytimg.com/vi/VydOUNiQztA/mqdefault_live.jpg",
+      "published": "2026-09-21T07:33:34Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "“Sem competição”: Luiza Barbosa celebra o orgulho de ser gaúcha e fala sobre haters | Paralelas",
-      "videoId": "iHah32Hs7pc",
-      "url": "https://www.youtube.com/watch?v=iHah32Hs7pc",
-      "thumbnail": "https://i.ytimg.com/vi/iHah32Hs7pc/mqdefault.jpg",
-      "published": "2026-09-20T18:00:34Z"
+      "title": "| Gaúcha Atualidade | 21/09/2026",
+      "videoId": "hrALoWI5XEE",
+      "url": "https://www.youtube.com/watch?v=hrALoWI5XEE",
+      "thumbnail": "https://i.ytimg.com/vi/hrALoWI5XEE/mqdefault_live.jpg",
+      "published": "2026-09-21T07:32:55Z"
     },
     {
       "channel": "Jeremias Wernek",
