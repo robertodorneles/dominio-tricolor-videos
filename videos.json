@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:00:38.712564+00:00",
+  "updated_at": "2026-09-21T11:00:44.849727+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Estragos do temporal no RS, últimas da política, economia e mais | Gaúcha Atualidade | 21/09/2026",
+      "videoId": "hrALoWI5XEE",
+      "url": "https://www.youtube.com/watch?v=hrALoWI5XEE",
+      "thumbnail": "https://i.ytimg.com/vi/hrALoWI5XEE/mqdefault_live.jpg",
+      "published": "2026-09-21T10:55:53Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Timeline | 21/09/2026",
       "videoId": "VydOUNiQztA",
       "url": "https://www.youtube.com/watch?v=VydOUNiQztA",
       "thumbnail": "https://i.ytimg.com/vi/VydOUNiQztA/mqdefault_live.jpg",
       "published": "2026-09-21T07:33:34Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 21/09/2026",
-      "videoId": "hrALoWI5XEE",
-      "url": "https://www.youtube.com/watch?v=hrALoWI5XEE",
-      "thumbnail": "https://i.ytimg.com/vi/hrALoWI5XEE/mqdefault_live.jpg",
-      "published": "2026-09-21T07:32:55Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 21/09/2026",
+      "videoId": "UqoGK2F0fDc",
+      "url": "https://www.youtube.com/watch?v=UqoGK2F0fDc",
+      "thumbnail": "https://i.ytimg.com/vi/UqoGK2F0fDc/mqdefault_live.jpg",
+      "published": "2026-09-21T10:19:05Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "20/09/2026 | JOGO COMPLETO | GRÊMIO 0 X 0 PALMEIRAS | RÁDIO GRENAL",
       "videoId": "588GcovH0zo",
       "url": "https://www.youtube.com/watch?v=588GcovH0zo",
@@ -219,12 +227,12 @@
       "published": "2026-09-20T19:24:24Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTREVISTAS DE RENATO PORTALUPPI E ODORICO ROMAN - TREINADOR E PRESIDENTE DO GRÊMIO | 20/09/26",
-      "videoId": "84rerMKOa9I",
-      "url": "https://www.youtube.com/watch?v=84rerMKOa9I",
-      "thumbnail": "https://i.ytimg.com/vi/84rerMKOa9I/mqdefault.jpg",
-      "published": "2026-09-20T19:03:42Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #26 — GRÊMIO EMPATA COM ATUAÇÃO INCRÍVEL DE WEVERTON",
+      "videoId": "CqVYf_SJ5zY",
+      "url": "https://www.youtube.com/watch?v=CqVYf_SJ5zY",
+      "thumbnail": "https://i.ytimg.com/vi/CqVYf_SJ5zY/mqdefault_live.jpg",
+      "published": "2026-09-21T10:03:48Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=xJPxYslYnVM",
       "thumbnail": "https://i.ytimg.com/vi/xJPxYslYnVM/mqdefault_live.jpg",
       "published": "2026-09-20T23:28:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #159 — REPERCUSSÕES DO EMPATE DO GRÊMIO | PLANEJAMENTO ALTERADO NA DATA FIFA",
-      "videoId": "aV9appbGAOE",
-      "url": "https://www.youtube.com/watch?v=aV9appbGAOE",
-      "thumbnail": "https://i.ytimg.com/vi/aV9appbGAOE/mqdefault_live.jpg",
-      "published": "2026-09-20T23:21:24Z"
     }
   ]
 }
