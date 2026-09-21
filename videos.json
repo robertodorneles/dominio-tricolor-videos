@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:00:50.135047+00:00",
+  "updated_at": "2026-09-21T18:00:57.440330+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "NÃO É O MOMENTO PRA CAMINHAR EM CAMPO! #CORTESDOFAG",
+      "videoId": "Dzf_HpJcvmk",
+      "url": "https://www.youtube.com/watch?v=Dzf_HpJcvmk",
+      "thumbnail": "https://i.ytimg.com/vi/Dzf_HpJcvmk/mqdefault.jpg",
+      "published": "2026-09-21T17:58:20Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "SEM PEZZOLANO, MAS COM ZUBELDIA? RENATO GARANTE O GREMIO NA A🔸RESENHA FORA DA SALA🔸#135",
       "videoId": "CAA-jhMVW9A",
       "url": "https://www.youtube.com/watch?v=CAA-jhMVW9A",
       "thumbnail": "https://i.ytimg.com/vi/CAA-jhMVW9A/mqdefault_live.jpg",
       "published": "2026-09-21T16:31:23Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Oque você acha dessa teoria do Edu?",
-      "videoId": "Gfz3DOTmHrA",
-      "url": "https://www.youtube.com/watch?v=Gfz3DOTmHrA",
-      "thumbnail": "https://i.ytimg.com/vi/Gfz3DOTmHrA/mqdefault.jpg",
-      "published": "2026-09-21T15:51:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,8 +71,8 @@
       "title": "GRENAL SHOW - #17",
       "videoId": "BH_NzjDLtzQ",
       "url": "https://www.youtube.com/watch?v=BH_NzjDLtzQ",
-      "thumbnail": "https://i.ytimg.com/vi/BH_NzjDLtzQ/mqdefault_live.jpg",
-      "published": "2026-09-21T16:01:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/BH_NzjDLtzQ/mqdefault.jpg",
+      "published": "2026-09-21T17:17:51Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "CAMAROTE NEW BALANCE: GRÊMIO X PALMEIRAS",
+      "videoId": "q1Dr-Ootgwk",
+      "url": "https://www.youtube.com/watch?v=q1Dr-Ootgwk",
+      "thumbnail": "https://i.ytimg.com/vi/q1Dr-Ootgwk/mqdefault.jpg",
+      "published": "2026-09-21T17:31:45Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X PALMEIRAS I BRASILEIRÃO 2026",
       "videoId": "95h2fZINFTI",
       "url": "https://www.youtube.com/watch?v=95h2fZINFTI",
@@ -155,12 +163,12 @@
       "published": "2026-09-20T17:37:21Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ARAUCÁRIA I MASC (COPA SUL SUB-20 I 2026)",
-      "videoId": "oKC8n2qdxCs",
-      "url": "https://www.youtube.com/watch?v=oKC8n2qdxCs",
-      "thumbnail": "https://i.ytimg.com/vi/oKC8n2qdxCs/mqdefault.jpg",
-      "published": "2026-09-19T20:15:05Z"
+      "channel": "GZH Digital",
+      "title": "Desaparecidos em Caxias do Sul, estragos da chuva, monitoramento dos rios e + | Gaúcha+ | 21/09/2026",
+      "videoId": "V1xZ3tDNg3c",
+      "url": "https://www.youtube.com/watch?v=V1xZ3tDNg3c",
+      "thumbnail": "https://i.ytimg.com/vi/V1xZ3tDNg3c/mqdefault_live.jpg",
+      "published": "2026-09-21T18:00:23Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=_djSxc1Zt2Y",
       "thumbnail": "https://i.ytimg.com/vi/_djSxc1Zt2Y/mqdefault_live.jpg",
       "published": "2026-09-21T16:55:25Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 21/09/2026",
-      "videoId": "V1xZ3tDNg3c",
-      "url": "https://www.youtube.com/watch?v=V1xZ3tDNg3c",
-      "thumbnail": "https://i.ytimg.com/vi/V1xZ3tDNg3c/mqdefault_live.jpg",
-      "published": "2026-09-21T16:25:27Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 21/09/2026",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 21/09/2026",
       "videoId": "UqoGK2F0fDc",
       "url": "https://www.youtube.com/watch?v=UqoGK2F0fDc",
       "thumbnail": "https://i.ytimg.com/vi/UqoGK2F0fDc/mqdefault_live.jpg",
