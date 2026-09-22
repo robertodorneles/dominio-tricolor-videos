@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:00:46.076653+00:00",
+  "updated_at": "2026-09-22T17:54:13.063185+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "A falta de planejamento do Inter.",
+      "videoId": "1QET71OWb6A",
+      "url": "https://www.youtube.com/watch?v=1QET71OWb6A",
+      "thumbnail": "https://i.ytimg.com/vi/1QET71OWb6A/mqdefault.jpg",
+      "published": "2026-09-22T17:52:38Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "INTER QUER RAFAEL LACERDA! GRÊMIO TEM RETORNOS NA DATA FIFA🔸RESENHA FORA DA SALA🔸#136",
       "videoId": "kUACUqS3uLs",
       "url": "https://www.youtube.com/watch?v=kUACUqS3uLs",
       "thumbnail": "https://i.ytimg.com/vi/kUACUqS3uLs/mqdefault_live.jpg",
       "published": "2026-09-22T16:30:47Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #072",
-      "videoId": "roXv6qF2M2s",
-      "url": "https://www.youtube.com/watch?v=roXv6qF2M2s",
-      "thumbnail": "https://i.ytimg.com/vi/roXv6qF2M2s/mqdefault.jpg",
-      "published": "2026-09-22T14:59:20Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,8 +71,8 @@
       "title": "GRENAL SHOW - #18",
       "videoId": "oAbHlx1WECE",
       "url": "https://www.youtube.com/watch?v=oAbHlx1WECE",
-      "thumbnail": "https://i.ytimg.com/vi/oAbHlx1WECE/mqdefault_live.jpg",
-      "published": "2026-09-22T16:00:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/oAbHlx1WECE/mqdefault.jpg",
+      "published": "2026-09-22T17:21:46Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Quanto custa uma campanha eleitoral? O dinheiro que move as eleições | Sala de Eleição",
+      "videoId": "IcPetKhUAdA",
+      "url": "https://www.youtube.com/watch?v=IcPetKhUAdA",
+      "thumbnail": "https://i.ytimg.com/vi/IcPetKhUAdA/mqdefault.jpg",
+      "published": "2026-09-22T17:21:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O que se sabe sobre o caso da jovem que perdeu os movimentos após andar em montanha-russa",
       "videoId": "mJBgA-iOtPw",
       "url": "https://www.youtube.com/watch?v=mJBgA-iOtPw",
       "thumbnail": "https://i.ytimg.com/vi/mJBgA-iOtPw/mqdefault.jpg",
       "published": "2026-09-22T16:30:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Financiamento de campanhas, pesquisa Quaest e Lula na ONU | Sala de Eleição | 22/09/2026",
-      "videoId": "saTaZL6ZUfk",
-      "url": "https://www.youtube.com/watch?v=saTaZL6ZUfk",
-      "thumbnail": "https://i.ytimg.com/vi/saTaZL6ZUfk/mqdefault.jpg",
-      "published": "2026-09-22T16:00:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ENCAMINHADO COM PATROCÍNIO MASTER? | MUDANÇAS NO FUTEBOL BRASILEIRO | IMORTAL FC",
+      "videoId": "wcp9YKdztY0",
+      "url": "https://www.youtube.com/watch?v=wcp9YKdztY0",
+      "thumbnail": "https://i.ytimg.com/vi/wcp9YKdztY0/mqdefault_live.jpg",
+      "published": "2026-09-22T17:46:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #160 — NOVIDADES NO FUTEBOL BRASILEIRO E COMO ISSO AFETA O GRÊMIO",
       "videoId": "EG1E7wccfnQ",
       "url": "https://www.youtube.com/watch?v=EG1E7wccfnQ",
       "thumbnail": "https://i.ytimg.com/vi/EG1E7wccfnQ/mqdefault.jpg",
       "published": "2026-09-22T15:09:53Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VOTA A FAVOR DE REDUÇÃO DE ESTRANGEIROS | COMO É BOM SER DO GRÊMIO #47",
-      "videoId": "oJv_csSV68Q",
-      "url": "https://www.youtube.com/watch?v=oJv_csSV68Q",
-      "thumbnail": "https://i.ytimg.com/vi/oJv_csSV68Q/mqdefault.jpg",
-      "published": "2026-09-22T14:08:00Z"
     }
   ]
 }
