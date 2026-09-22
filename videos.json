@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-22T21:00:43.903874+00:00",
+  "updated_at": "2026-09-22T22:00:37.861377+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O NOVO PROTAGONISMO DE FELIPÃO | RENATO SEM VAIDADES EM 2026",
+      "videoId": "4kqEkNVmAFY",
+      "url": "https://www.youtube.com/watch?v=4kqEkNVmAFY",
+      "thumbnail": "https://i.ytimg.com/vi/4kqEkNVmAFY/mqdefault.jpg",
+      "published": "2026-09-22T21:30:23Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 QUEREM ANUNCIAR NAS PRÓXIMAS HORAS | PERFIL MUDOU! | QUEREM UM EMERGENTE",
@@ -11,12 +19,12 @@
       "published": "2026-09-22T20:35:43Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO MUDA ROTINA E JOGADORES TOMAM DECISÃO! MARLON SURPREENDE NOS BASTIDORES",
-      "videoId": "BB7HLfjAK2A",
-      "url": "https://www.youtube.com/watch?v=BB7HLfjAK2A",
-      "thumbnail": "https://i.ytimg.com/vi/BB7HLfjAK2A/mqdefault.jpg",
-      "published": "2026-09-22T05:00:07Z"
+      "channel": "Bage TV",
+      "title": "CORRIDA CONTRA O TEMPO NO INTER! #CORTESDORESENHA",
+      "videoId": "BNpLkGYT7bI",
+      "url": "https://www.youtube.com/watch?v=BNpLkGYT7bI",
+      "thumbnail": "https://i.ytimg.com/vi/BNpLkGYT7bI/mqdefault.jpg",
+      "published": "2026-09-22T21:34:49Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=fnjK6HFvsog",
       "thumbnail": "https://i.ytimg.com/vi/fnjK6HFvsog/mqdefault_live.jpg",
       "published": "2026-09-22T20:30:30Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CBF MUDA REGRA DOS ESTRANGEIROS! COMO FICA O GRÊMIO? 🔹 THE TARDE 🔹#225",
-      "videoId": "3y9skiP8jfo",
-      "url": "https://www.youtube.com/watch?v=3y9skiP8jfo",
-      "thumbnail": "https://i.ytimg.com/vi/3y9skiP8jfo/mqdefault.jpg",
-      "published": "2026-09-22T19:52:25Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -84,6 +84,14 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "O novo limite de estrangeiros | Grêmio tem vínculo com 14 jogadores de fora do Brasil | Veja a lista",
+      "videoId": "RLifkUs7Bjg",
+      "url": "https://www.youtube.com/watch?v=RLifkUs7Bjg",
+      "thumbnail": "https://i.ytimg.com/vi/RLifkUs7Bjg/mqdefault.jpg",
+      "published": "2026-09-22T21:27:07Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Inter toma decisão sobre novo técnico | Jair Ventura está na lista | Prazo para fechar a contratação",
       "videoId": "q9ISmxUuBis",
       "url": "https://www.youtube.com/watch?v=q9ISmxUuBis",
@@ -91,12 +99,12 @@
       "published": "2026-09-22T13:05:13Z"
     },
     {
-      "channel": "Canal do Gabardo",
-      "title": "A resposta de Barbieri pro Inter | Nome de argentino perde força | O que se falou sobre Abel Braga",
-      "videoId": "sIxk6DlTYD0",
-      "url": "https://www.youtube.com/watch?v=sIxk6DlTYD0",
-      "thumbnail": "https://i.ytimg.com/vi/sIxk6DlTYD0/mqdefault.jpg",
-      "published": "2026-09-21T14:56:25Z"
+      "channel": "Careca de Saber TV",
+      "title": "PATROCÍNIO DA CIMED? VALORES | GRÊMIO TEM 14 ESTRANGEIROS: SITUAÇÃO E CORTE.",
+      "videoId": "9s9hH-_d9pM",
+      "url": "https://www.youtube.com/watch?v=9s9hH-_d9pM",
+      "thumbnail": "https://i.ytimg.com/vi/9s9hH-_d9pM/mqdefault.jpg",
+      "published": "2026-09-22T21:07:06Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -105,14 +113,6 @@
       "url": "https://www.youtube.com/watch?v=0Q2s22o4lIE",
       "thumbnail": "https://i.ytimg.com/vi/0Q2s22o4lIE/mqdefault.jpg",
       "published": "2026-09-21T20:27:42Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DEMORARAM PRA PEGAR A CHAVE! #gremio #futebol",
-      "videoId": "Z3hLzYlrBco",
-      "url": "https://www.youtube.com/watch?v=Z3hLzYlrBco",
-      "thumbnail": "https://i.ytimg.com/vi/Z3hLzYlrBco/mqdefault.jpg",
-      "published": "2026-09-21T13:45:46Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "A PIADA DO RONCADOR - NETO FAGUNDES #dudagarbi #umassadopara",
-      "videoId": "5fFo0WGlfVY",
-      "url": "https://www.youtube.com/watch?v=5fFo0WGlfVY",
-      "thumbnail": "https://i.ytimg.com/vi/5fFo0WGlfVY/mqdefault.jpg",
-      "published": "2026-09-22T21:00:12Z"
+      "title": "SE EMOCIONE COM A POESIA E MÚSICA GAÚCHA NA VOZ DE NETO FAGUNDES | Cortes do Duda",
+      "videoId": "PipMxsp6m1A",
+      "url": "https://www.youtube.com/watch?v=PipMxsp6m1A",
+      "thumbnail": "https://i.ytimg.com/vi/PipMxsp6m1A/mqdefault.jpg",
+      "published": "2026-09-22T21:30:28Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 22.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "0tvUZ64axD0",
-      "url": "https://www.youtube.com/watch?v=0tvUZ64axD0",
-      "thumbnail": "https://i.ytimg.com/vi/0tvUZ64axD0/mqdefault.jpg",
-      "published": "2026-09-22T13:10:12Z"
+      "title": "O GRENAL DOS FAGUNDES ERA FORTE #dudagarbi #umassadopara",
+      "videoId": "DrWfGlhJwig",
+      "url": "https://www.youtube.com/watch?v=DrWfGlhJwig",
+      "thumbnail": "https://i.ytimg.com/vi/DrWfGlhJwig/mqdefault.jpg",
+      "published": "2026-09-22T21:30:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Sala de Eleição | 25/09/2026",
-      "videoId": "T67l5hwJaWU",
-      "url": "https://www.youtube.com/watch?v=T67l5hwJaWU",
-      "thumbnail": "https://i.ytimg.com/vi/T67l5hwJaWU/mqdefault_live.jpg",
-      "published": "2026-09-22T21:00:04Z"
+      "title": "Por que empresas gigantes precisam de startups para conseguir inovar mais rápido?",
+      "videoId": "FJI2iGZ5n7g",
+      "url": "https://www.youtube.com/watch?v=FJI2iGZ5n7g",
+      "thumbnail": "https://i.ytimg.com/vi/FJI2iGZ5n7g/mqdefault.jpg",
+      "published": "2026-09-22T21:56:42Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Trump pode influenciar as eleições do Brasil? | Conversas Cruzadas | 22/09/2026",
-      "videoId": "4R7DwzFDqCc",
-      "url": "https://www.youtube.com/watch?v=4R7DwzFDqCc",
-      "thumbnail": "https://i.ytimg.com/vi/4R7DwzFDqCc/mqdefault_live.jpg",
-      "published": "2026-09-22T20:33:47Z"
+      "title": "Morte do cantor Rick, alagamentos em Lajeado, impactos do temporal e mais  | Gaúcha+ | 22/09/2026",
+      "videoId": "k_tUHmqKKMU",
+      "url": "https://www.youtube.com/watch?v=k_tUHmqKKMU",
+      "thumbnail": "https://i.ytimg.com/vi/k_tUHmqKKMU/mqdefault.jpg",
+      "published": "2026-09-22T21:33:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ENCAMINHADO COM PATROCÍNIO MASTER? | MUDANÇAS NO FUTEBOL BRASILEIRO | IMORTAL FC",
+      "videoId": "wcp9YKdztY0",
+      "url": "https://www.youtube.com/watch?v=wcp9YKdztY0",
+      "thumbnail": "https://i.ytimg.com/vi/wcp9YKdztY0/mqdefault_live.jpg",
+      "published": "2026-09-22T21:01:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO | PATROCÍNIO MASTER ENCAMINHADO? ENTENDA | ESPLANADA",
       "videoId": "wyb9fFJA8qM",
       "url": "https://www.youtube.com/watch?v=wyb9fFJA8qM",
       "thumbnail": "https://i.ytimg.com/vi/wyb9fFJA8qM/mqdefault.jpg",
       "published": "2026-09-22T19:36:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "FINALMENTE O PATROCÍNIO MASTER? | ELENCO DE FOLGA ATÉ QUINTA | NOITES DE GRÊMIO #150 - 22/09",
-      "videoId": "ftlsN1Agn2k",
-      "url": "https://www.youtube.com/watch?v=ftlsN1Agn2k",
-      "thumbnail": "https://i.ytimg.com/vi/ftlsN1Agn2k/mqdefault_live.jpg",
-      "published": "2026-09-22T19:30:46Z"
     }
   ]
 }
