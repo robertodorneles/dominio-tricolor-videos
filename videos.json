@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:47:51.801584+00:00",
+  "updated_at": "2026-09-22T00:00:34.218879+00:00",
   "total": 30,
   "videos": [
     {
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 21/09/2026",
+      "videoId": "UqoGK2F0fDc",
+      "url": "https://www.youtube.com/watch?v=UqoGK2F0fDc",
+      "thumbnail": "https://i.ytimg.com/vi/UqoGK2F0fDc/mqdefault.jpg",
+      "published": "2026-09-21T23:47:52Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 21/09/2026",
       "videoId": "pGXKRyhBtTE",
       "url": "https://www.youtube.com/watch?v=pGXKRyhBtTE",
       "thumbnail": "https://i.ytimg.com/vi/pGXKRyhBtTE/mqdefault_live.jpg",
       "published": "2026-09-21T23:03:21Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 21/09/2026",
-      "videoId": "UqoGK2F0fDc",
-      "url": "https://www.youtube.com/watch?v=UqoGK2F0fDc",
-      "thumbnail": "https://i.ytimg.com/vi/UqoGK2F0fDc/mqdefault_live.jpg",
-      "published": "2026-09-21T23:02:33Z"
+      "channel": "Radio Imortal",
+      "title": "EMPATAR FOI SUFICIENTE? | NÚMERO DE ESTRANGEIROS SERÁ REDUZIDO | NOITES DE GRÊMIO #149 - 21/09",
+      "videoId": "4nT7uP7kSGc",
+      "url": "https://www.youtube.com/watch?v=4nT7uP7kSGc",
+      "thumbnail": "https://i.ytimg.com/vi/4nT7uP7kSGc/mqdefault_live.jpg",
+      "published": "2026-09-22T00:00:20Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Yhfn2mHPYoM",
       "thumbnail": "https://i.ytimg.com/vi/Yhfn2mHPYoM/mqdefault.jpg",
       "published": "2026-09-21T22:07:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "EMPATAR FOI SUFICIENTE? | NÚMERO DE ESTRANGEIROS SERÁ REDUZIDO | NOITES DE GRÊMIO #149 - 21/09",
-      "videoId": "4nT7uP7kSGc",
-      "url": "https://www.youtube.com/watch?v=4nT7uP7kSGc",
-      "thumbnail": "https://i.ytimg.com/vi/4nT7uP7kSGc/mqdefault_live.jpg",
-      "published": "2026-09-21T20:57:17Z"
     }
   ]
 }
