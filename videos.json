@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:00:39.635206+00:00",
+  "updated_at": "2026-09-22T11:00:42.263658+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 22/09/2026",
+      "videoId": "s_UnEzzpk94",
+      "url": "https://www.youtube.com/watch?v=s_UnEzzpk94",
+      "thumbnail": "https://i.ytimg.com/vi/s_UnEzzpk94/mqdefault_live.jpg",
+      "published": "2026-09-22T10:55:24Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Desaparecidos em Caxias do Sul, estragos da chuva, monitoramento dos rios e + | Gaúcha+ | 21/09/2026",
       "videoId": "V1xZ3tDNg3c",
       "url": "https://www.youtube.com/watch?v=V1xZ3tDNg3c",
       "thumbnail": "https://i.ytimg.com/vi/V1xZ3tDNg3c/mqdefault.jpg",
       "published": "2026-09-22T07:45:42Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Miguel Reale Jr.: ex-ministro da Justiça e renomado criminalista | Conversas Cruzadas",
-      "videoId": "cpBgmzjQg4A",
-      "url": "https://www.youtube.com/watch?v=cpBgmzjQg4A",
-      "thumbnail": "https://i.ytimg.com/vi/cpBgmzjQg4A/mqdefault.jpg",
-      "published": "2026-09-21T22:40:30Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #27 — HORA DO GRÊMIO REORGANIZAR A CASA!",
+      "videoId": "QmzT1DRAkrA",
+      "url": "https://www.youtube.com/watch?v=QmzT1DRAkrA",
+      "thumbnail": "https://i.ytimg.com/vi/QmzT1DRAkrA/mqdefault_live.jpg",
+      "published": "2026-09-22T10:01:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #160 — NOVIDADES NO FUTEBOL BRASILEIRO E COMO ISSO AFETA O GRÊMIO",
       "videoId": "EG1E7wccfnQ",
       "url": "https://www.youtube.com/watch?v=EG1E7wccfnQ",
       "thumbnail": "https://i.ytimg.com/vi/EG1E7wccfnQ/mqdefault_live.jpg",
       "published": "2026-09-22T02:34:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VOTA A FAVOR DE REDUÇÃO DE ESTRANGEIROS | COMO É BOM SER DO GRÊMIO #47",
-      "videoId": "oJv_csSV68Q",
-      "url": "https://www.youtube.com/watch?v=oJv_csSV68Q",
-      "thumbnail": "https://i.ytimg.com/vi/oJv_csSV68Q/mqdefault_live.jpg",
-      "published": "2026-09-22T02:31:22Z"
     }
   ]
 }
