@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-22T00:00:34.218879+00:00",
+  "updated_at": "2026-09-22T01:00:43.616829+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: A BUSCA POR UM NOVO TREINADOR NO INTERNACIONAL | GRÊMIO E AS CORREÇÕES",
+      "videoId": "CpZ6kY0-G68",
+      "url": "https://www.youtube.com/watch?v=CpZ6kY0-G68",
+      "thumbnail": "https://i.ytimg.com/vi/CpZ6kY0-G68/mqdefault_live.jpg",
+      "published": "2026-09-22T00:20:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA EM DETALHES O COMPORTAMENTO DE JOVANE CABRAL | CONSEQUÊNCIAS E O RECADO DE RENATO",
@@ -11,28 +19,20 @@
       "published": "2026-09-21T18:00:08Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 ACERTO A QUALQUER MOMENTO | PRESSA PARA ANUNCIAR! | BARBIERI? LISCA? JAIR?",
-      "videoId": "rItl-Yn4Bo8",
-      "url": "https://www.youtube.com/watch?v=rItl-Yn4Bo8",
-      "thumbnail": "https://i.ytimg.com/vi/rItl-Yn4Bo8/mqdefault.jpg",
-      "published": "2026-09-21T12:24:38Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "CBF APROVA REDUÇÃO DO LIMITE DE ESTRANGEIROS🟣RESENHA FORA DA SALA NOITE🟣#027",
       "videoId": "jIKqGa4fWmA",
       "url": "https://www.youtube.com/watch?v=jIKqGa4fWmA",
-      "thumbnail": "https://i.ytimg.com/vi/jIKqGa4fWmA/mqdefault_live.jpg",
-      "published": "2026-09-21T23:20:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/jIKqGa4fWmA/mqdefault.jpg",
+      "published": "2026-09-22T00:41:19Z"
     },
     {
       "channel": "Bage TV",
-      "title": "PEZZOLANO DEMITIDO! QUEM ASSUME O COMANDO DO INTER? WÉVERTON SALVA O GRÊMIO📰BAGÉTV NEWS #039",
-      "videoId": "nCozmvs8Fm8",
-      "url": "https://www.youtube.com/watch?v=nCozmvs8Fm8",
-      "thumbnail": "https://i.ytimg.com/vi/nCozmvs8Fm8/mqdefault.jpg",
-      "published": "2026-09-21T22:08:19Z"
+      "title": "DATA FIFA PODE MUDAR O GRÊMIO DE RENATO?🔵 BOA NOITE GRÊMIO #027",
+      "videoId": "C3-VrrUKDUM",
+      "url": "https://www.youtube.com/watch?v=C3-VrrUKDUM",
+      "thumbnail": "https://i.ytimg.com/vi/C3-VrrUKDUM/mqdefault_live.jpg",
+      "published": "2026-09-22T00:30:30Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA: A LUTA PRA NÃO CAIR E A PROJEÇÃO DAS PRÓXIMAS RODADAS",
+      "videoId": "SzXyIRAaE1Y",
+      "url": "https://www.youtube.com/watch?v=SzXyIRAaE1Y",
+      "thumbnail": "https://i.ytimg.com/vi/SzXyIRAaE1Y/mqdefault_live.jpg",
+      "published": "2026-09-22T00:00:59Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #682: Chances de queda | Desfalques | DM | Estrangeiros | Calendário e mais",
       "videoId": "Um6j9WR3PBw",
       "url": "https://www.youtube.com/watch?v=Um6j9WR3PBw",
@@ -59,12 +67,12 @@
       "published": "2026-09-21T20:56:22Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Os 5 pontos do novo Grêmio de Renato Portaluppi",
-      "videoId": "eyDh2JyGsGU",
-      "url": "https://www.youtube.com/watch?v=eyDh2JyGsGU",
-      "thumbnail": "https://i.ytimg.com/vi/eyDh2JyGsGU/mqdefault.jpg",
-      "published": "2026-09-21T13:51:23Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #021 - TEMOS O MELHOR GOLEIRO DO BRASIL!",
+      "videoId": "0Q8V2wUvUFw",
+      "url": "https://www.youtube.com/watch?v=0Q8V2wUvUFw",
+      "thumbnail": "https://i.ytimg.com/vi/0Q8V2wUvUFw/mqdefault.jpg",
+      "published": "2026-09-22T00:50:33Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=Oezw89gFEz0",
       "thumbnail": "https://i.ytimg.com/vi/Oezw89gFEz0/mqdefault.jpg",
       "published": "2026-09-21T23:08:30Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "A VERDADE DO BRASIL ATUAL!",
-      "videoId": "6kAVhhLCz1k",
-      "url": "https://www.youtube.com/watch?v=6kAVhhLCz1k",
-      "thumbnail": "https://i.ytimg.com/vi/6kAVhhLCz1k/mqdefault.jpg",
-      "published": "2026-09-21T22:03:54Z"
     },
     {
       "channel": "Canal do Gabardo",
