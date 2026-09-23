@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T10:00:40.772360+00:00",
+  "updated_at": "2026-09-23T11:00:42.117857+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #133",
+      "title": "GRÊMIO FECHA COM PATROCINADOR MÁSTER? 🌅🔵 BOM DIA GRÊMIO #133",
       "videoId": "t-wEUYL0GaE",
       "url": "https://www.youtube.com/watch?v=t-wEUYL0GaE",
       "thumbnail": "https://i.ytimg.com/vi/t-wEUYL0GaE/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Abastecimento de diesel, discurso de Lula na ONU, trânsito e mais | Gaúcha Atualidade | 23/09/2026",
+      "videoId": "cg5sm2Py7J4",
+      "url": "https://www.youtube.com/watch?v=cg5sm2Py7J4",
+      "thumbnail": "https://i.ytimg.com/vi/cg5sm2Py7J4/mqdefault_live.jpg",
+      "published": "2026-09-23T10:56:11Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Trump pode influenciar as eleições do Brasil? | Conversas Cruzadas | 22/09/2026",
       "videoId": "4R7DwzFDqCc",
       "url": "https://www.youtube.com/watch?v=4R7DwzFDqCc",
       "thumbnail": "https://i.ytimg.com/vi/4R7DwzFDqCc/mqdefault.jpg",
       "published": "2026-09-23T09:33:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Morte do cantor Rick, alagamentos em Lajeado, impactos do temporal e mais  | Gaúcha+ | 22/09/2026",
-      "videoId": "QU181M8lkIE",
-      "url": "https://www.youtube.com/watch?v=QU181M8lkIE",
-      "thumbnail": "https://i.ytimg.com/vi/QU181M8lkIE/mqdefault.jpg",
-      "published": "2026-09-23T07:34:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO: SABATINA COM JOSÉ AMARANTE, PRÉ-CANDIDATO À PRESIDÊNCIA DO INTER | 23/09/2026 |RÁDIO GRENAL",
+      "videoId": "wVzFiPsjxYw",
+      "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
+      "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault_live.jpg",
+      "published": "2026-09-23T10:10:59Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 22/09/2026",
       "videoId": "pGXKRyhBtTE",
       "url": "https://www.youtube.com/watch?v=pGXKRyhBtTE",
@@ -219,12 +227,12 @@
       "published": "2026-09-22T23:31:55Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "JAIR VENTURA A CAMINHO?🧐🇮🇩",
-      "videoId": "vNRhTaCpvyU",
-      "url": "https://www.youtube.com/watch?v=vNRhTaCpvyU",
-      "thumbnail": "https://i.ytimg.com/vi/vNRhTaCpvyU/mqdefault.jpg",
-      "published": "2026-09-22T16:28:31Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #28 — NOVIDADE IMPORTANTE NO GRÊMIO EM MEIO À DATA FIFA",
+      "videoId": "pt5Z4RSGXdw",
+      "url": "https://www.youtube.com/watch?v=pt5Z4RSGXdw",
+      "thumbnail": "https://i.ytimg.com/vi/pt5Z4RSGXdw/mqdefault_live.jpg",
+      "published": "2026-09-23T10:02:07Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=ftlsN1Agn2k",
       "thumbnail": "https://i.ytimg.com/vi/ftlsN1Agn2k/mqdefault.jpg",
       "published": "2026-09-23T01:38:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #161 — O QUE RENATO FARÁ NO TIME DO GRÊMIO? | REAPRESENTAÇÃO AMANHÃ",
-      "videoId": "PPWrcRatQUQ",
-      "url": "https://www.youtube.com/watch?v=PPWrcRatQUQ",
-      "thumbnail": "https://i.ytimg.com/vi/PPWrcRatQUQ/mqdefault_live.jpg",
-      "published": "2026-09-22T23:20:57Z"
     }
   ]
 }
