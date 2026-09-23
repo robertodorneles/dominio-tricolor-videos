@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:00:35.473829+00:00",
+  "updated_at": "2026-09-23T23:00:41.598464+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO ANUNCIA NOVO PATROCINADOR MÁSTER!📰BAGÉTV NEWS #041",
       "videoId": "v0Ow_3GCChk",
       "url": "https://www.youtube.com/watch?v=v0Ow_3GCChk",
-      "thumbnail": "https://i.ytimg.com/vi/v0Ow_3GCChk/mqdefault_live.jpg",
-      "published": "2026-09-23T20:31:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/v0Ow_3GCChk/mqdefault.jpg",
+      "published": "2026-09-23T22:04:17Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Os valores do novo patrocínio master do Grêmio 🇪🇪",
+      "videoId": "y6yo4tYmMu4",
+      "url": "https://www.youtube.com/watch?v=y6yo4tYmMu4",
+      "thumbnail": "https://i.ytimg.com/vi/y6yo4tYmMu4/mqdefault.jpg",
+      "published": "2026-09-23T22:22:20Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #684: Grêmio anuncia novo patrocínio master | Pedido dos jogadores | Renato e mais",
       "videoId": "2lWgmhHvd2U",
       "url": "https://www.youtube.com/watch?v=2lWgmhHvd2U",
@@ -59,12 +67,12 @@
       "published": "2026-09-23T21:27:09Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "As novas regras e a necessidade do Grêmio mudar suas estruturas",
-      "videoId": "4GosQYEVLXw",
-      "url": "https://www.youtube.com/watch?v=4GosQYEVLXw",
-      "thumbnail": "https://i.ytimg.com/vi/4GosQYEVLXw/mqdefault.jpg",
-      "published": "2026-09-23T12:11:06Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 23/09/2026",
+      "videoId": "QUe37Sny3gU",
+      "url": "https://www.youtube.com/watch?v=QUe37Sny3gU",
+      "thumbnail": "https://i.ytimg.com/vi/QUe37Sny3gU/mqdefault_live.jpg",
+      "published": "2026-09-23T22:05:13Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=wkJ2SAmMgdQ",
       "thumbnail": "https://i.ytimg.com/vi/wkJ2SAmMgdQ/mqdefault.jpg",
       "published": "2026-09-23T17:26:04Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 23/09/2026",
-      "videoId": "QUe37Sny3gU",
-      "url": "https://www.youtube.com/watch?v=QUe37Sny3gU",
-      "thumbnail": "https://i.ytimg.com/vi/QUe37Sny3gU/mqdefault_live.jpg",
-      "published": "2026-09-23T13:02:36Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "GRÊMIO TEM NOVO PATROCÍNIO MASTER: PITACO | BASTIDORES DO NEGÓCIO | CIMED TAMBÉM? | FALTA DE TREINO?",
+      "videoId": "kRLm1KGA1ew",
+      "url": "https://www.youtube.com/watch?v=kRLm1KGA1ew",
+      "thumbnail": "https://i.ytimg.com/vi/kRLm1KGA1ew/mqdefault.jpg",
+      "published": "2026-09-23T22:42:54Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "⚠️🚨FALTA DE TREINO E FORA DE FORMA? Legado de Luis Castro #gremio #futeb",
       "videoId": "0UVcDZU09LA",
       "url": "https://www.youtube.com/watch?v=0UVcDZU09LA",
       "thumbnail": "https://i.ytimg.com/vi/0UVcDZU09LA/mqdefault.jpg",
       "published": "2026-09-23T17:47:33Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "COMO É BOM SER GREMISTA! VAMOS JUNTOS SAIR DESSA! #gremio #futebol @bagetvoficial",
-      "videoId": "ax3iRuioJLw",
-      "url": "https://www.youtube.com/watch?v=ax3iRuioJLw",
-      "thumbnail": "https://i.ytimg.com/vi/ax3iRuioJLw/mqdefault.jpg",
-      "published": "2026-09-23T14:00:34Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O que o próximo GOVERNADOR do RS deveria PRIORIZAR? | Conversas Cruzadas",
+      "videoId": "C0ws2OB5N88",
+      "url": "https://www.youtube.com/watch?v=C0ws2OB5N88",
+      "thumbnail": "https://i.ytimg.com/vi/C0ws2OB5N88/mqdefault.jpg",
+      "published": "2026-09-23T22:45:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Os desafios do RS: clima, infraestrutura e agronegócio em debate | Conversas Cruzadas | 23/09/2026",
       "videoId": "zfF0u79MApg",
       "url": "https://www.youtube.com/watch?v=zfF0u79MApg",
@@ -171,12 +179,12 @@
       "published": "2026-09-23T21:30:39Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Indenização de R$ 635 milhões, furto de fios paralisa indústrias e novo Zaffari | Giane Guerra",
-      "videoId": "gul0MVvGlMs",
-      "url": "https://www.youtube.com/watch?v=gul0MVvGlMs",
-      "thumbnail": "https://i.ytimg.com/vi/gul0MVvGlMs/mqdefault.jpg",
-      "published": "2026-09-23T21:30:24Z"
+      "channel": "Jeremias Wernek",
+      "title": "NOVO PATROCÍNIO DO GRÊMIO: Valor pago + forte declaração + riscos + outra marca vem aí",
+      "videoId": "CMXx5PwdwOg",
+      "url": "https://www.youtube.com/watch?v=CMXx5PwdwOg",
+      "thumbnail": "https://i.ytimg.com/vi/CMXx5PwdwOg/mqdefault.jpg",
+      "published": "2026-09-23T22:02:59Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -187,12 +195,12 @@
       "published": "2026-09-23T14:51:43Z"
     },
     {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: A TRETA ENTRE INTER E EDUARDO BAPTISTA E RENATO QUER RECUPERAR JOGADOR DO GRÊMIO",
-      "videoId": "WftpNO3J84g",
-      "url": "https://www.youtube.com/watch?v=WftpNO3J84g",
-      "thumbnail": "https://i.ytimg.com/vi/WftpNO3J84g/mqdefault.jpg",
-      "published": "2026-09-23T12:28:48Z"
+      "channel": "LH Benfica",
+      "title": "🚨SURPRESA NO GRÊMIO: O NOVO PATROCINADOR MÁSTER | RENATO BAIXA DECRETO | APARECEU A VERDADE",
+      "videoId": "k2DcGFo_uXo",
+      "url": "https://www.youtube.com/watch?v=k2DcGFo_uXo",
+      "thumbnail": "https://i.ytimg.com/vi/k2DcGFo_uXo/mqdefault.jpg",
+      "published": "2026-09-23T22:14:54Z"
     },
     {
       "channel": "LH Benfica",
@@ -201,14 +209,6 @@
       "url": "https://www.youtube.com/watch?v=Yxy9iWa6jyc",
       "thumbnail": "https://i.ytimg.com/vi/Yxy9iWa6jyc/mqdefault.jpg",
       "published": "2026-09-22T22:37:20Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨UMA BAITA INFORMAÇÃO PRO GRÊMIO | ELE ESTÁ DE VOLTA | PERDERAM ESPAÇO COM RENATO",
-      "videoId": "trq4xAoFFGE",
-      "url": "https://www.youtube.com/watch?v=trq4xAoFFGE",
-      "thumbnail": "https://i.ytimg.com/vi/trq4xAoFFGE/mqdefault.jpg",
-      "published": "2026-09-21T22:09:38Z"
     },
     {
       "channel": "Radio Grenal",
@@ -231,8 +231,8 @@
       "title": "URGENTE: GRÊMIO ANUNCIA PATROCINADOR MÁSTER!! | RENATO RECEBE PEDIDO DOS JOGADORES | IMORTAL FC",
       "videoId": "mNhRfxYM8BA",
       "url": "https://www.youtube.com/watch?v=mNhRfxYM8BA",
-      "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault_live.jpg",
-      "published": "2026-09-23T21:02:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault.jpg",
+      "published": "2026-09-23T22:07:00Z"
     },
     {
       "channel": "Radio Imortal",
