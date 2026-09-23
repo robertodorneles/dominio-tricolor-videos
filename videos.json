@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:00:43.307275+00:00",
+  "updated_at": "2026-09-23T16:00:42.123713+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO DEVE SE LIVRAR DE QUAL ESTRANGEIRO? #CORTESDOFAG",
+      "videoId": "FJPnvPutrxM",
+      "url": "https://www.youtube.com/watch?v=FJPnvPutrxM",
+      "thumbnail": "https://i.ytimg.com/vi/FJPnvPutrxM/mqdefault.jpg",
+      "published": "2026-09-23T15:42:19Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "INTER ANUNCIA EDUARDO BAPTISTA! BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #073",
       "videoId": "1aNVH0-Tg5I",
       "url": "https://www.youtube.com/watch?v=1aNVH0-Tg5I",
       "thumbnail": "https://i.ytimg.com/vi/1aNVH0-Tg5I/mqdefault.jpg",
       "published": "2026-09-23T14:57:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Vai ser dificil até a última rodada.",
-      "videoId": "T9ZdKsQ5mMM",
-      "url": "https://www.youtube.com/watch?v=T9ZdKsQ5mMM",
-      "thumbnail": "https://i.ytimg.com/vi/T9ZdKsQ5mMM/mqdefault.jpg",
-      "published": "2026-09-23T14:08:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #19",
+      "videoId": "wkJ2SAmMgdQ",
+      "url": "https://www.youtube.com/watch?v=wkJ2SAmMgdQ",
+      "thumbnail": "https://i.ytimg.com/vi/wkJ2SAmMgdQ/mqdefault_live.jpg",
+      "published": "2026-09-23T15:38:43Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 23/09/2026",
       "videoId": "QUe37Sny3gU",
       "url": "https://www.youtube.com/watch?v=QUe37Sny3gU",
       "thumbnail": "https://i.ytimg.com/vi/QUe37Sny3gU/mqdefault_live.jpg",
       "published": "2026-09-23T13:02:36Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #024",
-      "videoId": "rKklj_FVYsI",
-      "url": "https://www.youtube.com/watch?v=rKklj_FVYsI",
-      "thumbnail": "https://i.ytimg.com/vi/rKklj_FVYsI/mqdefault_live.jpg",
-      "published": "2026-09-23T12:56:12Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X SÃO JOSÉ I MASC (COPA SUL SUB-20 I 2026)",
+      "videoId": "MDCieNWFWa4",
+      "url": "https://www.youtube.com/watch?v=MDCieNWFWa4",
+      "thumbnail": "https://i.ytimg.com/vi/MDCieNWFWa4/mqdefault_live.jpg",
+      "published": "2026-09-23T15:24:21Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "CAMAROTE NEW BALANCE: GRÊMIO X PALMEIRAS",
       "videoId": "q1Dr-Ootgwk",
       "url": "https://www.youtube.com/watch?v=q1Dr-Ootgwk",
@@ -155,12 +163,12 @@
       "published": "2026-09-21T17:31:45Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X PALMEIRAS I BRASILEIRÃO 2026",
-      "videoId": "95h2fZINFTI",
-      "url": "https://www.youtube.com/watch?v=95h2fZINFTI",
-      "thumbnail": "https://i.ytimg.com/vi/95h2fZINFTI/mqdefault.jpg",
-      "published": "2026-09-20T17:37:21Z"
+      "channel": "GZH Digital",
+      "title": "O que faz um candidato a presidente virar assunto? | Palanque Digital",
+      "videoId": "aS23o80b-UI",
+      "url": "https://www.youtube.com/watch?v=aS23o80b-UI",
+      "thumbnail": "https://i.ytimg.com/vi/aS23o80b-UI/mqdefault.jpg",
+      "published": "2026-09-23T16:00:22Z"
     },
     {
       "channel": "GZH Digital",
@@ -168,15 +176,7 @@
       "videoId": "Ybmn8GBN3F0",
       "url": "https://www.youtube.com/watch?v=Ybmn8GBN3F0",
       "thumbnail": "https://i.ytimg.com/vi/Ybmn8GBN3F0/mqdefault_live.jpg",
-      "published": "2026-09-23T14:56:46Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Novo técnico do Inter, notícias, política, assuntos do momento e mais | Timeline | 23/09/2026",
-      "videoId": "VUBKdFqMR0c",
-      "url": "https://www.youtube.com/watch?v=VUBKdFqMR0c",
-      "thumbnail": "https://i.ytimg.com/vi/VUBKdFqMR0c/mqdefault.jpg",
-      "published": "2026-09-23T13:58:28Z"
+      "published": "2026-09-23T15:56:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "“BEIRA O ABSURDO” 🇮🇩🗣️",
+      "videoId": "EJuYLkZjlc4",
+      "url": "https://www.youtube.com/watch?v=EJuYLkZjlc4",
+      "thumbnail": "https://i.ytimg.com/vi/EJuYLkZjlc4/mqdefault.jpg",
+      "published": "2026-09-23T15:07:50Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "CELEIRO DE ASES SERÁ PRIORIDADE! | SABATINA DE JOSÉ AMARANTE - CANDIDATO À PRESIDÊNCIA DO INTER",
       "videoId": "xVWzceumAp8",
       "url": "https://www.youtube.com/watch?v=xVWzceumAp8",
@@ -219,28 +227,20 @@
       "published": "2026-09-23T13:13:31Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | INTER ANUNCIA EDUARDO BAPTISTA COMO NOVO TÉCNICO | 23/09/2026 | RÁDIO GRENAL",
-      "videoId": "wVzFiPsjxYw",
-      "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
-      "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault_live.jpg",
-      "published": "2026-09-23T11:02:00Z"
-    },
-    {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VAI FECHAR NOVO PATROCÍNIO MASTER? | COMO É BOM SER DO GRÊMIO #48",
-      "videoId": "muaSo4FucOY",
-      "url": "https://www.youtube.com/watch?v=muaSo4FucOY",
-      "thumbnail": "https://i.ytimg.com/vi/muaSo4FucOY/mqdefault.jpg",
-      "published": "2026-09-23T14:12:32Z"
+      "title": "RENATO RECEBE PEDIDO DOS JOGADORES DO GRÊMIO | REAPRESENTAÇÃO AMANHÃ  | IMORTAL FC",
+      "videoId": "mNhRfxYM8BA",
+      "url": "https://www.youtube.com/watch?v=mNhRfxYM8BA",
+      "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault_live.jpg",
+      "published": "2026-09-23T15:59:53Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #161 — O QUE RENATO FARÁ NO TIME DO GRÊMIO? | REAPRESENTAÇÃO AMANHÃ",
       "videoId": "PPWrcRatQUQ",
       "url": "https://www.youtube.com/watch?v=PPWrcRatQUQ",
-      "thumbnail": "https://i.ytimg.com/vi/PPWrcRatQUQ/mqdefault_live.jpg",
-      "published": "2026-09-23T14:06:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/PPWrcRatQUQ/mqdefault.jpg",
+      "published": "2026-09-23T15:04:39Z"
     }
   ]
 }
