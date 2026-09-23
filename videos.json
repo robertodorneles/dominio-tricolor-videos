@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-23T00:00:50.524125+00:00",
+  "updated_at": "2026-09-23T01:00:38.687134+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  EDUARDO BAPTISTA PRÓXIMO DO ANÚNCIO | UM ESTUDO SOBRE O NOVO TREINADOR",
+      "videoId": "DDCDq0jggj4",
+      "url": "https://www.youtube.com/watch?v=DDCDq0jggj4",
+      "thumbnail": "https://i.ytimg.com/vi/DDCDq0jggj4/mqdefault_live.jpg",
+      "published": "2026-09-23T00:15:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O NOVO PROTAGONISMO DE FELIPÃO | RENATO SEM VAIDADES EM 2026",
@@ -11,28 +19,20 @@
       "published": "2026-09-22T21:30:23Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 QUEREM ANUNCIAR NAS PRÓXIMAS HORAS | PERFIL MUDOU! | QUEREM UM EMERGENTE",
-      "videoId": "D5Sp64C60hM",
-      "url": "https://www.youtube.com/watch?v=D5Sp64C60hM",
-      "thumbnail": "https://i.ytimg.com/vi/D5Sp64C60hM/mqdefault.jpg",
-      "published": "2026-09-22T20:35:43Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "QUANTOS ESTRANGEIROS O GRÊMIO DEVE LIBERAR?🟣RESENHA FORA DA SALA NOITE🟣#028",
       "videoId": "ETBC2-u9Xo0",
       "url": "https://www.youtube.com/watch?v=ETBC2-u9Xo0",
-      "thumbnail": "https://i.ytimg.com/vi/ETBC2-u9Xo0/mqdefault_live.jpg",
-      "published": "2026-09-22T23:14:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/ETBC2-u9Xo0/mqdefault.jpg",
+      "published": "2026-09-23T00:44:51Z"
     },
     {
       "channel": "Bage TV",
-      "title": "A DUPLA GRE-NAL CONTRA O REBAIXAMENTO! #CORTESDORESENHA",
-      "videoId": "eg4_HyWI_TU",
-      "url": "https://www.youtube.com/watch?v=eg4_HyWI_TU",
-      "thumbnail": "https://i.ytimg.com/vi/eg4_HyWI_TU/mqdefault.jpg",
-      "published": "2026-09-22T22:22:17Z"
+      "title": "45 PONTOS: O QUE O GRÊMIO PRECISA FAZER?🔵 BOA NOITE GRÊMIO #028",
+      "videoId": "RbcuO2q6QIY",
+      "url": "https://www.youtube.com/watch?v=RbcuO2q6QIY",
+      "thumbnail": "https://i.ytimg.com/vi/RbcuO2q6QIY/mqdefault_live.jpg",
+      "published": "2026-09-23T00:35:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "Eduardo Baptista é o novo treinador do Inter! ⚠️",
+      "videoId": "zpw0wSnu6_8",
+      "url": "https://www.youtube.com/watch?v=zpw0wSnu6_8",
+      "thumbnail": "https://i.ytimg.com/vi/zpw0wSnu6_8/mqdefault.jpg",
+      "published": "2026-09-23T00:07:47Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "O NOVO TÉCNICO DO INTER: Os bastidores do acerto com Eduardo Baptista + despedida no CT",
       "videoId": "4_Wo2o7OX5U",
       "url": "https://www.youtube.com/watch?v=4_Wo2o7OX5U",
       "thumbnail": "https://i.ytimg.com/vi/4_Wo2o7OX5U/mqdefault.jpg",
       "published": "2026-09-22T23:52:27Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "E SE... O BALDASSO FOSSE O TÉCNICO DO INTER: Imagina a loucura que seria",
-      "videoId": "LTekuynSZFE",
-      "url": "https://www.youtube.com/watch?v=LTekuynSZFE",
-      "thumbnail": "https://i.ytimg.com/vi/LTekuynSZFE/mqdefault.jpg",
-      "published": "2026-09-22T16:15:16Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "FINALMENTE O PATROCÍNIO MASTER? | ELENCO DE FOLGA ATÉ QUINTA | NOITES DE GRÊMIO #150 - 22/09",
+      "videoId": "ftlsN1Agn2k",
+      "url": "https://www.youtube.com/watch?v=ftlsN1Agn2k",
+      "thumbnail": "https://i.ytimg.com/vi/ftlsN1Agn2k/mqdefault_live.jpg",
+      "published": "2026-09-23T00:00:46Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #161 — O QUE RENATO FARÁ NO TIME DO GRÊMIO? | REAPRESENTAÇÃO AMANHÃ",
       "videoId": "PPWrcRatQUQ",
       "url": "https://www.youtube.com/watch?v=PPWrcRatQUQ",
       "thumbnail": "https://i.ytimg.com/vi/PPWrcRatQUQ/mqdefault_live.jpg",
       "published": "2026-09-22T23:20:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #48",
-      "videoId": "muaSo4FucOY",
-      "url": "https://www.youtube.com/watch?v=muaSo4FucOY",
-      "thumbnail": "https://i.ytimg.com/vi/muaSo4FucOY/mqdefault_live.jpg",
-      "published": "2026-09-22T23:13:51Z"
     }
   ]
 }
