@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:00:46.390473+00:00",
+  "updated_at": "2026-09-23T18:01:00.192524+00:00",
   "total": 30,
   "videos": [
     {
@@ -71,8 +71,8 @@
       "title": "GRENAL SHOW - #19",
       "videoId": "wkJ2SAmMgdQ",
       "url": "https://www.youtube.com/watch?v=wkJ2SAmMgdQ",
-      "thumbnail": "https://i.ytimg.com/vi/wkJ2SAmMgdQ/mqdefault_live.jpg",
-      "published": "2026-09-23T16:00:56Z"
+      "thumbnail": "https://i.ytimg.com/vi/wkJ2SAmMgdQ/mqdefault.jpg",
+      "published": "2026-09-23T17:26:04Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "⚠️🚨FALTA DE TREINO E FORA DE FORMA? Legado de Luis Castro #gremio #futeb",
+      "videoId": "0UVcDZU09LA",
+      "url": "https://www.youtube.com/watch?v=0UVcDZU09LA",
+      "thumbnail": "https://i.ytimg.com/vi/0UVcDZU09LA/mqdefault.jpg",
+      "published": "2026-09-23T17:47:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "COMO É BOM SER GREMISTA! VAMOS JUNTOS SAIR DESSA! #gremio #futebol @bagetvoficial",
       "videoId": "ax3iRuioJLw",
       "url": "https://www.youtube.com/watch?v=ax3iRuioJLw",
       "thumbnail": "https://i.ytimg.com/vi/ax3iRuioJLw/mqdefault.jpg",
       "published": "2026-09-23T14:00:34Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "PATROCÍNIO MASTER: CIMED NO GRÊMIO? #futebol #gremio",
-      "videoId": "YovlXw1V9vw",
-      "url": "https://www.youtube.com/watch?v=YovlXw1V9vw",
-      "thumbnail": "https://i.ytimg.com/vi/YovlXw1V9vw/mqdefault.jpg",
-      "published": "2026-09-23T13:00:14Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X UNIÃO FORQUETENSE (CAMPEONATO GAÚCHO FEMININO I 2026)",
+      "videoId": "vkGfZ_BkBeg",
+      "url": "https://www.youtube.com/watch?v=vkGfZ_BkBeg",
+      "thumbnail": "https://i.ytimg.com/vi/vkGfZ_BkBeg/mqdefault_live.jpg",
+      "published": "2026-09-23T17:32:31Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X SÃO JOSÉ I MASC (COPA SUL SUB-20 I 2026)",
       "videoId": "MDCieNWFWa4",
       "url": "https://www.youtube.com/watch?v=MDCieNWFWa4",
@@ -155,28 +163,20 @@
       "published": "2026-09-23T15:24:21Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "CAMAROTE NEW BALANCE: GRÊMIO X PALMEIRAS",
-      "videoId": "q1Dr-Ootgwk",
-      "url": "https://www.youtube.com/watch?v=q1Dr-Ootgwk",
-      "thumbnail": "https://i.ytimg.com/vi/q1Dr-Ootgwk/mqdefault.jpg",
-      "published": "2026-09-21T17:31:45Z"
+      "channel": "GZH Digital",
+      "title": "Impactos do El Niño, falta de luz no RS, arborização da Capital e mais | Gaúcha+ | 23/09/2026",
+      "videoId": "ADruY05EIjs",
+      "url": "https://www.youtube.com/watch?v=ADruY05EIjs",
+      "thumbnail": "https://i.ytimg.com/vi/ADruY05EIjs/mqdefault_live.jpg",
+      "published": "2026-09-23T18:00:26Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições no RS, voto feminino e análise da disputa | Sala de Eleição | 23/09/2026",
-      "videoId": "Ybmn8GBN3F0",
-      "url": "https://www.youtube.com/watch?v=Ybmn8GBN3F0",
-      "thumbnail": "https://i.ytimg.com/vi/Ybmn8GBN3F0/mqdefault.jpg",
-      "published": "2026-09-23T16:01:09Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Qual foi a primeira capital da República Rio-Grandense? | Aconteceu no RS",
-      "videoId": "5lnpicJTvww",
-      "url": "https://www.youtube.com/watch?v=5lnpicJTvww",
-      "thumbnail": "https://i.ytimg.com/vi/5lnpicJTvww/mqdefault.jpg",
-      "published": "2026-09-23T16:00:35Z"
+      "title": "VOTO FEMININO: campanhas intensificam busca pelo apoio das mulheres | Sala de Eleição",
+      "videoId": "FPeAP3IJG8Y",
+      "url": "https://www.youtube.com/watch?v=FPeAP3IJG8Y",
+      "thumbnail": "https://i.ytimg.com/vi/FPeAP3IJG8Y/mqdefault.jpg",
+      "published": "2026-09-23T17:56:55Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "RENATO RECEBE PEDIDO DOS JOGADORES DO GRÊMIO | REAPRESENTAÇÃO AMANHÃ  | IMORTAL FC",
+      "title": "RENATO RECEBE PEDIDO DOS JOGADORES DO GRÊMIO | ATUALIZAÇÃO SOBRE PATROCÍNIOS | IMORTAL FC",
       "videoId": "mNhRfxYM8BA",
       "url": "https://www.youtube.com/watch?v=mNhRfxYM8BA",
       "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault_live.jpg",
