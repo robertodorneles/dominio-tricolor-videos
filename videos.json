@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-23T19:00:36.406605+00:00",
+  "updated_at": "2026-09-23T20:00:41.410612+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 QUEM BANCOU BAPTISTA? | BASTIDORES DA CONTRATAÇÃO | FALTA PREPARADOR",
+      "videoId": "ShqA9Nhbw3Q",
+      "url": "https://www.youtube.com/watch?v=ShqA9Nhbw3Q",
+      "thumbnail": "https://i.ytimg.com/vi/ShqA9Nhbw3Q/mqdefault.jpg",
+      "published": "2026-09-23T19:18:10Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 CHEGADA DE BAPTISTA É AGUARDADA | AINDA PODE MELAR? | POR QUE “DESMENTIU”?",
@@ -11,28 +19,20 @@
       "published": "2026-09-23T05:11:52Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: ACORDO MILIONÁRIO AVANÇA! NOVO MASTER E 4 RETORNOS PARA RENATO",
-      "videoId": "haSybHzhCqg",
-      "url": "https://www.youtube.com/watch?v=haSybHzhCqg",
-      "thumbnail": "https://i.ytimg.com/vi/haSybHzhCqg/mqdefault.jpg",
-      "published": "2026-09-23T05:00:07Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "RENATO IDENTIFICA JOGADORES ACIMA DO PESO 🔹 THE TARDE 🔹#226",
       "videoId": "OxtZyQYmQSE",
       "url": "https://www.youtube.com/watch?v=OxtZyQYmQSE",
       "thumbnail": "https://i.ytimg.com/vi/OxtZyQYmQSE/mqdefault_live.jpg",
-      "published": "2026-09-23T18:54:49Z"
+      "published": "2026-09-23T19:46:36Z"
     },
     {
       "channel": "Bage TV",
-      "title": "EDUARDO BAPTISTA NO INTER! GRÊMIO COM PROBLEMA DOS ESTRANGEIROS🔸RESENHA FORA DA SALA🔸#137",
-      "videoId": "So7IZ5_elX4",
-      "url": "https://www.youtube.com/watch?v=So7IZ5_elX4",
-      "thumbnail": "https://i.ytimg.com/vi/So7IZ5_elX4/mqdefault.jpg",
-      "published": "2026-09-23T18:14:30Z"
+      "title": "O Barcellos conseguiu unir o torcedor do Inter.",
+      "videoId": "98_8RHAVsAI",
+      "url": "https://www.youtube.com/watch?v=98_8RHAVsAI",
+      "thumbnail": "https://i.ytimg.com/vi/98_8RHAVsAI/mqdefault.jpg",
+      "published": "2026-09-23T19:05:10Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Os desafios do RS: clima, infraestrutura e agronegócio em debate | Conversas Cruzadas | 23/09/2026",
-      "videoId": "zfF0u79MApg",
-      "url": "https://www.youtube.com/watch?v=zfF0u79MApg",
-      "thumbnail": "https://i.ytimg.com/vi/zfF0u79MApg/mqdefault_live.jpg",
-      "published": "2026-09-23T18:54:21Z"
-    },
-    {
-      "channel": "GZH Digital",
       "title": "Impactos do El Niño, falta de luz no RS, arborização da Capital e mais | Gaúcha+ | 23/09/2026",
       "videoId": "ADruY05EIjs",
       "url": "https://www.youtube.com/watch?v=ADruY05EIjs",
       "thumbnail": "https://i.ytimg.com/vi/ADruY05EIjs/mqdefault_live.jpg",
-      "published": "2026-09-23T18:00:26Z"
+      "published": "2026-09-23T19:34:47Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "JUNDIAÍ: como pensar a cidade a partir das crianças? | Cidades Inteligentes #04",
+      "videoId": "Y3aymVKtNTc",
+      "url": "https://www.youtube.com/watch?v=Y3aymVKtNTc",
+      "thumbnail": "https://i.ytimg.com/vi/Y3aymVKtNTc/mqdefault.jpg",
+      "published": "2026-09-23T19:21:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "JOGADORES QUEREM MAIS TREINOS! | A AGENDA DO GRÊMIO NOS PRÓXIMOS DIAS | ESPLANADA",
       "videoId": "gotFGHVFTjA",
       "url": "https://www.youtube.com/watch?v=gotFGHVFTjA",
-      "thumbnail": "https://i.ytimg.com/vi/gotFGHVFTjA/mqdefault_live.jpg",
-      "published": "2026-09-23T18:30:59Z"
+      "thumbnail": "https://i.ytimg.com/vi/gotFGHVFTjA/mqdefault.jpg",
+      "published": "2026-09-23T19:37:37Z"
     },
     {
       "channel": "Radio Imortal",
