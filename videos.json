@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:00:39.099151+00:00",
+  "updated_at": "2026-09-23T13:00:41.334444+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO ENCAMINHADO COM MÁSTER E NAMING RIGHTS 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 23/09 - #640",
+      "videoId": "7YUzjcs7xmE",
+      "url": "https://www.youtube.com/watch?v=7YUzjcs7xmE",
+      "thumbnail": "https://i.ytimg.com/vi/7YUzjcs7xmE/mqdefault_live.jpg",
+      "published": "2026-09-23T12:00:11Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO FECHA COM PATROCINADOR MÁSTER? 🌅🔵 BOM DIA GRÊMIO #133",
       "videoId": "t-wEUYL0GaE",
       "url": "https://www.youtube.com/watch?v=t-wEUYL0GaE",
       "thumbnail": "https://i.ytimg.com/vi/t-wEUYL0GaE/mqdefault.jpg",
       "published": "2026-09-23T11:58:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "45 PONTOS: O QUE O GRÊMIO PRECISA FAZER?🔵 BOA NOITE GRÊMIO #028",
-      "videoId": "RbcuO2q6QIY",
-      "url": "https://www.youtube.com/watch?v=RbcuO2q6QIY",
-      "thumbnail": "https://i.ytimg.com/vi/RbcuO2q6QIY/mqdefault.jpg",
-      "published": "2026-09-23T02:10:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "As novas regras e a necessidade do Grêmio mudar suas estruturas",
+      "videoId": "4GosQYEVLXw",
+      "url": "https://www.youtube.com/watch?v=4GosQYEVLXw",
+      "thumbnail": "https://i.ytimg.com/vi/4GosQYEVLXw/mqdefault.jpg",
+      "published": "2026-09-23T12:11:06Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #683: Naming Rights e Master | Retornos ao time | Dívidas | Sub-17 e mais",
       "videoId": "N0LcmuU6wRc",
       "url": "https://www.youtube.com/watch?v=N0LcmuU6wRc",
@@ -59,28 +67,20 @@
       "published": "2026-09-22T23:17:32Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Patrocínio master encaminhado | Investimentos na base que revelam o olhar do Grêmio",
-      "videoId": "TNwVRzich3Q",
-      "url": "https://www.youtube.com/watch?v=TNwVRzich3Q",
-      "thumbnail": "https://i.ytimg.com/vi/TNwVRzich3Q/mqdefault.jpg",
-      "published": "2026-09-22T12:11:04Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #024",
+      "videoId": "rKklj_FVYsI",
+      "url": "https://www.youtube.com/watch?v=rKklj_FVYsI",
+      "thumbnail": "https://i.ytimg.com/vi/rKklj_FVYsI/mqdefault_live.jpg",
+      "published": "2026-09-23T12:56:12Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #023",
+      "title": "ACORDA, GRÊMIO! #023 - PATROCÍNIO MASTER CHEGANDO",
       "videoId": "oslRM9MMbOY",
       "url": "https://www.youtube.com/watch?v=oslRM9MMbOY",
-      "thumbnail": "https://i.ytimg.com/vi/oslRM9MMbOY/mqdefault_live.jpg",
-      "published": "2026-09-23T11:32:44Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #022",
-      "videoId": "lAYkr03gwgQ",
-      "url": "https://www.youtube.com/watch?v=lAYkr03gwgQ",
-      "thumbnail": "https://i.ytimg.com/vi/lAYkr03gwgQ/mqdefault.jpg",
-      "published": "2026-09-23T01:20:54Z"
+      "thumbnail": "https://i.ytimg.com/vi/oslRM9MMbOY/mqdefault.jpg",
+      "published": "2026-09-23T12:47:30Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "PATROCÍNIO MASTER: CIMED NO GRÊMIO? #futebol #gremio",
+      "videoId": "YovlXw1V9vw",
+      "url": "https://www.youtube.com/watch?v=YovlXw1V9vw",
+      "thumbnail": "https://i.ytimg.com/vi/YovlXw1V9vw/mqdefault.jpg",
+      "published": "2026-09-23T13:00:14Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PATROCÍNIO DA CIMED? VALORES | GRÊMIO TEM 14 ESTRANGEIROS: SITUAÇÃO E CORTE.",
       "videoId": "9s9hH-_d9pM",
       "url": "https://www.youtube.com/watch?v=9s9hH-_d9pM",
       "thumbnail": "https://i.ytimg.com/vi/9s9hH-_d9pM/mqdefault.jpg",
       "published": "2026-09-22T21:07:06Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "MULTA LUIS CASTRO | 😱CHANCE DE FICAR NA SÉRIE A CAIU! | ENTENDA JOGOS DO GRÊMIO.",
-      "videoId": "0Q2s22o4lIE",
-      "url": "https://www.youtube.com/watch?v=0Q2s22o4lIE",
-      "thumbnail": "https://i.ytimg.com/vi/0Q2s22o4lIE/mqdefault.jpg",
-      "published": "2026-09-21T20:27:42Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "Hospicio - 23/09",
+      "title": "HOSPÍCIO | 23.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "ouaIeHrY1DA",
       "url": "https://www.youtube.com/watch?v=ouaIeHrY1DA",
       "thumbnail": "https://i.ytimg.com/vi/ouaIeHrY1DA/mqdefault_live.jpg",
-      "published": "2026-09-23T11:11:07Z"
+      "published": "2026-09-23T12:01:56Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Pesquisas eleitorais podem errar? Entenda como elas funcionam",
-      "videoId": "Q45WVPJJtOk",
-      "url": "https://www.youtube.com/watch?v=Q45WVPJJtOk",
-      "thumbnail": "https://i.ytimg.com/vi/Q45WVPJJtOk/mqdefault.jpg",
-      "published": "2026-09-23T12:00:23Z"
+      "title": "Sala de Eleição | 23/09/2026",
+      "videoId": "Ybmn8GBN3F0",
+      "url": "https://www.youtube.com/watch?v=Ybmn8GBN3F0",
+      "thumbnail": "https://i.ytimg.com/vi/Ybmn8GBN3F0/mqdefault_live.jpg",
+      "published": "2026-09-23T12:14:11Z"
     },
     {
       "channel": "GZH Digital",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: A TRETA ENTRE INTER E EDUARDO BAPTISTA E RENATO QUER RECUPERAR JOGADOR DO GRÊMIO",
       "videoId": "WftpNO3J84g",
       "url": "https://www.youtube.com/watch?v=WftpNO3J84g",
-      "thumbnail": "https://i.ytimg.com/vi/WftpNO3J84g/mqdefault_live.jpg",
-      "published": "2026-09-23T11:07:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/WftpNO3J84g/mqdefault.jpg",
+      "published": "2026-09-23T12:28:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO: SABATINA COM JOSÉ AMARANTE, PRÉ-CANDIDATO À PRESIDÊNCIA DO INTER | 23/09/2026 |RÁDIO GRENAL",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 23/09/2026 | RÁDIO GRENAL",
       "videoId": "wVzFiPsjxYw",
       "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
       "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #28 — NOVIDADE IMPORTANTE NO GRÊMIO EM MEIO À DATA FIFA",
-      "videoId": "pt5Z4RSGXdw",
-      "url": "https://www.youtube.com/watch?v=pt5Z4RSGXdw",
-      "thumbnail": "https://i.ytimg.com/vi/pt5Z4RSGXdw/mqdefault_live.jpg",
-      "published": "2026-09-23T10:02:07Z"
+      "title": "ESPLANADA — 23/09",
+      "videoId": "gotFGHVFTjA",
+      "url": "https://www.youtube.com/watch?v=gotFGHVFTjA",
+      "thumbnail": "https://i.ytimg.com/vi/gotFGHVFTjA/mqdefault_live.jpg",
+      "published": "2026-09-23T12:56:00Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "FINALMENTE O PATROCÍNIO MASTER? | ELENCO DE FOLGA ATÉ QUINTA | NOITES DE GRÊMIO #150 - 22/09",
-      "videoId": "ftlsN1Agn2k",
-      "url": "https://www.youtube.com/watch?v=ftlsN1Agn2k",
-      "thumbnail": "https://i.ytimg.com/vi/ftlsN1Agn2k/mqdefault.jpg",
-      "published": "2026-09-23T01:38:03Z"
+      "title": "GRÊMIO VAI FECHAR NOVO PATROCÍNIO MASTER? | COMO É BOM SER DO GRÊMIO #48",
+      "videoId": "muaSo4FucOY",
+      "url": "https://www.youtube.com/watch?v=muaSo4FucOY",
+      "thumbnail": "https://i.ytimg.com/vi/muaSo4FucOY/mqdefault_live.jpg",
+      "published": "2026-09-23T12:32:04Z"
     }
   ]
 }
