@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T01:01:05.221762+00:00",
+  "updated_at": "2026-09-24T02:00:38.871521+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "8TOwK5sQDz4",
       "url": "https://www.youtube.com/watch?v=8TOwK5sQDz4",
       "thumbnail": "https://i.ytimg.com/vi/8TOwK5sQDz4/mqdefault_live.jpg",
-      "published": "2026-09-24T00:47:30Z"
+      "published": "2026-09-24T01:36:51Z"
     },
     {
       "channel": "A Dupla",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Abel quebra o silêncio + patrocínio do Grêmio. Vai dar ruim?",
+      "videoId": "8Ya9tAZdZLE",
+      "url": "https://www.youtube.com/watch?v=8Ya9tAZdZLE",
+      "thumbnail": "https://i.ytimg.com/vi/8Ya9tAZdZLE/mqdefault_live.jpg",
+      "published": "2026-09-24T01:55:35Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "O novo patrocínio master do Grêmio",
       "videoId": "Q3dfSLVEID0",
       "url": "https://www.youtube.com/watch?v=Q3dfSLVEID0",
       "thumbnail": "https://i.ytimg.com/vi/Q3dfSLVEID0/mqdefault.jpg",
       "published": "2026-09-23T23:34:18Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "NOVO PATROCÍNIO DO GRÊMIO: Valor pago + forte declaração + riscos + outra marca vem aí",
-      "videoId": "CMXx5PwdwOg",
-      "url": "https://www.youtube.com/watch?v=CMXx5PwdwOg",
-      "thumbnail": "https://i.ytimg.com/vi/CMXx5PwdwOg/mqdefault.jpg",
-      "published": "2026-09-23T22:02:59Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA PATROCÍNIO MASTER | RENATO FAZ EXIGÊNCIAS AO GRUPO | NOITES DE GRÊMIO #151 - 23/09",
-      "videoId": "GAaqXGs5lvY",
-      "url": "https://www.youtube.com/watch?v=GAaqXGs5lvY",
-      "thumbnail": "https://i.ytimg.com/vi/GAaqXGs5lvY/mqdefault_live.jpg",
-      "published": "2026-09-24T00:00:31Z"
+      "title": "TIMELINE IMORTAL #162 — DETALHES DO CONTRATO COM A PITACO | GRÊMIO VOLTA AOS TREINOS HOJE",
+      "videoId": "nwxtpZHOVeA",
+      "url": "https://www.youtube.com/watch?v=nwxtpZHOVeA",
+      "thumbnail": "https://i.ytimg.com/vi/nwxtpZHOVeA/mqdefault_live.jpg",
+      "published": "2026-09-24T01:47:47Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "URGENTE: GRÊMIO ANUNCIA PATROCINADOR MÁSTER!! | RENATO RECEBE PEDIDO DOS JOGADORES | IMORTAL FC",
-      "videoId": "mNhRfxYM8BA",
-      "url": "https://www.youtube.com/watch?v=mNhRfxYM8BA",
-      "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault.jpg",
-      "published": "2026-09-23T22:07:00Z"
+      "title": "GRÊMIO SURPREENDE COM NOVO PATROCINADOR MÁSTER | COMO É BOM SER DO GRÊMIO #49",
+      "videoId": "jlw7kWWTrvs",
+      "url": "https://www.youtube.com/watch?v=jlw7kWWTrvs",
+      "thumbnail": "https://i.ytimg.com/vi/jlw7kWWTrvs/mqdefault_live.jpg",
+      "published": "2026-09-24T01:44:44Z"
     }
   ]
 }
