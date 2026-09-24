@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:00:42.572529+00:00",
+  "updated_at": "2026-09-24T12:00:38.744642+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO TEM PATROCINADOR MÁSTER🌅🔵 BOM DIA GRÊMIO #134",
       "videoId": "qKDVmV8CSyE",
       "url": "https://www.youtube.com/watch?v=qKDVmV8CSyE",
-      "thumbnail": "https://i.ytimg.com/vi/qKDVmV8CSyE/mqdefault_live.jpg",
-      "published": "2026-09-24T09:29:39Z"
+      "thumbnail": "https://i.ytimg.com/vi/qKDVmV8CSyE/mqdefault.jpg",
+      "published": "2026-09-24T11:58:44Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #024",
+      "videoId": "rKklj_FVYsI",
+      "url": "https://www.youtube.com/watch?v=rKklj_FVYsI",
+      "thumbnail": "https://i.ytimg.com/vi/rKklj_FVYsI/mqdefault_live.jpg",
+      "published": "2026-09-24T11:30:44Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 23/09/2026",
       "videoId": "QUe37Sny3gU",
       "url": "https://www.youtube.com/watch?v=QUe37Sny3gU",
       "thumbnail": "https://i.ytimg.com/vi/QUe37Sny3gU/mqdefault.jpg",
       "published": "2026-09-23T23:20:29Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #19",
-      "videoId": "wkJ2SAmMgdQ",
-      "url": "https://www.youtube.com/watch?v=wkJ2SAmMgdQ",
-      "thumbnail": "https://i.ytimg.com/vi/wkJ2SAmMgdQ/mqdefault.jpg",
-      "published": "2026-09-23T17:26:04Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 23/09",
+      "videoId": "8wZry2kSI9M",
+      "url": "https://www.youtube.com/watch?v=8wZry2kSI9M",
+      "thumbnail": "https://i.ytimg.com/vi/8wZry2kSI9M/mqdefault_live.jpg",
+      "published": "2026-09-24T11:04:20Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O CAUSO DO PANDA M4CONHEIRO #dudagarbi #umassadopara",
       "videoId": "ggWOlUWh3O4",
       "url": "https://www.youtube.com/watch?v=ggWOlUWh3O4",
       "thumbnail": "https://i.ytimg.com/vi/ggWOlUWh3O4/mqdefault.jpg",
       "published": "2026-09-23T21:00:32Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 23.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "ouaIeHrY1DA",
-      "url": "https://www.youtube.com/watch?v=ouaIeHrY1DA",
-      "thumbnail": "https://i.ytimg.com/vi/ouaIeHrY1DA/mqdefault.jpg",
-      "published": "2026-09-23T13:04:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -184,7 +184,7 @@
       "videoId": "8Ya9tAZdZLE",
       "url": "https://www.youtube.com/watch?v=8Ya9tAZdZLE",
       "thumbnail": "https://i.ytimg.com/vi/8Ya9tAZdZLE/mqdefault_live.jpg",
-      "published": "2026-09-24T01:55:35Z"
+      "published": "2026-09-24T11:05:25Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 24/09/2026",
+      "videoId": "YTkWCUVjEYo",
+      "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
+      "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault_live.jpg",
+      "published": "2026-09-24T11:01:01Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 23/09/2026",
       "videoId": "wVzFiPsjxYw",
       "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
       "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault.jpg",
       "published": "2026-09-23T23:43:40Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 24/09/2026",
-      "videoId": "YTkWCUVjEYo",
-      "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
-      "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault_live.jpg",
-      "published": "2026-09-23T23:02:48Z"
     },
     {
       "channel": "Radio Imortal",
