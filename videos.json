@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-24T20:00:57.037135+00:00",
+  "updated_at": "2026-09-24T21:00:39.762218+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: Renato muda hierarquia e jogadores PERDEM ESPAÇO",
+      "videoId": "8FKDdAk0d8E",
+      "url": "https://www.youtube.com/watch?v=8FKDdAk0d8E",
+      "thumbnail": "https://i.ytimg.com/vi/8FKDdAk0d8E/mqdefault.jpg",
+      "published": "2026-09-24T20:00:28Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 CHEGOU MEXENDO NO TIME! | O CARA QUE VAI GANHAR ESPAÇO | ONDE VAI ALAMPA?",
@@ -11,12 +19,12 @@
       "published": "2026-09-24T19:59:33Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO DÁ ULTIMATO A JOGADORES | GRUPO FAZ PEDIDO | NOVO MASTER",
-      "videoId": "mCVMoZfVAms",
-      "url": "https://www.youtube.com/watch?v=mCVMoZfVAms",
-      "thumbnail": "https://i.ytimg.com/vi/mCVMoZfVAms/mqdefault.jpg",
-      "published": "2026-09-24T06:00:23Z"
+      "channel": "Bage TV",
+      "title": "PROIBIÇÃO DAS BETS NO BRASIL, ALERRANDRO TITULAR NO INTER E BRASIL EM CAMPO 📰BAGÉTV NEWS #042",
+      "videoId": "XimymTxUSjQ",
+      "url": "https://www.youtube.com/watch?v=XimymTxUSjQ",
+      "thumbnail": "https://i.ytimg.com/vi/XimymTxUSjQ/mqdefault_live.jpg",
+      "published": "2026-09-24T20:30:53Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=hpuPs7xle3A",
       "thumbnail": "https://i.ytimg.com/vi/hpuPs7xle3A/mqdefault.jpg",
       "published": "2026-09-24T19:54:22Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ENTRAMOS NO TOP 10! BAGÉ TV ENTRE OS MAIS VISTOS DA AMÉRICA LATINA! #CORTESDORESENHA",
-      "videoId": "3GZXKAFVt5M",
-      "url": "https://www.youtube.com/watch?v=3GZXKAFVt5M",
-      "thumbnail": "https://i.ytimg.com/vi/3GZXKAFVt5M/mqdefault.jpg",
-      "published": "2026-09-24T19:49:54Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Risco de rompimento de barragem, Semana Caldeira, informações do trânsito e mais | Gaúcha+ | 24/9/26",
-      "videoId": "eb9kRQgt6WQ",
-      "url": "https://www.youtube.com/watch?v=eb9kRQgt6WQ",
-      "thumbnail": "https://i.ytimg.com/vi/eb9kRQgt6WQ/mqdefault_live.jpg",
-      "published": "2026-09-24T19:33:48Z"
+      "title": "As suspeitas sobre NUNES MARQUES | Chamada Eleitoral",
+      "videoId": "RgNyRLeD0qI",
+      "url": "https://www.youtube.com/watch?v=RgNyRLeD0qI",
+      "thumbnail": "https://i.ytimg.com/vi/RgNyRLeD0qI/mqdefault.jpg",
+      "published": "2026-09-24T21:00:30Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "EL NIÑO pode causar 451 mil mortes por calor",
-      "videoId": "2rOmDs6hdmI",
-      "url": "https://www.youtube.com/watch?v=2rOmDs6hdmI",
-      "thumbnail": "https://i.ytimg.com/vi/2rOmDs6hdmI/mqdefault.jpg",
-      "published": "2026-09-24T18:25:59Z"
+      "title": "Eleição presidencial pode terminar no 1º turno? | Chamada Eleitoral 24/09/2026",
+      "videoId": "AUIIjVqik6I",
+      "url": "https://www.youtube.com/watch?v=AUIIjVqik6I",
+      "thumbnail": "https://i.ytimg.com/vi/AUIIjVqik6I/mqdefault.jpg",
+      "published": "2026-09-24T20:25:08Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "PRIMEIRAS INFOS DELE: Alerrandro, rejeição, fuga do Z4 + polêmica de agora e 96",
+      "videoId": "635-KeNsPRQ",
+      "url": "https://www.youtube.com/watch?v=635-KeNsPRQ",
+      "thumbnail": "https://i.ytimg.com/vi/635-KeNsPRQ/mqdefault.jpg",
+      "published": "2026-09-24T20:37:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=8Ya9tAZdZLE",
       "thumbnail": "https://i.ytimg.com/vi/8Ya9tAZdZLE/mqdefault.jpg",
       "published": "2026-09-24T12:28:03Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O novo patrocínio master do Grêmio",
-      "videoId": "Q3dfSLVEID0",
-      "url": "https://www.youtube.com/watch?v=Q3dfSLVEID0",
-      "thumbnail": "https://i.ytimg.com/vi/Q3dfSLVEID0/mqdefault.jpg",
-      "published": "2026-09-23T23:34:18Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "“NINGUÉM DESAPRENDE A FAZER GOL” ⚽️",
+      "videoId": "dKBEku5A97w",
+      "url": "https://www.youtube.com/watch?v=dKBEku5A97w",
+      "thumbnail": "https://i.ytimg.com/vi/dKBEku5A97w/mqdefault.jpg",
+      "published": "2026-09-24T20:08:29Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 24/09/2026",
       "videoId": "YTkWCUVjEYo",
       "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
       "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault_live.jpg",
       "published": "2026-09-24T11:01:01Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 23/09/2026",
-      "videoId": "wVzFiPsjxYw",
-      "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
-      "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault.jpg",
-      "published": "2026-09-23T23:43:40Z"
     },
     {
       "channel": "Radio Imortal",
