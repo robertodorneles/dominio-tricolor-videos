@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:00:39.183527+00:00",
+  "updated_at": "2026-09-24T11:00:42.572529+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Semana da Primavera da CEASA, atenção às chuvas e mais | Gaúcha Atualidade | 24/09/2026",
+      "videoId": "iRrqEBruhP8",
+      "url": "https://www.youtube.com/watch?v=iRrqEBruhP8",
+      "thumbnail": "https://i.ytimg.com/vi/iRrqEBruhP8/mqdefault_live.jpg",
+      "published": "2026-09-24T10:55:02Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Os desafios do RS: clima, infraestrutura e agronegócio em debate | Conversas Cruzadas | 23/09/2026",
       "videoId": "zfF0u79MApg",
       "url": "https://www.youtube.com/watch?v=zfF0u79MApg",
       "thumbnail": "https://i.ytimg.com/vi/zfF0u79MApg/mqdefault.jpg",
       "published": "2026-09-24T09:32:53Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Impactos do El Niño, falta de luz no RS, arborização da Capital e mais | Gaúcha+ | 23/09/2026",
-      "videoId": "ADruY05EIjs",
-      "url": "https://www.youtube.com/watch?v=ADruY05EIjs",
-      "thumbnail": "https://i.ytimg.com/vi/ADruY05EIjs/mqdefault.jpg",
-      "published": "2026-09-24T07:37:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 23/09/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 24/09/2026",
       "videoId": "YTkWCUVjEYo",
       "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
       "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault_live.jpg",
       "published": "2026-09-23T23:02:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #29 — GRÊMIO ANUNCIA PATROCÍNIO MASTER",
+      "videoId": "WDX2x-2deOY",
+      "url": "https://www.youtube.com/watch?v=WDX2x-2deOY",
+      "thumbnail": "https://i.ytimg.com/vi/WDX2x-2deOY/mqdefault_live.jpg",
+      "published": "2026-09-24T10:04:28Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=nwxtpZHOVeA",
       "thumbnail": "https://i.ytimg.com/vi/nwxtpZHOVeA/mqdefault_live.jpg",
       "published": "2026-09-24T01:47:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO SURPREENDE COM NOVO PATROCINADOR MÁSTER | COMO É BOM SER DO GRÊMIO #49",
-      "videoId": "jlw7kWWTrvs",
-      "url": "https://www.youtube.com/watch?v=jlw7kWWTrvs",
-      "thumbnail": "https://i.ytimg.com/vi/jlw7kWWTrvs/mqdefault_live.jpg",
-      "published": "2026-09-24T01:44:44Z"
     }
   ]
 }
