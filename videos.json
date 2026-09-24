@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-24T19:00:45.828559+00:00",
+  "updated_at": "2026-09-24T20:00:57.037135+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 CHEGOU MEXENDO NO TIME! | O CARA QUE VAI GANHAR ESPAÇO | ONDE VAI ALAMPA?",
+      "videoId": "3xIV_f4RdX8",
+      "url": "https://www.youtube.com/watch?v=3xIV_f4RdX8",
+      "thumbnail": "https://i.ytimg.com/vi/3xIV_f4RdX8/mqdefault.jpg",
+      "published": "2026-09-24T19:59:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: RENATO DÁ ULTIMATO A JOGADORES | GRUPO FAZ PEDIDO | NOVO MASTER",
@@ -11,28 +19,20 @@
       "published": "2026-09-24T06:00:23Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 ABELÃO FALOU TUDO | BAPTISTA VIROU PARCEIRO | 40 MIL NO BEIRA-RIO?",
-      "videoId": "2IwyW86zyA0",
-      "url": "https://www.youtube.com/watch?v=2IwyW86zyA0",
-      "thumbnail": "https://i.ytimg.com/vi/2IwyW86zyA0/mqdefault.jpg",
-      "published": "2026-09-24T05:14:15Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Ele foi o único que topou.",
-      "videoId": "NCzFh_cm7nw",
-      "url": "https://www.youtube.com/watch?v=NCzFh_cm7nw",
-      "thumbnail": "https://i.ytimg.com/vi/NCzFh_cm7nw/mqdefault.jpg",
-      "published": "2026-09-24T18:33:24Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO RECONTRATA AUXILIAR DE RENATO🔹 THE TARDE 🔹#227",
       "videoId": "hpuPs7xle3A",
       "url": "https://www.youtube.com/watch?v=hpuPs7xle3A",
-      "thumbnail": "https://i.ytimg.com/vi/hpuPs7xle3A/mqdefault_live.jpg",
-      "published": "2026-09-24T18:27:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/hpuPs7xle3A/mqdefault.jpg",
+      "published": "2026-09-24T19:54:22Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "ENTRAMOS NO TOP 10! BAGÉ TV ENTRE OS MAIS VISTOS DA AMÉRICA LATINA! #CORTESDORESENHA",
+      "videoId": "3GZXKAFVt5M",
+      "url": "https://www.youtube.com/watch?v=3GZXKAFVt5M",
+      "thumbnail": "https://i.ytimg.com/vi/3GZXKAFVt5M/mqdefault.jpg",
+      "published": "2026-09-24T19:49:54Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Risco de rompimento de barragem, Semana Caldeira, informações do trânsito e mais | Gaúcha+ | 24/9/26",
+      "videoId": "eb9kRQgt6WQ",
+      "url": "https://www.youtube.com/watch?v=eb9kRQgt6WQ",
+      "thumbnail": "https://i.ytimg.com/vi/eb9kRQgt6WQ/mqdefault_live.jpg",
+      "published": "2026-09-24T19:33:48Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "EL NIÑO pode causar 451 mil mortes por calor",
       "videoId": "2rOmDs6hdmI",
       "url": "https://www.youtube.com/watch?v=2rOmDs6hdmI",
       "thumbnail": "https://i.ytimg.com/vi/2rOmDs6hdmI/mqdefault.jpg",
       "published": "2026-09-24T18:25:59Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Risco de rompimento de barragem, Semana Caldeira, informações do trânsito e mais | Gaúcha+ | 24/9/26",
-      "videoId": "eb9kRQgt6WQ",
-      "url": "https://www.youtube.com/watch?v=eb9kRQgt6WQ",
-      "thumbnail": "https://i.ytimg.com/vi/eb9kRQgt6WQ/mqdefault_live.jpg",
-      "published": "2026-09-24T17:55:41Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,14 +212,6 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DEBATE QUASE FOI PARA O TRIBUNAL! | CORTES RÁDIO GRENAL | 24/09/2026",
-      "videoId": "0qAEBQ_qxdk",
-      "url": "https://www.youtube.com/watch?v=0qAEBQ_qxdk",
-      "thumbnail": "https://i.ytimg.com/vi/0qAEBQ_qxdk/mqdefault.jpg",
-      "published": "2026-09-24T18:52:15Z"
-    },
-    {
-      "channel": "Radio Grenal",
       "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 24/09/2026",
       "videoId": "YTkWCUVjEYo",
       "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
@@ -227,12 +219,20 @@
       "published": "2026-09-24T11:01:01Z"
     },
     {
+      "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 23/09/2026",
+      "videoId": "wVzFiPsjxYw",
+      "url": "https://www.youtube.com/watch?v=wVzFiPsjxYw",
+      "thumbnail": "https://i.ytimg.com/vi/wVzFiPsjxYw/mqdefault.jpg",
+      "published": "2026-09-23T23:43:40Z"
+    },
+    {
       "channel": "Radio Imortal",
       "title": "GRÊMIO DE VOLTA AOS TREINOS AGORA! | JAMES FREITAS RETORNA AO CLUBE | ESPLANADA",
       "videoId": "b7jvuQnpJAc",
       "url": "https://www.youtube.com/watch?v=b7jvuQnpJAc",
-      "thumbnail": "https://i.ytimg.com/vi/b7jvuQnpJAc/mqdefault_live.jpg",
-      "published": "2026-09-24T18:31:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/b7jvuQnpJAc/mqdefault.jpg",
+      "published": "2026-09-24T19:40:37Z"
     },
     {
       "channel": "Radio Imortal",
