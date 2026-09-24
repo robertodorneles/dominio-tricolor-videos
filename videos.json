@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:00:42.433562+00:00",
+  "updated_at": "2026-09-24T16:00:44.870649+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨RENATO PEDE E GRÊMIO FECHA CONTRATAÇÃO | FELIPAO PERTO DO FUTEBOL | NOVA PEÇA PRO MEIO",
+      "videoId": "ez0qHGxR-gM",
+      "url": "https://www.youtube.com/watch?v=ez0qHGxR-gM",
+      "thumbnail": "https://i.ytimg.com/vi/ez0qHGxR-gM/mqdefault.jpg",
+      "published": "2026-09-24T15:02:16Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRÊMIO FECHA CONTRATAÇÃO SURPRESA | POLÊMICA COM PATROCÍNIO MASTER | LATERAL DE VOLTA NO GRE-NAL!",
       "videoId": "0f4qcu0WCaE",
       "url": "https://www.youtube.com/watch?v=0f4qcu0WCaE",
       "thumbnail": "https://i.ytimg.com/vi/0f4qcu0WCaE/mqdefault.jpg",
       "published": "2026-09-23T23:00:54Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨RENATO SE IRRITA COM JOGADOR E ELE TÁ FORA DOS PRÓXIMOS TREINOS | ELENCO DO GRÊMIO FAZ PEDIDO",
-      "videoId": "48AJ2TiaNow",
-      "url": "https://www.youtube.com/watch?v=48AJ2TiaNow",
-      "thumbnail": "https://i.ytimg.com/vi/48AJ2TiaNow/mqdefault.jpg",
-      "published": "2026-09-23T16:28:19Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #20",
+      "videoId": "4zM_IW6ifRc",
+      "url": "https://www.youtube.com/watch?v=4zM_IW6ifRc",
+      "thumbnail": "https://i.ytimg.com/vi/4zM_IW6ifRc/mqdefault_live.jpg",
+      "published": "2026-09-24T15:40:08Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 24/09/2026",
       "videoId": "hsUwm7jE7XU",
       "url": "https://www.youtube.com/watch?v=hsUwm7jE7XU",
       "thumbnail": "https://i.ytimg.com/vi/hsUwm7jE7XU/mqdefault_live.jpg",
       "published": "2026-09-24T13:02:22Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #025",
-      "videoId": "OtyVZod5wZA",
-      "url": "https://www.youtube.com/watch?v=OtyVZod5wZA",
-      "thumbnail": "https://i.ytimg.com/vi/OtyVZod5wZA/mqdefault_live.jpg",
-      "published": "2026-09-24T13:00:16Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -167,8 +167,8 @@
       "title": "Flávio Bolsonaro em jato ligado a Vorcaro, Banco Master e mais | Sala de Eleição | 24/09/2026",
       "videoId": "Iov2hTASVbA",
       "url": "https://www.youtube.com/watch?v=Iov2hTASVbA",
-      "thumbnail": "https://i.ytimg.com/vi/Iov2hTASVbA/mqdefault_live.jpg",
-      "published": "2026-09-24T15:00:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/Iov2hTASVbA/mqdefault.jpg",
+      "published": "2026-09-24T15:57:58Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "CjNzVOc-UrE",
       "url": "https://www.youtube.com/watch?v=CjNzVOc-UrE",
       "thumbnail": "https://i.ytimg.com/vi/CjNzVOc-UrE/mqdefault.jpg",
-      "published": "2026-09-24T13:59:04Z"
+      "published": "2026-09-24T15:54:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #162 — DETALHES DO CONTRATO COM A PITACO | GRÊMIO VOLTA AOS TREINOS HOJE",
+      "videoId": "nwxtpZHOVeA",
+      "url": "https://www.youtube.com/watch?v=nwxtpZHOVeA",
+      "thumbnail": "https://i.ytimg.com/vi/nwxtpZHOVeA/mqdefault.jpg",
+      "published": "2026-09-24T15:04:55Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CRISTIANO OLIVEIRA FALA SOBRE O NOVO PATROCÍNIO MASTER DO GRÊMIO",
       "videoId": "Xe5G7itzKdc",
       "url": "https://www.youtube.com/watch?v=Xe5G7itzKdc",
       "thumbnail": "https://i.ytimg.com/vi/Xe5G7itzKdc/mqdefault.jpg",
       "published": "2026-09-24T14:31:09Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #162 — DETALHES DO CONTRATO COM A PITACO | GRÊMIO VOLTA AOS TREINOS HOJE",
-      "videoId": "nwxtpZHOVeA",
-      "url": "https://www.youtube.com/watch?v=nwxtpZHOVeA",
-      "thumbnail": "https://i.ytimg.com/vi/nwxtpZHOVeA/mqdefault_live.jpg",
-      "published": "2026-09-24T14:09:31Z"
     }
   ]
 }
