@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-24T00:00:38.106384+00:00",
+  "updated_at": "2026-09-24T01:00:37.276738+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: Eduardo Baptista anunciado e agora? | Grêmio tem novo Master",
+      "videoId": "8TOwK5sQDz4",
+      "url": "https://www.youtube.com/watch?v=8TOwK5sQDz4",
+      "thumbnail": "https://i.ytimg.com/vi/8TOwK5sQDz4/mqdefault_live.jpg",
+      "published": "2026-09-24T00:47:30Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: RENATO REATIVA MÉTODO QUE REVELOU CRAQUES E RENDEU MILHÕES AO CLUBE",
@@ -11,28 +19,20 @@
       "published": "2026-09-23T20:00:07Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 QUEM BANCOU BAPTISTA? | BASTIDORES DA CONTRATAÇÃO | FALTA PREPARADOR",
-      "videoId": "ShqA9Nhbw3Q",
-      "url": "https://www.youtube.com/watch?v=ShqA9Nhbw3Q",
-      "thumbnail": "https://i.ytimg.com/vi/ShqA9Nhbw3Q/mqdefault.jpg",
-      "published": "2026-09-23T19:18:10Z"
+      "channel": "Bage TV",
+      "title": "RENATO DECLARA GUERRA À BALANÇA NO GRÊMIO 🔵 BOA NOITE GRÊMIO #029",
+      "videoId": "PQUA7SiEWwY",
+      "url": "https://www.youtube.com/watch?v=PQUA7SiEWwY",
+      "thumbnail": "https://i.ytimg.com/vi/PQUA7SiEWwY/mqdefault_live.jpg",
+      "published": "2026-09-24T00:41:37Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO TEM NOVO PATROCINADOR MASTER 🟣RESENHA FORA DA SALA NOITE🟣#029",
       "videoId": "n4pTQ5TYsJY",
       "url": "https://www.youtube.com/watch?v=n4pTQ5TYsJY",
-      "thumbnail": "https://i.ytimg.com/vi/n4pTQ5TYsJY/mqdefault_live.jpg",
-      "published": "2026-09-23T23:15:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO ANUNCIA NOVO PATROCINADOR MÁSTER!📰BAGÉTV NEWS #041",
-      "videoId": "v0Ow_3GCChk",
-      "url": "https://www.youtube.com/watch?v=v0Ow_3GCChk",
-      "thumbnail": "https://i.ytimg.com/vi/v0Ow_3GCChk/mqdefault.jpg",
-      "published": "2026-09-23T22:04:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/n4pTQ5TYsJY/mqdefault.jpg",
+      "published": "2026-09-24T00:41:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "TUDO SOBRE O NOVO MASTER DO GRÊMIO: VALORES, EXCLUSIVIDADE, SEGURANÇA JURÍDICA E MUITO MAIS",
+      "videoId": "aaMKwc5ERQ0",
+      "url": "https://www.youtube.com/watch?v=aaMKwc5ERQ0",
+      "thumbnail": "https://i.ytimg.com/vi/aaMKwc5ERQ0/mqdefault.jpg",
+      "published": "2026-09-24T00:54:31Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "NOVO PATROCINADOR MASTER? | R$40 MILHÕES ANO? | FECHADO COM INTER TAMBÉM? | CIMED? BYD?",
       "videoId": "zrjZnmSwCgI",
       "url": "https://www.youtube.com/watch?v=zrjZnmSwCgI",
       "thumbnail": "https://i.ytimg.com/vi/zrjZnmSwCgI/mqdefault.jpg",
       "published": "2026-09-23T16:12:24Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "QUEM GANHOU E QUEM PERDEU ESPAÇO COM RENATO | AS MUDANÇAS FEITAS | O IMPACTO WEVERTON EM 2026",
-      "videoId": "9NiEFV8BPQo",
-      "url": "https://www.youtube.com/watch?v=9NiEFV8BPQo",
-      "thumbnail": "https://i.ytimg.com/vi/9NiEFV8BPQo/mqdefault.jpg",
-      "published": "2026-09-22T14:14:45Z"
     },
     {
       "channel": "Duda Garbi",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO ANUNCIA PATROCÍNIO MASTER | RENATO FAZ EXIGÊNCIAS AO GRUPO | NOITES DE GRÊMIO #151 - 23/09",
+      "videoId": "GAaqXGs5lvY",
+      "url": "https://www.youtube.com/watch?v=GAaqXGs5lvY",
+      "thumbnail": "https://i.ytimg.com/vi/GAaqXGs5lvY/mqdefault_live.jpg",
+      "published": "2026-09-24T00:00:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "URGENTE: GRÊMIO ANUNCIA PATROCINADOR MÁSTER!! | RENATO RECEBE PEDIDO DOS JOGADORES | IMORTAL FC",
       "videoId": "mNhRfxYM8BA",
       "url": "https://www.youtube.com/watch?v=mNhRfxYM8BA",
       "thumbnail": "https://i.ytimg.com/vi/mNhRfxYM8BA/mqdefault.jpg",
       "published": "2026-09-23T22:07:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ANUNCIA PATROCÍNIO MASTER | RENATO FAZ EXIGÊNCIAS AO GRUPO | NOITES DE GRÊMIO #151 - 23/09",
-      "videoId": "GAaqXGs5lvY",
-      "url": "https://www.youtube.com/watch?v=GAaqXGs5lvY",
-      "thumbnail": "https://i.ytimg.com/vi/GAaqXGs5lvY/mqdefault_live.jpg",
-      "published": "2026-09-23T20:23:12Z"
     }
   ]
 }
