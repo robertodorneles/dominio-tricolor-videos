@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:00:40.952121+00:00",
+  "updated_at": "2026-09-25T13:00:49.355456+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/09 - #642",
+      "title": "GRÊMIO É COBRADO POR MAIS UM CLUBE 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 25/09 - #642",
       "videoId": "GWWHoS4jwgs",
       "url": "https://www.youtube.com/watch?v=GWWHoS4jwgs",
       "thumbnail": "https://i.ytimg.com/vi/GWWHoS4jwgs/mqdefault_live.jpg",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "O dia D para o futebol brasileiro e o congelamento de negociações no Grêmio",
+      "videoId": "Ktg_GURSo0I",
+      "url": "https://www.youtube.com/watch?v=Ktg_GURSo0I",
+      "thumbnail": "https://i.ytimg.com/vi/Ktg_GURSo0I/mqdefault.jpg",
+      "published": "2026-09-25T12:41:07Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #685: Volta aos treinos | Cobrança do Cruzeiro | Alex Leitão | Renovações e mais",
       "videoId": "tfqPeyiAWo8",
       "url": "https://www.youtube.com/watch?v=tfqPeyiAWo8",
@@ -59,28 +67,20 @@
       "published": "2026-09-24T22:09:24Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "A estratégia do Grêmio e o que tem por trás do novo patrocínio",
-      "videoId": "RX3y4c1pDZI",
-      "url": "https://www.youtube.com/watch?v=RX3y4c1pDZI",
-      "thumbnail": "https://i.ytimg.com/vi/RX3y4c1pDZI/mqdefault.jpg",
-      "published": "2026-09-24T12:33:55Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 25/09/2026",
+      "videoId": "i-CaKq4KUwc",
+      "url": "https://www.youtube.com/watch?v=i-CaKq4KUwc",
+      "thumbnail": "https://i.ytimg.com/vi/i-CaKq4KUwc/mqdefault_live.jpg",
+      "published": "2026-09-25T12:57:53Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #025",
-      "videoId": "OtyVZod5wZA",
-      "url": "https://www.youtube.com/watch?v=OtyVZod5wZA",
-      "thumbnail": "https://i.ytimg.com/vi/OtyVZod5wZA/mqdefault_live.jpg",
-      "published": "2026-09-25T11:35:45Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 24/09/2026",
-      "videoId": "hsUwm7jE7XU",
-      "url": "https://www.youtube.com/watch?v=hsUwm7jE7XU",
-      "thumbnail": "https://i.ytimg.com/vi/hsUwm7jE7XU/mqdefault.jpg",
-      "published": "2026-09-25T11:26:45Z"
+      "title": "ACORDA, GRÊMIO! #026",
+      "videoId": "l72hxzaYLYo",
+      "url": "https://www.youtube.com/watch?v=l72hxzaYLYo",
+      "thumbnail": "https://i.ytimg.com/vi/l72hxzaYLYo/mqdefault_live.jpg",
+      "published": "2026-09-25T12:56:42Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -136,7 +136,7 @@
       "videoId": "hMV5ZVxElgI",
       "url": "https://www.youtube.com/watch?v=hMV5ZVxElgI",
       "thumbnail": "https://i.ytimg.com/vi/hMV5ZVxElgI/mqdefault_live.jpg",
-      "published": "2026-09-25T11:41:35Z"
+      "published": "2026-09-25T12:08:35Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,27 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Envelhecimento da população e falta de médicos no interior desafiam a saúde no RS",
-      "videoId": "GKDRlmxxneM",
-      "url": "https://www.youtube.com/watch?v=GKDRlmxxneM",
-      "thumbnail": "https://i.ytimg.com/vi/GKDRlmxxneM/mqdefault.jpg",
-      "published": "2026-09-25T10:00:04Z"
+      "title": "Debate dos candidatos ao governo do RS, reta final das eleições e mais | Timeline | 25/09/2026",
+      "videoId": "me7MIsgQ-pI",
+      "url": "https://www.youtube.com/watch?v=me7MIsgQ-pI",
+      "thumbnail": "https://i.ytimg.com/vi/me7MIsgQ-pI/mqdefault_live.jpg",
+      "published": "2026-09-25T12:55:27Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Risco de rompimento de barragem, Semana Caldeira, informações do trânsito e mais | Gaúcha+ | 24/9/26",
-      "videoId": "eb9kRQgt6WQ",
-      "url": "https://www.youtube.com/watch?v=eb9kRQgt6WQ",
-      "thumbnail": "https://i.ytimg.com/vi/eb9kRQgt6WQ/mqdefault.jpg",
-      "published": "2026-09-25T07:37:23Z"
+      "title": "Lobo-marinho é avistado próximo à Plataforma de Tramandaí",
+      "videoId": "3DVghqK3h1U",
+      "url": "https://www.youtube.com/watch?v=3DVghqK3h1U",
+      "thumbnail": "https://i.ytimg.com/vi/3DVghqK3h1U/mqdefault.jpg",
+      "published": "2026-09-25T12:30:21Z"
     },
     {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: POLÊMICA DOS TREINOS NO GRÊMIO E JOGADOR ARQUIVADO SERÁ TITULAR NO INTER",
       "videoId": "_GnJ5sRgkvo",
       "url": "https://www.youtube.com/watch?v=_GnJ5sRgkvo",
-      "thumbnail": "https://i.ytimg.com/vi/_GnJ5sRgkvo/mqdefault_live.jpg",
-      "published": "2026-09-25T11:02:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/_GnJ5sRgkvo/mqdefault.jpg",
+      "published": "2026-09-25T12:31:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO: FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 25/09/2026",
+      "videoId": "sx7elXwvKws",
+      "url": "https://www.youtube.com/watch?v=sx7elXwvKws",
+      "thumbnail": "https://i.ytimg.com/vi/sx7elXwvKws/mqdefault_live.jpg",
+      "published": "2026-09-25T12:15:42Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "DIA NACIONAL DO RÁDIO 🎙️",
       "videoId": "5fdQdj3BdTc",
       "url": "https://www.youtube.com/watch?v=5fdQdj3BdTc",
@@ -219,28 +227,20 @@
       "published": "2026-09-25T10:00:22Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 24/09/2026",
-      "videoId": "YTkWCUVjEYo",
-      "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
-      "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault.jpg",
-      "published": "2026-09-24T23:31:20Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #30 — GRÊMIO TEM DOIS RETORNOS NA VOLTA AOS TREINAMENTOS",
       "videoId": "26Y7O5Lg9zk",
       "url": "https://www.youtube.com/watch?v=26Y7O5Lg9zk",
-      "thumbnail": "https://i.ytimg.com/vi/26Y7O5Lg9zk/mqdefault_live.jpg",
-      "published": "2026-09-25T10:03:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/26Y7O5Lg9zk/mqdefault.jpg",
+      "published": "2026-09-25T12:41:45Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AS NOTÍCIAS DA REAPRESENTAÇÃO DO GRÊMIO | CRUZEIRO FAZ COBRANÇA |  NOITES DE GRÊMIO #152 - 24/09",
-      "videoId": "Wel0jbx9fa0",
-      "url": "https://www.youtube.com/watch?v=Wel0jbx9fa0",
-      "thumbnail": "https://i.ytimg.com/vi/Wel0jbx9fa0/mqdefault.jpg",
-      "published": "2026-09-25T01:54:38Z"
+      "title": "PRESIDENTE FALA SOBRE NOVO PATROCÍNIO | GRÊMIO TREINA EM DOIS TURNOS | COMO É BOM SER DO GRÊMIO #50",
+      "videoId": "0TQKo_sIG6k",
+      "url": "https://www.youtube.com/watch?v=0TQKo_sIG6k",
+      "thumbnail": "https://i.ytimg.com/vi/0TQKo_sIG6k/mqdefault_live.jpg",
+      "published": "2026-09-25T12:30:47Z"
     }
   ]
 }
