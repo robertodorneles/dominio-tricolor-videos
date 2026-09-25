@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T01:00:40.667647+00:00",
+  "updated_at": "2026-09-25T02:00:38.425130+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "B3pdwy4pr_E",
       "url": "https://www.youtube.com/watch?v=B3pdwy4pr_E",
       "thumbnail": "https://i.ytimg.com/vi/B3pdwy4pr_E/mqdefault_live.jpg",
-      "published": "2026-09-24T23:57:51Z"
+      "published": "2026-09-25T01:35:44Z"
     },
     {
       "channel": "A Dupla",
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "CRUZEIRO COBRA VALORES DO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#030",
+      "videoId": "ybwPFTb2A_I",
+      "url": "https://www.youtube.com/watch?v=ybwPFTb2A_I",
+      "thumbnail": "https://i.ytimg.com/vi/ybwPFTb2A_I/mqdefault.jpg",
+      "published": "2026-09-25T01:04:34Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO PODE PERDER PATROCINADOR MÁSTER?🔵 BOA NOITE GRÊMIO #030",
       "videoId": "LqUX_llHiuA",
       "url": "https://www.youtube.com/watch?v=LqUX_llHiuA",
@@ -27,12 +35,12 @@
       "published": "2026-09-25T00:34:14Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "CRUZEIRO COBRA VALORES DO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#030",
-      "videoId": "ybwPFTb2A_I",
-      "url": "https://www.youtube.com/watch?v=ybwPFTb2A_I",
-      "thumbnail": "https://i.ytimg.com/vi/ybwPFTb2A_I/mqdefault_live.jpg",
-      "published": "2026-09-24T23:20:48Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨JOGADOR DO GRÊMIO IMPACTA RENATO | REVIRAVOLTA COM PATROCÍNIO MASTER? | NOVA COBRANÇA",
+      "videoId": "cs6QNC12viA",
+      "url": "https://www.youtube.com/watch?v=cs6QNC12viA",
+      "thumbnail": "https://i.ytimg.com/vi/cs6QNC12viA/mqdefault.jpg",
+      "published": "2026-09-25T01:42:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=ez0qHGxR-gM",
       "thumbnail": "https://i.ytimg.com/vi/ez0qHGxR-gM/mqdefault.jpg",
       "published": "2026-09-24T15:02:16Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FECHA CONTRATAÇÃO SURPRESA | POLÊMICA COM PATROCÍNIO MASTER | LATERAL DE VOLTA NO GRE-NAL!",
-      "videoId": "0f4qcu0WCaE",
-      "url": "https://www.youtube.com/watch?v=0f4qcu0WCaE",
-      "thumbnail": "https://i.ytimg.com/vi/0f4qcu0WCaE/mqdefault.jpg",
-      "published": "2026-09-23T23:00:54Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #30 — GRÊMIO TEM DOIS RETORNOS NA VOLTA AOS TREINAMENTOS",
-      "videoId": "26Y7O5Lg9zk",
-      "url": "https://www.youtube.com/watch?v=26Y7O5Lg9zk",
-      "thumbnail": "https://i.ytimg.com/vi/26Y7O5Lg9zk/mqdefault_live.jpg",
-      "published": "2026-09-25T00:57:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "AS NOTÍCIAS DA REAPRESENTAÇÃO DO GRÊMIO | CRUZEIRO FAZ COBRANÇA |  NOITES DE GRÊMIO #152 - 24/09",
       "videoId": "Wel0jbx9fa0",
       "url": "https://www.youtube.com/watch?v=Wel0jbx9fa0",
-      "thumbnail": "https://i.ytimg.com/vi/Wel0jbx9fa0/mqdefault_live.jpg",
-      "published": "2026-09-25T00:04:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/Wel0jbx9fa0/mqdefault.jpg",
+      "published": "2026-09-25T01:54:38Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #163 — RENATO COMANDA DOIS TREINOS NESTA SEXTA | GRÊMIO RECEBE NOVA COBRANÇA",
+      "videoId": "PAkqM85NB9Q",
+      "url": "https://www.youtube.com/watch?v=PAkqM85NB9Q",
+      "thumbnail": "https://i.ytimg.com/vi/PAkqM85NB9Q/mqdefault_live.jpg",
+      "published": "2026-09-25T01:14:07Z"
     }
   ]
 }
