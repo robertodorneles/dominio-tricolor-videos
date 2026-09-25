@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:00:36.590799+00:00",
+  "updated_at": "2026-09-25T18:00:34.069234+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Ele foi um desperdicio do Futebol.",
+      "videoId": "nkjiApxD23s",
+      "url": "https://www.youtube.com/watch?v=nkjiApxD23s",
+      "thumbnail": "https://i.ytimg.com/vi/nkjiApxD23s/mqdefault.jpg",
+      "published": "2026-09-25T17:01:45Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DIA D PARA AS BETS! E TREINADOR COBRA O INTER NA JUSTIÇA🔸RESENHA FORA DA SALA🔸#139",
       "videoId": "PVhET2JkfxY",
       "url": "https://www.youtube.com/watch?v=PVhET2JkfxY",
       "thumbnail": "https://i.ytimg.com/vi/PVhET2JkfxY/mqdefault_live.jpg",
       "published": "2026-09-25T16:28:26Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Ele é um bom treinador?",
-      "videoId": "YoACkqNipY8",
-      "url": "https://www.youtube.com/watch?v=YoACkqNipY8",
-      "thumbnail": "https://i.ytimg.com/vi/YoACkqNipY8/mqdefault.jpg",
-      "published": "2026-09-25T16:01:52Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,8 +71,8 @@
       "title": "GRENAL SHOW - #21",
       "videoId": "HF_858A_h_I",
       "url": "https://www.youtube.com/watch?v=HF_858A_h_I",
-      "thumbnail": "https://i.ytimg.com/vi/HF_858A_h_I/mqdefault_live.jpg",
-      "published": "2026-09-25T16:00:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/HF_858A_h_I/mqdefault.jpg",
+      "published": "2026-09-25T17:12:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X SÃO JOSÉ I MASC (COPA SUL SUB-20 I 2026)",
+      "videoId": "MDCieNWFWa4",
+      "url": "https://www.youtube.com/watch?v=MDCieNWFWa4",
+      "thumbnail": "https://i.ytimg.com/vi/MDCieNWFWa4/mqdefault_live.jpg",
+      "published": "2026-09-25T17:50:45Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X UNIÃO FORQUETENSE (CAMPEONATO GAÚCHO FEMININO I 2026)",
       "videoId": "vkGfZ_BkBeg",
       "url": "https://www.youtube.com/watch?v=vkGfZ_BkBeg",
@@ -155,28 +163,20 @@
       "published": "2026-09-23T17:32:31Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X SÃO JOSÉ I MASC (COPA SUL SUB-20 I 2026)",
-      "videoId": "MDCieNWFWa4",
-      "url": "https://www.youtube.com/watch?v=MDCieNWFWa4",
-      "thumbnail": "https://i.ytimg.com/vi/MDCieNWFWa4/mqdefault_live.jpg",
-      "published": "2026-09-23T15:24:21Z"
+      "channel": "GZH Digital",
+      "title": "MP das bets, falta de luz no RS, informações do trânsito e mais | Gaúcha+ | 25/09/26",
+      "videoId": "EziLDi1wot4",
+      "url": "https://www.youtube.com/watch?v=EziLDi1wot4",
+      "thumbnail": "https://i.ytimg.com/vi/EziLDi1wot4/mqdefault_live.jpg",
+      "published": "2026-09-25T17:59:42Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Debate com os candidatos ao Governo do RS, pesquisa Quaest e mais | Sala de Eleição | 25/09/2026",
-      "videoId": "T67l5hwJaWU",
-      "url": "https://www.youtube.com/watch?v=T67l5hwJaWU",
-      "thumbnail": "https://i.ytimg.com/vi/T67l5hwJaWU/mqdefault_live.jpg",
-      "published": "2026-09-25T16:00:39Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Por trás da energia: como a luz chega até sua casa | Energia que Aproxima #01",
-      "videoId": "MKto3nh2R4k",
-      "url": "https://www.youtube.com/watch?v=MKto3nh2R4k",
-      "thumbnail": "https://i.ytimg.com/vi/MKto3nh2R4k/mqdefault.jpg",
-      "published": "2026-09-25T15:58:37Z"
+      "title": "MP das BETS: Lula vai proibir apostas online? | Sala de Eleição",
+      "videoId": "gKsdLkv-_oM",
+      "url": "https://www.youtube.com/watch?v=gKsdLkv-_oM",
+      "thumbnail": "https://i.ytimg.com/vi/gKsdLkv-_oM/mqdefault.jpg",
+      "published": "2026-09-25T17:38:13Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ESPINA EM CAMPO! 🤣🇪🇪 #gremio #tricolor #campeoesdomundo #mundial #pedroespinosa",
+      "videoId": "M8vzfeh4AqE",
+      "url": "https://www.youtube.com/watch?v=M8vzfeh4AqE",
+      "thumbnail": "https://i.ytimg.com/vi/M8vzfeh4AqE/mqdefault.jpg",
+      "published": "2026-09-25T17:19:28Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO: DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 25/09/2026",
       "videoId": "sx7elXwvKws",
       "url": "https://www.youtube.com/watch?v=sx7elXwvKws",
       "thumbnail": "https://i.ytimg.com/vi/sx7elXwvKws/mqdefault_live.jpg",
       "published": "2026-09-25T12:15:42Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "DIA NACIONAL DO RÁDIO 🎙️",
-      "videoId": "5fdQdj3BdTc",
-      "url": "https://www.youtube.com/watch?v=5fdQdj3BdTc",
-      "thumbnail": "https://i.ytimg.com/vi/5fdQdj3BdTc/mqdefault.jpg",
-      "published": "2026-09-25T10:00:22Z"
     },
     {
       "channel": "Radio Imortal",
