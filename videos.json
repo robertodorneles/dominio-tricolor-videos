@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:00:37.410006+00:00",
+  "updated_at": "2026-09-25T11:00:40.910511+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "DIA NACIONAL DO RÁDIO 🎙️",
+      "videoId": "5fdQdj3BdTc",
+      "url": "https://www.youtube.com/watch?v=5fdQdj3BdTc",
+      "thumbnail": "https://i.ytimg.com/vi/5fdQdj3BdTc/mqdefault.jpg",
+      "published": "2026-09-25T10:00:22Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 24/09/2026",
       "videoId": "YTkWCUVjEYo",
       "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
@@ -219,12 +227,12 @@
       "published": "2026-09-24T23:31:20Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 24/09/2026",
-      "videoId": "sx7elXwvKws",
-      "url": "https://www.youtube.com/watch?v=sx7elXwvKws",
-      "thumbnail": "https://i.ytimg.com/vi/sx7elXwvKws/mqdefault_live.jpg",
-      "published": "2026-09-24T23:03:03Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #30 — GRÊMIO TEM DOIS RETORNOS NA VOLTA AOS TREINAMENTOS",
+      "videoId": "26Y7O5Lg9zk",
+      "url": "https://www.youtube.com/watch?v=26Y7O5Lg9zk",
+      "thumbnail": "https://i.ytimg.com/vi/26Y7O5Lg9zk/mqdefault_live.jpg",
+      "published": "2026-09-25T10:03:41Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Wel0jbx9fa0",
       "thumbnail": "https://i.ytimg.com/vi/Wel0jbx9fa0/mqdefault.jpg",
       "published": "2026-09-25T01:54:38Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #163 — RENATO COMANDA DOIS TREINOS NESTA SEXTA | GRÊMIO RECEBE NOVA COBRANÇA",
-      "videoId": "PAkqM85NB9Q",
-      "url": "https://www.youtube.com/watch?v=PAkqM85NB9Q",
-      "thumbnail": "https://i.ytimg.com/vi/PAkqM85NB9Q/mqdefault_live.jpg",
-      "published": "2026-09-25T01:14:07Z"
     }
   ]
 }
