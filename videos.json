@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:00:38.565267+00:00",
+  "updated_at": "2026-09-25T00:15:52.057182+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS NOTÍCIAS DA REAPRESENTAÇÃO DO GRÊMIO | CRUZEIRO FAZ COBRANÇA |  NOITES DE GRÊMIO #152 - 24/09",
+      "videoId": "Wel0jbx9fa0",
+      "url": "https://www.youtube.com/watch?v=Wel0jbx9fa0",
+      "thumbnail": "https://i.ytimg.com/vi/Wel0jbx9fa0/mqdefault_live.jpg",
+      "published": "2026-09-25T00:04:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🗣️ PRESIDENTE ODORICO ROMAN FALA SOBRE NOVO PATROCINADOR MASTER!",
       "videoId": "8Muyar9VvUU",
       "url": "https://www.youtube.com/watch?v=8Muyar9VvUU",
       "thumbnail": "https://i.ytimg.com/vi/8Muyar9VvUU/mqdefault.jpg",
       "published": "2026-09-24T22:31:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O RETORNO DO GRÊMIO AOS TREINAMENTOS | AO VIVO DIRETO DO JANTAR FARROUPILHA DO GRÊMIO | IMORTAL FC",
-      "videoId": "6ORWnRAl48Y",
-      "url": "https://www.youtube.com/watch?v=6ORWnRAl48Y",
-      "thumbnail": "https://i.ytimg.com/vi/6ORWnRAl48Y/mqdefault.jpg",
-      "published": "2026-09-24T22:20:31Z"
     }
   ]
 }
