@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-24T23:00:55.626263+00:00",
+  "updated_at": "2026-09-25T00:00:38.565267+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  EDUARDO BAPTISTA VAI DE ALERRANDRO! | O GRÊMIO VOLTOU AOS TRABALHOS",
+      "videoId": "B3pdwy4pr_E",
+      "url": "https://www.youtube.com/watch?v=B3pdwy4pr_E",
+      "thumbnail": "https://i.ytimg.com/vi/B3pdwy4pr_E/mqdefault_live.jpg",
+      "published": "2026-09-24T23:57:51Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Renato muda hierarquia e jogadores PERDEM ESPAÇO",
@@ -11,12 +19,12 @@
       "published": "2026-09-24T20:00:28Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 CHEGOU MEXENDO NO TIME! | O CARA QUE VAI GANHAR ESPAÇO | ONDE VAI ALAMPA?",
-      "videoId": "3xIV_f4RdX8",
-      "url": "https://www.youtube.com/watch?v=3xIV_f4RdX8",
-      "thumbnail": "https://i.ytimg.com/vi/3xIV_f4RdX8/mqdefault.jpg",
-      "published": "2026-09-24T19:59:33Z"
+      "channel": "Bage TV",
+      "title": "CRUZEIRO COBRA VALORES DO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#030",
+      "videoId": "ybwPFTb2A_I",
+      "url": "https://www.youtube.com/watch?v=ybwPFTb2A_I",
+      "thumbnail": "https://i.ytimg.com/vi/ybwPFTb2A_I/mqdefault_live.jpg",
+      "published": "2026-09-24T23:20:48Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=XimymTxUSjQ",
       "thumbnail": "https://i.ytimg.com/vi/XimymTxUSjQ/mqdefault.jpg",
       "published": "2026-09-24T22:08:23Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO RECONTRATA AUXILIAR DE RENATO🔹 THE TARDE 🔹#227",
-      "videoId": "hpuPs7xle3A",
-      "url": "https://www.youtube.com/watch?v=hpuPs7xle3A",
-      "thumbnail": "https://i.ytimg.com/vi/hpuPs7xle3A/mqdefault.jpg",
-      "published": "2026-09-24T19:54:22Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "hsUwm7jE7XU",
       "url": "https://www.youtube.com/watch?v=hsUwm7jE7XU",
       "thumbnail": "https://i.ytimg.com/vi/hsUwm7jE7XU/mqdefault_live.jpg",
-      "published": "2026-09-24T22:05:20Z"
+      "published": "2026-09-24T23:12:28Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,11 +132,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "COMO FUNCIONA A CABEÇA DE UM BILIONÁRIO? EMPRESÁRIO DE SUCESSO ABRIU O JOGO | Cortes do Duda",
-      "videoId": "uIp5tfTs_Yg",
-      "url": "https://www.youtube.com/watch?v=uIp5tfTs_Yg",
-      "thumbnail": "https://i.ytimg.com/vi/uIp5tfTs_Yg/mqdefault.jpg",
-      "published": "2026-09-24T23:00:20Z"
+      "title": "QUAL A PRINCIPAL MOTIVAÇÃO DE GRANDES BILIONÁRIOS? RICARDO GEROMEL EXPLICA TUDO | Cortes do Duda",
+      "videoId": "ScD-6Kb1c8A",
+      "url": "https://www.youtube.com/watch?v=ScD-6Kb1c8A",
+      "thumbnail": "https://i.ytimg.com/vi/ScD-6Kb1c8A/mqdefault.jpg",
+      "published": "2026-09-24T23:15:29Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "TARCÍSIO e CLEITINHO vencem no 1º turno? | Chamada Eleitoral",
-      "videoId": "Tf-SuYY_uTU",
-      "url": "https://www.youtube.com/watch?v=Tf-SuYY_uTU",
-      "thumbnail": "https://i.ytimg.com/vi/Tf-SuYY_uTU/mqdefault.jpg",
-      "published": "2026-09-24T21:30:09Z"
+      "title": "Conheça a história de Chanel, a ovelha que conquistou a internet",
+      "videoId": "Gx4Sq5GhsmM",
+      "url": "https://www.youtube.com/watch?v=Gx4Sq5GhsmM",
+      "thumbnail": "https://i.ytimg.com/vi/Gx4Sq5GhsmM/mqdefault.jpg",
+      "published": "2026-09-24T23:50:32Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "NOVO TEATRO EM PORTO ALEGRE | veja como foi inauguração do Teatro dos Bancários",
-      "videoId": "hn67BrXIr_g",
-      "url": "https://www.youtube.com/watch?v=hn67BrXIr_g",
-      "thumbnail": "https://i.ytimg.com/vi/hn67BrXIr_g/mqdefault.jpg",
-      "published": "2026-09-24T21:17:41Z"
+      "title": "Lula promete canetas emagrecedoras no SUS e Flávio rebate | Palanque Digital",
+      "videoId": "g6z4t_DIZ7w",
+      "url": "https://www.youtube.com/watch?v=g6z4t_DIZ7w",
+      "thumbnail": "https://i.ytimg.com/vi/g6z4t_DIZ7w/mqdefault.jpg",
+      "published": "2026-09-24T23:25:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "“NINGUÉM DESAPRENDE A FAZER GOL” ⚽️",
-      "videoId": "dKBEku5A97w",
-      "url": "https://www.youtube.com/watch?v=dKBEku5A97w",
-      "thumbnail": "https://i.ytimg.com/vi/dKBEku5A97w/mqdefault.jpg",
-      "published": "2026-09-24T20:08:29Z"
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 24/09/2026",
+      "videoId": "YTkWCUVjEYo",
+      "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
+      "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault.jpg",
+      "published": "2026-09-24T23:31:20Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 24/09/2026",
-      "videoId": "YTkWCUVjEYo",
-      "url": "https://www.youtube.com/watch?v=YTkWCUVjEYo",
-      "thumbnail": "https://i.ytimg.com/vi/YTkWCUVjEYo/mqdefault_live.jpg",
-      "published": "2026-09-24T11:01:01Z"
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 24/09/2026",
+      "videoId": "sx7elXwvKws",
+      "url": "https://www.youtube.com/watch?v=sx7elXwvKws",
+      "thumbnail": "https://i.ytimg.com/vi/sx7elXwvKws/mqdefault_live.jpg",
+      "published": "2026-09-24T23:03:03Z"
     },
     {
       "channel": "Radio Imortal",
