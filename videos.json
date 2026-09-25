@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-25T18:00:34.069234+00:00",
+  "updated_at": "2026-09-25T19:00:42.774450+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 UMA MENSAGEM FICOU CLARA | TRABALHO ESPECIAL COM ELE | TORCIDA VAI ABRAÇAR?",
+      "videoId": "DHCh1yVc-KE",
+      "url": "https://www.youtube.com/watch?v=DHCh1yVc-KE",
+      "thumbnail": "https://i.ytimg.com/vi/DHCh1yVc-KE/mqdefault.jpg",
+      "published": "2026-09-25T18:57:37Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️Diário do Inter: 🔥 ANUNCIO INESPERADO | O DESTAQUE DOS TREINOS! | DIREÇÃO APARECEU",
@@ -11,32 +19,24 @@
       "published": "2026-09-25T07:03:59Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: CRUZEIRO COBRA DÍVIDA MILIONÁRIA; GRÊMIO BATE RECORDE E RENATO INICIA MUDANÇAS",
-      "videoId": "-JU8z81GDKQ",
-      "url": "https://www.youtube.com/watch?v=-JU8z81GDKQ",
-      "thumbnail": "https://i.ytimg.com/vi/-JU8z81GDKQ/mqdefault.jpg",
-      "published": "2026-09-25T05:00:11Z"
+      "channel": "Bage TV",
+      "title": "A divida do Grêmio com o Cruzeiro.",
+      "videoId": "i1Hd0Di_ofU",
+      "url": "https://www.youtube.com/watch?v=i1Hd0Di_ofU",
+      "thumbnail": "https://i.ytimg.com/vi/i1Hd0Di_ofU/mqdefault.jpg",
+      "published": "2026-09-25T18:53:59Z"
     },
     {
       "channel": "Bage TV",
-      "title": "Ele foi um desperdicio do Futebol.",
-      "videoId": "nkjiApxD23s",
-      "url": "https://www.youtube.com/watch?v=nkjiApxD23s",
-      "thumbnail": "https://i.ytimg.com/vi/nkjiApxD23s/mqdefault.jpg",
-      "published": "2026-09-25T17:01:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA D PARA AS BETS! E TREINADOR COBRA O INTER NA JUSTIÇA🔸RESENHA FORA DA SALA🔸#139",
-      "videoId": "PVhET2JkfxY",
-      "url": "https://www.youtube.com/watch?v=PVhET2JkfxY",
-      "thumbnail": "https://i.ytimg.com/vi/PVhET2JkfxY/mqdefault_live.jpg",
-      "published": "2026-09-25T16:28:26Z"
+      "title": "RENATO ACELERA RITMO NO CT DO GRÊMIO 🔹 THE TARDE 🔹#228",
+      "videoId": "Cr25aIpMKiE",
+      "url": "https://www.youtube.com/watch?v=Cr25aIpMKiE",
+      "thumbnail": "https://i.ytimg.com/vi/Cr25aIpMKiE/mqdefault_live.jpg",
+      "published": "2026-09-25T18:27:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨DIRIGENTE BRIGOU FEIO NO PÓS JOGO | FELIPÃO FALOU FIRME | A UNIÃO DE RENATO NO GRÊMIO!",
+      "title": "🚨BRIGA FORTE COM DIRIGENTE | FELIPÃO FALOU FIRME | A UNIÃO DE RENATO NO GRÊMIO!",
       "videoId": "lDV8QCLx2BM",
       "url": "https://www.youtube.com/watch?v=lDV8QCLx2BM",
       "thumbnail": "https://i.ytimg.com/vi/lDV8QCLx2BM/mqdefault.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ATUALIZANDO AS NOTÍCIAS DO GRÊMIO | SEGUNDO TURNO DE TREINAMENTOS AGORA | MP DAS BETS | ESPLANADA",
+      "videoId": "JmOjQq-Yg5M",
+      "url": "https://www.youtube.com/watch?v=JmOjQq-Yg5M",
+      "thumbnail": "https://i.ytimg.com/vi/JmOjQq-Yg5M/mqdefault_live.jpg",
+      "published": "2026-09-25T18:31:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #163 — RENATO COMANDA DOIS TREINOS NESTA SEXTA | GRÊMIO RECEBE NOVA COBRANÇA",
       "videoId": "PAkqM85NB9Q",
       "url": "https://www.youtube.com/watch?v=PAkqM85NB9Q",
       "thumbnail": "https://i.ytimg.com/vi/PAkqM85NB9Q/mqdefault.jpg",
       "published": "2026-09-25T15:09:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PATROCÍNIO SEGUE? COMO O GRÊMIO SERÁ AFETADO PELA MP DAS BETS | DIA DE TREINOS INTENSOS | IMORTAL FC",
-      "videoId": "X5yhphgWTkY",
-      "url": "https://www.youtube.com/watch?v=X5yhphgWTkY",
-      "thumbnail": "https://i.ytimg.com/vi/X5yhphgWTkY/mqdefault_live.jpg",
-      "published": "2026-09-25T14:22:16Z"
     }
   ]
 }
