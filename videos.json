@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:00:34.592202+00:00",
+  "updated_at": "2026-09-26T20:00:40.588756+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "LULA proíbe BETS no Brasil",
+      "videoId": "jgNm1yC6E_w",
+      "url": "https://www.youtube.com/watch?v=jgNm1yC6E_w",
+      "thumbnail": "https://i.ytimg.com/vi/jgNm1yC6E_w/mqdefault.jpg",
+      "published": "2026-09-26T19:42:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "SEM DEPENDER DO LABORATÓRIO: tecnologia monitora qualidade do leite em tempo real | Radar Inovação",
       "videoId": "yV6YY0RGdbk",
       "url": "https://www.youtube.com/watch?v=yV6YY0RGdbk",
       "thumbnail": "https://i.ytimg.com/vi/yV6YY0RGdbk/mqdefault.jpg",
       "published": "2026-09-26T19:00:12Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "El Niño pode afetar produção de café no Brasil e pressionar preços",
-      "videoId": "qBe53WpSxZY",
-      "url": "https://www.youtube.com/watch?v=qBe53WpSxZY",
-      "thumbnail": "https://i.ytimg.com/vi/qBe53WpSxZY/mqdefault.jpg",
-      "published": "2026-09-26T18:00:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | SABADAÇO GRENAL | RÁDIO GRENAL | 26/09/2026",
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 26/09/2026",
       "videoId": "7z2q-whO74g",
       "url": "https://www.youtube.com/watch?v=7z2q-whO74g",
       "thumbnail": "https://i.ytimg.com/vi/7z2q-whO74g/mqdefault_live.jpg",
