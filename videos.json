@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:00:41.655804+00:00",
+  "updated_at": "2026-09-26T17:35:41.477934+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "AO VIVO - FESTA DE ANIVERSÁRIO DO GRÊMIO | DIRETO DA ARENA",
+      "videoId": "WhK32NzzcYc",
+      "url": "https://www.youtube.com/watch?v=WhK32NzzcYc",
+      "thumbnail": "https://i.ytimg.com/vi/WhK32NzzcYc/mqdefault_live.jpg",
+      "published": "2026-09-26T17:30:47Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "FIM DAS BETS! O QUE ACONTECE COM O GRÊMIO? 🌅🔵 BOM DIA GRÊMIO #136",
       "videoId": "LxZ1u0DyI2I",
       "url": "https://www.youtube.com/watch?v=LxZ1u0DyI2I",
       "thumbnail": "https://i.ytimg.com/vi/LxZ1u0DyI2I/mqdefault.jpg",
       "published": "2026-09-26T15:18:12Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO SE MANIFESTOU SOBRE AS BETS🔵 BOA NOITE GRÊMIO #031",
-      "videoId": "EKy3NsHxxBg",
-      "url": "https://www.youtube.com/watch?v=EKy3NsHxxBg",
-      "thumbnail": "https://i.ytimg.com/vi/EKy3NsHxxBg/mqdefault.jpg",
-      "published": "2026-09-26T02:05:59Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Destaques nos primeiros treinos de Renato e um quebra-cabeça para o treinador",
+      "videoId": "DATc5lz4b5A",
+      "url": "https://www.youtube.com/watch?v=DATc5lz4b5A",
+      "thumbnail": "https://i.ytimg.com/vi/DATc5lz4b5A/mqdefault.jpg",
+      "published": "2026-09-26T17:25:51Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #686: Fim das Bets | Borne | Tiaguinho | Sub-20 | Renovações e mais",
       "videoId": "08-tNJ4hjro",
       "url": "https://www.youtube.com/watch?v=08-tNJ4hjro",
       "thumbnail": "https://i.ytimg.com/vi/08-tNJ4hjro/mqdefault.jpg",
       "published": "2026-09-25T22:27:26Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "O dia D para o futebol brasileiro e o congelamento de negociações no Grêmio",
-      "videoId": "Ktg_GURSo0I",
-      "url": "https://www.youtube.com/watch?v=Ktg_GURSo0I",
-      "thumbnail": "https://i.ytimg.com/vi/Ktg_GURSo0I/mqdefault.jpg",
-      "published": "2026-09-25T12:41:07Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO DIRETO DA ARENA | EVENTO DE COMEMORAÇÃO - 123 ANOS DE GRÊMIO! | PLANTÃO IMORTAL",
+      "videoId": "uKulRK0hU-o",
+      "url": "https://www.youtube.com/watch?v=uKulRK0hU-o",
+      "thumbnail": "https://i.ytimg.com/vi/uKulRK0hU-o/mqdefault_live.jpg",
+      "published": "2026-09-26T17:33:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO FINALIZA PRIMEIRA PARTE DE TREINOS DA DATA FIFA | RENATO PLANEJA MUDANÇAS | PLANTÃO IMORTAL",
       "videoId": "vA0EIsHTp8o",
       "url": "https://www.youtube.com/watch?v=vA0EIsHTp8o",
       "thumbnail": "https://i.ytimg.com/vi/vA0EIsHTp8o/mqdefault_live.jpg",
       "published": "2026-09-26T16:36:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO INTENSIFICA PREPARAÇÃO FÍSICA E TREINOS | PROIBIÇÃO DAS BETS E A POSIÇÃO DO CLUBE | PLANTÃO",
-      "videoId": "CIf11kk1nxA",
-      "url": "https://www.youtube.com/watch?v=CIf11kk1nxA",
-      "thumbnail": "https://i.ytimg.com/vi/CIf11kk1nxA/mqdefault.jpg",
-      "published": "2026-09-26T13:09:38Z"
     }
   ]
 }
