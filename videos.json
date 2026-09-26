@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T21:00:39.366889+00:00",
-  "total": 30,
+  "updated_at": "2026-09-26T22:00:40.023977+00:00",
+  "total": 29,
   "videos": [
     {
       "channel": "A Dupla",
@@ -72,7 +72,7 @@
       "videoId": "IFPgCEfrYZs",
       "url": "https://www.youtube.com/watch?v=IFPgCEfrYZs",
       "thumbnail": "https://i.ytimg.com/vi/IFPgCEfrYZs/mqdefault.jpg",
-      "published": "2026-09-26T14:12:16Z"
+      "published": "2026-09-26T22:00:11Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "JOGADA DE MESTRE DA CAZÉTV #dudagarbi #umassadopara",
+      "videoId": "86jN68XqzyM",
+      "url": "https://www.youtube.com/watch?v=86jN68XqzyM",
+      "thumbnail": "https://i.ytimg.com/vi/86jN68XqzyM/mqdefault.jpg",
+      "published": "2026-09-26T21:50:27Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DESPEDIDA DO ÍDOLO GREMISTA #dudagarbi #umassadopara",
       "videoId": "WiuV12DqHqo",
       "url": "https://www.youtube.com/watch?v=WiuV12DqHqo",
       "thumbnail": "https://i.ytimg.com/vi/WiuV12DqHqo/mqdefault.jpg",
       "published": "2026-09-26T20:50:31Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "LESÃO DE ALISSON E A RECUPERAÇÃO QUE IMPRESSIONOU A TODOS | Uma Aula Sobre… Fisioterapia Esportiva",
-      "videoId": "PLn8ArOLzhU",
-      "url": "https://www.youtube.com/watch?v=PLn8ArOLzhU",
-      "thumbnail": "https://i.ytimg.com/vi/PLn8ArOLzhU/mqdefault.jpg",
-      "published": "2026-09-26T15:00:25Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Germano Rigotto (MDB) classifica de um a 10 personalidades da política brasileira",
+      "videoId": "wqf2QfB5-Cw",
+      "url": "https://www.youtube.com/watch?v=wqf2QfB5-Cw",
+      "thumbnail": "https://i.ytimg.com/vi/wqf2QfB5-Cw/mqdefault.jpg",
+      "published": "2026-09-26T21:00:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A Eleição que Eu Vi | Dilma em 2010: da gestora técnica à escolhida de Lula | Fábio Schaffner",
       "videoId": "T1pqmiZVmVw",
       "url": "https://www.youtube.com/watch?v=T1pqmiZVmVw",
       "thumbnail": "https://i.ytimg.com/vi/T1pqmiZVmVw/mqdefault.jpg",
       "published": "2026-09-26T21:00:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Missa do Papa Leão XIV reúne milhares em Paris",
-      "videoId": "oj0xBjCQHf4",
-      "url": "https://www.youtube.com/watch?v=oj0xBjCQHf4",
-      "thumbnail": "https://i.ytimg.com/vi/oj0xBjCQHf4/mqdefault.jpg",
-      "published": "2026-09-26T20:00:31Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -215,16 +215,8 @@
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 26/09/2026",
       "videoId": "7z2q-whO74g",
       "url": "https://www.youtube.com/watch?v=7z2q-whO74g",
-      "thumbnail": "https://i.ytimg.com/vi/7z2q-whO74g/mqdefault_live.jpg",
-      "published": "2026-09-26T20:53:22Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 25/09/2026",
-      "videoId": "Bqs_w5_K9Is",
-      "url": "https://www.youtube.com/watch?v=Bqs_w5_K9Is",
-      "thumbnail": "https://i.ytimg.com/vi/Bqs_w5_K9Is/mqdefault.jpg",
-      "published": "2026-09-25T23:09:47Z"
+      "thumbnail": "https://i.ytimg.com/vi/7z2q-whO74g/mqdefault.jpg",
+      "published": "2026-09-26T21:19:09Z"
     },
     {
       "channel": "Radio Imortal",
