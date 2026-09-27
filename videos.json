@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-27T18:00:39.409681+00:00",
+  "updated_at": "2026-09-27T18:52:20.633355+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: NA ZONA DO REBAIXAMENTO E FOLGANDO, HEIN GRÊMIO E INTER?! | DIAS AGITADOS!",
+      "videoId": "IK4z5JMYAW4",
+      "url": "https://www.youtube.com/watch?v=IK4z5JMYAW4",
+      "thumbnail": "https://i.ytimg.com/vi/IK4z5JMYAW4/mqdefault_live.jpg",
+      "published": "2026-09-27T18:22:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: O QUE MUDOU com Eduardo Baptista? Primeiras decisões e Alerrandro ganha chance",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=xgQNmgEs7O8",
       "thumbnail": "https://i.ytimg.com/vi/xgQNmgEs7O8/mqdefault.jpg",
       "published": "2026-09-27T06:00:03Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO COMEÇA AS ESCOLHAS! SURPRESA NO MEIO E MUDANÇAS NO FUTEBOL",
-      "videoId": "KCJBeGhcmY4",
-      "url": "https://www.youtube.com/watch?v=KCJBeGhcmY4",
-      "thumbnail": "https://i.ytimg.com/vi/KCJBeGhcmY4/mqdefault.jpg",
-      "published": "2026-09-27T05:00:39Z"
     },
     {
       "channel": "Bage TV",
