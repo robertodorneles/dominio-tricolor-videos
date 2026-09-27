@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-27T19:00:36.834446+00:00",
+  "updated_at": "2026-09-27T20:00:36.825542+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: ALGUÉM ESTÁ MENTINDO? NÚMEROS CONTRADIZEM DIAGNÓSTICO DE RENATO",
+      "videoId": "ZuJHFOv-iXs",
+      "url": "https://www.youtube.com/watch?v=ZuJHFOv-iXs",
+      "thumbnail": "https://i.ytimg.com/vi/ZuJHFOv-iXs/mqdefault.jpg",
+      "published": "2026-09-27T19:00:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: NA ZONA DO REBAIXAMENTO E FOLGANDO, HEIN GRÊMIO E INTER?! | DIAS AGITADOS!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=IK4z5JMYAW4",
       "thumbnail": "https://i.ytimg.com/vi/IK4z5JMYAW4/mqdefault_live.jpg",
       "published": "2026-09-27T18:22:39Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: O QUE MUDOU com Eduardo Baptista? Primeiras decisões e Alerrandro ganha chance",
-      "videoId": "xgQNmgEs7O8",
-      "url": "https://www.youtube.com/watch?v=xgQNmgEs7O8",
-      "thumbnail": "https://i.ytimg.com/vi/xgQNmgEs7O8/mqdefault.jpg",
-      "published": "2026-09-27T06:00:03Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "PELÉ FICOU INDIGNADO!",
-      "videoId": "3ryWXiDVN34",
-      "url": "https://www.youtube.com/watch?v=3ryWXiDVN34",
-      "thumbnail": "https://i.ytimg.com/vi/3ryWXiDVN34/mqdefault.jpg",
-      "published": "2026-09-27T13:52:39Z"
-    },
-    {
-      "channel": "Canal do Farid",
       "title": "ENTREVISTA COM ATILIO ANCHETA - \"FALA, COSTA!\" #11",
       "videoId": "IFPgCEfrYZs",
       "url": "https://www.youtube.com/watch?v=IFPgCEfrYZs",
       "thumbnail": "https://i.ytimg.com/vi/IFPgCEfrYZs/mqdefault.jpg",
       "published": "2026-09-26T22:00:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 25/09/2026",
+      "videoId": "i-CaKq4KUwc",
+      "url": "https://www.youtube.com/watch?v=i-CaKq4KUwc",
+      "thumbnail": "https://i.ytimg.com/vi/i-CaKq4KUwc/mqdefault.jpg",
+      "published": "2026-09-26T11:31:48Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -152,7 +152,7 @@
       "videoId": "vkGfZ_BkBeg",
       "url": "https://www.youtube.com/watch?v=vkGfZ_BkBeg",
       "thumbnail": "https://i.ytimg.com/vi/vkGfZ_BkBeg/mqdefault_live.jpg",
-      "published": "2026-09-27T17:51:25Z"
+      "published": "2026-09-27T19:56:49Z"
     },
     {
       "channel": "GremioTV Oficial",
