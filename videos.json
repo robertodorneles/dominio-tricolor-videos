@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T10:00:36.745526+00:00",
-  "total": 29,
+  "updated_at": "2026-09-28T11:00:54.163965+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -172,11 +172,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 28/09/2026",
-      "videoId": "NKrQ6jcsEmI",
-      "url": "https://www.youtube.com/watch?v=NKrQ6jcsEmI",
-      "thumbnail": "https://i.ytimg.com/vi/NKrQ6jcsEmI/mqdefault_live.jpg",
-      "published": "2026-09-28T07:31:00Z"
+      "title": "Manuela d’Ávila (PSOL) classifica de um a 10 personalidades da política brasileira",
+      "videoId": "UMnu64fZTo4",
+      "url": "https://www.youtube.com/watch?v=UMnu64fZTo4",
+      "thumbnail": "https://i.ytimg.com/vi/UMnu64fZTo4/mqdefault.jpg",
+      "published": "2026-09-27T21:00:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 28/09/2026",
+      "videoId": "HwD9JH5Ublg",
+      "url": "https://www.youtube.com/watch?v=HwD9JH5Ublg",
+      "thumbnail": "https://i.ytimg.com/vi/HwD9JH5Ublg/mqdefault_live.jpg",
+      "published": "2026-09-28T10:35:54Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 26/09/2026",
       "videoId": "7z2q-whO74g",
       "url": "https://www.youtube.com/watch?v=7z2q-whO74g",
@@ -220,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #31 — GRÊMIO INICIA SEMANA DE PREPARAÇÃO PARA O RETORNO AO BRASILEIRÃO!",
+      "videoId": "DOk4RM45c5A",
+      "url": "https://www.youtube.com/watch?v=DOk4RM45c5A",
+      "thumbnail": "https://i.ytimg.com/vi/DOk4RM45c5A/mqdefault_live.jpg",
+      "published": "2026-09-28T10:05:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #164 — SEMANA PESADA DE TREINOS NO GRÊMIO | CALENDÁRIO ATUALIZADO",
       "videoId": "81adp-4LDOw",
       "url": "https://www.youtube.com/watch?v=81adp-4LDOw",
       "thumbnail": "https://i.ytimg.com/vi/81adp-4LDOw/mqdefault_live.jpg",
       "published": "2026-09-27T22:51:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO CONHECE AS DATAS PARA SEMI DA COPA DO BRASIL | COMO É BOM SER DO GRÊMIO #51",
-      "videoId": "mt91XfedFUs",
-      "url": "https://www.youtube.com/watch?v=mt91XfedFUs",
-      "thumbnail": "https://i.ytimg.com/vi/mt91XfedFUs/mqdefault_live.jpg",
-      "published": "2026-09-27T22:23:35Z"
     }
   ]
 }
