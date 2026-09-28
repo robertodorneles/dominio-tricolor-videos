@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-28T00:00:40.441900+00:00",
+  "updated_at": "2026-09-28T00:16:21.177568+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: NA ZONA DO REBAIXAMENTO E FOLGANDO, HEIN GRÊMIO E INTER?! | DIAS AGITADOS!",
+      "videoId": "IK4z5JMYAW4",
+      "url": "https://www.youtube.com/watch?v=IK4z5JMYAW4",
+      "thumbnail": "https://i.ytimg.com/vi/IK4z5JMYAW4/mqdefault_live.jpg",
+      "published": "2026-09-28T00:06:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: JOAO BEZERRA VAI GANHAR ESPAÇO | E O SANABRIA? | ALERRANDRO O PRIMEIRO TITULAR",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=mPOhb_H0dvk",
       "thumbnail": "https://i.ytimg.com/vi/mPOhb_H0dvk/mqdefault.jpg",
       "published": "2026-09-27T20:53:45Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: ALGUÉM ESTÁ MENTINDO? NÚMEROS CONTRADIZEM DIAGNÓSTICO DE RENATO",
-      "videoId": "ZuJHFOv-iXs",
-      "url": "https://www.youtube.com/watch?v=ZuJHFOv-iXs",
-      "thumbnail": "https://i.ytimg.com/vi/ZuJHFOv-iXs/mqdefault.jpg",
-      "published": "2026-09-27T19:00:39Z"
     },
     {
       "channel": "Bage TV",
@@ -56,7 +56,7 @@
       "videoId": "gbimFhHF0tE",
       "url": "https://www.youtube.com/watch?v=gbimFhHF0tE",
       "thumbnail": "https://i.ytimg.com/vi/gbimFhHF0tE/mqdefault_live.jpg",
-      "published": "2026-09-27T23:00:33Z"
+      "published": "2026-09-28T00:07:27Z"
     },
     {
       "channel": "Canal do CCD",
