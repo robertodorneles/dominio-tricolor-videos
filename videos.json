@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-28T19:01:15.842990+00:00",
-  "total": 29,
+  "updated_at": "2026-09-28T20:00:43.327165+00:00",
+  "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio:  Sete jogadores de VOLTA em 2027? Veja situação dos emprestados",
+      "videoId": "DP8EAfI-5iw",
+      "url": "https://www.youtube.com/watch?v=DP8EAfI-5iw",
+      "thumbnail": "https://i.ytimg.com/vi/DP8EAfI-5iw/mqdefault.jpg",
+      "published": "2026-09-28T20:00:06Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: ⚠️ REUNIÃO HISTÓRICA EM BRASILIA! | ISSO PODE MUDAR OS RUMOS | PUNIÇÕES SEVERAS",
@@ -11,28 +19,20 @@
       "published": "2026-09-28T18:24:26Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 PEDIDO COM REPERCUSSÕES! | FOLGA NO CT | AGUARDAM ROCHET!",
-      "videoId": "NMDut61ezLs",
-      "url": "https://www.youtube.com/watch?v=NMDut61ezLs",
-      "thumbnail": "https://i.ytimg.com/vi/NMDut61ezLs/mqdefault.jpg",
-      "published": "2026-09-28T06:43:13Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GOVERNO VAI OUVIR OS CLUBES SOBRE AS BETS! #CORTESDOFAG",
-      "videoId": "vaKtU3WnpUo",
-      "url": "https://www.youtube.com/watch?v=vaKtU3WnpUo",
-      "thumbnail": "https://i.ytimg.com/vi/vaKtU3WnpUo/mqdefault.jpg",
-      "published": "2026-09-28T18:56:53Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO REALIZA INAUGURAÇÃO DE NOVO CT🔹 THE TARDE 🔹#229",
       "videoId": "zuzflIM3ND4",
       "url": "https://www.youtube.com/watch?v=zuzflIM3ND4",
-      "thumbnail": "https://i.ytimg.com/vi/zuzflIM3ND4/mqdefault_live.jpg",
-      "published": "2026-09-28T18:30:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/zuzflIM3ND4/mqdefault.jpg",
+      "published": "2026-09-28T19:52:58Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "TRETA! ELES BRIGARAM POR CAUSA DISSO! #CORTESDOBOLEIRAGI",
+      "videoId": "hxikKioQxWo",
+      "url": "https://www.youtube.com/watch?v=hxikKioQxWo",
+      "thumbnail": "https://i.ytimg.com/vi/hxikKioQxWo/mqdefault.jpg",
+      "published": "2026-09-28T19:21:29Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "GOVERNANÇA NA PRÁTICA: Os principais aprendizados da temporada | Governança pra Quem Decide #06",
-      "videoId": "rO1uLmANJK0",
-      "url": "https://www.youtube.com/watch?v=rO1uLmANJK0",
-      "thumbnail": "https://i.ytimg.com/vi/rO1uLmANJK0/mqdefault.jpg",
-      "published": "2026-09-28T18:48:34Z"
+      "title": "Como uma canja com Armandinho deu início à história de Claus & Vanessa? | Paralelas",
+      "videoId": "MGdbG6yWqGM",
+      "url": "https://www.youtube.com/watch?v=MGdbG6yWqGM",
+      "thumbnail": "https://i.ytimg.com/vi/MGdbG6yWqGM/mqdefault.jpg",
+      "published": "2026-09-28T20:00:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "IYFIAApRF54",
       "url": "https://www.youtube.com/watch?v=IYFIAApRF54",
       "thumbnail": "https://i.ytimg.com/vi/IYFIAApRF54/mqdefault_live.jpg",
-      "published": "2026-09-28T18:00:38Z"
+      "published": "2026-09-28T19:32:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -211,20 +211,12 @@
       "published": "2026-09-26T20:37:24Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 28/09/2026",
-      "videoId": "HwD9JH5Ublg",
-      "url": "https://www.youtube.com/watch?v=HwD9JH5Ublg",
-      "thumbnail": "https://i.ytimg.com/vi/HwD9JH5Ublg/mqdefault_live.jpg",
-      "published": "2026-09-28T11:04:50Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "GRÊMIO SE REAPRESENTA AGORA | PROGRAMAÇÃO ALTERADA VISANDO O REMO | ESPLANADA",
       "videoId": "u3LXtBqwHXk",
       "url": "https://www.youtube.com/watch?v=u3LXtBqwHXk",
-      "thumbnail": "https://i.ytimg.com/vi/u3LXtBqwHXk/mqdefault_live.jpg",
-      "published": "2026-09-28T18:31:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/u3LXtBqwHXk/mqdefault.jpg",
+      "published": "2026-09-28T19:37:03Z"
     },
     {
       "channel": "Radio Imortal",
