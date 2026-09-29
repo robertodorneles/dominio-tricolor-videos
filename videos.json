@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-28T23:00:41.069653+00:00",
+  "updated_at": "2026-09-29T00:00:52.916346+00:00",
   "total": 28,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: NOITE AGITADA NO INTERNACIONAL | GRÊMIO  EM BUSCA DE SOLUÇÕES",
+      "videoId": "g9Ggbid4Lag",
+      "url": "https://www.youtube.com/watch?v=g9Ggbid4Lag",
+      "thumbnail": "https://i.ytimg.com/vi/g9Ggbid4Lag/mqdefault_live.jpg",
+      "published": "2026-09-28T23:46:42Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio:  Sete jogadores de VOLTA em 2027? Veja situação dos emprestados",
@@ -11,12 +19,12 @@
       "published": "2026-09-28T20:00:06Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: ⚠️ REUNIÃO HISTÓRICA EM BRASILIA! | ISSO PODE MUDAR OS RUMOS | PUNIÇÕES SEVERAS",
-      "videoId": "URAd8uJquXc",
-      "url": "https://www.youtube.com/watch?v=URAd8uJquXc",
-      "thumbnail": "https://i.ytimg.com/vi/URAd8uJquXc/mqdefault.jpg",
-      "published": "2026-09-28T18:24:26Z"
+      "channel": "Bage TV",
+      "title": "RENATO PREPARA OPERAÇÃO CONTRA O REMO!🟣RESENHA FORA DA SALA NOITE🟣#032",
+      "videoId": "Mpkm2lRKcio",
+      "url": "https://www.youtube.com/watch?v=Mpkm2lRKcio",
+      "thumbnail": "https://i.ytimg.com/vi/Mpkm2lRKcio/mqdefault_live.jpg",
+      "published": "2026-09-28T23:14:30Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=RKqNXCLp4Kc",
       "thumbnail": "https://i.ytimg.com/vi/RKqNXCLp4Kc/mqdefault.jpg",
       "published": "2026-09-28T22:04:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "QUIZ DO BRASILEIRÃO! QUANTAS VOCÊ ACERTOU? #CORTESDORESENHA",
-      "videoId": "NPu5t3n_loc",
-      "url": "https://www.youtube.com/watch?v=NPu5t3n_loc",
-      "thumbnail": "https://i.ytimg.com/vi/NPu5t3n_loc/mqdefault.jpg",
-      "published": "2026-09-28T20:27:54Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "yIzTyfixWTw",
       "url": "https://www.youtube.com/watch?v=yIzTyfixWTw",
       "thumbnail": "https://i.ytimg.com/vi/yIzTyfixWTw/mqdefault_live.jpg",
-      "published": "2026-09-28T22:00:18Z"
+      "published": "2026-09-28T23:07:11Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "GREMISTA: VOCÊ GOSTARIA DO PAULO BRITO NARRANDO JOGO DO GRÊMIO? | Cortes do Duda",
-      "videoId": "opwRwvoXxkg",
-      "url": "https://www.youtube.com/watch?v=opwRwvoXxkg",
-      "thumbnail": "https://i.ytimg.com/vi/opwRwvoXxkg/mqdefault.jpg",
-      "published": "2026-09-28T23:00:13Z"
+      "title": "SEMPRE FUI COLORADO #dudagarbi #umassadopara",
+      "videoId": "QUfIPATWDIc",
+      "url": "https://www.youtube.com/watch?v=QUfIPATWDIc",
+      "thumbnail": "https://i.ytimg.com/vi/QUfIPATWDIc/mqdefault.jpg",
+      "published": "2026-09-28T23:30:30Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... PAULO BRITO | #414",
-      "videoId": "mO-G7BStmkg",
-      "url": "https://www.youtube.com/watch?v=mO-G7BStmkg",
-      "thumbnail": "https://i.ytimg.com/vi/mO-G7BStmkg/mqdefault.jpg",
-      "published": "2026-09-28T22:00:08Z"
+      "title": "COMO A ENTRADA DE LUCAS DALENOGARE AFETOU PAULO BRITO NA BALDASSO TV | Cortes do Duda",
+      "videoId": "yWcGpJI45-k",
+      "url": "https://www.youtube.com/watch?v=yWcGpJI45-k",
+      "thumbnail": "https://i.ytimg.com/vi/yWcGpJI45-k/mqdefault.jpg",
+      "published": "2026-09-28T23:15:22Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,35 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "MP das bets: o que muda com a proibição das apostas? | Conversas Cruzadas",
-      "videoId": "NCNOovWVs6E",
-      "url": "https://www.youtube.com/watch?v=NCNOovWVs6E",
-      "thumbnail": "https://i.ytimg.com/vi/NCNOovWVs6E/mqdefault.jpg",
-      "published": "2026-09-28T22:40:53Z"
+      "title": "Arca de Noé encontrada? Projeto investiga possível embarcação na Turquia",
+      "videoId": "PsIOoi-VU7M",
+      "url": "https://www.youtube.com/watch?v=PsIOoi-VU7M",
+      "thumbnail": "https://i.ytimg.com/vi/PsIOoi-VU7M/mqdefault.jpg",
+      "published": "2026-09-28T23:30:14Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "ENTENDA como funcionam os ALERTAS DEFESA CIVIL no RS | Zero Hora",
-      "videoId": "MCKI9fbOxXk",
-      "url": "https://www.youtube.com/watch?v=MCKI9fbOxXk",
-      "thumbnail": "https://i.ytimg.com/vi/MCKI9fbOxXk/mqdefault.jpg",
-      "published": "2026-09-28T21:30:06Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: BASTIDORES DO INTER, ÚLTIMAS DO GRÊMIO E FIM DAS BETS",
-      "videoId": "8dS2DJJAUBk",
-      "url": "https://www.youtube.com/watch?v=8dS2DJJAUBk",
-      "thumbnail": "https://i.ytimg.com/vi/8dS2DJJAUBk/mqdefault.jpg",
-      "published": "2026-09-28T12:41:09Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "SIMULANDO A RETA FINAL: Quem vai cair? Grêmio, Inter ou ninguém?",
-      "videoId": "41tK4p9O92w",
-      "url": "https://www.youtube.com/watch?v=41tK4p9O92w",
-      "thumbnail": "https://i.ytimg.com/vi/41tK4p9O92w/mqdefault.jpg",
-      "published": "2026-09-27T23:02:00Z"
+      "title": "Bets: existe um cenário ideal entre proibição e regulamentação? | Conversas Cruzadas",
+      "videoId": "yNwkvjsKeW8",
+      "url": "https://www.youtube.com/watch?v=yNwkvjsKeW8",
+      "thumbnail": "https://i.ytimg.com/vi/yNwkvjsKeW8/mqdefault.jpg",
+      "published": "2026-09-28T23:10:14Z"
     },
     {
       "channel": "LH Benfica",
@@ -211,20 +195,36 @@
       "published": "2026-09-27T21:17:32Z"
     },
     {
+      "channel": "Radio Grenal",
+      "title": "28/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "HwD9JH5Ublg",
+      "url": "https://www.youtube.com/watch?v=HwD9JH5Ublg",
+      "thumbnail": "https://i.ytimg.com/vi/HwD9JH5Ublg/mqdefault.jpg",
+      "published": "2026-09-28T23:30:23Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "28/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "Rwtbi70TsGc",
+      "url": "https://www.youtube.com/watch?v=Rwtbi70TsGc",
+      "thumbnail": "https://i.ytimg.com/vi/Rwtbi70TsGc/mqdefault_live.jpg",
+      "published": "2026-09-28T23:09:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO REALIZARÁ JOGO-TREINO | ROTINA DE TREINOS DO TRICOLOR | NOITES DE GRÊMIO #154 - 28/09",
+      "videoId": "zui30ZW5chA",
+      "url": "https://www.youtube.com/watch?v=zui30ZW5chA",
+      "thumbnail": "https://i.ytimg.com/vi/zui30ZW5chA/mqdefault_live.jpg",
+      "published": "2026-09-29T00:00:02Z"
+    },
+    {
       "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #165 — VILLASANTI VOLTARÁ CONTRA O REMO? | A SITUAÇÃO DOS CONVOCADOS DO GRÊMIO",
       "videoId": "xf-JAilWTMI",
       "url": "https://www.youtube.com/watch?v=xf-JAilWTMI",
       "thumbnail": "https://i.ytimg.com/vi/xf-JAilWTMI/mqdefault_live.jpg",
       "published": "2026-09-28T22:20:00Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGO-TREINO MARCADO E O CALENDÁRIO DO GRÊMIO | COMO É BOM SER DO GRÊMIO #52",
-      "videoId": "g3nTXfomqmc",
-      "url": "https://www.youtube.com/watch?v=g3nTXfomqmc",
-      "thumbnail": "https://i.ytimg.com/vi/g3nTXfomqmc/mqdefault_live.jpg",
-      "published": "2026-09-28T22:14:08Z"
     }
   ]
 }
