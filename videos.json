@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-29T21:00:36.709327+00:00",
+  "updated_at": "2026-09-29T22:00:45.244665+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: VEJA O QUE OS CANDIDATOS FALARAM | RJ, FUNDO DE INVESTIMENTOS, ANTECIPAÇÃO DE RECEITA?",
+      "videoId": "KANGYfPb1C8",
+      "url": "https://www.youtube.com/watch?v=KANGYfPb1C8",
+      "thumbnail": "https://i.ytimg.com/vi/KANGYfPb1C8/mqdefault.jpg",
+      "published": "2026-09-29T21:27:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O QUE RENATO ESTÁ MUDANDO NO GRÊMIO? BASTIDORES REVELAM NOVO TRABALHO",
@@ -11,28 +19,20 @@
       "published": "2026-09-29T20:00:01Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥  BARCELLOS REVELOU TUDO | O PLANO DA GESTÃO | DATAS MANTIDAS",
-      "videoId": "nw1P7bzzaHU",
-      "url": "https://www.youtube.com/watch?v=nw1P7bzzaHU",
-      "thumbnail": "https://i.ytimg.com/vi/nw1P7bzzaHU/mqdefault.jpg",
-      "published": "2026-09-29T06:36:28Z"
+      "channel": "Bage TV",
+      "title": "QUEM SERÁ O NOVO PRESIDENTE DO INTER? #CORTESDORESENHA",
+      "videoId": "4Ie7wDZs0hA",
+      "url": "https://www.youtube.com/watch?v=4Ie7wDZs0hA",
+      "thumbnail": "https://i.ytimg.com/vi/4Ie7wDZs0hA/mqdefault.jpg",
+      "published": "2026-09-29T21:45:32Z"
     },
     {
       "channel": "Bage TV",
-      "title": "📰BAGÉTV NEWS #045",
+      "title": "CLUBES DISCUTEM PARAR O BRASILEIRO | DODI VOLTANDO | COLORADO DEVE 120 MILHÕES📰BAGÉTV NEWS #045",
       "videoId": "FkbVkHNSzkk",
       "url": "https://www.youtube.com/watch?v=FkbVkHNSzkk",
       "thumbnail": "https://i.ytimg.com/vi/FkbVkHNSzkk/mqdefault_live.jpg",
       "published": "2026-09-29T20:36:08Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO PODE PERDER TITULAR PARA DECISÃO EM BELÉM🔹 THE TARDE 🔹#230",
-      "videoId": "_lcGwQ2S9Uc",
-      "url": "https://www.youtube.com/watch?v=_lcGwQ2S9Uc",
-      "thumbnail": "https://i.ytimg.com/vi/_lcGwQ2S9Uc/mqdefault.jpg",
-      "published": "2026-09-29T19:59:01Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #690: Renato e Borne | Desfalques | Villasanti | Contratação | Novo CT e mais",
+      "videoId": "HX4ShihVzxc",
+      "url": "https://www.youtube.com/watch?v=HX4ShihVzxc",
+      "thumbnail": "https://i.ytimg.com/vi/HX4ShihVzxc/mqdefault.jpg",
+      "published": "2026-09-29T21:37:56Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "O custo da mudança afunda o Grêmio",
       "videoId": "6zR6rjLywRE",
       "url": "https://www.youtube.com/watch?v=6zR6rjLywRE",
@@ -59,12 +67,12 @@
       "published": "2026-09-29T12:30:06Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - JOGO-TREINO | VIAGEM PARA BELÉM | BRASILEIRÃO E MAIS",
-      "videoId": "H27l9fGrm1c",
-      "url": "https://www.youtube.com/watch?v=H27l9fGrm1c",
-      "thumbnail": "https://i.ytimg.com/vi/H27l9fGrm1c/mqdefault.jpg",
-      "published": "2026-09-29T01:16:12Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 29/09/2026",
+      "videoId": "NwbkYmE2pQg",
+      "url": "https://www.youtube.com/watch?v=NwbkYmE2pQg",
+      "thumbnail": "https://i.ytimg.com/vi/NwbkYmE2pQg/mqdefault_live.jpg",
+      "published": "2026-09-29T21:58:20Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=bUJ1rDe__mQ",
       "thumbnail": "https://i.ytimg.com/vi/bUJ1rDe__mQ/mqdefault_live.jpg",
       "published": "2026-09-29T17:07:50Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #027",
-      "videoId": "4HuaIdxoN8Q",
-      "url": "https://www.youtube.com/watch?v=4HuaIdxoN8Q",
-      "thumbnail": "https://i.ytimg.com/vi/4HuaIdxoN8Q/mqdefault_live.jpg",
-      "published": "2026-09-29T12:46:02Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "PAULO BRITO DECEPCIONADO COM GALVÃO BUENO? ENTENDA O QUE ACONTECEU | Cortes do Duda",
+      "videoId": "_L-lrGnVb1E",
+      "url": "https://www.youtube.com/watch?v=_L-lrGnVb1E",
+      "thumbnail": "https://i.ytimg.com/vi/_L-lrGnVb1E/mqdefault.jpg",
+      "published": "2026-09-29T21:00:18Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "PAULO BRITO PERDEU 100% DA AUDIÇÃO: NARRADOR FALA ABERTAMENTE SOBRE O CASO | Cortes do Duda",
       "videoId": "_me4JtjYss0",
       "url": "https://www.youtube.com/watch?v=_me4JtjYss0",
       "thumbnail": "https://i.ytimg.com/vi/_me4JtjYss0/mqdefault.jpg",
       "published": "2026-09-29T21:00:18Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 29.09 | AO VIVO - PÓS BRASIL x AUSTRÁLIA | RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "Efbigwuc6cc",
-      "url": "https://www.youtube.com/watch?v=Efbigwuc6cc",
-      "thumbnail": "https://i.ytimg.com/vi/Efbigwuc6cc/mqdefault.jpg",
-      "published": "2026-09-29T13:15:11Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -168,15 +168,15 @@
       "videoId": "CIin6FbOmaA",
       "url": "https://www.youtube.com/watch?v=CIin6FbOmaA",
       "thumbnail": "https://i.ytimg.com/vi/CIin6FbOmaA/mqdefault_live.jpg",
-      "published": "2026-09-29T20:40:21Z"
+      "published": "2026-09-29T21:31:14Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleitores não poderão ser presos a partir desta terça-feira (29); entenda as exceções",
-      "videoId": "rBT__QEFVdM",
-      "url": "https://www.youtube.com/watch?v=rBT__QEFVdM",
-      "thumbnail": "https://i.ytimg.com/vi/rBT__QEFVdM/mqdefault.jpg",
-      "published": "2026-09-29T20:00:17Z"
+      "title": "Paulo Pimenta (PT) classifica de um a 10 personalidades da política brasileira",
+      "videoId": "9RqUbULZkXI",
+      "url": "https://www.youtube.com/watch?v=9RqUbULZkXI",
+      "thumbnail": "https://i.ytimg.com/vi/9RqUbULZkXI/mqdefault.jpg",
+      "published": "2026-09-29T21:30:47Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 29/09/2026",
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 29/09/2026",
       "videoId": "Rwtbi70TsGc",
       "url": "https://www.youtube.com/watch?v=Rwtbi70TsGc",
       "thumbnail": "https://i.ytimg.com/vi/Rwtbi70TsGc/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A SEQUÊNCIA DO GRÊMIO E DOS ADVERSÁRIOS DIRETOS NO Z4 | ATUALIZAÇÃO DOS TREINOS | IMORTAL FC",
+      "videoId": "DqXVWUcJTi4",
+      "url": "https://www.youtube.com/watch?v=DqXVWUcJTi4",
+      "thumbnail": "https://i.ytimg.com/vi/DqXVWUcJTi4/mqdefault_live.jpg",
+      "published": "2026-09-29T21:00:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VILLASANTI DESFALCARÁ O GRÊMIO? | GRÊMIO TREINA FOCADO NO BRASILEIRO | NOITES DE GRÊMIO #155 - 29/09",
       "videoId": "L9C15AFkJnU",
       "url": "https://www.youtube.com/watch?v=L9C15AFkJnU",
       "thumbnail": "https://i.ytimg.com/vi/L9C15AFkJnU/mqdefault_live.jpg",
       "published": "2026-09-29T20:58:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A GRANDE DÚVIDA DO GRÊMIO CONTRA O REMO | SEGUNDO TURNO DE TREINAMENTOS AGORA | ESPLANADA",
-      "videoId": "66pY8TjNteU",
-      "url": "https://www.youtube.com/watch?v=66pY8TjNteU",
-      "thumbnail": "https://i.ytimg.com/vi/66pY8TjNteU/mqdefault_live.jpg",
-      "published": "2026-09-29T19:32:33Z"
     }
   ]
 }
