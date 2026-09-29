@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:00:45.135201+00:00",
+  "updated_at": "2026-09-29T11:00:42.249160+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #027",
+      "videoId": "4HuaIdxoN8Q",
+      "url": "https://www.youtube.com/watch?v=4HuaIdxoN8Q",
+      "thumbnail": "https://i.ytimg.com/vi/4HuaIdxoN8Q/mqdefault_live.jpg",
+      "published": "2026-09-29T10:50:04Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #22",
       "videoId": "q9pA6E4vQJk",
       "url": "https://www.youtube.com/watch?v=q9pA6E4vQJk",
       "thumbnail": "https://i.ytimg.com/vi/q9pA6E4vQJk/mqdefault.jpg",
       "published": "2026-09-29T05:24:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #026",
-      "videoId": "l72hxzaYLYo",
-      "url": "https://www.youtube.com/watch?v=l72hxzaYLYo",
-      "thumbnail": "https://i.ytimg.com/vi/l72hxzaYLYo/mqdefault.jpg",
-      "published": "2026-09-29T01:24:13Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 29/09/2026",
+      "videoId": "0r3WryiQTg0",
+      "url": "https://www.youtube.com/watch?v=0r3WryiQTg0",
+      "thumbnail": "https://i.ytimg.com/vi/0r3WryiQTg0/mqdefault_live.jpg",
+      "published": "2026-09-29T10:54:53Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "MP das bets: o que muda com a proibição das apostas? | Conversas Cruzadas | 28/09/2026",
       "videoId": "bSGPIyq6TG4",
       "url": "https://www.youtube.com/watch?v=bSGPIyq6TG4",
       "thumbnail": "https://i.ytimg.com/vi/bSGPIyq6TG4/mqdefault.jpg",
       "published": "2026-09-29T09:30:40Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Entrevista com Edegar Pretto, falta de luz, temporal no norte do RS e mais | Gaúcha+ | 28/09/2026",
-      "videoId": "IYFIAApRF54",
-      "url": "https://www.youtube.com/watch?v=IYFIAApRF54",
-      "thumbnail": "https://i.ytimg.com/vi/IYFIAApRF54/mqdefault.jpg",
-      "published": "2026-09-29T07:35:45Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #32 — GRÊMIO COM DOIS TURNOS DE TREINO NESTA TERÇA-FEIRA",
+      "videoId": "YHvb3QpVuqs",
+      "url": "https://www.youtube.com/watch?v=YHvb3QpVuqs",
+      "thumbnail": "https://i.ytimg.com/vi/YHvb3QpVuqs/mqdefault_live.jpg",
+      "published": "2026-09-29T10:06:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO REALIZARÁ JOGO-TREINO | ROTINA DE TREINOS DO TRICOLOR | NOITES DE GRÊMIO #154 - 28/09",
       "videoId": "zui30ZW5chA",
       "url": "https://www.youtube.com/watch?v=zui30ZW5chA",
       "thumbnail": "https://i.ytimg.com/vi/zui30ZW5chA/mqdefault_live.jpg",
       "published": "2026-09-29T01:31:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #165 — VILLASANTI VOLTARÁ CONTRA O REMO? | A SITUAÇÃO DOS CONVOCADOS DO GRÊMIO",
-      "videoId": "xf-JAilWTMI",
-      "url": "https://www.youtube.com/watch?v=xf-JAilWTMI",
-      "thumbnail": "https://i.ytimg.com/vi/xf-JAilWTMI/mqdefault_live.jpg",
-      "published": "2026-09-28T22:20:00Z"
     }
   ]
 }
