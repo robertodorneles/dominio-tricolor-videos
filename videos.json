@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:00:49.958193+00:00",
+  "updated_at": "2026-09-29T15:19:25.209024+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "AFINAL, LUÍS CASTRO É MESMO “HOMEM GRE-NAL”? OS NÚMEROS SURPREENDEM! #CORTESDOFAG",
+      "videoId": "btV-Zd_u8qs",
+      "url": "https://www.youtube.com/watch?v=btV-Zd_u8qs",
+      "thumbnail": "https://i.ytimg.com/vi/btV-Zd_u8qs/mqdefault.jpg",
+      "published": "2026-09-29T15:07:05Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #077",
       "videoId": "Hf6eBwTzMQM",
       "url": "https://www.youtube.com/watch?v=Hf6eBwTzMQM",
       "thumbnail": "https://i.ytimg.com/vi/Hf6eBwTzMQM/mqdefault.jpg",
       "published": "2026-09-29T14:57:51Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "O Grêmio está tranquilo com o Contrato do Patrocinador Master.",
-      "videoId": "XNGc1uaB8xk",
-      "url": "https://www.youtube.com/watch?v=XNGc1uaB8xk",
-      "thumbnail": "https://i.ytimg.com/vi/XNGc1uaB8xk/mqdefault.jpg",
-      "published": "2026-09-29T14:43:50Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #165 — VILLASANTI VOLTARÁ CONTRA O REMO? | A SITUAÇÃO DOS CONVOCADOS DO GRÊMIO",
+      "videoId": "xf-JAilWTMI",
+      "url": "https://www.youtube.com/watch?v=xf-JAilWTMI",
+      "thumbnail": "https://i.ytimg.com/vi/xf-JAilWTMI/mqdefault.jpg",
+      "published": "2026-09-29T15:06:41Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "A GRANDE DÚVIDA DO GRÊMIO CONTRA O REMO | SEGUNDO TURNO DE TREINAMENTOS AGORA | ESPLANADA",
       "videoId": "66pY8TjNteU",
       "url": "https://www.youtube.com/watch?v=66pY8TjNteU",
       "thumbnail": "https://i.ytimg.com/vi/66pY8TjNteU/mqdefault_live.jpg",
       "published": "2026-09-29T14:12:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #165 — VILLASANTI VOLTARÁ CONTRA O REMO? | A SITUAÇÃO DOS CONVOCADOS DO GRÊMIO",
-      "videoId": "xf-JAilWTMI",
-      "url": "https://www.youtube.com/watch?v=xf-JAilWTMI",
-      "thumbnail": "https://i.ytimg.com/vi/xf-JAilWTMI/mqdefault_live.jpg",
-      "published": "2026-09-29T14:03:18Z"
     }
   ]
 }
