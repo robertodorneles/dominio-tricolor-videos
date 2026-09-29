@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:00:52.911067+00:00",
+  "updated_at": "2026-09-29T13:00:53.652978+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 29/09 - #644",
+      "title": "O Grêmio está ficando com a cara do Grêmio.",
+      "videoId": "k2O-4MwScxk",
+      "url": "https://www.youtube.com/watch?v=k2O-4MwScxk",
+      "thumbnail": "https://i.ytimg.com/vi/k2O-4MwScxk/mqdefault.jpg",
+      "published": "2026-09-29T12:46:17Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "RENATO MARCA JOGO PARA FAZER TESTES 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 29/09 - #644",
       "videoId": "6O2DA-XBWVg",
       "url": "https://www.youtube.com/watch?v=6O2DA-XBWVg",
       "thumbnail": "https://i.ytimg.com/vi/6O2DA-XBWVg/mqdefault_live.jpg",
       "published": "2026-09-29T12:00:00Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "REUNIÃO CANCELADA SOBRE AS BETS 🌅🔵 BOM DIA GRÊMIO #138",
-      "videoId": "PGlnGuenZyQ",
-      "url": "https://www.youtube.com/watch?v=PGlnGuenZyQ",
-      "thumbnail": "https://i.ytimg.com/vi/PGlnGuenZyQ/mqdefault.jpg",
-      "published": "2026-09-29T11:57:04Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "O custo da mudança afunda o Grêmio",
+      "videoId": "6zR6rjLywRE",
+      "url": "https://www.youtube.com/watch?v=6zR6rjLywRE",
+      "thumbnail": "https://i.ytimg.com/vi/6zR6rjLywRE/mqdefault.jpg",
+      "published": "2026-09-29T12:30:06Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - JOGO-TREINO | VIAGEM PARA BELÉM | BRASILEIRÃO E MAIS",
       "videoId": "H27l9fGrm1c",
       "url": "https://www.youtube.com/watch?v=H27l9fGrm1c",
@@ -59,12 +67,12 @@
       "published": "2026-09-29T01:16:12Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #689: Jogo-treino | Viagem pra Belém | Busca por dinheiro | Pedrinho e mais",
-      "videoId": "6ej9vYNhNvk",
-      "url": "https://www.youtube.com/watch?v=6ej9vYNhNvk",
-      "thumbnail": "https://i.ytimg.com/vi/6ej9vYNhNvk/mqdefault.jpg",
-      "published": "2026-09-28T21:52:02Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #027",
+      "videoId": "4HuaIdxoN8Q",
+      "url": "https://www.youtube.com/watch?v=4HuaIdxoN8Q",
+      "thumbnail": "https://i.ytimg.com/vi/4HuaIdxoN8Q/mqdefault_live.jpg",
+      "published": "2026-09-29T12:46:02Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=yIzTyfixWTw",
       "thumbnail": "https://i.ytimg.com/vi/yIzTyfixWTw/mqdefault.jpg",
       "published": "2026-09-29T11:42:30Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #027",
-      "videoId": "4HuaIdxoN8Q",
-      "url": "https://www.youtube.com/watch?v=4HuaIdxoN8Q",
-      "thumbnail": "https://i.ytimg.com/vi/4HuaIdxoN8Q/mqdefault_live.jpg",
-      "published": "2026-09-29T11:32:30Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -136,7 +136,7 @@
       "videoId": "Efbigwuc6cc",
       "url": "https://www.youtube.com/watch?v=Efbigwuc6cc",
       "thumbnail": "https://i.ytimg.com/vi/Efbigwuc6cc/mqdefault_live.jpg",
-      "published": "2026-09-29T11:36:41Z"
+      "published": "2026-09-29T12:09:48Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 29/09/2026",
-      "videoId": "0r3WryiQTg0",
-      "url": "https://www.youtube.com/watch?v=0r3WryiQTg0",
-      "thumbnail": "https://i.ytimg.com/vi/0r3WryiQTg0/mqdefault_live.jpg",
-      "published": "2026-09-29T11:54:07Z"
+      "title": "Impactos da chuva no RS, Nossa Senhora Aparecida, últimas da política e mais | Timeline | 29/09/2026",
+      "videoId": "pEE1xOGVs6A",
+      "url": "https://www.youtube.com/watch?v=pEE1xOGVs6A",
+      "thumbnail": "https://i.ytimg.com/vi/pEE1xOGVs6A/mqdefault_live.jpg",
+      "published": "2026-09-29T12:59:13Z"
     },
     {
       "channel": "GZH Digital",
@@ -184,7 +184,7 @@
       "videoId": "lZdSI_QvkpQ",
       "url": "https://www.youtube.com/watch?v=lZdSI_QvkpQ",
       "thumbnail": "https://i.ytimg.com/vi/lZdSI_QvkpQ/mqdefault_live.jpg",
-      "published": "2026-09-29T11:00:46Z"
+      "published": "2026-09-29T12:02:01Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 29/09/2026",
+      "videoId": "Rwtbi70TsGc",
+      "url": "https://www.youtube.com/watch?v=Rwtbi70TsGc",
+      "thumbnail": "https://i.ytimg.com/vi/Rwtbi70TsGc/mqdefault_live.jpg",
+      "published": "2026-09-29T12:17:47Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "28/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "HwD9JH5Ublg",
       "url": "https://www.youtube.com/watch?v=HwD9JH5Ublg",
@@ -219,28 +227,20 @@
       "published": "2026-09-28T23:30:23Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "28/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Rwtbi70TsGc",
-      "url": "https://www.youtube.com/watch?v=Rwtbi70TsGc",
-      "thumbnail": "https://i.ytimg.com/vi/Rwtbi70TsGc/mqdefault_live.jpg",
-      "published": "2026-09-28T23:09:10Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #32 — GRÊMIO COM DOIS TURNOS DE TREINO NESTA TERÇA-FEIRA",
       "videoId": "YHvb3QpVuqs",
       "url": "https://www.youtube.com/watch?v=YHvb3QpVuqs",
-      "thumbnail": "https://i.ytimg.com/vi/YHvb3QpVuqs/mqdefault_live.jpg",
-      "published": "2026-09-29T10:06:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/YHvb3QpVuqs/mqdefault.jpg",
+      "published": "2026-09-29T12:39:08Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO REALIZARÁ JOGO-TREINO | ROTINA DE TREINOS DO TRICOLOR | NOITES DE GRÊMIO #154 - 28/09",
-      "videoId": "zui30ZW5chA",
-      "url": "https://www.youtube.com/watch?v=zui30ZW5chA",
-      "thumbnail": "https://i.ytimg.com/vi/zui30ZW5chA/mqdefault_live.jpg",
-      "published": "2026-09-29T01:31:24Z"
+      "title": "JOGO-TREINO MARCADO E O CALENDÁRIO DO GRÊMIO | COMO É BOM SER DO GRÊMIO #52",
+      "videoId": "g3nTXfomqmc",
+      "url": "https://www.youtube.com/watch?v=g3nTXfomqmc",
+      "thumbnail": "https://i.ytimg.com/vi/g3nTXfomqmc/mqdefault_live.jpg",
+      "published": "2026-09-29T12:30:26Z"
     }
   ]
 }
