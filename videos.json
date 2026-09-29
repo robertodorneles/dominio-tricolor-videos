@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-29T19:00:39.441283+00:00",
+  "updated_at": "2026-09-29T20:00:43.579224+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: O QUE RENATO ESTÁ MUDANDO NO GRÊMIO? BASTIDORES REVELAM NOVO TRABALHO",
+      "videoId": "6pcuVK7b_8A",
+      "url": "https://www.youtube.com/watch?v=6pcuVK7b_8A",
+      "thumbnail": "https://i.ytimg.com/vi/6pcuVK7b_8A/mqdefault.jpg",
+      "published": "2026-09-29T20:00:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥  BARCELLOS REVELOU TUDO | O PLANO DA GESTÃO | DATAS MANTIDAS",
@@ -11,20 +19,12 @@
       "published": "2026-09-29T06:36:28Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO MARCA ÚLTIMO TESTE! Grêmio busca R$ 20 BILHÕES e inaugura novo CT",
-      "videoId": "FgN9CyjBErQ",
-      "url": "https://www.youtube.com/watch?v=FgN9CyjBErQ",
-      "thumbnail": "https://i.ytimg.com/vi/FgN9CyjBErQ/mqdefault.jpg",
-      "published": "2026-09-29T05:00:28Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "RENATO PODE PERDER TITULAR PARA DECISÃO EM BELÉM🔹 THE TARDE 🔹#230",
       "videoId": "_lcGwQ2S9Uc",
       "url": "https://www.youtube.com/watch?v=_lcGwQ2S9Uc",
-      "thumbnail": "https://i.ytimg.com/vi/_lcGwQ2S9Uc/mqdefault_live.jpg",
-      "published": "2026-09-29T18:30:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/_lcGwQ2S9Uc/mqdefault.jpg",
+      "published": "2026-09-29T19:59:01Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Por que as grandes empresas estão de olho nas startups? | Conversas Cruzadas | 29/09/2026",
-      "videoId": "CIin6FbOmaA",
-      "url": "https://www.youtube.com/watch?v=CIin6FbOmaA",
-      "thumbnail": "https://i.ytimg.com/vi/CIin6FbOmaA/mqdefault_live.jpg",
-      "published": "2026-09-29T18:17:27Z"
+      "title": "Eleitores não poderão ser presos a partir desta terça-feira (29); entenda as exceções",
+      "videoId": "rBT__QEFVdM",
+      "url": "https://www.youtube.com/watch?v=rBT__QEFVdM",
+      "thumbnail": "https://i.ytimg.com/vi/rBT__QEFVdM/mqdefault.jpg",
+      "published": "2026-09-29T20:00:17Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Entrevista com Cláudio Diaz, estragos do temporal, falta de luz no RS e mais | Gaúcha+ | 29/09/2026",
       "videoId": "5OyF5gfnah0",
       "url": "https://www.youtube.com/watch?v=5OyF5gfnah0",
-      "thumbnail": "https://i.ytimg.com/vi/5OyF5gfnah0/mqdefault_live.jpg",
-      "published": "2026-09-29T18:00:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/5OyF5gfnah0/mqdefault.jpg",
+      "published": "2026-09-29T19:37:58Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "66pY8TjNteU",
       "url": "https://www.youtube.com/watch?v=66pY8TjNteU",
       "thumbnail": "https://i.ytimg.com/vi/66pY8TjNteU/mqdefault_live.jpg",
-      "published": "2026-09-29T18:34:25Z"
+      "published": "2026-09-29T19:32:33Z"
     },
     {
       "channel": "Radio Imortal",
