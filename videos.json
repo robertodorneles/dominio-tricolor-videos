@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:00:44.339512+00:00",
+  "updated_at": "2026-09-29T18:00:43.161192+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "bUJ1rDe__mQ",
       "url": "https://www.youtube.com/watch?v=bUJ1rDe__mQ",
       "thumbnail": "https://i.ytimg.com/vi/bUJ1rDe__mQ/mqdefault_live.jpg",
-      "published": "2026-09-29T16:00:14Z"
+      "published": "2026-09-29T17:07:50Z"
     },
     {
       "channel": "Canal do Farid",
@@ -172,7 +172,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Entrevista com Cláudio Diaz, indenizações por danos da enchente, trânsito e + | Gaúcha+ | 29/9/2026",
+      "title": "Entrevista com Cláudio Diaz, estragos do temporal, falta de luz no RS e mais | Gaúcha+ | 29/09/2026",
       "videoId": "5OyF5gfnah0",
       "url": "https://www.youtube.com/watch?v=5OyF5gfnah0",
       "thumbnail": "https://i.ytimg.com/vi/5OyF5gfnah0/mqdefault_live.jpg",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨GRÊMIO VAI GANHAR MILHÕES COM ELE | BAITA PROBLEMA DE ÚLTIMA HORA | UM DIAMANTE ESTÁ SUBINDO",
+      "videoId": "Hz664J2IL6g",
+      "url": "https://www.youtube.com/watch?v=Hz664J2IL6g",
+      "thumbnail": "https://i.ytimg.com/vi/Hz664J2IL6g/mqdefault.jpg",
+      "published": "2026-09-29T17:43:50Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨REFORÇO PARA O MEIO DO GRÊMIO | UMA BAITA NOTÍCIA | DECISÃO IMPORTANTE",
       "videoId": "kr70XlaFhDs",
       "url": "https://www.youtube.com/watch?v=kr70XlaFhDs",
       "thumbnail": "https://i.ytimg.com/vi/kr70XlaFhDs/mqdefault.jpg",
       "published": "2026-09-28T21:23:38Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨78 MILHÕES DE REAIS | O CRAQUE QUE ESTÁ ENCANTANDO O GRÊMIO | O MAIOR PÚBLICO DA HISTÓRIA",
-      "videoId": "icwOFLGyb-U",
-      "url": "https://www.youtube.com/watch?v=icwOFLGyb-U",
-      "thumbnail": "https://i.ytimg.com/vi/icwOFLGyb-U/mqdefault.jpg",
-      "published": "2026-09-27T21:17:32Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A SEQUÊNCIA DO GRÊMIO E DOS ADVERSÁRIOS DIRETOS NO Z4 | ATUALIZAÇÃO DOS TREINOS | IMORTAL FC",
+      "videoId": "DqXVWUcJTi4",
+      "url": "https://www.youtube.com/watch?v=DqXVWUcJTi4",
+      "thumbnail": "https://i.ytimg.com/vi/DqXVWUcJTi4/mqdefault_live.jpg",
+      "published": "2026-09-29T17:56:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #165 — VILLASANTI VOLTARÁ CONTRA O REMO? | A SITUAÇÃO DOS CONVOCADOS DO GRÊMIO",
       "videoId": "xf-JAilWTMI",
       "url": "https://www.youtube.com/watch?v=xf-JAilWTMI",
       "thumbnail": "https://i.ytimg.com/vi/xf-JAilWTMI/mqdefault.jpg",
       "published": "2026-09-29T15:06:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "A GRANDE DÚVIDA DO GRÊMIO CONTRA O REMO | SEGUNDO TURNO DE TREINAMENTOS AGORA | ESPLANADA",
-      "videoId": "66pY8TjNteU",
-      "url": "https://www.youtube.com/watch?v=66pY8TjNteU",
-      "thumbnail": "https://i.ytimg.com/vi/66pY8TjNteU/mqdefault_live.jpg",
-      "published": "2026-09-29T14:12:04Z"
     }
   ]
 }
