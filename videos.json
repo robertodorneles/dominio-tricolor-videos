@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:00:35.204270+00:00",
+  "updated_at": "2026-09-30T11:00:44.674571+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "FARID DESABAFA SOBRE POSSÍVEL PARALISAÇÃO DO CAMPEONATO PELO FIM DAS BETS",
+      "videoId": "3F1YwBFhGtA",
+      "url": "https://www.youtube.com/watch?v=3F1YwBFhGtA",
+      "thumbnail": "https://i.ytimg.com/vi/3F1YwBFhGtA/mqdefault.jpg",
+      "published": "2026-09-30T10:24:52Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #23",
       "videoId": "bUJ1rDe__mQ",
       "url": "https://www.youtube.com/watch?v=bUJ1rDe__mQ",
       "thumbnail": "https://i.ytimg.com/vi/bUJ1rDe__mQ/mqdefault.jpg",
       "published": "2026-09-30T05:15:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #027",
-      "videoId": "4HuaIdxoN8Q",
-      "url": "https://www.youtube.com/watch?v=4HuaIdxoN8Q",
-      "thumbnail": "https://i.ytimg.com/vi/4HuaIdxoN8Q/mqdefault.jpg",
-      "published": "2026-09-30T00:54:35Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "29/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 30/09/2026",
       "videoId": "Oq6L7OKtjp8",
       "url": "https://www.youtube.com/watch?v=Oq6L7OKtjp8",
       "thumbnail": "https://i.ytimg.com/vi/Oq6L7OKtjp8/mqdefault_live.jpg",
       "published": "2026-09-29T23:01:51Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #33 — RENATO E A MONTAGEM DO TIME DO GRÊMIO NESTA DATA FIFA",
+      "videoId": "TyW0ne-wV94",
+      "url": "https://www.youtube.com/watch?v=TyW0ne-wV94",
+      "thumbnail": "https://i.ytimg.com/vi/TyW0ne-wV94/mqdefault_live.jpg",
+      "published": "2026-09-30T10:06:36Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=66pY8TjNteU",
       "thumbnail": "https://i.ytimg.com/vi/66pY8TjNteU/mqdefault.jpg",
       "published": "2026-09-30T07:34:40Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "JOGO-TREINO MARCADO E O CALENDÁRIO DO GRÊMIO | COMO É BOM SER DO GRÊMIO #52",
-      "videoId": "g3nTXfomqmc",
-      "url": "https://www.youtube.com/watch?v=g3nTXfomqmc",
-      "thumbnail": "https://i.ytimg.com/vi/g3nTXfomqmc/mqdefault.jpg",
-      "published": "2026-09-30T02:07:22Z"
     }
   ]
 }
