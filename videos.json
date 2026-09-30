@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:34:22.443734+00:00",
+  "updated_at": "2026-09-30T16:00:56.746239+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #23",
+      "videoId": "Nr0up-Ud9dw",
+      "url": "https://www.youtube.com/watch?v=Nr0up-Ud9dw",
+      "thumbnail": "https://i.ytimg.com/vi/Nr0up-Ud9dw/mqdefault_live.jpg",
+      "published": "2026-09-30T15:58:47Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 30/09/2026",
       "videoId": "nZiGoyMGlPA",
       "url": "https://www.youtube.com/watch?v=nZiGoyMGlPA",
       "thumbnail": "https://i.ytimg.com/vi/nZiGoyMGlPA/mqdefault_live.jpg",
       "published": "2026-09-30T13:32:44Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #029",
-      "videoId": "T3q0oLpJ2As",
-      "url": "https://www.youtube.com/watch?v=T3q0oLpJ2As",
-      "thumbnail": "https://i.ytimg.com/vi/T3q0oLpJ2As/mqdefault_live.jpg",
-      "published": "2026-09-30T13:27:54Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -168,7 +168,7 @@
       "videoId": "SxaBM1fYt48",
       "url": "https://www.youtube.com/watch?v=SxaBM1fYt48",
       "thumbnail": "https://i.ytimg.com/vi/SxaBM1fYt48/mqdefault_live.jpg",
-      "published": "2026-09-30T15:01:21Z"
+      "published": "2026-09-30T15:59:36Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 30/09/2026",
+      "title": "ENTRADA LIVRE AOS SÓCIOS! 🇮🇩🏟️",
+      "videoId": "7ear6Y5PwIQ",
+      "url": "https://www.youtube.com/watch?v=7ear6Y5PwIQ",
+      "thumbnail": "https://i.ytimg.com/vi/7ear6Y5PwIQ/mqdefault.jpg",
+      "published": "2026-09-30T15:35:18Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO  | RÁDIO GRENAL | 30/09/2026",
       "videoId": "Oq6L7OKtjp8",
       "url": "https://www.youtube.com/watch?v=Oq6L7OKtjp8",
       "thumbnail": "https://i.ytimg.com/vi/Oq6L7OKtjp8/mqdefault_live.jpg",
       "published": "2026-09-30T11:01:55Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "29/09/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "Rwtbi70TsGc",
-      "url": "https://www.youtube.com/watch?v=Rwtbi70TsGc",
-      "thumbnail": "https://i.ytimg.com/vi/Rwtbi70TsGc/mqdefault.jpg",
-      "published": "2026-09-29T23:31:08Z"
     },
     {
       "channel": "Radio Imortal",
