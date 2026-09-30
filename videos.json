@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:00:47.040739+00:00",
+  "updated_at": "2026-09-30T15:34:22.443734+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "Foi assim que aconteceu a renovação do Pato.",
+      "videoId": "uB_KLmE4xbc",
+      "url": "https://www.youtube.com/watch?v=uB_KLmE4xbc",
+      "thumbnail": "https://i.ytimg.com/vi/uB_KLmE4xbc/mqdefault.jpg",
+      "published": "2026-09-30T15:32:47Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #078",
       "videoId": "W5CkKrDad-I",
       "url": "https://www.youtube.com/watch?v=W5CkKrDad-I",
       "thumbnail": "https://i.ytimg.com/vi/W5CkKrDad-I/mqdefault.jpg",
       "published": "2026-09-30T14:56:04Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "A discussão do menos pior.",
-      "videoId": "kOsoD3esqsw",
-      "url": "https://www.youtube.com/watch?v=kOsoD3esqsw",
-      "thumbnail": "https://i.ytimg.com/vi/kOsoD3esqsw/mqdefault.jpg",
-      "published": "2026-09-30T14:36:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Debate da RBS TV ao governo do RS, sessão do TSE e sabatina de Zucco | Sala de Eleição | 30/09/26",
+      "videoId": "SxaBM1fYt48",
+      "url": "https://www.youtube.com/watch?v=SxaBM1fYt48",
+      "thumbnail": "https://i.ytimg.com/vi/SxaBM1fYt48/mqdefault_live.jpg",
+      "published": "2026-09-30T15:01:21Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Falas de Lula sobre 'toque', supostas festas de Flávio Bolsonaro e mais | Timeline | 30/09/2026",
       "videoId": "xoPqGZSlSTE",
       "url": "https://www.youtube.com/watch?v=xoPqGZSlSTE",
       "thumbnail": "https://i.ytimg.com/vi/xoPqGZSlSTE/mqdefault_live.jpg",
       "published": "2026-09-30T13:55:24Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como a rede elétrica está se preparando para o crescimento das cidades? | Energia que Aproxima #02",
-      "videoId": "TTqhx-eaxdI",
-      "url": "https://www.youtube.com/watch?v=TTqhx-eaxdI",
-      "thumbnail": "https://i.ytimg.com/vi/TTqhx-eaxdI/mqdefault.jpg",
-      "published": "2026-09-30T13:54:10Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #166 — BRASILEIRÃO PARALISADO? | ATUALIZAÇÕES DOS TREINOS DO GRÊMIO",
+      "videoId": "pju3KZaw_NM",
+      "url": "https://www.youtube.com/watch?v=pju3KZaw_NM",
+      "thumbnail": "https://i.ytimg.com/vi/pju3KZaw_NM/mqdefault.jpg",
+      "published": "2026-09-30T15:03:52Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "QUAL SERÁ O NOVO GRÊMIO DE RENATO?  | COMO É BOM SER DO GRÊMIO #53",
       "videoId": "ZuFMZGmhsoI",
       "url": "https://www.youtube.com/watch?v=ZuFMZGmhsoI",
       "thumbnail": "https://i.ytimg.com/vi/ZuFMZGmhsoI/mqdefault_live.jpg",
       "published": "2026-09-30T14:06:56Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #166 — BRASILEIRÃO PARALISADO? | ATUALIZAÇÕES DOS TREINOS DO GRÊMIO",
-      "videoId": "pju3KZaw_NM",
-      "url": "https://www.youtube.com/watch?v=pju3KZaw_NM",
-      "thumbnail": "https://i.ytimg.com/vi/pju3KZaw_NM/mqdefault_live.jpg",
-      "published": "2026-09-30T14:06:53Z"
     }
   ]
 }
