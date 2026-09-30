@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:29:57.312427+00:00",
+  "updated_at": "2026-09-30T21:00:40.836317+00:00",
   "total": 30,
   "videos": [
     {
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "POR QUE PAULO BRITO NUNCA MAIS PISOU NA REDAÇÃO DA RBS? | Cortes do Duda",
+      "videoId": "BrJCxsf46hw",
+      "url": "https://www.youtube.com/watch?v=BrJCxsf46hw",
+      "thumbnail": "https://i.ytimg.com/vi/BrJCxsf46hw/mqdefault.jpg",
+      "published": "2026-09-30T21:00:21Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 30.09 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "SBrvwheb-I4",
       "url": "https://www.youtube.com/watch?v=SBrvwheb-I4",
       "thumbnail": "https://i.ytimg.com/vi/SBrvwheb-I4/mqdefault_live.jpg",
       "published": "2026-09-30T13:02:45Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "PAULO BRITO DECEPCIONADO COM GALVÃO BUENO? ENTENDA O QUE ACONTECEU | Cortes do Duda",
-      "videoId": "_L-lrGnVb1E",
-      "url": "https://www.youtube.com/watch?v=_L-lrGnVb1E",
-      "thumbnail": "https://i.ytimg.com/vi/_L-lrGnVb1E/mqdefault.jpg",
-      "published": "2026-09-29T21:00:18Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Baptista Jr.: quem é o comandante que se opôs à tentativa de golpe | Conversas Cruzadas | 30/09/26",
+      "videoId": "rA6JsUfhw7M",
+      "url": "https://www.youtube.com/watch?v=rA6JsUfhw7M",
+      "thumbnail": "https://i.ytimg.com/vi/rA6JsUfhw7M/mqdefault_live.jpg",
+      "published": "2026-09-30T20:32:07Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Voo para Israel é desviado após piloto ser atacado pelo copiloto",
       "videoId": "sgpZ35CFkkM",
       "url": "https://www.youtube.com/watch?v=sgpZ35CFkkM",
       "thumbnail": "https://i.ytimg.com/vi/sgpZ35CFkkM/mqdefault.jpg",
       "published": "2026-09-30T20:01:33Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Ataque em avião, entrevista com Silvana Covatti, notícias do RS e mais | Gaúcha+ | 30/09/2026",
-      "videoId": "q0Xu9NHowOk",
-      "url": "https://www.youtube.com/watch?v=q0Xu9NHowOk",
-      "thumbnail": "https://i.ytimg.com/vi/q0Xu9NHowOk/mqdefault_live.jpg",
-      "published": "2026-09-30T19:32:53Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "PREPARAÇÃO PARA RETORNO DO BRASILEIRO| ARBITRAGEM DO GRENAL DEFINIDA | NOITES DE GRÊMIO #156 - 30/09",
+      "videoId": "PLTnZvH8Q3E",
+      "url": "https://www.youtube.com/watch?v=PLTnZvH8Q3E",
+      "thumbnail": "https://i.ytimg.com/vi/PLTnZvH8Q3E/mqdefault_live.jpg",
+      "published": "2026-09-30T20:51:30Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ATUALIZANDO O NOTICIÁRIO DO GRÊMIO NA DATA FIFA | RENATO COMANDA TREINO TÁTICO | ESPLANADA",
       "videoId": "oi96iXOLvtI",
       "url": "https://www.youtube.com/watch?v=oi96iXOLvtI",
       "thumbnail": "https://i.ytimg.com/vi/oi96iXOLvtI/mqdefault.jpg",
       "published": "2026-09-30T19:35:10Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO EM BUSCA DO TIME IDEAL DO GRÊMIO | NOVIDADES DO TREINO DE HOJE | SIMULAÇÃO | IMORTAL FC",
-      "videoId": "zpngGac8Yyc",
-      "url": "https://www.youtube.com/watch?v=zpngGac8Yyc",
-      "thumbnail": "https://i.ytimg.com/vi/zpngGac8Yyc/mqdefault_live.jpg",
-      "published": "2026-09-30T17:49:48Z"
     }
   ]
 }
