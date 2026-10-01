@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:00:59.942127+00:00",
+  "updated_at": "2026-10-01T13:00:42.580042+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 01/10 - #646",
+      "title": "GRÊMIO FICOU SEM RECEBER VALORES DA PITACO🔵 FUTEBOL ALEGRIA DO GRÊMIO - 01/10 - #646",
       "videoId": "V0xliS8NO-0",
       "url": "https://www.youtube.com/watch?v=V0xliS8NO-0",
       "thumbnail": "https://i.ytimg.com/vi/V0xliS8NO-0/mqdefault_live.jpg",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "O vestibular de Renato no Grêmio | Alberto Guerra volta a falar",
+      "videoId": "xtr5kT6fiK8",
+      "url": "https://www.youtube.com/watch?v=xtr5kT6fiK8",
+      "thumbnail": "https://i.ytimg.com/vi/xtr5kT6fiK8/mqdefault.jpg",
+      "published": "2026-10-01T12:34:16Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #691: Boas novidades no treino | Noriega | Villasanti | Arbitragem | Recebimento",
       "videoId": "XOEanW97MAE",
       "url": "https://www.youtube.com/watch?v=XOEanW97MAE",
@@ -59,12 +67,12 @@
       "published": "2026-09-30T22:12:49Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Zagueiro ex-Inter se destaca no Grêmio | Investimentos na base | Polêmica entre gestores",
-      "videoId": "z3YFP-aweOc",
-      "url": "https://www.youtube.com/watch?v=z3YFP-aweOc",
-      "thumbnail": "https://i.ytimg.com/vi/z3YFP-aweOc/mqdefault.jpg",
-      "published": "2026-09-30T12:28:11Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #029",
+      "videoId": "T3q0oLpJ2As",
+      "url": "https://www.youtube.com/watch?v=T3q0oLpJ2As",
+      "thumbnail": "https://i.ytimg.com/vi/T3q0oLpJ2As/mqdefault_live.jpg",
+      "published": "2026-10-01T12:53:27Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=nZiGoyMGlPA",
       "thumbnail": "https://i.ytimg.com/vi/nZiGoyMGlPA/mqdefault.jpg",
       "published": "2026-10-01T11:43:38Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #029",
-      "videoId": "T3q0oLpJ2As",
-      "url": "https://www.youtube.com/watch?v=T3q0oLpJ2As",
-      "thumbnail": "https://i.ytimg.com/vi/T3q0oLpJ2As/mqdefault_live.jpg",
-      "published": "2026-10-01T11:40:43Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 01.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "7TaM8RB7RAM",
+      "url": "https://www.youtube.com/watch?v=7TaM8RB7RAM",
+      "thumbnail": "https://i.ytimg.com/vi/7TaM8RB7RAM/mqdefault_live.jpg",
+      "published": "2026-10-01T12:01:09Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 02.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "KHfh_pPQF5Q",
       "url": "https://www.youtube.com/watch?v=KHfh_pPQF5Q",
       "thumbnail": "https://i.ytimg.com/vi/KHfh_pPQF5Q/mqdefault_live.jpg",
       "published": "2026-10-01T11:05:44Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "HOSPÍCIO | 01.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
-      "videoId": "7TaM8RB7RAM",
-      "url": "https://www.youtube.com/watch?v=7TaM8RB7RAM",
-      "thumbnail": "https://i.ytimg.com/vi/7TaM8RB7RAM/mqdefault_live.jpg",
-      "published": "2026-10-01T11:04:26Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: A RESENHA E AS NOVAS DE GRÊMIO E INTER",
       "videoId": "UtAiDRUY2O4",
       "url": "https://www.youtube.com/watch?v=UtAiDRUY2O4",
-      "thumbnail": "https://i.ytimg.com/vi/UtAiDRUY2O4/mqdefault_live.jpg",
-      "published": "2026-10-01T11:02:32Z"
+      "thumbnail": "https://i.ytimg.com/vi/UtAiDRUY2O4/mqdefault.jpg",
+      "published": "2026-10-01T12:32:59Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "CAFÉ COM A IMORTAL #34 — OS POSSÍVEIS RETORNOS DO GRÊMIO CONTRA O REMO",
       "videoId": "Ywp-lIWi3HM",
       "url": "https://www.youtube.com/watch?v=Ywp-lIWi3HM",
-      "thumbnail": "https://i.ytimg.com/vi/Ywp-lIWi3HM/mqdefault_live.jpg",
-      "published": "2026-10-01T10:08:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/Ywp-lIWi3HM/mqdefault.jpg",
+      "published": "2026-10-01T12:38:57Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "QUAL SERÁ O NOVO GRÊMIO DE RENATO?  | COMO É BOM SER DO GRÊMIO #53",
-      "videoId": "ZuFMZGmhsoI",
-      "url": "https://www.youtube.com/watch?v=ZuFMZGmhsoI",
-      "thumbnail": "https://i.ytimg.com/vi/ZuFMZGmhsoI/mqdefault.jpg",
-      "published": "2026-10-01T02:11:22Z"
+      "title": "GRÊMIO AVALIA LOGÍSTICA PARA TER VILLASANTI CONTRA O REMO | COMO É BOM SER DO GRÊMIO #54",
+      "videoId": "lR1O9E0P3ow",
+      "url": "https://www.youtube.com/watch?v=lR1O9E0P3ow",
+      "thumbnail": "https://i.ytimg.com/vi/lR1O9E0P3ow/mqdefault_live.jpg",
+      "published": "2026-10-01T12:31:33Z"
     }
   ]
 }
