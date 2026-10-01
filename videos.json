@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-01T19:00:44.898662+00:00",
+  "updated_at": "2026-10-01T20:00:42.535290+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 BAPTISTA ESTÁ PREOCUPADO! | REFORÇO COMEMORADO! | RETA DECISIVA",
+      "videoId": "YUeZXQ8if74",
+      "url": "https://www.youtube.com/watch?v=YUeZXQ8if74",
+      "thumbnail": "https://i.ytimg.com/vi/YUeZXQ8if74/mqdefault.jpg",
+      "published": "2026-10-01T19:23:54Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 CARTADA POTENTE DA DIREÇÃO | IMBROGLIO COM CRUZEIRO | SANABRIA JOGA?",
@@ -11,20 +19,12 @@
       "published": "2026-10-01T05:24:44Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: TITULAR DEFINIDO! VILLASANTI EM BELÉM | REFORÇOS AVANÇAM | ORDEM DE RENATO",
-      "videoId": "acIACobOIMo",
-      "url": "https://www.youtube.com/watch?v=acIACobOIMo",
-      "thumbnail": "https://i.ytimg.com/vi/acIACobOIMo/mqdefault.jpg",
-      "published": "2026-10-01T05:00:19Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "PALMEIRAS DEVE AJUDAR RENATO PORTALUPPI 🔹 THE TARDE 🔹#232",
       "videoId": "LWi3_uFRWeA",
       "url": "https://www.youtube.com/watch?v=LWi3_uFRWeA",
-      "thumbnail": "https://i.ytimg.com/vi/LWi3_uFRWeA/mqdefault_live.jpg",
-      "published": "2026-10-01T18:37:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/LWi3_uFRWeA/mqdefault.jpg",
+      "published": "2026-10-01T19:57:01Z"
     },
     {
       "channel": "Bage TV",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "“É o cúmulo da hipocrisia”: comunicadores reagem a mensagens de Flávio Bolsonaro | Sala de Eleição",
-      "videoId": "EmGieZlyh4g",
-      "url": "https://www.youtube.com/watch?v=EmGieZlyh4g",
-      "thumbnail": "https://i.ytimg.com/vi/EmGieZlyh4g/mqdefault.jpg",
-      "published": "2026-10-01T18:45:23Z"
+      "title": "Execução com pentobarbital falha nos EUA: condenada sobrevive",
+      "videoId": "FuZ-U6BqPnc",
+      "url": "https://www.youtube.com/watch?v=FuZ-U6BqPnc",
+      "thumbnail": "https://i.ytimg.com/vi/FuZ-U6BqPnc/mqdefault.jpg",
+      "published": "2026-10-01T19:36:00Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "d1aFUyJXTUE",
       "url": "https://www.youtube.com/watch?v=d1aFUyJXTUE",
       "thumbnail": "https://i.ytimg.com/vi/d1aFUyJXTUE/mqdefault_live.jpg",
-      "published": "2026-10-01T18:00:47Z"
+      "published": "2026-10-01T19:33:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "PtLymCnbLI8",
       "url": "https://www.youtube.com/watch?v=PtLymCnbLI8",
       "thumbnail": "https://i.ytimg.com/vi/PtLymCnbLI8/mqdefault_live.jpg",
-      "published": "2026-10-01T18:31:18Z"
+      "published": "2026-10-01T19:32:11Z"
     },
     {
       "channel": "Radio Imortal",
