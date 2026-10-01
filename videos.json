@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T02:00:38.838491+00:00",
+  "updated_at": "2026-10-01T04:54:35.059951+00:00",
   "total": 30,
   "videos": [
     {
@@ -7,8 +7,8 @@
       "title": "🔵🔴 A Hora da Dupla: O FUTURO DO INTER SENDO DEFINIDO | NOVOS TIMES SENDO ENCAMINHADOS  | GRÊMIO",
       "videoId": "k7CSrr0H29Q",
       "url": "https://www.youtube.com/watch?v=k7CSrr0H29Q",
-      "thumbnail": "https://i.ytimg.com/vi/k7CSrr0H29Q/mqdefault_live.jpg",
-      "published": "2026-10-01T00:13:39Z"
+      "thumbnail": "https://i.ytimg.com/vi/k7CSrr0H29Q/mqdefault.jpg",
+      "published": "2026-10-01T04:18:21Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "LATERAIS TITULARES SÃO DÚVIDA EM BELÉM🔵 BOA NOITE GRÊMIO #034",
+      "videoId": "6GDCCkuHOIs",
+      "url": "https://www.youtube.com/watch?v=6GDCCkuHOIs",
+      "thumbnail": "https://i.ytimg.com/vi/6GDCCkuHOIs/mqdefault_live.jpg",
+      "published": "2026-10-01T02:02:20Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 BOA NOITE GRÊMIO #035",
       "videoId": "nL5fouSN7dU",
       "url": "https://www.youtube.com/watch?v=nL5fouSN7dU",
       "thumbnail": "https://i.ytimg.com/vi/nL5fouSN7dU/mqdefault_live.jpg",
       "published": "2026-10-01T00:53:19Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "LATERAIS TITULARES SÃO DÚVIDA EM BELÉM🔵 BOA NOITE GRÊMIO #034",
-      "videoId": "6GDCCkuHOIs",
-      "url": "https://www.youtube.com/watch?v=6GDCCkuHOIs",
-      "thumbnail": "https://i.ytimg.com/vi/6GDCCkuHOIs/mqdefault_live.jpg",
-      "published": "2026-10-01T00:33:19Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Debate da RBS TV ao governo do RS, sessão do TSE e sabatina de Zucco | Sala de Eleição | 30/09/26",
+      "videoId": "SxaBM1fYt48",
+      "url": "https://www.youtube.com/watch?v=SxaBM1fYt48",
+      "thumbnail": "https://i.ytimg.com/vi/SxaBM1fYt48/mqdefault.jpg",
+      "published": "2026-10-01T04:03:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Falas de Lula sobre 'toque', supostas festas de Flávio Bolsonaro e mais | Timeline | 30/09/2026",
       "videoId": "xoPqGZSlSTE",
       "url": "https://www.youtube.com/watch?v=xoPqGZSlSTE",
@@ -171,12 +179,12 @@
       "published": "2026-10-01T01:57:30Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Candidato faltar ao debate faz diferença? | Palanque Digital",
-      "videoId": "cEX-BXT4L0U",
-      "url": "https://www.youtube.com/watch?v=cEX-BXT4L0U",
-      "thumbnail": "https://i.ytimg.com/vi/cEX-BXT4L0U/mqdefault.jpg",
-      "published": "2026-10-01T00:00:18Z"
+      "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: A RESENHA E AS NOVAS DE GRÊMIO E INTER",
+      "videoId": "UtAiDRUY2O4",
+      "url": "https://www.youtube.com/watch?v=UtAiDRUY2O4",
+      "thumbnail": "https://i.ytimg.com/vi/UtAiDRUY2O4/mqdefault_live.jpg",
+      "published": "2026-10-01T02:32:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=9VFVc6vaxZ0",
       "thumbnail": "https://i.ytimg.com/vi/9VFVc6vaxZ0/mqdefault.jpg",
       "published": "2026-09-30T14:25:33Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: O FUTEBOL BRASILEIRO VAI PARAR?",
-      "videoId": "YfDtD0NEpgQ",
-      "url": "https://www.youtube.com/watch?v=YfDtD0NEpgQ",
-      "thumbnail": "https://i.ytimg.com/vi/YfDtD0NEpgQ/mqdefault.jpg",
-      "published": "2026-09-30T12:28:05Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "QUAL SERÁ O NOVO GRÊMIO DE RENATO?  | COMO É BOM SER DO GRÊMIO #53",
+      "videoId": "ZuFMZGmhsoI",
+      "url": "https://www.youtube.com/watch?v=ZuFMZGmhsoI",
+      "thumbnail": "https://i.ytimg.com/vi/ZuFMZGmhsoI/mqdefault.jpg",
+      "published": "2026-10-01T02:11:22Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PREPARAÇÃO PARA RETORNO DO BRASILEIRO| ARBITRAGEM DO GRENAL DEFINIDA | NOITES DE GRÊMIO #156 - 30/09",
       "videoId": "PLTnZvH8Q3E",
       "url": "https://www.youtube.com/watch?v=PLTnZvH8Q3E",
       "thumbnail": "https://i.ytimg.com/vi/PLTnZvH8Q3E/mqdefault.jpg",
       "published": "2026-10-01T01:04:59Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #167 — PARAGUAI NÃO LIBERA VILLASANTI | GRÊMIO TRABALHA EM DOIS TURNOS HOJE",
-      "videoId": "iHxQX-xgRqs",
-      "url": "https://www.youtube.com/watch?v=iHxQX-xgRqs",
-      "thumbnail": "https://i.ytimg.com/vi/iHxQX-xgRqs/mqdefault_live.jpg",
-      "published": "2026-10-01T00:27:34Z"
     }
   ]
 }
