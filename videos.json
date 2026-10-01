@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-01T00:00:39.581108+00:00",
+  "updated_at": "2026-10-01T00:19:36.523274+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O FUTURO DO INTER SENDO DEFINIDO | NOVOS TIMES SENDO ENCAMINHADOS  | GRÊMIO",
+      "videoId": "k7CSrr0H29Q",
+      "url": "https://www.youtube.com/watch?v=k7CSrr0H29Q",
+      "thumbnail": "https://i.ytimg.com/vi/k7CSrr0H29Q/mqdefault_live.jpg",
+      "published": "2026-10-01T00:13:39Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Renato GOSTA de joia de 18 anos! Conheça João Borne",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=7DdVC3wUu6w",
       "thumbnail": "https://i.ytimg.com/vi/7DdVC3wUu6w/mqdefault.jpg",
       "published": "2026-09-30T20:00:33Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 VEJA O QUE ELE FEZ NO TREINO | TIME MONTADO E IDEIA PRATICADA | POSICIONAMENTO DE ALAN",
-      "videoId": "oM3-mL3kIfA",
-      "url": "https://www.youtube.com/watch?v=oM3-mL3kIfA",
-      "thumbnail": "https://i.ytimg.com/vi/oM3-mL3kIfA/mqdefault.jpg",
-      "published": "2026-09-30T18:32:38Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #34 — OS POSSÍVEIS RETORNOS DO GRÊMIO CONTRA O REMO",
+      "videoId": "Ywp-lIWi3HM",
+      "url": "https://www.youtube.com/watch?v=Ywp-lIWi3HM",
+      "thumbnail": "https://i.ytimg.com/vi/Ywp-lIWi3HM/mqdefault_live.jpg",
+      "published": "2026-10-01T00:17:43Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "PREPARAÇÃO PARA RETORNO DO BRASILEIRO| ARBITRAGEM DO GRENAL DEFINIDA | NOITES DE GRÊMIO #156 - 30/09",
       "videoId": "PLTnZvH8Q3E",
       "url": "https://www.youtube.com/watch?v=PLTnZvH8Q3E",
       "thumbnail": "https://i.ytimg.com/vi/PLTnZvH8Q3E/mqdefault_live.jpg",
       "published": "2026-10-01T00:00:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO EM BUSCA DO TIME IDEAL DO GRÊMIO | NOVIDADES DO TREINO DE HOJE | SIMULAÇÃO | IMORTAL FC",
-      "videoId": "zpngGac8Yyc",
-      "url": "https://www.youtube.com/watch?v=zpngGac8Yyc",
-      "thumbnail": "https://i.ytimg.com/vi/zpngGac8Yyc/mqdefault.jpg",
-      "published": "2026-09-30T22:15:30Z"
     }
   ]
 }
