@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:00:41.322318+00:00",
+  "updated_at": "2026-10-01T11:00:47.167034+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO  | RÁDIO GRENAL | 01/10/2026",
+      "videoId": "6rMZmRplpKA",
+      "url": "https://www.youtube.com/watch?v=6rMZmRplpKA",
+      "thumbnail": "https://i.ytimg.com/vi/6rMZmRplpKA/mqdefault_live.jpg",
+      "published": "2026-10-01T10:23:43Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA  | RÁDIO GRENAL | 30/09/2026",
       "videoId": "Oq6L7OKtjp8",
       "url": "https://www.youtube.com/watch?v=Oq6L7OKtjp8",
@@ -219,12 +227,12 @@
       "published": "2026-09-30T23:25:52Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "ENTRADA LIVRE AOS SÓCIOS! 🇮🇩🏟️",
-      "videoId": "7ear6Y5PwIQ",
-      "url": "https://www.youtube.com/watch?v=7ear6Y5PwIQ",
-      "thumbnail": "https://i.ytimg.com/vi/7ear6Y5PwIQ/mqdefault.jpg",
-      "published": "2026-09-30T15:35:18Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #34 — OS POSSÍVEIS RETORNOS DO GRÊMIO CONTRA O REMO",
+      "videoId": "Ywp-lIWi3HM",
+      "url": "https://www.youtube.com/watch?v=Ywp-lIWi3HM",
+      "thumbnail": "https://i.ytimg.com/vi/Ywp-lIWi3HM/mqdefault_live.jpg",
+      "published": "2026-10-01T10:08:53Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=ZuFMZGmhsoI",
       "thumbnail": "https://i.ytimg.com/vi/ZuFMZGmhsoI/mqdefault.jpg",
       "published": "2026-10-01T02:11:22Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PREPARAÇÃO PARA RETORNO DO BRASILEIRO| ARBITRAGEM DO GRENAL DEFINIDA | NOITES DE GRÊMIO #156 - 30/09",
-      "videoId": "PLTnZvH8Q3E",
-      "url": "https://www.youtube.com/watch?v=PLTnZvH8Q3E",
-      "thumbnail": "https://i.ytimg.com/vi/PLTnZvH8Q3E/mqdefault.jpg",
-      "published": "2026-10-01T01:04:59Z"
     }
   ]
 }
