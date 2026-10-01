@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:00:52.347343+00:00",
+  "updated_at": "2026-10-01T15:58:28.883432+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #25",
+      "videoId": "hoZrf1VHCzo",
+      "url": "https://www.youtube.com/watch?v=hoZrf1VHCzo",
+      "thumbnail": "https://i.ytimg.com/vi/hoZrf1VHCzo/mqdefault_live.jpg",
+      "published": "2026-10-01T15:43:55Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #030",
       "videoId": "rGaXLzqezOU",
       "url": "https://www.youtube.com/watch?v=rGaXLzqezOU",
       "thumbnail": "https://i.ytimg.com/vi/rGaXLzqezOU/mqdefault_live.jpg",
       "published": "2026-10-01T13:09:15Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #029",
-      "videoId": "T3q0oLpJ2As",
-      "url": "https://www.youtube.com/watch?v=T3q0oLpJ2As",
-      "thumbnail": "https://i.ytimg.com/vi/T3q0oLpJ2As/mqdefault_live.jpg",
-      "published": "2026-10-01T12:53:27Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Reta final das eleições, destaques da política e mais | Sala de Eleição | 01/10/26",
+      "videoId": "QCOmxQrgP08",
+      "url": "https://www.youtube.com/watch?v=QCOmxQrgP08",
+      "thumbnail": "https://i.ytimg.com/vi/QCOmxQrgP08/mqdefault_live.jpg",
+      "published": "2026-10-01T15:02:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Gaúcha Atualidade | 02/10/2026",
       "videoId": "3jajO8PUrn8",
       "url": "https://www.youtube.com/watch?v=3jajO8PUrn8",
       "thumbnail": "https://i.ytimg.com/vi/3jajO8PUrn8/mqdefault_live.jpg",
       "published": "2026-10-01T14:33:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline | 02/10/2026",
-      "videoId": "LWk-s6wEe6Q",
-      "url": "https://www.youtube.com/watch?v=LWk-s6wEe6Q",
-      "thumbnail": "https://i.ytimg.com/vi/LWk-s6wEe6Q/mqdefault_live.jpg",
-      "published": "2026-10-01T14:30:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #167 — PARAGUAI NÃO LIBERA VILLASANTI | GRÊMIO TRABALHA EM DOIS TURNOS HOJE",
       "videoId": "iHxQX-xgRqs",
       "url": "https://www.youtube.com/watch?v=iHxQX-xgRqs",
-      "thumbnail": "https://i.ytimg.com/vi/iHxQX-xgRqs/mqdefault_live.jpg",
-      "published": "2026-10-01T15:00:30Z"
+      "thumbnail": "https://i.ytimg.com/vi/iHxQX-xgRqs/mqdefault.jpg",
+      "published": "2026-10-01T15:04:32Z"
     },
     {
       "channel": "Radio Imortal",
