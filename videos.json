@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-02T00:00:36.037552+00:00",
+  "updated_at": "2026-10-02T00:29:43.502607+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  DATA FIFA CHEGOU AO FIM | REPERCUSSÃO DA SABATINA DO INTER",
+      "videoId": "Ai5fb9RVjXM",
+      "url": "https://www.youtube.com/watch?v=Ai5fb9RVjXM",
+      "thumbnail": "https://i.ytimg.com/vi/Ai5fb9RVjXM/mqdefault_live.jpg",
+      "published": "2026-10-02T00:09:50Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Tiaguinho joga por VAGA no time de Renato!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=27iYkpDa-Ps",
       "thumbnail": "https://i.ytimg.com/vi/27iYkpDa-Ps/mqdefault.jpg",
       "published": "2026-10-01T20:00:23Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 BAPTISTA ESTÁ PREOCUPADO! | REFORÇO COMEMORADO! | RETA DECISIVA",
-      "videoId": "YUeZXQ8if74",
-      "url": "https://www.youtube.com/watch?v=YUeZXQ8if74",
-      "thumbnail": "https://i.ytimg.com/vi/YUeZXQ8if74/mqdefault.jpg",
-      "published": "2026-10-01T19:23:54Z"
     },
     {
       "channel": "Bage TV",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VILLA VAI PRO JOGO | GRÊMIO TERÁ TESTE AMANHÃ | NOITES DE GRÊMIO #157 - 01/10",
+      "videoId": "jo4YHTKiFqc",
+      "url": "https://www.youtube.com/watch?v=jo4YHTKiFqc",
+      "thumbnail": "https://i.ytimg.com/vi/jo4YHTKiFqc/mqdefault_live.jpg",
+      "published": "2026-10-02T00:00:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #168 — DE OLHO NO GRENAL DA BASE! | O JOGO-TREINO DO GRÊMIO HOJE PELA TARDE",
       "videoId": "TMcB1RUGVME",
       "url": "https://www.youtube.com/watch?v=TMcB1RUGVME",
       "thumbnail": "https://i.ytimg.com/vi/TMcB1RUGVME/mqdefault_live.jpg",
       "published": "2026-10-01T22:57:36Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO ESBOÇA O TIME DO GRÊMIO PARA O RETORNO AO BRASILEIRÃO — COMO É BOM SER DO GRÊMIO #55",
-      "videoId": "XwwvMStGMVs",
-      "url": "https://www.youtube.com/watch?v=XwwvMStGMVs",
-      "thumbnail": "https://i.ytimg.com/vi/XwwvMStGMVs/mqdefault_live.jpg",
-      "published": "2026-10-01T22:51:36Z"
     }
   ]
 }
