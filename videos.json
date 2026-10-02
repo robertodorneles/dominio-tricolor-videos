@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:00:47.829888+00:00",
+  "updated_at": "2026-10-02T02:00:39.518537+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #029",
+      "videoId": "T3q0oLpJ2As",
+      "url": "https://www.youtube.com/watch?v=T3q0oLpJ2As",
+      "thumbnail": "https://i.ytimg.com/vi/T3q0oLpJ2As/mqdefault.jpg",
+      "published": "2026-10-02T01:01:36Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "fhyghg",
       "videoId": "bAY1HQOHqkE",
       "url": "https://www.youtube.com/watch?v=bAY1HQOHqkE",
       "thumbnail": "https://i.ytimg.com/vi/bAY1HQOHqkE/mqdefault_live.jpg",
       "published": "2026-10-01T23:41:52Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 01/10/2026",
-      "videoId": "tl_c28ls-dE",
-      "url": "https://www.youtube.com/watch?v=tl_c28ls-dE",
-      "thumbnail": "https://i.ytimg.com/vi/tl_c28ls-dE/mqdefault_live.jpg",
-      "published": "2026-10-01T23:06:45Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Expectativas para o 1º turno das eleições, últimas da política e mais | Timeline | 01/10/2026",
+      "videoId": "YSkG6bMMvQ4",
+      "url": "https://www.youtube.com/watch?v=YSkG6bMMvQ4",
+      "thumbnail": "https://i.ytimg.com/vi/YSkG6bMMvQ4/mqdefault.jpg",
+      "published": "2026-10-02T01:57:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "LITO SOUZA MORRE AOS 59 ANOS: relembre trajetória do influenciador",
       "videoId": "0eUcVrOFLKg",
       "url": "https://www.youtube.com/watch?v=0eUcVrOFLKg",
       "thumbnail": "https://i.ytimg.com/vi/0eUcVrOFLKg/mqdefault.jpg",
       "published": "2026-10-01T21:47:13Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Lula x Flávio Bolsonaro; 11 fatos que marcaram a campanha | Andei Pensando | 01/10/2026",
-      "videoId": "RzohZmeTI5E",
-      "url": "https://www.youtube.com/watch?v=RzohZmeTI5E",
-      "thumbnail": "https://i.ytimg.com/vi/RzohZmeTI5E/mqdefault.jpg",
-      "published": "2026-10-01T21:00:33Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "jo4YHTKiFqc",
       "url": "https://www.youtube.com/watch?v=jo4YHTKiFqc",
       "thumbnail": "https://i.ytimg.com/vi/jo4YHTKiFqc/mqdefault_live.jpg",
-      "published": "2026-10-02T00:00:24Z"
+      "published": "2026-10-02T01:31:30Z"
     },
     {
       "channel": "Radio Imortal",
