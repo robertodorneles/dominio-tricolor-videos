@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:00:54.030460+00:00",
+  "updated_at": "2026-10-02T15:19:03.059506+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "FORAM RETOMADAS AS NEGOCIAÇÕES! VALORES #luiscastro #futebol #gremio",
+      "videoId": "0EQXCU8yRgM",
+      "url": "https://www.youtube.com/watch?v=0EQXCU8yRgM",
+      "thumbnail": "https://i.ytimg.com/vi/0EQXCU8yRgM/mqdefault.jpg",
+      "published": "2026-10-02T15:00:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VÃO JOGAR! TIME | LUIS CASTRO VEIO RECEBER: VALORES PARA O GRÊMIO.",
       "videoId": "Q229MWXOkuk",
       "url": "https://www.youtube.com/watch?v=Q229MWXOkuk",
       "thumbnail": "https://i.ytimg.com/vi/Q229MWXOkuk/mqdefault.jpg",
       "published": "2026-10-01T21:27:49Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NÃO RECEBEU NADA💰 PATROCÍNIO SEGUE CONGELADO ATÉ ALGUMA DEFINIÇÃO. @blascortintas #gremio #futebol",
-      "videoId": "pPegwdRmQ8k",
-      "url": "https://www.youtube.com/watch?v=pPegwdRmQ8k",
-      "thumbnail": "https://i.ytimg.com/vi/pPegwdRmQ8k/mqdefault.jpg",
-      "published": "2026-10-01T17:00:24Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #168 — DE OLHO NO GRENAL DA BASE! | O JOGO-TREINO DO GRÊMIO HOJE PELA TARDE",
+      "videoId": "TMcB1RUGVME",
+      "url": "https://www.youtube.com/watch?v=TMcB1RUGVME",
+      "thumbnail": "https://i.ytimg.com/vi/TMcB1RUGVME/mqdefault.jpg",
+      "published": "2026-10-02T15:07:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "REPERCUSSÕES DO JOGO-TREINO DO GRÊMIO | A BASE AVALIADA POR RENATO | IMORTAL FC",
       "videoId": "pJeck_Ah20I",
       "url": "https://www.youtube.com/watch?v=pJeck_Ah20I",
       "thumbnail": "https://i.ytimg.com/vi/pJeck_Ah20I/mqdefault_live.jpg",
       "published": "2026-10-02T14:32:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #168 — DE OLHO NO GRENAL DA BASE! | O JOGO-TREINO DO GRÊMIO HOJE PELA TARDE",
-      "videoId": "TMcB1RUGVME",
-      "url": "https://www.youtube.com/watch?v=TMcB1RUGVME",
-      "thumbnail": "https://i.ytimg.com/vi/TMcB1RUGVME/mqdefault_live.jpg",
-      "published": "2026-10-02T14:03:52Z"
     }
   ]
 }
