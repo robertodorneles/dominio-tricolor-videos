@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:00:43.750175+00:00",
+  "updated_at": "2026-10-02T11:00:40.641491+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #141",
+      "title": "RENATO PROJETA TIME COM 3 VOLANTES 🌅🔵 BOM DIA GRÊMIO #141",
       "videoId": "1EWlVDHMaTs",
       "url": "https://www.youtube.com/watch?v=1EWlVDHMaTs",
       "thumbnail": "https://i.ytimg.com/vi/1EWlVDHMaTs/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 02/10/2026",
+      "videoId": "3jajO8PUrn8",
+      "url": "https://www.youtube.com/watch?v=3jajO8PUrn8",
+      "thumbnail": "https://i.ytimg.com/vi/3jajO8PUrn8/mqdefault_live.jpg",
+      "published": "2026-10-02T10:56:56Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Entrevista com Ernani Polo, caso de mãe e filha mortas em Candelária e mais | Gaúcha+ | 01/10/2026",
       "videoId": "d1aFUyJXTUE",
       "url": "https://www.youtube.com/watch?v=d1aFUyJXTUE",
       "thumbnail": "https://i.ytimg.com/vi/d1aFUyJXTUE/mqdefault.jpg",
       "published": "2026-10-02T07:37:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Reta final das eleições, Lula não vai ao debate da Globo e mais | Sala de Eleição | 01/10/26",
-      "videoId": "QCOmxQrgP08",
-      "url": "https://www.youtube.com/watch?v=QCOmxQrgP08",
-      "thumbnail": "https://i.ytimg.com/vi/QCOmxQrgP08/mqdefault.jpg",
-      "published": "2026-10-02T04:01:57Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA  | RÁDIO GRENAL | 01/10/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 02/10/2026",
       "videoId": "qZLuJFg7gio",
       "url": "https://www.youtube.com/watch?v=qZLuJFg7gio",
       "thumbnail": "https://i.ytimg.com/vi/qZLuJFg7gio/mqdefault_live.jpg",
       "published": "2026-10-01T23:02:21Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #35 — DIA DE TESTES IMPORTANTES PARA O GRÊMIO!",
+      "videoId": "9RwM_Vonufg",
+      "url": "https://www.youtube.com/watch?v=9RwM_Vonufg",
+      "thumbnail": "https://i.ytimg.com/vi/9RwM_Vonufg/mqdefault_live.jpg",
+      "published": "2026-10-02T10:04:14Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=PtLymCnbLI8",
       "thumbnail": "https://i.ytimg.com/vi/PtLymCnbLI8/mqdefault.jpg",
       "published": "2026-10-02T07:34:09Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VILLA VAI PRO JOGO | GRÊMIO TERÁ TESTE AMANHÃ | NOITES DE GRÊMIO #157 - 01/10",
-      "videoId": "jo4YHTKiFqc",
-      "url": "https://www.youtube.com/watch?v=jo4YHTKiFqc",
-      "thumbnail": "https://i.ytimg.com/vi/jo4YHTKiFqc/mqdefault_live.jpg",
-      "published": "2026-10-02T01:31:30Z"
     }
   ]
 }
