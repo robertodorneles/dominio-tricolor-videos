@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:07:33.999207+00:00",
+  "updated_at": "2026-10-03T15:00:40.786143+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,11 +68,11 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "Ao Vivo | Clube Tricolor | Grêmio do Renato, Remo x Grêmio que esperar |  Programa #01",
-      "videoId": "o9EJQapnrJo",
-      "url": "https://www.youtube.com/watch?v=o9EJQapnrJo",
-      "thumbnail": "https://i.ytimg.com/vi/o9EJQapnrJo/mqdefault_live.jpg",
-      "published": "2026-10-03T13:14:30Z"
+      "title": "ENTREVISTA COM JOGADOR DUBLÊ - \"FALA, COSTA!\" #12",
+      "videoId": "7rvr9NiJRrM",
+      "url": "https://www.youtube.com/watch?v=7rvr9NiJRrM",
+      "thumbnail": "https://i.ytimg.com/vi/7rvr9NiJRrM/mqdefault.jpg",
+      "published": "2026-10-03T14:23:01Z"
     },
     {
       "channel": "Canal do Farid",
@@ -80,7 +80,7 @@
       "videoId": "LkGgj-ShTHY",
       "url": "https://www.youtube.com/watch?v=LkGgj-ShTHY",
       "thumbnail": "https://i.ytimg.com/vi/LkGgj-ShTHY/mqdefault_live.jpg",
-      "published": "2026-10-03T13:00:20Z"
+      "published": "2026-10-03T14:08:00Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "7 JOGADORES DE VOLTA EM 2027! | PROPOSTAS, RECUSAS E MAIS | O QUE FAZER?",
+      "videoId": "o3jsbeKbqOs",
+      "url": "https://www.youtube.com/watch?v=o3jsbeKbqOs",
+      "thumbnail": "https://i.ytimg.com/vi/o3jsbeKbqOs/mqdefault.jpg",
+      "published": "2026-10-03T14:10:07Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "R$ 60 MILHÕES POR TITULAR DO ELENCO? MIGUÉ OU VERDADE? | OS TESTES NO TIME FEITO POR RENATO",
       "videoId": "99r7defugJ8",
       "url": "https://www.youtube.com/watch?v=99r7defugJ8",
@@ -123,12 +131,12 @@
       "published": "2026-10-02T11:57:50Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE REMO x GRÊMIO DIRETO DO MANGUEIRÃO | BRASILEIRÃO | COLETIVAS | 07/10 #37",
-      "videoId": "mo6K9SdOD2o",
-      "url": "https://www.youtube.com/watch?v=mo6K9SdOD2o",
-      "thumbnail": "https://i.ytimg.com/vi/mo6K9SdOD2o/mqdefault_live.jpg",
-      "published": "2026-10-01T23:58:20Z"
+      "channel": "Duda Garbi",
+      "title": "QUEM TEM ENDOMETRIOSE AINDA PODE ENGRAVIDAR | Uma Aula Sobre… Endometriose",
+      "videoId": "n-UZ0rbyu8c",
+      "url": "https://www.youtube.com/watch?v=n-UZ0rbyu8c",
+      "thumbnail": "https://i.ytimg.com/vi/n-UZ0rbyu8c/mqdefault.jpg",
+      "published": "2026-10-03T14:30:12Z"
     },
     {
       "channel": "Duda Garbi",
@@ -137,14 +145,6 @@
       "url": "https://www.youtube.com/watch?v=9YWIM8PG-94",
       "thumbnail": "https://i.ytimg.com/vi/9YWIM8PG-94/mqdefault.jpg",
       "published": "2026-10-03T14:00:32Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "A ENDOMETRIOSE LEVA À INFERTILIDADE?  #dudagarbi #rafaelbarleze",
-      "videoId": "7nb_0ZH_bnA",
-      "url": "https://www.youtube.com/watch?v=7nb_0ZH_bnA",
-      "thumbnail": "https://i.ytimg.com/vi/7nb_0ZH_bnA/mqdefault.jpg",
-      "published": "2026-10-03T14:00:25Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "O Iluminado de Stephen King | uma história perturbadora",
+      "videoId": "h5bu2rZnEas",
+      "url": "https://www.youtube.com/watch?v=h5bu2rZnEas",
+      "thumbnail": "https://i.ytimg.com/vi/h5bu2rZnEas/mqdefault.jpg",
+      "published": "2026-10-03T14:28:26Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "O que faz um deputado? Entenda as funções do cargo | Zero Hora",
       "videoId": "yLEY7LQR6bY",
       "url": "https://www.youtube.com/watch?v=yLEY7LQR6bY",
       "thumbnail": "https://i.ytimg.com/vi/yLEY7LQR6bY/mqdefault.jpg",
       "published": "2026-10-03T14:00:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "DEBATE CANCELADO, OS R$ 20 BI DE VORCARO, FIM DAS BETS E TRETA DE TAXISTAS | RivoNews #151 (reprise)",
-      "videoId": "mAWtc9dM688",
-      "url": "https://www.youtube.com/watch?v=mAWtc9dM688",
-      "thumbnail": "https://i.ytimg.com/vi/mAWtc9dM688/mqdefault.jpg",
-      "published": "2026-10-03T12:00:10Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 02/10/2026",
+      "title": "AO VIVO | ESQUENTANDO O JOGO | GRÊMIO X INTER | GAUCHÃO FEMININO | 03/10/2026",
       "videoId": "oJGnjM6Hz80",
       "url": "https://www.youtube.com/watch?v=oJGnjM6Hz80",
       "thumbnail": "https://i.ytimg.com/vi/oJGnjM6Hz80/mqdefault_live.jpg",
