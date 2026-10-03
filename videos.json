@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:00:39.015025+00:00",
+  "updated_at": "2026-10-03T02:00:45.076892+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #030",
+      "videoId": "rGaXLzqezOU",
+      "url": "https://www.youtube.com/watch?v=rGaXLzqezOU",
+      "thumbnail": "https://i.ytimg.com/vi/rGaXLzqezOU/mqdefault.jpg",
+      "published": "2026-10-03T01:41:12Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 02/10/2026",
       "videoId": "ysfMujIVAEw",
       "url": "https://www.youtube.com/watch?v=ysfMujIVAEw",
       "thumbnail": "https://i.ytimg.com/vi/ysfMujIVAEw/mqdefault_live.jpg",
       "published": "2026-10-02T23:06:43Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #26",
-      "videoId": "P7M4La-u-Zw",
-      "url": "https://www.youtube.com/watch?v=P7M4La-u-Zw",
-      "thumbnail": "https://i.ytimg.com/vi/P7M4La-u-Zw/mqdefault_live.jpg",
-      "published": "2026-10-02T17:14:51Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -232,7 +232,7 @@
       "videoId": "fISJwWqzOog",
       "url": "https://www.youtube.com/watch?v=fISJwWqzOog",
       "thumbnail": "https://i.ytimg.com/vi/fISJwWqzOog/mqdefault_live.jpg",
-      "published": "2026-10-02T23:58:53Z"
+      "published": "2026-10-03T01:51:34Z"
     },
     {
       "channel": "Radio Imortal",
