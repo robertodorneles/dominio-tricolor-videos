@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-03T19:00:43.101033+00:00",
+  "updated_at": "2026-10-03T20:00:35.959864+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: PELO MENOS SETE SAIDAS | MERCADO VAI EMBORA? | QUEM FICA?",
+      "videoId": "6N6l6R4XHIg",
+      "url": "https://www.youtube.com/watch?v=6N6l6R4XHIg",
+      "thumbnail": "https://i.ytimg.com/vi/6N6l6R4XHIg/mqdefault.jpg",
+      "published": "2026-10-03T19:05:34Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: Renato TESTA Gustavo Martins em nova função! Mudanças no time contra o Remo",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=4C5Ou_zYMWM",
       "thumbnail": "https://i.ytimg.com/vi/4C5Ou_zYMWM/mqdefault.jpg",
       "published": "2026-10-03T05:00:20Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: UMA NOVA ERA PARA CARBONERO | O FIASCO DO GRENAL SUB20 | MAIS DESFALQUES",
-      "videoId": "zRttcO1U74Q",
-      "url": "https://www.youtube.com/watch?v=zRttcO1U74Q",
-      "thumbnail": "https://i.ytimg.com/vi/zRttcO1U74Q/mqdefault.jpg",
-      "published": "2026-10-03T04:39:45Z"
     },
     {
       "channel": "Bage TV",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨R$ 20 MILHÕES POR JOGADOR | JEFINHO E O INTER MIAMI | REFORÇO DE QUALIDADE",
+      "videoId": "_HEeLwP9yvs",
+      "url": "https://www.youtube.com/watch?v=_HEeLwP9yvs",
+      "thumbnail": "https://i.ytimg.com/vi/_HEeLwP9yvs/mqdefault.jpg",
+      "published": "2026-10-03T19:45:27Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨GRÊMIO LANÇA PLANO B | ELE TEM QUE JOGAR | ALTERNATIVAS SÃO PÉSSIMAS",
       "videoId": "AwrrdGjW1V4",
       "url": "https://www.youtube.com/watch?v=AwrrdGjW1V4",
@@ -203,16 +211,8 @@
       "published": "2026-10-01T16:53:38Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨ÓTIMA NOTÍCIA PARA O GRÊMIO | TIME SOBE DE PATAMAR | DE CARONA COM O PALMEIRAS",
-      "videoId": "8kp5RnvkjWM",
-      "url": "https://www.youtube.com/watch?v=8kp5RnvkjWM",
-      "thumbnail": "https://i.ytimg.com/vi/8kp5RnvkjWM/mqdefault.jpg",
-      "published": "2026-09-30T21:53:40Z"
-    },
-    {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO ESTÁDIO PASSO D'AREIA | GRÊMIO 0 X 0 INTER | GAUCHÃO FEMININO | 03/10/2026",
+      "title": "JORNADA COMPLETA | GRÊMIO 0 X 0 INTER | GAUCHÃO FEMININO | 03/10/2026",
       "videoId": "oJGnjM6Hz80",
       "url": "https://www.youtube.com/watch?v=oJGnjM6Hz80",
       "thumbnail": "https://i.ytimg.com/vi/oJGnjM6Hz80/mqdefault_live.jpg",
