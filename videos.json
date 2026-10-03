@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:00:37.991000+00:00",
+  "updated_at": "2026-10-03T23:00:53.185004+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "SURGEM 6 PROBLEMAS! | GRÊMIO ESCALADO CONTRA O REMO!",
+      "videoId": "Lug5SP4SWh0",
+      "url": "https://www.youtube.com/watch?v=Lug5SP4SWh0",
+      "thumbnail": "https://i.ytimg.com/vi/Lug5SP4SWh0/mqdefault.jpg",
+      "published": "2026-10-03T22:11:10Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "RENATO ABRIU O JOGO! \"INCRÍVEL\" SETE MESES SEM JOGAR E PRECISA TER VONTADE! #gremio #futebol",
       "videoId": "kGgRMn2qY2c",
       "url": "https://www.youtube.com/watch?v=kGgRMn2qY2c",
       "thumbnail": "https://i.ytimg.com/vi/kGgRMn2qY2c/mqdefault.jpg",
       "published": "2026-10-03T15:59:34Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "WALLACE E A EUROPA. VALORES DE COMPRA E VENDA? @blascortintas#gremio #futebol",
-      "videoId": "t9Fb1KeDkLk",
-      "url": "https://www.youtube.com/watch?v=t9Fb1KeDkLk",
-      "thumbnail": "https://i.ytimg.com/vi/t9Fb1KeDkLk/mqdefault.jpg",
-      "published": "2026-10-03T15:00:25Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "COLETIVA PÓS JOGO | GRÊMIO 0 X 0 INTERNACIONAL (CAMPEONATO GAÚCHO FEMININO)",
+      "videoId": "806W153rA1o",
+      "url": "https://www.youtube.com/watch?v=806W153rA1o",
+      "thumbnail": "https://i.ytimg.com/vi/806W153rA1o/mqdefault.jpg",
+      "published": "2026-10-03T22:09:54Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO FEMININO I 2026)",
       "videoId": "Ov7MZ4Pb-vY",
       "url": "https://www.youtube.com/watch?v=Ov7MZ4Pb-vY",
@@ -155,20 +163,12 @@
       "published": "2026-10-03T20:13:57Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "\"EU COBRO MUITO A ENTREGA DOS ATLETAS\" - ENTREVISTA EXCLUSIVA COM RENATO PORTALUPPI",
-      "videoId": "SdMZOktwgT4",
-      "url": "https://www.youtube.com/watch?v=SdMZOktwgT4",
-      "thumbnail": "https://i.ytimg.com/vi/SdMZOktwgT4/mqdefault.jpg",
-      "published": "2026-10-03T13:00:28Z"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "Bate-bola: as respostas sem filtro de um barbeiro | Paralelas",
-      "videoId": "NWRYW9pefRw",
-      "url": "https://www.youtube.com/watch?v=NWRYW9pefRw",
-      "thumbnail": "https://i.ytimg.com/vi/NWRYW9pefRw/mqdefault.jpg",
-      "published": "2026-10-03T22:00:22Z"
+      "title": "O que acontece se eu votar em branco? Entenda | Zero Hora",
+      "videoId": "WIc_t26cEVc",
+      "url": "https://www.youtube.com/watch?v=WIc_t26cEVc",
+      "thumbnail": "https://i.ytimg.com/vi/WIc_t26cEVc/mqdefault.jpg",
+      "published": "2026-10-03T23:00:28Z"
     },
     {
       "channel": "GZH Digital",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
+      "videoId": "UpJMrKcM9NM",
+      "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
+      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault_live.jpg",
+      "published": "2026-10-03T22:35:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪🗣️ RENATO FALA SOBRE A UTILIZAÇÃO DOS GAROTOS DA BASE!",
       "videoId": "1iBvJaP7sec",
       "url": "https://www.youtube.com/watch?v=1iBvJaP7sec",
       "thumbnail": "https://i.ytimg.com/vi/1iBvJaP7sec/mqdefault.jpg",
       "published": "2026-10-03T17:07:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ RENATO FALA SOBRE O PERÍODO DE TREINAMENTOS!",
-      "videoId": "9LSRjoK_P7Q",
-      "url": "https://www.youtube.com/watch?v=9LSRjoK_P7Q",
-      "thumbnail": "https://i.ytimg.com/vi/9LSRjoK_P7Q/mqdefault.jpg",
-      "published": "2026-10-03T15:42:02Z"
     }
   ]
 }
