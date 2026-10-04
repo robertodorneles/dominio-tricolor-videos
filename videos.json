@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-04T09:00:40.582254+00:00",
+  "updated_at": "2026-10-04T10:00:41.591614+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: UM GRANDE PROBLEMA | A PRIORIDADE DE BAPTISTA | BASE GANHA GRENAIS",
+      "videoId": "XaetxU6WmFg",
+      "url": "https://www.youtube.com/watch?v=XaetxU6WmFg",
+      "thumbnail": "https://i.ytimg.com/vi/XaetxU6WmFg/mqdefault.jpg",
+      "published": "2026-10-04T09:19:58Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: Jogadores sentem GRANDE MUDANÇA com Renato! Técnico chama jovens da base",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=_JbPp1sjkm8",
       "thumbnail": "https://i.ytimg.com/vi/_JbPp1sjkm8/mqdefault.jpg",
       "published": "2026-10-04T05:00:33Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: PELO MENOS SETE SAIDAS | MERCADO VAI EMBORA? | QUEM FICA?",
-      "videoId": "6N6l6R4XHIg",
-      "url": "https://www.youtube.com/watch?v=6N6l6R4XHIg",
-      "thumbnail": "https://i.ytimg.com/vi/6N6l6R4XHIg/mqdefault.jpg",
-      "published": "2026-10-03T19:05:34Z"
     },
     {
       "channel": "Bage TV",
