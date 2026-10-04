@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:00:35.495842+00:00",
+  "updated_at": "2026-10-04T13:00:34.864539+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
+      "videoId": "UpJMrKcM9NM",
+      "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
+      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault_live.jpg",
+      "published": "2026-10-04T12:01:04Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO GOLEIA EM JOGO-TREINO E RENATO TESTA ESCALAÇÃO | AS DÚVIDAS PERMANECEM | PLANTÃO IMORTAL",
       "videoId": "g66SGOe1Xsw",
       "url": "https://www.youtube.com/watch?v=g66SGOe1Xsw",
       "thumbnail": "https://i.ytimg.com/vi/g66SGOe1Xsw/mqdefault.jpg",
       "published": "2026-10-04T01:59:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
-      "videoId": "UpJMrKcM9NM",
-      "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
-      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault_live.jpg",
-      "published": "2026-10-03T22:35:54Z"
     }
   ]
 }
