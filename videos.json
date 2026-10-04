@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T14:00:43.866055+00:00",
+  "updated_at": "2026-10-04T14:35:51.517490+00:00",
   "total": 30,
   "videos": [
     {
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "A REGRA DA CBF QUE FARÁ O GRÊMIO MUDAR MUITO | O PROBLEMA PENSANDO NO GRENAL",
+      "videoId": "xkotQ_PyKIM",
+      "url": "https://www.youtube.com/watch?v=xkotQ_PyKIM",
+      "thumbnail": "https://i.ytimg.com/vi/xkotQ_PyKIM/mqdefault.jpg",
+      "published": "2026-10-04T14:05:18Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "7 JOGADORES DE VOLTA EM 2027! | PROPOSTAS, RECUSAS E MAIS | O QUE FAZER?",
       "videoId": "o3jsbeKbqOs",
       "url": "https://www.youtube.com/watch?v=o3jsbeKbqOs",
@@ -123,28 +131,20 @@
       "published": "2026-10-03T14:10:07Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "R$ 60 MILHÕES POR TITULAR DO ELENCO? MIGUÉ OU VERDADE? | OS TESTES NO TIME FEITO POR RENATO",
-      "videoId": "99r7defugJ8",
-      "url": "https://www.youtube.com/watch?v=99r7defugJ8",
-      "thumbnail": "https://i.ytimg.com/vi/99r7defugJ8/mqdefault.jpg",
-      "published": "2026-10-02T11:57:50Z"
+      "channel": "Duda Garbi",
+      "title": "ENDOMETRIOSE: ATENÇÃO AOS MITOS E VERDADES SOBRE A DOENÇA | Uma Aula Sobre… Endometriose",
+      "videoId": "BFVyARWA8us",
+      "url": "https://www.youtube.com/watch?v=BFVyARWA8us",
+      "thumbnail": "https://i.ytimg.com/vi/BFVyARWA8us/mqdefault.jpg",
+      "published": "2026-10-04T14:30:28Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "CIRURGIA PARA A ENDOMETRIOSE FUNCIONA? #dudagarbi #rafaelbarleze",
-      "videoId": "bMpx04TVYaI",
-      "url": "https://www.youtube.com/watch?v=bMpx04TVYaI",
-      "thumbnail": "https://i.ytimg.com/vi/bMpx04TVYaI/mqdefault.jpg",
-      "published": "2026-10-04T13:00:14Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O BRASIL VAI VOLTAR AO TOP 3 DO TÊNIS MUNDIAL COM JOÃO FONSECA? | Cortes do Duda",
-      "videoId": "1yTFHHPqY8k",
-      "url": "https://www.youtube.com/watch?v=1yTFHHPqY8k",
-      "thumbnail": "https://i.ytimg.com/vi/1yTFHHPqY8k/mqdefault.jpg",
-      "published": "2026-10-03T22:00:03Z"
+      "title": "CIRURGIA É O MELHOR PARA TRATAR A ENDOMETRIOSE? | Uma Aula Sobre… Endometriose",
+      "videoId": "AWnL7mO3dxg",
+      "url": "https://www.youtube.com/watch?v=AWnL7mO3dxg",
+      "thumbnail": "https://i.ytimg.com/vi/AWnL7mO3dxg/mqdefault.jpg",
+      "published": "2026-10-04T14:00:13Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -231,8 +231,8 @@
       "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
       "videoId": "UpJMrKcM9NM",
       "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
-      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault_live.jpg",
-      "published": "2026-10-04T12:01:04Z"
+      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault.jpg",
+      "published": "2026-10-04T14:15:07Z"
     },
     {
       "channel": "Radio Imortal",
