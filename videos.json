@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T01:00:35.508378+00:00",
+  "updated_at": "2026-10-04T02:00:39.256439+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO GOLEIA EM JOGO-TREINO E RENATO TESTA ESCALAÇÃO | AS DÚVIDAS PERMANECEM | PLANTÃO IMORTAL",
+      "videoId": "g66SGOe1Xsw",
+      "url": "https://www.youtube.com/watch?v=g66SGOe1Xsw",
+      "thumbnail": "https://i.ytimg.com/vi/g66SGOe1Xsw/mqdefault.jpg",
+      "published": "2026-10-04T01:59:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
       "videoId": "UpJMrKcM9NM",
       "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
       "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault_live.jpg",
       "published": "2026-10-03T22:35:54Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "🇪🇪🗣️ RENATO FALA SOBRE A UTILIZAÇÃO DOS GAROTOS DA BASE!",
-      "videoId": "1iBvJaP7sec",
-      "url": "https://www.youtube.com/watch?v=1iBvJaP7sec",
-      "thumbnail": "https://i.ytimg.com/vi/1iBvJaP7sec/mqdefault.jpg",
-      "published": "2026-10-03T17:07:27Z"
     }
   ]
 }
