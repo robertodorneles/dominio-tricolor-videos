@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-04T23:00:42.661589+00:00",
+  "updated_at": "2026-10-05T00:00:43.960215+00:00",
   "total": 29,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O FUTEBOL VAI VOLTAR!!!  FINAL DE SEMANA DE TESTES / GRÊMIO E INTER",
+      "videoId": "6ifpaWf5JA4",
+      "url": "https://www.youtube.com/watch?v=6ifpaWf5JA4",
+      "thumbnail": "https://i.ytimg.com/vi/6ifpaWf5JA4/mqdefault_live.jpg",
+      "published": "2026-10-04T23:27:58Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: Renato TESTA NOVO JEITO de jogar! Entenda o que mudou",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=FYDAPU3JtUM",
       "thumbnail": "https://i.ytimg.com/vi/FYDAPU3JtUM/mqdefault.jpg",
       "published": "2026-10-04T18:27:38Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: UM GRANDE PROBLEMA | A PRIORIDADE DE BAPTISTA | BASE GANHA GRENAIS",
-      "videoId": "XaetxU6WmFg",
-      "url": "https://www.youtube.com/watch?v=XaetxU6WmFg",
-      "thumbnail": "https://i.ytimg.com/vi/XaetxU6WmFg/mqdefault.jpg",
-      "published": "2026-10-04T09:19:58Z"
     },
     {
       "channel": "Bage TV",
@@ -220,19 +220,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO FINALIZANDO PREPARAÇÃO ANTES DA VIAGEM PARA BELÉM | TEREMOS SURPRESAS? | PLANTÃO IMORTAL",
-      "videoId": "UpJMrKcM9NM",
-      "url": "https://www.youtube.com/watch?v=UpJMrKcM9NM",
-      "thumbnail": "https://i.ytimg.com/vi/UpJMrKcM9NM/mqdefault.jpg",
-      "published": "2026-10-04T14:15:07Z"
+      "title": "TIMELINE IMORTAL #169 — CHEGADA DO GRÊMIO AO VIVO DIRETO DE BELÉM | LISTA DE RELACIONADOS",
+      "videoId": "H26G-vs5iMA",
+      "url": "https://www.youtube.com/watch?v=H26G-vs5iMA",
+      "thumbnail": "https://i.ytimg.com/vi/H26G-vs5iMA/mqdefault_live.jpg",
+      "published": "2026-10-04T23:49:48Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO GOLEIA EM JOGO-TREINO E RENATO TESTA ESCALAÇÃO | AS DÚVIDAS PERMANECEM | PLANTÃO IMORTAL",
-      "videoId": "g66SGOe1Xsw",
-      "url": "https://www.youtube.com/watch?v=g66SGOe1Xsw",
-      "thumbnail": "https://i.ytimg.com/vi/g66SGOe1Xsw/mqdefault.jpg",
-      "published": "2026-10-04T01:59:27Z"
+      "title": "COMO É BOM SER DO GRÊMIO #56 —COMEÇA UMA SEMANA DECISIVA NA VIDA DO GRÊMIO!",
+      "videoId": "jnxTX-HiYg4",
+      "url": "https://www.youtube.com/watch?v=jnxTX-HiYg4",
+      "thumbnail": "https://i.ytimg.com/vi/jnxTX-HiYg4/mqdefault_live.jpg",
+      "published": "2026-10-04T23:35:06Z"
     }
   ]
 }
