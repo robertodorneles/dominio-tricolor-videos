@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T10:00:33.634289+00:00",
-  "total": 29,
+  "updated_at": "2026-10-05T11:00:38.794047+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições 2026: urna eletrônica completa 30 anos no Brasil | Aconteceu no RS",
-      "videoId": "GK4kJvh-axc",
-      "url": "https://www.youtube.com/watch?v=GK4kJvh-axc",
-      "thumbnail": "https://i.ytimg.com/vi/GK4kJvh-axc/mqdefault.jpg",
-      "published": "2026-10-05T08:26:39Z"
+      "title": "| Gaúcha Atualidade | 05/10/2026",
+      "videoId": "dwf9e1AxQ1w",
+      "url": "https://www.youtube.com/watch?v=dwf9e1AxQ1w",
+      "thumbnail": "https://i.ytimg.com/vi/dwf9e1AxQ1w/mqdefault_live.jpg",
+      "published": "2026-10-05T10:57:36Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Kelly Matos: Zucco capitalizou onda da direita sem depender do bolsonarismo",
-      "videoId": "TA94XDDoNgo",
-      "url": "https://www.youtube.com/watch?v=TA94XDDoNgo",
-      "thumbnail": "https://i.ytimg.com/vi/TA94XDDoNgo/mqdefault.jpg",
-      "published": "2026-10-05T04:00:03Z"
+      "title": "| Timeline | 05/10/2026",
+      "videoId": "B_z25dQnWXQ",
+      "url": "https://www.youtube.com/watch?v=B_z25dQnWXQ",
+      "thumbnail": "https://i.ytimg.com/vi/B_z25dQnWXQ/mqdefault_live.jpg",
+      "published": "2026-10-05T10:36:02Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 05/10/2026",
+      "videoId": "J6_SY0pZs44",
+      "url": "https://www.youtube.com/watch?v=J6_SY0pZs44",
+      "thumbnail": "https://i.ytimg.com/vi/J6_SY0pZs44/mqdefault_live.jpg",
+      "published": "2026-10-05T10:59:01Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "JORNADA COMPLETA | GRÊMIO 0 X 0 INTER | GAUCHÃO FEMININO | 03/10/2026",
       "videoId": "oJGnjM6Hz80",
       "url": "https://www.youtube.com/watch?v=oJGnjM6Hz80",
@@ -220,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #36 — GRÊMIO EMBARCA PARA BELÉM; LISTA DE RELACIONADOS TERÁ SURPRESAS",
+      "videoId": "SkIPyRYQ4uU",
+      "url": "https://www.youtube.com/watch?v=SkIPyRYQ4uU",
+      "thumbnail": "https://i.ytimg.com/vi/SkIPyRYQ4uU/mqdefault_live.jpg",
+      "published": "2026-10-05T10:03:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #169 — CHEGADA DO GRÊMIO AO VIVO DIRETO DE BELÉM | LISTA DE RELACIONADOS",
       "videoId": "H26G-vs5iMA",
       "url": "https://www.youtube.com/watch?v=H26G-vs5iMA",
       "thumbnail": "https://i.ytimg.com/vi/H26G-vs5iMA/mqdefault_live.jpg",
       "published": "2026-10-04T23:49:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #56 —COMEÇA UMA SEMANA DECISIVA NA VIDA DO GRÊMIO!",
-      "videoId": "jnxTX-HiYg4",
-      "url": "https://www.youtube.com/watch?v=jnxTX-HiYg4",
-      "thumbnail": "https://i.ytimg.com/vi/jnxTX-HiYg4/mqdefault_live.jpg",
-      "published": "2026-10-04T23:35:06Z"
     }
   ]
 }
