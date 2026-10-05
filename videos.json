@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T14:00:53.636400+00:00",
+  "updated_at": "2026-10-05T15:00:41.861062+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #081",
-      "videoId": "3zIINOhskPU",
-      "url": "https://www.youtube.com/watch?v=3zIINOhskPU",
-      "thumbnail": "https://i.ytimg.com/vi/3zIINOhskPU/mqdefault_live.jpg",
-      "published": "2026-10-05T13:40:49Z"
+      "title": "O Grêmio tem que vencer. #gremio #viral",
+      "videoId": "TCqZi0Vow7o",
+      "url": "https://www.youtube.com/watch?v=TCqZi0Vow7o",
+      "thumbnail": "https://i.ytimg.com/vi/TCqZi0Vow7o/mqdefault.jpg",
+      "published": "2026-10-05T14:57:22Z"
     },
     {
       "channel": "Bage TV",
-      "title": "DESFALQUES DE ÚLTIMA HORA CONTRA O REMO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 05/10 - #648",
-      "videoId": "H0_1j_u5QrM",
-      "url": "https://www.youtube.com/watch?v=H0_1j_u5QrM",
-      "thumbnail": "https://i.ytimg.com/vi/H0_1j_u5QrM/mqdefault.jpg",
-      "published": "2026-10-05T13:39:15Z"
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #081",
+      "videoId": "3zIINOhskPU",
+      "url": "https://www.youtube.com/watch?v=3zIINOhskPU",
+      "thumbnail": "https://i.ytimg.com/vi/3zIINOhskPU/mqdefault.jpg",
+      "published": "2026-10-05T14:57:06Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ATENÇÃO! SURPRESA NO TIME! RENATO PROMOVE GRANDE MUDANÇA NO GRÊMIO PRA PEGAR O REMO | E OS RIVAIS?",
+      "videoId": "ERBLLj4LmJc",
+      "url": "https://www.youtube.com/watch?v=ERBLLj4LmJc",
+      "thumbnail": "https://i.ytimg.com/vi/ERBLLj4LmJc/mqdefault.jpg",
+      "published": "2026-10-05T14:16:24Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=8vRTBYhnkFA",
       "thumbnail": "https://i.ytimg.com/vi/8vRTBYhnkFA/mqdefault.jpg",
       "published": "2026-10-05T01:41:55Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨NEGÓCIO MILIONÁRIO PRO GRÊMIO | RENATO DEU A REAL PRA JOGADOR E A RECEBEU RESPOSTA!",
-      "videoId": "k1DO_-LeTMQ",
-      "url": "https://www.youtube.com/watch?v=k1DO_-LeTMQ",
-      "thumbnail": "https://i.ytimg.com/vi/k1DO_-LeTMQ/mqdefault.jpg",
-      "published": "2026-10-04T16:48:53Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "AVIÃO DO GRÊMIO DECOLOU! #gremio #futebol",
+      "videoId": "lBhaORifuE4",
+      "url": "https://www.youtube.com/watch?v=lBhaORifuE4",
+      "thumbnail": "https://i.ytimg.com/vi/lBhaORifuE4/mqdefault.jpg",
+      "published": "2026-10-05T14:42:29Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "LATERAIS ESTÃO FORA! TIME ESCALADO! #gremio #Futebol #remo #brasileirao",
       "videoId": "w2M8R7Y76pQ",
       "url": "https://www.youtube.com/watch?v=w2M8R7Y76pQ",
@@ -107,12 +115,12 @@
       "published": "2026-10-05T11:00:20Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "AVALANCHE: O SONHO CONTINUA? | A HISTÓRIA E O FUTURO NA CASA DO GREMIO.",
-      "videoId": "69L9TadkCHY",
-      "url": "https://www.youtube.com/watch?v=69L9TadkCHY",
-      "thumbnail": "https://i.ytimg.com/vi/69L9TadkCHY/mqdefault.jpg",
-      "published": "2026-10-04T18:15:24Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "JOGADOR GANHA MORAL, HIERARQUIA MUDA | LESÕES, ESCOLHAS | OS RECADOS DE RENATO PARA O FUTURO",
+      "videoId": "QItkB5hRK-Q",
+      "url": "https://www.youtube.com/watch?v=QItkB5hRK-Q",
+      "thumbnail": "https://i.ytimg.com/vi/QItkB5hRK-Q/mqdefault.jpg",
+      "published": "2026-10-05T14:22:50Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=xkotQ_PyKIM",
       "thumbnail": "https://i.ytimg.com/vi/xkotQ_PyKIM/mqdefault.jpg",
       "published": "2026-10-04T14:05:18Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "7 JOGADORES DE VOLTA EM 2027! | PROPOSTAS, RECUSAS E MAIS | O QUE FAZER?",
-      "videoId": "o3jsbeKbqOs",
-      "url": "https://www.youtube.com/watch?v=o3jsbeKbqOs",
-      "thumbnail": "https://i.ytimg.com/vi/o3jsbeKbqOs/mqdefault.jpg",
-      "published": "2026-10-03T14:10:07Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições 2026: urna eletrônica completa 30 anos no Brasil | Aconteceu no RS",
-      "videoId": "GK4kJvh-axc",
-      "url": "https://www.youtube.com/watch?v=GK4kJvh-axc",
-      "thumbnail": "https://i.ytimg.com/vi/GK4kJvh-axc/mqdefault.jpg",
-      "published": "2026-10-05T14:00:08Z"
+      "title": "Repercussão das eleições e cenário para o segundo turno | Sala de Eleição | 05/10/2026",
+      "videoId": "Xysr2ln3QK8",
+      "url": "https://www.youtube.com/watch?v=Xysr2ln3QK8",
+      "thumbnail": "https://i.ytimg.com/vi/Xysr2ln3QK8/mqdefault_live.jpg",
+      "published": "2026-10-05T14:04:11Z"
     },
     {
       "channel": "GZH Digital",
       "title": "Repercussão das eleições, entrevista com Sanderson, notícias do RS e mais | Timeline | 05/10/2026",
       "videoId": "B_z25dQnWXQ",
       "url": "https://www.youtube.com/watch?v=B_z25dQnWXQ",
-      "thumbnail": "https://i.ytimg.com/vi/B_z25dQnWXQ/mqdefault_live.jpg",
-      "published": "2026-10-05T13:57:31Z"
+      "thumbnail": "https://i.ytimg.com/vi/B_z25dQnWXQ/mqdefault.jpg",
+      "published": "2026-10-05T14:01:48Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 05/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 05/10/2026",
       "videoId": "J6_SY0pZs44",
       "url": "https://www.youtube.com/watch?v=J6_SY0pZs44",
       "thumbnail": "https://i.ytimg.com/vi/J6_SY0pZs44/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "ESPLANADA — 05/10",
-      "videoId": "GRMz2T1zV98",
-      "url": "https://www.youtube.com/watch?v=GRMz2T1zV98",
-      "thumbnail": "https://i.ytimg.com/vi/GRMz2T1zV98/mqdefault_live.jpg",
-      "published": "2026-10-05T13:40:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "COMO É BOM SER DO GRÊMIO #56 — GRÊMIO VIAJA PARA BELÉM COM NOVIDADES E DESFALQUES!",
       "videoId": "jnxTX-HiYg4",
       "url": "https://www.youtube.com/watch?v=jnxTX-HiYg4",
       "thumbnail": "https://i.ytimg.com/vi/jnxTX-HiYg4/mqdefault_live.jpg",
-      "published": "2026-10-05T12:37:23Z"
+      "published": "2026-10-05T14:01:54Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #169 — CHEGADA DO GRÊMIO AO VIVO DIRETO DE BELÉM | LISTA DE RELACIONADOS",
+      "videoId": "H26G-vs5iMA",
+      "url": "https://www.youtube.com/watch?v=H26G-vs5iMA",
+      "thumbnail": "https://i.ytimg.com/vi/H26G-vs5iMA/mqdefault_live.jpg",
+      "published": "2026-10-05T14:01:40Z"
     }
   ]
 }
