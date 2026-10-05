@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T01:32:48.169095+00:00",
+  "updated_at": "2026-10-05T02:00:37.141679+00:00",
   "total": 29,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "6ifpaWf5JA4",
       "url": "https://www.youtube.com/watch?v=6ifpaWf5JA4",
       "thumbnail": "https://i.ytimg.com/vi/6ifpaWf5JA4/mqdefault_live.jpg",
-      "published": "2026-10-05T00:39:00Z"
+      "published": "2026-10-05T01:46:44Z"
     },
     {
       "channel": "A Dupla",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨ATITUDE DRÁSTICA DE RENATO COM ATLETAS NOS BASTIDORES! SAIU DA LINHA NORMAL! GRÊMIO TEM DECISÃO!",
+      "videoId": "8vRTBYhnkFA",
+      "url": "https://www.youtube.com/watch?v=8vRTBYhnkFA",
+      "thumbnail": "https://i.ytimg.com/vi/8vRTBYhnkFA/mqdefault.jpg",
+      "published": "2026-10-05T01:41:55Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨NEGÓCIO MILIONÁRIO PRO GRÊMIO | RENATO DEU A REAL PRA JOGADOR E A RECEBEU RESPOSTA!",
       "videoId": "k1DO_-LeTMQ",
       "url": "https://www.youtube.com/watch?v=k1DO_-LeTMQ",
       "thumbnail": "https://i.ytimg.com/vi/k1DO_-LeTMQ/mqdefault.jpg",
       "published": "2026-10-04T16:48:53Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨RENATO INDICA NOMES DE JOGADORES PRA TRABALHAR NO GRÊMIO! ELE GOSTOU DO QUE VIU!",
-      "videoId": "3jHx2A7w5rM",
-      "url": "https://www.youtube.com/watch?v=3jHx2A7w5rM",
-      "thumbnail": "https://i.ytimg.com/vi/3jHx2A7w5rM/mqdefault.jpg",
-      "published": "2026-10-03T23:43:47Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Gabriel Souza se pronuncia após derrota",
+      "videoId": "FKXnje2aVoI",
+      "url": "https://www.youtube.com/watch?v=FKXnje2aVoI",
+      "thumbnail": "https://i.ytimg.com/vi/FKXnje2aVoI/mqdefault.jpg",
+      "published": "2026-10-05T01:45:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ELEIÇÕES 2026: Quem é SANDERSON, senador eleito pelo RS?",
       "videoId": "pgSVbsqCSqg",
       "url": "https://www.youtube.com/watch?v=pgSVbsqCSqg",
       "thumbnail": "https://i.ytimg.com/vi/pgSVbsqCSqg/mqdefault.jpg",
       "published": "2026-10-05T01:08:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ELEIÇÕES 2026: Quem é ZUCCO, governador eleito pelo RS?",
-      "videoId": "E4QR4QYYx2I",
-      "url": "https://www.youtube.com/watch?v=E4QR4QYYx2I",
-      "thumbnail": "https://i.ytimg.com/vi/E4QR4QYYx2I/mqdefault.jpg",
-      "published": "2026-10-05T01:06:06Z"
     },
     {
       "channel": "Jeremias Wernek",
