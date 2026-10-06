@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:00:36.400557+00:00",
+  "updated_at": "2026-10-06T11:00:37.939558+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 06/10/2026",
+      "videoId": "gqdMkxnXetU",
+      "url": "https://www.youtube.com/watch?v=gqdMkxnXetU",
+      "thumbnail": "https://i.ytimg.com/vi/gqdMkxnXetU/mqdefault_live.jpg",
+      "published": "2026-10-06T10:55:27Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ELEIÇÕES 2026: análise dos resultados e cenário para o 2º turno | Conversas Cruzadas | 05/10/2026",
       "videoId": "VO5i93zTpM0",
       "url": "https://www.youtube.com/watch?v=VO5i93zTpM0",
       "thumbnail": "https://i.ytimg.com/vi/VO5i93zTpM0/mqdefault.jpg",
       "published": "2026-10-06T09:30:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Deputados mais votados do RS, impacto da eleição no Marcado Financeiro e mais | Gaúcha+ | 05/10/2026",
-      "videoId": "6CJjealzXEw",
-      "url": "https://www.youtube.com/watch?v=6CJjealzXEw",
-      "thumbnail": "https://i.ytimg.com/vi/6CJjealzXEw/mqdefault.jpg",
-      "published": "2026-10-06T07:35:09Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | LIVE COMPLETA | RÁDIO GRENAL | 05/10/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 06/10/2026",
       "videoId": "nWawHaXVTi0",
       "url": "https://www.youtube.com/watch?v=nWawHaXVTi0",
       "thumbnail": "https://i.ytimg.com/vi/nWawHaXVTi0/mqdefault_live.jpg",
       "published": "2026-10-05T23:01:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #37 — OS ÚLTIMOS PREPARATIVOS PARA O RETORNO DO GRÊMIO AO BRASILEIRÃO",
+      "videoId": "hWUX1SaTA2Q",
+      "url": "https://www.youtube.com/watch?v=hWUX1SaTA2Q",
+      "thumbnail": "https://i.ytimg.com/vi/hWUX1SaTA2Q/mqdefault_live.jpg",
+      "published": "2026-10-06T10:04:06Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=JqQCL1qe5kU",
       "thumbnail": "https://i.ytimg.com/vi/JqQCL1qe5kU/mqdefault.jpg",
       "published": "2026-10-06T02:17:49Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #56 — GRÊMIO VIAJA PARA BELÉM COM NOVIDADES E DESFALQUES!",
-      "videoId": "jnxTX-HiYg4",
-      "url": "https://www.youtube.com/watch?v=jnxTX-HiYg4",
-      "thumbnail": "https://i.ytimg.com/vi/jnxTX-HiYg4/mqdefault.jpg",
-      "published": "2026-10-06T02:05:38Z"
     }
   ]
 }
