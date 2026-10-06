@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T15:39:55.084514+00:00",
+  "updated_at": "2026-10-06T16:00:54.950937+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #28",
+      "videoId": "v_0Rn5jZh7g",
+      "url": "https://www.youtube.com/watch?v=v_0Rn5jZh7g",
+      "thumbnail": "https://i.ytimg.com/vi/v_0Rn5jZh7g/mqdefault_live.jpg",
+      "published": "2026-10-06T15:54:56Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO | CLUBE TRICOLOR | GRÊMIO DE RENATO | O QUE ESPERAR DE REMO X GRÊMIO #01",
       "videoId": "o9EJQapnrJo",
       "url": "https://www.youtube.com/watch?v=o9EJQapnrJo",
       "thumbnail": "https://i.ytimg.com/vi/o9EJQapnrJo/mqdefault.jpg",
       "published": "2026-10-06T14:01:36Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #033 - Projeção para o duelo contra o Remo",
-      "videoId": "6GERVZoeph8",
-      "url": "https://www.youtube.com/watch?v=6GERVZoeph8",
-      "thumbnail": "https://i.ytimg.com/vi/6GERVZoeph8/mqdefault_live.jpg",
-      "published": "2026-10-06T13:09:21Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 06/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 06/10/2026",
       "videoId": "nWawHaXVTi0",
       "url": "https://www.youtube.com/watch?v=nWawHaXVTi0",
       "thumbnail": "https://i.ytimg.com/vi/nWawHaXVTi0/mqdefault_live.jpg",
