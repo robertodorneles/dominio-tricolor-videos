@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T17:00:48.977330+00:00",
+  "updated_at": "2026-10-06T18:00:41.025776+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#146",
+      "title": "A VIDA REAL PARA ESCAPAR DO REBAIXAMENTO! #CORTESDOFAG",
+      "videoId": "iG0alhSlikM",
+      "url": "https://www.youtube.com/watch?v=iG0alhSlikM",
+      "thumbnail": "https://i.ytimg.com/vi/iG0alhSlikM/mqdefault.jpg",
+      "published": "2026-10-06T17:37:33Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "BORNE VIRA DESTAQUE NO TREINO | MELO FOI NA EUROPA. GRUPO CHOCOLATE🔸RESENHA FORA DA SALA🔸#146",
       "videoId": "Q5or_bgMFe4",
       "url": "https://www.youtube.com/watch?v=Q5or_bgMFe4",
       "thumbnail": "https://i.ytimg.com/vi/Q5or_bgMFe4/mqdefault_live.jpg",
       "published": "2026-10-06T16:36:46Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #082",
-      "videoId": "7T6kraIKIjk",
-      "url": "https://www.youtube.com/watch?v=7T6kraIKIjk",
-      "thumbnail": "https://i.ytimg.com/vi/7T6kraIKIjk/mqdefault.jpg",
-      "published": "2026-10-06T14:57:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "v_0Rn5jZh7g",
       "url": "https://www.youtube.com/watch?v=v_0Rn5jZh7g",
       "thumbnail": "https://i.ytimg.com/vi/v_0Rn5jZh7g/mqdefault_live.jpg",
-      "published": "2026-10-06T16:00:12Z"
+      "published": "2026-10-06T17:16:58Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X OPERÁRIO I MASC (COPA SUL SUB-20 I 2026)",
+      "videoId": "OsaaDkT4quM",
+      "url": "https://www.youtube.com/watch?v=OsaaDkT4quM",
+      "thumbnail": "https://i.ytimg.com/vi/OsaaDkT4quM/mqdefault_live.jpg",
+      "published": "2026-10-06T17:23:16Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "cQUrhw0F8ik",
       "url": "https://www.youtube.com/watch?v=cQUrhw0F8ik",
@@ -155,28 +163,20 @@
       "published": "2026-10-06T13:42:29Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "BsnOBxwmGSI",
-      "url": "https://www.youtube.com/watch?v=BsnOBxwmGSI",
-      "thumbnail": "https://i.ytimg.com/vi/BsnOBxwmGSI/mqdefault_live.jpg",
-      "published": "2026-10-06T13:41:34Z"
+      "channel": "GZH Digital",
+      "title": "Fim da jornada 6x1 em discussão no Senado, trânsito, tempo e mais  | Gaúcha+ | 06/10/2026",
+      "videoId": "3hAvRBL9dfs",
+      "url": "https://www.youtube.com/watch?v=3hAvRBL9dfs",
+      "thumbnail": "https://i.ytimg.com/vi/3hAvRBL9dfs/mqdefault_live.jpg",
+      "published": "2026-10-06T17:21:43Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Como dormir melhor? Especialista explica os segredos de uma boa noite de sono | Tá Tudo Bem?",
-      "videoId": "xAPeRkwe5Zk",
-      "url": "https://www.youtube.com/watch?v=xAPeRkwe5Zk",
-      "thumbnail": "https://i.ytimg.com/vi/xAPeRkwe5Zk/mqdefault.jpg",
-      "published": "2026-10-06T15:00:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Apoio de Temer a Flávio, articulações do 2º turno, pesquisa eleitoral e mais | Timeline | 06/10/2026",
-      "videoId": "Ou-Dlan99QM",
-      "url": "https://www.youtube.com/watch?v=Ou-Dlan99QM",
-      "thumbnail": "https://i.ytimg.com/vi/Ou-Dlan99QM/mqdefault.jpg",
-      "published": "2026-10-06T14:00:26Z"
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 06/10/2026",
+      "videoId": "az512ygG24c",
+      "url": "https://www.youtube.com/watch?v=az512ygG24c",
+      "thumbnail": "https://i.ytimg.com/vi/az512ygG24c/mqdefault_live.jpg",
+      "published": "2026-10-06T17:04:18Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨R$ 84 MILHÕES POR ZAGUEIRO | REFORÇO PRO GRÊMIO | ELE É DIFERENCIADO",
+      "videoId": "jj_ZQmbWXiw",
+      "url": "https://www.youtube.com/watch?v=jj_ZQmbWXiw",
+      "thumbnail": "https://i.ytimg.com/vi/jj_ZQmbWXiw/mqdefault.jpg",
+      "published": "2026-10-06T17:16:06Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨DUAS GRANDES NOTÍCIAS NO GRÊMIO | GANHOU PONTOS COM RENATO | DOIS PROBLEMAS SÉRIOS",
       "videoId": "IR6segcfzz4",
       "url": "https://www.youtube.com/watch?v=IR6segcfzz4",
       "thumbnail": "https://i.ytimg.com/vi/IR6segcfzz4/mqdefault.jpg",
       "published": "2026-10-05T16:52:38Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨R$ 20 MILHÕES POR JOGADOR | JEFINHO E O INTER MIAMI | REFORÇO DE QUALIDADE",
-      "videoId": "_HEeLwP9yvs",
-      "url": "https://www.youtube.com/watch?v=_HEeLwP9yvs",
-      "thumbnail": "https://i.ytimg.com/vi/_HEeLwP9yvs/mqdefault.jpg",
-      "published": "2026-10-03T19:45:27Z"
     },
     {
       "channel": "Radio Grenal",
