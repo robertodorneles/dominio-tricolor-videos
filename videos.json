@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:00:37.939558+00:00",
+  "updated_at": "2026-10-06T12:00:38.374784+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO RECEBE REFORÇO EM BELÉM 🌅🔵 BOM DIA GRÊMIO #144",
       "videoId": "WQQu9JNkEDc",
       "url": "https://www.youtube.com/watch?v=WQQu9JNkEDc",
-      "thumbnail": "https://i.ytimg.com/vi/WQQu9JNkEDc/mqdefault_live.jpg",
-      "published": "2026-10-06T09:30:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/WQQu9JNkEDc/mqdefault.jpg",
+      "published": "2026-10-06T11:57:57Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #27",
-      "videoId": "Iyx-OKtO73o",
-      "url": "https://www.youtube.com/watch?v=Iyx-OKtO73o",
-      "thumbnail": "https://i.ytimg.com/vi/Iyx-OKtO73o/mqdefault.jpg",
-      "published": "2026-10-06T05:19:20Z"
+      "title": "ACORDA, GRÊMIO! #032",
+      "videoId": "VqRCf0vV4YA",
+      "url": "https://www.youtube.com/watch?v=VqRCf0vV4YA",
+      "thumbnail": "https://i.ytimg.com/vi/VqRCf0vV4YA/mqdefault_live.jpg",
+      "published": "2026-10-06T11:38:37Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "Recebendo o dono da casa, nosso mestre Farido",
-      "videoId": "edT7yM3Oqgs",
-      "url": "https://www.youtube.com/watch?v=edT7yM3Oqgs",
-      "thumbnail": "https://i.ytimg.com/vi/edT7yM3Oqgs/mqdefault.jpg",
-      "published": "2026-10-06T01:33:12Z"
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 05/10/2026",
+      "videoId": "XnfjhgNv-yI",
+      "url": "https://www.youtube.com/watch?v=XnfjhgNv-yI",
+      "thumbnail": "https://i.ytimg.com/vi/XnfjhgNv-yI/mqdefault.jpg",
+      "published": "2026-10-06T11:12:56Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO TREINA EM BELÉM PARA ENFRENTAR O REMO",
+      "videoId": "fMR2SD9QFMk",
+      "url": "https://www.youtube.com/watch?v=fMR2SD9QFMk",
+      "thumbnail": "https://i.ytimg.com/vi/fMR2SD9QFMk/mqdefault.jpg",
+      "published": "2026-10-06T11:12:03Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "COLETIVA PÓS JOGO | GRÊMIO 0 X 0 INTERNACIONAL (CAMPEONATO GAÚCHO FEMININO)",
       "videoId": "806W153rA1o",
       "url": "https://www.youtube.com/watch?v=806W153rA1o",
@@ -155,16 +163,8 @@
       "published": "2026-10-03T22:09:54Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X INTERNACIONAL (CAMPEONATO GAÚCHO FEMININO I 2026)",
-      "videoId": "Ov7MZ4Pb-vY",
-      "url": "https://www.youtube.com/watch?v=Ov7MZ4Pb-vY",
-      "thumbnail": "https://i.ytimg.com/vi/Ov7MZ4Pb-vY/mqdefault.jpg",
-      "published": "2026-10-03T20:13:57Z"
-    },
-    {
       "channel": "GZH Digital",
-      "title": "Últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 06/10/2026",
+      "title": "Entrevista com deputada estadual mais votada do RS, trânsito e mais | Gaúcha Atualidade | 06/10/2026",
       "videoId": "gqdMkxnXetU",
       "url": "https://www.youtube.com/watch?v=gqdMkxnXetU",
       "thumbnail": "https://i.ytimg.com/vi/gqdMkxnXetU/mqdefault_live.jpg",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 06/10/2026",
+      "videoId": "nWawHaXVTi0",
+      "url": "https://www.youtube.com/watch?v=nWawHaXVTi0",
+      "thumbnail": "https://i.ytimg.com/vi/nWawHaXVTi0/mqdefault_live.jpg",
+      "published": "2026-10-06T11:03:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO | LIVE COMPLETA | RÁDIO GRENAL | 05/10/2026",
       "videoId": "J6_SY0pZs44",
       "url": "https://www.youtube.com/watch?v=J6_SY0pZs44",
       "thumbnail": "https://i.ytimg.com/vi/J6_SY0pZs44/mqdefault.jpg",
       "published": "2026-10-05T23:35:16Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 06/10/2026",
-      "videoId": "nWawHaXVTi0",
-      "url": "https://www.youtube.com/watch?v=nWawHaXVTi0",
-      "thumbnail": "https://i.ytimg.com/vi/nWawHaXVTi0/mqdefault_live.jpg",
-      "published": "2026-10-05T23:01:08Z"
     },
     {
       "channel": "Radio Imortal",
