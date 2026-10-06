@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T15:00:41.949488+00:00",
+  "updated_at": "2026-10-06T15:39:55.084514+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #170 — RENATO COMANDA TREINO FINAL ANTES DE JOGO DECISIVO | PROVÁVEL GRÊMIO",
+      "videoId": "o4PUmmzuhDI",
+      "url": "https://www.youtube.com/watch?v=o4PUmmzuhDI",
+      "thumbnail": "https://i.ytimg.com/vi/o4PUmmzuhDI/mqdefault.jpg",
+      "published": "2026-10-06T15:06:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "COMO É BOM SER DO GRÊMIO #57 — RENATO ENCAMINHA O TIME PARA ENFRENTAR O REMO",
       "videoId": "LnlVYYxXDcY",
       "url": "https://www.youtube.com/watch?v=LnlVYYxXDcY",
       "thumbnail": "https://i.ytimg.com/vi/LnlVYYxXDcY/mqdefault.jpg",
       "published": "2026-10-06T14:10:03Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #170 — RENATO COMANDA TREINO FINAL ANTES DE JOGO DECISIVO | PROVÁVEL GRÊMIO",
-      "videoId": "o4PUmmzuhDI",
-      "url": "https://www.youtube.com/watch?v=o4PUmmzuhDI",
-      "thumbnail": "https://i.ytimg.com/vi/o4PUmmzuhDI/mqdefault_live.jpg",
-      "published": "2026-10-06T14:05:03Z"
     }
   ]
 }
