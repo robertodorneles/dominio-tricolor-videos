@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:00:39.993869+00:00",
+  "updated_at": "2026-10-07T13:00:45.571224+00:00",
   "total": 30,
   "videos": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 07/10 - #650",
+      "title": "CHEGOU A HORA! GRÊMIO ENFRENTA O REMO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 07/10 - #650",
       "videoId": "rxBdG6GaGwE",
       "url": "https://www.youtube.com/watch?v=rxBdG6GaGwE",
       "thumbnail": "https://i.ytimg.com/vi/rxBdG6GaGwE/mqdefault_live.jpg",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Remo x Grêmio: Times, tabela e novidades | Decisão no Pará",
+      "videoId": "9grsZOSi3bk",
+      "url": "https://www.youtube.com/watch?v=9grsZOSi3bk",
+      "thumbnail": "https://i.ytimg.com/vi/9grsZOSi3bk/mqdefault.jpg",
+      "published": "2026-10-07T12:33:43Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #697: Provável Grêmio | Villasanti | Manu | Olímpico | Copa do Brasil e mais",
       "videoId": "LI2IZmcmb4Y",
       "url": "https://www.youtube.com/watch?v=LI2IZmcmb4Y",
@@ -59,12 +67,12 @@
       "published": "2026-10-06T21:38:42Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: REMO X GRÊMIO",
-      "videoId": "GvLjthMeV6g",
-      "url": "https://www.youtube.com/watch?v=GvLjthMeV6g",
-      "thumbnail": "https://i.ytimg.com/vi/GvLjthMeV6g/mqdefault_live.jpg",
-      "published": "2026-10-06T13:33:05Z"
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #034",
+      "videoId": "4mzqhOgv-D8",
+      "url": "https://www.youtube.com/watch?v=4mzqhOgv-D8",
+      "thumbnail": "https://i.ytimg.com/vi/4mzqhOgv-D8/mqdefault_live.jpg",
+      "published": "2026-10-07T12:59:36Z"
     },
     {
       "channel": "Canal do Farid",
@@ -72,15 +80,7 @@
       "videoId": "6GERVZoeph8",
       "url": "https://www.youtube.com/watch?v=6GERVZoeph8",
       "thumbnail": "https://i.ytimg.com/vi/6GERVZoeph8/mqdefault_live.jpg",
-      "published": "2026-10-07T11:41:34Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 06/10/2026",
-      "videoId": "lExU0i_qNR0",
-      "url": "https://www.youtube.com/watch?v=lExU0i_qNR0",
-      "thumbnail": "https://i.ytimg.com/vi/lExU0i_qNR0/mqdefault.jpg",
-      "published": "2026-10-07T11:27:57Z"
+      "published": "2026-10-07T12:49:29Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 07.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "E1EPyO8KiLU",
+      "url": "https://www.youtube.com/watch?v=E1EPyO8KiLU",
+      "thumbnail": "https://i.ytimg.com/vi/E1EPyO8KiLU/mqdefault_live.jpg",
+      "published": "2026-10-07T12:01:44Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "DENIS DEU CERTO NA BAGÉ TV #dudagarbi #umassadopara",
       "videoId": "-wQzbsRNd1g",
       "url": "https://www.youtube.com/watch?v=-wQzbsRNd1g",
       "thumbnail": "https://i.ytimg.com/vi/-wQzbsRNd1g/mqdefault.jpg",
       "published": "2026-10-06T22:30:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "OS MEMES DO DENIS ABRAHÃO #dudagarbi #umassadopara",
-      "videoId": "ikAY3nkzSAQ",
-      "url": "https://www.youtube.com/watch?v=ikAY3nkzSAQ",
-      "thumbnail": "https://i.ytimg.com/vi/ikAY3nkzSAQ/mqdefault.jpg",
-      "published": "2026-10-06T22:00:12Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 07/10/2026",
+      "videoId": "5zIY2RIuqLI",
+      "url": "https://www.youtube.com/watch?v=5zIY2RIuqLI",
+      "thumbnail": "https://i.ytimg.com/vi/5zIY2RIuqLI/mqdefault_live.jpg",
+      "published": "2026-10-07T12:58:51Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Ex-secretária da Educação do RS, gripe aviária, trânsito e mais | Gaúcha Atualidade | 07/10/2026",
       "videoId": "2RnKlFxMyAY",
       "url": "https://www.youtube.com/watch?v=2RnKlFxMyAY",
@@ -171,20 +179,12 @@
       "published": "2026-10-07T10:56:23Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "O que esperar da nova Assembleia Legislativa? | Conversas Cruzadas | 06/10/2026",
-      "videoId": "gtwZeV6nHYg",
-      "url": "https://www.youtube.com/watch?v=gtwZeV6nHYg",
-      "thumbnail": "https://i.ytimg.com/vi/gtwZeV6nHYg/mqdefault.jpg",
-      "published": "2026-10-07T09:33:44Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: ACABOU A DATA FIFA E CHEGOU A HORA DA POMADA PARA GRÊMIO E INTER",
       "videoId": "osyygvp85sE",
       "url": "https://www.youtube.com/watch?v=osyygvp85sE",
-      "thumbnail": "https://i.ytimg.com/vi/osyygvp85sE/mqdefault_live.jpg",
-      "published": "2026-10-07T11:46:36Z"
+      "thumbnail": "https://i.ytimg.com/vi/osyygvp85sE/mqdefault.jpg",
+      "published": "2026-10-07T12:03:52Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,16 +231,16 @@
       "title": "CAFÉ COM A IMORTAL #38 — DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO EM BELÉM",
       "videoId": "c1oovwxhNy4",
       "url": "https://www.youtube.com/watch?v=c1oovwxhNy4",
-      "thumbnail": "https://i.ytimg.com/vi/c1oovwxhNy4/mqdefault_live.jpg",
-      "published": "2026-10-07T10:02:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/c1oovwxhNy4/mqdefault.jpg",
+      "published": "2026-10-07T12:43:41Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
-      "videoId": "ozy4Uzijks8",
-      "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
-      "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault_live.jpg",
-      "published": "2026-10-07T01:30:45Z"
+      "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #58",
+      "videoId": "OoL0GfLEMGM",
+      "url": "https://www.youtube.com/watch?v=OoL0GfLEMGM",
+      "thumbnail": "https://i.ytimg.com/vi/OoL0GfLEMGM/mqdefault_live.jpg",
+      "published": "2026-10-07T12:32:21Z"
     }
   ]
 }
