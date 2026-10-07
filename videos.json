@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-07T05:01:31.194277+00:00",
+  "updated_at": "2026-10-07T09:00:39.678626+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 VEJA O QUE ELE DISSE | PÔS DÚVIDA NO MEIO | DINIZ VAI SE JOGAR?",
+      "videoId": "GIkQvY5zqT0",
+      "url": "https://www.youtube.com/watch?v=GIkQvY5zqT0",
+      "thumbnail": "https://i.ytimg.com/vi/GIkQvY5zqT0/mqdefault.jpg",
+      "published": "2026-10-07T05:25:09Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: Renato DEFINE O TIME para decisão! PACTO no elenco e operação por Villasanti",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=jQ2VDUEzyZQ",
       "thumbnail": "https://i.ytimg.com/vi/jQ2VDUEzyZQ/mqdefault.jpg",
       "published": "2026-10-07T05:00:24Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: PRÉ RODADA DA DUPLA | INTER X CORINTHIANS | REMO X GRÊMIO",
-      "videoId": "xHtAThU2pig",
-      "url": "https://www.youtube.com/watch?v=xHtAThU2pig",
-      "thumbnail": "https://i.ytimg.com/vi/xHtAThU2pig/mqdefault.jpg",
-      "published": "2026-10-07T02:13:37Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #28",
+      "videoId": "v_0Rn5jZh7g",
+      "url": "https://www.youtube.com/watch?v=v_0Rn5jZh7g",
+      "thumbnail": "https://i.ytimg.com/vi/v_0Rn5jZh7g/mqdefault.jpg",
+      "published": "2026-10-07T05:27:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #032",
       "videoId": "VqRCf0vV4YA",
       "url": "https://www.youtube.com/watch?v=VqRCf0vV4YA",
       "thumbnail": "https://i.ytimg.com/vi/VqRCf0vV4YA/mqdefault.jpg",
       "published": "2026-10-07T01:11:25Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 06/10/2026",
-      "videoId": "lExU0i_qNR0",
-      "url": "https://www.youtube.com/watch?v=lExU0i_qNR0",
-      "thumbnail": "https://i.ytimg.com/vi/lExU0i_qNR0/mqdefault_live.jpg",
-      "published": "2026-10-06T23:05:46Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "DEPUTADOS RESPONDEM: o que a população pode esperar do trabalho na Assembleia? | Conversas Cruzadas",
-      "videoId": "RLRseU7RxAI",
-      "url": "https://www.youtube.com/watch?v=RLRseU7RxAI",
-      "thumbnail": "https://i.ytimg.com/vi/RLRseU7RxAI/mqdefault.jpg",
-      "published": "2026-10-06T23:19:58Z"
+      "title": "Fim da jornada 6x1 em discussão no Senado, trânsito, tempo e mais  | Gaúcha+ | 06/10/2026",
+      "videoId": "3hAvRBL9dfs",
+      "url": "https://www.youtube.com/watch?v=3hAvRBL9dfs",
+      "thumbnail": "https://i.ytimg.com/vi/3hAvRBL9dfs/mqdefault.jpg",
+      "published": "2026-10-07T07:35:16Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 06/10/2026",
-      "videoId": "az512ygG24c",
-      "url": "https://www.youtube.com/watch?v=az512ygG24c",
-      "thumbnail": "https://i.ytimg.com/vi/az512ygG24c/mqdefault.jpg",
-      "published": "2026-10-06T23:18:22Z"
+      "title": "| Timeline | 07/10/2026",
+      "videoId": "jn_GEbxBk7k",
+      "url": "https://www.youtube.com/watch?v=jn_GEbxBk7k",
+      "thumbnail": "https://i.ytimg.com/vi/jn_GEbxBk7k/mqdefault_live.jpg",
+      "published": "2026-10-07T07:24:02Z"
     },
     {
       "channel": "Jeremias Wernek",
