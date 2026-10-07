@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T14:00:46.205872+00:00",
+  "updated_at": "2026-10-07T15:00:43.164514+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "HOJE É DIA DE GRÊMIO!! BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #083",
+      "videoId": "YzF2noH2SyE",
+      "url": "https://www.youtube.com/watch?v=YzF2noH2SyE",
+      "thumbnail": "https://i.ytimg.com/vi/YzF2noH2SyE/mqdefault.jpg",
+      "published": "2026-10-07T14:56:13Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "QUEM PODE FAZER A DIFERENÇA?",
       "videoId": "t4nNt86Rxm8",
       "url": "https://www.youtube.com/watch?v=t4nNt86Rxm8",
       "thumbnail": "https://i.ytimg.com/vi/t4nNt86Rxm8/mqdefault.jpg",
       "published": "2026-10-07T13:53:08Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "HOJE É DIA DE GRÊMIO!! BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #083",
-      "videoId": "YzF2noH2SyE",
-      "url": "https://www.youtube.com/watch?v=YzF2noH2SyE",
-      "thumbnail": "https://i.ytimg.com/vi/YzF2noH2SyE/mqdefault_live.jpg",
-      "published": "2026-10-07T13:42:35Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NOVA POSIÇÃO DO AMUZU E DO PAVÓN? #gremio #futebol #remo @blascortintas",
+      "videoId": "UPc4WhTIBY4",
+      "url": "https://www.youtube.com/watch?v=UPc4WhTIBY4",
+      "thumbnail": "https://i.ytimg.com/vi/UPc4WhTIBY4/mqdefault.jpg",
+      "published": "2026-10-07T14:00:22Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "REMO X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
       "videoId": "V6-DqwKcIgw",
       "url": "https://www.youtube.com/watch?v=V6-DqwKcIgw",
       "thumbnail": "https://i.ytimg.com/vi/V6-DqwKcIgw/mqdefault_live.jpg",
       "published": "2026-10-07T11:36:31Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ORDEM DADA: POLÊMICA! | AMUZU: NOVA POSIÇÃO! | REMO X GRÊMIO.",
-      "videoId": "phwbgdQkLgM",
-      "url": "https://www.youtube.com/watch?v=phwbgdQkLgM",
-      "thumbnail": "https://i.ytimg.com/vi/phwbgdQkLgM/mqdefault.jpg",
-      "published": "2026-10-06T22:21:52Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 07/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 07/10/2026",
       "videoId": "gva85uRG_yA",
       "url": "https://www.youtube.com/watch?v=gva85uRG_yA",
       "thumbnail": "https://i.ytimg.com/vi/gva85uRG_yA/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VOLTA A CAMPO AMANHÃ | PROVÁVEL ESCALAÇÃO | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #160 - 06/10",
-      "videoId": "U2w2_JZDJQ4",
-      "url": "https://www.youtube.com/watch?v=U2w2_JZDJQ4",
-      "thumbnail": "https://i.ytimg.com/vi/U2w2_JZDJQ4/mqdefault.jpg",
-      "published": "2026-10-07T13:31:45Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #58",
       "videoId": "OoL0GfLEMGM",
       "url": "https://www.youtube.com/watch?v=OoL0GfLEMGM",
       "thumbnail": "https://i.ytimg.com/vi/OoL0GfLEMGM/mqdefault_live.jpg",
-      "published": "2026-10-07T12:32:21Z"
+      "published": "2026-10-07T14:02:47Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
+      "videoId": "ozy4Uzijks8",
+      "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
+      "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault_live.jpg",
+      "published": "2026-10-07T14:02:45Z"
     }
   ]
 }
