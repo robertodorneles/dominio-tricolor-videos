@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T15:00:43.164514+00:00",
+  "updated_at": "2026-10-07T16:00:42.685783+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "POR QUE RENATO VIROU A GRANDE ESPERANÇA DO GRÊMIO? #CORTESFAG",
+      "videoId": "_TZi9fsXK9Q",
+      "url": "https://www.youtube.com/watch?v=_TZi9fsXK9Q",
+      "thumbnail": "https://i.ytimg.com/vi/_TZi9fsXK9Q/mqdefault.jpg",
+      "published": "2026-10-07T15:11:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "HOJE É DIA DE GRÊMIO!! BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #083",
       "videoId": "YzF2noH2SyE",
       "url": "https://www.youtube.com/watch?v=YzF2noH2SyE",
@@ -27,12 +35,12 @@
       "published": "2026-10-07T14:56:13Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "QUEM PODE FAZER A DIFERENÇA?",
-      "videoId": "t4nNt86Rxm8",
-      "url": "https://www.youtube.com/watch?v=t4nNt86Rxm8",
-      "thumbnail": "https://i.ytimg.com/vi/t4nNt86Rxm8/mqdefault.jpg",
-      "published": "2026-10-07T13:53:08Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨RENATO PEDIU UM REFORÇO | TROCAS DE POSIÇÃO DE JOGADORES NO TIME DO GRÊMIO",
+      "videoId": "zMQc26rjQbs",
+      "url": "https://www.youtube.com/watch?v=zMQc26rjQbs",
+      "thumbnail": "https://i.ytimg.com/vi/zMQc26rjQbs/mqdefault.jpg",
+      "published": "2026-10-07T15:08:14Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=RiIXNn67aE4",
       "thumbnail": "https://i.ytimg.com/vi/RiIXNn67aE4/mqdefault.jpg",
       "published": "2026-10-07T00:03:53Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ELE ERROU E DEIXOU RENATO INDIGNADO! SITUAÇÃO IRRITOU O TÉCNICO DO GRÊMIO! E A DIREÇÃO?",
-      "videoId": "zriM-BV7GFg",
-      "url": "https://www.youtube.com/watch?v=zriM-BV7GFg",
-      "thumbnail": "https://i.ytimg.com/vi/zriM-BV7GFg/mqdefault.jpg",
-      "published": "2026-10-06T16:35:33Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #29",
+      "videoId": "KTdMw5xEQqY",
+      "url": "https://www.youtube.com/watch?v=KTdMw5xEQqY",
+      "thumbnail": "https://i.ytimg.com/vi/KTdMw5xEQqY/mqdefault_live.jpg",
+      "published": "2026-10-07T15:45:49Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "Ao vivo | Retorno do Brasileirão | Acabou a brincadeira | GreNalshow EP 29",
       "videoId": "pk5mt6vcVi8",
       "url": "https://www.youtube.com/watch?v=pk5mt6vcVi8",
       "thumbnail": "https://i.ytimg.com/vi/pk5mt6vcVi8/mqdefault_live.jpg",
       "published": "2026-10-07T13:10:49Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #034",
-      "videoId": "4mzqhOgv-D8",
-      "url": "https://www.youtube.com/watch?v=4mzqhOgv-D8",
-      "thumbnail": "https://i.ytimg.com/vi/4mzqhOgv-D8/mqdefault_live.jpg",
-      "published": "2026-10-07T12:59:36Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "A HISTÓRIA DE AMOR E DEDICAÇÃO DE DENIS ABRAHÃO AO GRÊMIO | Cortes do Duda",
+      "videoId": "sGY4DCG_qEw",
+      "url": "https://www.youtube.com/watch?v=sGY4DCG_qEw",
+      "thumbnail": "https://i.ytimg.com/vi/sGY4DCG_qEw/mqdefault.jpg",
+      "published": "2026-10-07T16:00:14Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 07.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "E1EPyO8KiLU",
       "url": "https://www.youtube.com/watch?v=E1EPyO8KiLU",
       "thumbnail": "https://i.ytimg.com/vi/E1EPyO8KiLU/mqdefault.jpg",
       "published": "2026-10-07T13:12:53Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "DENIS DEU CERTO NA BAGÉ TV #dudagarbi #umassadopara",
-      "videoId": "-wQzbsRNd1g",
-      "url": "https://www.youtube.com/watch?v=-wQzbsRNd1g",
-      "thumbnail": "https://i.ytimg.com/vi/-wQzbsRNd1g/mqdefault.jpg",
-      "published": "2026-10-06T22:30:02Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
+      "videoId": "ozy4Uzijks8",
+      "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
+      "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault.jpg",
+      "published": "2026-10-07T15:05:18Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #58",
       "videoId": "OoL0GfLEMGM",
       "url": "https://www.youtube.com/watch?v=OoL0GfLEMGM",
       "thumbnail": "https://i.ytimg.com/vi/OoL0GfLEMGM/mqdefault_live.jpg",
       "published": "2026-10-07T14:02:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
-      "videoId": "ozy4Uzijks8",
-      "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
-      "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault_live.jpg",
-      "published": "2026-10-07T14:02:45Z"
     }
   ]
 }
