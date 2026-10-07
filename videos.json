@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T19:00:52.450124+00:00",
+  "updated_at": "2026-10-07T20:00:38.355895+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "UM DEFENDE RENATO, OUTRO DETONA: QUEM TEM RAZÃO? #CORTESDORESENHA",
+      "videoId": "Pe0y0HoSa3k",
+      "url": "https://www.youtube.com/watch?v=Pe0y0HoSa3k",
+      "thumbnail": "https://i.ytimg.com/vi/Pe0y0HoSa3k/mqdefault.jpg",
+      "published": "2026-10-07T19:52:45Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 REMO X GRÊMIO - [DIRETO DO MANGUEIRÃO]",
       "videoId": "TAOaoEkv2rE",
       "url": "https://www.youtube.com/watch?v=TAOaoEkv2rE",
       "thumbnail": "https://i.ytimg.com/vi/TAOaoEkv2rE/mqdefault_live.jpg",
       "published": "2026-10-07T18:29:57Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "NARDONI VIRA HOMEM DE CONFIANÇA E NAMING RIGHTS DO BEIRA-RIO EM PAUTA🔸RESENHA FORA DA SALA🔸#147",
-      "videoId": "l8wGq-E6sFs",
-      "url": "https://www.youtube.com/watch?v=l8wGq-E6sFs",
-      "thumbnail": "https://i.ytimg.com/vi/l8wGq-E6sFs/mqdefault.jpg",
-      "published": "2026-10-07T18:08:02Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "LORENA TREINA COM A SELEÇÃO NO CT DO GRÊMIO",
+      "videoId": "I7iJTFjDphU",
+      "url": "https://www.youtube.com/watch?v=I7iJTFjDphU",
+      "thumbnail": "https://i.ytimg.com/vi/I7iJTFjDphU/mqdefault.jpg",
+      "published": "2026-10-07T19:21:04Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X OPERÁRIO I MASC (COPA DO BRASIL SUB-20 I 2026)",
       "videoId": "OsaaDkT4quM",
       "url": "https://www.youtube.com/watch?v=OsaaDkT4quM",
@@ -155,20 +163,12 @@
       "published": "2026-10-06T17:23:16Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "cQUrhw0F8ik",
-      "url": "https://www.youtube.com/watch?v=cQUrhw0F8ik",
-      "thumbnail": "https://i.ytimg.com/vi/cQUrhw0F8ik/mqdefault_live.jpg",
-      "published": "2026-10-06T13:42:29Z"
-    },
-    {
       "channel": "GZH Digital",
       "title": "Últimas notícias, aumento de carros elétricos no RS, trânsito, tempo e mais | Gaúcha+ | 07/10/2026",
       "videoId": "O0kqcRb8U4A",
       "url": "https://www.youtube.com/watch?v=O0kqcRb8U4A",
-      "thumbnail": "https://i.ytimg.com/vi/O0kqcRb8U4A/mqdefault_live.jpg",
-      "published": "2026-10-07T18:01:26Z"
+      "thumbnail": "https://i.ytimg.com/vi/O0kqcRb8U4A/mqdefault.jpg",
+      "published": "2026-10-07T19:37:00Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 07/10/2026",
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 07/10/2026",
       "videoId": "gva85uRG_yA",
       "url": "https://www.youtube.com/watch?v=gva85uRG_yA",
-      "thumbnail": "https://i.ytimg.com/vi/gva85uRG_yA/mqdefault_live.jpg",
-      "published": "2026-10-07T11:01:13Z"
+      "thumbnail": "https://i.ytimg.com/vi/gva85uRG_yA/mqdefault.jpg",
+      "published": "2026-10-07T19:56:07Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "06/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "nWawHaXVTi0",
-      "url": "https://www.youtube.com/watch?v=nWawHaXVTi0",
-      "thumbnail": "https://i.ytimg.com/vi/nWawHaXVTi0/mqdefault.jpg",
-      "published": "2026-10-06T23:38:30Z"
+      "title": "AO VIVO | INTER X CORINTHIANS | REMO X GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 07/10/2026",
+      "videoId": "rLfp9okgNfI",
+      "url": "https://www.youtube.com/watch?v=rLfp9okgNfI",
+      "thumbnail": "https://i.ytimg.com/vi/rLfp9okgNfI/mqdefault_live.jpg",
+      "published": "2026-10-07T19:34:14Z"
     },
     {
       "channel": "Radio Imortal",
