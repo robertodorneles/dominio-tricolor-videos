@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-07T00:22:28.068304+00:00",
+  "updated_at": "2026-10-07T01:00:33.618914+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: PRÉ RODADA DA DUPLA | INTER X CORINTHIANS | REMO X GRÊMIO",
+      "videoId": "xHtAThU2pig",
+      "url": "https://www.youtube.com/watch?v=xHtAThU2pig",
+      "thumbnail": "https://i.ytimg.com/vi/xHtAThU2pig/mqdefault_live.jpg",
+      "published": "2026-10-07T00:33:57Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: VEJA O QUE ELE FEZ NO TREINO| Renato PROÍBE venda de joia de 18 anos! João Borne",
@@ -11,28 +19,20 @@
       "published": "2026-10-06T20:00:08Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 GAROTOS DE 2009 PROMETEM! | CONHEÇA ELES! | VÃO TER CHANCE",
-      "videoId": "h3dkWalGByQ",
-      "url": "https://www.youtube.com/watch?v=h3dkWalGByQ",
-      "thumbnail": "https://i.ytimg.com/vi/h3dkWalGByQ/mqdefault.jpg",
-      "published": "2026-10-06T19:05:18Z"
+      "channel": "Bage TV",
+      "title": "PROIBIDO TROPEÇAR! GRÊMIO SOB PRESSÃO EM BELÉM🔵 BOA NOITE GRÊMIO #038",
+      "videoId": "ayrnm3V7vIU",
+      "url": "https://www.youtube.com/watch?v=ayrnm3V7vIU",
+      "thumbnail": "https://i.ytimg.com/vi/ayrnm3V7vIU/mqdefault_live.jpg",
+      "published": "2026-10-07T00:51:05Z"
     },
     {
       "channel": "Bage TV",
       "title": "GRÊMIO TEM SETE DESFALQUES CONTRA O REMO!🟣RESENHA FORA DA SALA NOITE🟣#038",
       "videoId": "JIEA3PsO_NI",
       "url": "https://www.youtube.com/watch?v=JIEA3PsO_NI",
-      "thumbnail": "https://i.ytimg.com/vi/JIEA3PsO_NI/mqdefault_live.jpg",
-      "published": "2026-10-06T23:15:00Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "QUIZ DO BRASILEIRÃO FT. GRUPO CHOCOLATE! #CORTESDORESENHA",
-      "videoId": "Fy_fX9tmwks",
-      "url": "https://www.youtube.com/watch?v=Fy_fX9tmwks",
-      "thumbnail": "https://i.ytimg.com/vi/Fy_fX9tmwks/mqdefault.jpg",
-      "published": "2026-10-06T22:30:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/JIEA3PsO_NI/mqdefault.jpg",
+      "published": "2026-10-07T00:37:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
