@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T18:00:41.379085+00:00",
+  "updated_at": "2026-10-07T19:00:52.450124+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "DODI OU NARDONI? ELE REVIU OS LANCES E BATEU O MARTELO! #CORTESDOFAG",
-      "videoId": "uwdout_AfnA",
-      "url": "https://www.youtube.com/watch?v=uwdout_AfnA",
-      "thumbnail": "https://i.ytimg.com/vi/uwdout_AfnA/mqdefault.jpg",
-      "published": "2026-10-07T16:38:44Z"
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 REMO X GRÊMIO - [DIRETO DO MANGUEIRÃO]",
+      "videoId": "TAOaoEkv2rE",
+      "url": "https://www.youtube.com/watch?v=TAOaoEkv2rE",
+      "thumbnail": "https://i.ytimg.com/vi/TAOaoEkv2rE/mqdefault_live.jpg",
+      "published": "2026-10-07T18:29:57Z"
     },
     {
       "channel": "Bage TV",
       "title": "NARDONI VIRA HOMEM DE CONFIANÇA E NAMING RIGHTS DO BEIRA-RIO EM PAUTA🔸RESENHA FORA DA SALA🔸#147",
       "videoId": "l8wGq-E6sFs",
       "url": "https://www.youtube.com/watch?v=l8wGq-E6sFs",
-      "thumbnail": "https://i.ytimg.com/vi/l8wGq-E6sFs/mqdefault_live.jpg",
-      "published": "2026-10-07T16:29:10Z"
+      "thumbnail": "https://i.ytimg.com/vi/l8wGq-E6sFs/mqdefault.jpg",
+      "published": "2026-10-07T18:08:02Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -168,7 +168,7 @@
       "videoId": "O0kqcRb8U4A",
       "url": "https://www.youtube.com/watch?v=O0kqcRb8U4A",
       "thumbnail": "https://i.ytimg.com/vi/O0kqcRb8U4A/mqdefault_live.jpg",
-      "published": "2026-10-07T17:52:02Z"
+      "published": "2026-10-07T18:01:26Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE PRORROGAÇÃO | RÁDIO GRENAL | 07/10/2026",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 07/10/2026",
       "videoId": "gva85uRG_yA",
       "url": "https://www.youtube.com/watch?v=gva85uRG_yA",
       "thumbnail": "https://i.ytimg.com/vi/gva85uRG_yA/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO REMO X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DE BELÉM",
+      "videoId": "rAmU6EDcX-c",
+      "url": "https://www.youtube.com/watch?v=rAmU6EDcX-c",
+      "thumbnail": "https://i.ytimg.com/vi/rAmU6EDcX-c/mqdefault_live.jpg",
+      "published": "2026-10-07T18:30:53Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
       "videoId": "ozy4Uzijks8",
       "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
       "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault.jpg",
       "published": "2026-10-07T15:05:18Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HOJE TEM GRÊMIO EM CAMPO! | COMO É BOM SER DO GRÊMIO #58",
-      "videoId": "OoL0GfLEMGM",
-      "url": "https://www.youtube.com/watch?v=OoL0GfLEMGM",
-      "thumbnail": "https://i.ytimg.com/vi/OoL0GfLEMGM/mqdefault_live.jpg",
-      "published": "2026-10-07T14:02:47Z"
     }
   ]
 }
