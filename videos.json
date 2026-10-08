@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:00:37.705292+00:00",
+  "updated_at": "2026-10-08T11:00:40.246583+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Temporais no RS, últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 08/10/2026",
+      "videoId": "iajvr8kyGuE",
+      "url": "https://www.youtube.com/watch?v=iajvr8kyGuE",
+      "thumbnail": "https://i.ytimg.com/vi/iajvr8kyGuE/mqdefault_live.jpg",
+      "published": "2026-10-08T10:56:30Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Gaúcha+ | 08/10/2026",
       "videoId": "h4UTgaAmg7k",
       "url": "https://www.youtube.com/watch?v=h4UTgaAmg7k",
       "thumbnail": "https://i.ytimg.com/vi/h4UTgaAmg7k/mqdefault_live.jpg",
       "published": "2026-10-08T07:45:21Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Gaúcha Atualidade | 08/10/2026",
-      "videoId": "iajvr8kyGuE",
-      "url": "https://www.youtube.com/watch?v=iajvr8kyGuE",
-      "thumbnail": "https://i.ytimg.com/vi/iajvr8kyGuE/mqdefault_live.jpg",
-      "published": "2026-10-08T07:43:47Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JORNADA COMPLETA | INTER 2 X 1 CORINTHIANS | REMO 1 X 1 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 07/10",
-      "videoId": "rLfp9okgNfI",
-      "url": "https://www.youtube.com/watch?v=rLfp9okgNfI",
-      "thumbnail": "https://i.ytimg.com/vi/rLfp9okgNfI/mqdefault.jpg",
-      "published": "2026-10-08T04:24:28Z"
+      "title": "TROCA-TROCA NO GRÊMIO? 👀🇪🇪 #gremio #tricolor #trend #futebol #grenal",
+      "videoId": "IYLPF0761aE",
+      "url": "https://www.youtube.com/watch?v=IYLPF0761aE",
+      "thumbnail": "https://i.ytimg.com/vi/IYLPF0761aE/mqdefault.jpg",
+      "published": "2026-10-08T11:00:12Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE RENATO PORTALUPPI - TREINADOR DO GRÊMIO | REMO 1 X 1 GRÊMIO | BRASILEIRÃO | 07/10/2026",
-      "videoId": "QkTDqTSyd20",
-      "url": "https://www.youtube.com/watch?v=QkTDqTSyd20",
-      "thumbnail": "https://i.ytimg.com/vi/QkTDqTSyd20/mqdefault.jpg",
-      "published": "2026-10-08T02:28:15Z"
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 08/10/26",
+      "videoId": "gxZRAPZ2HVk",
+      "url": "https://www.youtube.com/watch?v=gxZRAPZ2HVk",
+      "thumbnail": "https://i.ytimg.com/vi/gxZRAPZ2HVk/mqdefault_live.jpg",
+      "published": "2026-10-08T10:55:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #39 — EMPATE COM GOSTO DE DERROTA EM BELÉM! GRÊMIO AFUNDA NO Z4",
+      "videoId": "stl3Cppk2rA",
+      "url": "https://www.youtube.com/watch?v=stl3Cppk2rA",
+      "thumbnail": "https://i.ytimg.com/vi/stl3Cppk2rA/mqdefault_live.jpg",
+      "published": "2026-10-08T10:02:46Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=CuBglcAw9gw",
       "thumbnail": "https://i.ytimg.com/vi/CuBglcAw9gw/mqdefault_live.jpg",
       "published": "2026-10-08T02:37:41Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO TROPEÇA EM BELÉM E AFUNDA NA TABELA | COMO É BOM SER DO GRÊMIO #59",
-      "videoId": "CObi6JNhFkE",
-      "url": "https://www.youtube.com/watch?v=CObi6JNhFkE",
-      "thumbnail": "https://i.ytimg.com/vi/CObi6JNhFkE/mqdefault_live.jpg",
-      "published": "2026-10-08T02:35:36Z"
     }
   ]
 }
