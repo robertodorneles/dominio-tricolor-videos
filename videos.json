@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T00:00:55.531476+00:00",
+  "updated_at": "2026-10-08T01:00:39.362202+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,27 @@
     },
     {
       "channel": "Canal do CCD",
-      "title": "Remo x Grêmio: Times, tabela e novidades | Decisão no Pará",
-      "videoId": "9grsZOSi3bk",
-      "url": "https://www.youtube.com/watch?v=9grsZOSi3bk",
-      "thumbnail": "https://i.ytimg.com/vi/9grsZOSi3bk/mqdefault.jpg",
-      "published": "2026-10-07T12:33:43Z"
+      "title": "Remo 1 x 1 Grêmio: Péssimo resultado no Pará",
+      "videoId": "tVOji-mZy64",
+      "url": "https://www.youtube.com/watch?v=tVOji-mZy64",
+      "thumbnail": "https://i.ytimg.com/vi/tVOji-mZy64/mqdefault.jpg",
+      "published": "2026-10-08T00:55:47Z"
     },
     {
       "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #697: Provável Grêmio | Villasanti | Manu | Olímpico | Copa do Brasil e mais",
-      "videoId": "LI2IZmcmb4Y",
-      "url": "https://www.youtube.com/watch?v=LI2IZmcmb4Y",
-      "thumbnail": "https://i.ytimg.com/vi/LI2IZmcmb4Y/mqdefault.jpg",
-      "published": "2026-10-06T21:38:42Z"
+      "title": "REMO 1 X 1 GRÊMIO: EMPATE CATASTRÓFICO EM BELÉM",
+      "videoId": "GvLjthMeV6g",
+      "url": "https://www.youtube.com/watch?v=GvLjthMeV6g",
+      "thumbnail": "https://i.ytimg.com/vi/GvLjthMeV6g/mqdefault_live.jpg",
+      "published": "2026-10-08T00:31:34Z"
+    },
+    {
+      "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #033 - Projeção para o duelo contra o Remo",
+      "videoId": "6GERVZoeph8",
+      "url": "https://www.youtube.com/watch?v=6GERVZoeph8",
+      "thumbnail": "https://i.ytimg.com/vi/6GERVZoeph8/mqdefault.jpg",
+      "published": "2026-10-08T00:54:18Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=G2a_WoEnSqo",
       "thumbnail": "https://i.ytimg.com/vi/G2a_WoEnSqo/mqdefault_live.jpg",
       "published": "2026-10-07T20:36:01Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #29",
-      "videoId": "KTdMw5xEQqY",
-      "url": "https://www.youtube.com/watch?v=KTdMw5xEQqY",
-      "thumbnail": "https://i.ytimg.com/vi/KTdMw5xEQqY/mqdefault_live.jpg",
-      "published": "2026-10-07T17:11:28Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "REMO X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
+      "videoId": "V6-DqwKcIgw",
+      "url": "https://www.youtube.com/watch?v=V6-DqwKcIgw",
+      "thumbnail": "https://i.ytimg.com/vi/V6-DqwKcIgw/mqdefault_live.jpg",
+      "published": "2026-10-08T00:38:57Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "NOVA POSIÇÃO DO AMUZU E DO PAVÓN? #gremio #futebol #remo @blascortintas",
       "videoId": "UPc4WhTIBY4",
       "url": "https://www.youtube.com/watch?v=UPc4WhTIBY4",
@@ -107,12 +115,12 @@
       "published": "2026-10-07T14:00:22Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "REMO X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
-      "videoId": "V6-DqwKcIgw",
-      "url": "https://www.youtube.com/watch?v=V6-DqwKcIgw",
-      "thumbnail": "https://i.ytimg.com/vi/V6-DqwKcIgw/mqdefault_live.jpg",
-      "published": "2026-10-07T11:36:31Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE REMO x GRÊMIO DIRETO DO MANGUEIRÃO | BRASILEIRÃO | COLETIVAS | 07/10 #37",
+      "videoId": "mo6K9SdOD2o",
+      "url": "https://www.youtube.com/watch?v=mo6K9SdOD2o",
+      "thumbnail": "https://i.ytimg.com/vi/mo6K9SdOD2o/mqdefault_live.jpg",
+      "published": "2026-10-08T00:30:51Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=TmjScfW93So",
       "thumbnail": "https://i.ytimg.com/vi/TmjScfW93So/mqdefault.jpg",
       "published": "2026-10-07T22:21:30Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "SIMULAMOS A RODADA MAIS DIFÍCIL DO BRASILEIRÃO! | O QUE É MELHOR PRO GRÊMIO?",
-      "videoId": "GnLkdc-K6I4",
-      "url": "https://www.youtube.com/watch?v=GnLkdc-K6I4",
-      "thumbnail": "https://i.ytimg.com/vi/GnLkdc-K6I4/mqdefault.jpg",
-      "published": "2026-10-07T00:10:45Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO | REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "BsnOBxwmGSI",
-      "url": "https://www.youtube.com/watch?v=BsnOBxwmGSI",
-      "thumbnail": "https://i.ytimg.com/vi/BsnOBxwmGSI/mqdefault_live.jpg",
-      "published": "2026-10-07T21:03:15Z"
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "cQUrhw0F8ik",
+      "url": "https://www.youtube.com/watch?v=cQUrhw0F8ik",
+      "thumbnail": "https://i.ytimg.com/vi/cQUrhw0F8ik/mqdefault_live.jpg",
+      "published": "2026-10-08T00:56:54Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "LORENA TREINA COM A SELEÇÃO NO CT DO GRÊMIO",
-      "videoId": "I7iJTFjDphU",
-      "url": "https://www.youtube.com/watch?v=I7iJTFjDphU",
-      "thumbnail": "https://i.ytimg.com/vi/I7iJTFjDphU/mqdefault.jpg",
-      "published": "2026-10-07T19:21:04Z"
+      "title": "AO VIVO | REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "BsnOBxwmGSI",
+      "url": "https://www.youtube.com/watch?v=BsnOBxwmGSI",
+      "thumbnail": "https://i.ytimg.com/vi/BsnOBxwmGSI/mqdefault.jpg",
+      "published": "2026-10-08T00:44:49Z"
     },
     {
       "channel": "GZH Digital",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | INTER 1 X 0 CORINTHIANS | REMO 0 X 1 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 07/10/2026",
+      "title": "AO VIVO | INTER 2 X 1 CORINTHIANS | REMO 1 X 1 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 07/10/2026",
       "videoId": "rLfp9okgNfI",
       "url": "https://www.youtube.com/watch?v=rLfp9okgNfI",
       "thumbnail": "https://i.ytimg.com/vi/rLfp9okgNfI/mqdefault_live.jpg",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | REMO (0) X (1) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DE BELÉM",
+      "title": "AO VIVO | PÓS-JOGO REMO (1) X (1) GRÊMIO | COLETIVA DE RENATO PORTALUPPI | BRASILEIRÃO 2026",
       "videoId": "rAmU6EDcX-c",
       "url": "https://www.youtube.com/watch?v=rAmU6EDcX-c",
       "thumbnail": "https://i.ytimg.com/vi/rAmU6EDcX-c/mqdefault_live.jpg",
