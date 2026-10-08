@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:32:01.517078+00:00",
+  "updated_at": "2026-10-08T02:00:34.951294+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,27 @@
     },
     {
       "channel": "Bage TV",
-      "title": "⚫️⚽️🔵 O GRÊMIO SEGUE PAGANDO PELOS ERROS DA DIREÇÃO",
-      "videoId": "6evV7qMfxc8",
-      "url": "https://www.youtube.com/watch?v=6evV7qMfxc8",
-      "thumbnail": "https://i.ytimg.com/vi/6evV7qMfxc8/mqdefault.jpg",
-      "published": "2026-10-08T01:15:19Z"
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 REMO X GRÊMIO - [DIRETO DO MANGUEIRÃO]",
+      "videoId": "TAOaoEkv2rE",
+      "url": "https://www.youtube.com/watch?v=TAOaoEkv2rE",
+      "thumbnail": "https://i.ytimg.com/vi/TAOaoEkv2rE/mqdefault_live.jpg",
+      "published": "2026-10-08T01:59:38Z"
     },
     {
       "channel": "Bage TV",
-      "title": "POR QUE OS NÚMEROS NA BOLA AÉREA SÃO TÃO RUINS? #CORTESDORESENHA",
-      "videoId": "t0pRpmu2Ru8",
-      "url": "https://www.youtube.com/watch?v=t0pRpmu2Ru8",
-      "thumbnail": "https://i.ytimg.com/vi/t0pRpmu2Ru8/mqdefault.jpg",
-      "published": "2026-10-07T20:36:44Z"
+      "title": "🔵 BOA NOITE GRÊMIO #039",
+      "videoId": "xea3X-_xQZg",
+      "url": "https://www.youtube.com/watch?v=xea3X-_xQZg",
+      "thumbnail": "https://i.ytimg.com/vi/xea3X-_xQZg/mqdefault_live.jpg",
+      "published": "2026-10-08T01:58:07Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRAVE! SAÍDAS URGENTES DE JOGADORES E DIRIGENTES NO GRÊMIO! DESTRUÍRAM TUDO! CAÍMOS! SÓ POR MILAGRE",
+      "videoId": "Fn9UPKelyqE",
+      "url": "https://www.youtube.com/watch?v=Fn9UPKelyqE",
+      "thumbnail": "https://i.ytimg.com/vi/Fn9UPKelyqE/mqdefault.jpg",
+      "published": "2026-10-08T01:44:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=zMQc26rjQbs",
       "thumbnail": "https://i.ytimg.com/vi/zMQc26rjQbs/mqdefault.jpg",
       "published": "2026-10-07T15:08:14Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRÊMIO FARÁ VENDA MILIONÁRIA | CEBOLINHA E ARTHUR DE VOLTA COM RENATO EM 2027?",
-      "videoId": "RiIXNn67aE4",
-      "url": "https://www.youtube.com/watch?v=RiIXNn67aE4",
-      "thumbnail": "https://i.ytimg.com/vi/RiIXNn67aE4/mqdefault.jpg",
-      "published": "2026-10-07T00:03:53Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "REMO X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
-      "videoId": "V6-DqwKcIgw",
-      "url": "https://www.youtube.com/watch?v=V6-DqwKcIgw",
-      "thumbnail": "https://i.ytimg.com/vi/V6-DqwKcIgw/mqdefault_live.jpg",
-      "published": "2026-10-08T01:31:32Z"
+      "title": "VOCÊS VÃO ACABAR COM GRÊMIO! #gremio #futebol",
+      "videoId": "zLqlyT96Rc4",
+      "url": "https://www.youtube.com/watch?v=zLqlyT96Rc4",
+      "thumbnail": "https://i.ytimg.com/vi/zLqlyT96Rc4/mqdefault.jpg",
+      "published": "2026-10-08T01:53:11Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "PIOROU A SITUAÇÃO! ESCÂNDALO OS JOGADORES  | REMO 1X1 GRÊMIO | COMENTÁRIO.",
-      "videoId": "lDuI2mcQZTs",
-      "url": "https://www.youtube.com/watch?v=lDuI2mcQZTs",
-      "thumbnail": "https://i.ytimg.com/vi/lDuI2mcQZTs/mqdefault.jpg",
-      "published": "2026-10-08T01:17:55Z"
+      "title": "REMO X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
+      "videoId": "V6-DqwKcIgw",
+      "url": "https://www.youtube.com/watch?v=V6-DqwKcIgw",
+      "thumbnail": "https://i.ytimg.com/vi/V6-DqwKcIgw/mqdefault.jpg",
+      "published": "2026-10-08T01:38:51Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -120,7 +120,7 @@
       "videoId": "mo6K9SdOD2o",
       "url": "https://www.youtube.com/watch?v=mo6K9SdOD2o",
       "thumbnail": "https://i.ytimg.com/vi/mo6K9SdOD2o/mqdefault_live.jpg",
-      "published": "2026-10-08T00:30:51Z"
+      "published": "2026-10-08T01:52:04Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GOLS DE INTER 2 X 1 CORINTHIANS | NARRAÇÃO PC CARVALHO | BRASILEIRÃO | RÁDIO GRENAL | 07/10/26",
+      "videoId": "HAezbQmO5zs",
+      "url": "https://www.youtube.com/watch?v=HAezbQmO5zs",
+      "thumbnail": "https://i.ytimg.com/vi/HAezbQmO5zs/mqdefault.jpg",
+      "published": "2026-10-08T01:40:33Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "DUPLA GRENAL AJUDADA? 👀",
       "videoId": "HVr8UYX5Vjg",
       "url": "https://www.youtube.com/watch?v=HVr8UYX5Vjg",
@@ -219,12 +227,12 @@
       "published": "2026-10-08T00:00:31Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | INTER 2 X 1 CORINTHIANS | REMO 1 X 1 GRÊMIO | BRASILEIRÃO | RÁDIO GRENAL | 07/10/2026",
-      "videoId": "rLfp9okgNfI",
-      "url": "https://www.youtube.com/watch?v=rLfp9okgNfI",
-      "thumbnail": "https://i.ytimg.com/vi/rLfp9okgNfI/mqdefault_live.jpg",
-      "published": "2026-10-07T20:32:53Z"
+      "channel": "Radio Imortal",
+      "title": "WALLACE FALA APÓS EMPATE DO GRÊMIO",
+      "videoId": "a9IBSj7CAuU",
+      "url": "https://www.youtube.com/watch?v=a9IBSj7CAuU",
+      "thumbnail": "https://i.ytimg.com/vi/a9IBSj7CAuU/mqdefault.jpg",
+      "published": "2026-10-08T01:55:48Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=rAmU6EDcX-c",
       "thumbnail": "https://i.ytimg.com/vi/rAmU6EDcX-c/mqdefault_live.jpg",
       "published": "2026-10-07T18:30:53Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #171 — É DIA DE GRÊMIO! TUDO SOBRE O CONFRONTO DESTA NOITE",
-      "videoId": "ozy4Uzijks8",
-      "url": "https://www.youtube.com/watch?v=ozy4Uzijks8",
-      "thumbnail": "https://i.ytimg.com/vi/ozy4Uzijks8/mqdefault.jpg",
-      "published": "2026-10-07T15:05:18Z"
     }
   ]
 }
