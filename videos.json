@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T17:00:37.079364+00:00",
+  "updated_at": "2026-10-08T18:00:44.342366+00:00",
   "total": 30,
   "videos": [
     {
@@ -72,7 +72,7 @@
       "videoId": "q0yZIButuYU",
       "url": "https://www.youtube.com/watch?v=q0yZIButuYU",
       "thumbnail": "https://i.ytimg.com/vi/q0yZIButuYU/mqdefault_live.jpg",
-      "published": "2026-10-08T16:00:56Z"
+      "published": "2026-10-08T17:13:17Z"
     },
     {
       "channel": "Canal do Farid",
@@ -84,19 +84,19 @@
     },
     {
       "channel": "Canal do Gabardo",
+      "title": "Auxiliar do Grêmio é preso na volta de Belém | Veja os detalhes | Como fica para o Gre-Nal",
+      "videoId": "DHvOSBUPcfY",
+      "url": "https://www.youtube.com/watch?v=DHvOSBUPcfY",
+      "thumbnail": "https://i.ytimg.com/vi/DHvOSBUPcfY/mqdefault.jpg",
+      "published": "2026-10-08T17:54:44Z"
+    },
+    {
+      "channel": "Canal do Gabardo",
       "title": "Gol perdido por Enamorado e a crítica forte de Renato #gremio",
       "videoId": "RsD0bVcVJaw",
       "url": "https://www.youtube.com/watch?v=RsD0bVcVJaw",
       "thumbnail": "https://i.ytimg.com/vi/RsD0bVcVJaw/mqdefault.jpg",
       "published": "2026-10-08T15:09:12Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "“O que não foi feito em 9 meses” | Veja o que Renato falou | Quem pode voltar no Gre-Nal",
-      "videoId": "rCu1Ynr9ktU",
-      "url": "https://www.youtube.com/watch?v=rCu1Ynr9ktU",
-      "thumbnail": "https://i.ytimg.com/vi/rCu1Ynr9ktU/mqdefault.jpg",
-      "published": "2026-10-08T14:15:45Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X OPERÁRIO I MASC (COPA DO BRASIL SUB-20 I 2026)",
+      "videoId": "OsaaDkT4quM",
+      "url": "https://www.youtube.com/watch?v=OsaaDkT4quM",
+      "thumbnail": "https://i.ytimg.com/vi/OsaaDkT4quM/mqdefault_live.jpg",
+      "published": "2026-10-08T17:46:19Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "cQUrhw0F8ik",
       "url": "https://www.youtube.com/watch?v=cQUrhw0F8ik",
@@ -155,28 +163,20 @@
       "published": "2026-10-08T01:09:46Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "BsnOBxwmGSI",
-      "url": "https://www.youtube.com/watch?v=BsnOBxwmGSI",
-      "thumbnail": "https://i.ytimg.com/vi/BsnOBxwmGSI/mqdefault.jpg",
-      "published": "2026-10-08T00:44:49Z"
+      "channel": "GZH Digital",
+      "title": "Flagrantes de drogas perto da rodoviária, votos de Garotinho anulados e mais | Gaúcha+ | 08/10/2026",
+      "videoId": "h4UTgaAmg7k",
+      "url": "https://www.youtube.com/watch?v=h4UTgaAmg7k",
+      "thumbnail": "https://i.ytimg.com/vi/h4UTgaAmg7k/mqdefault_live.jpg",
+      "published": "2026-10-08T18:00:03Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "2 Coluna do PG   vertical 1",
-      "videoId": "OcESYwtdH0s",
-      "url": "https://www.youtube.com/watch?v=OcESYwtdH0s",
-      "thumbnail": "https://i.ytimg.com/vi/OcESYwtdH0s/mqdefault.jpg",
-      "published": "2026-10-08T16:42:57Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Risco para a humanidade? Pesquisadoras discutem os dilemas éticos da IA | Radar de Inovação",
-      "videoId": "m8g1A-sbB10",
-      "url": "https://www.youtube.com/watch?v=m8g1A-sbB10",
-      "thumbnail": "https://i.ytimg.com/vi/m8g1A-sbB10/mqdefault.jpg",
-      "published": "2026-10-08T15:00:07Z"
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 08/10/2026",
+      "videoId": "EKRmLM4PsLY",
+      "url": "https://www.youtube.com/watch?v=EKRmLM4PsLY",
+      "thumbnail": "https://i.ytimg.com/vi/EKRmLM4PsLY/mqdefault_live.jpg",
+      "published": "2026-10-08T17:02:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE EDUARDO BAPTISTA - TREINADOR DO INTER | INTER 2 X 1 CORINTHIANS | BRASILEIRÃO | 07/10/26",
+      "videoId": "t4TDM54vyic",
+      "url": "https://www.youtube.com/watch?v=t4TDM54vyic",
+      "thumbnail": "https://i.ytimg.com/vi/t4TDM54vyic/mqdefault.jpg",
+      "published": "2026-10-08T17:42:21Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "TROCA-TROCA NO INTER? 👀🇮🇩 #inter #colorado #trend #futebol #grenal",
       "videoId": "JsKgmoW7JI4",
       "url": "https://www.youtube.com/watch?v=JsKgmoW7JI4",
       "thumbnail": "https://i.ytimg.com/vi/JsKgmoW7JI4/mqdefault.jpg",
       "published": "2026-10-08T11:30:30Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 08/10/26",
-      "videoId": "gxZRAPZ2HVk",
-      "url": "https://www.youtube.com/watch?v=gxZRAPZ2HVk",
-      "thumbnail": "https://i.ytimg.com/vi/gxZRAPZ2HVk/mqdefault_live.jpg",
-      "published": "2026-10-08T11:05:59Z"
     },
     {
       "channel": "Radio Imortal",
