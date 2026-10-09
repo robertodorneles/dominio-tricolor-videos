@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:00:48.055103+00:00",
+  "updated_at": "2026-10-09T15:00:38.533467+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "ZyodTmMClYE",
       "url": "https://www.youtube.com/watch?v=ZyodTmMClYE",
       "thumbnail": "https://i.ytimg.com/vi/ZyodTmMClYE/mqdefault_live.jpg",
-      "published": "2026-10-09T13:40:04Z"
+      "published": "2026-10-09T14:53:23Z"
     },
     {
       "channel": "Bage TV",
       "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 09/10 - #652",
       "videoId": "qQW9zLV_cnA",
       "url": "https://www.youtube.com/watch?v=qQW9zLV_cnA",
-      "thumbnail": "https://i.ytimg.com/vi/qQW9zLV_cnA/mqdefault_live.jpg",
-      "published": "2026-10-09T13:33:37Z"
+      "thumbnail": "https://i.ytimg.com/vi/qQW9zLV_cnA/mqdefault.jpg",
+      "published": "2026-10-09T14:11:43Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨RENATO ARQUIVA JOGADOR | RETORNOS NO TIME DO GRE-NAL | AGORA: GRÊMIO TOMA TRANSFER BAN!",
+      "videoId": "sDAXnduLik4",
+      "url": "https://www.youtube.com/watch?v=sDAXnduLik4",
+      "thumbnail": "https://i.ytimg.com/vi/sDAXnduLik4/mqdefault.jpg",
+      "published": "2026-10-09T14:38:42Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=T8GHDgN5OHQ",
       "thumbnail": "https://i.ytimg.com/vi/T8GHDgN5OHQ/mqdefault.jpg",
       "published": "2026-10-09T00:54:06Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CONFLITO FORTE! RENATO FOI “PRA CIMA” DELES! GRÊMIO EM CRISE! NÃO PODEMOS ABANDONAR!",
-      "videoId": "ovjrK8bWf-g",
-      "url": "https://www.youtube.com/watch?v=ovjrK8bWf-g",
-      "thumbnail": "https://i.ytimg.com/vi/ovjrK8bWf-g/mqdefault.jpg",
-      "published": "2026-10-08T16:31:10Z"
     },
     {
       "channel": "Canal do CCD",
@@ -167,8 +167,8 @@
       "title": "O que esperar da Copa do Mundo Feminina, últimas notícias e mais | Timeline | 09/10/2026",
       "videoId": "xjJgi4MfpSM",
       "url": "https://www.youtube.com/watch?v=xjJgi4MfpSM",
-      "thumbnail": "https://i.ytimg.com/vi/xjJgi4MfpSM/mqdefault_live.jpg",
-      "published": "2026-10-09T13:57:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/xjJgi4MfpSM/mqdefault.jpg",
+      "published": "2026-10-09T14:35:51Z"
     },
     {
       "channel": "GZH Digital",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 09/10/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE | 09/10/2026 | RÁDIO GRENAL",
       "videoId": "m2sRCFqV1tw",
       "url": "https://www.youtube.com/watch?v=m2sRCFqV1tw",
       "thumbnail": "https://i.ytimg.com/vi/m2sRCFqV1tw/mqdefault_live.jpg",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO ESTÁ JOGANDO CONTRA A MATEMÁTICA | ANÁLISE DO EMPATE | NOITES DE GRÊMIO #161 - 08/10",
-      "videoId": "VNwu0ocFs9I",
-      "url": "https://www.youtube.com/watch?v=VNwu0ocFs9I",
-      "thumbnail": "https://i.ytimg.com/vi/VNwu0ocFs9I/mqdefault.jpg",
-      "published": "2026-10-09T13:32:21Z"
+      "title": "TIMELINE IMORTAL #173 — GRÊMIO TERÁ ALTERAÇÕES PARA O CLÁSSICO? | LATERAIS SÃO DÚVIDAS",
+      "videoId": "UogqKybYQG8",
+      "url": "https://www.youtube.com/watch?v=UogqKybYQG8",
+      "thumbnail": "https://i.ytimg.com/vi/UogqKybYQG8/mqdefault_live.jpg",
+      "published": "2026-10-09T14:08:01Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "FU8MAfJnP-c",
       "url": "https://www.youtube.com/watch?v=FU8MAfJnP-c",
       "thumbnail": "https://i.ytimg.com/vi/FU8MAfJnP-c/mqdefault_live.jpg",
-      "published": "2026-10-09T12:34:47Z"
+      "published": "2026-10-09T14:07:53Z"
     }
   ]
 }
