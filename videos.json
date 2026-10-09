@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:00:42.956360+00:00",
+  "updated_at": "2026-10-09T01:42:29.932364+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🟣RESENHA FORA DA SALA NOITE🟣#040",
+      "videoId": "OcCeXDzzsCI",
+      "url": "https://www.youtube.com/watch?v=OcCeXDzzsCI",
+      "thumbnail": "https://i.ytimg.com/vi/OcCeXDzzsCI/mqdefault_live.jpg",
+      "published": "2026-10-09T01:39:51Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "RENATO VAI MANTER OS 3 VOLANTES PARA O CLÁSSICO GRENAL?🔵 BOA NOITE GRÊMIO #039",
       "videoId": "xea3X-_xQZg",
       "url": "https://www.youtube.com/watch?v=xea3X-_xQZg",
       "thumbnail": "https://i.ytimg.com/vi/xea3X-_xQZg/mqdefault_live.jpg",
       "published": "2026-10-09T00:44:46Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "AUXILIAR DE RENATO É PRESO; GRÊMIO SE MANIFESTA🟣RESENHA FORA DA SALA NOITE🟣#039",
-      "videoId": "sjSDPTZcP6g",
-      "url": "https://www.youtube.com/watch?v=sjSDPTZcP6g",
-      "thumbnail": "https://i.ytimg.com/vi/sjSDPTZcP6g/mqdefault.jpg",
-      "published": "2026-10-09T00:42:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRENAL DE VIDA OU MORTE! TUDO SOBRE O CLÁSSICO | COMO É BOM SER DO GRÊMIO #60",
-      "videoId": "FU8MAfJnP-c",
-      "url": "https://www.youtube.com/watch?v=FU8MAfJnP-c",
-      "thumbnail": "https://i.ytimg.com/vi/FU8MAfJnP-c/mqdefault_live.jpg",
-      "published": "2026-10-09T01:00:17Z"
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL | GRENAL 455 | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
+      "videoId": "HG9UxfPpSik",
+      "url": "https://www.youtube.com/watch?v=HG9UxfPpSik",
+      "thumbnail": "https://i.ytimg.com/vi/HG9UxfPpSik/mqdefault_live.jpg",
+      "published": "2026-10-09T01:28:13Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "VNwu0ocFs9I",
       "url": "https://www.youtube.com/watch?v=VNwu0ocFs9I",
       "thumbnail": "https://i.ytimg.com/vi/VNwu0ocFs9I/mqdefault_live.jpg",
-      "published": "2026-10-08T23:59:44Z"
+      "published": "2026-10-09T01:27:56Z"
     }
   ]
 }
