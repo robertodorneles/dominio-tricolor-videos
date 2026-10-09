@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-09T20:00:37.094412+00:00",
+  "updated_at": "2026-10-09T20:30:57.915139+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio:  BAPTISTA DÁ RECADO PARA RENATO! INTER ACEITA EMPATE NO GRE-NAL? PROJEÇÕES",
+      "videoId": "PSR82ResQgM",
+      "url": "https://www.youtube.com/watch?v=PSR82ResQgM",
+      "thumbnail": "https://i.ytimg.com/vi/PSR82ResQgM/mqdefault.jpg",
+      "published": "2026-10-09T20:00:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 DOIS REFORÇOS PREPARADOS | O TRANSFERBAN DOMÉSTICO | VIDEO DO VESTIÁRIO!",
@@ -11,12 +19,12 @@
       "published": "2026-10-09T08:34:48Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: AUXILIAR DE RENATO É PRESO! GRÊMIO TEM NOVA CRISE ANTES DO GRE-NAL",
-      "videoId": "3H5Ma2hEzA8",
-      "url": "https://www.youtube.com/watch?v=3H5Ma2hEzA8",
-      "thumbnail": "https://i.ytimg.com/vi/3H5Ma2hEzA8/mqdefault.jpg",
-      "published": "2026-10-09T05:00:11Z"
+      "channel": "Bage TV",
+      "title": "É TUDO OU NADA! WALLACE VAI NO SACRIFÍCIO PARA O GRE-NAL🔸RESENHA FORA DA SALA🔸#149",
+      "videoId": "8tGJKod-oh0",
+      "url": "https://www.youtube.com/watch?v=8tGJKod-oh0",
+      "thumbnail": "https://i.ytimg.com/vi/8tGJKod-oh0/mqdefault.jpg",
+      "published": "2026-10-09T20:05:18Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=Nf7ytLvSOOE",
       "thumbnail": "https://i.ytimg.com/vi/Nf7ytLvSOOE/mqdefault_live.jpg",
       "published": "2026-10-09T19:47:13Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "É TUDO OU NADA! WALLACE VAI NO SACRIFÍCIO PARA O GRE-NAL🔸RESENHA FORA DA SALA🔸#149",
-      "videoId": "8tGJKod-oh0",
-      "url": "https://www.youtube.com/watch?v=8tGJKod-oh0",
-      "thumbnail": "https://i.ytimg.com/vi/8tGJKod-oh0/mqdefault_live.jpg",
-      "published": "2026-10-09T18:12:16Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Como vai ser a transição do Governo do RS, últimas notícias, tempo e mais | Gaúcha+ | 09/10/2026",
-      "videoId": "4q8rGVdcL14",
-      "url": "https://www.youtube.com/watch?v=4q8rGVdcL14",
-      "thumbnail": "https://i.ytimg.com/vi/4q8rGVdcL14/mqdefault_live.jpg",
-      "published": "2026-10-09T19:34:08Z"
+      "title": "Vitória de Zucco no RS: como fica o tabuleiro político após a eleição? | Conversa de Gabinete",
+      "videoId": "UkUO1jL5YrA",
+      "url": "https://www.youtube.com/watch?v=UkUO1jL5YrA",
+      "thumbnail": "https://i.ytimg.com/vi/UkUO1jL5YrA/mqdefault.jpg",
+      "published": "2026-10-09T20:25:10Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "\"Alternância é a democracia funcionando\" | Opinião Gabriel Wainer",
-      "videoId": "PQSbQ3frYKM",
-      "url": "https://www.youtube.com/watch?v=PQSbQ3frYKM",
-      "thumbnail": "https://i.ytimg.com/vi/PQSbQ3frYKM/mqdefault.jpg",
-      "published": "2026-10-09T18:06:36Z"
+      "title": "Hospital planetário no RS promete curas e cirurgias com extraterrestres | Zero Hora",
+      "videoId": "em7RaNdyjHc",
+      "url": "https://www.youtube.com/watch?v=em7RaNdyjHc",
+      "thumbnail": "https://i.ytimg.com/vi/em7RaNdyjHc/mqdefault.jpg",
+      "published": "2026-10-09T19:37:03Z"
     },
     {
       "channel": "Jeremias Wernek",
