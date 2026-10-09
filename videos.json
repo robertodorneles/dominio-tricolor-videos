@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:00:38.095204+00:00",
+  "updated_at": "2026-10-09T11:00:46.161552+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #147",
+      "title": "MARLON E CAITO JOGAM O GRENAL? 🌅🔵 BOM DIA GRÊMIO #147",
       "videoId": "Pl2kZ-nLe2w",
       "url": "https://www.youtube.com/watch?v=Pl2kZ-nLe2w",
       "thumbnail": "https://i.ytimg.com/vi/Pl2kZ-nLe2w/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Direto da Oktoberfest de Igrejinha, últimas da política e economia | Gaúcha Atualidade | 09/10/2026",
+      "videoId": "1qxyUcRAmsw",
+      "url": "https://www.youtube.com/watch?v=1qxyUcRAmsw",
+      "thumbnail": "https://i.ytimg.com/vi/1qxyUcRAmsw/mqdefault_live.jpg",
+      "published": "2026-10-09T11:00:01Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 08/10/2026",
       "videoId": "EKRmLM4PsLY",
       "url": "https://www.youtube.com/watch?v=EKRmLM4PsLY",
       "thumbnail": "https://i.ytimg.com/vi/EKRmLM4PsLY/mqdefault.jpg",
       "published": "2026-10-09T08:43:46Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Timeline | 09/10/2026",
-      "videoId": "xjJgi4MfpSM",
-      "url": "https://www.youtube.com/watch?v=xjJgi4MfpSM",
-      "thumbnail": "https://i.ytimg.com/vi/xjJgi4MfpSM/mqdefault_live.jpg",
-      "published": "2026-10-09T08:32:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "08/10/26 | LIVE COMPLETA | RÁDIO GRENAL",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 09/10/2026",
       "videoId": "m2sRCFqV1tw",
       "url": "https://www.youtube.com/watch?v=m2sRCFqV1tw",
       "thumbnail": "https://i.ytimg.com/vi/m2sRCFqV1tw/mqdefault_live.jpg",
-      "published": "2026-10-08T23:59:16Z"
+      "published": "2026-10-09T10:57:31Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #40 — GRÊMIO BUSCA MOBILIZAÇÃO PARA O GRENAL",
+      "videoId": "_vNCEgyvkvM",
+      "url": "https://www.youtube.com/watch?v=_vNCEgyvkvM",
+      "thumbnail": "https://i.ytimg.com/vi/_vNCEgyvkvM/mqdefault_live.jpg",
+      "published": "2026-10-09T10:05:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | GRÊMIO X INTERNACIONAL | GRENAL 455 | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
       "videoId": "HG9UxfPpSik",
       "url": "https://www.youtube.com/watch?v=HG9UxfPpSik",
       "thumbnail": "https://i.ytimg.com/vi/HG9UxfPpSik/mqdefault_live.jpg",
       "published": "2026-10-09T01:28:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO ESTÁ JOGANDO CONTRA A MATEMÁTICA | ANÁLISE DO EMPATE | NOITES DE GRÊMIO #161 - 08/10",
-      "videoId": "VNwu0ocFs9I",
-      "url": "https://www.youtube.com/watch?v=VNwu0ocFs9I",
-      "thumbnail": "https://i.ytimg.com/vi/VNwu0ocFs9I/mqdefault_live.jpg",
-      "published": "2026-10-09T01:27:56Z"
     }
   ]
 }
