@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-10-09T02:00:31.559191+00:00",
+  "updated_at": "2026-10-09T05:14:58.946640+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: AUXILIAR DE RENATO É PRESO! GRÊMIO TEM NOVA CRISE ANTES DO GRE-NAL",
+      "videoId": "3H5Ma2hEzA8",
+      "url": "https://www.youtube.com/watch?v=3H5Ma2hEzA8",
+      "thumbnail": "https://i.ytimg.com/vi/3H5Ma2hEzA8/mqdefault.jpg",
+      "published": "2026-10-09T05:00:11Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: PRÉ-GRENAL | MANO A MANO | COMO CHEGAM GRÊMIO E INTER PRO CLÁSSICO",
       "videoId": "haw8qPdIiow",
       "url": "https://www.youtube.com/watch?v=haw8qPdIiow",
-      "thumbnail": "https://i.ytimg.com/vi/haw8qPdIiow/mqdefault_live.jpg",
-      "published": "2026-10-08T22:53:03Z"
+      "thumbnail": "https://i.ytimg.com/vi/haw8qPdIiow/mqdefault.jpg",
+      "published": "2026-10-09T04:16:36Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥UM DOS MELHORES DA POSIÇÃO  | VILLAGRA x CORINTHIANS | BAPTISTA CELEBRA",
-      "videoId": "W1iMhc7CQc8",
-      "url": "https://www.youtube.com/watch?v=W1iMhc7CQc8",
-      "thumbnail": "https://i.ytimg.com/vi/W1iMhc7CQc8/mqdefault.jpg",
-      "published": "2026-10-08T20:44:54Z"
+      "channel": "Bage TV",
+      "title": "RENATO VAI MANTER OS 3 VOLANTES PARA O CLÁSSICO GRENAL?🔵 BOA NOITE GRÊMIO #039",
+      "videoId": "xea3X-_xQZg",
+      "url": "https://www.youtube.com/watch?v=xea3X-_xQZg",
+      "thumbnail": "https://i.ytimg.com/vi/xea3X-_xQZg/mqdefault.jpg",
+      "published": "2026-10-09T02:07:31Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=aECGVBzmQRE",
       "thumbnail": "https://i.ytimg.com/vi/aECGVBzmQRE/mqdefault_live.jpg",
       "published": "2026-10-09T01:51:36Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO VAI MANTER OS 3 VOLANTES PARA O CLÁSSICO GRENAL?🔵 BOA NOITE GRÊMIO #039",
-      "videoId": "xea3X-_xQZg",
-      "url": "https://www.youtube.com/watch?v=xea3X-_xQZg",
-      "thumbnail": "https://i.ytimg.com/vi/xea3X-_xQZg/mqdefault_live.jpg",
-      "published": "2026-10-09T00:44:46Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: AS ÚLTIMAS DA DUPLA ANTES DO GRE-NAL",
+      "videoId": "D5WJDVF3OKs",
+      "url": "https://www.youtube.com/watch?v=D5WJDVF3OKs",
+      "thumbnail": "https://i.ytimg.com/vi/D5WJDVF3OKs/mqdefault_live.jpg",
+      "published": "2026-10-09T02:31:58Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "INTER REAGIU? O que fica da vitória em cima do Corinthians + Gre-Nal de xadrez",
       "videoId": "C96NeNssCiM",
       "url": "https://www.youtube.com/watch?v=C96NeNssCiM",
       "thumbnail": "https://i.ytimg.com/vi/C96NeNssCiM/mqdefault.jpg",
       "published": "2026-10-08T22:05:38Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O GRÊMIO CAIU? Os efeitos do empate com o Remo + Gre-Nal é “última chamada”",
-      "videoId": "Gz1wXMJ2wmg",
-      "url": "https://www.youtube.com/watch?v=Gz1wXMJ2wmg",
-      "thumbnail": "https://i.ytimg.com/vi/Gz1wXMJ2wmg/mqdefault.jpg",
-      "published": "2026-10-08T16:40:20Z"
     },
     {
       "channel": "LH Benfica",
