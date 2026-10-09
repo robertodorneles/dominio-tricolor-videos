@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-09T21:00:40.888749+00:00",
+  "updated_at": "2026-10-09T22:00:38.314683+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 ISSO ENTRA EM CAMPO NO CLÁSSICO! | VEJA O QUE BAPTISTA DISSE! | VAI SABER USAR?",
+      "videoId": "zIXVILt-jl4",
+      "url": "https://www.youtube.com/watch?v=zIXVILt-jl4",
+      "thumbnail": "https://i.ytimg.com/vi/zIXVILt-jl4/mqdefault.jpg",
+      "published": "2026-10-09T21:17:32Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio:  BAPTISTA DÁ RECADO PARA RENATO! INTER ACEITA EMPATE NO GRE-NAL? PROJEÇÕES",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=PSR82ResQgM",
       "thumbnail": "https://i.ytimg.com/vi/PSR82ResQgM/mqdefault.jpg",
       "published": "2026-10-09T20:00:08Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 DOIS REFORÇOS PREPARADOS | O TRANSFERBAN DOMÉSTICO | VIDEO DO VESTIÁRIO!",
-      "videoId": "WtEwE1zGjS0",
-      "url": "https://www.youtube.com/watch?v=WtEwE1zGjS0",
-      "thumbnail": "https://i.ytimg.com/vi/WtEwE1zGjS0/mqdefault.jpg",
-      "published": "2026-10-09T08:34:48Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #699: Time para o Grenal | Transfer ban | Wallace | Raí Silva | Caleffi e mais",
+      "videoId": "S16-mjnr8hY",
+      "url": "https://www.youtube.com/watch?v=S16-mjnr8hY",
+      "thumbnail": "https://i.ytimg.com/vi/S16-mjnr8hY/mqdefault.jpg",
+      "published": "2026-10-09T21:34:50Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Mais um problema na vida do Grêmio | Como chegamos nesse ponto?",
       "videoId": "cvhbqao_SRo",
       "url": "https://www.youtube.com/watch?v=cvhbqao_SRo",
       "thumbnail": "https://i.ytimg.com/vi/cvhbqao_SRo/mqdefault.jpg",
       "published": "2026-10-09T15:57:18Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #698: Base | Rebaixamento | Grenal | Auxiliar preso | Interesse em zagueiro e mais",
-      "videoId": "-o0dc3qtHyY",
-      "url": "https://www.youtube.com/watch?v=-o0dc3qtHyY",
-      "thumbnail": "https://i.ytimg.com/vi/-o0dc3qtHyY/mqdefault.jpg",
-      "published": "2026-10-08T21:09:25Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "DÍVIDA E BLOQUEIO NO GRÊMIO | DESFALQUE E SURPRESA NO GRE-NAL.",
+      "videoId": "78-cmA0weUk",
+      "url": "https://www.youtube.com/watch?v=78-cmA0weUk",
+      "thumbnail": "https://i.ytimg.com/vi/78-cmA0weUk/mqdefault.jpg",
+      "published": "2026-10-09T21:25:56Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "LUIS EDUARDO TERIA ACERTO PARA SAIR. ZAGUEIRO TEM 18 ANOS. #gremio #futebol @blascortintas",
       "videoId": "WmMn90CyPLs",
       "url": "https://www.youtube.com/watch?v=WmMn90CyPLs",
@@ -107,12 +115,12 @@
       "published": "2026-10-09T16:00:21Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "PRESO: CASO ALEXANDRE MENDES | VENDA DE LUIS EDUARDO NO GRÊMIO?",
-      "videoId": "TB23xsh02Wo",
-      "url": "https://www.youtube.com/watch?v=TB23xsh02Wo",
-      "thumbnail": "https://i.ytimg.com/vi/TB23xsh02Wo/mqdefault.jpg",
-      "published": "2026-10-08T21:49:42Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "4 REFORÇOS PRO GRENAL | NOVO CONTRATADO DO JUVENTUDE | CIRURGIA DE TITULAR | OUTRO TRANSFER BAN",
+      "videoId": "131KG-mmVDk",
+      "url": "https://www.youtube.com/watch?v=131KG-mmVDk",
+      "thumbnail": "https://i.ytimg.com/vi/131KG-mmVDk/mqdefault.jpg",
+      "published": "2026-10-09T21:53:27Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -123,60 +131,52 @@
       "published": "2026-10-08T14:49:13Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DO GRENAL 455 DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 11/10 #38",
-      "videoId": "TPtU3vxLt54",
-      "url": "https://www.youtube.com/watch?v=TPtU3vxLt54",
-      "thumbnail": "https://i.ytimg.com/vi/TPtU3vxLt54/mqdefault_live.jpg",
-      "published": "2026-10-08T02:06:43Z"
+      "channel": "Duda Garbi",
+      "title": "GUARDIOLA MANCHOU A CARREIRA #dudagarbi #umassadopara",
+      "videoId": "iOUtBE5lxjY",
+      "url": "https://www.youtube.com/watch?v=iOUtBE5lxjY",
+      "thumbnail": "https://i.ytimg.com/vi/iOUtBE5lxjY/mqdefault.jpg",
+      "published": "2026-10-09T21:50:05Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "Hospício - 09/10",
-      "videoId": "3CpruFvoIk0",
-      "url": "https://www.youtube.com/watch?v=3CpruFvoIk0",
-      "thumbnail": "https://i.ytimg.com/vi/3CpruFvoIk0/mqdefault.jpg",
-      "published": "2026-10-09T13:07:07Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "CAPELO ELEGE AS MELHORES E PIORES GESTÕES DO FUTEBOL BR... ONDE ESTÁ O SEU TIME? | Cortes do Duda",
-      "videoId": "VJNDF_USr00",
-      "url": "https://www.youtube.com/watch?v=VJNDF_USr00",
-      "thumbnail": "https://i.ytimg.com/vi/VJNDF_USr00/mqdefault.jpg",
-      "published": "2026-10-08T23:15:02Z"
+      "title": "A BRIGA PELA AUDIÊNCIA, TRANSMISSÃO DA COPA E OS BASTIDORES DA GLOBO X CAZÉTV | Cortes do Duda",
+      "videoId": "vVPTgXHcPok",
+      "url": "https://www.youtube.com/watch?v=vVPTgXHcPok",
+      "thumbnail": "https://i.ytimg.com/vi/vVPTgXHcPok/mqdefault.jpg",
+      "published": "2026-10-09T21:00:33Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "GRÊMIO FEMININO NA SELEÇÃO BRASILEIRA",
-      "videoId": "uD7Vmu0zB0w",
-      "url": "https://www.youtube.com/watch?v=uD7Vmu0zB0w",
-      "thumbnail": "https://i.ytimg.com/vi/uD7Vmu0zB0w/mqdefault.jpg",
-      "published": "2026-10-09T19:00:20Z"
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL I BRASILEIRÃO 2026",
+      "videoId": "kqZEnHHYfIw",
+      "url": "https://www.youtube.com/watch?v=kqZEnHHYfIw",
+      "thumbnail": "https://i.ytimg.com/vi/kqZEnHHYfIw/mqdefault_live.jpg",
+      "published": "2026-10-09T21:23:52Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X OPERÁRIO I MASC (COPA DO BRASIL SUB-20 I 2026)",
-      "videoId": "OsaaDkT4quM",
-      "url": "https://www.youtube.com/watch?v=OsaaDkT4quM",
-      "thumbnail": "https://i.ytimg.com/vi/OsaaDkT4quM/mqdefault.jpg",
-      "published": "2026-10-08T20:02:47Z"
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X AS MINAS DE CANDIOTA (CAMPEONATO GAÚCHO FEMININO I SUB-17 I 2026)",
+      "videoId": "gYKMjprjTXs",
+      "url": "https://www.youtube.com/watch?v=gYKMjprjTXs",
+      "thumbnail": "https://i.ytimg.com/vi/gYKMjprjTXs/mqdefault_live.jpg",
+      "published": "2026-10-09T21:21:13Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Vitória de Zucco no RS: como fica o tabuleiro político após a eleição? | Conversa de Gabinete",
-      "videoId": "UkUO1jL5YrA",
-      "url": "https://www.youtube.com/watch?v=UkUO1jL5YrA",
-      "thumbnail": "https://i.ytimg.com/vi/UkUO1jL5YrA/mqdefault.jpg",
-      "published": "2026-10-09T20:25:10Z"
+      "title": "\"MENOR VOTAÇÃO DA HISTÓRIA DO MDB\": Gabriel Souza fica em 3º lugar na disputa | Conversa de Gabinete",
+      "videoId": "ctnhV2Y2Yks",
+      "url": "https://www.youtube.com/watch?v=ctnhV2Y2Yks",
+      "thumbnail": "https://i.ytimg.com/vi/ctnhV2Y2Yks/mqdefault.jpg",
+      "published": "2026-10-09T22:00:22Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Hospital planetário no RS promete curas e cirurgias com extraterrestres | Zero Hora",
-      "videoId": "em7RaNdyjHc",
-      "url": "https://www.youtube.com/watch?v=em7RaNdyjHc",
-      "thumbnail": "https://i.ytimg.com/vi/em7RaNdyjHc/mqdefault.jpg",
-      "published": "2026-10-09T19:37:03Z"
+      "title": "Os bastidores do 1º turno das eleições no RS: estratégias e disputas | Conversa de Gabinete",
+      "videoId": "UDWTXtsid4w",
+      "url": "https://www.youtube.com/watch?v=UDWTXtsid4w",
+      "thumbnail": "https://i.ytimg.com/vi/UDWTXtsid4w/mqdefault.jpg",
+      "published": "2026-10-09T22:00:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AS DÚVIDAS DO GRÊMIO PARA O CLÁSSICO GRENAL | NOVO TRANSFER BAN | WALLACE TEM FRATURA | ESPLANADA",
-      "videoId": "mNYczY7r4Fs",
-      "url": "https://www.youtube.com/watch?v=mNYczY7r4Fs",
-      "thumbnail": "https://i.ytimg.com/vi/mNYczY7r4Fs/mqdefault.jpg",
-      "published": "2026-10-09T19:44:15Z"
+      "title": "GRENAL É OBRIGAÇÃO! | MARLON PODE DESFALCAR | WALLACE FARA CIRURGIA | NOITES DE GRÊMIO #162 - 09/10",
+      "videoId": "vX5G5qi0k14",
+      "url": "https://www.youtube.com/watch?v=vX5G5qi0k14",
+      "thumbnail": "https://i.ytimg.com/vi/vX5G5qi0k14/mqdefault_live.jpg",
+      "published": "2026-10-09T21:40:46Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRENAL DE VIDA OU MORTE! TUDO SOBRE O CLÁSSICO | COMO É BOM SER DO GRÊMIO #60",
-      "videoId": "FU8MAfJnP-c",
-      "url": "https://www.youtube.com/watch?v=FU8MAfJnP-c",
-      "thumbnail": "https://i.ytimg.com/vi/FU8MAfJnP-c/mqdefault.jpg",
-      "published": "2026-10-09T15:21:20Z"
+      "title": "O GRENAL MAIS IMPORTANTE DOS ÚLTIMOS TEMPOS? | RENATO VAI MUDAR? | PROJEÇÃO DA RODADA | IMORTAL FC",
+      "videoId": "8_cTFscK_cQ",
+      "url": "https://www.youtube.com/watch?v=8_cTFscK_cQ",
+      "thumbnail": "https://i.ytimg.com/vi/8_cTFscK_cQ/mqdefault_live.jpg",
+      "published": "2026-10-09T21:02:13Z"
     }
   ]
 }
