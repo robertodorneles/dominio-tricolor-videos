@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:00:40.727578+00:00",
+  "updated_at": "2026-10-09T13:00:42.562310+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 09/10 - #652",
+      "videoId": "qQW9zLV_cnA",
+      "url": "https://www.youtube.com/watch?v=qQW9zLV_cnA",
+      "thumbnail": "https://i.ytimg.com/vi/qQW9zLV_cnA/mqdefault_live.jpg",
+      "published": "2026-10-09T12:01:18Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "MARLON E CAITO JOGAM O GRENAL? 🌅🔵 BOM DIA GRÊMIO #147",
       "videoId": "Pl2kZ-nLe2w",
       "url": "https://www.youtube.com/watch?v=Pl2kZ-nLe2w",
       "thumbnail": "https://i.ytimg.com/vi/Pl2kZ-nLe2w/mqdefault.jpg",
       "published": "2026-10-09T11:56:31Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO VAI MANTER OS 3 VOLANTES PARA O CLÁSSICO GRENAL?🔵 BOA NOITE GRÊMIO #039",
-      "videoId": "xea3X-_xQZg",
-      "url": "https://www.youtube.com/watch?v=xea3X-_xQZg",
-      "thumbnail": "https://i.ytimg.com/vi/xea3X-_xQZg/mqdefault.jpg",
-      "published": "2026-10-09T02:07:31Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "70I7UdIc5vo",
       "url": "https://www.youtube.com/watch?v=70I7UdIc5vo",
       "thumbnail": "https://i.ytimg.com/vi/70I7UdIc5vo/mqdefault_live.jpg",
-      "published": "2026-10-09T11:36:17Z"
+      "published": "2026-10-09T12:45:39Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 09/10",
+      "videoId": "3CpruFvoIk0",
+      "url": "https://www.youtube.com/watch?v=3CpruFvoIk0",
+      "thumbnail": "https://i.ytimg.com/vi/3CpruFvoIk0/mqdefault_live.jpg",
+      "published": "2026-10-09T12:01:56Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "CAPELO ELEGE AS MELHORES E PIORES GESTÕES DO FUTEBOL BR... ONDE ESTÁ O SEU TIME? | Cortes do Duda",
       "videoId": "VJNDF_USr00",
       "url": "https://www.youtube.com/watch?v=VJNDF_USr00",
       "thumbnail": "https://i.ytimg.com/vi/VJNDF_USr00/mqdefault.jpg",
       "published": "2026-10-08T23:15:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "BASTIDORES DA BRIGA ENTRE CBF X CAZÉTV  #dudagarbi #umassadopara",
-      "videoId": "aKIvG_Zo2YQ",
-      "url": "https://www.youtube.com/watch?v=aKIvG_Zo2YQ",
-      "thumbnail": "https://i.ytimg.com/vi/aKIvG_Zo2YQ/mqdefault.jpg",
-      "published": "2026-10-08T23:00:32Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,35 +212,35 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | SABATINA COM LEONARDO AQUINO, CANDIDATO À PRESIDÊNCIA DO INTER | 09/10/2026 | RÁDIO GRENAL",
+      "title": "\"EU VIVO O INTER DE FORMA INTENSA\" | SABATINA DE LEONARDO AQUINO, CANDIDATO À PRESIDÊNCIA DO INTER",
+      "videoId": "fP7AEu9slSQ",
+      "url": "https://www.youtube.com/watch?v=fP7AEu9slSQ",
+      "thumbnail": "https://i.ytimg.com/vi/fP7AEu9slSQ/mqdefault.jpg",
+      "published": "2026-10-09T12:51:38Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 09/10/2026 | RÁDIO GRENAL",
       "videoId": "m2sRCFqV1tw",
       "url": "https://www.youtube.com/watch?v=m2sRCFqV1tw",
       "thumbnail": "https://i.ytimg.com/vi/m2sRCFqV1tw/mqdefault_live.jpg",
       "published": "2026-10-09T10:57:31Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "08/10/26 | LIVE COMPLETA | RÁDIO GRENAL",
-      "videoId": "gxZRAPZ2HVk",
-      "url": "https://www.youtube.com/watch?v=gxZRAPZ2HVk",
-      "thumbnail": "https://i.ytimg.com/vi/gxZRAPZ2HVk/mqdefault.jpg",
-      "published": "2026-10-08T23:37:14Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #40 — GRÊMIO BUSCA MOBILIZAÇÃO PARA O GRENAL",
       "videoId": "_vNCEgyvkvM",
       "url": "https://www.youtube.com/watch?v=_vNCEgyvkvM",
-      "thumbnail": "https://i.ytimg.com/vi/_vNCEgyvkvM/mqdefault_live.jpg",
-      "published": "2026-10-09T10:05:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/_vNCEgyvkvM/mqdefault.jpg",
+      "published": "2026-10-09T12:39:31Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO X INTERNACIONAL | GRENAL 455 | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
-      "videoId": "HG9UxfPpSik",
-      "url": "https://www.youtube.com/watch?v=HG9UxfPpSik",
-      "thumbnail": "https://i.ytimg.com/vi/HG9UxfPpSik/mqdefault_live.jpg",
-      "published": "2026-10-09T01:28:13Z"
+      "title": "GRENAL DE VIDA OU MORTE! TUDO SOBRE O CLÁSSICO | COMO É BOM SER DO GRÊMIO #60",
+      "videoId": "FU8MAfJnP-c",
+      "url": "https://www.youtube.com/watch?v=FU8MAfJnP-c",
+      "thumbnail": "https://i.ytimg.com/vi/FU8MAfJnP-c/mqdefault_live.jpg",
+      "published": "2026-10-09T12:34:47Z"
     }
   ]
 }
