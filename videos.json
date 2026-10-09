@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:47:36.549278+00:00",
+  "updated_at": "2026-10-09T16:00:42.931956+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #085",
       "videoId": "ZyodTmMClYE",
       "url": "https://www.youtube.com/watch?v=ZyodTmMClYE",
-      "thumbnail": "https://i.ytimg.com/vi/ZyodTmMClYE/mqdefault_live.jpg",
-      "published": "2026-10-09T14:53:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/ZyodTmMClYE/mqdefault.jpg",
+      "published": "2026-10-09T15:56:52Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Mais um problema na vida do Grêmio | Como chegamos nesse ponto?",
+      "videoId": "cvhbqao_SRo",
+      "url": "https://www.youtube.com/watch?v=cvhbqao_SRo",
+      "thumbnail": "https://i.ytimg.com/vi/cvhbqao_SRo/mqdefault.jpg",
+      "published": "2026-10-09T15:57:18Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #698: Base | Rebaixamento | Grenal | Auxiliar preso | Interesse em zagueiro e mais",
       "videoId": "-o0dc3qtHyY",
       "url": "https://www.youtube.com/watch?v=-o0dc3qtHyY",
@@ -59,12 +67,12 @@
       "published": "2026-10-08T21:09:25Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Os dois caminhos para seguir e a situação da tabela do Brasileirão",
-      "videoId": "21_OhjQcla4",
-      "url": "https://www.youtube.com/watch?v=21_OhjQcla4",
-      "thumbnail": "https://i.ytimg.com/vi/21_OhjQcla4/mqdefault.jpg",
-      "published": "2026-10-08T12:26:00Z"
+      "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #31",
+      "videoId": "W9cRVdHAET4",
+      "url": "https://www.youtube.com/watch?v=W9cRVdHAET4",
+      "thumbnail": "https://i.ytimg.com/vi/W9cRVdHAET4/mqdefault_live.jpg",
+      "published": "2026-10-09T15:47:59Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=OqJNZRYd12I",
       "thumbnail": "https://i.ytimg.com/vi/OqJNZRYd12I/mqdefault_live.jpg",
       "published": "2026-10-09T13:12:18Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #036",
-      "videoId": "NgTS4tTMdVE",
-      "url": "https://www.youtube.com/watch?v=NgTS4tTMdVE",
-      "thumbnail": "https://i.ytimg.com/vi/NgTS4tTMdVE/mqdefault_live.jpg",
-      "published": "2026-10-09T13:06:59Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 13/10/2026",
+      "videoId": "2NwQ1UkfYsI",
+      "url": "https://www.youtube.com/watch?v=2NwQ1UkfYsI",
+      "thumbnail": "https://i.ytimg.com/vi/2NwQ1UkfYsI/mqdefault_live.jpg",
+      "published": "2026-10-09T15:49:05Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "KELLY MATOS SEM FILTRO: dos bastidores de Brasília à luta para ser mãe | Paralelas",
       "videoId": "u80mpsMj92w",
       "url": "https://www.youtube.com/watch?v=u80mpsMj92w",
       "thumbnail": "https://i.ytimg.com/vi/u80mpsMj92w/mqdefault.jpg",
       "published": "2026-10-09T15:00:30Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "O que esperar da Copa do Mundo Feminina, últimas notícias e mais | Timeline | 09/10/2026",
-      "videoId": "xjJgi4MfpSM",
-      "url": "https://www.youtube.com/watch?v=xjJgi4MfpSM",
-      "thumbnail": "https://i.ytimg.com/vi/xjJgi4MfpSM/mqdefault.jpg",
-      "published": "2026-10-09T14:35:51Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 09/10/2026 | RÁDIO GRENAL",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 09/10/2026 | RÁDIO GRENAL",
       "videoId": "m2sRCFqV1tw",
       "url": "https://www.youtube.com/watch?v=m2sRCFqV1tw",
       "thumbnail": "https://i.ytimg.com/vi/m2sRCFqV1tw/mqdefault_live.jpg",
