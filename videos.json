@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-09T05:14:58.946640+00:00",
+  "updated_at": "2026-10-09T09:00:36.211137+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: 🔥 DOIS REFORÇOS PREPARADOS | O TRANSFERBAN DOMÉSTICO | VIDEO DO VESTIÁRIO!",
+      "videoId": "WtEwE1zGjS0",
+      "url": "https://www.youtube.com/watch?v=WtEwE1zGjS0",
+      "thumbnail": "https://i.ytimg.com/vi/WtEwE1zGjS0/mqdefault.jpg",
+      "published": "2026-10-09T08:34:48Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: AUXILIAR DE RENATO É PRESO! GRÊMIO TEM NOVA CRISE ANTES DO GRE-NAL",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=3H5Ma2hEzA8",
       "thumbnail": "https://i.ytimg.com/vi/3H5Ma2hEzA8/mqdefault.jpg",
       "published": "2026-10-09T05:00:11Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: PRÉ-GRENAL | MANO A MANO | COMO CHEGAM GRÊMIO E INTER PRO CLÁSSICO",
-      "videoId": "haw8qPdIiow",
-      "url": "https://www.youtube.com/watch?v=haw8qPdIiow",
-      "thumbnail": "https://i.ytimg.com/vi/haw8qPdIiow/mqdefault.jpg",
-      "published": "2026-10-09T04:16:36Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #30",
+      "videoId": "q0yZIButuYU",
+      "url": "https://www.youtube.com/watch?v=q0yZIButuYU",
+      "thumbnail": "https://i.ytimg.com/vi/q0yZIButuYU/mqdefault.jpg",
+      "published": "2026-10-09T05:24:18Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #034 - O GRÊMIO CAIU!",
       "videoId": "4mzqhOgv-D8",
       "url": "https://www.youtube.com/watch?v=4mzqhOgv-D8",
       "thumbnail": "https://i.ytimg.com/vi/4mzqhOgv-D8/mqdefault.jpg",
       "published": "2026-10-09T00:53:46Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 08/10/2026",
-      "videoId": "5TWzOZC2QEo",
-      "url": "https://www.youtube.com/watch?v=5TWzOZC2QEo",
-      "thumbnail": "https://i.ytimg.com/vi/5TWzOZC2QEo/mqdefault_live.jpg",
-      "published": "2026-10-08T23:14:16Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "O embarque do centrão na candidatura de FLÁVIO BOLSONARO | Chamada Eleitoral",
-      "videoId": "RzIDaC_oS9A",
-      "url": "https://www.youtube.com/watch?v=RzIDaC_oS9A",
-      "thumbnail": "https://i.ytimg.com/vi/RzIDaC_oS9A/mqdefault.jpg",
-      "published": "2026-10-08T22:30:10Z"
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 08/10/2026",
+      "videoId": "EKRmLM4PsLY",
+      "url": "https://www.youtube.com/watch?v=EKRmLM4PsLY",
+      "thumbnail": "https://i.ytimg.com/vi/EKRmLM4PsLY/mqdefault.jpg",
+      "published": "2026-10-09T08:43:46Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Miguel Reale Júnior declara apoio a Lula | Chamada Eleitoral",
-      "videoId": "SiIqMzdOzGM",
-      "url": "https://www.youtube.com/watch?v=SiIqMzdOzGM",
-      "thumbnail": "https://i.ytimg.com/vi/SiIqMzdOzGM/mqdefault.jpg",
-      "published": "2026-10-08T22:00:21Z"
+      "title": "Timeline | 09/10/2026",
+      "videoId": "xjJgi4MfpSM",
+      "url": "https://www.youtube.com/watch?v=xjJgi4MfpSM",
+      "thumbnail": "https://i.ytimg.com/vi/xjJgi4MfpSM/mqdefault_live.jpg",
+      "published": "2026-10-09T08:32:50Z"
     },
     {
       "channel": "Jeremias Wernek",
