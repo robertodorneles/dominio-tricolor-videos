@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T19:00:45.945319+00:00",
+  "updated_at": "2026-10-09T20:00:37.094412+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "videoId": "Nf7ytLvSOOE",
       "url": "https://www.youtube.com/watch?v=Nf7ytLvSOOE",
       "thumbnail": "https://i.ytimg.com/vi/Nf7ytLvSOOE/mqdefault_live.jpg",
-      "published": "2026-10-09T18:31:44Z"
+      "published": "2026-10-09T19:47:13Z"
     },
     {
       "channel": "Bage TV",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "GRÊMIO FEMININO NA SELEÇÃO BRASILEIRA",
+      "videoId": "uD7Vmu0zB0w",
+      "url": "https://www.youtube.com/watch?v=uD7Vmu0zB0w",
+      "thumbnail": "https://i.ytimg.com/vi/uD7Vmu0zB0w/mqdefault.jpg",
+      "published": "2026-10-09T19:00:20Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X OPERÁRIO I MASC (COPA DO BRASIL SUB-20 I 2026)",
       "videoId": "OsaaDkT4quM",
       "url": "https://www.youtube.com/watch?v=OsaaDkT4quM",
@@ -155,12 +163,12 @@
       "published": "2026-10-08T20:02:47Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I REMO X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "cQUrhw0F8ik",
-      "url": "https://www.youtube.com/watch?v=cQUrhw0F8ik",
-      "thumbnail": "https://i.ytimg.com/vi/cQUrhw0F8ik/mqdefault.jpg",
-      "published": "2026-10-08T01:09:46Z"
+      "channel": "GZH Digital",
+      "title": "Como vai ser a transição do Governo do RS, últimas notícias, tempo e mais | Gaúcha+ | 09/10/2026",
+      "videoId": "4q8rGVdcL14",
+      "url": "https://www.youtube.com/watch?v=4q8rGVdcL14",
+      "thumbnail": "https://i.ytimg.com/vi/4q8rGVdcL14/mqdefault_live.jpg",
+      "published": "2026-10-09T19:34:08Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=PQSbQ3frYKM",
       "thumbnail": "https://i.ytimg.com/vi/PQSbQ3frYKM/mqdefault.jpg",
       "published": "2026-10-09T18:06:36Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Como vai ser a transição do Governo do RS, últimas notícias, tempo e mais | Gaúcha+ | 09/10/2026",
-      "videoId": "4q8rGVdcL14",
-      "url": "https://www.youtube.com/watch?v=4q8rGVdcL14",
-      "thumbnail": "https://i.ytimg.com/vi/4q8rGVdcL14/mqdefault_live.jpg",
-      "published": "2026-10-09T18:01:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "DUELO DO GRENAL 455 | CORTES RÁDIO GRENAL | 09/10/2026 | CORTES RÁDIO GRENAL | 09/10/2026",
+      "title": "MANO A MANO DO GRENAL 455 | CORTES RÁDIO GRENAL | 09/10/2026",
       "videoId": "CKXc6t7mM9Y",
       "url": "https://www.youtube.com/watch?v=CKXc6t7mM9Y",
       "thumbnail": "https://i.ytimg.com/vi/CKXc6t7mM9Y/mqdefault.jpg",
@@ -231,8 +231,8 @@
       "title": "AS DÚVIDAS DO GRÊMIO PARA O CLÁSSICO GRENAL | NOVO TRANSFER BAN | WALLACE TEM FRATURA | ESPLANADA",
       "videoId": "mNYczY7r4Fs",
       "url": "https://www.youtube.com/watch?v=mNYczY7r4Fs",
-      "thumbnail": "https://i.ytimg.com/vi/mNYczY7r4Fs/mqdefault_live.jpg",
-      "published": "2026-10-09T18:32:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/mNYczY7r4Fs/mqdefault.jpg",
+      "published": "2026-10-09T19:44:15Z"
     },
     {
       "channel": "Radio Imortal",
