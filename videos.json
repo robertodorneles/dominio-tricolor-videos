@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T16:00:38.301696+00:00",
+  "updated_at": "2026-10-10T17:00:46.374421+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,16 +23,24 @@
       "title": "🐟🟢RADAR DE BAGRE #002",
       "videoId": "aECGVBzmQRE",
       "url": "https://www.youtube.com/watch?v=aECGVBzmQRE",
-      "thumbnail": "https://i.ytimg.com/vi/aECGVBzmQRE/mqdefault_live.jpg",
-      "published": "2026-10-10T15:54:00Z"
+      "thumbnail": "https://i.ytimg.com/vi/aECGVBzmQRE/mqdefault.jpg",
+      "published": "2026-10-10T16:18:39Z"
     },
     {
       "channel": "Bage TV",
-      "title": "DE ÚLTIMA HORA!!! A GRANDE DÚVIDA PARA O GRE-NAL 455 🌅🔵 BOM DIA GRÊMIO #148",
-      "videoId": "qTttGTPnzic",
-      "url": "https://www.youtube.com/watch?v=qTttGTPnzic",
-      "thumbnail": "https://i.ytimg.com/vi/qTttGTPnzic/mqdefault.jpg",
-      "published": "2026-10-10T15:10:00Z"
+      "title": "AS ESCALAÇÕES DA DUPLA PARA O GRE-NAL! #CORTESDORESENHA",
+      "videoId": "sHW61ciotwI",
+      "url": "https://www.youtube.com/watch?v=sHW61ciotwI",
+      "thumbnail": "https://i.ytimg.com/vi/sHW61ciotwI/mqdefault.jpg",
+      "published": "2026-10-10T16:09:54Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨RENATO X JOGADOR? | AFASTAMENTO NO GRÊMIO? | RENATO CULPADO? | GRE-NAL CHEGANDO",
+      "videoId": "SQv7Wj1nwFg",
+      "url": "https://www.youtube.com/watch?v=SQv7Wj1nwFg",
+      "thumbnail": "https://i.ytimg.com/vi/SQv7Wj1nwFg/mqdefault.jpg",
+      "published": "2026-10-10T16:06:28Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=CVrk03YfslY",
       "thumbnail": "https://i.ytimg.com/vi/CVrk03YfslY/mqdefault.jpg",
       "published": "2026-10-10T00:52:26Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨RENATO ARQUIVA JOGADOR | RETORNOS NO TIME DO GRE-NAL | AGORA: GRÊMIO TOMA TRANSFER BAN!",
-      "videoId": "sDAXnduLik4",
-      "url": "https://www.youtube.com/watch?v=sDAXnduLik4",
-      "thumbnail": "https://i.ytimg.com/vi/sDAXnduLik4/mqdefault.jpg",
-      "published": "2026-10-09T14:38:42Z"
     },
     {
       "channel": "Canal do CCD",
@@ -151,8 +151,8 @@
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X AS MINAS DE CANDIOTA (CAMPEONATO GAÚCHO FEMININO I SUB-17 I 2026)",
       "videoId": "gYKMjprjTXs",
       "url": "https://www.youtube.com/watch?v=gYKMjprjTXs",
-      "thumbnail": "https://i.ytimg.com/vi/gYKMjprjTXs/mqdefault_live.jpg",
-      "published": "2026-10-10T15:59:05Z"
+      "thumbnail": "https://i.ytimg.com/vi/gYKMjprjTXs/mqdefault.jpg",
+      "published": "2026-10-10T16:06:44Z"
     },
     {
       "channel": "GremioTV Oficial",
