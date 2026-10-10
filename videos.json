@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:00:40.660548+00:00",
+  "updated_at": "2026-10-10T00:28:10.950989+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "Ao vivo | Grenal 455 , Jogo decisivo,  Pode definir nosso futuro ? | Clube Tricolor #03",
+      "videoId": "d00DungEUoA",
+      "url": "https://www.youtube.com/watch?v=d00DungEUoA",
+      "thumbnail": "https://i.ytimg.com/vi/d00DungEUoA/mqdefault_live.jpg",
+      "published": "2026-10-10T00:03:35Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "RESENHA DAS GURIAS #02",
       "videoId": "O0g8RitdhxY",
       "url": "https://www.youtube.com/watch?v=O0g8RitdhxY",
       "thumbnail": "https://i.ytimg.com/vi/O0g8RitdhxY/mqdefault_live.jpg",
       "published": "2026-10-09T23:46:15Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 09/10/2026",
-      "videoId": "OqJNZRYd12I",
-      "url": "https://www.youtube.com/watch?v=OqJNZRYd12I",
-      "thumbnail": "https://i.ytimg.com/vi/OqJNZRYd12I/mqdefault_live.jpg",
-      "published": "2026-10-09T23:10:10Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRENAL É OBRIGAÇÃO! | MARLON PODE DESFALCAR | WALLACE FARA CIRURGIA | NOITES DE GRÊMIO #162 - 09/10",
+      "videoId": "vX5G5qi0k14",
+      "url": "https://www.youtube.com/watch?v=vX5G5qi0k14",
+      "thumbnail": "https://i.ytimg.com/vi/vX5G5qi0k14/mqdefault_live.jpg",
+      "published": "2026-10-10T00:00:56Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O GRENAL MAIS IMPORTANTE DOS ÚLTIMOS TEMPOS? | RENATO VAI MUDAR? | PROJEÇÃO DA RODADA | IMORTAL FC",
       "videoId": "8_cTFscK_cQ",
       "url": "https://www.youtube.com/watch?v=8_cTFscK_cQ",
       "thumbnail": "https://i.ytimg.com/vi/8_cTFscK_cQ/mqdefault.jpg",
       "published": "2026-10-09T22:31:11Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "PLANTÃO IMORTAL DIRETO DA SERRA GAÚCHA! | OS PREPARATIVOS DO GRÊMIO PARA O GRENAL 455",
-      "videoId": "BdRzE7mSe2Y",
-      "url": "https://www.youtube.com/watch?v=BdRzE7mSe2Y",
-      "thumbnail": "https://i.ytimg.com/vi/BdRzE7mSe2Y/mqdefault_live.jpg",
-      "published": "2026-10-09T22:06:01Z"
     }
   ]
 }
