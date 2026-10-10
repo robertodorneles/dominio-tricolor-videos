@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:00:38.464642+00:00",
+  "updated_at": "2026-10-10T22:00:38.834582+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #700: Grêmio x Inter | Dúvidas | Base | Público | Favotisimo e mais",
+      "videoId": "SnS0HEXpOpQ",
+      "url": "https://www.youtube.com/watch?v=SnS0HEXpOpQ",
+      "thumbnail": "https://i.ytimg.com/vi/SnS0HEXpOpQ/mqdefault.jpg",
+      "published": "2026-10-10T21:18:39Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #699: Time para o Grenal | Transfer ban | Wallace | Raí Silva | Caleffi e mais",
       "videoId": "S16-mjnr8hY",
       "url": "https://www.youtube.com/watch?v=S16-mjnr8hY",
       "thumbnail": "https://i.ytimg.com/vi/S16-mjnr8hY/mqdefault.jpg",
       "published": "2026-10-09T21:34:50Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Mais um problema na vida do Grêmio | Como chegamos nesse ponto?",
-      "videoId": "cvhbqao_SRo",
-      "url": "https://www.youtube.com/watch?v=cvhbqao_SRo",
-      "thumbnail": "https://i.ytimg.com/vi/cvhbqao_SRo/mqdefault.jpg",
-      "published": "2026-10-09T15:57:18Z"
     },
     {
       "channel": "Canal do Farid",
@@ -215,16 +215,16 @@
       "title": "AO VIVO: JORNADA ESPORTIVA | BRASIL 3 X 1 ARGENTINA | AMISTOSO | RÁDIO GRENAL | 10/10/2026",
       "videoId": "z9vfEhzicTk",
       "url": "https://www.youtube.com/watch?v=z9vfEhzicTk",
-      "thumbnail": "https://i.ytimg.com/vi/z9vfEhzicTk/mqdefault_live.jpg",
-      "published": "2026-10-10T14:15:38Z"
+      "thumbnail": "https://i.ytimg.com/vi/z9vfEhzicTk/mqdefault.jpg",
+      "published": "2026-10-10T21:55:46Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "FALA, TORCEDOR! 🇪🇪🇮🇩 #gremio #tricolor #inter #colorado #grenal #brasileirao",
-      "videoId": "PrKaN13Q2Lw",
-      "url": "https://www.youtube.com/watch?v=PrKaN13Q2Lw",
-      "thumbnail": "https://i.ytimg.com/vi/PrKaN13Q2Lw/mqdefault.jpg",
-      "published": "2026-10-10T11:00:35Z"
+      "title": "GOLS DE BRASIL 3 X 1 ARGENTINA | NARRAÇÃO DANIEL FÉLIX | AMISTOSO INTERNACIONAL | 10/10/2026",
+      "videoId": "k9Cy1k6v0lU",
+      "url": "https://www.youtube.com/watch?v=k9Cy1k6v0lU",
+      "thumbnail": "https://i.ytimg.com/vi/k9Cy1k6v0lU/mqdefault.jpg",
+      "published": "2026-10-10T21:50:47Z"
     },
     {
       "channel": "Radio Imortal",
