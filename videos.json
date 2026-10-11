@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T20:00:31.609522+00:00",
+  "updated_at": "2026-10-11T21:00:35.421848+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ARENA DO GRÊMIO AO VIVO | DOMINGO DE  GRE-NAL",
+      "videoId": "s-Lgcb5bbEY",
+      "url": "https://www.youtube.com/watch?v=s-Lgcb5bbEY",
+      "thumbnail": "https://i.ytimg.com/vi/s-Lgcb5bbEY/mqdefault.jpg",
+      "published": "2026-10-11T20:26:15Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VAI DAR CERTO! GRÊMIO 15° POSIÇÃO E FORA DA ZONA! #gremio #futebol #brasileirao #grenal",
       "videoId": "yEk0FFFtaOc",
       "url": "https://www.youtube.com/watch?v=yEk0FFFtaOc",
       "thumbnail": "https://i.ytimg.com/vi/yEk0FFFtaOc/mqdefault.jpg",
       "published": "2026-10-11T14:36:16Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ARENA DO GRÊMIO AO VIVO | DOMINGO DE  GRE-NAL",
-      "videoId": "s-Lgcb5bbEY",
-      "url": "https://www.youtube.com/watch?v=s-Lgcb5bbEY",
-      "thumbnail": "https://i.ytimg.com/vi/s-Lgcb5bbEY/mqdefault_live.jpg",
-      "published": "2026-10-11T11:20:41Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
