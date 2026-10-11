@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T16:00:38.577260+00:00",
+  "updated_at": "2026-10-11T17:00:38.623694+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "PRÉ JOGO - GRENAL | BOM DIA GRÊMIO ESPECIAL",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X INTERNACIONAL - [ DIRETO DA ARENA ]",
       "videoId": "DmNAiDPxfnM",
       "url": "https://www.youtube.com/watch?v=DmNAiDPxfnM",
       "thumbnail": "https://i.ytimg.com/vi/DmNAiDPxfnM/mqdefault_live.jpg",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "ESSES TIMES NÃO SÃO GRANDES #dudagarbi #umassadopara",
+      "videoId": "ol4AhYT3Ctg",
+      "url": "https://www.youtube.com/watch?v=ol4AhYT3Ctg",
+      "thumbnail": "https://i.ytimg.com/vi/ol4AhYT3Ctg/mqdefault.jpg",
+      "published": "2026-10-11T16:00:31Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "O GUARDIOLA SABIA DE TUDO? QUAL SERÁ A PUNIÇÃO QUE O MANCHESTER CITY VAI LEVAR? | Cortes do Duda",
       "videoId": "USujJevrhGU",
       "url": "https://www.youtube.com/watch?v=USujJevrhGU",
       "thumbnail": "https://i.ytimg.com/vi/USujJevrhGU/mqdefault.jpg",
       "published": "2026-10-11T16:00:01Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "SÓ BOTOX NÃO ADIANTA #dudagarbi #rafaelbarleze",
-      "videoId": "cndJNMBn3QY",
-      "url": "https://www.youtube.com/watch?v=cndJNMBn3QY",
-      "thumbnail": "https://i.ytimg.com/vi/cndJNMBn3QY/mqdefault.jpg",
-      "published": "2026-10-11T15:00:30Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO: DUPLA EM DEBATE | GRÊMIO X INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 11/10/2026",
+      "title": "AO VIVO: ESQUENTANDO O JOGO | GRÊMIO X INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 11/10/2026",
       "videoId": "2p75J62yR0g",
       "url": "https://www.youtube.com/watch?v=2p75J62yR0g",
       "thumbnail": "https://i.ytimg.com/vi/2p75J62yR0g/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | GRÊMIO X INTERNACIONAL | GRENAL 455 | JORNADA IMORTAL DIRETO DA ARENA | BRASILEIRÃO 2026",
+      "videoId": "HG9UxfPpSik",
+      "url": "https://www.youtube.com/watch?v=HG9UxfPpSik",
+      "thumbnail": "https://i.ytimg.com/vi/HG9UxfPpSik/mqdefault_live.jpg",
+      "published": "2026-10-11T16:29:49Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "DIA DE GRÊMIO! DIA DE GRENAL NA ARENA! | RENATO FAZ MISTÉRIO NO TIME | PLANTÃO IMORTAL",
       "videoId": "r5ba17L5iQc",
       "url": "https://www.youtube.com/watch?v=r5ba17L5iQc",
       "thumbnail": "https://i.ytimg.com/vi/r5ba17L5iQc/mqdefault.jpg",
       "published": "2026-10-11T15:08:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRENAL É OBRIGAÇÃO! | MARLON PODE DESFALCAR | WALLACE FARA CIRURGIA | NOITES DE GRÊMIO #162 - 09/10",
-      "videoId": "vX5G5qi0k14",
-      "url": "https://www.youtube.com/watch?v=vX5G5qi0k14",
-      "thumbnail": "https://i.ytimg.com/vi/vX5G5qi0k14/mqdefault.jpg",
-      "published": "2026-10-10T14:35:33Z"
     }
   ]
 }
