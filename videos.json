@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T02:00:38.531394+00:00",
+  "updated_at": "2026-10-11T04:48:00.616715+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "RESENHA DAS GURIAS #02",
+      "videoId": "O0g8RitdhxY",
+      "url": "https://www.youtube.com/watch?v=O0g8RitdhxY",
+      "thumbnail": "https://i.ytimg.com/vi/O0g8RitdhxY/mqdefault.jpg",
+      "published": "2026-10-11T02:07:58Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "Ao Vivo | Pôs jogo Grenal 455 | Analise, Comentários e repercussão | Clube Triolor #04",
       "videoId": "RSAPnBdjpzA",
       "url": "https://www.youtube.com/watch?v=RSAPnBdjpzA",
       "thumbnail": "https://i.ytimg.com/vi/RSAPnBdjpzA/mqdefault_live.jpg",
       "published": "2026-10-10T22:24:49Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "RESENHA DAS GURIAS #02",
-      "videoId": "O0g8RitdhxY",
-      "url": "https://www.youtube.com/watch?v=O0g8RitdhxY",
-      "thumbnail": "https://i.ytimg.com/vi/O0g8RitdhxY/mqdefault_live.jpg",
-      "published": "2026-10-10T14:02:49Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ARENA DO GRÊMIO AO VIVO | DOMINGO DE  GRE-NAL",
+      "videoId": "s-Lgcb5bbEY",
+      "url": "https://www.youtube.com/watch?v=s-Lgcb5bbEY",
+      "thumbnail": "https://i.ytimg.com/vi/s-Lgcb5bbEY/mqdefault_live.jpg",
+      "published": "2026-10-11T03:16:33Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "TESTES NO CAMPO: GRE-NAL | LIBERADO E FALOU: ALEXANDRE MENDES | TABELA PRA SAIR DA ZONA!",
       "videoId": "nFNVnzQS1EA",
       "url": "https://www.youtube.com/watch?v=nFNVnzQS1EA",
       "thumbnail": "https://i.ytimg.com/vi/nFNVnzQS1EA/mqdefault.jpg",
       "published": "2026-10-10T23:30:56Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "DESFALQUES E SURPRESAS #grenal #gremio",
-      "videoId": "gFRAXWLMh00",
-      "url": "https://www.youtube.com/watch?v=gFRAXWLMh00",
-      "thumbnail": "https://i.ytimg.com/vi/gFRAXWLMh00/mqdefault.jpg",
-      "published": "2026-10-10T14:49:05Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
