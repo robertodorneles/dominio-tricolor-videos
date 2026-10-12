@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T18:32:10.555677+00:00",
+  "updated_at": "2026-10-12T19:00:37.261373+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BALDASSO FOI A LOUCURA COM O PASSARINHO. #CORTESDORESENHA",
+      "videoId": "Ywo_qevqDHM",
+      "url": "https://www.youtube.com/watch?v=Ywo_qevqDHM",
+      "thumbnail": "https://i.ytimg.com/vi/Ywo_qevqDHM/mqdefault.jpg",
+      "published": "2026-10-12T18:36:24Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "AMBIENTE INTERNO DO GRÊMIO VAI IMPLODIR? 🔹 THE TARDE 🔹#238",
       "videoId": "g_gg56pe9YM",
       "url": "https://www.youtube.com/watch?v=g_gg56pe9YM",
       "thumbnail": "https://i.ytimg.com/vi/g_gg56pe9YM/mqdefault_live.jpg",
       "published": "2026-10-12T18:29:50Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "Tudo igual na Arena! Dupla Grenal tem o pior futebol do Brasil?🔸RESENHA FORA DA SALA🔸#150",
-      "videoId": "v8mLUb7RCPk",
-      "url": "https://www.youtube.com/watch?v=v8mLUb7RCPk",
-      "thumbnail": "https://i.ytimg.com/vi/v8mLUb7RCPk/mqdefault_live.jpg",
-      "published": "2026-10-12T18:09:47Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -119,8 +119,8 @@
       "title": "GRÊMIO AINDA VAI SE SALVAR? | QUEM SÃO OS CULPADOS DE TUDO ISSO? | RENATO FEZ FORTES CRÍTICAS",
       "videoId": "7B_D2Jd3UYM",
       "url": "https://www.youtube.com/watch?v=7B_D2Jd3UYM",
-      "thumbnail": "https://i.ytimg.com/vi/7B_D2Jd3UYM/mqdefault_live.jpg",
-      "published": "2026-10-12T17:50:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/7B_D2Jd3UYM/mqdefault.jpg",
+      "published": "2026-10-12T18:35:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Papa Leão XIV será hospitalizado na terça-feira para ser operado",
+      "videoId": "vuaPO3z8F-I",
+      "url": "https://www.youtube.com/watch?v=vuaPO3z8F-I",
+      "thumbnail": "https://i.ytimg.com/vi/vuaPO3z8F-I/mqdefault.jpg",
+      "published": "2026-10-12T18:45:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Cheia de rios no RS, atos de campanha no feriado, informações do trânsito e mais | Gaúcha+| 12/10/26",
       "videoId": "oU8jgxaqGLg",
       "url": "https://www.youtube.com/watch?v=oU8jgxaqGLg",
       "thumbnail": "https://i.ytimg.com/vi/oU8jgxaqGLg/mqdefault_live.jpg",
       "published": "2026-10-12T18:00:33Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Rosário, Ópera e Fanha? Conheça a história dos becos que marcaram  Porto Alegre | Aconteceu no RS",
-      "videoId": "v9YMjgMYmaA",
-      "url": "https://www.youtube.com/watch?v=v9YMjgMYmaA",
-      "thumbnail": "https://i.ytimg.com/vi/v9YMjgMYmaA/mqdefault.jpg",
-      "published": "2026-10-12T15:00:08Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO DESCANSA APÓS EMPATE NO GRENAL | O AMBIENTE APÓS CRÍTICAS DE RENATO | ESPLANADA",
+      "videoId": "bhdi0MaZb-8",
+      "url": "https://www.youtube.com/watch?v=bhdi0MaZb-8",
+      "thumbnail": "https://i.ytimg.com/vi/bhdi0MaZb-8/mqdefault_live.jpg",
+      "published": "2026-10-12T18:35:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO EMPATA GRENAL E RENATO DISPARA CONTRA A DIREÇÃO | COMO É BOM SER DO GRÊMIO #61",
       "videoId": "gKMe8Of5-YM",
       "url": "https://www.youtube.com/watch?v=gKMe8Of5-YM",
       "thumbnail": "https://i.ytimg.com/vi/gKMe8Of5-YM/mqdefault.jpg",
       "published": "2026-10-12T17:21:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #174 — RENATO ROUBA A CENA EM COLETIVA PÓS-JOGO | GRÊMIO DE FOLGA NESTA SEGUNDA",
-      "videoId": "cNZvWp-617c",
-      "url": "https://www.youtube.com/watch?v=cNZvWp-617c",
-      "thumbnail": "https://i.ytimg.com/vi/cNZvWp-617c/mqdefault.jpg",
-      "published": "2026-10-12T15:20:43Z"
     }
   ]
 }
