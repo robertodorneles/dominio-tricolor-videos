@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-11T23:25:27.856742+00:00",
-  "total": 29,
+  "updated_at": "2026-10-12T00:00:40.486078+00:00",
+  "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  O EMPATE REBAIXARÁ OS DOIS? | O GRE-NAL 455 DIRETO DA ARENA",
+      "videoId": "GF_BJzDz3kQ",
+      "url": "https://www.youtube.com/watch?v=GF_BJzDz3kQ",
+      "thumbnail": "https://i.ytimg.com/vi/GF_BJzDz3kQ/mqdefault_live.jpg",
+      "published": "2026-10-11T23:35:47Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ GRÊMIO 1X1 INTER: RENATO NÃO ENCONTRA SOLUÇÕES! INTER FOI SUPERIOR E REBAIXAMENTO SE APROXIMA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=iBg2I9UvmRY",
       "thumbnail": "https://i.ytimg.com/vi/iBg2I9UvmRY/mqdefault.jpg",
       "published": "2026-10-11T23:23:15Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪ Grêmio 1x1 Inter: 🔥 BAPTISTA VENCEU RENATO | VEJA OS GOLS E MELHORES MOMENTOS | MELHORA!",
-      "videoId": "jg_Jdqp2exg",
-      "url": "https://www.youtube.com/watch?v=jg_Jdqp2exg",
-      "thumbnail": "https://i.ytimg.com/vi/jg_Jdqp2exg/mqdefault.jpg",
-      "published": "2026-10-11T23:11:57Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Grêmio 1 x 1 Inter: Empate na Arena e segue o desespero na zona do rebaixamento",
+      "videoId": "6bER9Llph58",
+      "url": "https://www.youtube.com/watch?v=6bER9Llph58",
+      "thumbnail": "https://i.ytimg.com/vi/6bER9Llph58/mqdefault.jpg",
+      "published": "2026-10-11T23:35:47Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "GRÊMIO 1 X 1 INTER: EMPATE E SEGUIMOS NO Z4",
       "videoId": "5XNIxPNMJEw",
       "url": "https://www.youtube.com/watch?v=5XNIxPNMJEw",
@@ -59,12 +67,12 @@
       "published": "2026-10-11T22:33:52Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Grêmio x Inter: Novidades no time, público, tabela e mais",
-      "videoId": "hjQbljDpxvk",
-      "url": "https://www.youtube.com/watch?v=hjQbljDpxvk",
-      "thumbnail": "https://i.ytimg.com/vi/hjQbljDpxvk/mqdefault.jpg",
-      "published": "2026-10-11T14:16:06Z"
+      "channel": "Canal do Farid",
+      "title": "AO VIVO | PÓS-JOGO GRENAL 455 | ANÁLISE, COMENTÁRIOS E REPERCUSSÃO | CLUBE TRICOLOR #04",
+      "videoId": "RSAPnBdjpzA",
+      "url": "https://www.youtube.com/watch?v=RSAPnBdjpzA",
+      "thumbnail": "https://i.ytimg.com/vi/RSAPnBdjpzA/mqdefault_live.jpg",
+      "published": "2026-10-11T23:57:45Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=egK50egkjUk",
       "thumbnail": "https://i.ytimg.com/vi/egK50egkjUk/mqdefault_live.jpg",
       "published": "2026-10-11T17:51:49Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "RESENHA DAS GURIAS #02",
-      "videoId": "O0g8RitdhxY",
-      "url": "https://www.youtube.com/watch?v=O0g8RitdhxY",
-      "thumbnail": "https://i.ytimg.com/vi/O0g8RitdhxY/mqdefault.jpg",
-      "published": "2026-10-11T02:07:58Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "QUASE MORTO, MAS ATÉ QUANDO FICA VIVO? | GRÊMIO 1X1 INTER: COMENTÁRIO.",
+      "videoId": "3ETb2tG-xTE",
+      "url": "https://www.youtube.com/watch?v=3ETb2tG-xTE",
+      "thumbnail": "https://i.ytimg.com/vi/3ETb2tG-xTE/mqdefault.jpg",
+      "published": "2026-10-11T23:32:25Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO x INTERNACIONAL | LIVE PÓS-JOGO | COLETIVA RENATO | AO VIVO | BRASILEIRÃO",
       "videoId": "iF8J-80Ks2I",
       "url": "https://www.youtube.com/watch?v=iF8J-80Ks2I",
       "thumbnail": "https://i.ytimg.com/vi/iF8J-80Ks2I/mqdefault_live.jpg",
       "published": "2026-10-11T22:34:47Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "ARENA DO GRÊMIO AO VIVO | DOMINGO DE  GRE-NAL",
-      "videoId": "s-Lgcb5bbEY",
-      "url": "https://www.youtube.com/watch?v=s-Lgcb5bbEY",
-      "thumbnail": "https://i.ytimg.com/vi/s-Lgcb5bbEY/mqdefault.jpg",
-      "published": "2026-10-11T20:26:15Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,11 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE GRÊMIO 1 X 1 INTER | NARRAÇÃO PC CARVALHO | BRASILEIRÃO | 11/10/2026 | RÁDIO GRENAL",
-      "videoId": "Phvj111JuvU",
-      "url": "https://www.youtube.com/watch?v=Phvj111JuvU",
-      "thumbnail": "https://i.ytimg.com/vi/Phvj111JuvU/mqdefault.jpg",
-      "published": "2026-10-11T22:39:14Z"
+      "title": "NÃO MELHOROU? 🇪🇪👀 #gremio #tricolor #brasileirao #grenal #renato",
+      "videoId": "CXtvjv373fg",
+      "url": "https://www.youtube.com/watch?v=CXtvjv373fg",
+      "thumbnail": "https://i.ytimg.com/vi/CXtvjv373fg/mqdefault.jpg",
+      "published": "2026-10-11T23:55:27Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "PÊNALTI DO GRENAL 🇪🇪👀",
+      "videoId": "eucsccbMHys",
+      "url": "https://www.youtube.com/watch?v=eucsccbMHys",
+      "thumbnail": "https://i.ytimg.com/vi/eucsccbMHys/mqdefault.jpg",
+      "published": "2026-10-11T23:50:25Z"
     },
     {
       "channel": "Radio Imortal",
