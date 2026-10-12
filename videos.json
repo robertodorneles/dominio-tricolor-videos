@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-12T05:03:24.969114+00:00",
+  "updated_at": "2026-10-12T09:01:59.708926+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Diário do Inter: IMAGENS MOSTRAM TUDO | F5 ALAMPA | BAPTISTA EXPLICOU! | BOM FIM DE SEMANA",
+      "videoId": "8kK_88JbO-E",
+      "url": "https://www.youtube.com/watch?v=8kK_88JbO-E",
+      "thumbnail": "https://i.ytimg.com/vi/8kK_88JbO-E/mqdefault.jpg",
+      "published": "2026-10-12T05:54:37Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫ Diário do Grêmio: RENATO NÃO ACEITA CRÍTICAS! Técnico COBRA JOGADORES, questiona e ODORICO REAGE!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=uuVKoAsrVOo",
       "thumbnail": "https://i.ytimg.com/vi/uuVKoAsrVOo/mqdefault.jpg",
       "published": "2026-10-12T05:00:06Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla:  O EMPATE REBAIXARÁ OS DOIS? | O GRE-NAL 455 DIRETO DA ARENA",
-      "videoId": "GF_BJzDz3kQ",
-      "url": "https://www.youtube.com/watch?v=GF_BJzDz3kQ",
-      "thumbnail": "https://i.ytimg.com/vi/GF_BJzDz3kQ/mqdefault.jpg",
-      "published": "2026-10-12T01:43:56Z"
     },
     {
       "channel": "Bage TV",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "GRÊMIO AINDA VAI SE SALVAR? | QUEM SÃO OS CULPADOS DE TUDO ISSO? | RENATO FEZ FORTES CRÍTICAS",
+      "videoId": "7B_D2Jd3UYM",
+      "url": "https://www.youtube.com/watch?v=7B_D2Jd3UYM",
+      "thumbnail": "https://i.ytimg.com/vi/7B_D2Jd3UYM/mqdefault_live.jpg",
+      "published": "2026-10-12T05:26:31Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DO GRENAL 455 DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 11/10 #38",
       "videoId": "TPtU3vxLt54",
       "url": "https://www.youtube.com/watch?v=TPtU3vxLt54",
       "thumbnail": "https://i.ytimg.com/vi/TPtU3vxLt54/mqdefault.jpg",
       "published": "2026-10-12T00:48:52Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DO GRENAL 455  DIRETO DA ARENA | BRASILEIRÃO 2026 | 11/10 #21",
-      "videoId": "8t5V1Kqq6Nc",
-      "url": "https://www.youtube.com/watch?v=8t5V1Kqq6Nc",
-      "thumbnail": "https://i.ytimg.com/vi/8t5V1Kqq6Nc/mqdefault.jpg",
-      "published": "2026-10-11T19:48:27Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "ELEIÇÕES NO RS: direita assume protagonismo na disputa eleitoral | Conversa de Gabinete",
-      "videoId": "ANsdAYIzheM",
-      "url": "https://www.youtube.com/watch?v=ANsdAYIzheM",
-      "thumbnail": "https://i.ytimg.com/vi/ANsdAYIzheM/mqdefault.jpg",
-      "published": "2026-10-11T16:00:17Z"
+      "title": "Timeline | 12/10/2026",
+      "videoId": "iN2gtmF6wrY",
+      "url": "https://www.youtube.com/watch?v=iN2gtmF6wrY",
+      "thumbnail": "https://i.ytimg.com/vi/iN2gtmF6wrY/mqdefault_live.jpg",
+      "published": "2026-10-12T08:12:19Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "2º TURNO DEFINIDO, ESCALA 6x1 AVANÇA NO SENADO, STF AMANSA E RDs ELEITORAIS | RivoNews #153",
-      "videoId": "l8twOX_FHHc",
-      "url": "https://www.youtube.com/watch?v=l8twOX_FHHc",
-      "thumbnail": "https://i.ytimg.com/vi/l8twOX_FHHc/mqdefault.jpg",
-      "published": "2026-10-11T12:00:25Z"
+      "title": "Gaúcha Atualidade | 12/10/2026",
+      "videoId": "zb5vGsuiCzE",
+      "url": "https://www.youtube.com/watch?v=zb5vGsuiCzE",
+      "thumbnail": "https://i.ytimg.com/vi/zb5vGsuiCzE/mqdefault_live.jpg",
+      "published": "2026-10-12T08:11:36Z"
     },
     {
       "channel": "Jeremias Wernek",
