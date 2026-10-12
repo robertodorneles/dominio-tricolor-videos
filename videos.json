@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:00:39.904487+00:00",
+  "updated_at": "2026-10-12T16:00:43.555389+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #086",
+      "videoId": "YHKMKRroh5E",
+      "url": "https://www.youtube.com/watch?v=YHKMKRroh5E",
+      "thumbnail": "https://i.ytimg.com/vi/YHKMKRroh5E/mqdefault.jpg",
+      "published": "2026-10-12T15:22:18Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "ESSE ELENCO AINDA NÃO ENTENDEU O QUE É SER GRÊMIO! #CORTESDOBOMDIA",
       "videoId": "oOvbiqdLjm8",
       "url": "https://www.youtube.com/watch?v=oOvbiqdLjm8",
       "thumbnail": "https://i.ytimg.com/vi/oOvbiqdLjm8/mqdefault.jpg",
       "published": "2026-10-12T14:58:25Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #086",
-      "videoId": "YHKMKRroh5E",
-      "url": "https://www.youtube.com/watch?v=YHKMKRroh5E",
-      "thumbnail": "https://i.ytimg.com/vi/YHKMKRroh5E/mqdefault_live.jpg",
-      "published": "2026-10-12T14:55:11Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Entrevistas de Renato e Odorico | Política | O futuro do Grêmio",
+      "videoId": "w0Age8oRCVI",
+      "url": "https://www.youtube.com/watch?v=w0Age8oRCVI",
+      "thumbnail": "https://i.ytimg.com/vi/w0Age8oRCVI/mqdefault.jpg",
+      "published": "2026-10-12T15:59:09Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - GRÊMIO NO Z4 | RENATO | GRENAL E MAIS",
       "videoId": "4boWWyzPNP4",
       "url": "https://www.youtube.com/watch?v=4boWWyzPNP4",
@@ -59,12 +67,12 @@
       "published": "2026-10-12T14:28:27Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "GRÊMIO 1 X 1 INTER: EMPATE E SEGUIMOS NO Z4",
-      "videoId": "5XNIxPNMJEw",
-      "url": "https://www.youtube.com/watch?v=5XNIxPNMJEw",
-      "thumbnail": "https://i.ytimg.com/vi/5XNIxPNMJEw/mqdefault.jpg",
-      "published": "2026-10-12T01:02:57Z"
+      "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #31",
+      "videoId": "7TLPsx-TxLo",
+      "url": "https://www.youtube.com/watch?v=7TLPsx-TxLo",
+      "thumbnail": "https://i.ytimg.com/vi/7TLPsx-TxLo/mqdefault_live.jpg",
+      "published": "2026-10-12T15:54:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=RSAPnBdjpzA",
       "thumbnail": "https://i.ytimg.com/vi/RSAPnBdjpzA/mqdefault.jpg",
       "published": "2026-10-12T13:22:40Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 12/10/2026",
-      "videoId": "UMRCKkTluPY",
-      "url": "https://www.youtube.com/watch?v=UMRCKkTluPY",
-      "thumbnail": "https://i.ytimg.com/vi/UMRCKkTluPY/mqdefault_live.jpg",
-      "published": "2026-10-12T12:41:42Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "ESSES CLUBES VÃO ACABAR #dudagarbi #umassadopara",
+      "videoId": "fHRm39bnv0Q",
+      "url": "https://www.youtube.com/watch?v=fHRm39bnv0Q",
+      "thumbnail": "https://i.ytimg.com/vi/fHRm39bnv0Q/mqdefault.jpg",
+      "published": "2026-10-12T16:00:04Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "ESSES TIMES NÃO SÃO GRANDES #dudagarbi #umassadopara",
       "videoId": "ol4AhYT3Ctg",
       "url": "https://www.youtube.com/watch?v=ol4AhYT3Ctg",
       "thumbnail": "https://i.ytimg.com/vi/ol4AhYT3Ctg/mqdefault.jpg",
       "published": "2026-10-11T16:00:31Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "O GUARDIOLA SABIA DE TUDO? QUAL SERÁ A PUNIÇÃO QUE O MANCHESTER CITY VAI LEVAR? | Cortes do Duda",
-      "videoId": "USujJevrhGU",
-      "url": "https://www.youtube.com/watch?v=USujJevrhGU",
-      "thumbnail": "https://i.ytimg.com/vi/USujJevrhGU/mqdefault.jpg",
-      "published": "2026-10-11T16:00:01Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 12/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 12/10/2026",
       "videoId": "Nu1r_Xl6uBM",
       "url": "https://www.youtube.com/watch?v=Nu1r_Xl6uBM",
       "thumbnail": "https://i.ytimg.com/vi/Nu1r_Xl6uBM/mqdefault_live.jpg",
@@ -231,8 +231,8 @@
       "title": "TIMELINE IMORTAL #174 — RENATO ROUBA A CENA EM COLETIVA PÓS-JOGO | GRÊMIO DE FOLGA NESTA SEGUNDA",
       "videoId": "cNZvWp-617c",
       "url": "https://www.youtube.com/watch?v=cNZvWp-617c",
-      "thumbnail": "https://i.ytimg.com/vi/cNZvWp-617c/mqdefault_live.jpg",
-      "published": "2026-10-12T14:16:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/cNZvWp-617c/mqdefault.jpg",
+      "published": "2026-10-12T15:20:43Z"
     },
     {
       "channel": "Radio Imortal",
