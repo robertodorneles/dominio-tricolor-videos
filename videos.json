@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-10-13T02:00:34.632291+00:00",
+  "updated_at": "2026-10-13T06:03:05.210051+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: LUÍS CASTRO REAGE A RENATO! CRISE NO VESTIÁRIO E MUDANÇAS NO TIME!",
+      "videoId": "Kxwg51EqX4E",
+      "url": "https://www.youtube.com/watch?v=Kxwg51EqX4E",
+      "thumbnail": "https://i.ytimg.com/vi/Kxwg51EqX4E/mqdefault.jpg",
+      "published": "2026-10-13T05:00:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 A Hora da Dupla: O PÓS GRE-NAL E AS CONSEQUÊNCIAS DO CLÁSSICO | DIA DAS CRIANÇAS",
       "videoId": "YUNI30yFLgs",
       "url": "https://www.youtube.com/watch?v=YUNI30yFLgs",
-      "thumbnail": "https://i.ytimg.com/vi/YUNI30yFLgs/mqdefault_live.jpg",
-      "published": "2026-10-12T23:28:16Z"
+      "thumbnail": "https://i.ytimg.com/vi/YUNI30yFLgs/mqdefault.jpg",
+      "published": "2026-10-13T04:55:17Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: BAPTISTA RECUPEROU ESPAÇO PRA ELE | TODOS OS LANCES DE ALERRANDRO | VEM SENDO FUNDAMENTAL",
-      "videoId": "9PunOUTPkhA",
-      "url": "https://www.youtube.com/watch?v=9PunOUTPkhA",
-      "thumbnail": "https://i.ytimg.com/vi/9PunOUTPkhA/mqdefault.jpg",
-      "published": "2026-10-12T21:09:34Z"
+      "channel": "Bage TV",
+      "title": "ARTHUR QUERIA PERMANECER NO GRÊMIO🔵 BOA NOITE GRÊMIO #041",
+      "videoId": "rRO-sLiT7fk",
+      "url": "https://www.youtube.com/watch?v=rRO-sLiT7fk",
+      "thumbnail": "https://i.ytimg.com/vi/rRO-sLiT7fk/mqdefault.jpg",
+      "published": "2026-10-13T02:12:21Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=smx_ufcDMgc",
       "thumbnail": "https://i.ytimg.com/vi/smx_ufcDMgc/mqdefault_live.jpg",
       "published": "2026-10-13T00:54:31Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "ARTHUR QUERIA PERMANECER NO GRÊMIO🔵 BOA NOITE GRÊMIO #041",
-      "videoId": "rRO-sLiT7fk",
-      "url": "https://www.youtube.com/watch?v=rRO-sLiT7fk",
-      "thumbnail": "https://i.ytimg.com/vi/rRO-sLiT7fk/mqdefault_live.jpg",
-      "published": "2026-10-13T00:35:29Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #31",
+      "videoId": "7TLPsx-TxLo",
+      "url": "https://www.youtube.com/watch?v=7TLPsx-TxLo",
+      "thumbnail": "https://i.ytimg.com/vi/7TLPsx-TxLo/mqdefault.jpg",
+      "published": "2026-10-13T05:30:22Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO | FOMOS ROUBADOS, RENATO DÁ COLETIVA FORTE | CLUBE TRICOLOR #05",
       "videoId": "h4akIX3CQxs",
       "url": "https://www.youtube.com/watch?v=h4akIX3CQxs",
       "thumbnail": "https://i.ytimg.com/vi/h4akIX3CQxs/mqdefault_live.jpg",
       "published": "2026-10-13T01:13:50Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #036 - EMPATAMOS NO GREnal, MAS AINDA HÁ ESPERANÇA!",
-      "videoId": "NgTS4tTMdVE",
-      "url": "https://www.youtube.com/watch?v=NgTS4tTMdVE",
-      "thumbnail": "https://i.ytimg.com/vi/NgTS4tTMdVE/mqdefault.jpg",
-      "published": "2026-10-13T00:46:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: NOVOS BASTIDORES DA TRETA COM RENATO E SUBSTITUTO DE ALAN PATRICK",
+      "videoId": "Z4531d9u7XA",
+      "url": "https://www.youtube.com/watch?v=Z4531d9u7XA",
+      "thumbnail": "https://i.ytimg.com/vi/Z4531d9u7XA/mqdefault_live.jpg",
+      "published": "2026-10-13T02:19:12Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "RENATO CHUTA O BALDE: Os reflexos + temor e consequências",
       "videoId": "UgqlXSW8ak4",
       "url": "https://www.youtube.com/watch?v=UgqlXSW8ak4",
       "thumbnail": "https://i.ytimg.com/vi/UgqlXSW8ak4/mqdefault.jpg",
       "published": "2026-10-12T21:32:34Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: GRE-NAL 455 + POLÊMICA COM RENATO E A VOLTA DO JEREMIAS",
-      "videoId": "0JziSF1fmYk",
-      "url": "https://www.youtube.com/watch?v=0JziSF1fmYk",
-      "thumbnail": "https://i.ytimg.com/vi/0JziSF1fmYk/mqdefault.jpg",
-      "published": "2026-10-12T12:58:46Z"
     },
     {
       "channel": "LH Benfica",
