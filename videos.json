@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-12T23:00:41.429704+00:00",
+  "updated_at": "2026-10-13T00:00:54.373758+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O PÓS GRE-NAL E AS CONSEQUÊNCIAS DO CLÁSSICO | DIA DAS CRIANÇAS",
+      "videoId": "YUNI30yFLgs",
+      "url": "https://www.youtube.com/watch?v=YUNI30yFLgs",
+      "thumbnail": "https://i.ytimg.com/vi/YUNI30yFLgs/mqdefault_live.jpg",
+      "published": "2026-10-12T23:28:16Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: BAPTISTA RECUPEROU ESPAÇO PRA ELE | TODOS OS LANCES DE ALERRANDRO | VEM SENDO FUNDAMENTAL",
@@ -11,12 +19,12 @@
       "published": "2026-10-12T21:09:34Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: RENATO CADA VEZ MAIS ISOLADO! Distanciamento da direção, críticas e crise nos bastidores",
-      "videoId": "pO8a_p2U6XU",
-      "url": "https://www.youtube.com/watch?v=pO8a_p2U6XU",
-      "thumbnail": "https://i.ytimg.com/vi/pO8a_p2U6XU/mqdefault.jpg",
-      "published": "2026-10-12T20:00:29Z"
+      "channel": "Bage TV",
+      "title": "QUAL O IMPACTO DA FORTE ENTREVISTA DE RENATO?🟣RESENHA FORA DA SALA NOITE🟣#041",
+      "videoId": "e0hLieWigTY",
+      "url": "https://www.youtube.com/watch?v=e0hLieWigTY",
+      "thumbnail": "https://i.ytimg.com/vi/e0hLieWigTY/mqdefault_live.jpg",
+      "published": "2026-10-12T23:20:48Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=HzRkA3WMlmQ",
       "thumbnail": "https://i.ytimg.com/vi/HzRkA3WMlmQ/mqdefault.jpg",
       "published": "2026-10-12T23:00:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRENAL TERMINA EMPATADO! WALLACE PASSA POR CIRURGIA E ALAN PATRICK LESIONADO📰BAGÉTV NEWS #053",
-      "videoId": "lguoDBNAvm4",
-      "url": "https://www.youtube.com/watch?v=lguoDBNAvm4",
-      "thumbnail": "https://i.ytimg.com/vi/lguoDBNAvm4/mqdefault.jpg",
-      "published": "2026-10-12T22:10:12Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -71,16 +71,16 @@
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 12/10/2026",
       "videoId": "UMRCKkTluPY",
       "url": "https://www.youtube.com/watch?v=UMRCKkTluPY",
-      "thumbnail": "https://i.ytimg.com/vi/UMRCKkTluPY/mqdefault_live.jpg",
-      "published": "2026-10-12T22:01:50Z"
+      "thumbnail": "https://i.ytimg.com/vi/UMRCKkTluPY/mqdefault.jpg",
+      "published": "2026-10-12T23:45:46Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #31",
-      "videoId": "7TLPsx-TxLo",
-      "url": "https://www.youtube.com/watch?v=7TLPsx-TxLo",
-      "thumbnail": "https://i.ytimg.com/vi/7TLPsx-TxLo/mqdefault_live.jpg",
-      "published": "2026-10-12T17:20:56Z"
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 13/10/2026",
+      "videoId": "ZhD2Af-NrgQ",
+      "url": "https://www.youtube.com/watch?v=ZhD2Af-NrgQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZhD2Af-NrgQ/mqdefault_live.jpg",
+      "published": "2026-10-12T23:15:22Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "PVC SURPREENDEU DUDA COM A ESCALAÇÃO DO GRÊMIO HISTÓRICO | Cortes do Duda",
+      "videoId": "lbxvyLfmL5U",
+      "url": "https://www.youtube.com/watch?v=lbxvyLfmL5U",
+      "thumbnail": "https://i.ytimg.com/vi/lbxvyLfmL5U/mqdefault.jpg",
+      "published": "2026-10-12T23:30:11Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "UM GRUPO DE PERDEDORES DE COPA - PVC ANALISA SELEÇÃO DO ANCELOTTI | Cortes do Duda",
       "videoId": "EQlNUhl8eT4",
       "url": "https://www.youtube.com/watch?v=EQlNUhl8eT4",
       "thumbnail": "https://i.ytimg.com/vi/EQlNUhl8eT4/mqdefault.jpg",
       "published": "2026-10-12T23:00:13Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... PVC | #418",
-      "videoId": "2mToKN1dQ6A",
-      "url": "https://www.youtube.com/watch?v=2mToKN1dQ6A",
-      "thumbnail": "https://i.ytimg.com/vi/2mToKN1dQ6A/mqdefault.jpg",
-      "published": "2026-10-12T22:00:08Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 12/10/2026",
+      "title": "12/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Nu1r_Xl6uBM",
       "url": "https://www.youtube.com/watch?v=Nu1r_Xl6uBM",
-      "thumbnail": "https://i.ytimg.com/vi/Nu1r_Xl6uBM/mqdefault_live.jpg",
-      "published": "2026-10-12T11:02:04Z"
+      "thumbnail": "https://i.ytimg.com/vi/Nu1r_Xl6uBM/mqdefault.jpg",
+      "published": "2026-10-12T23:35:43Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "EMPATE MANTÉM O GRÊMIO NO Z4 | GRÊMIO JOGA CONTRA A MATEMÁTICA | NOITES DE GRÊMIO #163 - 12/10",
+      "videoId": "zceiC8FGlsM",
+      "url": "https://www.youtube.com/watch?v=zceiC8FGlsM",
+      "thumbnail": "https://i.ytimg.com/vi/zceiC8FGlsM/mqdefault_live.jpg",
+      "published": "2026-10-13T00:00:36Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AS REPERCUSSÕES NO GRÊMIO APÓS EMPATE NO CLÁSSICO GRENAL | CENÁRIO ASSUSTADOR | IMORTAL FC",
       "videoId": "FTsAgdf_kRQ",
       "url": "https://www.youtube.com/watch?v=FTsAgdf_kRQ",
       "thumbnail": "https://i.ytimg.com/vi/FTsAgdf_kRQ/mqdefault.jpg",
       "published": "2026-10-12T22:10:52Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "EMPATE MANTÉM O GRÊMIO NO Z4 | GRÊMIO JOGA CONTRA A MATEMÁTICA | NOITES DE GRÊMIO #163 - 12/10",
-      "videoId": "zceiC8FGlsM",
-      "url": "https://www.youtube.com/watch?v=zceiC8FGlsM",
-      "thumbnail": "https://i.ytimg.com/vi/zceiC8FGlsM/mqdefault_live.jpg",
-      "published": "2026-10-12T21:28:01Z"
     }
   ]
 }
