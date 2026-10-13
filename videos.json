@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-13T22:00:38.619541+00:00",
+  "updated_at": "2026-10-13T23:00:39.324942+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla: O PÓS GRE-NAL E AS CONSEQUÊNCIAS DO CLÁSSICO | DIA DAS CRIANÇAS",
+      "videoId": "6cV4bqDDTN4",
+      "url": "https://www.youtube.com/watch?v=6cV4bqDDTN4",
+      "thumbnail": "https://i.ytimg.com/vi/6cV4bqDDTN4/mqdefault_live.jpg",
+      "published": "2026-10-13T22:45:07Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: COMPORTAMENTO POLÍTICO DE RENATO HISTORICAMENTE PREOCUPA O CLUBE | LULA X BOLSONARO",
@@ -11,12 +19,12 @@
       "published": "2026-10-13T20:00:34Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: PRIMEIRA GRANDE MUDANÇA PREPARADA! | ELE VAI PERDER A TITULARIDADE? | PREOCUPOU!",
-      "videoId": "Ll8AFfrH0hA",
-      "url": "https://www.youtube.com/watch?v=Ll8AFfrH0hA",
-      "thumbnail": "https://i.ytimg.com/vi/Ll8AFfrH0hA/mqdefault.jpg",
-      "published": "2026-10-13T17:31:25Z"
+      "channel": "Bage TV",
+      "title": "RENATO GANHA CENTROVANTE E PROMESSAS DE CAMPANHA NO LADO COLORADO📰BAGÉTV NEWS #054",
+      "videoId": "bfyrd-hqSr0",
+      "url": "https://www.youtube.com/watch?v=bfyrd-hqSr0",
+      "thumbnail": "https://i.ytimg.com/vi/bfyrd-hqSr0/mqdefault.jpg",
+      "published": "2026-10-13T22:11:57Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=YKMydrrDkh4",
       "thumbnail": "https://i.ytimg.com/vi/YKMydrrDkh4/mqdefault.jpg",
       "published": "2026-10-13T21:59:13Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RENATO GANHA CENTROVANTE E PROMESSAS DE CAMPANHA NO LADO COLORADO📰BAGÉTV NEWS #054",
-      "videoId": "bfyrd-hqSr0",
-      "url": "https://www.youtube.com/watch?v=bfyrd-hqSr0",
-      "thumbnail": "https://i.ytimg.com/vi/bfyrd-hqSr0/mqdefault_live.jpg",
-      "published": "2026-10-13T20:30:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #702: Reunião entre Renato e Odorico | Baita atitude do Grêmio | Castro e mais",
+      "videoId": "HN3npKLW-G4",
+      "url": "https://www.youtube.com/watch?v=HN3npKLW-G4",
+      "thumbnail": "https://i.ytimg.com/vi/HN3npKLW-G4/mqdefault.jpg",
+      "published": "2026-10-13T22:37:55Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Como o vestiário entendeu a fala de Renato | Esperança e luta | Tabela do Brasileirão",
       "videoId": "D_nNdSXjfzc",
       "url": "https://www.youtube.com/watch?v=D_nNdSXjfzc",
@@ -59,12 +67,12 @@
       "published": "2026-10-13T12:24:12Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PAPO DE GREMISTA PARA GREMISTA - REPERCUSSÃO DO GRENAL | GRÊMIO NO Z4  E MAIS",
-      "videoId": "4boWWyzPNP4",
-      "url": "https://www.youtube.com/watch?v=4boWWyzPNP4",
-      "thumbnail": "https://i.ytimg.com/vi/4boWWyzPNP4/mqdefault.jpg",
-      "published": "2026-10-13T01:24:58Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 13/10/2026",
+      "videoId": "ZhD2Af-NrgQ",
+      "url": "https://www.youtube.com/watch?v=ZhD2Af-NrgQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZhD2Af-NrgQ/mqdefault_live.jpg",
+      "published": "2026-10-13T22:01:31Z"
     },
     {
       "channel": "Canal do Farid",
@@ -73,14 +81,6 @@
       "url": "https://www.youtube.com/watch?v=DCOoi0rKcGM",
       "thumbnail": "https://i.ytimg.com/vi/DCOoi0rKcGM/mqdefault_live.jpg",
       "published": "2026-10-13T17:12:12Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | FOMOS ROUBADOS, RENATO DÁ COLETIVA FORTE | CLUBE TRICOLOR #05",
-      "videoId": "h4akIX3CQxs",
-      "url": "https://www.youtube.com/watch?v=h4akIX3CQxs",
-      "thumbnail": "https://i.ytimg.com/vi/h4akIX3CQxs/mqdefault.jpg",
-      "published": "2026-10-13T13:27:35Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "PVC CRITICA JORNALISMO “ENGRAÇADINHO”: “PRA MIM O QUE VALE É INFORMAÇÃO” | Cortes do Duda",
-      "videoId": "8ol6QiWeHno",
-      "url": "https://www.youtube.com/watch?v=8ol6QiWeHno",
-      "thumbnail": "https://i.ytimg.com/vi/8ol6QiWeHno/mqdefault.jpg",
-      "published": "2026-10-13T22:00:09Z"
+      "title": "POR QUE PVC SE INCOMODA TANTO COM OS JORNALISTAS IDENTIFICADOS? | Cortes do Duda",
+      "videoId": "YwDVJxPA09k",
+      "url": "https://www.youtube.com/watch?v=YwDVJxPA09k",
+      "thumbnail": "https://i.ytimg.com/vi/YwDVJxPA09k/mqdefault.jpg",
+      "published": "2026-10-13T22:30:35Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "O VASCO PODE SER UM NOVO PALMEIRAS? PVC ANALISA CENÁRIO E FUTURO | Cortes do Duda",
-      "videoId": "iC6mAXvUQxQ",
-      "url": "https://www.youtube.com/watch?v=iC6mAXvUQxQ",
-      "thumbnail": "https://i.ytimg.com/vi/iC6mAXvUQxQ/mqdefault.jpg",
-      "published": "2026-10-13T21:30:23Z"
+      "title": "O VASCO É O NOVO PALMEIRAS?  #dudagarbi #umassadopara",
+      "videoId": "EO5_56HEwUQ",
+      "url": "https://www.youtube.com/watch?v=EO5_56HEwUQ",
+      "thumbnail": "https://i.ytimg.com/vi/EO5_56HEwUQ/mqdefault.jpg",
+      "published": "2026-10-13T22:00:39Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 13/10/2026",
-      "videoId": "2NwQ1UkfYsI",
-      "url": "https://www.youtube.com/watch?v=2NwQ1UkfYsI",
-      "thumbnail": "https://i.ytimg.com/vi/2NwQ1UkfYsI/mqdefault_live.jpg",
-      "published": "2026-10-13T21:53:20Z"
+      "title": "Zucco vai manter projetos de Leite? | Conversas Cruzadas",
+      "videoId": "9dGXzP8o148",
+      "url": "https://www.youtube.com/watch?v=9dGXzP8o148",
+      "thumbnail": "https://i.ytimg.com/vi/9dGXzP8o148/mqdefault.jpg",
+      "published": "2026-10-13T22:36:09Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Vorcaro e o \"recrutamento de mulheres\"; mensagens citam autoridades | Andei Pensando | 13/10/2026",
-      "videoId": "PK18vEZA3mg",
-      "url": "https://www.youtube.com/watch?v=PK18vEZA3mg",
-      "thumbnail": "https://i.ytimg.com/vi/PK18vEZA3mg/mqdefault.jpg",
-      "published": "2026-10-13T21:30:08Z"
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 13/10/2026",
+      "videoId": "2NwQ1UkfYsI",
+      "url": "https://www.youtube.com/watch?v=2NwQ1UkfYsI",
+      "thumbnail": "https://i.ytimg.com/vi/2NwQ1UkfYsI/mqdefault.jpg",
+      "published": "2026-10-13T22:05:03Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA | RÁDIO GRENAL | 13/10/2026",
+      "videoId": "kqDbo3vrra0",
+      "url": "https://www.youtube.com/watch?v=kqDbo3vrra0",
+      "thumbnail": "https://i.ytimg.com/vi/kqDbo3vrra0/mqdefault_live.jpg",
+      "published": "2026-10-13T23:00:08Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "\"CONSTRUIR IDENTIDADE PRÓPRIA\" | SABATINA DE ROBERTO MELO, CANDIDATO À PRESIDÊNCIA DO INTER",
       "videoId": "plQD-5HWAuk",
       "url": "https://www.youtube.com/watch?v=plQD-5HWAuk",
@@ -219,20 +227,12 @@
       "published": "2026-10-13T14:40:02Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "QUAL O PERFIL IDEAL? 🇲🇨",
-      "videoId": "RmeHjFZWoes",
-      "url": "https://www.youtube.com/watch?v=RmeHjFZWoes",
-      "thumbnail": "https://i.ytimg.com/vi/RmeHjFZWoes/mqdefault.jpg",
-      "published": "2026-10-13T14:22:28Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "A VOLTA DO GRÊMIO AOS TREINOS APÓS RECADOS DE RENATO | AS CONTAS DO GRÊMIO PARA ESCAPAR | IMORTAL FC",
       "videoId": "xztuTFCgpJE",
       "url": "https://www.youtube.com/watch?v=xztuTFCgpJE",
-      "thumbnail": "https://i.ytimg.com/vi/xztuTFCgpJE/mqdefault_live.jpg",
-      "published": "2026-10-13T21:00:24Z"
+      "thumbnail": "https://i.ytimg.com/vi/xztuTFCgpJE/mqdefault.jpg",
+      "published": "2026-10-13T22:20:13Z"
     },
     {
       "channel": "Radio Imortal",
