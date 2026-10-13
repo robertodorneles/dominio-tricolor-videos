@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-13T17:01:01.788495+00:00",
+  "updated_at": "2026-10-13T18:00:36.907147+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: PRIMEIRA GRANDE MUDANÇA PREPARADA! | ELE VAI PERDER A TITULARIDADE? | PREOCUPOU!",
+      "videoId": "Ll8AFfrH0hA",
+      "url": "https://www.youtube.com/watch?v=Ll8AFfrH0hA",
+      "thumbnail": "https://i.ytimg.com/vi/Ll8AFfrH0hA/mqdefault.jpg",
+      "published": "2026-10-13T17:31:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: LUÍS CASTRO REAGE A RENATO! CRISE NO VESTIÁRIO E MUDANÇAS NO TIME!",
@@ -11,12 +19,12 @@
       "published": "2026-10-13T05:00:25Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: O PÓS GRE-NAL E AS CONSEQUÊNCIAS DO CLÁSSICO | DIA DAS CRIANÇAS",
-      "videoId": "YUNI30yFLgs",
-      "url": "https://www.youtube.com/watch?v=YUNI30yFLgs",
-      "thumbnail": "https://i.ytimg.com/vi/YUNI30yFLgs/mqdefault.jpg",
-      "published": "2026-10-13T04:55:17Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CRUZEIRO - [ DIRETO DA ARENA ]",
+      "videoId": "GEj6AZ1Ddb0",
+      "url": "https://www.youtube.com/watch?v=GEj6AZ1Ddb0",
+      "thumbnail": "https://i.ytimg.com/vi/GEj6AZ1Ddb0/mqdefault_live.jpg",
+      "published": "2026-10-13T17:16:53Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=bjLFWnrifZ8",
       "thumbnail": "https://i.ytimg.com/vi/bjLFWnrifZ8/mqdefault_live.jpg",
       "published": "2026-10-13T16:29:20Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "OS R$ 3 MILHÕES NUNCA FORAM O PROBLEMA #CORTESDOFAG",
-      "videoId": "cGzuH35rqQ8",
-      "url": "https://www.youtube.com/watch?v=cGzuH35rqQ8",
-      "thumbnail": "https://i.ytimg.com/vi/cGzuH35rqQ8/mqdefault.jpg",
-      "published": "2026-10-13T15:53:41Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "DCOoi0rKcGM",
       "url": "https://www.youtube.com/watch?v=DCOoi0rKcGM",
       "thumbnail": "https://i.ytimg.com/vi/DCOoi0rKcGM/mqdefault_live.jpg",
-      "published": "2026-10-13T16:00:17Z"
+      "published": "2026-10-13T17:12:12Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "\"A maternidade me derrubou\": Kelly Matos fala sobre PUERPÉRIO, culpa e inseguranças | Paralelas",
-      "videoId": "IiQI7huV8Kc",
-      "url": "https://www.youtube.com/watch?v=IiQI7huV8Kc",
-      "thumbnail": "https://i.ytimg.com/vi/IiQI7huV8Kc/mqdefault.jpg",
-      "published": "2026-10-13T17:00:16Z"
+      "title": "De Leite a Zucco: o que fica e o que muda no governo do RS? | Conversas Cruzadas | 13/10/2026",
+      "videoId": "ehJezi7x3jI",
+      "url": "https://www.youtube.com/watch?v=ehJezi7x3jI",
+      "thumbnail": "https://i.ytimg.com/vi/ehJezi7x3jI/mqdefault_live.jpg",
+      "published": "2026-10-13T17:57:00Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Quem cuida de quem cuida? Uma conversa sobre saúde mental e autocuidado | Tá Tudo Bem?",
-      "videoId": "vsIyd32ktrY",
-      "url": "https://www.youtube.com/watch?v=vsIyd32ktrY",
-      "thumbnail": "https://i.ytimg.com/vi/vsIyd32ktrY/mqdefault.jpg",
-      "published": "2026-10-13T15:00:09Z"
+      "title": "AO VIVO: Senado discute fim da escala 6x1 | Zero Hora | 13/10/2026",
+      "videoId": "2NwQ1UkfYsI",
+      "url": "https://www.youtube.com/watch?v=2NwQ1UkfYsI",
+      "thumbnail": "https://i.ytimg.com/vi/2NwQ1UkfYsI/mqdefault_live.jpg",
+      "published": "2026-10-13T17:02:58Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO DIRETO DO CT DO GRÊMIO | RENATO COMANDA TREINO DE REAPRESENTAÇÃO | ESPLANADA",
+      "videoId": "s_in5azZZi8",
+      "url": "https://www.youtube.com/watch?v=s_in5azZZi8",
+      "thumbnail": "https://i.ytimg.com/vi/s_in5azZZi8/mqdefault_live.jpg",
+      "published": "2026-10-13T18:00:02Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "🇪🇪🔢 O CRISTIANO OLIVEIRA PEGOU A CALCULADORA E FEZ A PROJEÇÃO PARA O GRÊMIO FUGIR DA SÉRIE B.",
       "videoId": "5d4gQzVKoHA",
       "url": "https://www.youtube.com/watch?v=5d4gQzVKoHA",
       "thumbnail": "https://i.ytimg.com/vi/5d4gQzVKoHA/mqdefault.jpg",
       "published": "2026-10-13T16:05:01Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #175 — GRÊMIO RETOMA TREINOS NESTA TARDE | CLIMÃO NO CT?",
-      "videoId": "TksnxE2Bxi4",
-      "url": "https://www.youtube.com/watch?v=TksnxE2Bxi4",
-      "thumbnail": "https://i.ytimg.com/vi/TksnxE2Bxi4/mqdefault.jpg",
-      "published": "2026-10-13T15:23:28Z"
     }
   ]
 }
