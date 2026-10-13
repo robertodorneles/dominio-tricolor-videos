@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:00:36.746219+00:00",
+  "updated_at": "2026-10-13T11:00:37.206565+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 13/10/2026",
+      "title": "Carros elétricos, dossiê do RS, últimas da política, economia e mais| Gaúcha Atualidade | 13/10/2026",
       "videoId": "iXtFOEP-2MQ",
       "url": "https://www.youtube.com/watch?v=iXtFOEP-2MQ",
       "thumbnail": "https://i.ytimg.com/vi/iXtFOEP-2MQ/mqdefault_live.jpg",
-      "published": "2026-10-13T07:40:41Z"
+      "published": "2026-10-13T10:54:55Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | SABATINA COM ROBERTO MELO, CANDIDATO À PRESIDÊNCIA DO INTER | 13/10/2026 | RÁDIO GRENAL",
+      "videoId": "kqDbo3vrra0",
+      "url": "https://www.youtube.com/watch?v=kqDbo3vrra0",
+      "thumbnail": "https://i.ytimg.com/vi/kqDbo3vrra0/mqdefault_live.jpg",
+      "published": "2026-10-13T10:41:58Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "12/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "Nu1r_Xl6uBM",
       "url": "https://www.youtube.com/watch?v=Nu1r_Xl6uBM",
@@ -219,12 +227,12 @@
       "published": "2026-10-12T23:35:43Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "JOGO COMPLETO | GRÊMIO 1 X 1 INTER | CAMPEONATO BRASILEIRO | RÁDIO GRENAL | 11/10/2026",
-      "videoId": "2p75J62yR0g",
-      "url": "https://www.youtube.com/watch?v=2p75J62yR0g",
-      "thumbnail": "https://i.ytimg.com/vi/2p75J62yR0g/mqdefault.jpg",
-      "published": "2026-10-12T02:25:23Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #42 — GRÊMIO SE REAPRESENTA NESTA TERÇA-FEIRA COM FOCO NO CRUZEIRO",
+      "videoId": "jpKpr2apvlI",
+      "url": "https://www.youtube.com/watch?v=jpKpr2apvlI",
+      "thumbnail": "https://i.ytimg.com/vi/jpKpr2apvlI/mqdefault_live.jpg",
+      "published": "2026-10-13T10:02:00Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=TksnxE2Bxi4",
       "thumbnail": "https://i.ytimg.com/vi/TksnxE2Bxi4/mqdefault_live.jpg",
       "published": "2026-10-13T01:45:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #62",
-      "videoId": "xuGGJbOp52o",
-      "url": "https://www.youtube.com/watch?v=xuGGJbOp52o",
-      "thumbnail": "https://i.ytimg.com/vi/xuGGJbOp52o/mqdefault_live.jpg",
-      "published": "2026-10-13T01:37:32Z"
     }
   ]
 }
