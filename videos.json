@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T16:00:42.377997+00:00",
+  "updated_at": "2026-10-14T17:00:41.125186+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "X9 NO GRÊMIO? PEZZOLANO QUEBRA O SILÊNCIO NO INTER🔸RESENHA FORA DA SALA🔸#152",
+      "videoId": "dlkPtp9Fc2Q",
+      "url": "https://www.youtube.com/watch?v=dlkPtp9Fc2Q",
+      "thumbnail": "https://i.ytimg.com/vi/dlkPtp9Fc2Q/mqdefault_live.jpg",
+      "published": "2026-10-14T16:29:43Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "PRÉ-CONTRATO ASSINADO? TITULAR DO GRÊMIO PODE SAIR DE GRAÇA. #CORTESDOFAG",
       "videoId": "GiB6iD9JZxM",
       "url": "https://www.youtube.com/watch?v=GiB6iD9JZxM",
       "thumbnail": "https://i.ytimg.com/vi/GiB6iD9JZxM/mqdefault.jpg",
       "published": "2026-10-14T15:51:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO DEVE R$ 10,3 MILHÕES AO VITÓRIA! ENTENDA O CASO #CORTESDOFAG",
-      "videoId": "T-vpHhUxSII",
-      "url": "https://www.youtube.com/watch?v=T-vpHhUxSII",
-      "thumbnail": "https://i.ytimg.com/vi/T-vpHhUxSII/mqdefault.jpg",
-      "published": "2026-10-14T15:25:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "qAwESWh1M6o",
       "url": "https://www.youtube.com/watch?v=qAwESWh1M6o",
       "thumbnail": "https://i.ytimg.com/vi/qAwESWh1M6o/mqdefault_live.jpg",
-      "published": "2026-10-14T15:51:09Z"
+      "published": "2026-10-14T16:03:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AO VIVO: Senado vota fim da escala 6x1; acompanhe a sessão | Zero Hora | 14/10/2026",
+      "videoId": "UjfiODfBdNc",
+      "url": "https://www.youtube.com/watch?v=UjfiODfBdNc",
+      "thumbnail": "https://i.ytimg.com/vi/UjfiODfBdNc/mqdefault_live.jpg",
+      "published": "2026-10-14T16:58:48Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Fim da escala 6x1, visita de Flávio a Porto Alegre, trânsito e mais | Gaúcha+ | 14/10/26",
       "videoId": "Lw1gffdxuBs",
       "url": "https://www.youtube.com/watch?v=Lw1gffdxuBs",
       "thumbnail": "https://i.ytimg.com/vi/Lw1gffdxuBs/mqdefault_live.jpg",
       "published": "2026-10-14T14:30:07Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Cenário político do Brasil, \"Kassio\" no celular de Vorcaro e mais | Timeline 14/10/2026",
-      "videoId": "yGXBjkqiQxU",
-      "url": "https://www.youtube.com/watch?v=yGXBjkqiQxU",
-      "thumbnail": "https://i.ytimg.com/vi/yGXBjkqiQxU/mqdefault.jpg",
-      "published": "2026-10-14T13:59:23Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | 14/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 14/10/2026",
       "videoId": "oAa97HgI17k",
       "url": "https://www.youtube.com/watch?v=oAa97HgI17k",
       "thumbnail": "https://i.ytimg.com/vi/oAa97HgI17k/mqdefault_live.jpg",
       "published": "2026-10-14T10:59:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #176 — RENATO É ADVERTIDO | GRÊMIO TREINA EM DOIS TURNOS HOJE",
+      "videoId": "Vbg7Dqtu8DE",
+      "url": "https://www.youtube.com/watch?v=Vbg7Dqtu8DE",
+      "thumbnail": "https://i.ytimg.com/vi/Vbg7Dqtu8DE/mqdefault.jpg",
+      "published": "2026-10-14T16:31:08Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=7yDRB-kDfr0",
       "thumbnail": "https://i.ytimg.com/vi/7yDRB-kDfr0/mqdefault.jpg",
       "published": "2026-10-14T15:47:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "NA VISÃO DO KUNRATH, O TREINADOR RENATO PORTALUPPI VAI TER QUE FAZER UMA REFLEXÃO",
-      "videoId": "8wftUsVmKME",
-      "url": "https://www.youtube.com/watch?v=8wftUsVmKME",
-      "thumbnail": "https://i.ytimg.com/vi/8wftUsVmKME/mqdefault.jpg",
-      "published": "2026-10-14T15:44:44Z"
     }
   ]
 }
