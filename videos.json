@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:00:41.125186+00:00",
+  "updated_at": "2026-10-14T18:00:40.745267+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #088",
+      "videoId": "YQERJ7gh0ss",
+      "url": "https://www.youtube.com/watch?v=YQERJ7gh0ss",
+      "thumbnail": "https://i.ytimg.com/vi/YQERJ7gh0ss/mqdefault.jpg",
+      "published": "2026-10-14T17:09:43Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "X9 NO GRÊMIO? PEZZOLANO QUEBRA O SILÊNCIO NO INTER🔸RESENHA FORA DA SALA🔸#152",
       "videoId": "dlkPtp9Fc2Q",
       "url": "https://www.youtube.com/watch?v=dlkPtp9Fc2Q",
@@ -27,12 +35,12 @@
       "published": "2026-10-14T16:29:43Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "PRÉ-CONTRATO ASSINADO? TITULAR DO GRÊMIO PODE SAIR DE GRAÇA. #CORTESDOFAG",
-      "videoId": "GiB6iD9JZxM",
-      "url": "https://www.youtube.com/watch?v=GiB6iD9JZxM",
-      "thumbnail": "https://i.ytimg.com/vi/GiB6iD9JZxM/mqdefault.jpg",
-      "published": "2026-10-14T15:51:33Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨ELES ESTÃO FORA! RENATO “EXPULSA” JOGADOR NO GRÊMIO! TURBULÊNCIA NOS BASTIDORES EM PRÉ DECISÃO",
+      "videoId": "4kazcVdWfWE",
+      "url": "https://www.youtube.com/watch?v=4kazcVdWfWE",
+      "thumbnail": "https://i.ytimg.com/vi/4kazcVdWfWE/mqdefault.jpg",
+      "published": "2026-10-14T17:32:53Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=ApidWOq3PO0",
       "thumbnail": "https://i.ytimg.com/vi/ApidWOq3PO0/mqdefault.jpg",
       "published": "2026-10-13T23:36:50Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨”GUERRA” NO VESTIÁRIO! CONFLITO INTERNO NO GRÊMIO! ESTRANGEIROS, BRASILEIROS, JOVENS, RENATO..",
-      "videoId": "qzamW0a061c",
-      "url": "https://www.youtube.com/watch?v=qzamW0a061c",
-      "thumbnail": "https://i.ytimg.com/vi/qzamW0a061c/mqdefault.jpg",
-      "published": "2026-10-13T14:51:51Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "qAwESWh1M6o",
       "url": "https://www.youtube.com/watch?v=qAwESWh1M6o",
       "thumbnail": "https://i.ytimg.com/vi/qAwESWh1M6o/mqdefault_live.jpg",
-      "published": "2026-10-14T16:03:06Z"
+      "published": "2026-10-14T17:09:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Fim da escala 6x1, visita de Flávio a Porto Alegre, trânsito e mais | Gaúcha+ | 14/10/26",
+      "videoId": "Lw1gffdxuBs",
+      "url": "https://www.youtube.com/watch?v=Lw1gffdxuBs",
+      "thumbnail": "https://i.ytimg.com/vi/Lw1gffdxuBs/mqdefault_live.jpg",
+      "published": "2026-10-14T18:00:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "AO VIVO: Senado vota fim da escala 6x1; acompanhe a sessão | Zero Hora | 14/10/2026",
       "videoId": "UjfiODfBdNc",
       "url": "https://www.youtube.com/watch?v=UjfiODfBdNc",
       "thumbnail": "https://i.ytimg.com/vi/UjfiODfBdNc/mqdefault_live.jpg",
       "published": "2026-10-14T16:58:48Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fim da escala 6x1, visita de Flávio a Porto Alegre, trânsito e mais | Gaúcha+ | 14/10/26",
-      "videoId": "Lw1gffdxuBs",
-      "url": "https://www.youtube.com/watch?v=Lw1gffdxuBs",
-      "thumbnail": "https://i.ytimg.com/vi/Lw1gffdxuBs/mqdefault_live.jpg",
-      "published": "2026-10-14T14:30:07Z"
     },
     {
       "channel": "Jeremias Wernek",
