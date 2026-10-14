@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T23:00:39.324942+00:00",
+  "updated_at": "2026-10-14T00:00:35.989412+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "RENATO É ADVERTIDO PELO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#042",
+      "videoId": "5XGfsM2qu7E",
+      "url": "https://www.youtube.com/watch?v=5XGfsM2qu7E",
+      "thumbnail": "https://i.ytimg.com/vi/5XGfsM2qu7E/mqdefault_live.jpg",
+      "published": "2026-10-13T23:21:21Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "RENATO GANHA CENTROVANTE E PROMESSAS DE CAMPANHA NO LADO COLORADO📰BAGÉTV NEWS #054",
       "videoId": "bfyrd-hqSr0",
       "url": "https://www.youtube.com/watch?v=bfyrd-hqSr0",
@@ -27,12 +35,12 @@
       "published": "2026-10-13T22:11:57Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "CONFUSÃO NA DIVISÃO DE ACESSO DO GAUCHÃO! #CORTESDORESENHA",
-      "videoId": "YKMydrrDkh4",
-      "url": "https://www.youtube.com/watch?v=YKMydrrDkh4",
-      "thumbnail": "https://i.ytimg.com/vi/YKMydrrDkh4/mqdefault.jpg",
-      "published": "2026-10-13T21:59:13Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨REUNIÃO ESQUENTA E RENATO TOMA UMA MEDIDA DRÁSTICA NO GRÊMIO | AS CONTAS PRA SE SALVAR",
+      "videoId": "ApidWOq3PO0",
+      "url": "https://www.youtube.com/watch?v=ApidWOq3PO0",
+      "thumbnail": "https://i.ytimg.com/vi/ApidWOq3PO0/mqdefault.jpg",
+      "published": "2026-10-13T23:36:50Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=qzamW0a061c",
       "thumbnail": "https://i.ytimg.com/vi/qzamW0a061c/mqdefault.jpg",
       "published": "2026-10-13T14:51:51Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨TRETA! ELE RESPONDEU RENATO | TEMOS QUE ACREDITAR! É A HORA DA ÚLTIMA DECISÃO PRO GRÊMIO!",
-      "videoId": "b8CMpV__H3M",
-      "url": "https://www.youtube.com/watch?v=b8CMpV__H3M",
-      "thumbnail": "https://i.ytimg.com/vi/b8CMpV__H3M/mqdefault.jpg",
-      "published": "2026-10-13T00:29:04Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "ZhD2Af-NrgQ",
       "url": "https://www.youtube.com/watch?v=ZhD2Af-NrgQ",
       "thumbnail": "https://i.ytimg.com/vi/ZhD2Af-NrgQ/mqdefault_live.jpg",
-      "published": "2026-10-13T22:01:31Z"
+      "published": "2026-10-13T23:08:42Z"
     },
     {
       "channel": "Canal do Farid",
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨BAITA NOVIDADE NO GRÊMIO | INFORMAÇÃO IMPORTANTE SOBRE RENATO | ODORICO SE MANIFESTA",
+      "videoId": "8Bpy1uwo4KQ",
+      "url": "https://www.youtube.com/watch?v=8Bpy1uwo4KQ",
+      "thumbnail": "https://i.ytimg.com/vi/8Bpy1uwo4KQ/mqdefault.jpg",
+      "published": "2026-10-13T23:53:03Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "RENATO TOMA A PRIMEIRA DECISÃO PARA SALVAR O GRÊMIO",
       "videoId": "p52aWNOHQPA",
       "url": "https://www.youtube.com/watch?v=p52aWNOHQPA",
@@ -203,20 +211,12 @@
       "published": "2026-10-13T14:39:21Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨POLÍTICA: ESTÃO USANDO O GRÊMIO | CASO DE POLÍCIA | RENATO TOMA DECISÃO",
-      "videoId": "oi0EibkVeg0",
-      "url": "https://www.youtube.com/watch?v=oi0EibkVeg0",
-      "thumbnail": "https://i.ytimg.com/vi/oi0EibkVeg0/mqdefault.jpg",
-      "published": "2026-10-12T21:46:50Z"
-    },
-    {
       "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 13/10/2026",
       "videoId": "kqDbo3vrra0",
       "url": "https://www.youtube.com/watch?v=kqDbo3vrra0",
-      "thumbnail": "https://i.ytimg.com/vi/kqDbo3vrra0/mqdefault_live.jpg",
-      "published": "2026-10-13T23:00:08Z"
+      "thumbnail": "https://i.ytimg.com/vi/kqDbo3vrra0/mqdefault.jpg",
+      "published": "2026-10-13T23:31:01Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AS CONTAS PARA ESCAPAR DA SÉRIE B | GRÊMIO DE VOLTA AOS TREINOS | NOITES DE GRÊMIO #!65 - 13/10",
+      "videoId": "j3KBFV7zXCc",
+      "url": "https://www.youtube.com/watch?v=j3KBFV7zXCc",
+      "thumbnail": "https://i.ytimg.com/vi/j3KBFV7zXCc/mqdefault_live.jpg",
+      "published": "2026-10-14T00:00:15Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "A VOLTA DO GRÊMIO AOS TREINOS APÓS RECADOS DE RENATO | AS CONTAS DO GRÊMIO PARA ESCAPAR | IMORTAL FC",
       "videoId": "xztuTFCgpJE",
       "url": "https://www.youtube.com/watch?v=xztuTFCgpJE",
       "thumbnail": "https://i.ytimg.com/vi/xztuTFCgpJE/mqdefault.jpg",
       "published": "2026-10-13T22:20:13Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS CONTAS PARA ESCAPAR DA SÉRIE B | GRÊMIO DE VOLTA AOS TREINOS | NOITES DE GRÊMIO #!65 - 13/10",
-      "videoId": "j3KBFV7zXCc",
-      "url": "https://www.youtube.com/watch?v=j3KBFV7zXCc",
-      "thumbnail": "https://i.ytimg.com/vi/j3KBFV7zXCc/mqdefault_live.jpg",
-      "published": "2026-10-13T20:42:05Z"
     }
   ]
 }
