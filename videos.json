@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:00:40.745267+00:00",
+  "updated_at": "2026-10-14T19:00:51.058298+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #088",
-      "videoId": "YQERJ7gh0ss",
-      "url": "https://www.youtube.com/watch?v=YQERJ7gh0ss",
-      "thumbnail": "https://i.ytimg.com/vi/YQERJ7gh0ss/mqdefault.jpg",
-      "published": "2026-10-14T17:09:43Z"
+      "title": "Achamos o X9 dentro do vestiario.",
+      "videoId": "tJFUAGX5Hls",
+      "url": "https://www.youtube.com/watch?v=tJFUAGX5Hls",
+      "thumbnail": "https://i.ytimg.com/vi/tJFUAGX5Hls/mqdefault.jpg",
+      "published": "2026-10-14T19:00:03Z"
     },
     {
       "channel": "Bage TV",
-      "title": "X9 NO GRÊMIO? PEZZOLANO QUEBRA O SILÊNCIO NO INTER🔸RESENHA FORA DA SALA🔸#152",
-      "videoId": "dlkPtp9Fc2Q",
-      "url": "https://www.youtube.com/watch?v=dlkPtp9Fc2Q",
-      "thumbnail": "https://i.ytimg.com/vi/dlkPtp9Fc2Q/mqdefault_live.jpg",
-      "published": "2026-10-14T16:29:43Z"
+      "title": "CBF ADMITE ERRO CONTRA O GRÊMIO NO GRE-NAL🔹 THE TARDE 🔹#240",
+      "videoId": "90iI_D6_jKI",
+      "url": "https://www.youtube.com/watch?v=90iI_D6_jKI",
+      "thumbnail": "https://i.ytimg.com/vi/90iI_D6_jKI/mqdefault_live.jpg",
+      "published": "2026-10-14T18:31:23Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | 14/10/2026",
+      "title": "AO VIVO | GRENAL FC | 14/10/2026",
       "videoId": "oAa97HgI17k",
       "url": "https://www.youtube.com/watch?v=oAa97HgI17k",
       "thumbnail": "https://i.ytimg.com/vi/oAa97HgI17k/mqdefault_live.jpg",
       "published": "2026-10-14T10:59:31Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CBF RECONHECE ERRO CONTRA O GRÊMIO NO GRENAL | RENATO COMANDA O SEGUNDO TREINO DO DIA | ESPLANADA",
+      "videoId": "elCNlH1aRr8",
+      "url": "https://www.youtube.com/watch?v=elCNlH1aRr8",
+      "thumbnail": "https://i.ytimg.com/vi/elCNlH1aRr8/mqdefault_live.jpg",
+      "published": "2026-10-14T18:33:31Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=Vbg7Dqtu8DE",
       "thumbnail": "https://i.ytimg.com/vi/Vbg7Dqtu8DE/mqdefault.jpg",
       "published": "2026-10-14T16:31:08Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "BASTIDORES DA REAPRESENTAÇÃO DO GRÊMIO | COMO É BOM SER DO GRÊMIO #63",
-      "videoId": "7yDRB-kDfr0",
-      "url": "https://www.youtube.com/watch?v=7yDRB-kDfr0",
-      "thumbnail": "https://i.ytimg.com/vi/7yDRB-kDfr0/mqdefault.jpg",
-      "published": "2026-10-14T15:47:14Z"
     }
   ]
 }
