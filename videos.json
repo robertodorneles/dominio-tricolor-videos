@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:00:36.020294+00:00",
+  "updated_at": "2026-10-14T02:00:35.614800+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "RENATO É ADVERTIDO PELO GRÊMIO🟣RESENHA FORA DA SALA NOITE🟣#042",
-      "videoId": "5XGfsM2qu7E",
-      "url": "https://www.youtube.com/watch?v=5XGfsM2qu7E",
-      "thumbnail": "https://i.ytimg.com/vi/5XGfsM2qu7E/mqdefault.jpg",
-      "published": "2026-10-14T00:44:21Z"
+      "title": "🔵 BOA NOITE GRÊMIO #043",
+      "videoId": "H9AQeB4ZVYU",
+      "url": "https://www.youtube.com/watch?v=H9AQeB4ZVYU",
+      "thumbnail": "https://i.ytimg.com/vi/H9AQeB4ZVYU/mqdefault_live.jpg",
+      "published": "2026-10-14T01:46:53Z"
     },
     {
       "channel": "Bage TV",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "F5 NO GRÊMIO: Renato advertido + cirurgia e ambiente",
+      "videoId": "JmBQAMtWeA8",
+      "url": "https://www.youtube.com/watch?v=JmBQAMtWeA8",
+      "thumbnail": "https://i.ytimg.com/vi/JmBQAMtWeA8/mqdefault.jpg",
+      "published": "2026-10-14T01:15:42Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "O GRÊMIO ESCAPA? Sequência de todos os times que lutam para fugir da Série B",
       "videoId": "HueuxdYpCm4",
       "url": "https://www.youtube.com/watch?v=HueuxdYpCm4",
       "thumbnail": "https://i.ytimg.com/vi/HueuxdYpCm4/mqdefault.jpg",
       "published": "2026-10-13T15:32:53Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: NOVOS BASTIDORES DA TRETA COM RENATO E SUBSTITUTO DE ALAN PATRICK",
-      "videoId": "Z4531d9u7XA",
-      "url": "https://www.youtube.com/watch?v=Z4531d9u7XA",
-      "thumbnail": "https://i.ytimg.com/vi/Z4531d9u7XA/mqdefault.jpg",
-      "published": "2026-10-13T13:23:12Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #43 — AS REUNIÕES E NOTÍCIAS DA REAPRESENTAÇÃO DO GRÊMIO",
-      "videoId": "WZzxNmEozcI",
-      "url": "https://www.youtube.com/watch?v=WZzxNmEozcI",
-      "thumbnail": "https://i.ytimg.com/vi/WZzxNmEozcI/mqdefault_live.jpg",
-      "published": "2026-10-14T00:59:04Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "AS CONTAS PARA ESCAPAR DA SÉRIE B | GRÊMIO DE VOLTA AOS TREINOS | NOITES DE GRÊMIO #!65 - 13/10",
       "videoId": "j3KBFV7zXCc",
       "url": "https://www.youtube.com/watch?v=j3KBFV7zXCc",
       "thumbnail": "https://i.ytimg.com/vi/j3KBFV7zXCc/mqdefault_live.jpg",
-      "published": "2026-10-14T00:00:15Z"
+      "published": "2026-10-14T01:31:10Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "TIMELINE IMORTAL #176 — RENATO É ADVERTIDO | GRÊMIO TREINA EM DOIS TURNOS HOJE",
+      "videoId": "Vbg7Dqtu8DE",
+      "url": "https://www.youtube.com/watch?v=Vbg7Dqtu8DE",
+      "thumbnail": "https://i.ytimg.com/vi/Vbg7Dqtu8DE/mqdefault_live.jpg",
+      "published": "2026-10-14T01:11:35Z"
     }
   ]
 }
