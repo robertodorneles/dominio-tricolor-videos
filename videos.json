@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T10:00:38.478783+00:00",
+  "updated_at": "2026-10-14T11:00:39.993590+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Senado vota fim da escala 6x1, últimas da política, economia e mais | Gaúcha Atualidade | 14/10/2026",
+      "videoId": "OVM3_2TrUS8",
+      "url": "https://www.youtube.com/watch?v=OVM3_2TrUS8",
+      "thumbnail": "https://i.ytimg.com/vi/OVM3_2TrUS8/mqdefault_live.jpg",
+      "published": "2026-10-14T10:59:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "De Leite a Zucco: o que fica e o que muda no governo do RS? | Conversas Cruzadas | 13/10/2026",
       "videoId": "ehJezi7x3jI",
       "url": "https://www.youtube.com/watch?v=ehJezi7x3jI",
       "thumbnail": "https://i.ytimg.com/vi/ehJezi7x3jI/mqdefault.jpg",
       "published": "2026-10-14T09:31:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Confronto em terra indígena, Vila Flores representará Brasil na ONU e mais | Gaúcha+ | 13/10/26",
-      "videoId": "eftPvsiOpF4",
-      "url": "https://www.youtube.com/watch?v=eftPvsiOpF4",
-      "thumbnail": "https://i.ytimg.com/vi/eftPvsiOpF4/mqdefault.jpg",
-      "published": "2026-10-14T07:37:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 14/10/2026",
+      "videoId": "oAa97HgI17k",
+      "url": "https://www.youtube.com/watch?v=oAa97HgI17k",
+      "thumbnail": "https://i.ytimg.com/vi/oAa97HgI17k/mqdefault_live.jpg",
+      "published": "2026-10-14T10:59:31Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "LIVE COMPLETA | RÁDIO GRENAL | 13/10/2026",
       "videoId": "kqDbo3vrra0",
       "url": "https://www.youtube.com/watch?v=kqDbo3vrra0",
@@ -219,12 +227,12 @@
       "published": "2026-10-13T23:31:01Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "\"CONSTRUIR IDENTIDADE PRÓPRIA\" | SABATINA DE ROBERTO MELO, CANDIDATO À PRESIDÊNCIA DO INTER",
-      "videoId": "plQD-5HWAuk",
-      "url": "https://www.youtube.com/watch?v=plQD-5HWAuk",
-      "thumbnail": "https://i.ytimg.com/vi/plQD-5HWAuk/mqdefault.jpg",
-      "published": "2026-10-13T14:40:02Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #43 — AS REUNIÕES E NOTÍCIAS DA REAPRESENTAÇÃO DO GRÊMIO",
+      "videoId": "WZzxNmEozcI",
+      "url": "https://www.youtube.com/watch?v=WZzxNmEozcI",
+      "thumbnail": "https://i.ytimg.com/vi/WZzxNmEozcI/mqdefault_live.jpg",
+      "published": "2026-10-14T10:03:18Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=j3KBFV7zXCc",
       "thumbnail": "https://i.ytimg.com/vi/j3KBFV7zXCc/mqdefault_live.jpg",
       "published": "2026-10-14T01:31:10Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #176 — RENATO É ADVERTIDO | GRÊMIO TREINA EM DOIS TURNOS HOJE",
-      "videoId": "Vbg7Dqtu8DE",
-      "url": "https://www.youtube.com/watch?v=Vbg7Dqtu8DE",
-      "thumbnail": "https://i.ytimg.com/vi/Vbg7Dqtu8DE/mqdefault_live.jpg",
-      "published": "2026-10-14T01:11:35Z"
     }
   ]
 }
