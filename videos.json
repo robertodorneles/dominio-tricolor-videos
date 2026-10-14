@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-14T19:00:51.058298+00:00",
+  "updated_at": "2026-10-14T19:08:58.427087+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥JOVEM GANHANDO ESPAÇO! | BASTIDOR RASGA ELOGIOS! | VAI JOGAR?",
+      "videoId": "5O7P232ANaY",
+      "url": "https://www.youtube.com/watch?v=5O7P232ANaY",
+      "thumbnail": "https://i.ytimg.com/vi/5O7P232ANaY/mqdefault.jpg",
+      "published": "2026-10-14T19:02:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Diário do Grêmio: ODORICO CHAMA RENATO E FAZ COBRANÇAS! Bastidores do vestiário e mudanças",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ZLv-WA0z2u8",
       "thumbnail": "https://i.ytimg.com/vi/ZLv-WA0z2u8/mqdefault.jpg",
       "published": "2026-10-14T05:30:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla: O PÓS GRE-NAL E AS CONSEQUÊNCIAS DO CLÁSSICO | DIA DAS CRIANÇAS",
-      "videoId": "6cV4bqDDTN4",
-      "url": "https://www.youtube.com/watch?v=6cV4bqDDTN4",
-      "thumbnail": "https://i.ytimg.com/vi/6cV4bqDDTN4/mqdefault.jpg",
-      "published": "2026-10-14T04:33:01Z"
     },
     {
       "channel": "Bage TV",
