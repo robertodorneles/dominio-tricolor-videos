@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:00:33.210774+00:00",
+  "updated_at": "2026-10-15T21:07:50.923521+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,18 +164,18 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Onde Lula ERROU no 1º turno? “Deveria ter viajado mais pelo país” | Sala de Eleição",
+      "title": "Deleted video",
       "videoId": "1nXhm9AsaF0",
       "url": "https://www.youtube.com/watch?v=1nXhm9AsaF0",
-      "thumbnail": "https://i.ytimg.com/vi/1nXhm9AsaF0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1nXhm9AsaF0/mqdefault.jpg",
       "published": "2026-10-15T21:00:16Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Senado aprova fim da 6x1; maioridade penal entra no debate | Andei Pensando | 15/10/2026",
+      "title": "Deleted video",
       "videoId": "wQVzuBvFpgo",
       "url": "https://www.youtube.com/watch?v=wQVzuBvFpgo",
-      "thumbnail": "https://i.ytimg.com/vi/wQVzuBvFpgo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wQVzuBvFpgo/mqdefault.jpg",
       "published": "2026-10-15T20:46:08Z"
     },
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "REPERCUSSÕES DO JOGO-TREINO DO GRÊMIO | NOVA FORMAÇÃO? | VILLASANTI NO SACRIFÍCIO | IMORTAL FC",
+      "videoId": "GPE1I1IXrjk",
+      "url": "https://www.youtube.com/watch?v=GPE1I1IXrjk",
+      "thumbnail": "https://i.ytimg.com/vi/GPE1I1IXrjk/mqdefault_live.jpg",
+      "published": "2026-10-15T21:01:40Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "OS TESTES DE RENATO PORTALUPPI PARA O TIME DO GRÊMIO — NOITES DE GRÊMIO #166 - 15/10",
       "videoId": "z-m4uni8ACM",
       "url": "https://www.youtube.com/watch?v=z-m4uni8ACM",
       "thumbnail": "https://i.ytimg.com/vi/z-m4uni8ACM/mqdefault_live.jpg",
       "published": "2026-10-15T20:43:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO FAZ JOGO-TREINO NO CT LUIZ CARVALHO | OS OBJETIVOS DE RENATO NA ATIVIDADE | ESPLANADA",
-      "videoId": "48uS-TOMBVA",
-      "url": "https://www.youtube.com/watch?v=48uS-TOMBVA",
-      "thumbnail": "https://i.ytimg.com/vi/48uS-TOMBVA/mqdefault.jpg",
-      "published": "2026-10-15T20:19:21Z"
     }
   ]
 }
