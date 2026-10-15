@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T02:00:38.289712+00:00",
+  "updated_at": "2026-10-15T03:48:50.420073+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "_UPUhElg27c",
       "url": "https://www.youtube.com/watch?v=_UPUhElg27c",
       "thumbnail": "https://i.ytimg.com/vi/_UPUhElg27c/mqdefault_live.jpg",
-      "published": "2026-10-14T23:26:29Z"
+      "published": "2026-10-15T02:36:43Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO TEM NOVO JOGO-TREINO AGENDADO🔵 BOA NOITE GRÊMIO #043",
+      "videoId": "H9AQeB4ZVYU",
+      "url": "https://www.youtube.com/watch?v=H9AQeB4ZVYU",
+      "thumbnail": "https://i.ytimg.com/vi/H9AQeB4ZVYU/mqdefault.jpg",
+      "published": "2026-10-15T02:32:58Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 BOA NOITE GRÊMIO #044",
       "videoId": "pXkkhA8hXqE",
       "url": "https://www.youtube.com/watch?v=pXkkhA8hXqE",
       "thumbnail": "https://i.ytimg.com/vi/pXkkhA8hXqE/mqdefault_live.jpg",
       "published": "2026-10-15T01:40:04Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO TEM NOVO JOGO-TREINO AGENDADO🔵 BOA NOITE GRÊMIO #043",
-      "videoId": "H9AQeB4ZVYU",
-      "url": "https://www.youtube.com/watch?v=H9AQeB4ZVYU",
-      "thumbnail": "https://i.ytimg.com/vi/H9AQeB4ZVYU/mqdefault_live.jpg",
-      "published": "2026-10-15T00:36:34Z"
     },
     {
       "channel": "Bruno Soares Reporter",
