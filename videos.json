@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:00:38.149983+00:00",
+  "updated_at": "2026-10-15T11:00:32.692507+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Fim da escala 6x1, benefícios para MEIs, trânsito e mais | Gaúcha Atualidade | 15/10/2026",
+      "videoId": "odx7xN5iUTg",
+      "url": "https://www.youtube.com/watch?v=odx7xN5iUTg",
+      "thumbnail": "https://i.ytimg.com/vi/odx7xN5iUTg/mqdefault_live.jpg",
+      "published": "2026-10-15T10:59:55Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Votação do fim da escala 6x1: o que está em jogo? | Conversas Cruzadas | 14/10/2026",
       "videoId": "gOCG9_xkLMM",
       "url": "https://www.youtube.com/watch?v=gOCG9_xkLMM",
       "thumbnail": "https://i.ytimg.com/vi/gOCG9_xkLMM/mqdefault.jpg",
       "published": "2026-10-15T09:38:44Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fim da escala 6x1, visita de Flávio a Porto Alegre, trânsito e mais | Gaúcha+ | 14/10/26",
-      "videoId": "Lw1gffdxuBs",
-      "url": "https://www.youtube.com/watch?v=Lw1gffdxuBs",
-      "thumbnail": "https://i.ytimg.com/vi/Lw1gffdxuBs/mqdefault.jpg",
-      "published": "2026-10-15T07:37:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #44 — RENATO BUSCA REMOBILIZAÇÃO NO ELENCO DO GRÊMIO",
+      "videoId": "QiyjPBiXy8g",
+      "url": "https://www.youtube.com/watch?v=QiyjPBiXy8g",
+      "thumbnail": "https://i.ytimg.com/vi/QiyjPBiXy8g/mqdefault_live.jpg",
+      "published": "2026-10-15T10:00:52Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO PROTESTA APÓS NOVO ERRO DA ARBITRAGEM | CHURRASCO NO CT | NOITES DE GRÊMIO #165 - 14/10",
       "videoId": "hh6OLQuiB8w",
       "url": "https://www.youtube.com/watch?v=hh6OLQuiB8w",
       "thumbnail": "https://i.ytimg.com/vi/hh6OLQuiB8w/mqdefault_live.jpg",
       "published": "2026-10-15T01:28:34Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "TIMELINE IMORTAL #177 — MAIS UM JOGO-TREINO DO GRÊMIO NESTA QUINTA | OS TESTES DE RENATO",
-      "videoId": "T4USN_51YrM",
-      "url": "https://www.youtube.com/watch?v=T4USN_51YrM",
-      "thumbnail": "https://i.ytimg.com/vi/T4USN_51YrM/mqdefault_live.jpg",
-      "published": "2026-10-14T22:53:16Z"
     }
   ]
 }
