@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:00:38.209954+00:00",
+  "updated_at": "2026-10-15T13:00:47.294567+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/10 - #656",
+      "title": "O CHURRASCO DO RENATO VAI RESOLVER?🔵 FUTEBOL ALEGRIA DO GRÊMIO - 15/10 - #656",
       "videoId": "cwIukDsdLok",
       "url": "https://www.youtube.com/watch?v=cwIukDsdLok",
       "thumbnail": "https://i.ytimg.com/vi/cwIukDsdLok/mqdefault_live.jpg",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Churrasco, ambiente e testes no Grêmio",
+      "videoId": "--jnJKNrhKQ",
+      "url": "https://www.youtube.com/watch?v=--jnJKNrhKQ",
+      "thumbnail": "https://i.ytimg.com/vi/--jnJKNrhKQ/mqdefault.jpg",
+      "published": "2026-10-15T12:27:55Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #703: Arbitragem e nota do Grêmio | Denúncia | Amuzu | Jogo-treino e mais",
       "videoId": "HPzMdeM0neo",
       "url": "https://www.youtube.com/watch?v=HPzMdeM0neo",
@@ -59,20 +67,12 @@
       "published": "2026-10-14T21:36:27Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Um empurra-empurra histórico no Grêmio",
-      "videoId": "W7Cjc3GTBlo",
-      "url": "https://www.youtube.com/watch?v=W7Cjc3GTBlo",
-      "thumbnail": "https://i.ytimg.com/vi/W7Cjc3GTBlo/mqdefault.jpg",
-      "published": "2026-10-14T12:20:23Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #039",
       "videoId": "qvJphYbn6H8",
       "url": "https://www.youtube.com/watch?v=qvJphYbn6H8",
       "thumbnail": "https://i.ytimg.com/vi/qvJphYbn6H8/mqdefault_live.jpg",
-      "published": "2026-10-15T11:36:23Z"
+      "published": "2026-10-15T12:43:05Z"
     },
     {
       "channel": "Canal do Farid",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 15.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "mzb5eJmNgAg",
+      "url": "https://www.youtube.com/watch?v=mzb5eJmNgAg",
+      "thumbnail": "https://i.ytimg.com/vi/mzb5eJmNgAg/mqdefault_live.jpg",
+      "published": "2026-10-15T12:01:00Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 14.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "vRvdlRuv7uQ",
       "url": "https://www.youtube.com/watch?v=vRvdlRuv7uQ",
       "thumbnail": "https://i.ytimg.com/vi/vRvdlRuv7uQ/mqdefault.jpg",
       "published": "2026-10-14T13:09:48Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "POR QUE PVC SE INCOMODA TANTO COM OS JORNALISTAS IDENTIFICADOS? | Cortes do Duda",
-      "videoId": "YwDVJxPA09k",
-      "url": "https://www.youtube.com/watch?v=YwDVJxPA09k",
-      "thumbnail": "https://i.ytimg.com/vi/YwDVJxPA09k/mqdefault.jpg",
-      "published": "2026-10-13T22:30:35Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Fim da escala 6x1, benefícios para MEIs, trânsito e mais | Gaúcha Atualidade | 15/10/2026",
+      "title": "Fim da escala 6x1, últimas da política, economia, trânsito e mais | Gaúcha Atualidade | 15/10/2026",
       "videoId": "odx7xN5iUTg",
       "url": "https://www.youtube.com/watch?v=odx7xN5iUTg",
       "thumbnail": "https://i.ytimg.com/vi/odx7xN5iUTg/mqdefault_live.jpg",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: CHURRASCO E JOGO-TREINO NO GRÊMIO | NOVIDADE NO INTER EM MIRASSOL",
       "videoId": "I49mJ7c3nTI",
       "url": "https://www.youtube.com/watch?v=I49mJ7c3nTI",
-      "thumbnail": "https://i.ytimg.com/vi/I49mJ7c3nTI/mqdefault_live.jpg",
-      "published": "2026-10-15T11:02:10Z"
+      "thumbnail": "https://i.ytimg.com/vi/I49mJ7c3nTI/mqdefault.jpg",
+      "published": "2026-10-15T12:23:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #44 — RENATO BUSCA REMOBILIZAÇÃO NO ELENCO DO GRÊMIO",
-      "videoId": "QiyjPBiXy8g",
-      "url": "https://www.youtube.com/watch?v=QiyjPBiXy8g",
-      "thumbnail": "https://i.ytimg.com/vi/QiyjPBiXy8g/mqdefault_live.jpg",
-      "published": "2026-10-15T10:00:52Z"
+      "title": "IMORTAL FC — 15/10",
+      "videoId": "GPE1I1IXrjk",
+      "url": "https://www.youtube.com/watch?v=GPE1I1IXrjk",
+      "thumbnail": "https://i.ytimg.com/vi/GPE1I1IXrjk/mqdefault_live.jpg",
+      "published": "2026-10-15T12:59:17Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO PROTESTA APÓS NOVO ERRO DA ARBITRAGEM | CHURRASCO NO CT | NOITES DE GRÊMIO #165 - 14/10",
-      "videoId": "hh6OLQuiB8w",
-      "url": "https://www.youtube.com/watch?v=hh6OLQuiB8w",
-      "thumbnail": "https://i.ytimg.com/vi/hh6OLQuiB8w/mqdefault_live.jpg",
-      "published": "2026-10-15T01:28:34Z"
+      "title": "GRÊMIO DISPARA CONTRA CBF | RENATO REAGRUPA O ELENCO | COMO É BOM SER DO GRÊMIO #64",
+      "videoId": "KcQ9KCZQuWU",
+      "url": "https://www.youtube.com/watch?v=KcQ9KCZQuWU",
+      "thumbnail": "https://i.ytimg.com/vi/KcQ9KCZQuWU/mqdefault_live.jpg",
+      "published": "2026-10-15T12:31:40Z"
     }
   ]
 }
