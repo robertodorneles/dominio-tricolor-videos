@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-14T23:00:37.378987+00:00",
+  "updated_at": "2026-10-15T00:00:34.580492+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  CHURRASQUINHO COM RENATO NO GRÊMIO | INTER E A PREPARAÇÃO PARA SEXTA",
+      "videoId": "_UPUhElg27c",
+      "url": "https://www.youtube.com/watch?v=_UPUhElg27c",
+      "thumbnail": "https://i.ytimg.com/vi/_UPUhElg27c/mqdefault_live.jpg",
+      "published": "2026-10-14T23:26:29Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A SURPRESA DE RENATO E A EVOLUÇÃO DE JOÃO BORNE ENTRE OS PROFISSIONAIS",
@@ -11,12 +19,12 @@
       "published": "2026-10-14T20:00:36Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥JOVEM GANHANDO ESPAÇO! | BASTIDOR RASGA ELOGIOS! | VAI JOGAR?",
-      "videoId": "5O7P232ANaY",
-      "url": "https://www.youtube.com/watch?v=5O7P232ANaY",
-      "thumbnail": "https://i.ytimg.com/vi/5O7P232ANaY/mqdefault.jpg",
-      "published": "2026-10-14T19:02:08Z"
+      "channel": "Bage TV",
+      "title": "GRÊMIO LANÇA NOTA EM PROTESTO A MAIS UM ERRO DE ARBITRAGEM🟣RESENHA FORA DA SALA NOITE🟣#043",
+      "videoId": "LXRxXjRRWUY",
+      "url": "https://www.youtube.com/watch?v=LXRxXjRRWUY",
+      "thumbnail": "https://i.ytimg.com/vi/LXRxXjRRWUY/mqdefault_live.jpg",
+      "published": "2026-10-14T23:15:45Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=S1lRjLfeuT0",
       "thumbnail": "https://i.ytimg.com/vi/S1lRjLfeuT0/mqdefault.jpg",
       "published": "2026-10-14T22:21:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "PRESIDENTE DO VITÓRIA VOLTA A COBRAR O GRÊMIO! #CORTESDORESENHA",
-      "videoId": "zB4sfl-u-NQ",
-      "url": "https://www.youtube.com/watch?v=zB4sfl-u-NQ",
-      "thumbnail": "https://i.ytimg.com/vi/zB4sfl-u-NQ/mqdefault.jpg",
-      "published": "2026-10-14T21:14:13Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "FETh87LKb_c",
       "url": "https://www.youtube.com/watch?v=FETh87LKb_c",
       "thumbnail": "https://i.ytimg.com/vi/FETh87LKb_c/mqdefault_live.jpg",
-      "published": "2026-10-14T22:00:42Z"
+      "published": "2026-10-14T23:10:07Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "PIORES ESTRANGEIROS DA DUPLA - TIER LIST | CORTES RÁDIO GRENAL | 14/10/2026",
-      "videoId": "spOl8hf-MWc",
-      "url": "https://www.youtube.com/watch?v=spOl8hf-MWc",
-      "thumbnail": "https://i.ytimg.com/vi/spOl8hf-MWc/mqdefault.jpg",
-      "published": "2026-10-14T21:27:39Z"
+      "title": "\"O VAR TINHA CONVICÇÃO DA PENALIDADE\" | LEONARDO GACIBA - CONSULTOR DE ARBITRAGEM DO GRÊMIO | 10/09",
+      "videoId": "qtYLURx9760",
+      "url": "https://www.youtube.com/watch?v=qtYLURx9760",
+      "thumbnail": "https://i.ytimg.com/vi/qtYLURx9760/mqdefault.jpg",
+      "published": "2026-10-14T23:40:56Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "\"MERECIA TER MAIS PONTOS\" 🇲🇨#inter #colorado #paulopezzolano #entrevista #brasileirao",
-      "videoId": "nL8xC8Bo61E",
-      "url": "https://www.youtube.com/watch?v=nL8xC8Bo61E",
-      "thumbnail": "https://i.ytimg.com/vi/nL8xC8Bo61E/mqdefault.jpg",
-      "published": "2026-10-14T14:51:00Z"
+      "title": "14/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "oAa97HgI17k",
+      "url": "https://www.youtube.com/watch?v=oAa97HgI17k",
+      "thumbnail": "https://i.ytimg.com/vi/oAa97HgI17k/mqdefault.jpg",
+      "published": "2026-10-14T23:29:54Z"
     },
     {
       "channel": "Radio Imortal",
