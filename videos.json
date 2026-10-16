@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:00:37.882485+00:00",
+  "updated_at": "2026-10-16T15:00:43.566595+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "AAagbKE75CE",
       "url": "https://www.youtube.com/watch?v=AAagbKE75CE",
       "thumbnail": "https://i.ytimg.com/vi/AAagbKE75CE/mqdefault_live.jpg",
-      "published": "2026-10-16T13:37:38Z"
+      "published": "2026-10-16T14:51:59Z"
     },
     {
       "channel": "Bage TV",
       "title": "RENATO LIGA PARA O BAGÉ | SAIBA OS BASTIDORES🔵 FUTEBOL ALEGRIA DO GRÊMIO - 16/10 - #657",
       "videoId": "IAclXHYBXbo",
       "url": "https://www.youtube.com/watch?v=IAclXHYBXbo",
-      "thumbnail": "https://i.ytimg.com/vi/IAclXHYBXbo/mqdefault_live.jpg",
-      "published": "2026-10-16T13:34:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/IAclXHYBXbo/mqdefault.jpg",
+      "published": "2026-10-16T14:35:12Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨TROCA COM NORIEGA | RENATO PREPARA MUDANÇAS | AS SEIS BOAS NOTÍCIAS PRO GRÊMIO",
+      "videoId": "V57po7w3M5g",
+      "url": "https://www.youtube.com/watch?v=V57po7w3M5g",
+      "thumbnail": "https://i.ytimg.com/vi/V57po7w3M5g/mqdefault.jpg",
+      "published": "2026-10-16T14:38:46Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=2hUoNoNW63c",
       "thumbnail": "https://i.ytimg.com/vi/2hUoNoNW63c/mqdefault.jpg",
       "published": "2026-10-16T00:43:46Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨VILLASANTI SE POSICIONA COM ATITUDE FORTE NO GRÊMIO | RENATO PREPARA OPORTUNIDADE PRA BORNE",
-      "videoId": "7LFhhD56LLs",
-      "url": "https://www.youtube.com/watch?v=7LFhhD56LLs",
-      "thumbnail": "https://i.ytimg.com/vi/7LFhhD56LLs/mqdefault.jpg",
-      "published": "2026-10-15T17:32:58Z"
     },
     {
       "channel": "Canal do CCD",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "TORCER PARA O INTER? | DÚVIDA NO ESQUEMA DO GRÊMIO CONTRA CRUZEIRO!",
+      "videoId": "neQQzrxNCkE",
+      "url": "https://www.youtube.com/watch?v=neQQzrxNCkE",
+      "thumbnail": "https://i.ytimg.com/vi/neQQzrxNCkE/mqdefault.jpg",
+      "published": "2026-10-16T14:56:17Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "COMO FOI O JOGO-TREINO GRÊMIO 3X1 SINDICATO DOS ATLETAS. #gremio #futebol #brasileirao",
       "videoId": "Oww1ldOA5Q8",
       "url": "https://www.youtube.com/watch?v=Oww1ldOA5Q8",
       "thumbnail": "https://i.ytimg.com/vi/Oww1ldOA5Q8/mqdefault.jpg",
       "published": "2026-10-16T13:00:10Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "NOVAS LESÕES! #gremio #futebol",
-      "videoId": "AeJHvtfG1gQ",
-      "url": "https://www.youtube.com/watch?v=AeJHvtfG1gQ",
-      "thumbnail": "https://i.ytimg.com/vi/AeJHvtfG1gQ/mqdefault.jpg",
-      "published": "2026-10-16T01:20:15Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "SACANI ALERTA: TORNADOS NO BRASIL SÃO RISCO POTENCIAL | Cortes do Duda",
+      "videoId": "J1kFK8REWO0",
+      "url": "https://www.youtube.com/watch?v=J1kFK8REWO0",
+      "thumbnail": "https://i.ytimg.com/vi/J1kFK8REWO0/mqdefault.jpg",
+      "published": "2026-10-16T15:00:01Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 16.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "8IT4U2MqxyM",
       "url": "https://www.youtube.com/watch?v=8IT4U2MqxyM",
       "thumbnail": "https://i.ytimg.com/vi/8IT4U2MqxyM/mqdefault.jpg",
       "published": "2026-10-16T13:09:27Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "SACANI FALA SOBRE FRAUDE QUE FEZ O BRASIL ACREDITAR EM EXTRATERRESTRES | Cortes do Duda",
-      "videoId": "nCMf-83MD1E",
-      "url": "https://www.youtube.com/watch?v=nCMf-83MD1E",
-      "thumbnail": "https://i.ytimg.com/vi/nCMf-83MD1E/mqdefault.jpg",
-      "published": "2026-10-15T23:45:40Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "“É a veia aorta da cidade”: Viaduto da Borges renasce em POA com 29 salas comerciais | Paralelas",
-      "videoId": "0NLoEl4ON70",
-      "url": "https://www.youtube.com/watch?v=0NLoEl4ON70",
-      "thumbnail": "https://i.ytimg.com/vi/0NLoEl4ON70/mqdefault.jpg",
-      "published": "2026-10-16T14:00:08Z"
+      "title": "Sabatinas da Globo, redução da maioridade penal em debate e mais | Sala de Eleição | 16/10/2026",
+      "videoId": "M0CxOW3AhfU",
+      "url": "https://www.youtube.com/watch?v=M0CxOW3AhfU",
+      "thumbnail": "https://i.ytimg.com/vi/M0CxOW3AhfU/mqdefault_live.jpg",
+      "published": "2026-10-16T14:57:41Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,15 @@
       "videoId": "oBGVLTk2jOg",
       "url": "https://www.youtube.com/watch?v=oBGVLTk2jOg",
       "thumbnail": "https://i.ytimg.com/vi/oBGVLTk2jOg/mqdefault_live.jpg",
-      "published": "2026-10-16T11:56:54Z"
+      "published": "2026-10-16T14:31:27Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "INTER: Drama dos goleiros é maior do que a gente pensa",
+      "videoId": "qTBkyLjqSWk",
+      "url": "https://www.youtube.com/watch?v=qTBkyLjqSWk",
+      "thumbnail": "https://i.ytimg.com/vi/qTBkyLjqSWk/mqdefault.jpg",
+      "published": "2026-10-16T14:45:34Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=YdQJFbwWaqc",
       "thumbnail": "https://i.ytimg.com/vi/YdQJFbwWaqc/mqdefault.jpg",
       "published": "2026-10-16T12:52:45Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: CHURRASCO E JOGO-TREINO NO GRÊMIO | NOVIDADE NO INTER EM MIRASSOL",
-      "videoId": "I49mJ7c3nTI",
-      "url": "https://www.youtube.com/watch?v=I49mJ7c3nTI",
-      "thumbnail": "https://i.ytimg.com/vi/I49mJ7c3nTI/mqdefault.jpg",
-      "published": "2026-10-15T12:23:19Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 16/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL 16/10/2026",
       "videoId": "mEtQmb3YqMA",
       "url": "https://www.youtube.com/watch?v=mEtQmb3YqMA",
       "thumbnail": "https://i.ytimg.com/vi/mEtQmb3YqMA/mqdefault_live.jpg",
@@ -228,11 +228,11 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "IMORTAL FC — 16/10",
-      "videoId": "-qSG8fGYc84",
-      "url": "https://www.youtube.com/watch?v=-qSG8fGYc84",
-      "thumbnail": "https://i.ytimg.com/vi/-qSG8fGYc84/mqdefault_live.jpg",
-      "published": "2026-10-16T13:51:43Z"
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X SANTOS | COPA GRAMADO LAGHETTO SUB-16",
+      "videoId": "oWuNSTWm56o",
+      "url": "https://www.youtube.com/watch?v=oWuNSTWm56o",
+      "thumbnail": "https://i.ytimg.com/vi/oWuNSTWm56o/mqdefault_live.jpg",
+      "published": "2026-10-16T14:01:52Z"
     },
     {
       "channel": "Radio Imortal",
@@ -240,7 +240,7 @@
       "videoId": "pdGRMbZ0JfA",
       "url": "https://www.youtube.com/watch?v=pdGRMbZ0JfA",
       "thumbnail": "https://i.ytimg.com/vi/pdGRMbZ0JfA/mqdefault_live.jpg",
-      "published": "2026-10-16T12:36:50Z"
+      "published": "2026-10-16T14:01:45Z"
     }
   ]
 }
