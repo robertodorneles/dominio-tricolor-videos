@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:00:50.152007+00:00",
+  "updated_at": "2026-10-16T17:47:27.809234+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "E AS PROMOÇÕES DE INGRESSOS? #CORTESDOBOMDIA",
+      "videoId": "OoU-elMcE3I",
+      "url": "https://www.youtube.com/watch?v=OoU-elMcE3I",
+      "thumbnail": "https://i.ytimg.com/vi/OoU-elMcE3I/mqdefault.jpg",
+      "published": "2026-10-16T17:45:37Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "BORNE E NARDONI LESIONADOS, E GOLEIRO GANHA NOVA CHANCE NO COLORADO!🔸RESENHA FORA DA SALA🔸#154",
       "videoId": "0TRzoCNkKs0",
       "url": "https://www.youtube.com/watch?v=0TRzoCNkKs0",
       "thumbnail": "https://i.ytimg.com/vi/0TRzoCNkKs0/mqdefault_live.jpg",
       "published": "2026-10-16T16:30:05Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #090",
-      "videoId": "AAagbKE75CE",
-      "url": "https://www.youtube.com/watch?v=AAagbKE75CE",
-      "thumbnail": "https://i.ytimg.com/vi/AAagbKE75CE/mqdefault.jpg",
-      "published": "2026-10-16T15:38:13Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "lQQOUZg9_0o",
       "url": "https://www.youtube.com/watch?v=lQQOUZg9_0o",
       "thumbnail": "https://i.ytimg.com/vi/lQQOUZg9_0o/mqdefault_live.jpg",
-      "published": "2026-10-16T16:02:32Z"
+      "published": "2026-10-16T17:13:08Z"
     },
     {
       "channel": "Canal do Farid",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL 16/10/2026",
+      "title": "16/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "mEtQmb3YqMA",
       "url": "https://www.youtube.com/watch?v=mEtQmb3YqMA",
-      "thumbnail": "https://i.ytimg.com/vi/mEtQmb3YqMA/mqdefault_live.jpg",
-      "published": "2026-10-16T17:00:09Z"
+      "thumbnail": "https://i.ytimg.com/vi/mEtQmb3YqMA/mqdefault.jpg",
+      "published": "2026-10-16T17:17:21Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 15/10/2026",
-      "videoId": "P4PcoxdW3ko",
-      "url": "https://www.youtube.com/watch?v=P4PcoxdW3ko",
-      "thumbnail": "https://i.ytimg.com/vi/P4PcoxdW3ko/mqdefault.jpg",
-      "published": "2026-10-15T23:28:53Z"
+      "title": "AO VIVO | MIRASSOL X INTER | BRASILEIRÃO | RÁDIO GRENAL | 16/10/2026",
+      "videoId": "K2h9HDrLzoo",
+      "url": "https://www.youtube.com/watch?v=K2h9HDrLzoo",
+      "thumbnail": "https://i.ytimg.com/vi/K2h9HDrLzoo/mqdefault_live.jpg",
+      "published": "2026-10-16T17:00:29Z"
     },
     {
       "channel": "Radio Imortal",
