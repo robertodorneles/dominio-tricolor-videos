@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:00:34.426913+00:00",
+  "updated_at": "2026-10-16T11:00:39.609182+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🌅🔵 BOM DIA GRÊMIO #154",
+      "title": "RENATO PERDE DOIS JOGADORES🌅🔵 BOM DIA GRÊMIO #154",
       "videoId": "ND5oergz9XI",
       "url": "https://www.youtube.com/watch?v=ND5oergz9XI",
       "thumbnail": "https://i.ytimg.com/vi/ND5oergz9XI/mqdefault_live.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 16/10/2026",
+      "videoId": "hrnYu9s1Ht8",
+      "url": "https://www.youtube.com/watch?v=hrnYu9s1Ht8",
+      "thumbnail": "https://i.ytimg.com/vi/hrnYu9s1Ht8/mqdefault_live.jpg",
+      "published": "2026-10-16T10:58:35Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "PEC da Segurança, fim da escala 6x1, rato encontrado em bolo e mais | Gaúcha+ | 15/10/2026",
       "videoId": "Co7p3KcUTqQ",
       "url": "https://www.youtube.com/watch?v=Co7p3KcUTqQ",
       "thumbnail": "https://i.ytimg.com/vi/Co7p3KcUTqQ/mqdefault.jpg",
       "published": "2026-10-16T07:36:43Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fim da escala 6x1, pesquisa Quaest e visita de Flávio Bolsonaro ao RS | Sala de Eleição | 15/10/2026",
-      "videoId": "TlJ-kKduoiQ",
-      "url": "https://www.youtube.com/watch?v=TlJ-kKduoiQ",
-      "thumbnail": "https://i.ytimg.com/vi/TlJ-kKduoiQ/mqdefault.jpg",
-      "published": "2026-10-16T03:59:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 15/10/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | 16/10/2026",
       "videoId": "mEtQmb3YqMA",
       "url": "https://www.youtube.com/watch?v=mEtQmb3YqMA",
       "thumbnail": "https://i.ytimg.com/vi/mEtQmb3YqMA/mqdefault_live.jpg",
       "published": "2026-10-15T23:02:00Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #45 — GRÊMIO PERDE DOIS ATLETAS POR LESÃO | RESERVAS E GURIZADA NO JOGO-TREINO",
+      "videoId": "t1vKrpOonIg",
+      "url": "https://www.youtube.com/watch?v=t1vKrpOonIg",
+      "thumbnail": "https://i.ytimg.com/vi/t1vKrpOonIg/mqdefault_live.jpg",
+      "published": "2026-10-16T10:04:30Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=oWuNSTWm56o",
       "thumbnail": "https://i.ytimg.com/vi/oWuNSTWm56o/mqdefault_live.jpg",
       "published": "2026-10-16T03:15:16Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO PERDE DOIS JOGADORES POR LESÃO | JOGO-TREINO COM RESERVAS — NOITES DE GRÊMIO #166 - 15/10",
-      "videoId": "z-m4uni8ACM",
-      "url": "https://www.youtube.com/watch?v=z-m4uni8ACM",
-      "thumbnail": "https://i.ytimg.com/vi/z-m4uni8ACM/mqdefault_live.jpg",
-      "published": "2026-10-16T01:29:52Z"
     }
   ]
 }
