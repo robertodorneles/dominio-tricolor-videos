@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-17T01:00:36.312738+00:00",
+  "updated_at": "2026-10-17T02:00:34.192662+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Mirassol 2x0 Inter: 🔥 INCOMPETENCIA TOTAL! | TRABALHARAM PRA REBAIXAR! | JOGADORES LUTARAM",
+      "videoId": "GCkRWddXDoo",
+      "url": "https://www.youtube.com/watch?v=GCkRWddXDoo",
+      "thumbnail": "https://i.ytimg.com/vi/GCkRWddXDoo/mqdefault.jpg",
+      "published": "2026-10-17T01:29:38Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: O PEDIDO DA DIREÇÃO QUE CUSTARÁ MILHÕES AOS COFRES DO CLUBE | RESCISÃO CASTRO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=mOMasJeOzyQ",
       "thumbnail": "https://i.ytimg.com/vi/mOMasJeOzyQ/mqdefault.jpg",
       "published": "2026-10-16T20:00:04Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: PROBLEMAS EM MIRASSOL | O QUE HÁ COM SANABRIA? | O TIME TITULAR!",
-      "videoId": "KfGuWqNLegU",
-      "url": "https://www.youtube.com/watch?v=KfGuWqNLegU",
-      "thumbnail": "https://i.ytimg.com/vi/KfGuWqNLegU/mqdefault.jpg",
-      "published": "2026-10-16T05:35:23Z"
     },
     {
       "channel": "Bage TV",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨NOTÍCIA IMPACTANTE SURPREENDE O GRÊMIO! AS CONTAS PRA SE SALVAR | OS INCOMPETENTES DIRIGENTES",
+      "videoId": "tEe4cm715aE",
+      "url": "https://www.youtube.com/watch?v=tEe4cm715aE",
+      "thumbnail": "https://i.ytimg.com/vi/tEe4cm715aE/mqdefault.jpg",
+      "published": "2026-10-17T01:50:01Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨TROCA COM NORIEGA | RENATO PREPARA MUDANÇAS | AS SEIS BOAS NOTÍCIAS PRO GRÊMIO",
       "videoId": "V57po7w3M5g",
       "url": "https://www.youtube.com/watch?v=V57po7w3M5g",
       "thumbnail": "https://i.ytimg.com/vi/V57po7w3M5g/mqdefault.jpg",
       "published": "2026-10-16T14:38:46Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨EITA! TRÊS ESTÃO FORA? | SURPRESAS NO JOGO-TREINO | MIRASSOL X INTER INTERFERE PRO GRÊMIO!",
-      "videoId": "2hUoNoNW63c",
-      "url": "https://www.youtube.com/watch?v=2hUoNoNW63c",
-      "thumbnail": "https://i.ytimg.com/vi/2hUoNoNW63c/mqdefault.jpg",
-      "published": "2026-10-16T00:43:46Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO | JOÂO BORNE E NARDONI COM LESÕES DE GRAU I | GREMIO X CRUZEIRO | CLUBE TRICOLOR #07",
+      "videoId": "6LWXiHUJ4TE",
+      "url": "https://www.youtube.com/watch?v=6LWXiHUJ4TE",
+      "thumbnail": "https://i.ytimg.com/vi/6LWXiHUJ4TE/mqdefault_live.jpg",
+      "published": "2026-10-17T01:39:32Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #040",
       "videoId": "gqEjCT5ydok",
       "url": "https://www.youtube.com/watch?v=gqEjCT5ydok",
       "thumbnail": "https://i.ytimg.com/vi/gqEjCT5ydok/mqdefault.jpg",
       "published": "2026-10-17T00:52:02Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | JOÂO BORNE E NARDONI COM LESÕES DE GRAU I | GREMIO X CRUZEIRO | CLUBE TRICOLOR #07",
-      "videoId": "6LWXiHUJ4TE",
-      "url": "https://www.youtube.com/watch?v=6LWXiHUJ4TE",
-      "thumbnail": "https://i.ytimg.com/vi/6LWXiHUJ4TE/mqdefault_live.jpg",
-      "published": "2026-10-17T00:03:02Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "INTER PERDE! MUDOU TUDO! | VAZOU DOCUMENTO NO GRÊMIO: ENTENDA",
+      "videoId": "Tofsh8p-OPo",
+      "url": "https://www.youtube.com/watch?v=Tofsh8p-OPo",
+      "thumbnail": "https://i.ytimg.com/vi/Tofsh8p-OPo/mqdefault.jpg",
+      "published": "2026-10-17T01:53:06Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO COM 3 ZAGUEIROS VAMOS? #futebol #brasileirao",
       "videoId": "Qkp518IYYww",
       "url": "https://www.youtube.com/watch?v=Qkp518IYYww",
       "thumbnail": "https://i.ytimg.com/vi/Qkp518IYYww/mqdefault.jpg",
       "published": "2026-10-16T19:10:23Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "TORCER PARA O INTER? | DÚVIDA NO ESQUEMA DO GRÊMIO CONTRA CRUZEIRO!",
-      "videoId": "neQQzrxNCkE",
-      "url": "https://www.youtube.com/watch?v=neQQzrxNCkE",
-      "thumbnail": "https://i.ytimg.com/vi/neQQzrxNCkE/mqdefault.jpg",
-      "published": "2026-10-16T14:56:17Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "GOLS DE MIRASSOL 2 X 0 INTER | NARRAÇÃO PC CARVALHO | BRASILEIRÃO | RÁDIO GRENAL | 16/10/2026",
+      "videoId": "OhbuAFJXgiY",
+      "url": "https://www.youtube.com/watch?v=OhbuAFJXgiY",
+      "thumbnail": "https://i.ytimg.com/vi/OhbuAFJXgiY/mqdefault.jpg",
+      "published": "2026-10-17T01:36:52Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "INACREDITÁVEL! 😱🇮🇩🫣",
       "videoId": "rDjqZmmKcdo",
       "url": "https://www.youtube.com/watch?v=rDjqZmmKcdo",
@@ -219,12 +227,12 @@
       "published": "2026-10-16T23:39:00Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "PIFFERO ABSOLVIDO! 🇲🇨 #Inter #VitorioPiffero #Advogado #colorado #futebolgaucho",
-      "videoId": "vCbJJP1zRLY",
-      "url": "https://www.youtube.com/watch?v=vCbJJP1zRLY",
-      "thumbnail": "https://i.ytimg.com/vi/vCbJJP1zRLY/mqdefault.jpg",
-      "published": "2026-10-16T21:02:27Z"
+      "channel": "Radio Imortal",
+      "title": "GRÊMIO COM 3 ZAGUEIROS? | VIDA OU MORTE CONTRA O CRUZEIRO | NOITES DE GRÊMIO #167 - 16/10",
+      "videoId": "KD9xccnGYdA",
+      "url": "https://www.youtube.com/watch?v=KD9xccnGYdA",
+      "thumbnail": "https://i.ytimg.com/vi/KD9xccnGYdA/mqdefault_live.jpg",
+      "published": "2026-10-17T01:01:23Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=-qSG8fGYc84",
       "thumbnail": "https://i.ytimg.com/vi/-qSG8fGYc84/mqdefault.jpg",
       "published": "2026-10-16T22:11:06Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO COM 3 ZAGUEIROS? | VIDA OU MORTE CONTRA O CRUZEIRO | NOITES DE GRÊMIO #167 - 16/10",
-      "videoId": "KD9xccnGYdA",
-      "url": "https://www.youtube.com/watch?v=KD9xccnGYdA",
-      "thumbnail": "https://i.ytimg.com/vi/KD9xccnGYdA/mqdefault_live.jpg",
-      "published": "2026-10-16T21:06:00Z"
     }
   ]
 }
