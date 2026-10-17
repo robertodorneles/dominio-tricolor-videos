@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:00:34.192662+00:00",
+  "updated_at": "2026-10-17T03:34:37.461274+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "DOCUMENTO VAZADO RESPONDE A FUNÇÃO DE FELIPÃO🔵 BOA NOITE GRÊMIO #045",
       "videoId": "G0Ame6YuN8c",
       "url": "https://www.youtube.com/watch?v=G0Ame6YuN8c",
-      "thumbnail": "https://i.ytimg.com/vi/G0Ame6YuN8c/mqdefault_live.jpg",
-      "published": "2026-10-17T00:31:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/G0Ame6YuN8c/mqdefault.jpg",
+      "published": "2026-10-17T02:09:36Z"
     },
     {
       "channel": "Bage TV",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "AO VIVO: Congresso promulga fim da escala 6x1; acompanhe a sessão | Zero Hora | 16/10/2026",
+      "videoId": "oBGVLTk2jOg",
+      "url": "https://www.youtube.com/watch?v=oBGVLTk2jOg",
+      "thumbnail": "https://i.ytimg.com/vi/oBGVLTk2jOg/mqdefault.jpg",
+      "published": "2026-10-17T02:38:31Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "ELEIÇÕES NO RS: as estratégias da esquerda para conquistar espaço | Conversa de Gabinete",
       "videoId": "qED_2xVN7-0",
       "url": "https://www.youtube.com/watch?v=qED_2xVN7-0",
       "thumbnail": "https://i.ytimg.com/vi/qED_2xVN7-0/mqdefault.jpg",
       "published": "2026-10-16T23:30:37Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "IA da Meta cria imagem de 'Flávio 22', mas não de 'Lula 13' | Conversa de Gabinete",
-      "videoId": "gWuwDNZ9c8g",
-      "url": "https://www.youtube.com/watch?v=gWuwDNZ9c8g",
-      "thumbnail": "https://i.ytimg.com/vi/gWuwDNZ9c8g/mqdefault.jpg",
-      "published": "2026-10-16T23:00:03Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GOLS DE MIRASSOL 2 X 0 INTER | NARRAÇÃO PC CARVALHO | BRASILEIRÃO | RÁDIO GRENAL | 16/10/2026",
-      "videoId": "OhbuAFJXgiY",
-      "url": "https://www.youtube.com/watch?v=OhbuAFJXgiY",
-      "thumbnail": "https://i.ytimg.com/vi/OhbuAFJXgiY/mqdefault.jpg",
-      "published": "2026-10-17T01:36:52Z"
+      "title": "16/10/2026 | MIRASSOL 2 X 0 INTER | BRASILEIRÃO | LIVE COMPLETA",
+      "videoId": "K2h9HDrLzoo",
+      "url": "https://www.youtube.com/watch?v=K2h9HDrLzoo",
+      "thumbnail": "https://i.ytimg.com/vi/K2h9HDrLzoo/mqdefault.jpg",
+      "published": "2026-10-17T02:46:19Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "INACREDITÁVEL! 😱🇮🇩🫣",
-      "videoId": "rDjqZmmKcdo",
-      "url": "https://www.youtube.com/watch?v=rDjqZmmKcdo",
-      "thumbnail": "https://i.ytimg.com/vi/rDjqZmmKcdo/mqdefault.jpg",
-      "published": "2026-10-16T23:39:00Z"
+      "title": "COLETIVA DE EDUARDO BAPTISTA - TREINADOR DO INTER | MIRASSOL 2 X 0 INTER | BRASILEIRÃO |RÁDIO GRENAL",
+      "videoId": "q5TSCO7dpcQ",
+      "url": "https://www.youtube.com/watch?v=q5TSCO7dpcQ",
+      "thumbnail": "https://i.ytimg.com/vi/q5TSCO7dpcQ/mqdefault.jpg",
+      "published": "2026-10-17T02:28:42Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X CRUZEIRO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
+      "videoId": "dHme4W5d0cU",
+      "url": "https://www.youtube.com/watch?v=dHme4W5d0cU",
+      "thumbnail": "https://i.ytimg.com/vi/dHme4W5d0cU/mqdefault_live.jpg",
+      "published": "2026-10-17T02:39:52Z"
     },
     {
       "channel": "Radio Imortal",
@@ -232,15 +240,7 @@
       "videoId": "KD9xccnGYdA",
       "url": "https://www.youtube.com/watch?v=KD9xccnGYdA",
       "thumbnail": "https://i.ytimg.com/vi/KD9xccnGYdA/mqdefault_live.jpg",
-      "published": "2026-10-17T01:01:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO TESTA O GRÊMIO COM TRÊS ZAGUEIROS | O QUE PRECISAMOS PARA SAIR DA ZONA? | IMORTAL FC",
-      "videoId": "-qSG8fGYc84",
-      "url": "https://www.youtube.com/watch?v=-qSG8fGYc84",
-      "thumbnail": "https://i.ytimg.com/vi/-qSG8fGYc84/mqdefault.jpg",
-      "published": "2026-10-16T22:11:06Z"
+      "published": "2026-10-17T02:01:04Z"
     }
   ]
 }
