@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:00:32.032022+00:00",
+  "updated_at": "2026-10-17T21:22:07.244035+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO DIRETO DA CONCENTRAÇÃO | GRÊMIO ENCAMINHADO PARA ENFRENTAR O CRUZEIRO | PLANTÃO IMORTAL",
+      "videoId": "2-ikR4lCQQY",
+      "url": "https://www.youtube.com/watch?v=2-ikR4lCQQY",
+      "thumbnail": "https://i.ytimg.com/vi/2-ikR4lCQQY/mqdefault_live.jpg",
+      "published": "2026-10-17T21:00:29Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! EM BUSCA DA RETOMADA DAS VITÓRIAS | RENATO APOSTA NO CROATA? | PLANTÃO IMORTAL",
       "videoId": "mKvlwIpcBHg",
       "url": "https://www.youtube.com/watch?v=mKvlwIpcBHg",
       "thumbnail": "https://i.ytimg.com/vi/mKvlwIpcBHg/mqdefault_live.jpg",
       "published": "2026-10-17T17:01:25Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO COM 3 ZAGUEIROS? | VIDA OU MORTE CONTRA O CRUZEIRO | NOITES DE GRÊMIO #167 - 16/10",
-      "videoId": "KD9xccnGYdA",
-      "url": "https://www.youtube.com/watch?v=KD9xccnGYdA",
-      "thumbnail": "https://i.ytimg.com/vi/KD9xccnGYdA/mqdefault.jpg",
-      "published": "2026-10-17T15:10:39Z"
     }
   ]
 }
