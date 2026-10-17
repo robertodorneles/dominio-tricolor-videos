@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:00:35.614009+00:00",
+  "updated_at": "2026-10-17T18:00:36.113481+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Sono de qualidade: hábitos que ajudam a dormir melhor",
+      "videoId": "iR8qwwbnlSc",
+      "url": "https://www.youtube.com/watch?v=iR8qwwbnlSc",
+      "thumbnail": "https://i.ytimg.com/vi/iR8qwwbnlSc/mqdefault.jpg",
+      "published": "2026-10-17T17:00:17Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Dos becos às avenidas: o que aconteceu com os antigos becos de Porto Alegre? | Aconteceu no RS",
       "videoId": "wor0HHz9d_U",
       "url": "https://www.youtube.com/watch?v=wor0HHz9d_U",
       "thumbnail": "https://i.ytimg.com/vi/wor0HHz9d_U/mqdefault.jpg",
       "published": "2026-10-17T16:00:02Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "4 séries VICIANTES para MARATONAR | Dica do Ticiano",
-      "videoId": "pv-AYJtYt2o",
-      "url": "https://www.youtube.com/watch?v=pv-AYJtYt2o",
-      "thumbnail": "https://i.ytimg.com/vi/pv-AYJtYt2o/mqdefault.jpg",
-      "published": "2026-10-17T15:30:14Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO! EM BUSCA DA RETOMADA DAS VITÓRIAS | RENATO APOSTA NO CROATA? | PLANTÃO IMORTAL",
+      "videoId": "mKvlwIpcBHg",
+      "url": "https://www.youtube.com/watch?v=mKvlwIpcBHg",
+      "thumbnail": "https://i.ytimg.com/vi/mKvlwIpcBHg/mqdefault_live.jpg",
+      "published": "2026-10-17T17:01:25Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "GRÊMIO COM 3 ZAGUEIROS? | VIDA OU MORTE CONTRA O CRUZEIRO | NOITES DE GRÊMIO #167 - 16/10",
       "videoId": "KD9xccnGYdA",
       "url": "https://www.youtube.com/watch?v=KD9xccnGYdA",
       "thumbnail": "https://i.ytimg.com/vi/KD9xccnGYdA/mqdefault.jpg",
       "published": "2026-10-17T15:10:39Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X ATLÉTICO-MG | COPA GRAMADO LAGHETTO SUB-16",
-      "videoId": "O7kRbtXMGNQ",
-      "url": "https://www.youtube.com/watch?v=O7kRbtXMGNQ",
-      "thumbnail": "https://i.ytimg.com/vi/O7kRbtXMGNQ/mqdefault.jpg",
-      "published": "2026-10-17T14:21:58Z"
     }
   ]
 }
