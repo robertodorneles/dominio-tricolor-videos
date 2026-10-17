@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:00:36.983051+00:00",
+  "updated_at": "2026-10-17T15:00:37.110293+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO | JOÂO BORNE E NARDONI COM LESÕES DE GRAU I | GREMIO X CRUZEIRO | CLUBE TRICOLOR #07",
+      "videoId": "6LWXiHUJ4TE",
+      "url": "https://www.youtube.com/watch?v=6LWXiHUJ4TE",
+      "thumbnail": "https://i.ytimg.com/vi/6LWXiHUJ4TE/mqdefault.jpg",
+      "published": "2026-10-17T14:21:54Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "RESENHA DAS GURIAS 1903   #03",
       "videoId": "3cckGO36eF0",
       "url": "https://www.youtube.com/watch?v=3cckGO36eF0",
       "thumbnail": "https://i.ytimg.com/vi/3cckGO36eF0/mqdefault_live.jpg",
-      "published": "2026-10-17T13:00:15Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 16/10/2026",
-      "videoId": "bi1LLFkP-cg",
-      "url": "https://www.youtube.com/watch?v=bi1LLFkP-cg",
-      "thumbnail": "https://i.ytimg.com/vi/bi1LLFkP-cg/mqdefault.jpg",
-      "published": "2026-10-17T11:32:40Z"
+      "published": "2026-10-17T14:17:12Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UMA AULA SOBRE… CIRURGIA VASCULAR com Alexandre Pereira | #43",
-      "videoId": "LtXcPy3f03I",
-      "url": "https://www.youtube.com/watch?v=LtXcPy3f03I",
-      "thumbnail": "https://i.ytimg.com/vi/LtXcPy3f03I/mqdefault.jpg",
-      "published": "2026-10-17T13:00:11Z"
+      "title": "SE VOCÊ TEM PROBLEMAS VASCULARES, FIQUE ATENTO | Uma Aula Sobre… Cirurgia Vascular",
+      "videoId": "By4B1HA4ATs",
+      "url": "https://www.youtube.com/watch?v=By4B1HA4ATs",
+      "thumbnail": "https://i.ytimg.com/vi/By4B1HA4ATs/mqdefault.jpg",
+      "published": "2026-10-17T14:30:30Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "SACANI ANALISA E REVELA: QUEM FIZER ISSO VAI MANDAR NO MUNDO TODO | Cortes do Duda",
-      "videoId": "BxCRjPzIDxI",
-      "url": "https://www.youtube.com/watch?v=BxCRjPzIDxI",
-      "thumbnail": "https://i.ytimg.com/vi/BxCRjPzIDxI/mqdefault.jpg",
-      "published": "2026-10-16T22:00:29Z"
+      "title": "A CIRURGIA VASCULAR PODE AJUDAR SUA VIDA #dudagarbi #rafaelbarleze",
+      "videoId": "lGV1tqVYY5k",
+      "url": "https://www.youtube.com/watch?v=lGV1tqVYY5k",
+      "thumbnail": "https://i.ytimg.com/vi/lGV1tqVYY5k/mqdefault.jpg",
+      "published": "2026-10-17T14:30:02Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 17/10/2026",
+      "videoId": "mDtmqIQMMdA",
+      "url": "https://www.youtube.com/watch?v=mDtmqIQMMdA",
+      "thumbnail": "https://i.ytimg.com/vi/mDtmqIQMMdA/mqdefault_live.jpg",
+      "published": "2026-10-17T14:06:27Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "16/10/2026 | MIRASSOL 2 X 0 INTER | BRASILEIRÃO | LIVE COMPLETA",
       "videoId": "K2h9HDrLzoo",
       "url": "https://www.youtube.com/watch?v=K2h9HDrLzoo",
@@ -219,20 +227,12 @@
       "published": "2026-10-17T02:46:19Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "COLETIVA DE EDUARDO BAPTISTA - TREINADOR DO INTER | MIRASSOL 2 X 0 INTER | BRASILEIRÃO |RÁDIO GRENAL",
-      "videoId": "q5TSCO7dpcQ",
-      "url": "https://www.youtube.com/watch?v=q5TSCO7dpcQ",
-      "thumbnail": "https://i.ytimg.com/vi/q5TSCO7dpcQ/mqdefault.jpg",
-      "published": "2026-10-17T02:28:42Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X ATLÉTICO-MG | COPA GRAMADO LAGHETTO SUB-16",
       "videoId": "O7kRbtXMGNQ",
       "url": "https://www.youtube.com/watch?v=O7kRbtXMGNQ",
-      "thumbnail": "https://i.ytimg.com/vi/O7kRbtXMGNQ/mqdefault_live.jpg",
-      "published": "2026-10-17T11:51:56Z"
+      "thumbnail": "https://i.ytimg.com/vi/O7kRbtXMGNQ/mqdefault.jpg",
+      "published": "2026-10-17T14:21:58Z"
     },
     {
       "channel": "Radio Imortal",
