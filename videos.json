@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:00:38.211621+00:00",
+  "updated_at": "2026-10-17T16:06:59.819110+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🐟🟢RADAR DE BAGRE #003",
+      "videoId": "U7sEVR_pJ1Y",
+      "url": "https://www.youtube.com/watch?v=U7sEVR_pJ1Y",
+      "thumbnail": "https://i.ytimg.com/vi/U7sEVR_pJ1Y/mqdefault_live.jpg",
+      "published": "2026-10-17T16:05:03Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "DIRETO DA FESTA DO DIA DAS CRIANÇAS DA BAGÉTV NO ESTADO MAIOR DA RESTINGA🌅🔵 BOM DIA GRÊMIO",
       "videoId": "GLbuSgm6GyA",
       "url": "https://www.youtube.com/watch?v=GLbuSgm6GyA",
@@ -27,16 +35,8 @@
       "published": "2026-10-17T15:11:56Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🐟🟢RADAR DE BAGRE #003",
-      "videoId": "U7sEVR_pJ1Y",
-      "url": "https://www.youtube.com/watch?v=U7sEVR_pJ1Y",
-      "thumbnail": "https://i.ytimg.com/vi/U7sEVR_pJ1Y/mqdefault_live.jpg",
-      "published": "2026-10-17T15:01:07Z"
-    },
-    {
       "channel": "Bruno Soares Reporter",
-      "title": "🚨CONVERSA FORTE COM TETÊ | DECISÃO IMPORTANTE DE RENATO SOBRE O TIME DO GRÊMIO CONTRA O CRUZEIRO!",
+      "title": "🚨RENATO TEM CONVERSA FORTE COM JOGADOR | DECISÃO SOBRE O TIME DO GRÊMIO CONTRA O CRUZEIRO!",
       "videoId": "TY22NAnQb7s",
       "url": "https://www.youtube.com/watch?v=TY22NAnQb7s",
       "thumbnail": "https://i.ytimg.com/vi/TY22NAnQb7s/mqdefault.jpg",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 17/10/2026",
+      "title": "AO VIVO | SABADAÇO GRENAL | RÁDIO GRENAL | 17/10/2026",
       "videoId": "mDtmqIQMMdA",
       "url": "https://www.youtube.com/watch?v=mDtmqIQMMdA",
       "thumbnail": "https://i.ytimg.com/vi/mDtmqIQMMdA/mqdefault_live.jpg",
