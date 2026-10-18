@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:00:40.142368+00:00",
+  "updated_at": "2026-10-18T18:00:36.613231+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO X CRUZEIRO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 18/10/2026",
+      "videoId": "3g3gj6LSD0E",
+      "url": "https://www.youtube.com/watch?v=3g3gj6LSD0E",
+      "thumbnail": "https://i.ytimg.com/vi/3g3gj6LSD0E/mqdefault_live.jpg",
+      "published": "2026-10-18T17:20:23Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "2016: O FIM DA SECA TRICOLOR | “Fala, Costa história #1”",
       "videoId": "VXjj9a9Hnno",
       "url": "https://www.youtube.com/watch?v=VXjj9a9Hnno",
       "thumbnail": "https://i.ytimg.com/vi/VXjj9a9Hnno/mqdefault.jpg",
       "published": "2026-10-18T15:00:14Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/10/2026",
-      "videoId": "dYSA5L2IWu4",
-      "url": "https://www.youtube.com/watch?v=dYSA5L2IWu4",
-      "thumbnail": "https://i.ytimg.com/vi/dYSA5L2IWu4/mqdefault_live.jpg",
-      "published": "2026-10-18T14:15:06Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X CRUZEIRO I BRASILEIRÃO 2026",
+      "videoId": "-T1OOzRblpM",
+      "url": "https://www.youtube.com/watch?v=-T1OOzRblpM",
+      "thumbnail": "https://i.ytimg.com/vi/-T1OOzRblpM/mqdefault_live.jpg",
+      "published": "2026-10-18T17:03:47Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "GRÊMIO FEMININO TRABALHA COM FOCO TOTAL NO GAUCHÃO",
       "videoId": "p9_3A1OWGN0",
       "url": "https://www.youtube.com/watch?v=p9_3A1OWGN0",
       "thumbnail": "https://i.ytimg.com/vi/p9_3A1OWGN0/mqdefault.jpg",
       "published": "2026-10-16T22:03:09Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X CRUZEIRO I BRASILEIRÃO 2026",
-      "videoId": "-T1OOzRblpM",
-      "url": "https://www.youtube.com/watch?v=-T1OOzRblpM",
-      "thumbnail": "https://i.ytimg.com/vi/-T1OOzRblpM/mqdefault_live.jpg",
-      "published": "2026-10-16T18:22:28Z"
     },
     {
       "channel": "GZH Digital",
@@ -216,7 +216,7 @@
       "videoId": "re0z55g5FPA",
       "url": "https://www.youtube.com/watch?v=re0z55g5FPA",
       "thumbnail": "https://i.ytimg.com/vi/re0z55g5FPA/mqdefault_live.jpg",
-      "published": "2026-10-18T16:16:43Z"
+      "published": "2026-10-18T17:01:41Z"
     },
     {
       "channel": "Radio Grenal",
