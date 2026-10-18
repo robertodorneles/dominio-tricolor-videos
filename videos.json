@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:00:36.575735+00:00",
+  "updated_at": "2026-10-18T16:23:15.259050+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CRUZEIRO - [ DIRETO DA ARENA ]",
+      "videoId": "GEj6AZ1Ddb0",
+      "url": "https://www.youtube.com/watch?v=GEj6AZ1Ddb0",
+      "thumbnail": "https://i.ytimg.com/vi/GEj6AZ1Ddb0/mqdefault_live.jpg",
+      "published": "2026-10-18T16:02:05Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🐟🟢RADAR DE BAGRE #003",
       "videoId": "U7sEVR_pJ1Y",
       "url": "https://www.youtube.com/watch?v=U7sEVR_pJ1Y",
       "thumbnail": "https://i.ytimg.com/vi/U7sEVR_pJ1Y/mqdefault.jpg",
       "published": "2026-10-17T18:28:55Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIRETO DA FESTA DO DIA DAS CRIANÇAS DA BAGÉTV NO ESTADO MAIOR DA RESTINGA🌅🔵 BOM DIA GRÊMIO",
-      "videoId": "GLbuSgm6GyA",
-      "url": "https://www.youtube.com/watch?v=GLbuSgm6GyA",
-      "thumbnail": "https://i.ytimg.com/vi/GLbuSgm6GyA/mqdefault.jpg",
-      "published": "2026-10-17T15:11:56Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -213,18 +213,18 @@
     {
       "channel": "Radio Grenal",
       "title": "17/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "re0z55g5FPA",
+      "url": "https://www.youtube.com/watch?v=re0z55g5FPA",
+      "thumbnail": "https://i.ytimg.com/vi/re0z55g5FPA/mqdefault_live.jpg",
+      "published": "2026-10-18T16:16:43Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "17/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "mDtmqIQMMdA",
       "url": "https://www.youtube.com/watch?v=mDtmqIQMMdA",
       "thumbnail": "https://i.ytimg.com/vi/mDtmqIQMMdA/mqdefault.jpg",
       "published": "2026-10-17T19:22:09Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "16/10/2026 | MIRASSOL 2 X 0 INTER | BRASILEIRÃO | LIVE COMPLETA",
-      "videoId": "K2h9HDrLzoo",
-      "url": "https://www.youtube.com/watch?v=K2h9HDrLzoo",
-      "thumbnail": "https://i.ytimg.com/vi/K2h9HDrLzoo/mqdefault.jpg",
-      "published": "2026-10-17T02:46:19Z"
     },
     {
       "channel": "Radio Imortal",
