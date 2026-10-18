@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-18T21:00:33.914208+00:00",
+  "updated_at": "2026-10-18T22:00:41.308272+00:00",
   "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 TRETARAM FEIO NO PÓS JOGO | COMO FICOU A TABELA | ELE FEZ PROMESSA",
-      "videoId": "CNxZprEHl5U",
-      "url": "https://www.youtube.com/watch?v=CNxZprEHl5U",
-      "thumbnail": "https://i.ytimg.com/vi/CNxZprEHl5U/mqdefault.jpg",
-      "published": "2026-10-18T06:18:07Z"
+      "title": "🔵🔴 A Hora da Dupla:👻 DUPLA RUMO A B | CACETE DO CRUZEIRO NO GRÊMIO | CACETE DO MIRASSOL NO INTER",
+      "videoId": "50L0CZJreSM",
+      "url": "https://www.youtube.com/watch?v=50L0CZJreSM",
+      "thumbnail": "https://i.ytimg.com/vi/50L0CZJreSM/mqdefault_live.jpg",
+      "published": "2026-10-18T21:44:43Z"
     },
     {
       "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO SE SURPREENDE COM EVOLUÇÃO DO TIME! Escalação definida e Amuzu de saída",
-      "videoId": "HtOxr7E45kc",
-      "url": "https://www.youtube.com/watch?v=HtOxr7E45kc",
-      "thumbnail": "https://i.ytimg.com/vi/HtOxr7E45kc/mqdefault.jpg",
-      "published": "2026-10-18T05:00:08Z"
+      "title": "🔴⚪Inter: 🔥 BAPTISTA VAI AGIR | 3 JOGADORES PERDERÃO ESPAÇO | A HORA DO GAROTO CHEGOU!",
+      "videoId": "k_CmKHq9tuM",
+      "url": "https://www.youtube.com/watch?v=k_CmKHq9tuM",
+      "thumbnail": "https://i.ytimg.com/vi/k_CmKHq9tuM/mqdefault.jpg",
+      "published": "2026-10-18T21:21:33Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "GRÊMIO 2 X 4 CRUZEIRO: DERROTA VEXATÓRIA E AFUNDAMOS NO Z4",
+      "videoId": "FK7gmUuqO0U",
+      "url": "https://www.youtube.com/watch?v=FK7gmUuqO0U",
+      "thumbnail": "https://i.ytimg.com/vi/FK7gmUuqO0U/mqdefault_live.jpg",
+      "published": "2026-10-18T21:03:09Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio x Cruzeiro: times, público, tabela… é decisão na Arena",
       "videoId": "8PPmHWhRNIE",
       "url": "https://www.youtube.com/watch?v=8PPmHWhRNIE",
@@ -59,20 +67,12 @@
       "published": "2026-10-18T14:19:46Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #706: Time do Grêmio definido para a decisão contra o Cruzeiro",
-      "videoId": "RbqMIar8Tro",
-      "url": "https://www.youtube.com/watch?v=RbqMIar8Tro",
-      "thumbnail": "https://i.ytimg.com/vi/RbqMIar8Tro/mqdefault.jpg",
-      "published": "2026-10-17T20:54:29Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "POS JOGO GREMIO X CRUZEIRO | ANALISE, COMENTARIOS | CLUBE TRICOLOR  #08",
       "videoId": "iVPC1qRO2t8",
       "url": "https://www.youtube.com/watch?v=iVPC1qRO2t8",
       "thumbnail": "https://i.ytimg.com/vi/iVPC1qRO2t8/mqdefault_live.jpg",
-      "published": "2026-10-18T18:47:16Z"
+      "published": "2026-10-18T21:57:06Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,27 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ACABOU? REBAIXAMENTO 2026 | GRÊMIO 2X4 CRUZEIRO: COMENTÁRIO",
+      "videoId": "ErQ3RYYL8KQ",
+      "url": "https://www.youtube.com/watch?v=ErQ3RYYL8KQ",
+      "thumbnail": "https://i.ytimg.com/vi/ErQ3RYYL8KQ/mqdefault.jpg",
+      "published": "2026-10-18T21:56:38Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GRÊMIO X CRUZEIRO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO",
       "videoId": "QNl-Lv81adQ",
       "url": "https://www.youtube.com/watch?v=QNl-Lv81adQ",
       "thumbnail": "https://i.ytimg.com/vi/QNl-Lv81adQ/mqdefault_live.jpg",
-      "published": "2026-10-18T12:23:27Z"
+      "published": "2026-10-18T21:05:45Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "VAI JOGAR COM DOR! | NOVO TITULAR CONTESTADO |  NOVA DUPLA | GRÊMIO X CRUZEIRO.",
-      "videoId": "9kQ1mJDp8xY",
-      "url": "https://www.youtube.com/watch?v=9kQ1mJDp8xY",
-      "thumbnail": "https://i.ytimg.com/vi/9kQ1mJDp8xY/mqdefault.jpg",
-      "published": "2026-10-17T21:56:11Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CRUZEIRO DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 18/10 #39",
+      "videoId": "rGrIPSVoaf0",
+      "url": "https://www.youtube.com/watch?v=rGrIPSVoaf0",
+      "thumbnail": "https://i.ytimg.com/vi/rGrIPSVoaf0/mqdefault_live.jpg",
+      "published": "2026-10-18T21:01:51Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=djt056T62_Q",
       "thumbnail": "https://i.ytimg.com/vi/djt056T62_Q/mqdefault.jpg",
       "published": "2026-10-18T19:11:26Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "ATENÇÃO! RELATÓRIO TRAZ DETALHES DO FUTEBOL ATUAL DO GRÊMIO! | CONFIRA PERGUNTAS E RESPOSTAS!",
-      "videoId": "t4GJmaHHTZ4",
-      "url": "https://www.youtube.com/watch?v=t4GJmaHHTZ4",
-      "thumbnail": "https://i.ytimg.com/vi/t4GJmaHHTZ4/mqdefault.jpg",
-      "published": "2026-10-16T18:43:42Z"
     },
     {
       "channel": "Duda Garbi",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I GREMIO X CRUZEIRO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "BjKUEMJr2k4",
+      "url": "https://www.youtube.com/watch?v=BjKUEMJr2k4",
+      "thumbnail": "https://i.ytimg.com/vi/BjKUEMJr2k4/mqdefault_live.jpg",
+      "published": "2026-10-18T21:56:53Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X CRUZEIRO I BRASILEIRÃO 2026",
       "videoId": "-T1OOzRblpM",
       "url": "https://www.youtube.com/watch?v=-T1OOzRblpM",
       "thumbnail": "https://i.ytimg.com/vi/-T1OOzRblpM/mqdefault_live.jpg",
-      "published": "2026-10-18T17:03:47Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "GRÊMIO FEMININO TRABALHA COM FOCO TOTAL NO GAUCHÃO",
-      "videoId": "p9_3A1OWGN0",
-      "url": "https://www.youtube.com/watch?v=p9_3A1OWGN0",
-      "thumbnail": "https://i.ytimg.com/vi/p9_3A1OWGN0/mqdefault.jpg",
-      "published": "2026-10-16T22:03:09Z"
+      "published": "2026-10-18T21:05:37Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ARBITRAGEM CONTESTADA! 🗣️🇪🇪 #gremio #cruzeiro #tricolor #arbitragem #brasileirao",
-      "videoId": "6e4BEQ0AG2g",
-      "url": "https://www.youtube.com/watch?v=6e4BEQ0AG2g",
-      "thumbnail": "https://i.ytimg.com/vi/6e4BEQ0AG2g/mqdefault.jpg",
-      "published": "2026-10-18T20:26:09Z"
+      "title": "\"A CONTA CHEGA\" 🇪🇪",
+      "videoId": "F_taPPN7ru8",
+      "url": "https://www.youtube.com/watch?v=F_taPPN7ru8",
+      "thumbnail": "https://i.ytimg.com/vi/F_taPPN7ru8/mqdefault.jpg",
+      "published": "2026-10-18T21:54:18Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DA ARENA | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/26",
-      "videoId": "re0z55g5FPA",
-      "url": "https://www.youtube.com/watch?v=re0z55g5FPA",
-      "thumbnail": "https://i.ytimg.com/vi/re0z55g5FPA/mqdefault_live.jpg",
-      "published": "2026-10-18T17:01:41Z"
+      "title": "GOLS DE GRÊMIO 2 X 4 CRUZEIRO | NARRAÇÃO PC CARVALHO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/2026",
+      "videoId": "iqTLNLqx7zo",
+      "url": "https://www.youtube.com/watch?v=iqTLNLqx7zo",
+      "thumbnail": "https://i.ytimg.com/vi/iqTLNLqx7zo/mqdefault.jpg",
+      "published": "2026-10-18T21:45:27Z"
     },
     {
       "channel": "Radio Imortal",
@@ -236,7 +236,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (2) X (4) CRUZEIRO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (4) CRUZEIRO | COLETIVA RENATO PORTALUPPI | JORNADA IMORTAL",
       "videoId": "dHme4W5d0cU",
       "url": "https://www.youtube.com/watch?v=dHme4W5d0cU",
       "thumbnail": "https://i.ytimg.com/vi/dHme4W5d0cU/mqdefault_live.jpg",
