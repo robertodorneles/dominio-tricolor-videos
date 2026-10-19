@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:00:36.963306+00:00",
+  "updated_at": "2026-10-19T11:00:36.899068+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Debate entre Lula e Flávio Bolsonaro, frio em outubro, trânsito e + | Gaúcha Atualidade | 19/10/2026",
+      "videoId": "Nb_IVQ3F_mY",
+      "url": "https://www.youtube.com/watch?v=Nb_IVQ3F_mY",
+      "thumbnail": "https://i.ytimg.com/vi/Nb_IVQ3F_mY/mqdefault_live.jpg",
+      "published": "2026-10-19T11:00:04Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Quem foi o MENINO DIABO? O homem que espalhou terror e escondeu um tesouro no RS | Aconteceu no RS",
       "videoId": "4HoI90wrAhs",
       "url": "https://www.youtube.com/watch?v=4HoI90wrAhs",
       "thumbnail": "https://i.ytimg.com/vi/4HoI90wrAhs/mqdefault.jpg",
       "published": "2026-10-18T18:49:41Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Sono de qualidade: hábitos que ajudam a dormir melhor",
-      "videoId": "iR8qwwbnlSc",
-      "url": "https://www.youtube.com/watch?v=iR8qwwbnlSc",
-      "thumbnail": "https://i.ytimg.com/vi/iR8qwwbnlSc/mqdefault.jpg",
-      "published": "2026-10-17T17:00:17Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 19/10/26",
+      "videoId": "MBPHSSZgGiE",
+      "url": "https://www.youtube.com/watch?v=MBPHSSZgGiE",
+      "thumbnail": "https://i.ytimg.com/vi/MBPHSSZgGiE/mqdefault_live.jpg",
+      "published": "2026-10-19T10:56:23Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "JOGO COMPLETO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/26",
       "videoId": "re0z55g5FPA",
       "url": "https://www.youtube.com/watch?v=re0z55g5FPA",
@@ -219,12 +227,12 @@
       "published": "2026-10-19T00:28:04Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "JOGO COMPLETO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/26",
-      "videoId": "d_8183gMQ7Y",
-      "url": "https://www.youtube.com/watch?v=d_8183gMQ7Y",
-      "thumbnail": "https://i.ytimg.com/vi/d_8183gMQ7Y/mqdefault_live.jpg",
-      "published": "2026-10-19T00:11:04Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #46 — GRÊMIO PERDE E SE APROXIMA MAIS DA SÉRIE B",
+      "videoId": "IfDDQiGJ1ag",
+      "url": "https://www.youtube.com/watch?v=IfDDQiGJ1ag",
+      "thumbnail": "https://i.ytimg.com/vi/IfDDQiGJ1ag/mqdefault_live.jpg",
+      "published": "2026-10-19T10:06:20Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=usE-XjRBy2o",
       "thumbnail": "https://i.ytimg.com/vi/usE-XjRBy2o/mqdefault_live.jpg",
       "published": "2026-10-19T00:37:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X GRAMADENSE | COPA GRAMADO LAGHETTO SUB-16",
-      "videoId": "LTXorVUzY6g",
-      "url": "https://www.youtube.com/watch?v=LTXorVUzY6g",
-      "thumbnail": "https://i.ytimg.com/vi/LTXorVUzY6g/mqdefault_live.jpg",
-      "published": "2026-10-19T00:30:00Z"
     }
   ]
 }
