@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-19T17:00:49.823599+00:00",
+  "updated_at": "2026-10-19T18:00:45.654960+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 DIREÇÃO TOMOU ATITUDE DRÁSTICA | CORRIGEM ERRO DE 25 | VAI FUNCIONAR?",
+      "videoId": "TiegsGGKfRo",
+      "url": "https://www.youtube.com/watch?v=TiegsGGKfRo",
+      "thumbnail": "https://i.ytimg.com/vi/TiegsGGKfRo/mqdefault.jpg",
+      "published": "2026-10-19T17:17:13Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥NINGUÉM VIU ISSO | O QUE KAUAN JESUS DISSE | GREMIO PERDEU | JV COM MORAL",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=7qIbhWLkw0c",
       "thumbnail": "https://i.ytimg.com/vi/7qIbhWLkw0c/mqdefault.jpg",
       "published": "2026-10-19T05:50:22Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: RENATO EXPÕE A DIREÇÃO! CONFUSÃO NA TRIBUNA, KANNEMANN EXPULSO E MAIS UMA BAIXA",
-      "videoId": "7Qs03LnoCeM",
-      "url": "https://www.youtube.com/watch?v=7Qs03LnoCeM",
-      "thumbnail": "https://i.ytimg.com/vi/7Qs03LnoCeM/mqdefault.jpg",
-      "published": "2026-10-19T05:30:37Z"
     },
     {
       "channel": "Bage TV",
@@ -72,7 +72,7 @@
       "videoId": "yTsZwVrssUg",
       "url": "https://www.youtube.com/watch?v=yTsZwVrssUg",
       "thumbnail": "https://i.ytimg.com/vi/yTsZwVrssUg/mqdefault_live.jpg",
-      "published": "2026-10-19T16:04:03Z"
+      "published": "2026-10-19T17:10:32Z"
     },
     {
       "channel": "Canal do Farid",
@@ -140,7 +140,7 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... GABRIEL WAINER | #420",
+      "title": "UM ASSADO PARA... GABRIEL WAINER [RÁDIO GAÚCHA E RIVONEWS] | #420",
       "videoId": "w-zc_BjV-FE",
       "url": "https://www.youtube.com/watch?v=w-zc_BjV-FE",
       "thumbnail": "https://i.ytimg.com/vi/w-zc_BjV-FE/mqdefault.jpg",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Benito di Paula, ícone da MPB, morre aos 84 anos",
-      "videoId": "Itq-D24WOno",
-      "url": "https://www.youtube.com/watch?v=Itq-D24WOno",
-      "thumbnail": "https://i.ytimg.com/vi/Itq-D24WOno/mqdefault.jpg",
-      "published": "2026-10-19T16:16:23Z"
+      "title": "CORRIDA PELA INTELIGÊNCIA ARTIFICIAL: o que está em jogo para as empresas? | Radar de Inovação",
+      "videoId": "dDHg3Gwr1gc",
+      "url": "https://www.youtube.com/watch?v=dDHg3Gwr1gc",
+      "thumbnail": "https://i.ytimg.com/vi/dDHg3Gwr1gc/mqdefault.jpg",
+      "published": "2026-10-19T17:37:53Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "ELEIÇÕES DE 2026 projetam POSSÍVEIS CANDIDATOS à prefeitura de PORTO ALEGRE | Conversa de Gabinete",
-      "videoId": "ZgyBLUV0AFU",
-      "url": "https://www.youtube.com/watch?v=ZgyBLUV0AFU",
-      "thumbnail": "https://i.ytimg.com/vi/ZgyBLUV0AFU/mqdefault.jpg",
-      "published": "2026-10-19T16:00:08Z"
+      "title": "Quem VENCEU o debate entre Flávio Bolsonaro e Lula? | Sala de Eleição",
+      "videoId": "8IFCsixUoGg",
+      "url": "https://www.youtube.com/watch?v=8IFCsixUoGg",
+      "thumbnail": "https://i.ytimg.com/vi/8IFCsixUoGg/mqdefault.jpg",
+      "published": "2026-10-19T17:30:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 19/10/26",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 19/10/26",
       "videoId": "MBPHSSZgGiE",
       "url": "https://www.youtube.com/watch?v=MBPHSSZgGiE",
       "thumbnail": "https://i.ytimg.com/vi/MBPHSSZgGiE/mqdefault_live.jpg",
