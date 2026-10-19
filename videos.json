@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T14:00:38.949617+00:00",
+  "updated_at": "2026-10-19T15:00:44.420311+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,23 @@
       "videoId": "GYA6wCzHNM8",
       "url": "https://www.youtube.com/watch?v=GYA6wCzHNM8",
       "thumbnail": "https://i.ytimg.com/vi/GYA6wCzHNM8/mqdefault_live.jpg",
-      "published": "2026-10-19T13:43:59Z"
+      "published": "2026-10-19T14:52:14Z"
     },
     {
       "channel": "Bage TV",
       "title": "MAIS UM FIASCO DA GESTÃO ODORICO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 19/10 - #658",
       "videoId": "GlXBG7cW3Nw",
       "url": "https://www.youtube.com/watch?v=GlXBG7cW3Nw",
-      "thumbnail": "https://i.ytimg.com/vi/GlXBG7cW3Nw/mqdefault_live.jpg",
-      "published": "2026-10-19T13:40:02Z"
+      "thumbnail": "https://i.ytimg.com/vi/GlXBG7cW3Nw/mqdefault.jpg",
+      "published": "2026-10-19T14:05:14Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨DISCUSSÃO FORTE! NÃO GOSTOU E REVIDOU | OS CULPADOS ESTÃO ESCONDIDOS! O GRÊMIO TÁ CAINDO!",
+      "videoId": "044FL2ylJwQ",
+      "url": "https://www.youtube.com/watch?v=044FL2ylJwQ",
+      "thumbnail": "https://i.ytimg.com/vi/044FL2ylJwQ/mqdefault.jpg",
+      "published": "2026-10-19T14:45:44Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=di2Ch3P_oyk",
       "thumbnail": "https://i.ytimg.com/vi/di2Ch3P_oyk/mqdefault.jpg",
       "published": "2026-10-18T23:12:40Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨SAÍDA! PEDIU PRA SAIR E TÁ FORA | OS TIMES DE GRÊMIO E CRUZEIRO, A ARBITRAGEM, A TABELA E OS JOGOS!",
-      "videoId": "8LN7iX3Cplc",
-      "url": "https://www.youtube.com/watch?v=8LN7iX3Cplc",
-      "thumbnail": "https://i.ytimg.com/vi/8LN7iX3Cplc/mqdefault.jpg",
-      "published": "2026-10-18T14:23:51Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Quem ganhou debate entre Lula e Flávio Bolsonaro, últimas da política e mais | Timeline 19/10/2026",
-      "videoId": "oYEE2AGg7gc",
-      "url": "https://www.youtube.com/watch?v=oYEE2AGg7gc",
-      "thumbnail": "https://i.ytimg.com/vi/oYEE2AGg7gc/mqdefault_live.jpg",
-      "published": "2026-10-19T13:56:02Z"
+      "title": "Quem foi o MENINO DIABO? O homem que espalhou terror e escondeu um tesouro no RS | Aconteceu no RS",
+      "videoId": "4HoI90wrAhs",
+      "url": "https://www.youtube.com/watch?v=4HoI90wrAhs",
+      "thumbnail": "https://i.ytimg.com/vi/4HoI90wrAhs/mqdefault.jpg",
+      "published": "2026-10-19T15:00:09Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Sala de Eleição | 19/10/2026",
+      "title": "Debate entre Lula e Flávio Bolsonaro, reta final do 2º turno e mais | Sala de Eleição | 19/10/2026",
       "videoId": "PzUV9pMPg-Q",
       "url": "https://www.youtube.com/watch?v=PzUV9pMPg-Q",
       "thumbnail": "https://i.ytimg.com/vi/PzUV9pMPg-Q/mqdefault_live.jpg",
-      "published": "2026-10-19T13:52:28Z"
+      "published": "2026-10-19T14:58:39Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 19/10/26",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 19/10/26",
       "videoId": "MBPHSSZgGiE",
       "url": "https://www.youtube.com/watch?v=MBPHSSZgGiE",
       "thumbnail": "https://i.ytimg.com/vi/MBPHSSZgGiE/mqdefault_live.jpg",
