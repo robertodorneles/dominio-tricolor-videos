@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-19T02:00:36.008371+00:00",
+  "updated_at": "2026-10-19T03:50:56.467400+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:👻 DUPLA RUMO A B | CACETE DO CRUZEIRO NO GRÊMIO | CACETE DO MIRASSOL NO INTER",
+      "videoId": "50L0CZJreSM",
+      "url": "https://www.youtube.com/watch?v=50L0CZJreSM",
+      "thumbnail": "https://i.ytimg.com/vi/50L0CZJreSM/mqdefault_live.jpg",
+      "published": "2026-10-19T03:36:45Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio 2x4 Cruzeiro: VEJA OS MELHORES MOMENTOS! DESMORONOU! DERROTA VEXATÓRIA EXPÕEM OS ÍDOLOS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=5pZd-gy4dqE",
       "thumbnail": "https://i.ytimg.com/vi/5pZd-gy4dqE/mqdefault.jpg",
       "published": "2026-10-18T22:02:49Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla:👻 DUPLA RUMO A B | CACETE DO CRUZEIRO NO GRÊMIO | CACETE DO MIRASSOL NO INTER",
-      "videoId": "50L0CZJreSM",
-      "url": "https://www.youtube.com/watch?v=50L0CZJreSM",
-      "thumbnail": "https://i.ytimg.com/vi/50L0CZJreSM/mqdefault_live.jpg",
-      "published": "2026-10-18T21:44:43Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "FARID REAGE A GRÊMIO 2x4 CRUZEIRO",
+      "videoId": "2fXYUNMfEcg",
+      "url": "https://www.youtube.com/watch?v=2fXYUNMfEcg",
+      "thumbnail": "https://i.ytimg.com/vi/2fXYUNMfEcg/mqdefault.jpg",
+      "published": "2026-10-19T02:28:20Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO DECEPCIONA E PERDE MAIS UMA, REBAIXAMENTO TA PERTO OU NÃO?",
       "videoId": "IvbSciKTK1c",
       "url": "https://www.youtube.com/watch?v=IvbSciKTK1c",
       "thumbnail": "https://i.ytimg.com/vi/IvbSciKTK1c/mqdefault.jpg",
       "published": "2026-10-19T01:44:34Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "POS JOGO GREMIO X CRUZEIRO | ANALISE, COMENTARIOS | CLUBE TRICOLOR  #08",
-      "videoId": "wbdDtZxA0gQ",
-      "url": "https://www.youtube.com/watch?v=wbdDtZxA0gQ",
-      "thumbnail": "https://i.ytimg.com/vi/wbdDtZxA0gQ/mqdefault.jpg",
-      "published": "2026-10-18T23:09:14Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Grêmio bota um pé na Série B + bastidores da treta no Inter",
+      "videoId": "EIKAmoKNa8U",
+      "url": "https://www.youtube.com/watch?v=EIKAmoKNa8U",
+      "thumbnail": "https://i.ytimg.com/vi/EIKAmoKNa8U/mqdefault_live.jpg",
+      "published": "2026-10-19T02:01:52Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "GRÊMIO LEVA QUATRO E DÁ SINAIS DE QUE… ACABOU?",
       "videoId": "XfOhlX8EFMM",
       "url": "https://www.youtube.com/watch?v=XfOhlX8EFMM",
       "thumbnail": "https://i.ytimg.com/vi/XfOhlX8EFMM/mqdefault.jpg",
       "published": "2026-10-18T22:43:49Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 NO GRÊMIO: Doc revela contrato de Pelaipe + situação de CV + projeção contra o Z4",
-      "videoId": "jXUM2JDloeg",
-      "url": "https://www.youtube.com/watch?v=jXUM2JDloeg",
-      "thumbnail": "https://i.ytimg.com/vi/jXUM2JDloeg/mqdefault.jpg",
-      "published": "2026-10-16T21:17:17Z"
     },
     {
       "channel": "LH Benfica",
