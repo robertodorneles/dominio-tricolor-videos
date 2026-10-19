@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:00:35.441967+00:00",
+  "updated_at": "2026-10-19T00:00:36.293284+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X CRUZEIRO - [ DIRETO DA ARENA ]",
+      "videoId": "GEj6AZ1Ddb0",
+      "url": "https://www.youtube.com/watch?v=GEj6AZ1Ddb0",
+      "thumbnail": "https://i.ytimg.com/vi/GEj6AZ1Ddb0/mqdefault.jpg",
+      "published": "2026-10-18T23:53:28Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORINTHIANS X VITÓRIA",
       "videoId": "Y4GrddlfbUk",
       "url": "https://www.youtube.com/watch?v=Y4GrddlfbUk",
@@ -27,12 +35,12 @@
       "published": "2026-10-18T22:44:55Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "📰BAGÉTV NEWS #058",
-      "videoId": "wN2aPRLvJw8",
-      "url": "https://www.youtube.com/watch?v=wN2aPRLvJw8",
-      "thumbnail": "https://i.ytimg.com/vi/wN2aPRLvJw8/mqdefault_live.jpg",
-      "published": "2026-10-18T22:42:43Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨RENATO PEDIU PRA SAIR DO GRÊMIO! TÁ DESISTINDO? DIREÇÃO DESTRUIU O CLUBE! CAÍMOS! SÓ POR UM MILAGRE",
+      "videoId": "di2Ch3P_oyk",
+      "url": "https://www.youtube.com/watch?v=di2Ch3P_oyk",
+      "thumbnail": "https://i.ytimg.com/vi/di2Ch3P_oyk/mqdefault.jpg",
+      "published": "2026-10-18T23:12:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,20 +51,12 @@
       "published": "2026-10-18T14:23:51Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨AGORA SIM! GRANDE NOTÍCIA NO GRÊMIO! MUDANÇAS IMPORTANTES! RENATO CONFIANTE PRO JOGO! E O TIME!",
-      "videoId": "WTM41zswi1U",
-      "url": "https://www.youtube.com/watch?v=WTM41zswi1U",
-      "thumbnail": "https://i.ytimg.com/vi/WTM41zswi1U/mqdefault.jpg",
-      "published": "2026-10-17T23:46:14Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "GRÊMIO 2 X 4 CRUZEIRO: DERROTA VEXATÓRIA E AFUNDAMOS NO Z4",
       "videoId": "FK7gmUuqO0U",
       "url": "https://www.youtube.com/watch?v=FK7gmUuqO0U",
-      "thumbnail": "https://i.ytimg.com/vi/FK7gmUuqO0U/mqdefault_live.jpg",
-      "published": "2026-10-18T22:45:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/FK7gmUuqO0U/mqdefault.jpg",
+      "published": "2026-10-18T23:05:16Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "POS JOGO GREMIO X CRUZEIRO | ANALISE, COMENTARIOS | CLUBE TRICOLOR  #08",
+      "videoId": "wbdDtZxA0gQ",
+      "url": "https://www.youtube.com/watch?v=wbdDtZxA0gQ",
+      "thumbnail": "https://i.ytimg.com/vi/wbdDtZxA0gQ/mqdefault.jpg",
+      "published": "2026-10-18T23:09:14Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRÊMIO X CRUZEIRO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 18/10/2026",
       "videoId": "3g3gj6LSD0E",
       "url": "https://www.youtube.com/watch?v=3g3gj6LSD0E",
       "thumbnail": "https://i.ytimg.com/vi/3g3gj6LSD0E/mqdefault.jpg",
       "published": "2026-10-18T22:15:43Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "POS JOGO GREMIO X CRUZEIRO | ANALISE, COMENTARIOS | CLUBE TRICOLOR  #08",
-      "videoId": "wbdDtZxA0gQ",
-      "url": "https://www.youtube.com/watch?v=wbdDtZxA0gQ",
-      "thumbnail": "https://i.ytimg.com/vi/wbdDtZxA0gQ/mqdefault_live.jpg",
-      "published": "2026-10-18T22:04:34Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x CRUZEIRO DIRETO DA ARENA | BRASILEIRÃO | COLETIVAS | 18/10 #39",
       "videoId": "rGrIPSVoaf0",
       "url": "https://www.youtube.com/watch?v=rGrIPSVoaf0",
-      "thumbnail": "https://i.ytimg.com/vi/rGrIPSVoaf0/mqdefault_live.jpg",
-      "published": "2026-10-18T21:01:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/rGrIPSVoaf0/mqdefault.jpg",
+      "published": "2026-10-18T23:14:47Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE RENATO PORTALUPPI - TREINADOR DO GRÊMIO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | 18/10/26",
+      "videoId": "eInvKJ1rsV8",
+      "url": "https://www.youtube.com/watch?v=eInvKJ1rsV8",
+      "thumbnail": "https://i.ytimg.com/vi/eInvKJ1rsV8/mqdefault.jpg",
+      "published": "2026-10-18T23:24:37Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "“É ASSIM QUE SE FAZ UM GRUPO?” 👀 #gremio #tricolor #renatoportaluppi #cruzeiro #futebol",
       "videoId": "AkC8wWTl4jo",
       "url": "https://www.youtube.com/watch?v=AkC8wWTl4jo",
@@ -219,12 +227,12 @@
       "published": "2026-10-18T22:47:16Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "\"A CONTA CHEGA\" 🇪🇪 #gremio #tricolor #brasileirao #arenadogremio #renatoportaluppi",
-      "videoId": "Tn_ZofgE4ag",
-      "url": "https://www.youtube.com/watch?v=Tn_ZofgE4ag",
-      "thumbnail": "https://i.ytimg.com/vi/Tn_ZofgE4ag/mqdefault.jpg",
-      "published": "2026-10-18T22:36:46Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (4) CRUZEIRO | COLETIVA RENATO PORTALUPPI | JORNADA IMORTAL",
+      "videoId": "dHme4W5d0cU",
+      "url": "https://www.youtube.com/watch?v=dHme4W5d0cU",
+      "thumbnail": "https://i.ytimg.com/vi/dHme4W5d0cU/mqdefault.jpg",
+      "published": "2026-10-18T23:35:44Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=TCFYwj4IKDY",
       "thumbnail": "https://i.ytimg.com/vi/TCFYwj4IKDY/mqdefault.jpg",
       "published": "2026-10-18T22:19:19Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO CRITICA MONTAGEM DE ELENCO DO GRÊMIO",
-      "videoId": "61tbFkDh0MA",
-      "url": "https://www.youtube.com/watch?v=61tbFkDh0MA",
-      "thumbnail": "https://i.ytimg.com/vi/61tbFkDh0MA/mqdefault.jpg",
-      "published": "2026-10-18T22:17:54Z"
     }
   ]
 }
