@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:00:36.293284+00:00",
+  "updated_at": "2026-10-19T00:45:11.992791+00:00",
   "total": 30,
   "videos": [
     {
@@ -196,6 +196,14 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨RENATO ESTÁ SAINDO DO GRÊMIO!? | CAMINHO PAVIMENTADO PRA SÉRIE B | JOGO QUE DECIDE TUDO",
+      "videoId": "prReYKIG454",
+      "url": "https://www.youtube.com/watch?v=prReYKIG454",
+      "thumbnail": "https://i.ytimg.com/vi/prReYKIG454/mqdefault.jpg",
+      "published": "2026-10-19T00:07:21Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "A IMPORTANTE MUDANÇA QUE RENATO PODE FAZER PARA O JOGO DE HOJE",
       "videoId": "kAzhOW9lfMc",
       "url": "https://www.youtube.com/watch?v=kAzhOW9lfMc",
@@ -203,44 +211,36 @@
       "published": "2026-10-18T15:18:30Z"
     },
     {
-      "channel": "LH Benfica",
-      "title": "🚨ELE GANHA UMA NOVA CHANCE NO GRÊMIO | O GRANDE ERRO DA DIREÇÃO | RENATO VOLTA ATRÁS",
-      "videoId": "q8WhZuURIrw",
-      "url": "https://www.youtube.com/watch?v=q8WhZuURIrw",
-      "thumbnail": "https://i.ytimg.com/vi/q8WhZuURIrw/mqdefault.jpg",
-      "published": "2026-10-17T20:16:06Z"
+      "channel": "Radio Grenal",
+      "title": "JOGO COMPLETO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/26",
+      "videoId": "re0z55g5FPA",
+      "url": "https://www.youtube.com/watch?v=re0z55g5FPA",
+      "thumbnail": "https://i.ytimg.com/vi/re0z55g5FPA/mqdefault.jpg",
+      "published": "2026-10-19T00:28:04Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "COLETIVA DE RENATO PORTALUPPI - TREINADOR DO GRÊMIO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | 18/10/26",
-      "videoId": "eInvKJ1rsV8",
-      "url": "https://www.youtube.com/watch?v=eInvKJ1rsV8",
-      "thumbnail": "https://i.ytimg.com/vi/eInvKJ1rsV8/mqdefault.jpg",
-      "published": "2026-10-18T23:24:37Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "“É ASSIM QUE SE FAZ UM GRUPO?” 👀 #gremio #tricolor #renatoportaluppi #cruzeiro #futebol",
-      "videoId": "AkC8wWTl4jo",
-      "url": "https://www.youtube.com/watch?v=AkC8wWTl4jo",
-      "thumbnail": "https://i.ytimg.com/vi/AkC8wWTl4jo/mqdefault.jpg",
-      "published": "2026-10-18T22:47:16Z"
+      "title": "JOGO COMPLETO | GRÊMIO 2 X 4 CRUZEIRO | BRASILEIRÃO | RÁDIO GRENAL | 18/10/26",
+      "videoId": "d_8183gMQ7Y",
+      "url": "https://www.youtube.com/watch?v=d_8183gMQ7Y",
+      "thumbnail": "https://i.ytimg.com/vi/d_8183gMQ7Y/mqdefault_live.jpg",
+      "published": "2026-10-19T00:11:04Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PÓS-JOGO GRÊMIO (2) X (4) CRUZEIRO | COLETIVA RENATO PORTALUPPI | JORNADA IMORTAL",
-      "videoId": "dHme4W5d0cU",
-      "url": "https://www.youtube.com/watch?v=dHme4W5d0cU",
-      "thumbnail": "https://i.ytimg.com/vi/dHme4W5d0cU/mqdefault.jpg",
-      "published": "2026-10-18T23:35:44Z"
+      "title": "GRÊMIO A PASSOS LARGOS PARA O REBAIXAMENTO | COMO É BOM SER DO GRÊMIO #66",
+      "videoId": "usE-XjRBy2o",
+      "url": "https://www.youtube.com/watch?v=usE-XjRBy2o",
+      "thumbnail": "https://i.ytimg.com/vi/usE-XjRBy2o/mqdefault_live.jpg",
+      "published": "2026-10-19T00:37:46Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "RENATO REVELA QUE JOGADOR DO GRÊMIO CHEGOU 9 KG ACIMA DO PESO",
-      "videoId": "TCFYwj4IKDY",
-      "url": "https://www.youtube.com/watch?v=TCFYwj4IKDY",
-      "thumbnail": "https://i.ytimg.com/vi/TCFYwj4IKDY/mqdefault.jpg",
-      "published": "2026-10-18T22:19:19Z"
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X GRAMADENSE | COPA GRAMADO LAGHETTO SUB-16",
+      "videoId": "LTXorVUzY6g",
+      "url": "https://www.youtube.com/watch?v=LTXorVUzY6g",
+      "thumbnail": "https://i.ytimg.com/vi/LTXorVUzY6g/mqdefault_live.jpg",
+      "published": "2026-10-19T00:30:00Z"
     }
   ]
 }
