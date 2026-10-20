@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:00:33.305883+00:00",
+  "updated_at": "2026-10-20T02:00:35.989035+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "jXXvPWdvAjA",
       "url": "https://www.youtube.com/watch?v=jXXvPWdvAjA",
       "thumbnail": "https://i.ytimg.com/vi/jXXvPWdvAjA/mqdefault_live.jpg",
-      "published": "2026-10-20T00:18:08Z"
+      "published": "2026-10-20T01:15:15Z"
     },
     {
       "channel": "A Dupla",
@@ -20,6 +20,14 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORINTHIANS X VITÓRIA",
+      "videoId": "Y4GrddlfbUk",
+      "url": "https://www.youtube.com/watch?v=Y4GrddlfbUk",
+      "thumbnail": "https://i.ytimg.com/vi/Y4GrddlfbUk/mqdefault.jpg",
+      "published": "2026-10-20T01:32:12Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO PERDE E SE AFUNDA NO Z4, INTER TEM DESFALQUES IMPORTANTES📰BAGÉTV NEWS #058",
       "videoId": "wN2aPRLvJw8",
       "url": "https://www.youtube.com/watch?v=wN2aPRLvJw8",
@@ -27,12 +35,12 @@
       "published": "2026-10-19T22:45:53Z"
     },
     {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORINTHIANS X VITÓRIA",
-      "videoId": "Y4GrddlfbUk",
-      "url": "https://www.youtube.com/watch?v=Y4GrddlfbUk",
-      "thumbnail": "https://i.ytimg.com/vi/Y4GrddlfbUk/mqdefault_live.jpg",
-      "published": "2026-10-19T22:29:36Z"
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨GRANDE NOTÍCIA PRO GRÊMIO! A ESPERANÇA TÁ RENOVADA! O MILAGRE QUE PRECISAMOS! PODEMOS SONHAR!",
+      "videoId": "Psz_yraxYnk",
+      "url": "https://www.youtube.com/watch?v=Psz_yraxYnk",
+      "thumbnail": "https://i.ytimg.com/vi/Psz_yraxYnk/mqdefault.jpg",
+      "published": "2026-10-20T01:46:03Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -43,20 +51,12 @@
       "published": "2026-10-19T21:18:08Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨DISCUSSÃO FORTE! NÃO GOSTOU E REVIDOU | OS CULPADOS ESTÃO ESCONDIDOS E O GRÊMIO TÁ CAINDO!",
-      "videoId": "044FL2ylJwQ",
-      "url": "https://www.youtube.com/watch?v=044FL2ylJwQ",
-      "thumbnail": "https://i.ytimg.com/vi/044FL2ylJwQ/mqdefault.jpg",
-      "published": "2026-10-19T14:45:44Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "PAPO DE GREMISTA PARA GREMISTA - GRÊMIO AFUNDA NO Z4",
       "videoId": "k9aoOHJAdhQ",
       "url": "https://www.youtube.com/watch?v=k9aoOHJAdhQ",
-      "thumbnail": "https://i.ytimg.com/vi/k9aoOHJAdhQ/mqdefault_live.jpg",
-      "published": "2026-10-20T00:00:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/k9aoOHJAdhQ/mqdefault.jpg",
+      "published": "2026-10-20T01:41:30Z"
     },
     {
       "channel": "Canal do CCD",
@@ -68,11 +68,11 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRÊMIO VIVE PESADELO NOS BASTIDORES",
-      "videoId": "RLFm8gdTaJg",
-      "url": "https://www.youtube.com/watch?v=RLFm8gdTaJg",
-      "thumbnail": "https://i.ytimg.com/vi/RLFm8gdTaJg/mqdefault.jpg",
-      "published": "2026-10-20T00:12:03Z"
+      "title": "ACORDA, GRÊMIO! #041",
+      "videoId": "WrUcU8BptIE",
+      "url": "https://www.youtube.com/watch?v=WrUcU8BptIE",
+      "thumbnail": "https://i.ytimg.com/vi/WrUcU8BptIE/mqdefault.jpg",
+      "published": "2026-10-20T01:25:30Z"
     },
     {
       "channel": "Canal do Farid",
@@ -80,7 +80,7 @@
       "videoId": "oExxDKibZPs",
       "url": "https://www.youtube.com/watch?v=oExxDKibZPs",
       "thumbnail": "https://i.ytimg.com/vi/oExxDKibZPs/mqdefault_live.jpg",
-      "published": "2026-10-20T00:03:03Z"
+      "published": "2026-10-20T01:09:22Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "MILAGRE DA NOITE: GRÊMIO VIVO | TERMINA A REUNIÃO NA ARENA: RESULTADO.",
+      "videoId": "wXyIkirG1KM",
+      "url": "https://www.youtube.com/watch?v=wXyIkirG1KM",
+      "thumbnail": "https://i.ytimg.com/vi/wXyIkirG1KM/mqdefault.jpg",
+      "published": "2026-10-20T01:53:21Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "ONDE ESTÃO? O QUE VÃO FAZER | PREJUÍZO DO GRÊMIO NA SÉRIE B: VALOR!",
       "videoId": "4xOH6u44a_M",
       "url": "https://www.youtube.com/watch?v=4xOH6u44a_M",
       "thumbnail": "https://i.ytimg.com/vi/4xOH6u44a_M/mqdefault.jpg",
       "published": "2026-10-19T15:34:41Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "PILOTO AUTOMÁTICO RUMO A SÉRIE B? #gremio #futebol #brasileirao",
-      "videoId": "op2LagaLNFE",
-      "url": "https://www.youtube.com/watch?v=op2LagaLNFE",
-      "thumbnail": "https://i.ytimg.com/vi/op2LagaLNFE/mqdefault.jpg",
-      "published": "2026-10-18T22:52:39Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "A SITUAÇÃO DO GRÊMIO APÓS O TÉRMINO DA RODADA 31 | NOITES DE GRÊMIO #168 - 19/10",
+      "videoId": "LSYPCdL1bWo",
+      "url": "https://www.youtube.com/watch?v=LSYPCdL1bWo",
+      "thumbnail": "https://i.ytimg.com/vi/LSYPCdL1bWo/mqdefault_live.jpg",
+      "published": "2026-10-20T01:05:48Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X BAHIA | COPA GRAMADO LAGHETTO SUB-16",
       "videoId": "5CDNA-z9ROQ",
       "url": "https://www.youtube.com/watch?v=5CDNA-z9ROQ",
       "thumbnail": "https://i.ytimg.com/vi/5CDNA-z9ROQ/mqdefault_live.jpg",
       "published": "2026-10-20T00:35:37Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #67",
-      "videoId": "QJZvmY2sO7Q",
-      "url": "https://www.youtube.com/watch?v=QJZvmY2sO7Q",
-      "thumbnail": "https://i.ytimg.com/vi/QJZvmY2sO7Q/mqdefault_live.jpg",
-      "published": "2026-10-20T00:18:58Z"
     }
   ]
 }
