@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:00:40.474146+00:00",
+  "updated_at": "2026-10-20T22:02:56.386461+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 20/10/2026",
+      "videoId": "SQU0Gbx7u-g",
+      "url": "https://www.youtube.com/watch?v=SQU0Gbx7u-g",
+      "thumbnail": "https://i.ytimg.com/vi/SQU0Gbx7u-g/mqdefault_live.jpg",
+      "published": "2026-10-20T22:01:03Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #38",
       "videoId": "Ka5nK-Q7CJM",
       "url": "https://www.youtube.com/watch?v=Ka5nK-Q7CJM",
       "thumbnail": "https://i.ytimg.com/vi/Ka5nK-Q7CJM/mqdefault_live.jpg",
       "published": "2026-10-20T17:16:36Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | GREMIO RESPIRA POR APARELHOS | DIRETORIA, JOGADORES, RENATO ?? |  CLUBE TRICOLOR #09",
-      "videoId": "oExxDKibZPs",
-      "url": "https://www.youtube.com/watch?v=oExxDKibZPs",
-      "thumbnail": "https://i.ytimg.com/vi/oExxDKibZPs/mqdefault.jpg",
-      "published": "2026-10-20T15:16:05Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "GRÊMIO 2 x 4 CRUZEIRO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO | RÁDIO GRENAL",
-      "videoId": "dnPq4c4Vpj0",
-      "url": "https://www.youtube.com/watch?v=dnPq4c4Vpj0",
-      "thumbnail": "https://i.ytimg.com/vi/dnPq4c4Vpj0/mqdefault.jpg",
-      "published": "2026-10-20T21:20:20Z"
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 20/10/2026",
+      "videoId": "gyQXnmuwxlw",
+      "url": "https://www.youtube.com/watch?v=gyQXnmuwxlw",
+      "thumbnail": "https://i.ytimg.com/vi/gyQXnmuwxlw/mqdefault_live.jpg",
+      "published": "2026-10-20T22:02:16Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 20/10/2026",
+      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 20/10/2026",
       "videoId": "_ZIv5lRkTTw",
       "url": "https://www.youtube.com/watch?v=_ZIv5lRkTTw",
       "thumbnail": "https://i.ytimg.com/vi/_ZIv5lRkTTw/mqdefault_live.jpg",
-      "published": "2026-10-20T11:03:19Z"
+      "published": "2026-10-20T22:01:47Z"
     },
     {
       "channel": "Radio Imortal",
