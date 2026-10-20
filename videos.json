@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:00:37.878832+00:00",
+  "updated_at": "2026-10-20T18:52:41.621732+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "channel": "Bage TV",
-      "title": "CALEFFI PODE VOLTAR AO GRÊMIO? BANCADA DEBATE POSSIBILIDADE #CORTESDOFAG",
-      "videoId": "kFcaBQlIyLA",
-      "url": "https://www.youtube.com/watch?v=kFcaBQlIyLA",
-      "thumbnail": "https://i.ytimg.com/vi/kFcaBQlIyLA/mqdefault.jpg",
-      "published": "2026-10-20T17:30:54Z"
+      "title": "GRÊMIO VAI DESISTIR DA COPA DO BRASIL? 🔹 THE TARDE 🔹#244",
+      "videoId": "dj4v3wAh0TY",
+      "url": "https://www.youtube.com/watch?v=dj4v3wAh0TY",
+      "thumbnail": "https://i.ytimg.com/vi/dj4v3wAh0TY/mqdefault_live.jpg",
+      "published": "2026-10-20T18:31:38Z"
     },
     {
       "channel": "Bage TV",
@@ -32,7 +32,15 @@
       "videoId": "BGa4_B8U0Ag",
       "url": "https://www.youtube.com/watch?v=BGa4_B8U0Ag",
       "thumbnail": "https://i.ytimg.com/vi/BGa4_B8U0Ag/mqdefault_live.jpg",
-      "published": "2026-10-20T16:31:23Z"
+      "published": "2026-10-20T18:06:49Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
+      "title": "🚨BRIGA ENTRE ATLETAS E CLIMA QUENTE NO VESTIÁRIO DO GRÊMIO | SAÍDAS DEBATIDAS | AS CONTAS PRA FICAR!",
+      "videoId": "D-_l2mr3tUk",
+      "url": "https://www.youtube.com/watch?v=D-_l2mr3tUk",
+      "thumbnail": "https://i.ytimg.com/vi/D-_l2mr3tUk/mqdefault.jpg",
+      "published": "2026-10-20T18:28:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -41,14 +49,6 @@
       "url": "https://www.youtube.com/watch?v=Psz_yraxYnk",
       "thumbnail": "https://i.ytimg.com/vi/Psz_yraxYnk/mqdefault.jpg",
       "published": "2026-10-20T01:46:03Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨ESQUENTOU O CLIMA! TROCA DE SOCOS | SAÍDAS EM PAUTA NO GRÊMIO | “DENÚNCIA NO EXTERIOR” | O PESADO",
-      "videoId": "jdhSsbABSJg",
-      "url": "https://www.youtube.com/watch?v=jdhSsbABSJg",
-      "thumbnail": "https://i.ytimg.com/vi/jdhSsbABSJg/mqdefault.jpg",
-      "published": "2026-10-19T21:18:08Z"
     },
     {
       "channel": "Canal do CCD",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Multas de pedágios free flow, mulher morta em Sapucaia, trânsito e mais | Gaúcha+ | 20/10/2026",
+      "videoId": "VHnnRf4oW7w",
+      "url": "https://www.youtube.com/watch?v=VHnnRf4oW7w",
+      "thumbnail": "https://i.ytimg.com/vi/VHnnRf4oW7w/mqdefault_live.jpg",
+      "published": "2026-10-20T18:01:12Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "SEM LUCRO? Entenda por que a IA ainda não aparece no balanço das empresas | Radar de Inovação",
       "videoId": "0eTdq4h8OPk",
       "url": "https://www.youtube.com/watch?v=0eTdq4h8OPk",
       "thumbnail": "https://i.ytimg.com/vi/0eTdq4h8OPk/mqdefault.jpg",
       "published": "2026-10-20T18:00:11Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Pesquisa Real Time Big Data mostra Flávio Bolsonaro com 52% e Lula 48% no 2º turno | Sala de Eleição",
-      "videoId": "1mNOY4ylngQ",
-      "url": "https://www.youtube.com/watch?v=1mNOY4ylngQ",
-      "thumbnail": "https://i.ytimg.com/vi/1mNOY4ylngQ/mqdefault.jpg",
-      "published": "2026-10-20T17:45:26Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 20/10/2026",
+      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 20/10/2026",
       "videoId": "_ZIv5lRkTTw",
       "url": "https://www.youtube.com/watch?v=_ZIv5lRkTTw",
       "thumbnail": "https://i.ytimg.com/vi/_ZIv5lRkTTw/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO SE REAPRESENTA AGORA | \"OPERAÇÃO CORITIBA\" É PLANEJADA | PROTESTOS E TABELA | ESPLANADA",
+      "videoId": "eeXABm40GAs",
+      "url": "https://www.youtube.com/watch?v=eeXABm40GAs",
+      "thumbnail": "https://i.ytimg.com/vi/eeXABm40GAs/mqdefault_live.jpg",
+      "published": "2026-10-20T18:32:14Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X BAHIA | COPA GRAMADO LAGHETTO SUB-16",
       "videoId": "5CDNA-z9ROQ",
       "url": "https://www.youtube.com/watch?v=5CDNA-z9ROQ",
       "thumbnail": "https://i.ytimg.com/vi/5CDNA-z9ROQ/mqdefault_live.jpg",
       "published": "2026-10-20T15:43:05Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "COMO É BOM SER DO GRÊMIO #67",
-      "videoId": "QJZvmY2sO7Q",
-      "url": "https://www.youtube.com/watch?v=QJZvmY2sO7Q",
-      "thumbnail": "https://i.ytimg.com/vi/QJZvmY2sO7Q/mqdefault.jpg",
-      "published": "2026-10-20T14:38:29Z"
     }
   ]
 }
