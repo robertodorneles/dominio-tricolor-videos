@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-20T00:00:38.814304+00:00",
+  "updated_at": "2026-10-20T00:53:24.792300+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  COMO FICA O BRASILEIRÃO AGORA? | OS REBAIXAMENTOS DE GRÊMIO E INTER",
+      "videoId": "jXXvPWdvAjA",
+      "url": "https://www.youtube.com/watch?v=jXXvPWdvAjA",
+      "thumbnail": "https://i.ytimg.com/vi/jXXvPWdvAjA/mqdefault_live.jpg",
+      "published": "2026-10-20T00:18:08Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio:  VEJA COMO A DEFESA DEIXA OS ESPAÇOS | VAMOS ANALISAR O COMPORTAMENTO DEFENSIVO DO TIME",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ElXsI5D5yvI",
       "thumbnail": "https://i.ytimg.com/vi/ElXsI5D5yvI/mqdefault.jpg",
       "published": "2026-10-19T20:00:21Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Inter: 🔥 DIREÇÃO TOMOU ATITUDE DRÁSTICA | CORRIGEM ERRO DE 25 | VAI FUNCIONAR?",
-      "videoId": "TiegsGGKfRo",
-      "url": "https://www.youtube.com/watch?v=TiegsGGKfRo",
-      "thumbnail": "https://i.ytimg.com/vi/TiegsGGKfRo/mqdefault.jpg",
-      "published": "2026-10-19T17:17:13Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "PAPO DE GREMISTA PARA GREMISTA - GRÊMIO AFUNDA NO Z4",
+      "videoId": "k9aoOHJAdhQ",
+      "url": "https://www.youtube.com/watch?v=k9aoOHJAdhQ",
+      "thumbnail": "https://i.ytimg.com/vi/k9aoOHJAdhQ/mqdefault_live.jpg",
+      "published": "2026-10-20T00:00:57Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #707: Situação de Renato | Retorno ao time | Mudanças no futebol? | Vestiário e +",
       "videoId": "G7tqwjjIdJE",
       "url": "https://www.youtube.com/watch?v=G7tqwjjIdJE",
@@ -59,28 +67,20 @@
       "published": "2026-10-19T21:33:53Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "A situação do Grêmio cada vez pior… o que fazer agora?",
-      "videoId": "GY79RwH7BpA",
-      "url": "https://www.youtube.com/watch?v=GY79RwH7BpA",
-      "thumbnail": "https://i.ytimg.com/vi/GY79RwH7BpA/mqdefault.jpg",
-      "published": "2026-10-19T12:41:47Z"
+      "channel": "Canal do Farid",
+      "title": "GRÊMIO VIVE PESADELO NOS BASTIDORES",
+      "videoId": "RLFm8gdTaJg",
+      "url": "https://www.youtube.com/watch?v=RLFm8gdTaJg",
+      "thumbnail": "https://i.ytimg.com/vi/RLFm8gdTaJg/mqdefault.jpg",
+      "published": "2026-10-20T00:12:03Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 19/10/2026",
-      "videoId": "dYSA5L2IWu4",
-      "url": "https://www.youtube.com/watch?v=dYSA5L2IWu4",
-      "thumbnail": "https://i.ytimg.com/vi/dYSA5L2IWu4/mqdefault.jpg",
-      "published": "2026-10-19T23:15:48Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #37",
-      "videoId": "yTsZwVrssUg",
-      "url": "https://www.youtube.com/watch?v=yTsZwVrssUg",
-      "thumbnail": "https://i.ytimg.com/vi/yTsZwVrssUg/mqdefault_live.jpg",
-      "published": "2026-10-19T17:10:32Z"
+      "title": "AO VIVO | GREMIO RESPIRA POR APARELHOS | DIRETORIA, JOGADORES, RENATO ?? |  CLUBE TRICOLOR #09",
+      "videoId": "oExxDKibZPs",
+      "url": "https://www.youtube.com/watch?v=oExxDKibZPs",
+      "thumbnail": "https://i.ytimg.com/vi/oExxDKibZPs/mqdefault_live.jpg",
+      "published": "2026-10-20T00:03:03Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "MUDANÇAS NA DIRETORIA DO GRÊMIO? | DERROTA E CLIMA DE VELÓRIO | SITUAÇÃO NA TABELA | IMORTAL FC",
-      "videoId": "2OFXl0uB6SM",
-      "url": "https://www.youtube.com/watch?v=2OFXl0uB6SM",
-      "thumbnail": "https://i.ytimg.com/vi/2OFXl0uB6SM/mqdefault.jpg",
-      "published": "2026-10-19T22:21:51Z"
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X BAHIA | COPA GRAMADO LAGHETTO SUB-16",
+      "videoId": "5CDNA-z9ROQ",
+      "url": "https://www.youtube.com/watch?v=5CDNA-z9ROQ",
+      "thumbnail": "https://i.ytimg.com/vi/5CDNA-z9ROQ/mqdefault_live.jpg",
+      "published": "2026-10-20T00:35:37Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "CABEÇAS VÃO ROLAR? | REPERCUSSÕES DA DERROTA DO GRÊMIO | DIA DE FOLGA PARA O ELENCO | ESPLANADA",
-      "videoId": "Bcm2bx1qTOM",
-      "url": "https://www.youtube.com/watch?v=Bcm2bx1qTOM",
-      "thumbnail": "https://i.ytimg.com/vi/Bcm2bx1qTOM/mqdefault.jpg",
-      "published": "2026-10-19T19:46:04Z"
+      "title": "COMO É BOM SER DO GRÊMIO #67",
+      "videoId": "QJZvmY2sO7Q",
+      "url": "https://www.youtube.com/watch?v=QJZvmY2sO7Q",
+      "thumbnail": "https://i.ytimg.com/vi/QJZvmY2sO7Q/mqdefault_live.jpg",
+      "published": "2026-10-20T00:18:58Z"
     }
   ]
 }
