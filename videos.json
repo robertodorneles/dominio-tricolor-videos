@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T01:00:46.289294+00:00",
+  "updated_at": "2026-10-21T01:14:05.713872+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "UM SOLITÁRIO TORCEDOR FEZ O PROTESTO NA FRENTE DO CT DO GRÊMIO #futebol #brasileirao #gremio",
+      "videoId": "f0B2ndEPfTg",
+      "url": "https://www.youtube.com/watch?v=f0B2ndEPfTg",
+      "thumbnail": "https://i.ytimg.com/vi/f0B2ndEPfTg/mqdefault.jpg",
+      "published": "2026-10-21T01:06:23Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PRÊMIO PRA NÃO CAIR! 😱🤬 | CELSO RIGO NO CT | INGRESSO E ÔNIBUS PARA TORCIDA DO GRÊMIO !",
       "videoId": "TIbVl0GoELE",
       "url": "https://www.youtube.com/watch?v=TIbVl0GoELE",
       "thumbnail": "https://i.ytimg.com/vi/TIbVl0GoELE/mqdefault.jpg",
       "published": "2026-10-20T22:40:10Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "QUEM FALA? CADÊ OS ÔNIBUS? #gremio #futebol",
-      "videoId": "KWgSjp8n1b8",
-      "url": "https://www.youtube.com/watch?v=KWgSjp8n1b8",
-      "thumbnail": "https://i.ytimg.com/vi/KWgSjp8n1b8/mqdefault.jpg",
-      "published": "2026-10-20T17:28:37Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA PARTE 2 | RÁDIO GRENAL | 20/10/2026",
+      "videoId": "gyQXnmuwxlw",
+      "url": "https://www.youtube.com/watch?v=gyQXnmuwxlw",
+      "thumbnail": "https://i.ytimg.com/vi/gyQXnmuwxlw/mqdefault.jpg",
+      "published": "2026-10-21T01:10:20Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 20/10/2026",
       "videoId": "_ZIv5lRkTTw",
       "url": "https://www.youtube.com/watch?v=_ZIv5lRkTTw",
       "thumbnail": "https://i.ytimg.com/vi/_ZIv5lRkTTw/mqdefault.jpg",
       "published": "2026-10-20T22:33:39Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 20/10/2026",
-      "videoId": "gyQXnmuwxlw",
-      "url": "https://www.youtube.com/watch?v=gyQXnmuwxlw",
-      "thumbnail": "https://i.ytimg.com/vi/gyQXnmuwxlw/mqdefault_live.jpg",
-      "published": "2026-10-20T22:02:30Z"
     },
     {
       "channel": "Radio Imortal",
