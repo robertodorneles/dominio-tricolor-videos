@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-21T20:00:43.704467+00:00",
+  "updated_at": "2026-10-21T21:00:48.878730+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 CANDIDATOS FARÃO ESFORÇO POR VOLANTE | MODELO DO NEGÓCIO! | VAI TER QUE COMPRAR!",
+      "videoId": "8CWLQjxLG6s",
+      "url": "https://www.youtube.com/watch?v=8CWLQjxLG6s",
+      "thumbnail": "https://i.ytimg.com/vi/8CWLQjxLG6s/mqdefault.jpg",
+      "published": "2026-10-21T20:23:40Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫ Grêmio: RENATO ESTÁ CADA VEZ MAIS ISOLADO! Bastidores revelam distanciamento da direção!",
@@ -11,28 +19,20 @@
       "published": "2026-10-21T20:00:05Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 PASSOU DO LIMITE | ADVERSARIOS EM EBULIÇÃO | NOTÍCIA BOA NO TREINO",
-      "videoId": "tnqyY6qIE84",
-      "url": "https://www.youtube.com/watch?v=tnqyY6qIE84",
-      "thumbnail": "https://i.ytimg.com/vi/tnqyY6qIE84/mqdefault.jpg",
-      "published": "2026-10-21T06:13:20Z"
+      "channel": "Bage TV",
+      "title": "BICHO MILIONÁRIO PARA O GRÊMIO! INTER PASSA DO 1 BILHÃO DE DÍVIDAS📰BAGÉTV NEWS #060",
+      "videoId": "mwY2hGveKS8",
+      "url": "https://www.youtube.com/watch?v=mwY2hGveKS8",
+      "thumbnail": "https://i.ytimg.com/vi/mwY2hGveKS8/mqdefault.jpg?v=6ad7ecaf",
+      "published": "2026-10-21T20:34:46Z"
     },
     {
       "channel": "Bage TV",
       "title": "WALLACE DEVE SER REFORÇO CONTRA O CORITIBA🔹 THE TARDE 🔹#245",
       "videoId": "EpwdSow5l-Q",
       "url": "https://www.youtube.com/watch?v=EpwdSow5l-Q",
-      "thumbnail": "https://i.ytimg.com/vi/EpwdSow5l-Q/mqdefault_live.jpg",
-      "published": "2026-10-21T19:48:45Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "UM CEBOLINHA PARA NÃO CAIR",
-      "videoId": "vt_9Qjq9D54",
-      "url": "https://www.youtube.com/watch?v=vt_9Qjq9D54",
-      "thumbnail": "https://i.ytimg.com/vi/vt_9Qjq9D54/mqdefault.jpg",
-      "published": "2026-10-21T19:47:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/EpwdSow5l-Q/mqdefault.jpg",
+      "published": "2026-10-21T20:00:32Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #39",
-      "videoId": "q9onsr5pS4I",
-      "url": "https://www.youtube.com/watch?v=q9onsr5pS4I",
-      "thumbnail": "https://i.ytimg.com/vi/q9onsr5pS4I/mqdefault_live.jpg",
-      "published": "2026-10-21T17:14:52Z"
+      "title": "AO VIVO - CLUBE TRICOLOR",
+      "videoId": "5QeCSuCBCa8",
+      "url": "https://www.youtube.com/watch?v=5QeCSuCBCa8",
+      "thumbnail": "https://i.ytimg.com/vi/5QeCSuCBCa8/mqdefault.jpg?v=6ad92652",
+      "published": "2026-10-21T20:53:36Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 21/10/2026",
-      "videoId": "QkRdddD2aYQ",
-      "url": "https://www.youtube.com/watch?v=QkRdddD2aYQ",
-      "thumbnail": "https://i.ytimg.com/vi/QkRdddD2aYQ/mqdefault_live.jpg",
-      "published": "2026-10-21T12:51:12Z"
+      "title": "GRENAL SHOW - #39",
+      "videoId": "q9onsr5pS4I",
+      "url": "https://www.youtube.com/watch?v=q9onsr5pS4I",
+      "thumbnail": "https://i.ytimg.com/vi/q9onsr5pS4I/mqdefault.jpg?v=6ad8c67d",
+      "published": "2026-10-21T17:14:52Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -119,7 +119,7 @@
       "title": "(AO VIVO) PÓS-JOGO DE CORITIBA x GRÊMIO DIRETO DO COUTO PEREIRA | BRASILEIRÃO | COLETIVA | 26/10 #40",
       "videoId": "FjHAYA5puSE",
       "url": "https://www.youtube.com/watch?v=FjHAYA5puSE",
-      "thumbnail": "https://i.ytimg.com/vi/FjHAYA5puSE/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/FjHAYA5puSE/mqdefault.jpg?v=6ad8d54d",
       "published": "2026-10-21T15:07:55Z"
     },
     {
@@ -127,32 +127,32 @@
       "title": "(AO VIVO) PRÉ-JOGO DE CORITIBA x GRÊMIO DIRETO DO COUTO PEREIRA | BRASILEIRÃO 2026 | 26/10 #23",
       "videoId": "q4627ELEqBU",
       "url": "https://www.youtube.com/watch?v=q4627ELEqBU",
-      "thumbnail": "https://i.ytimg.com/vi/q4627ELEqBU/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/q4627ELEqBU/mqdefault.jpg?v=6ad8d491",
       "published": "2026-10-21T15:04:46Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "BASTIDORES DA DEMISSÃO NA GLOBONEWS - JORNALISTA ESCLARECE TUDO | Cortes do Duda",
+      "videoId": "YHzAKvOGTHY",
+      "url": "https://www.youtube.com/watch?v=YHzAKvOGTHY",
+      "thumbnail": "https://i.ytimg.com/vi/YHzAKvOGTHY/mqdefault.jpg",
+      "published": "2026-10-21T21:00:07Z"
     },
     {
       "channel": "Duda Garbi",
       "title": "Hospício - 23/10",
       "videoId": "hMtpOPXIpMo",
       "url": "https://www.youtube.com/watch?v=hMtpOPXIpMo",
-      "thumbnail": "https://i.ytimg.com/vi/hMtpOPXIpMo/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/hMtpOPXIpMo/mqdefault.jpg?v=6ad8c384",
       "published": "2026-10-21T13:52:02Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Hospício - 22/10",
-      "videoId": "g_7UNul3yoI",
-      "url": "https://www.youtube.com/watch?v=g_7UNul3yoI",
-      "thumbnail": "https://i.ytimg.com/vi/g_7UNul3yoI/mqdefault_live.jpg",
-      "published": "2026-10-21T13:51:02Z"
     },
     {
       "channel": "GremioTV Oficial",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I SUB-17 I 2026)",
       "videoId": "ZEzHLRSDk4g",
       "url": "https://www.youtube.com/watch?v=ZEzHLRSDk4g",
-      "thumbnail": "https://i.ytimg.com/vi/ZEzHLRSDk4g/mqdefault_live.jpg",
-      "published": "2026-10-21T17:48:01Z"
+      "thumbnail": "https://i.ytimg.com/vi/ZEzHLRSDk4g/mqdefault.jpg",
+      "published": "2026-10-21T20:08:13Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "LULA x FLÁVIO: o que está em jogo no segundo turno? | Conversas Cruzadas | 21/10/2026",
+      "videoId": "5IE1jGUp7bA",
+      "url": "https://www.youtube.com/watch?v=5IE1jGUp7bA",
+      "thumbnail": "https://i.ytimg.com/vi/5IE1jGUp7bA/mqdefault.jpg?v=6ad909ec",
+      "published": "2026-10-21T20:34:10Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Quem é Malévola Alves, influenciadora brasileira detida no Egito por suposto comportamento obsceno",
       "videoId": "5wRFon1ap3k",
       "url": "https://www.youtube.com/watch?v=5wRFon1ap3k",
       "thumbnail": "https://i.ytimg.com/vi/5wRFon1ap3k/mqdefault.jpg",
       "published": "2026-10-21T19:47:05Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Programa confere as atrações da Mercopar, novo aeroporto em Caxias e mais | Gaúcha+ | 21/10/2026",
-      "videoId": "OVxrPNAaWuU",
-      "url": "https://www.youtube.com/watch?v=OVxrPNAaWuU",
-      "thumbnail": "https://i.ytimg.com/vi/OVxrPNAaWuU/mqdefault_live.jpg",
-      "published": "2026-10-21T19:31:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -223,7 +223,7 @@
       "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 21/10/2026",
       "videoId": "vX_hqVNjzPM",
       "url": "https://www.youtube.com/watch?v=vX_hqVNjzPM",
-      "thumbnail": "https://i.ytimg.com/vi/vX_hqVNjzPM/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/vX_hqVNjzPM/mqdefault.jpg?v=6ad8fde2",
       "published": "2026-10-21T11:00:39Z"
     },
     {
@@ -231,15 +231,15 @@
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X FLAMENGO | SEMIFINAL DA COPA GRAMADO LAGHETTO SUB-16",
       "videoId": "zogQiRmxP1g",
       "url": "https://www.youtube.com/watch?v=zogQiRmxP1g",
-      "thumbnail": "https://i.ytimg.com/vi/zogQiRmxP1g/mqdefault_live.jpg",
-      "published": "2026-10-21T18:32:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/zogQiRmxP1g/mqdefault.jpg",
+      "published": "2026-10-21T20:46:24Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "GRÊMIO FARÁ NOVO TESTE NESTA QUINTA-FEIRA | KANNEMANN DENUNCIADO | RENOVAÇÃO DE JOVEM | IMORTAL FC",
       "videoId": "jF6Rn80YUFU",
       "url": "https://www.youtube.com/watch?v=jF6Rn80YUFU",
-      "thumbnail": "https://i.ytimg.com/vi/jF6Rn80YUFU/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/jF6Rn80YUFU/mqdefault.jpg?v=6ad8fda1",
       "published": "2026-10-21T17:59:59Z"
     }
   ]
