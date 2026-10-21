@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-21T19:05:15.222224+00:00",
+  "updated_at": "2026-10-21T20:00:43.704467+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫ Grêmio: RENATO ESTÁ CADA VEZ MAIS ISOLADO! Bastidores revelam distanciamento da direção!",
+      "videoId": "8v5kA_UWsHw",
+      "url": "https://www.youtube.com/watch?v=8v5kA_UWsHw",
+      "thumbnail": "https://i.ytimg.com/vi/8v5kA_UWsHw/mqdefault.jpg",
+      "published": "2026-10-21T20:00:05Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 PASSOU DO LIMITE | ADVERSARIOS EM EBULIÇÃO | NOTÍCIA BOA NO TREINO",
@@ -11,28 +19,20 @@
       "published": "2026-10-21T06:13:20Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: RENATO PERDEU A PACIÊNCIA! Pedido de desculpas, resposta de Castro e uma baixa!",
-      "videoId": "r0j9lTRh6OY",
-      "url": "https://www.youtube.com/watch?v=r0j9lTRh6OY",
-      "thumbnail": "https://i.ytimg.com/vi/r0j9lTRh6OY/mqdefault.jpg",
-      "published": "2026-10-21T06:00:03Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CADÊ O CEO DO GRÊMIO? INTER PRECISA DE CAMPANHA DE G-4 PARA ESCAPAR!🔸RESENHA FORA DA SALA🔸#157",
-      "videoId": "lDDnR8pcZHM",
-      "url": "https://www.youtube.com/watch?v=lDDnR8pcZHM",
-      "thumbnail": "https://i.ytimg.com/vi/lDDnR8pcZHM/mqdefault.jpg",
-      "published": "2026-10-21T19:04:54Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "WALLACE DEVE SER REFORÇO CONTRA O CORITIBA🔹 THE TARDE 🔹#245",
       "videoId": "EpwdSow5l-Q",
       "url": "https://www.youtube.com/watch?v=EpwdSow5l-Q",
       "thumbnail": "https://i.ytimg.com/vi/EpwdSow5l-Q/mqdefault_live.jpg",
-      "published": "2026-10-21T18:30:16Z"
+      "published": "2026-10-21T19:48:45Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "UM CEBOLINHA PARA NÃO CAIR",
+      "videoId": "vt_9Qjq9D54",
+      "url": "https://www.youtube.com/watch?v=vt_9Qjq9D54",
+      "thumbnail": "https://i.ytimg.com/vi/vt_9Qjq9D54/mqdefault.jpg",
+      "published": "2026-10-21T19:47:14Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,11 +164,11 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "LULA x FLÁVIO: o que está em jogo no segundo turno? | Conversas Cruzadas | 21/10/2026",
-      "videoId": "5IE1jGUp7bA",
-      "url": "https://www.youtube.com/watch?v=5IE1jGUp7bA",
-      "thumbnail": "https://i.ytimg.com/vi/5IE1jGUp7bA/mqdefault_live.jpg",
-      "published": "2026-10-21T18:52:26Z"
+      "title": "Quem é Malévola Alves, influenciadora brasileira detida no Egito por suposto comportamento obsceno",
+      "videoId": "5wRFon1ap3k",
+      "url": "https://www.youtube.com/watch?v=5wRFon1ap3k",
+      "thumbnail": "https://i.ytimg.com/vi/5wRFon1ap3k/mqdefault.jpg",
+      "published": "2026-10-21T19:47:05Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +176,7 @@
       "videoId": "OVxrPNAaWuU",
       "url": "https://www.youtube.com/watch?v=OVxrPNAaWuU",
       "thumbnail": "https://i.ytimg.com/vi/OVxrPNAaWuU/mqdefault_live.jpg",
-      "published": "2026-10-21T18:00:15Z"
+      "published": "2026-10-21T19:31:50Z"
     },
     {
       "channel": "Jeremias Wernek",
