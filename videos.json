@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-21T01:14:05.713872+00:00",
+  "updated_at": "2026-10-21T02:00:37.232026+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  CASTRO ROMPEU SILENCIO APÓS CRITICAS NO GRÊMIO | O BOCA AFETOU O INTER",
+      "videoId": "wrS_0agqH_8",
+      "url": "https://www.youtube.com/watch?v=wrS_0agqH_8",
+      "thumbnail": "https://i.ytimg.com/vi/wrS_0agqH_8/mqdefault_live.jpg",
+      "published": "2026-10-21T01:47:55Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 ELE VAI METER O LOUCO! | DESDALQUES OBRIGAM A INVENTAR | COMO VAI MONTAR O TIME?",
@@ -11,12 +19,12 @@
       "published": "2026-10-20T20:24:21Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Grêmio:  DESISTÊNCIA DA COPA DO BRASIL EM DEBATE NO CLUBE | DECISÃO INACREDITÁVEL DA DIREÇÃO!",
-      "videoId": "7nObQMrxKDE",
-      "url": "https://www.youtube.com/watch?v=7nObQMrxKDE",
-      "thumbnail": "https://i.ytimg.com/vi/7nObQMrxKDE/mqdefault.jpg",
-      "published": "2026-10-20T20:00:28Z"
+      "channel": "Bage TV",
+      "title": "CEO DO GRÊMIO MORA EM PORTO ALEGRE?🟣RESENHA FORA DA SALA NOITE🟣#045",
+      "videoId": "5uPct5ar-Kw",
+      "url": "https://www.youtube.com/watch?v=5uPct5ar-Kw",
+      "thumbnail": "https://i.ytimg.com/vi/5uPct5ar-Kw/mqdefault.jpg",
+      "published": "2026-10-21T01:51:33Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=Hz-w08YNE4A",
       "thumbnail": "https://i.ytimg.com/vi/Hz-w08YNE4A/mqdefault_live.jpg",
       "published": "2026-10-21T00:36:08Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "CEO DO GRÊMIO MORA EM PORTO ALEGRE?🟣RESENHA FORA DA SALA NOITE🟣#045",
-      "videoId": "5uPct5ar-Kw",
-      "url": "https://www.youtube.com/watch?v=5uPct5ar-Kw",
-      "thumbnail": "https://i.ytimg.com/vi/5uPct5ar-Kw/mqdefault_live.jpg",
-      "published": "2026-10-21T00:34:43Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,7 +180,7 @@
     },
     {
       "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: \"BICHO\" NO GRÊMIO E BASTIDORES DOS GOLEIROS DO INTER",
+      "title": "AQUELA LIVE: LUIS CASTRO ALFINETA RENATO, \"BICHO\" NO GRÊMIO E BASTIDORES DOS GOLEIROS DO INTER",
       "videoId": "4oIuTYx0MHQ",
       "url": "https://www.youtube.com/watch?v=4oIuTYx0MHQ",
       "thumbnail": "https://i.ytimg.com/vi/4oIuTYx0MHQ/mqdefault_live.jpg",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "ÚLTIMA ESPERANÇA CONTRA O COXA? | GRÊMIO DARÁ ÔNIBUS PARA A TORCIDA | NOITES DE GRÊMIO #16 - 20/10",
+      "videoId": "w4SrFv-147w",
+      "url": "https://www.youtube.com/watch?v=w4SrFv-147w",
+      "thumbnail": "https://i.ytimg.com/vi/w4SrFv-147w/mqdefault.jpg",
+      "published": "2026-10-21T01:40:20Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X FLAMENGO | SEMIFINAL DA COPA GRAMADO LAGHETTO SUB-16",
       "videoId": "zogQiRmxP1g",
       "url": "https://www.youtube.com/watch?v=zogQiRmxP1g",
       "thumbnail": "https://i.ytimg.com/vi/zogQiRmxP1g/mqdefault_live.jpg",
       "published": "2026-10-21T00:17:50Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ÚLTIMA ESPERANÇA CONTRA O COXA? | GRÊMIO DARÁ ÔNIBUS PARA A TORCIDA | NOITES DE GRÊMIO #16 - 20/10",
-      "videoId": "w4SrFv-147w",
-      "url": "https://www.youtube.com/watch?v=w4SrFv-147w",
-      "thumbnail": "https://i.ytimg.com/vi/w4SrFv-147w/mqdefault_live.jpg",
-      "published": "2026-10-21T00:00:25Z"
     }
   ]
 }
