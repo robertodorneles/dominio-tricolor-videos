@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:00:37.232026+00:00",
+  "updated_at": "2026-10-21T03:51:59.274335+00:00",
   "total": 30,
   "videos": [
     {
@@ -8,7 +8,7 @@
       "videoId": "wrS_0agqH_8",
       "url": "https://www.youtube.com/watch?v=wrS_0agqH_8",
       "thumbnail": "https://i.ytimg.com/vi/wrS_0agqH_8/mqdefault_live.jpg",
-      "published": "2026-10-21T01:47:55Z"
+      "published": "2026-10-21T02:35:00Z"
     },
     {
       "channel": "A Dupla",
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO PODE FAZER OFERTA PARA QUITAR DÍVIDA COM LUÍS CASTRO🔵 BOA NOITE GRÊMIO #046",
+      "videoId": "Hz-w08YNE4A",
+      "url": "https://www.youtube.com/watch?v=Hz-w08YNE4A",
+      "thumbnail": "https://i.ytimg.com/vi/Hz-w08YNE4A/mqdefault.jpg",
+      "published": "2026-10-21T02:30:24Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CEO DO GRÊMIO MORA EM PORTO ALEGRE?🟣RESENHA FORA DA SALA NOITE🟣#045",
       "videoId": "5uPct5ar-Kw",
       "url": "https://www.youtube.com/watch?v=5uPct5ar-Kw",
       "thumbnail": "https://i.ytimg.com/vi/5uPct5ar-Kw/mqdefault.jpg",
       "published": "2026-10-21T01:51:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO PODE FAZER OFERTA PARA QUITAR DÍVIDA COM LUÍS CASTRO🔵 BOA NOITE GRÊMIO #046",
-      "videoId": "Hz-w08YNE4A",
-      "url": "https://www.youtube.com/watch?v=Hz-w08YNE4A",
-      "thumbnail": "https://i.ytimg.com/vi/Hz-w08YNE4A/mqdefault_live.jpg",
-      "published": "2026-10-21T00:36:08Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "FARID DETONA ARBITRAGEM",
+      "videoId": "gIpRF1JuN9U",
+      "url": "https://www.youtube.com/watch?v=gIpRF1JuN9U",
+      "thumbnail": "https://i.ytimg.com/vi/gIpRF1JuN9U/mqdefault.jpg",
+      "published": "2026-10-21T02:21:36Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #042",
       "videoId": "baDPAg63e8M",
       "url": "https://www.youtube.com/watch?v=baDPAg63e8M",
       "thumbnail": "https://i.ytimg.com/vi/baDPAg63e8M/mqdefault.jpg",
       "published": "2026-10-21T00:47:32Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 20/10/2026",
-      "videoId": "SQU0Gbx7u-g",
-      "url": "https://www.youtube.com/watch?v=SQU0Gbx7u-g",
-      "thumbnail": "https://i.ytimg.com/vi/SQU0Gbx7u-g/mqdefault.jpg",
-      "published": "2026-10-20T23:19:24Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "LUÍS CASTRO QUEBRA O SILÊNCIO APÓS SAÍDA DO GRÊMIO | ENTREVISTA COMPLETA NO AEROPORTO",
+      "videoId": "taQDA-sNgdo",
+      "url": "https://www.youtube.com/watch?v=taQDA-sNgdo",
+      "thumbnail": "https://i.ytimg.com/vi/taQDA-sNgdo/mqdefault.jpg",
+      "published": "2026-10-21T02:10:57Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "ÚLTIMA ESPERANÇA CONTRA O COXA? | GRÊMIO DARÁ ÔNIBUS PARA A TORCIDA | NOITES DE GRÊMIO #16 - 20/10",
       "videoId": "w4SrFv-147w",
       "url": "https://www.youtube.com/watch?v=w4SrFv-147w",
       "thumbnail": "https://i.ytimg.com/vi/w4SrFv-147w/mqdefault.jpg",
       "published": "2026-10-21T01:40:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X FLAMENGO | SEMIFINAL DA COPA GRAMADO LAGHETTO SUB-16",
-      "videoId": "zogQiRmxP1g",
-      "url": "https://www.youtube.com/watch?v=zogQiRmxP1g",
-      "thumbnail": "https://i.ytimg.com/vi/zogQiRmxP1g/mqdefault_live.jpg",
-      "published": "2026-10-21T00:17:50Z"
     }
   ]
 }
