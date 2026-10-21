@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:00:36.942460+00:00",
+  "updated_at": "2026-10-21T11:00:43.987637+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 21/10/2026",
+      "videoId": "w7VqzpY00gM",
+      "url": "https://www.youtube.com/watch?v=w7VqzpY00gM",
+      "thumbnail": "https://i.ytimg.com/vi/w7VqzpY00gM/mqdefault_live.jpg",
+      "published": "2026-10-21T10:59:01Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Redução da maioridade penal: solução ou problema? | Conversas Cruzadas | 20/10/2026",
       "videoId": "0vxtQ8GjOXI",
       "url": "https://www.youtube.com/watch?v=0vxtQ8GjOXI",
       "thumbnail": "https://i.ytimg.com/vi/0vxtQ8GjOXI/mqdefault.jpg",
       "published": "2026-10-21T09:38:38Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Multas de pedágios free flow, mulher morta em Sapucaia, trânsito e mais | Gaúcha+ | 20/10/2026",
-      "videoId": "VHnnRf4oW7w",
-      "url": "https://www.youtube.com/watch?v=VHnnRf4oW7w",
-      "thumbnail": "https://i.ytimg.com/vi/VHnnRf4oW7w/mqdefault.jpg",
-      "published": "2026-10-21T07:38:53Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -213,18 +213,26 @@
     {
       "channel": "Radio Grenal",
       "title": "LIVE COMPLETA PARTE 2 | RÁDIO GRENAL | 20/10/2026",
+      "videoId": "vX_hqVNjzPM",
+      "url": "https://www.youtube.com/watch?v=vX_hqVNjzPM",
+      "thumbnail": "https://i.ytimg.com/vi/vX_hqVNjzPM/mqdefault_live.jpg",
+      "published": "2026-10-21T10:35:39Z"
+    },
+    {
+      "channel": "Radio Grenal",
+      "title": "LIVE COMPLETA PARTE 2 | RÁDIO GRENAL | 20/10/2026",
       "videoId": "gyQXnmuwxlw",
       "url": "https://www.youtube.com/watch?v=gyQXnmuwxlw",
       "thumbnail": "https://i.ytimg.com/vi/gyQXnmuwxlw/mqdefault.jpg",
       "published": "2026-10-21T01:10:20Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | CLUBE GRENAL | RÁDIO GRENAL | 20/10/2026",
-      "videoId": "_ZIv5lRkTTw",
-      "url": "https://www.youtube.com/watch?v=_ZIv5lRkTTw",
-      "thumbnail": "https://i.ytimg.com/vi/_ZIv5lRkTTw/mqdefault.jpg",
-      "published": "2026-10-20T22:33:39Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #48 — A TENTATIVA DE REMOBILIZAÇÃO DO GRÊMIO PARA CURITIBA",
+      "videoId": "dCOy9jwLJ1U",
+      "url": "https://www.youtube.com/watch?v=dCOy9jwLJ1U",
+      "thumbnail": "https://i.ytimg.com/vi/dCOy9jwLJ1U/mqdefault_live.jpg",
+      "published": "2026-10-21T10:33:02Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=taQDA-sNgdo",
       "thumbnail": "https://i.ytimg.com/vi/taQDA-sNgdo/mqdefault.jpg",
       "published": "2026-10-21T02:10:57Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ÚLTIMA ESPERANÇA CONTRA O COXA? | GRÊMIO DARÁ ÔNIBUS PARA A TORCIDA | NOITES DE GRÊMIO #16 - 20/10",
-      "videoId": "w4SrFv-147w",
-      "url": "https://www.youtube.com/watch?v=w4SrFv-147w",
-      "thumbnail": "https://i.ytimg.com/vi/w4SrFv-147w/mqdefault.jpg",
-      "published": "2026-10-21T01:40:20Z"
     }
   ]
 }
