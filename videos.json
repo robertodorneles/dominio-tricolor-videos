@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:00:43.970542+00:00",
+  "updated_at": "2026-10-21T18:00:45.912689+00:00",
   "total": 30,
   "videos": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨UMA ÓTIMA NOTÍCIA DE SP PRO GRÊMIO | LUÍS CASTRO CUTUCA RENATO | TITULAR FORA | CARLOS VINI FOI BEM",
+      "videoId": "xrxZMeALn3A",
+      "url": "https://www.youtube.com/watch?v=xrxZMeALn3A",
+      "thumbnail": "https://i.ytimg.com/vi/xrxZMeALn3A/mqdefault.jpg",
+      "published": "2026-10-21T17:49:22Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨PAULO CALEFFI DE VOLTA AO GRÊMIO? SAÍDAS AINDA EM AVALIAÇÃO | AJUDA AO TORCEDOR | PREMIAÇÃO?",
       "videoId": "cHtVUeeyozk",
       "url": "https://www.youtube.com/watch?v=cHtVUeeyozk",
       "thumbnail": "https://i.ytimg.com/vi/cHtVUeeyozk/mqdefault.jpg",
       "published": "2026-10-21T00:00:21Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨BRIGA ENTRE ATLETAS E CLIMA QUENTE NO VESTIÁRIO DO GRÊMIO | SAÍDAS DEBATIDAS | AS CONTAS PRA FICAR!",
-      "videoId": "D-_l2mr3tUk",
-      "url": "https://www.youtube.com/watch?v=D-_l2mr3tUk",
-      "thumbnail": "https://i.ytimg.com/vi/D-_l2mr3tUk/mqdefault.jpg",
-      "published": "2026-10-20T18:28:58Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "q9onsr5pS4I",
       "url": "https://www.youtube.com/watch?v=q9onsr5pS4I",
       "thumbnail": "https://i.ytimg.com/vi/q9onsr5pS4I/mqdefault_live.jpg",
-      "published": "2026-10-21T16:00:41Z"
+      "published": "2026-10-21T17:14:52Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I SUB-17 I 2026)",
+      "videoId": "ZEzHLRSDk4g",
+      "url": "https://www.youtube.com/watch?v=ZEzHLRSDk4g",
+      "thumbnail": "https://i.ytimg.com/vi/ZEzHLRSDk4g/mqdefault_live.jpg",
+      "published": "2026-10-21T17:48:01Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | GRÊMIO X CRUZEIRO I BRASILEIRÃO 2026",
       "videoId": "-T1OOzRblpM",
       "url": "https://www.youtube.com/watch?v=-T1OOzRblpM",
@@ -155,28 +163,20 @@
       "published": "2026-10-18T22:19:31Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | COLETIVA PÓS-JOGO I GREMIO X CRUZEIRO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "BjKUEMJr2k4",
-      "url": "https://www.youtube.com/watch?v=BjKUEMJr2k4",
-      "thumbnail": "https://i.ytimg.com/vi/BjKUEMJr2k4/mqdefault.jpg",
-      "published": "2026-10-18T22:01:05Z"
+      "channel": "GZH Digital",
+      "title": "Programa confere as atrações da Mercopar, novo aeroporto em Caxias e mais | Gaúcha+ | 21/10/2026",
+      "videoId": "OVxrPNAaWuU",
+      "url": "https://www.youtube.com/watch?v=OVxrPNAaWuU",
+      "thumbnail": "https://i.ytimg.com/vi/OVxrPNAaWuU/mqdefault_live.jpg",
+      "published": "2026-10-21T18:00:15Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "TSE vai SUSPENDER canais de WhatsApp de LULA e FLÁVIO? | Sala de Eleição",
-      "videoId": "px__pwdNz3I",
-      "url": "https://www.youtube.com/watch?v=px__pwdNz3I",
-      "thumbnail": "https://i.ytimg.com/vi/px__pwdNz3I/mqdefault.jpg",
-      "published": "2026-10-21T16:38:05Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Pesquisa Quaest e outros assuntos que movimentam o cenário eleitoral | Sala de Eleição | 21/10/2026",
-      "videoId": "2qJNryPCXsg",
-      "url": "https://www.youtube.com/watch?v=2qJNryPCXsg",
-      "thumbnail": "https://i.ytimg.com/vi/2qJNryPCXsg/mqdefault_live.jpg",
-      "published": "2026-10-21T15:58:02Z"
+      "title": "PESQUISA QUAEST: Flávio tem 45% e Lula, 44% das intenções de voto no segundo turno | Sala de Eleição",
+      "videoId": "5UpTs1NOxRM",
+      "url": "https://www.youtube.com/watch?v=5UpTs1NOxRM",
+      "thumbnail": "https://i.ytimg.com/vi/5UpTs1NOxRM/mqdefault.jpg",
+      "published": "2026-10-21T17:04:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "GRÊMIO FARÁ NOVO TESTE NESTA QUINTA-FEIRA | KANNEMANN DENUNCIADO | RENOVAÇÃO DE JOVEM | IMORTAL FC",
+      "videoId": "jF6Rn80YUFU",
+      "url": "https://www.youtube.com/watch?v=jF6Rn80YUFU",
+      "thumbnail": "https://i.ytimg.com/vi/jF6Rn80YUFU/mqdefault_live.jpg",
+      "published": "2026-10-21T17:59:59Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "O GUI PARANÁ FALA SOBRE A “OPERAÇÃO CURITIBA”!",
       "videoId": "5vr7mtyDGA4",
       "url": "https://www.youtube.com/watch?v=5vr7mtyDGA4",
       "thumbnail": "https://i.ytimg.com/vi/5vr7mtyDGA4/mqdefault.jpg",
       "published": "2026-10-21T16:05:56Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "O ABICHÉQUER GOSTARIA QUE O CASTRO SE MANIFESTA-SE SOBRE SUA MULTA RESCISÓRIA!",
-      "videoId": "jcZI3Mj030A",
-      "url": "https://www.youtube.com/watch?v=jcZI3Mj030A",
-      "thumbnail": "https://i.ytimg.com/vi/jcZI3Mj030A/mqdefault.jpg",
-      "published": "2026-10-21T16:03:43Z"
     }
   ]
 }
