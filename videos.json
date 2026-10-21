@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:00:41.964947+00:00",
+  "updated_at": "2026-10-21T13:00:45.322869+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 21/10 - #660",
+      "title": "RAFAEL LIMA FOGE DO CT LUIZ CARVALHO🌅🔵 BOM DIA GRÊMIO #158",
+      "videoId": "eElCA7bPLx8",
+      "url": "https://www.youtube.com/watch?v=eElCA7bPLx8",
+      "thumbnail": "https://i.ytimg.com/vi/eElCA7bPLx8/mqdefault.jpg",
+      "published": "2026-10-21T12:21:22Z"
+    },
+    {
+      "channel": "Bage TV",
+      "title": "COBRANÇAS NO CT DO GRÊMIO DURANTE TREINO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 21/10 - #660",
       "videoId": "7OqgyQLi4Qg",
       "url": "https://www.youtube.com/watch?v=7OqgyQLi4Qg",
       "thumbnail": "https://i.ytimg.com/vi/7OqgyQLi4Qg/mqdefault_live.jpg",
       "published": "2026-10-21T12:00:13Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "RAFAEL LIMA FOGE DO CT LUIZ CARVALHO🌅🔵 BOM DIA GRÊMIO #158",
-      "videoId": "eElCA7bPLx8",
-      "url": "https://www.youtube.com/watch?v=eElCA7bPLx8",
-      "thumbnail": "https://i.ytimg.com/vi/eElCA7bPLx8/mqdefault_live.jpg",
-      "published": "2026-10-21T11:50:37Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "A surpreendente entrevista de Luis Castro",
+      "videoId": "Ou5F98dxVAg",
+      "url": "https://www.youtube.com/watch?v=Ou5F98dxVAg",
+      "thumbnail": "https://i.ytimg.com/vi/Ou5F98dxVAg/mqdefault.jpg",
+      "published": "2026-10-21T12:23:48Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #708: Dívidas | Bicho extra | Castro | Renato | Operação Curitiba | Lesão e mais",
       "videoId": "fIG1cveJ5AE",
       "url": "https://www.youtube.com/watch?v=fIG1cveJ5AE",
@@ -59,28 +67,20 @@
       "published": "2026-10-20T21:48:11Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Decisão da reunião | Protestos da torcida | Rompimento com a Globo?",
-      "videoId": "KZoAvyhgTew",
-      "url": "https://www.youtube.com/watch?v=KZoAvyhgTew",
-      "thumbnail": "https://i.ytimg.com/vi/KZoAvyhgTew/mqdefault.jpg",
-      "published": "2026-10-20T12:01:32Z"
+      "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 21/10/2026",
+      "videoId": "QkRdddD2aYQ",
+      "url": "https://www.youtube.com/watch?v=QkRdddD2aYQ",
+      "thumbnail": "https://i.ytimg.com/vi/QkRdddD2aYQ/mqdefault_live.jpg",
+      "published": "2026-10-21T12:51:12Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #043",
-      "videoId": "rpeKe7dvP9A",
-      "url": "https://www.youtube.com/watch?v=rpeKe7dvP9A",
-      "thumbnail": "https://i.ytimg.com/vi/rpeKe7dvP9A/mqdefault_live.jpg",
-      "published": "2026-10-21T11:35:30Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #38",
-      "videoId": "Ka5nK-Q7CJM",
-      "url": "https://www.youtube.com/watch?v=Ka5nK-Q7CJM",
-      "thumbnail": "https://i.ytimg.com/vi/Ka5nK-Q7CJM/mqdefault.jpg",
-      "published": "2026-10-21T05:30:03Z"
+      "title": "ACORDA, GRÊMIO! #044",
+      "videoId": "8qZpHD25T_Y",
+      "url": "https://www.youtube.com/watch?v=8qZpHD25T_Y",
+      "thumbnail": "https://i.ytimg.com/vi/8qZpHD25T_Y/mqdefault_live.jpg",
+      "published": "2026-10-21T12:49:58Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -183,8 +183,8 @@
       "title": "AQUELA LIVE: LUIS CASTRO ALFINETA RENATO, \"BICHO\" NO GRÊMIO E BASTIDORES DOS GOLEIROS DO INTER",
       "videoId": "4oIuTYx0MHQ",
       "url": "https://www.youtube.com/watch?v=4oIuTYx0MHQ",
-      "thumbnail": "https://i.ytimg.com/vi/4oIuTYx0MHQ/mqdefault_live.jpg",
-      "published": "2026-10-21T11:02:25Z"
+      "thumbnail": "https://i.ytimg.com/vi/4oIuTYx0MHQ/mqdefault.jpg",
+      "published": "2026-10-21T12:19:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -231,8 +231,8 @@
       "title": "CAFÉ COM A IMORTAL #48 — A TENTATIVA DE REMOBILIZAÇÃO DO GRÊMIO PARA CURITIBA",
       "videoId": "dCOy9jwLJ1U",
       "url": "https://www.youtube.com/watch?v=dCOy9jwLJ1U",
-      "thumbnail": "https://i.ytimg.com/vi/dCOy9jwLJ1U/mqdefault_live.jpg",
-      "published": "2026-10-21T10:33:02Z"
+      "thumbnail": "https://i.ytimg.com/vi/dCOy9jwLJ1U/mqdefault.jpg",
+      "published": "2026-10-21T12:56:38Z"
     },
     {
       "channel": "Radio Imortal",
