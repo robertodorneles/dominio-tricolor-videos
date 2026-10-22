@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-22T03:51:37.668284+00:00",
+  "updated_at": "2026-10-22T09:00:43.767239+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫ Diário do Grêmio: RISCO DE QUEDA DISPARA! KANNEMANN PODE SER SUSPENSO E RENATO PERDE TITULAR!",
+      "videoId": "qWKiYmF3JCQ",
+      "url": "https://www.youtube.com/watch?v=qWKiYmF3JCQ",
+      "thumbnail": "https://i.ytimg.com/vi/qWKiYmF3JCQ/mqdefault.jpg",
+      "published": "2026-10-22T05:30:31Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: 🔥 CANDIDATOS FARÃO ESFORÇO POR VOLANTE | MODELO DO NEGÓCIO! | VAI TER QUE COMPRAR!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8CWLQjxLG6s",
       "thumbnail": "https://i.ytimg.com/vi/8CWLQjxLG6s/mqdefault.jpg",
       "published": "2026-10-21T20:23:40Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Grêmio: RENATO ESTÁ CADA VEZ MAIS ISOLADO! Bastidores revelam distanciamento da direção!",
-      "videoId": "8v5kA_UWsHw",
-      "url": "https://www.youtube.com/watch?v=8v5kA_UWsHw",
-      "thumbnail": "https://i.ytimg.com/vi/8v5kA_UWsHw/mqdefault.jpg",
-      "published": "2026-10-21T20:00:05Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #39",
+      "videoId": "q9onsr5pS4I",
+      "url": "https://www.youtube.com/watch?v=q9onsr5pS4I",
+      "thumbnail": "https://i.ytimg.com/vi/q9onsr5pS4I/mqdefault.jpg",
+      "published": "2026-10-22T05:23:11Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO - CLUBE TRICOLOR",
       "videoId": "5QeCSuCBCa8",
       "url": "https://www.youtube.com/watch?v=5QeCSuCBCa8",
       "thumbnail": "https://i.ytimg.com/vi/5QeCSuCBCa8/mqdefault.jpg?v=6ad92652",
       "published": "2026-10-22T01:19:30Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #043",
-      "videoId": "rpeKe7dvP9A",
-      "url": "https://www.youtube.com/watch?v=rpeKe7dvP9A",
-      "thumbnail": "https://i.ytimg.com/vi/rpeKe7dvP9A/mqdefault.jpg",
-      "published": "2026-10-22T01:09:27Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Polarização nas eleições 2026, últimas da política e mais | Timeline 21/10/2026",
-      "videoId": "sajdlZIl_tM",
-      "url": "https://www.youtube.com/watch?v=sajdlZIl_tM",
-      "thumbnail": "https://i.ytimg.com/vi/sajdlZIl_tM/mqdefault.jpg",
-      "published": "2026-10-22T01:59:58Z"
+      "title": "Programa confere as atrações da Mercopar, novo aeroporto em Caxias e mais | Gaúcha+ | 21/10/2026",
+      "videoId": "OVxrPNAaWuU",
+      "url": "https://www.youtube.com/watch?v=OVxrPNAaWuU",
+      "thumbnail": "https://i.ytimg.com/vi/OVxrPNAaWuU/mqdefault.jpg",
+      "published": "2026-10-22T07:36:19Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "ELEIÇÃO do \"MENOS PIOR\"? Especialista analisa | Conversas Cruzadas",
-      "videoId": "Z4fPM3iYoc0",
-      "url": "https://www.youtube.com/watch?v=Z4fPM3iYoc0",
-      "thumbnail": "https://i.ytimg.com/vi/Z4fPM3iYoc0/mqdefault.jpg",
-      "published": "2026-10-21T23:00:13Z"
+      "title": "Pesquisa Quaest e outros assuntos que movimentam o cenário eleitoral | Sala de Eleição | 21/10/2026",
+      "videoId": "2qJNryPCXsg",
+      "url": "https://www.youtube.com/watch?v=2qJNryPCXsg",
+      "thumbnail": "https://i.ytimg.com/vi/2qJNryPCXsg/mqdefault.jpg",
+      "published": "2026-10-22T04:00:35Z"
     },
     {
       "channel": "Jeremias Wernek",
