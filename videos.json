@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:00:36.553220+00:00",
+  "updated_at": "2026-10-22T11:00:36.557833+00:00",
   "total": 30,
   "videos": [
     {
@@ -184,7 +184,7 @@
       "videoId": "GtwwPTy2e3M",
       "url": "https://www.youtube.com/watch?v=GtwwPTy2e3M",
       "thumbnail": "https://i.ytimg.com/vi/GtwwPTy2e3M/mqdefault.jpg?v=6ad970c1",
-      "published": "2026-10-22T02:11:10Z"
+      "published": "2026-10-22T10:55:11Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 21/10/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 22/10/2026",
       "videoId": "RR32X2ML1Ug",
       "url": "https://www.youtube.com/watch?v=RR32X2ML1Ug",
-      "thumbnail": "https://i.ytimg.com/vi/RR32X2ML1Ug/mqdefault.jpg?v=6ad944d6",
+      "thumbnail": "https://i.ytimg.com/vi/RR32X2ML1Ug/mqdefault.jpg?v=6ad9e0a4",
       "published": "2026-10-21T23:03:50Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #49 — GRÊMIO FARÁ NOVO JOGO-TREINO NESTA QUINTA-FEIRA",
+      "videoId": "NKn1TITbXPU",
+      "url": "https://www.youtube.com/watch?v=NKn1TITbXPU",
+      "thumbnail": "https://i.ytimg.com/vi/NKn1TITbXPU/mqdefault.jpg?v=6ad97968",
+      "published": "2026-10-22T10:30:59Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=hxyGBmb07Os",
       "thumbnail": "https://i.ytimg.com/vi/hxyGBmb07Os/mqdefault.jpg?v=6ad980ef",
       "published": "2026-10-22T03:20:12Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "SEGUE A \"OPERAÇÃO CURITIBA\" NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #69",
-      "videoId": "lmy2trsDNr4",
-      "url": "https://www.youtube.com/watch?v=lmy2trsDNr4",
-      "thumbnail": "https://i.ytimg.com/vi/lmy2trsDNr4/mqdefault.jpg?v=6ad97d0b",
-      "published": "2026-10-22T03:03:36Z"
     }
   ]
 }
