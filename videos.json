@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T15:01:07.982760+00:00",
-  "total": 28,
+  "updated_at": "2026-10-22T16:00:42.690599+00:00",
+  "total": 30,
   "videos": [
     {
       "channel": "A Dupla",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #40",
+      "videoId": "GmHrgtfb0vc",
+      "url": "https://www.youtube.com/watch?v=GmHrgtfb0vc",
+      "thumbnail": "https://i.ytimg.com/vi/GmHrgtfb0vc/mqdefault.jpg?v=6ada2e89",
+      "published": "2026-10-22T15:40:57Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "AO VIVO - CLUBE TRICOLOR",
       "videoId": "5QeCSuCBCa8",
       "url": "https://www.youtube.com/watch?v=5QeCSuCBCa8",
       "thumbnail": "https://i.ytimg.com/vi/5QeCSuCBCa8/mqdefault.jpg",
       "published": "2026-10-22T13:39:45Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 22/10/2026",
-      "videoId": "rQZ3cCb4tu8",
-      "url": "https://www.youtube.com/watch?v=rQZ3cCb4tu8",
-      "thumbnail": "https://i.ytimg.com/vi/rQZ3cCb4tu8/mqdefault.jpg?v=6ada0fef",
-      "published": "2026-10-22T13:30:23Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "NEGOCIANDO PARA SAIR: CARLOS VINÍCIUS E ATLÉTICO-MG | AMUZU E PAVON TAMBEM FORA DO GRÊMIO?",
+      "videoId": "mFCrGG70CyQ",
+      "url": "https://www.youtube.com/watch?v=mFCrGG70CyQ",
+      "thumbnail": "https://i.ytimg.com/vi/mFCrGG70CyQ/mqdefault.jpg",
+      "published": "2026-10-22T15:03:57Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "VAZOU: TREINO FAKE? | UNIDOS: DIREÇÃO E RENATO? | LOTOU CURITIBA: INGRESSOS PARA OUTRO JOGO.",
       "videoId": "v1AJrpphR_k",
       "url": "https://www.youtube.com/watch?v=v1AJrpphR_k",
       "thumbnail": "https://i.ytimg.com/vi/v1AJrpphR_k/mqdefault.jpg",
       "published": "2026-10-21T23:22:35Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "PRÊMIO PELA INCOMPETÊNCIA DO ANO? #gremio #futebol #noticias",
-      "videoId": "W0mf4gra6aM",
-      "url": "https://www.youtube.com/watch?v=W0mf4gra6aM",
-      "thumbnail": "https://i.ytimg.com/vi/W0mf4gra6aM/mqdefault.jpg",
-      "published": "2026-10-21T16:00:35Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -129,6 +129,22 @@
       "url": "https://www.youtube.com/watch?v=FjHAYA5puSE",
       "thumbnail": "https://i.ytimg.com/vi/FjHAYA5puSE/mqdefault.jpg?v=6ad8d54d",
       "published": "2026-10-21T15:07:55Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "HOSPÍCIO | 22.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
+      "videoId": "g_7UNul3yoI",
+      "url": "https://www.youtube.com/watch?v=g_7UNul3yoI",
+      "thumbnail": "https://i.ytimg.com/vi/g_7UNul3yoI/mqdefault.jpg",
+      "published": "2026-10-22T13:08:18Z"
+    },
+    {
+      "channel": "Duda Garbi",
+      "title": "COMO TU FOI PARAR NA RBS? #dudagarbi #umassadopara",
+      "videoId": "ekZ_-H4eiPQ",
+      "url": "https://www.youtube.com/watch?v=ekZ_-H4eiPQ",
+      "thumbnail": "https://i.ytimg.com/vi/ekZ_-H4eiPQ/mqdefault.jpg",
+      "published": "2026-10-21T22:00:04Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -152,7 +168,7 @@
       "videoId": "M4pat92jC1k",
       "url": "https://www.youtube.com/watch?v=M4pat92jC1k",
       "thumbnail": "https://i.ytimg.com/vi/M4pat92jC1k/mqdefault.jpg?v=6ada159f",
-      "published": "2026-10-22T14:57:36Z"
+      "published": "2026-10-22T15:56:33Z"
     },
     {
       "channel": "GZH Digital",
@@ -215,16 +231,16 @@
       "title": "SEGUE A \"OPERAÇÃO CURITIBA\" NO GRÊMIO! | COMO É BOM SER DO GRÊMIO #69",
       "videoId": "lmy2trsDNr4",
       "url": "https://www.youtube.com/watch?v=lmy2trsDNr4",
-      "thumbnail": "https://i.ytimg.com/vi/lmy2trsDNr4/mqdefault.jpg?v=6ad97d0b",
-      "published": "2026-10-22T14:55:51Z"
+      "thumbnail": "https://i.ytimg.com/vi/lmy2trsDNr4/mqdefault.jpg",
+      "published": "2026-10-22T15:27:16Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #49 — GRÊMIO FARÁ NOVO JOGO-TREINO NESTA QUINTA-FEIRA",
-      "videoId": "NKn1TITbXPU",
-      "url": "https://www.youtube.com/watch?v=NKn1TITbXPU",
-      "thumbnail": "https://i.ytimg.com/vi/NKn1TITbXPU/mqdefault.jpg",
-      "published": "2026-10-22T13:49:36Z"
+      "title": "IMORTAL FC — 22/10",
+      "videoId": "gzaX1DYU6mM",
+      "url": "https://www.youtube.com/watch?v=gzaX1DYU6mM",
+      "thumbnail": "https://i.ytimg.com/vi/gzaX1DYU6mM/mqdefault.jpg?v=6ada2814",
+      "published": "2026-10-22T15:13:21Z"
     }
   ]
 }
