@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-22T19:01:50.630015+00:00",
+  "updated_at": "2026-10-22T20:00:52.143957+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫ Grêmio: A POLÊMICA DO BICHO EXTRA PARA NÃO CAIR | DIREÇÃO ARTICULA PAGAMENTO MILIONÁRIO",
+      "videoId": "JEXek-pKtlg",
+      "url": "https://www.youtube.com/watch?v=JEXek-pKtlg",
+      "thumbnail": "https://i.ytimg.com/vi/JEXek-pKtlg/mqdefault.jpg",
+      "published": "2026-10-22T20:00:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 1BI DE DÍVIDA | ANTHONI NÃO ESTÁ GARANTIDO | DUVIDAS DE BAP",
@@ -11,28 +19,20 @@
       "published": "2026-10-22T11:37:56Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: RISCO DE QUEDA DISPARA! KANNEMANN PODE SER SUSPENSO E RENATO PERDE TITULAR!",
-      "videoId": "qWKiYmF3JCQ",
-      "url": "https://www.youtube.com/watch?v=qWKiYmF3JCQ",
-      "thumbnail": "https://i.ytimg.com/vi/qWKiYmF3JCQ/mqdefault.jpg",
-      "published": "2026-10-22T05:30:31Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "GRÊMIO VAI PERDER CARLOS VINÍCIUS? 🔹 THE TARDE 🔹#246",
       "videoId": "sIcMb0-Jywk",
       "url": "https://www.youtube.com/watch?v=sIcMb0-Jywk",
       "thumbnail": "https://i.ytimg.com/vi/sIcMb0-Jywk/mqdefault.jpg?v=6ad93d56",
-      "published": "2026-10-22T18:31:08Z"
+      "published": "2026-10-22T19:49:16Z"
     },
     {
       "channel": "Bage TV",
-      "title": "CAVINI PRÓXIMO DO GALO! DEFINIDO SUBSTITUTO DE MERCADO🔸RESENHA FORA DA SALA🔸#158",
-      "videoId": "ITI5CeD6BTg",
-      "url": "https://www.youtube.com/watch?v=ITI5CeD6BTg",
-      "thumbnail": "https://i.ytimg.com/vi/ITI5CeD6BTg/mqdefault.jpg?v=6ad93d25",
-      "published": "2026-10-22T18:04:34Z"
+      "title": "BAGÉ CAIU NO GOLPE? FALSO LUIS CASTRO LEVOU MAIS DE R$ 22 MIL! #CORTESDOFAG",
+      "videoId": "EqpPwEHamoc",
+      "url": "https://www.youtube.com/watch?v=EqpPwEHamoc",
+      "thumbnail": "https://i.ytimg.com/vi/EqpPwEHamoc/mqdefault.jpg",
+      "published": "2026-10-22T19:38:57Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Nova fábrica da CMPC, Natal Luz de Gramado, agenda de candidatos e mais | Gaúcha+ | 22/10/2026",
+      "videoId": "ALbCR65HUAo",
+      "url": "https://www.youtube.com/watch?v=ALbCR65HUAo",
+      "thumbnail": "https://i.ytimg.com/vi/ALbCR65HUAo/mqdefault.jpg",
+      "published": "2026-10-22T19:38:28Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "CICLONE MONSTRO? veja no mapa por onde vai passar o Supertufão Champi",
       "videoId": "b_LB702yXYA",
       "url": "https://www.youtube.com/watch?v=b_LB702yXYA",
       "thumbnail": "https://i.ytimg.com/vi/b_LB702yXYA/mqdefault.jpg",
       "published": "2026-10-22T18:30:23Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Nova fábrica da CMPC, Natal Luz de Gramado, agenda de candidatos e mais | Gaúcha+ | 22/10/2026",
-      "videoId": "ALbCR65HUAo",
-      "url": "https://www.youtube.com/watch?v=ALbCR65HUAo",
-      "thumbnail": "https://i.ytimg.com/vi/ALbCR65HUAo/mqdefault.jpg?v=6ada4efa",
-      "published": "2026-10-22T18:00:47Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "DETALHES DO JOGO CONTRA O SINDICATO | CARLOS VINÍCIUS DE SAÍDA? | NOITES DE GRÊMIO  #171 - 22/10",
+      "videoId": "HITyODrye44",
+      "url": "https://www.youtube.com/watch?v=HITyODrye44",
+      "thumbnail": "https://i.ytimg.com/vi/HITyODrye44/mqdefault.jpg?v=6ada695c",
+      "published": "2026-10-22T19:49:22Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "JOGO-TREINO DO GRÊMIO OCORRE AGORA | GALO DE OLHO EM CARLOS VINÍCIUS | ESPLANADA",
       "videoId": "hxyGBmb07Os",
       "url": "https://www.youtube.com/watch?v=hxyGBmb07Os",
       "thumbnail": "https://i.ytimg.com/vi/hxyGBmb07Os/mqdefault.jpg?v=6ad980ef",
-      "published": "2026-10-22T18:31:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "NOVO JOGO-TREINO CONTRA O SINDICATO | DETALHES DA DÍVIDA DO GRÊMIO | NOITES DE GRÊMIO #170 - 21/10",
-      "videoId": "MOA5uKjtlcw",
-      "url": "https://www.youtube.com/watch?v=MOA5uKjtlcw",
-      "thumbnail": "https://i.ytimg.com/vi/MOA5uKjtlcw/mqdefault.jpg",
-      "published": "2026-10-22T17:26:54Z"
+      "published": "2026-10-22T19:31:50Z"
     }
   ]
 }
