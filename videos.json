@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-22T20:00:52.143957+00:00",
+  "updated_at": "2026-10-22T21:00:39.788994+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: PROMESSA DE GABRIEL MERCADO | VAI ENCERRAR? | É A GRANDE LIDERANÇA",
+      "videoId": "k0BNHnLG5Os",
+      "url": "https://www.youtube.com/watch?v=k0BNHnLG5Os",
+      "thumbnail": "https://i.ytimg.com/vi/k0BNHnLG5Os/mqdefault.jpg",
+      "published": "2026-10-22T20:23:56Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫ Grêmio: A POLÊMICA DO BICHO EXTRA PARA NÃO CAIR | DIREÇÃO ARTICULA PAGAMENTO MILIONÁRIO",
@@ -11,28 +19,20 @@
       "published": "2026-10-22T20:00:01Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 1BI DE DÍVIDA | ANTHONI NÃO ESTÁ GARANTIDO | DUVIDAS DE BAP",
-      "videoId": "XHeE6Ow7H84",
-      "url": "https://www.youtube.com/watch?v=XHeE6Ow7H84",
-      "thumbnail": "https://i.ytimg.com/vi/XHeE6Ow7H84/mqdefault.jpg",
-      "published": "2026-10-22T11:37:56Z"
+      "channel": "Bage TV",
+      "title": "NINGUÉM ESPERAVA POR ESSA! DISCUSSÃO ESQUENTA O PROGRAMA! #CORTESDOFAG",
+      "videoId": "ky0ZqU5sVUI",
+      "url": "https://www.youtube.com/watch?v=ky0ZqU5sVUI",
+      "thumbnail": "https://i.ytimg.com/vi/ky0ZqU5sVUI/mqdefault.jpg",
+      "published": "2026-10-22T20:39:31Z"
     },
     {
       "channel": "Bage TV",
-      "title": "GRÊMIO VAI PERDER CARLOS VINÍCIUS? 🔹 THE TARDE 🔹#246",
-      "videoId": "sIcMb0-Jywk",
-      "url": "https://www.youtube.com/watch?v=sIcMb0-Jywk",
-      "thumbnail": "https://i.ytimg.com/vi/sIcMb0-Jywk/mqdefault.jpg?v=6ad93d56",
-      "published": "2026-10-22T19:49:16Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BAGÉ CAIU NO GOLPE? FALSO LUIS CASTRO LEVOU MAIS DE R$ 22 MIL! #CORTESDOFAG",
-      "videoId": "EqpPwEHamoc",
-      "url": "https://www.youtube.com/watch?v=EqpPwEHamoc",
-      "thumbnail": "https://i.ytimg.com/vi/EqpPwEHamoc/mqdefault.jpg",
-      "published": "2026-10-22T19:38:57Z"
+      "title": "KANNEMANN É ABSOLVIDO, CAVINI DE SAÍDA E INTER TEM DÍVIDAS QUE PASSAM DE 1 BI📰BAGÉTV NEWS #061",
+      "videoId": "5m3cJ_F04vI",
+      "url": "https://www.youtube.com/watch?v=5m3cJ_F04vI",
+      "thumbnail": "https://i.ytimg.com/vi/5m3cJ_F04vI/mqdefault.jpg?v=6ad93d83",
+      "published": "2026-10-22T20:30:33Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Nova fábrica da CMPC, Natal Luz de Gramado, agenda de candidatos e mais | Gaúcha+ | 22/10/2026",
-      "videoId": "ALbCR65HUAo",
-      "url": "https://www.youtube.com/watch?v=ALbCR65HUAo",
-      "thumbnail": "https://i.ytimg.com/vi/ALbCR65HUAo/mqdefault.jpg",
-      "published": "2026-10-22T19:38:28Z"
+      "title": "Meta pró Bolsonaro? Vídeo de MC Cabelinho criticando Flávio é derrubado por big tech | Wainer",
+      "videoId": "SmPTHvYR9FU",
+      "url": "https://www.youtube.com/watch?v=SmPTHvYR9FU",
+      "thumbnail": "https://i.ytimg.com/vi/SmPTHvYR9FU/mqdefault.jpg",
+      "published": "2026-10-22T21:00:18Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "CICLONE MONSTRO? veja no mapa por onde vai passar o Supertufão Champi",
-      "videoId": "b_LB702yXYA",
-      "url": "https://www.youtube.com/watch?v=b_LB702yXYA",
-      "thumbnail": "https://i.ytimg.com/vi/b_LB702yXYA/mqdefault.jpg",
-      "published": "2026-10-22T18:30:23Z"
+      "title": "FLÁVIO BOLSONARO x LULA: clima esquenta na reta final da campanha | Chamada Eleitoral | 22/10/2026",
+      "videoId": "PS3FJunFWHo",
+      "url": "https://www.youtube.com/watch?v=PS3FJunFWHo",
+      "thumbnail": "https://i.ytimg.com/vi/PS3FJunFWHo/mqdefault.jpg",
+      "published": "2026-10-22T20:33:58Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "REVELADA CONVERSA QUE FEZ ATACANTE DO GRÊMIO PERDER R$ 20 MIL",
+      "videoId": "tgc3qw0D_hY",
+      "url": "https://www.youtube.com/watch?v=tgc3qw0D_hY",
+      "thumbnail": "https://i.ytimg.com/vi/tgc3qw0D_hY/mqdefault.jpg",
+      "published": "2026-10-22T20:15:25Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=GtwwPTy2e3M",
       "thumbnail": "https://i.ytimg.com/vi/GtwwPTy2e3M/mqdefault.jpg?v=6ad970c1",
       "published": "2026-10-22T12:01:14Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "O VERDADEIRO VALOR DA MULTA DE LUÍS CASTRO E A CURIOSA ENTREVISTA DELE",
-      "videoId": "PXm9PLcYHZg",
-      "url": "https://www.youtube.com/watch?v=PXm9PLcYHZg",
-      "thumbnail": "https://i.ytimg.com/vi/PXm9PLcYHZg/mqdefault.jpg",
-      "published": "2026-10-21T23:21:31Z"
     },
     {
       "channel": "LH Benfica",
