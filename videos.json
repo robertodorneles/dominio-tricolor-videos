@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:00:41.428149+00:00",
+  "updated_at": "2026-10-23T11:00:37.841831+00:00",
   "total": 30,
   "videos": [
     {
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 23/10/2026",
+      "videoId": "V7GiXJDQ6y0",
+      "url": "https://www.youtube.com/watch?v=V7GiXJDQ6y0",
+      "thumbnail": "https://i.ytimg.com/vi/V7GiXJDQ6y0/mqdefault.jpg?v=6adb3d82",
+      "published": "2026-10-23T10:28:02Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "22/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "RR32X2ML1Ug",
       "url": "https://www.youtube.com/watch?v=RR32X2ML1Ug",
@@ -219,12 +227,12 @@
       "published": "2026-10-22T23:54:50Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "LIVE COMPLETA | RÁDIO GRENAL | 21/10/2026",
-      "videoId": "vX_hqVNjzPM",
-      "url": "https://www.youtube.com/watch?v=vX_hqVNjzPM",
-      "thumbnail": "https://i.ytimg.com/vi/vX_hqVNjzPM/mqdefault.jpg",
-      "published": "2026-10-21T23:35:08Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #50 — GRÊMIO TERÁ MUDANÇAS CONTRA O CORITIBA?",
+      "videoId": "DvTVniOUWt4",
+      "url": "https://www.youtube.com/watch?v=DvTVniOUWt4",
+      "thumbnail": "https://i.ytimg.com/vi/DvTVniOUWt4/mqdefault.jpg?v=6adad28f",
+      "published": "2026-10-23T10:31:42Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=F8q4VMYkwGI",
       "thumbnail": "https://i.ytimg.com/vi/F8q4VMYkwGI/mqdefault.jpg?v=6adad45a",
       "published": "2026-10-23T03:28:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "OS TESTES DE RENATO PARA O JOGO  DE SEGUNDA-FEIRA | COMO É BOM SER DO GRÊMIO #70",
-      "videoId": "XKR2Gf4s6vQ",
-      "url": "https://www.youtube.com/watch?v=XKR2Gf4s6vQ",
-      "thumbnail": "https://i.ytimg.com/vi/XKR2Gf4s6vQ/mqdefault.jpg?v=6adad2e4",
-      "published": "2026-10-23T03:22:10Z"
     }
   ]
 }
