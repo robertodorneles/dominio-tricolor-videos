@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T16:00:41.938555+00:00",
+  "updated_at": "2026-10-23T17:00:41.086644+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #095",
-      "videoId": "dpoLYfomcgQ",
-      "url": "https://www.youtube.com/watch?v=dpoLYfomcgQ",
-      "thumbnail": "https://i.ytimg.com/vi/dpoLYfomcgQ/mqdefault.jpg?v=6adaae40",
-      "published": "2026-10-23T14:52:52Z"
+      "title": "🔵 AO VIVO 🔵 ENTREVISTA COLETIVA MARLON E CARLOS VINÍCIUS",
+      "videoId": "4gaI7Sdbxfc",
+      "url": "https://www.youtube.com/watch?v=4gaI7Sdbxfc",
+      "thumbnail": "https://i.ytimg.com/vi/4gaI7Sdbxfc/mqdefault.jpg?v=6adb5231",
+      "published": "2026-10-23T16:44:35Z"
     },
     {
       "channel": "Bage TV",
-      "title": "ESTA MUITO DIFÍCIL.",
-      "videoId": "d6NjeAUQN4s",
-      "url": "https://www.youtube.com/watch?v=d6NjeAUQN4s",
-      "thumbnail": "https://i.ytimg.com/vi/d6NjeAUQN4s/mqdefault.jpg",
-      "published": "2026-10-23T14:27:35Z"
+      "title": "MARLON E CARLOS VINÍCIUS FALAM! BEIRA-RIO TERÁ 35 MIL TORCEDORES!🔸RESENHA FORA DA SALA🔸#159",
+      "videoId": "N3avrs9LB4w",
+      "url": "https://www.youtube.com/watch?v=N3avrs9LB4w",
+      "thumbnail": "https://i.ytimg.com/vi/N3avrs9LB4w/mqdefault.jpg?v=6adaae86",
+      "published": "2026-10-23T16:30:36Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -72,7 +72,7 @@
       "videoId": "B3R_8FmLP_g",
       "url": "https://www.youtube.com/watch?v=B3R_8FmLP_g",
       "thumbnail": "https://i.ytimg.com/vi/B3R_8FmLP_g/mqdefault.jpg?v=6adb822d",
-      "published": "2026-10-23T15:50:05Z"
+      "published": "2026-10-23T16:00:31Z"
     },
     {
       "channel": "Canal do Farid",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "TESTOU: ATACA E DEFESA #gremio #futebol",
+      "videoId": "dre_Yz8VqDA",
+      "url": "https://www.youtube.com/watch?v=dre_Yz8VqDA",
+      "thumbnail": "https://i.ytimg.com/vi/dre_Yz8VqDA/mqdefault.jpg",
+      "published": "2026-10-23T16:00:38Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "PERIGO: NÃO PAGAR LUIS CASTRO | TIAGUINHO SAINDO DO GRÊMIO? | PROMESSA DO PRESIDENTE ACABOU?",
       "videoId": "bCS1tUteL48",
       "url": "https://www.youtube.com/watch?v=bCS1tUteL48",
       "thumbnail": "https://i.ytimg.com/vi/bCS1tUteL48/mqdefault.jpg",
       "published": "2026-10-23T15:12:39Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "REFORÇOS NO JOGO-TREINO! | VAI FALAR: POLÊMICA? | CORITIBA VAI LOTAR ESTÁDIO X GRÊMIO.",
-      "videoId": "nC3NgfdUrww",
-      "url": "https://www.youtube.com/watch?v=nC3NgfdUrww",
-      "thumbnail": "https://i.ytimg.com/vi/nC3NgfdUrww/mqdefault.jpg",
-      "published": "2026-10-22T22:21:26Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -168,7 +168,7 @@
       "videoId": "1BN3QKgTWZM",
       "url": "https://www.youtube.com/watch?v=1BN3QKgTWZM",
       "thumbnail": "https://i.ytimg.com/vi/1BN3QKgTWZM/mqdefault.jpg?v=6ada1808",
-      "published": "2026-10-23T15:04:05Z"
+      "published": "2026-10-23T16:01:29Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "ENTREVISTA EXCLUSIVA COM CELSO ROTH - EX-TÉCNICO DA DUPLA GRENAL | 23/10/26",
+      "videoId": "wNC2VfRwRaw",
+      "url": "https://www.youtube.com/watch?v=wNC2VfRwRaw",
+      "thumbnail": "https://i.ytimg.com/vi/wNC2VfRwRaw/mqdefault.jpg",
+      "published": "2026-10-23T16:45:19Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "VIRADA HISTÓRICA! 🇪🇪 #gremio #tricolor #celsoroth #ronaldinho #estádioolímpico",
       "videoId": "hu5z81BbbZI",
       "url": "https://www.youtube.com/watch?v=hu5z81BbbZI",
@@ -219,12 +227,12 @@
       "published": "2026-10-23T14:53:44Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "FALOU SOBRE BASE E ESTRANGEIROS! 🇮🇩🇪🇪 #gremio #inter #grenal #celsoroth #futebol",
-      "videoId": "Abb0qACI6SY",
-      "url": "https://www.youtube.com/watch?v=Abb0qACI6SY",
-      "thumbnail": "https://i.ytimg.com/vi/Abb0qACI6SY/mqdefault.jpg",
-      "published": "2026-10-23T13:38:12Z"
+      "channel": "Radio Imortal",
+      "title": "AO VIVO | ENTREVISTA COLETIVA DE MARLON E CARLOS VINÍCIUS | DIRETO DA ARENA DO GRÊMIO",
+      "videoId": "F8q4VMYkwGI",
+      "url": "https://www.youtube.com/watch?v=F8q4VMYkwGI",
+      "thumbnail": "https://i.ytimg.com/vi/F8q4VMYkwGI/mqdefault.jpg?v=6adad45a",
+      "published": "2026-10-23T16:47:29Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=XKR2Gf4s6vQ",
       "thumbnail": "https://i.ytimg.com/vi/XKR2Gf4s6vQ/mqdefault.jpg",
       "published": "2026-10-23T15:24:10Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #50 — GRÊMIO TERÁ MUDANÇAS CONTRA O CORITIBA?",
-      "videoId": "DvTVniOUWt4",
-      "url": "https://www.youtube.com/watch?v=DvTVniOUWt4",
-      "thumbnail": "https://i.ytimg.com/vi/DvTVniOUWt4/mqdefault.jpg?v=6adad28f",
-      "published": "2026-10-23T12:22:41Z"
     }
   ]
 }
