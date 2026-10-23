@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T14:01:54.151813+00:00",
+  "updated_at": "2026-10-23T15:00:40.160238+00:00",
   "total": 30,
   "videos": [
     {
@@ -24,15 +24,15 @@
       "videoId": "dpoLYfomcgQ",
       "url": "https://www.youtube.com/watch?v=dpoLYfomcgQ",
       "thumbnail": "https://i.ytimg.com/vi/dpoLYfomcgQ/mqdefault.jpg?v=6adaae40",
-      "published": "2026-10-23T13:42:41Z"
+      "published": "2026-10-23T14:52:52Z"
     },
     {
       "channel": "Bage TV",
-      "title": "O FUTURO DO GRÊMIO SERÁ DECIDIDO NOS PRÓXIMOS 15 DIAS! 3 CAMINHOS ESTÃO NA MESA.#CORTEDORESENHANOITE",
-      "videoId": "rSlo8OCabCk",
-      "url": "https://www.youtube.com/watch?v=rSlo8OCabCk",
-      "thumbnail": "https://i.ytimg.com/vi/rSlo8OCabCk/mqdefault.jpg",
-      "published": "2026-10-23T13:40:06Z"
+      "title": "ESTA MUITO DIFÍCIL.",
+      "videoId": "d6NjeAUQN4s",
+      "url": "https://www.youtube.com/watch?v=d6NjeAUQN4s",
+      "thumbnail": "https://i.ytimg.com/vi/d6NjeAUQN4s/mqdefault.jpg",
+      "published": "2026-10-23T14:27:35Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "GUIA DA RODADA: O cenário ideal na luta pra escapar do Z4",
+      "videoId": "WEXeeWlE2p4",
+      "url": "https://www.youtube.com/watch?v=WEXeeWlE2p4",
+      "thumbnail": "https://i.ytimg.com/vi/WEXeeWlE2p4/mqdefault.jpg",
+      "published": "2026-10-23T14:23:38Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: SEXTOU COM GRÊMIO E INTER NA RODADA DECISIVA DO BRASILEIRÃO",
       "videoId": "Lj47ohkgaXY",
       "url": "https://www.youtube.com/watch?v=Lj47ohkgaXY",
       "thumbnail": "https://i.ytimg.com/vi/Lj47ohkgaXY/mqdefault.jpg",
       "published": "2026-10-23T12:19:45Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: Os prints do golpe + multa revelada + Operação Curitiba e Operação Beira-Rio",
-      "videoId": "GtwwPTy2e3M",
-      "url": "https://www.youtube.com/watch?v=GtwwPTy2e3M",
-      "thumbnail": "https://i.ytimg.com/vi/GtwwPTy2e3M/mqdefault.jpg",
-      "published": "2026-10-23T00:08:05Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "VIRADA HISTÓRICA! 🇪🇪 #gremio #tricolor #celsoroth #ronaldinho #estádioolímpico",
+      "videoId": "hu5z81BbbZI",
+      "url": "https://www.youtube.com/watch?v=hu5z81BbbZI",
+      "thumbnail": "https://i.ytimg.com/vi/hu5z81BbbZI/mqdefault.jpg",
+      "published": "2026-10-23T14:53:44Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "FALOU SOBRE BASE E ESTRANGEIROS! 🇮🇩🇪🇪 #gremio #inter #grenal #celsoroth #futebol",
       "videoId": "Abb0qACI6SY",
       "url": "https://www.youtube.com/watch?v=Abb0qACI6SY",
@@ -219,20 +227,12 @@
       "published": "2026-10-23T13:38:12Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 23/10/2026",
-      "videoId": "V7GiXJDQ6y0",
-      "url": "https://www.youtube.com/watch?v=V7GiXJDQ6y0",
-      "thumbnail": "https://i.ytimg.com/vi/V7GiXJDQ6y0/mqdefault.jpg?v=6adb689d",
-      "published": "2026-10-23T11:01:19Z"
-    },
-    {
       "channel": "Radio Imortal",
       "title": "OS TESTES DE RENATO PARA O JOGO  DE SEGUNDA-FEIRA | COMO É BOM SER DO GRÊMIO #70",
       "videoId": "XKR2Gf4s6vQ",
       "url": "https://www.youtube.com/watch?v=XKR2Gf4s6vQ",
       "thumbnail": "https://i.ytimg.com/vi/XKR2Gf4s6vQ/mqdefault.jpg?v=6adad2e4",
-      "published": "2026-10-23T13:02:48Z"
+      "published": "2026-10-23T14:40:55Z"
     },
     {
       "channel": "Radio Imortal",
