@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-23T19:00:42.837497+00:00",
+  "updated_at": "2026-10-23T20:00:42.208548+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 ⚠️ REBAIXAMOS UM DA DUPLA! | ÚLTIMA RODADA FICOU ABSURDA! | SIMULAMOS TUDO!",
+      "videoId": "nMIGdB__2To",
+      "url": "https://www.youtube.com/watch?v=nMIGdB__2To",
+      "thumbnail": "https://i.ytimg.com/vi/nMIGdB__2To/mqdefault.jpg",
+      "published": "2026-10-23T19:01:33Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 NOVO DIRIGENTE ACERTADO | KAUAN JESUS OU ANTHONI! | E O TIME?",
@@ -11,20 +19,12 @@
       "published": "2026-10-23T07:38:10Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: CLUBE PODE PERDER SEUS CRAQUES! | JOGO TREINO E DESTAQUES | ACORDO COM CASTRO",
-      "videoId": "QoJG-sxteT0",
-      "url": "https://www.youtube.com/watch?v=QoJG-sxteT0",
-      "thumbnail": "https://i.ytimg.com/vi/QoJG-sxteT0/mqdefault.jpg",
-      "published": "2026-10-23T05:00:21Z"
-    },
-    {
       "channel": "Bage TV",
       "title": "MARLON RESPONDEU QUESTIONAMENTO SOBRE \"BICHO\"🔹 THE TARDE 🔹#247",
       "videoId": "hSz6W9VqyHE",
       "url": "https://www.youtube.com/watch?v=hSz6W9VqyHE",
-      "thumbnail": "https://i.ytimg.com/vi/hSz6W9VqyHE/mqdefault.jpg?v=6adaaead",
-      "published": "2026-10-23T18:29:49Z"
+      "thumbnail": "https://i.ytimg.com/vi/hSz6W9VqyHE/mqdefault.jpg",
+      "published": "2026-10-23T19:57:04Z"
     },
     {
       "channel": "Bage TV",
@@ -148,19 +148,27 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "GRÊMIO TRABALHA FORTE PARA DECISÃO EM CURITIBA",
-      "videoId": "QMifXQhhuTM",
-      "url": "https://www.youtube.com/watch?v=QMifXQhhuTM",
-      "thumbnail": "https://i.ytimg.com/vi/QMifXQhhuTM/mqdefault.jpg",
-      "published": "2026-10-21T22:28:16Z"
+      "title": "AO VIVO | COLETIVA PÓS-JOGO I CORITIBA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "9OORKHSjm2k",
+      "url": "https://www.youtube.com/watch?v=9OORKHSjm2k",
+      "thumbnail": "https://i.ytimg.com/vi/9OORKHSjm2k/mqdefault.jpg?v=6adbb40e",
+      "published": "2026-10-23T19:22:52Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I SUB-17 I 2026)",
-      "videoId": "ZEzHLRSDk4g",
-      "url": "https://www.youtube.com/watch?v=ZEzHLRSDk4g",
-      "thumbnail": "https://i.ytimg.com/vi/ZEzHLRSDk4g/mqdefault.jpg",
-      "published": "2026-10-21T20:08:13Z"
+      "title": "AO VIVO | CORITIBA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "wd2lw3Pr8QY",
+      "url": "https://www.youtube.com/watch?v=wd2lw3Pr8QY",
+      "thumbnail": "https://i.ytimg.com/vi/wd2lw3Pr8QY/mqdefault.jpg?v=6adbb251",
+      "published": "2026-10-23T19:15:26Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Debate na Globo, segundo turno entre Flávio Bolsonaro e Lula, trânsito e mais | Gaúcha+ | 23/10/2026",
+      "videoId": "43Xz3xbTjGs",
+      "url": "https://www.youtube.com/watch?v=43Xz3xbTjGs",
+      "thumbnail": "https://i.ytimg.com/vi/43Xz3xbTjGs/mqdefault.jpg?v=6adb9af5",
+      "published": "2026-10-23T19:34:29Z"
     },
     {
       "channel": "GZH Digital",
@@ -169,14 +177,6 @@
       "url": "https://www.youtube.com/watch?v=_g8HUVuG0pU",
       "thumbnail": "https://i.ytimg.com/vi/_g8HUVuG0pU/mqdefault.jpg",
       "published": "2026-10-23T18:27:03Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Debate na Globo, segundo turno entre Flávio Bolsonaro e Lula, trânsito e mais | Gaúcha+ | 23/10/2026",
-      "videoId": "43Xz3xbTjGs",
-      "url": "https://www.youtube.com/watch?v=43Xz3xbTjGs",
-      "thumbnail": "https://i.ytimg.com/vi/43Xz3xbTjGs/mqdefault.jpg?v=6adb9af5",
-      "published": "2026-10-23T18:00:05Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,19 +212,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ENTREVISTA EXCLUSIVA COM CELSO ROTH - EX-TÉCNICO DA DUPLA GRENAL | 23/10/26",
-      "videoId": "wNC2VfRwRaw",
-      "url": "https://www.youtube.com/watch?v=wNC2VfRwRaw",
-      "thumbnail": "https://i.ytimg.com/vi/wNC2VfRwRaw/mqdefault.jpg",
-      "published": "2026-10-23T16:45:19Z"
+      "title": "GRUPO FECHADO! 🇪🇪 #shorts",
+      "videoId": "2fulckQJkdM",
+      "url": "https://www.youtube.com/watch?v=2fulckQJkdM",
+      "thumbnail": "https://i.ytimg.com/vi/2fulckQJkdM/mqdefault.jpg",
+      "published": "2026-10-23T19:33:24Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "VIRADA HISTÓRICA! 🇪🇪 #gremio #tricolor #celsoroth #ronaldinho #estádioolímpico",
-      "videoId": "hu5z81BbbZI",
-      "url": "https://www.youtube.com/watch?v=hu5z81BbbZI",
-      "thumbnail": "https://i.ytimg.com/vi/hu5z81BbbZI/mqdefault.jpg",
-      "published": "2026-10-23T14:53:44Z"
+      "title": "\"A MENTIRA COMEÇA A IMPACTAR!\" 🇪🇪 #shorts",
+      "videoId": "KIRyTFOjREc",
+      "url": "https://www.youtube.com/watch?v=KIRyTFOjREc",
+      "thumbnail": "https://i.ytimg.com/vi/KIRyTFOjREc/mqdefault.jpg",
+      "published": "2026-10-23T19:28:08Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "RENATO PORTALUPPI SE PRONUNCIOU! | REPERCUSSÃO DA COLETIVA DOS JOGADORES DO GRÊMIO | ESPLANADA",
+      "videoId": "GtxnHlGo6Ic",
+      "url": "https://www.youtube.com/watch?v=GtxnHlGo6Ic",
+      "thumbnail": "https://i.ytimg.com/vi/GtxnHlGo6Ic/mqdefault.jpg",
+      "published": "2026-10-23T19:45:26Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=F8q4VMYkwGI",
       "thumbnail": "https://i.ytimg.com/vi/F8q4VMYkwGI/mqdefault.jpg",
       "published": "2026-10-23T18:41:38Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO PORTALUPPI SE PRONUNCIOU! | REPERCUSSÃO DA COLETIVA DOS JOGADORES DO GRÊMIO | ESPLANADA",
-      "videoId": "GtxnHlGo6Ic",
-      "url": "https://www.youtube.com/watch?v=GtxnHlGo6Ic",
-      "thumbnail": "https://i.ytimg.com/vi/GtxnHlGo6Ic/mqdefault.jpg?v=6adb9d36",
-      "published": "2026-10-23T18:31:43Z"
     }
   ]
 }
