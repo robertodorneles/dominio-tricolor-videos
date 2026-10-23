@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:00:37.841831+00:00",
+  "updated_at": "2026-10-23T12:00:37.069873+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 FUTEBOL ALEGRIA DO GRÊMIO - 23/10 - #662",
+      "videoId": "xz1hhknTA04",
+      "url": "https://www.youtube.com/watch?v=xz1hhknTA04",
+      "thumbnail": "https://i.ytimg.com/vi/xz1hhknTA04/mqdefault.jpg?v=6adaade3",
+      "published": "2026-10-23T11:57:37Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "CARLOS VINÍCIUS VAI PARA O GALO? 🌅🔵 BOM DIA GRÊMIO #160",
       "videoId": "YoU4qdVx9so",
       "url": "https://www.youtube.com/watch?v=YoU4qdVx9so",
       "thumbnail": "https://i.ytimg.com/vi/YoU4qdVx9so/mqdefault.jpg?v=6adaadb5",
-      "published": "2026-10-23T09:30:53Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "QUANTO O GRÊMIO DEVE PARA LUÍS CASTRO?🔵 BOA NOITE GRÊMIO #048",
-      "videoId": "Sxkg8BF-qQc",
-      "url": "https://www.youtube.com/watch?v=Sxkg8BF-qQc",
-      "thumbnail": "https://i.ytimg.com/vi/Sxkg8BF-qQc/mqdefault.jpg",
-      "published": "2026-10-23T02:50:51Z"
+      "published": "2026-10-23T11:50:17Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #045",
+      "videoId": "o3kNu57gbbo",
+      "url": "https://www.youtube.com/watch?v=o3kNu57gbbo",
+      "thumbnail": "https://i.ytimg.com/vi/o3kNu57gbbo/mqdefault.jpg?v=6ada0fba",
+      "published": "2026-10-23T11:30:21Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #40",
       "videoId": "GmHrgtfb0vc",
       "url": "https://www.youtube.com/watch?v=GmHrgtfb0vc",
       "thumbnail": "https://i.ytimg.com/vi/GmHrgtfb0vc/mqdefault.jpg",
       "published": "2026-10-23T05:18:05Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #044",
-      "videoId": "8qZpHD25T_Y",
-      "url": "https://www.youtube.com/watch?v=8qZpHD25T_Y",
-      "thumbnail": "https://i.ytimg.com/vi/8qZpHD25T_Y/mqdefault.jpg",
-      "published": "2026-10-23T00:41:09Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Segundo turno das eleições, Projeto Natureza da CMPC, trânsito e + | Gaúcha Atualidade | 23/10/2026",
+      "videoId": "ury9Nzc0aeY",
+      "url": "https://www.youtube.com/watch?v=ury9Nzc0aeY",
+      "thumbnail": "https://i.ytimg.com/vi/ury9Nzc0aeY/mqdefault.jpg?v=6ada0673",
+      "published": "2026-10-23T11:00:19Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Secretariado de Zucco, terras raras, quebra de sigilo e mais | Sala de Eleição | 22/10/2026",
       "videoId": "M4pat92jC1k",
       "url": "https://www.youtube.com/watch?v=M4pat92jC1k",
@@ -171,20 +179,12 @@
       "published": "2026-10-23T03:59:16Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Liderança em Sala: Assista à temporada completa",
-      "videoId": "Ais-Ag_gHOY",
-      "url": "https://www.youtube.com/watch?v=Ais-Ag_gHOY",
-      "thumbnail": "https://i.ytimg.com/vi/Ais-Ag_gHOY/mqdefault.jpg",
-      "published": "2026-10-23T01:00:20Z"
-    },
-    {
       "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: SEXTOU COM GRÊMIO E INTER NA RODADA DECISIVA DO BRASILEIRÃO",
       "videoId": "Lj47ohkgaXY",
       "url": "https://www.youtube.com/watch?v=Lj47ohkgaXY",
       "thumbnail": "https://i.ytimg.com/vi/Lj47ohkgaXY/mqdefault.jpg?v=6adac9a6",
-      "published": "2026-10-23T02:42:43Z"
+      "published": "2026-10-23T11:04:04Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "V7GiXJDQ6y0",
       "url": "https://www.youtube.com/watch?v=V7GiXJDQ6y0",
       "thumbnail": "https://i.ytimg.com/vi/V7GiXJDQ6y0/mqdefault.jpg?v=6adb3d82",
-      "published": "2026-10-23T10:28:02Z"
+      "published": "2026-10-23T11:01:19Z"
     },
     {
       "channel": "Radio Grenal",
