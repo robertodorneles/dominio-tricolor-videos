@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-23T20:00:42.208548+00:00",
+  "updated_at": "2026-10-23T21:00:43.692500+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫ Grêmio: TIAGUINHO IMPRESSIONA E RENATO PREPARA ALTERNATIVA NO GRÊMIO!",
+      "videoId": "Z67mn78GfqI",
+      "url": "https://www.youtube.com/watch?v=Z67mn78GfqI",
+      "thumbnail": "https://i.ytimg.com/vi/Z67mn78GfqI/mqdefault.jpg",
+      "published": "2026-10-23T20:00:26Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵🔴 ⚠️ REBAIXAMOS UM DA DUPLA! | ÚLTIMA RODADA FICOU ABSURDA! | SIMULAMOS TUDO!",
@@ -11,28 +19,20 @@
       "published": "2026-10-23T19:01:33Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 NOVO DIRIGENTE ACERTADO | KAUAN JESUS OU ANTHONI! | E O TIME?",
-      "videoId": "Ne7Wsl2be5o",
-      "url": "https://www.youtube.com/watch?v=Ne7Wsl2be5o",
-      "thumbnail": "https://i.ytimg.com/vi/Ne7Wsl2be5o/mqdefault.jpg",
-      "published": "2026-10-23T07:38:10Z"
+      "channel": "Bage TV",
+      "title": "CARLOS VINICIUS DESPISTA SOBRE O FUTURO! MERCADO FAZ PROMESSA DE RENOVAÇÃO📰BAGÉTV NEWS #062",
+      "videoId": "jjSSMx0AVnE",
+      "url": "https://www.youtube.com/watch?v=jjSSMx0AVnE",
+      "thumbnail": "https://i.ytimg.com/vi/jjSSMx0AVnE/mqdefault.jpg?v=6adaaee9",
+      "published": "2026-10-23T20:30:17Z"
     },
     {
       "channel": "Bage TV",
-      "title": "MARLON RESPONDEU QUESTIONAMENTO SOBRE \"BICHO\"🔹 THE TARDE 🔹#247",
-      "videoId": "hSz6W9VqyHE",
-      "url": "https://www.youtube.com/watch?v=hSz6W9VqyHE",
-      "thumbnail": "https://i.ytimg.com/vi/hSz6W9VqyHE/mqdefault.jpg",
-      "published": "2026-10-23T19:57:04Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 ENTREVISTA COLETIVA MARLON E CARLOS VINÍCIUS",
-      "videoId": "4gaI7Sdbxfc",
-      "url": "https://www.youtube.com/watch?v=4gaI7Sdbxfc",
-      "thumbnail": "https://i.ytimg.com/vi/4gaI7Sdbxfc/mqdefault.jpg",
-      "published": "2026-10-23T18:13:12Z"
+      "title": "MARLON E CARLOS VINÍCIUS FALAM! BEIRA-RIO TERÁ 35 MIL TORCEDORES!🔸RESENHA FORA DA SALA🔸#159",
+      "videoId": "N3avrs9LB4w",
+      "url": "https://www.youtube.com/watch?v=N3avrs9LB4w",
+      "thumbnail": "https://i.ytimg.com/vi/N3avrs9LB4w/mqdefault.jpg",
+      "published": "2026-10-23T20:02:19Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "DESMANCHE NO GRÊMIO? | WEVERTON NO SANTOS? | BRAITHWAITE, AMUZU, PAVON E OUTROS 7 NOMES PODEM SAIR",
+      "videoId": "otO5lGVNvhs",
+      "url": "https://www.youtube.com/watch?v=otO5lGVNvhs",
+      "thumbnail": "https://i.ytimg.com/vi/otO5lGVNvhs/mqdefault.jpg",
+      "published": "2026-10-23T20:52:32Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "CARLOS VINICIUS NO ATLÉTICO-MG? | DETALHES DA MULTA DE LUIS CASTRO: VALORES E ACORDOS | MUDANÇAS",
       "videoId": "FpEpUkgdixI",
       "url": "https://www.youtube.com/watch?v=FpEpUkgdixI",
       "thumbnail": "https://i.ytimg.com/vi/FpEpUkgdixI/mqdefault.jpg",
       "published": "2026-10-22T14:30:57Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE CORITIBA x GRÊMIO DIRETO DO COUTO PEREIRA | BRASILEIRÃO | COLETIVA | 26/10 #40",
-      "videoId": "FjHAYA5puSE",
-      "url": "https://www.youtube.com/watch?v=FjHAYA5puSE",
-      "thumbnail": "https://i.ytimg.com/vi/FjHAYA5puSE/mqdefault.jpg?v=6ad8d54d",
-      "published": "2026-10-21T15:07:55Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "ELEIÇÕES 2026: a disputa de Lula e Flávio Bolsonaro pelos votos dos gaúchos | Conversa de Gabinete",
+      "videoId": "x-WCA2i86Kc",
+      "url": "https://www.youtube.com/watch?v=x-WCA2i86Kc",
+      "thumbnail": "https://i.ytimg.com/vi/x-WCA2i86Kc/mqdefault.jpg",
+      "published": "2026-10-23T20:25:09Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Debate na Globo, segundo turno entre Flávio Bolsonaro e Lula, trânsito e mais | Gaúcha+ | 23/10/2026",
       "videoId": "43Xz3xbTjGs",
       "url": "https://www.youtube.com/watch?v=43Xz3xbTjGs",
       "thumbnail": "https://i.ytimg.com/vi/43Xz3xbTjGs/mqdefault.jpg?v=6adb9af5",
       "published": "2026-10-23T19:34:29Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "GOVERNO ZUCCO: qual o possível nome para a Secretaria da Saúde? | Sala de Eleição",
-      "videoId": "_g8HUVuG0pU",
-      "url": "https://www.youtube.com/watch?v=_g8HUVuG0pU",
-      "thumbnail": "https://i.ytimg.com/vi/_g8HUVuG0pU/mqdefault.jpg",
-      "published": "2026-10-23T18:27:03Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "HORA DE SE UNIR CONTRA O REBAIXAMENTO | ÚLTIMAS NOTÍCIAS DO GRÊMIO| NOITES DE GRÊMIO #172 - 23/10",
+      "videoId": "RV-kbIyVWOQ",
+      "url": "https://www.youtube.com/watch?v=RV-kbIyVWOQ",
+      "thumbnail": "https://i.ytimg.com/vi/RV-kbIyVWOQ/mqdefault.jpg?v=6adbc586",
+      "published": "2026-10-23T20:37:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "RENATO PORTALUPPI SE PRONUNCIOU! | REPERCUSSÃO DA COLETIVA DOS JOGADORES DO GRÊMIO | ESPLANADA",
       "videoId": "GtxnHlGo6Ic",
       "url": "https://www.youtube.com/watch?v=GtxnHlGo6Ic",
       "thumbnail": "https://i.ytimg.com/vi/GtxnHlGo6Ic/mqdefault.jpg",
       "published": "2026-10-23T19:45:26Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | ENTREVISTA COLETIVA DE MARLON E CARLOS VINÍCIUS | DIRETO DA ARENA DO GRÊMIO",
-      "videoId": "F8q4VMYkwGI",
-      "url": "https://www.youtube.com/watch?v=F8q4VMYkwGI",
-      "thumbnail": "https://i.ytimg.com/vi/F8q4VMYkwGI/mqdefault.jpg",
-      "published": "2026-10-23T18:41:38Z"
     }
   ]
 }
