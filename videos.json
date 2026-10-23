@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:00:43.692500+00:00",
+  "updated_at": "2026-10-23T21:49:10.206189+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "ESQUENTOU! RENATO, MARLON E CARLOS VINÍCIUS ABREM O JOGO NO GRÊMIO: BIXO, SAÍDAS E PROBLEMAS!",
+      "videoId": "kJCdz50rKIY",
+      "url": "https://www.youtube.com/watch?v=kJCdz50rKIY",
+      "thumbnail": "https://i.ytimg.com/vi/kJCdz50rKIY/mqdefault.jpg",
+      "published": "2026-10-23T21:45:00Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "FALARAM: PREMIAÇÃO, CONTRATOS, PEDIDOS E UNIÃO. RENATO, CARLOS VINÍCIUS E MARLON #gremio #futebol",
       "videoId": "XBYgGrkVFAI",
       "url": "https://www.youtube.com/watch?v=XBYgGrkVFAI",
       "thumbnail": "https://i.ytimg.com/vi/XBYgGrkVFAI/mqdefault.jpg",
       "published": "2026-10-23T18:00:30Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "TESTOU: ATACA E DEFESA #gremio #futebol",
-      "videoId": "dre_Yz8VqDA",
-      "url": "https://www.youtube.com/watch?v=dre_Yz8VqDA",
-      "thumbnail": "https://i.ytimg.com/vi/dre_Yz8VqDA/mqdefault.jpg",
-      "published": "2026-10-23T16:00:38Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -148,6 +148,14 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "A MELHOR DEFESA DO GAUCHÃO FEMININO",
+      "videoId": "8lG8egHN4bs",
+      "url": "https://www.youtube.com/watch?v=8lG8egHN4bs",
+      "thumbnail": "https://i.ytimg.com/vi/8lG8egHN4bs/mqdefault.jpg",
+      "published": "2026-10-23T21:14:24Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "AO VIVO | COLETIVA PÓS-JOGO I CORITIBA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
       "videoId": "9OORKHSjm2k",
       "url": "https://www.youtube.com/watch?v=9OORKHSjm2k",
@@ -155,28 +163,28 @@
       "published": "2026-10-23T19:22:52Z"
     },
     {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | CORITIBA X GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
-      "videoId": "wd2lw3Pr8QY",
-      "url": "https://www.youtube.com/watch?v=wd2lw3Pr8QY",
-      "thumbnail": "https://i.ytimg.com/vi/wd2lw3Pr8QY/mqdefault.jpg?v=6adbb251",
-      "published": "2026-10-23T19:15:26Z"
+      "channel": "GZH Digital",
+      "title": "\"AVASSALADOR\": como foi a visita de LULA a Porto Alegre | Conversa de Gabinete",
+      "videoId": "UT2qkZg1Ckk",
+      "url": "https://www.youtube.com/watch?v=UT2qkZg1Ckk",
+      "thumbnail": "https://i.ytimg.com/vi/UT2qkZg1Ckk/mqdefault.jpg",
+      "published": "2026-10-23T21:30:35Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "ELEIÇÕES 2026: a disputa de Lula e Flávio Bolsonaro pelos votos dos gaúchos | Conversa de Gabinete",
-      "videoId": "x-WCA2i86Kc",
-      "url": "https://www.youtube.com/watch?v=x-WCA2i86Kc",
-      "thumbnail": "https://i.ytimg.com/vi/x-WCA2i86Kc/mqdefault.jpg",
-      "published": "2026-10-23T20:25:09Z"
+      "title": "FLÁVIO BOLSONARO X LULA: a batalha pelo PROTAGONISMO NAS REDES | Conversa de Gabinete",
+      "videoId": "U6kFX5zneYM",
+      "url": "https://www.youtube.com/watch?v=U6kFX5zneYM",
+      "thumbnail": "https://i.ytimg.com/vi/U6kFX5zneYM/mqdefault.jpg",
+      "published": "2026-10-23T21:27:09Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Debate na Globo, segundo turno entre Flávio Bolsonaro e Lula, trânsito e mais | Gaúcha+ | 23/10/2026",
-      "videoId": "43Xz3xbTjGs",
-      "url": "https://www.youtube.com/watch?v=43Xz3xbTjGs",
-      "thumbnail": "https://i.ytimg.com/vi/43Xz3xbTjGs/mqdefault.jpg?v=6adb9af5",
-      "published": "2026-10-23T19:34:29Z"
+      "channel": "Jeremias Wernek",
+      "title": "F5 NO GRÊMIO: O que tá por trás das entrevistas + nova conta para escapar",
+      "videoId": "cRd8IMW8s3o",
+      "url": "https://www.youtube.com/watch?v=cRd8IMW8s3o",
+      "thumbnail": "https://i.ytimg.com/vi/cRd8IMW8s3o/mqdefault.jpg",
+      "published": "2026-10-23T21:29:49Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=WEXeeWlE2p4",
       "thumbnail": "https://i.ytimg.com/vi/WEXeeWlE2p4/mqdefault.jpg",
       "published": "2026-10-23T14:23:38Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: SEXTOU COM GRÊMIO E INTER NA RODADA DECISIVA DO BRASILEIRÃO",
-      "videoId": "Lj47ohkgaXY",
-      "url": "https://www.youtube.com/watch?v=Lj47ohkgaXY",
-      "thumbnail": "https://i.ytimg.com/vi/Lj47ohkgaXY/mqdefault.jpg",
-      "published": "2026-10-23T12:19:45Z"
     },
     {
       "channel": "LH Benfica",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "RENATO MANDA RECADO | O QUE FALARAM OS JOGADORES | GRÊMIO DE OLHO NA RODADA | IMORTAL FC",
+      "videoId": "tjKzg5JHaAY",
+      "url": "https://www.youtube.com/watch?v=tjKzg5JHaAY",
+      "thumbnail": "https://i.ytimg.com/vi/tjKzg5JHaAY/mqdefault.jpg?v=6adbca89",
+      "published": "2026-10-23T21:01:01Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "HORA DE SE UNIR CONTRA O REBAIXAMENTO | ÚLTIMAS NOTÍCIAS DO GRÊMIO| NOITES DE GRÊMIO #172 - 23/10",
       "videoId": "RV-kbIyVWOQ",
       "url": "https://www.youtube.com/watch?v=RV-kbIyVWOQ",
       "thumbnail": "https://i.ytimg.com/vi/RV-kbIyVWOQ/mqdefault.jpg?v=6adbc586",
       "published": "2026-10-23T20:37:24Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "RENATO PORTALUPPI SE PRONUNCIOU! | REPERCUSSÃO DA COLETIVA DOS JOGADORES DO GRÊMIO | ESPLANADA",
-      "videoId": "GtxnHlGo6Ic",
-      "url": "https://www.youtube.com/watch?v=GtxnHlGo6Ic",
-      "thumbnail": "https://i.ytimg.com/vi/GtxnHlGo6Ic/mqdefault.jpg",
-      "published": "2026-10-23T19:45:26Z"
     }
   ]
 }
