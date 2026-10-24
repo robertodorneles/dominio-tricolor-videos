@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:00:39.406769+00:00",
+  "updated_at": "2026-10-24T20:00:41.975205+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ENTREVISTA COM JARDEL- FALA, COSTA! #09",
+      "videoId": "ZUnBHxenrxI",
+      "url": "https://www.youtube.com/watch?v=ZUnBHxenrxI",
+      "thumbnail": "https://i.ytimg.com/vi/ZUnBHxenrxI/mqdefault.jpg",
+      "published": "2026-10-24T19:14:04Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "RESENHA DAS GURIAS  #O4",
       "videoId": "7o7se48hXZ8",
       "url": "https://www.youtube.com/watch?v=7o7se48hXZ8",
       "thumbnail": "https://i.ytimg.com/vi/7o7se48hXZ8/mqdefault.jpg?v=6adca5d0",
       "published": "2026-10-24T14:05:16Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | A VITORIA É INEGOCIÀVEL | TORCIDA VAI INVADIR  CORITIBA | CLUBE TRIOLOR #10",
-      "videoId": "owbX6zb9PkM",
-      "url": "https://www.youtube.com/watch?v=owbX6zb9PkM",
-      "thumbnail": "https://i.ytimg.com/vi/owbX6zb9PkM/mqdefault.jpg",
-      "published": "2026-10-24T13:26:51Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO O JOGO | INTER X BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
+      "title": "AO VIVO DO BEIRA-RIO | INTER 0 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
       "videoId": "1-_Kb0G4zaQ",
       "url": "https://www.youtube.com/watch?v=1-_Kb0G4zaQ",
       "thumbnail": "https://i.ytimg.com/vi/1-_Kb0G4zaQ/mqdefault.jpg?v=6adcde6e",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CURITIBA | LISTA DE RELACIONADOS PARA JOGO DECISIVO NO BRASILEIRÃO",
+      "videoId": "Kra9eQr-yo8",
+      "url": "https://www.youtube.com/watch?v=Kra9eQr-yo8",
+      "thumbnail": "https://i.ytimg.com/vi/Kra9eQr-yo8/mqdefault.jpg?v=6add05fb",
+      "published": "2026-10-24T19:24:41Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "SÁBADO DE SECAÇÃO PARA O GRÊMIO NO BRASILEIRÃO! | RENATO PEDE UNIÃO | PLANTÃO IMORTAL",
       "videoId": "kQcRdmgN4cY",
       "url": "https://www.youtube.com/watch?v=kQcRdmgN4cY",
       "thumbnail": "https://i.ytimg.com/vi/kQcRdmgN4cY/mqdefault.jpg",
       "published": "2026-10-24T14:58:23Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "HORA DE SE UNIR CONTRA O REBAIXAMENTO | ÚLTIMAS NOTÍCIAS DO GRÊMIO| NOITES DE GRÊMIO #172 - 23/10",
-      "videoId": "RV-kbIyVWOQ",
-      "url": "https://www.youtube.com/watch?v=RV-kbIyVWOQ",
-      "thumbnail": "https://i.ytimg.com/vi/RV-kbIyVWOQ/mqdefault.jpg",
-      "published": "2026-10-24T12:52:32Z"
     }
   ]
 }
