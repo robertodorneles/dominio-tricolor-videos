@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-24T22:00:36.503116+00:00",
+  "updated_at": "2026-10-24T22:51:09.817933+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪ Inter 3x0 Botafogo: 🔥 ASSISTA AOS MELHORES MOMENTOS! | ATUAÇÃO IMPECÁVEL | SAINDO DA ZONA!",
+      "videoId": "JuNA3N45pE4",
+      "url": "https://www.youtube.com/watch?v=JuNA3N45pE4",
+      "thumbnail": "https://i.ytimg.com/vi/JuNA3N45pE4/mqdefault.jpg",
+      "published": "2026-10-24T22:35:40Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A CONTA DA DIREÇÃO É QUASE INVIÁVEL NESSE MOMENTO | O CÁLCULO DA RECUPERAÇÃO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=QE7pnkSznuo",
       "thumbnail": "https://i.ytimg.com/vi/QE7pnkSznuo/mqdefault.jpg",
       "published": "2026-10-24T20:14:20Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 ESCALAÇÃO COM SURPRESA | ELE AFASTOU O ZAGUEIRO | MELO RECUA!",
-      "videoId": "rPq-T1skCkY",
-      "url": "https://www.youtube.com/watch?v=rPq-T1skCkY",
-      "thumbnail": "https://i.ytimg.com/vi/rPq-T1skCkY/mqdefault.jpg",
-      "published": "2026-10-24T06:02:59Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "LIVE DE SÁBADO - SITUAÇÃO DO BRASILEIRÃO | COXA X GRÊMIO",
+      "videoId": "EqTNG-4GgP8",
+      "url": "https://www.youtube.com/watch?v=EqTNG-4GgP8",
+      "thumbnail": "https://i.ytimg.com/vi/EqTNG-4GgP8/mqdefault.jpg?v=6adcedaf",
+      "published": "2026-10-24T22:05:07Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Sábado decisivo | Objetivo do grupo do Grêmio | Dúvida estrutural no time de Renato",
       "videoId": "C1cnaJYnTGo",
       "url": "https://www.youtube.com/watch?v=C1cnaJYnTGo",
@@ -59,20 +67,12 @@
       "published": "2026-10-24T15:55:43Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: CORITIBA X GRÊMIO",
-      "videoId": "i0Tg972um3w",
-      "url": "https://www.youtube.com/watch?v=i0Tg972um3w",
-      "thumbnail": "https://i.ytimg.com/vi/i0Tg972um3w/mqdefault.jpg?v=6adcc036",
-      "published": "2026-10-24T14:27:00Z"
-    },
-    {
       "channel": "Canal do Farid",
       "title": "ENTREVISTA COM JARDEL- FALA, COSTA! #09",
       "videoId": "ZUnBHxenrxI",
       "url": "https://www.youtube.com/watch?v=ZUnBHxenrxI",
       "thumbnail": "https://i.ytimg.com/vi/ZUnBHxenrxI/mqdefault.jpg",
-      "published": "2026-10-24T19:14:04Z"
+      "published": "2026-10-24T22:00:08Z"
     },
     {
       "channel": "Canal do Farid",
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I 2026)",
-      "videoId": "ExtdZbFQaDg",
-      "url": "https://www.youtube.com/watch?v=ExtdZbFQaDg",
-      "thumbnail": "https://i.ytimg.com/vi/ExtdZbFQaDg/mqdefault.jpg",
-      "published": "2026-10-24T20:21:44Z"
+      "title": "GOLS | GRÊMIO 2 X 1 JUVENTUDE (CAMPEONATO GAÚCHO FEMININO)",
+      "videoId": "PpbYawXA9sI",
+      "url": "https://www.youtube.com/watch?v=PpbYawXA9sI",
+      "thumbnail": "https://i.ytimg.com/vi/PpbYawXA9sI/mqdefault.jpg",
+      "published": "2026-10-24T22:21:02Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "OPERAÇÃO CURITIBA | RENATO, MARLON E CARLOS VINÍCIUS FALAM NA ARENA",
-      "videoId": "RMbLbkSvJiI",
-      "url": "https://www.youtube.com/watch?v=RMbLbkSvJiI",
-      "thumbnail": "https://i.ytimg.com/vi/RMbLbkSvJiI/mqdefault.jpg",
-      "published": "2026-10-23T22:14:53Z"
+      "title": "COLETIVA PÓS-JOGO | GRÊMIO 2 X 1 JUVENTUDE (CAMPEONATO GAÚCHO FEMININO)",
+      "videoId": "Zd3orw221AE",
+      "url": "https://www.youtube.com/watch?v=Zd3orw221AE",
+      "thumbnail": "https://i.ytimg.com/vi/Zd3orw221AE/mqdefault.jpg",
+      "published": "2026-10-24T22:12:37Z"
     },
     {
       "channel": "GZH Digital",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "INTER VENCE E MEXE NA TABELA: Qual impacto e a conta atualizada",
+      "videoId": "9LdIFXs7KS4",
+      "url": "https://www.youtube.com/watch?v=9LdIFXs7KS4",
+      "thumbnail": "https://i.ytimg.com/vi/9LdIFXs7KS4/mqdefault.jpg",
+      "published": "2026-10-24T22:31:05Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "F5 NO GRÊMIO: O que tá por trás das entrevistas + nova conta para escapar",
       "videoId": "cRd8IMW8s3o",
       "url": "https://www.youtube.com/watch?v=cRd8IMW8s3o",
       "thumbnail": "https://i.ytimg.com/vi/cRd8IMW8s3o/mqdefault.jpg",
       "published": "2026-10-23T21:29:49Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GUIA DA RODADA: O cenário ideal na luta pra escapar do Z4",
-      "videoId": "WEXeeWlE2p4",
-      "url": "https://www.youtube.com/watch?v=WEXeeWlE2p4",
-      "thumbnail": "https://i.ytimg.com/vi/WEXeeWlE2p4/mqdefault.jpg",
-      "published": "2026-10-23T14:23:38Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "ADIVINHEEEEEE 🇮🇩🤪",
-      "videoId": "XbcJiuqiCoU",
-      "url": "https://www.youtube.com/watch?v=XbcJiuqiCoU",
-      "thumbnail": "https://i.ytimg.com/vi/XbcJiuqiCoU/mqdefault.jpg",
-      "published": "2026-10-24T21:41:46Z"
+      "title": "GOLS DE INTER 3 X 0 BOTAFOGO | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
+      "videoId": "GbREGkbohgs",
+      "url": "https://www.youtube.com/watch?v=GbREGkbohgs",
+      "thumbnail": "https://i.ytimg.com/vi/GbREGkbohgs/mqdefault.jpg",
+      "published": "2026-10-24T22:41:18Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BEIRA-RIO | INTER 3 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
-      "videoId": "1-_Kb0G4zaQ",
-      "url": "https://www.youtube.com/watch?v=1-_Kb0G4zaQ",
-      "thumbnail": "https://i.ytimg.com/vi/1-_Kb0G4zaQ/mqdefault.jpg?v=6adcde6e",
-      "published": "2026-10-24T17:31:30Z"
+      "title": "KAUAN JESUS 🇮🇩😍 #inter #colorado #brasileirao #beirario #coletiva",
+      "videoId": "KDEKZG41WzA",
+      "url": "https://www.youtube.com/watch?v=KDEKZG41WzA",
+      "thumbnail": "https://i.ytimg.com/vi/KDEKZG41WzA/mqdefault.jpg",
+      "published": "2026-10-24T22:38:00Z"
     },
     {
       "channel": "Radio Imortal",
