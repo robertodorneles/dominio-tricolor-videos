@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-24T20:08:23.987926+00:00",
+  "updated_at": "2026-10-24T21:00:40.773554+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A CONTA DA DIREÇÃO É QUASE INVIÁVEL NESSE MOMENTO | O CÁLCULO DA RECUPERAÇÃO",
+      "videoId": "QE7pnkSznuo",
+      "url": "https://www.youtube.com/watch?v=QE7pnkSznuo",
+      "thumbnail": "https://i.ytimg.com/vi/QE7pnkSznuo/mqdefault.jpg",
+      "published": "2026-10-24T20:14:20Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 ESCALAÇÃO COM SURPRESA | ELE AFASTOU O ZAGUEIRO | MELO RECUA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=rPq-T1skCkY",
       "thumbnail": "https://i.ytimg.com/vi/rPq-T1skCkY/mqdefault.jpg",
       "published": "2026-10-24T06:02:59Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: RENATO SURPREENDEU A TODOS! MARLON ADMITE ERROS E GRÊMIO MUDA O TIME!",
-      "videoId": "UXaM_102I3k",
-      "url": "https://www.youtube.com/watch?v=UXaM_102I3k",
-      "thumbnail": "https://i.ytimg.com/vi/UXaM_102I3k/mqdefault.jpg",
-      "published": "2026-10-24T05:15:18Z"
     },
     {
       "channel": "Bage TV",
@@ -151,8 +151,8 @@
       "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I 2026)",
       "videoId": "ExtdZbFQaDg",
       "url": "https://www.youtube.com/watch?v=ExtdZbFQaDg",
-      "thumbnail": "https://i.ytimg.com/vi/ExtdZbFQaDg/mqdefault.jpg?v=6adbb1af",
-      "published": "2026-10-24T20:05:42Z"
+      "thumbnail": "https://i.ytimg.com/vi/ExtdZbFQaDg/mqdefault.jpg",
+      "published": "2026-10-24T20:21:44Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DO BEIRA-RIO | INTER 1 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
+      "title": "AO VIVO DO BEIRA-RIO | INTER 2 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
       "videoId": "1-_Kb0G4zaQ",
       "url": "https://www.youtube.com/watch?v=1-_Kb0G4zaQ",
       "thumbnail": "https://i.ytimg.com/vi/1-_Kb0G4zaQ/mqdefault.jpg?v=6adcde6e",
