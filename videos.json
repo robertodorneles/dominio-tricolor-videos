@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:10:08.803377+00:00",
+  "updated_at": "2026-10-24T18:00:42.361948+00:00",
   "total": 30,
   "videos": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "channel": "GremioTV Oficial",
+      "title": "AO VIVO E COM IMAGENS | GRÊMIO X JUVENTUDE (CAMPEONATO GAÚCHO FEMININO I 2026)",
+      "videoId": "ExtdZbFQaDg",
+      "url": "https://www.youtube.com/watch?v=ExtdZbFQaDg",
+      "thumbnail": "https://i.ytimg.com/vi/ExtdZbFQaDg/mqdefault.jpg?v=6adbb1af",
+      "published": "2026-10-24T17:49:29Z"
+    },
+    {
+      "channel": "GremioTV Oficial",
       "title": "OPERAÇÃO CURITIBA | RENATO, MARLON E CARLOS VINÍCIUS FALAM NA ARENA",
       "videoId": "RMbLbkSvJiI",
       "url": "https://www.youtube.com/watch?v=RMbLbkSvJiI",
       "thumbnail": "https://i.ytimg.com/vi/RMbLbkSvJiI/mqdefault.jpg",
       "published": "2026-10-23T22:14:53Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "A MELHOR DEFESA DO GAUCHÃO FEMININO",
-      "videoId": "8lG8egHN4bs",
-      "url": "https://www.youtube.com/watch?v=8lG8egHN4bs",
-      "thumbnail": "https://i.ytimg.com/vi/8lG8egHN4bs/mqdefault.jpg",
-      "published": "2026-10-23T21:14:24Z"
     },
     {
       "channel": "GZH Digital",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | ESQUENTANDO O JOGO | INTER X BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
+      "videoId": "1-_Kb0G4zaQ",
+      "url": "https://www.youtube.com/watch?v=1-_Kb0G4zaQ",
+      "thumbnail": "https://i.ytimg.com/vi/1-_Kb0G4zaQ/mqdefault.jpg?v=6adcde6e",
+      "published": "2026-10-24T17:31:30Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "AO VIVO | LIVE COMPLETA | RÁDIO GRENAL | 23/10/2026",
       "videoId": "V7GiXJDQ6y0",
       "url": "https://www.youtube.com/watch?v=V7GiXJDQ6y0",
       "thumbnail": "https://i.ytimg.com/vi/V7GiXJDQ6y0/mqdefault.jpg",
       "published": "2026-10-24T00:48:23Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO O JOGO | INTER X BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
-      "videoId": "1-_Kb0G4zaQ",
-      "url": "https://www.youtube.com/watch?v=1-_Kb0G4zaQ",
-      "thumbnail": "https://i.ytimg.com/vi/1-_Kb0G4zaQ/mqdefault.jpg?v=6adcde6e",
-      "published": "2026-10-23T23:03:19Z"
     },
     {
       "channel": "Radio Imortal",
