@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:00:41.526108+00:00",
+  "updated_at": "2026-10-25T19:00:35.677960+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 CHEGADA DO GRÊMIO EM CURITIBA",
+      "videoId": "tmxzKs2zIrU",
+      "url": "https://www.youtube.com/watch?v=tmxzKs2zIrU",
+      "thumbnail": "https://i.ytimg.com/vi/tmxzKs2zIrU/mqdefault.jpg?v=6adbfc80",
+      "published": "2026-10-25T18:22:23Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔸RESENHA FORA DA SALA🔸#160",
       "videoId": "lxbgGs8f7Fo",
       "url": "https://www.youtube.com/watch?v=lxbgGs8f7Fo",
       "thumbnail": "https://i.ytimg.com/vi/lxbgGs8f7Fo/mqdefault.jpg?v=6ade2cef",
       "published": "2026-10-25T16:23:11Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #096",
-      "videoId": "i3Z6St_ZU7s",
-      "url": "https://www.youtube.com/watch?v=i3Z6St_ZU7s",
-      "thumbnail": "https://i.ytimg.com/vi/i3Z6St_ZU7s/mqdefault.jpg?v=6ade2caf",
-      "published": "2026-10-25T16:22:07Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "DISPUTA PELO SEGUNDO TURNO 📢",
-      "videoId": "cppzgfrQb2g",
-      "url": "https://www.youtube.com/watch?v=cppzgfrQb2g",
-      "thumbnail": "https://i.ytimg.com/vi/cppzgfrQb2g/mqdefault.jpg",
-      "published": "2026-10-25T12:15:27Z"
+      "title": "As origens africanas da população negra do Rio Grande do Sul",
+      "videoId": "JjtZ98K77I4",
+      "url": "https://www.youtube.com/watch?v=JjtZ98K77I4",
+      "thumbnail": "https://i.ytimg.com/vi/JjtZ98K77I4/mqdefault.jpg",
+      "published": "2026-10-25T17:38:01Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "SEGUNDO TURNO: como Lula mudou a estratégia contra Flávio",
-      "videoId": "baHQi3vyByU",
-      "url": "https://www.youtube.com/watch?v=baHQi3vyByU",
-      "thumbnail": "https://i.ytimg.com/vi/baHQi3vyByU/mqdefault.jpg",
-      "published": "2026-10-25T11:30:22Z"
+      "title": "Luciano Zucco, governador eleito pelo RS, vota em Porto Alegre | Zero Hora",
+      "videoId": "dsCetRHfTZQ",
+      "url": "https://www.youtube.com/watch?v=dsCetRHfTZQ",
+      "thumbnail": "https://i.ytimg.com/vi/dsCetRHfTZQ/mqdefault.jpg",
+      "published": "2026-10-25T14:27:10Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CURITIBA | LISTA DE RELACIONADOS PARA JOGO DECISIVO NO BRASILEIRÃO",
+      "videoId": "Kra9eQr-yo8",
+      "url": "https://www.youtube.com/watch?v=Kra9eQr-yo8",
+      "thumbnail": "https://i.ytimg.com/vi/Kra9eQr-yo8/mqdefault.jpg?v=6add05fb",
+      "published": "2026-10-25T18:39:39Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "REPERCUSSÕES DA RODADA PARA O GRÊMIO | RENATO FAZ AJUSTES FINAIS ANTES DE DECISÃO EM CURITIBA |",
       "videoId": "nVw61IE6A2M",
       "url": "https://www.youtube.com/watch?v=nVw61IE6A2M",
       "thumbnail": "https://i.ytimg.com/vi/nVw61IE6A2M/mqdefault.jpg",
       "published": "2026-10-25T15:21:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | CHEGADA DO GRÊMIO EM CURITIBA | LISTA DE RELACIONADOS PARA JOGO DECISIVO NO BRASILEIRÃO",
-      "videoId": "Kra9eQr-yo8",
-      "url": "https://www.youtube.com/watch?v=Kra9eQr-yo8",
-      "thumbnail": "https://i.ytimg.com/vi/Kra9eQr-yo8/mqdefault.jpg?v=6add05fb",
-      "published": "2026-10-24T19:24:41Z"
     }
   ]
 }
