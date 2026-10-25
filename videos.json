@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:00:35.987145+00:00",
+  "updated_at": "2026-10-25T20:19:56.560274+00:00",
   "total": 30,
   "videos": [
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VEJA IMAGENS: GRÊMIO CHEGA EM CURITIBA PARA JOGO DECISIVO | COBRANÇA DA TORCIDA | RELACIONADOS",
+      "videoId": "j3DzCtc7VRQ",
+      "url": "https://www.youtube.com/watch?v=j3DzCtc7VRQ",
+      "thumbnail": "https://i.ytimg.com/vi/j3DzCtc7VRQ/mqdefault.jpg",
+      "published": "2026-10-25T20:07:35Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | CHEGADA DO GRÊMIO EM CURITIBA | LISTA DE RELACIONADOS PARA JOGO DECISIVO NO BRASILEIRÃO",
       "videoId": "Kra9eQr-yo8",
       "url": "https://www.youtube.com/watch?v=Kra9eQr-yo8",
       "thumbnail": "https://i.ytimg.com/vi/Kra9eQr-yo8/mqdefault.jpg?v=6add05fb",
       "published": "2026-10-25T19:43:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "REPERCUSSÕES DA RODADA PARA O GRÊMIO | RENATO FAZ AJUSTES FINAIS ANTES DE DECISÃO EM CURITIBA |",
-      "videoId": "nVw61IE6A2M",
-      "url": "https://www.youtube.com/watch?v=nVw61IE6A2M",
-      "thumbnail": "https://i.ytimg.com/vi/nVw61IE6A2M/mqdefault.jpg",
-      "published": "2026-10-25T15:21:27Z"
     }
   ]
 }
