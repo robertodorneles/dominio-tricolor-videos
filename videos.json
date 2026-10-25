@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-24T23:00:36.904653+00:00",
+  "updated_at": "2026-10-25T00:00:39.908517+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  VITÓRIA DE QUEM NÃO CAI NO BRASILEIRÃO | INTER 3X0 BOTAOFOGO",
+      "videoId": "Q3TMBWt4MLU",
+      "url": "https://www.youtube.com/watch?v=Q3TMBWt4MLU",
+      "thumbnail": "https://i.ytimg.com/vi/Q3TMBWt4MLU/mqdefault.jpg?v=6add3959",
+      "published": "2026-10-24T23:38:26Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪ Inter 3x0 Botafogo: 🔥 ASSISTA AOS MELHORES MOMENTOS! | ATUAÇÃO IMPECÁVEL | SAINDO DA ZONA!",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=JuNA3N45pE4",
       "thumbnail": "https://i.ytimg.com/vi/JuNA3N45pE4/mqdefault.jpg",
       "published": "2026-10-24T22:35:40Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: A CONTA DA DIREÇÃO É QUASE INVIÁVEL NESSE MOMENTO | O CÁLCULO DA RECUPERAÇÃO",
-      "videoId": "QE7pnkSznuo",
-      "url": "https://www.youtube.com/watch?v=QE7pnkSznuo",
-      "thumbnail": "https://i.ytimg.com/vi/QE7pnkSznuo/mqdefault.jpg",
-      "published": "2026-10-24T20:14:20Z"
     },
     {
       "channel": "Bage TV",
@@ -36,6 +36,14 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨MUDOU TUDO! TRÊS BOAS NOTÍCIAS E UMA RUIM! A ESPERANÇA DO GRÊMIO PRA SE SALVAR NO BRASILEIRÃO!",
+      "videoId": "z2zK_DlclUE",
+      "url": "https://www.youtube.com/watch?v=z2zK_DlclUE",
+      "thumbnail": "https://i.ytimg.com/vi/z2zK_DlclUE/mqdefault.jpg",
+      "published": "2026-10-24T23:58:25Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨SURPRESA! BOA NOTÍCIA | RENATO CHAMOU NOVO MEIA | MUDANÇA IMPORTANTE NO TIME? | OS BASTIDORES",
       "videoId": "pEfWIoGJmCg",
       "url": "https://www.youtube.com/watch?v=pEfWIoGJmCg",
@@ -43,20 +51,12 @@
       "published": "2026-10-24T15:16:55Z"
     },
     {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨CHUTOU O BALDE E APONTOU “CULPADO” | AS CONTAS DO GRÊMIO PRA NÃO CAIR",
-      "videoId": "liMKJTklQXs",
-      "url": "https://www.youtube.com/watch?v=liMKJTklQXs",
-      "thumbnail": "https://i.ytimg.com/vi/liMKJTklQXs/mqdefault.jpg",
-      "published": "2026-10-23T23:43:05Z"
-    },
-    {
       "channel": "Canal do CCD",
       "title": "LIVE DE SÁBADO - SITUAÇÃO DO BRASILEIRÃO | COXA X GRÊMIO",
       "videoId": "EqTNG-4GgP8",
       "url": "https://www.youtube.com/watch?v=EqTNG-4GgP8",
-      "thumbnail": "https://i.ytimg.com/vi/EqTNG-4GgP8/mqdefault.jpg?v=6adcedaf",
-      "published": "2026-10-24T22:05:07Z"
+      "thumbnail": "https://i.ytimg.com/vi/EqTNG-4GgP8/mqdefault.jpg",
+      "published": "2026-10-24T23:28:45Z"
     },
     {
       "channel": "Canal do CCD",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "COLETIVA DE EDUARDO BAPTISTA - TÉCNICO DO INTER | INTER 3 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL",
+      "videoId": "rPVho2rGry8",
+      "url": "https://www.youtube.com/watch?v=rPVho2rGry8",
+      "thumbnail": "https://i.ytimg.com/vi/rPVho2rGry8/mqdefault.jpg",
+      "published": "2026-10-24T23:14:21Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "GOLS DE INTER 3 X 0 BOTAFOGO | NARRAÇÃO HAROLDO DE SOUZA | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
       "videoId": "GbREGkbohgs",
       "url": "https://www.youtube.com/watch?v=GbREGkbohgs",
       "thumbnail": "https://i.ytimg.com/vi/GbREGkbohgs/mqdefault.jpg",
       "published": "2026-10-24T22:41:18Z"
-    },
-    {
-      "channel": "Radio Grenal",
-      "title": "KAUAN JESUS 🇮🇩😍 #inter #colorado #brasileirao #beirario #coletiva",
-      "videoId": "KDEKZG41WzA",
-      "url": "https://www.youtube.com/watch?v=KDEKZG41WzA",
-      "thumbnail": "https://i.ytimg.com/vi/KDEKZG41WzA/mqdefault.jpg",
-      "published": "2026-10-24T22:38:00Z"
     },
     {
       "channel": "Radio Imortal",
