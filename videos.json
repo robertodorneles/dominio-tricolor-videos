@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:00:35.677960+00:00",
+  "updated_at": "2026-10-25T20:00:35.987145+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵 AO VIVO 🔵 CHEGADA DO GRÊMIO EM CURITIBA",
       "videoId": "tmxzKs2zIrU",
       "url": "https://www.youtube.com/watch?v=tmxzKs2zIrU",
-      "thumbnail": "https://i.ytimg.com/vi/tmxzKs2zIrU/mqdefault.jpg?v=6adbfc80",
-      "published": "2026-10-25T18:22:23Z"
+      "thumbnail": "https://i.ytimg.com/vi/tmxzKs2zIrU/mqdefault.jpg",
+      "published": "2026-10-25T19:40:15Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #712: Relacionados | Brasileirão | Base | Jovens fora e mais",
+      "videoId": "tDiiTU76Zq0",
+      "url": "https://www.youtube.com/watch?v=tDiiTU76Zq0",
+      "thumbnail": "https://i.ytimg.com/vi/tDiiTU76Zq0/mqdefault.jpg",
+      "published": "2026-10-25T19:53:05Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "LIVE DE SÁBADO - SITUAÇÃO DO BRASILEIRÃO | COXA X GRÊMIO",
       "videoId": "EqTNG-4GgP8",
       "url": "https://www.youtube.com/watch?v=EqTNG-4GgP8",
       "thumbnail": "https://i.ytimg.com/vi/EqTNG-4GgP8/mqdefault.jpg",
       "published": "2026-10-24T23:28:45Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "Sábado decisivo | Objetivo do grupo do Grêmio | Dúvida estrutural no time de Renato",
-      "videoId": "C1cnaJYnTGo",
-      "url": "https://www.youtube.com/watch?v=C1cnaJYnTGo",
-      "thumbnail": "https://i.ytimg.com/vi/C1cnaJYnTGo/mqdefault.jpg",
-      "published": "2026-10-24T15:55:43Z"
     },
     {
       "channel": "Canal do Farid",
@@ -232,7 +232,7 @@
       "videoId": "Kra9eQr-yo8",
       "url": "https://www.youtube.com/watch?v=Kra9eQr-yo8",
       "thumbnail": "https://i.ytimg.com/vi/Kra9eQr-yo8/mqdefault.jpg?v=6add05fb",
-      "published": "2026-10-25T18:39:39Z"
+      "published": "2026-10-25T19:43:31Z"
     },
     {
       "channel": "Radio Imortal",
