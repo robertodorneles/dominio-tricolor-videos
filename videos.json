@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-25T21:00:38.227654+00:00",
+  "updated_at": "2026-10-25T22:00:36.755192+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 NINGUÉM NO BRASIL É COMO ELE | O JOGADOR MAIS IMPORTANTE | PARTICIPA MUITO",
+      "videoId": "R__KO6D9XLg",
+      "url": "https://www.youtube.com/watch?v=R__KO6D9XLg",
+      "thumbnail": "https://i.ytimg.com/vi/R__KO6D9XLg/mqdefault.jpg",
+      "published": "2026-10-25T21:15:17Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 KAUAN OVACIONADO POR JOGADORES | SAIU DA ZONA! | BAPTISTA RASGOU ELOGIOS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=ktgLJf87AYk",
       "thumbnail": "https://i.ytimg.com/vi/ktgLJf87AYk/mqdefault.jpg",
       "published": "2026-10-25T06:21:14Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫ Diário do Grêmio: RODADA AJUDOU DEMAIS! RENATO TESTA MUDANÇAS E 4 ESTÃO FORA!",
-      "videoId": "xLkcPY4RIuE",
-      "url": "https://www.youtube.com/watch?v=xLkcPY4RIuE",
-      "thumbnail": "https://i.ytimg.com/vi/xLkcPY4RIuE/mqdefault.jpg",
-      "published": "2026-10-25T05:00:10Z"
     },
     {
       "channel": "Bage TV",
