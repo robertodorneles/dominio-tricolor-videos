@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:10:32.345032+00:00",
+  "updated_at": "2026-10-26T15:00:42.866001+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #096",
+      "videoId": "i3Z6St_ZU7s",
+      "url": "https://www.youtube.com/watch?v=i3Z6St_ZU7s",
+      "thumbnail": "https://i.ytimg.com/vi/i3Z6St_ZU7s/mqdefault.jpg",
+      "published": "2026-10-26T14:55:27Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO ENFRENTA O CORITIBA EM JOGO DECISIVO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 26/10 - #663",
       "videoId": "xFSmW9lMgyY",
       "url": "https://www.youtube.com/watch?v=xFSmW9lMgyY",
       "thumbnail": "https://i.ytimg.com/vi/xFSmW9lMgyY/mqdefault.jpg",
       "published": "2026-10-26T13:44:06Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "BOLEIRAGi AO VIVO - BAGÉ, BALDASSO, DUPLA GRENAL E MUITO MAIS - #096",
-      "videoId": "i3Z6St_ZU7s",
-      "url": "https://www.youtube.com/watch?v=i3Z6St_ZU7s",
-      "thumbnail": "https://i.ytimg.com/vi/i3Z6St_ZU7s/mqdefault.jpg?v=6ade2caf",
-      "published": "2026-10-26T13:43:01Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -135,8 +135,8 @@
       "title": "Hospício - 26/10",
       "videoId": "oHGL_8x6zio",
       "url": "https://www.youtube.com/watch?v=oHGL_8x6zio",
-      "thumbnail": "https://i.ytimg.com/vi/oHGL_8x6zio/mqdefault.jpg?v=6ade0a10",
-      "published": "2026-10-26T13:06:53Z"
+      "thumbnail": "https://i.ytimg.com/vi/oHGL_8x6zio/mqdefault.jpg",
+      "published": "2026-10-26T14:52:42Z"
     },
     {
       "channel": "Duda Garbi",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Lula reeleito, derrota de Flávio Bolsonaro e mais | Timeline 26/10/2026",
-      "videoId": "ws0oB6POmG8",
-      "url": "https://www.youtube.com/watch?v=ws0oB6POmG8",
-      "thumbnail": "https://i.ytimg.com/vi/ws0oB6POmG8/mqdefault.jpg?v=6adf1b27",
-      "published": "2026-10-26T13:57:13Z"
+      "title": "QUEM É ANDRÉ JANONES, o \"general\" de LULA? | Zero Hora",
+      "videoId": "QoqwW3U_AY0",
+      "url": "https://www.youtube.com/watch?v=QoqwW3U_AY0",
+      "thumbnail": "https://i.ytimg.com/vi/QoqwW3U_AY0/mqdefault.jpg",
+      "published": "2026-10-26T14:48:50Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "LULA FAZ PRIMEIRO DISCURSO APÓS VITÓRIA | ELEIÇÕES 2026",
-      "videoId": "2_FasREPlHc",
-      "url": "https://www.youtube.com/watch?v=2_FasREPlHc",
-      "thumbnail": "https://i.ytimg.com/vi/2_FasREPlHc/mqdefault.jpg",
-      "published": "2026-10-26T13:52:59Z"
+      "title": "Virada de Lula sobre Flávio Bolsonaro, balanço das eleições e mais | Sala de Eleição | 26/10/2026",
+      "videoId": "5vkHs8LltJQ",
+      "url": "https://www.youtube.com/watch?v=5vkHs8LltJQ",
+      "thumbnail": "https://i.ytimg.com/vi/5vkHs8LltJQ/mqdefault.jpg?v=6adf5ff3",
+      "published": "2026-10-26T14:13:07Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "FOGUETÓRIO EM FRENTE AO HOTEL DO GRÊMIO!",
+      "videoId": "fTMVLBPxdoA",
+      "url": "https://www.youtube.com/watch?v=fTMVLBPxdoA",
+      "thumbnail": "https://i.ytimg.com/vi/fTMVLBPxdoA/mqdefault.jpg",
+      "published": "2026-10-26T14:41:16Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É DIA DE GRÊMIO! SÓ IMPORTA A VITÓRIA! | COMO É BOM SER DO GRÊMIO #71",
       "videoId": "v05by7aSHSg",
       "url": "https://www.youtube.com/watch?v=v05by7aSHSg",
       "thumbnail": "https://i.ytimg.com/vi/v05by7aSHSg/mqdefault.jpg?v=6adea405",
-      "published": "2026-10-26T13:05:46Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #51 — GRÊMIO TEM O JOGO DA SOBREVIVÊNCIA NO BRASILEIRÃO!",
-      "videoId": "e6To4l20rco",
-      "url": "https://www.youtube.com/watch?v=e6To4l20rco",
-      "thumbnail": "https://i.ytimg.com/vi/e6To4l20rco/mqdefault.jpg?v=6adea264",
-      "published": "2026-10-26T12:31:48Z"
+      "published": "2026-10-26T14:39:00Z"
     }
   ]
 }
