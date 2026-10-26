@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:00:45.370934+00:00",
+  "updated_at": "2026-10-26T11:00:44.109873+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Lula reeleito, reações na política e economia, trânsito e mais | Gaúcha Atualidade | 26/10/2026",
+      "videoId": "kvlw8NaGBPw",
+      "url": "https://www.youtube.com/watch?v=kvlw8NaGBPw",
+      "thumbnail": "https://i.ytimg.com/vi/kvlw8NaGBPw/mqdefault.jpg?v=6adf1aff",
+      "published": "2026-10-26T10:56:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "| Timeline 26/10/2026",
       "videoId": "ws0oB6POmG8",
       "url": "https://www.youtube.com/watch?v=ws0oB6POmG8",
       "thumbnail": "https://i.ytimg.com/vi/ws0oB6POmG8/mqdefault.jpg?v=6adf1b27",
       "published": "2026-10-26T09:19:35Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 26/10/2026",
-      "videoId": "kvlw8NaGBPw",
-      "url": "https://www.youtube.com/watch?v=kvlw8NaGBPw",
-      "thumbnail": "https://i.ytimg.com/vi/kvlw8NaGBPw/mqdefault.jpg?v=6adf1aff",
-      "published": "2026-10-26T09:18:55Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "JOGO COMPLETO | INTER 3 X 0 BOTAFOGO | BRASILEIRÃO | RÁDIO GRENAL | 24/10/2026",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 26/10/2026",
       "videoId": "fwzLtk-DChk",
       "url": "https://www.youtube.com/watch?v=fwzLtk-DChk",
-      "thumbnail": "https://i.ytimg.com/vi/fwzLtk-DChk/mqdefault.jpg?v=6add4e3a",
+      "thumbnail": "https://i.ytimg.com/vi/fwzLtk-DChk/mqdefault.jpg?v=6adf31b2",
       "published": "2026-10-25T00:32:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #51 — GRÊMIO TEM O JOGO DA SOBREVIVÊNCIA NO BRASILEIRÃO!",
+      "videoId": "e6To4l20rco",
+      "url": "https://www.youtube.com/watch?v=e6To4l20rco",
+      "thumbnail": "https://i.ytimg.com/vi/e6To4l20rco/mqdefault.jpg?v=6adea264",
+      "published": "2026-10-26T10:35:20Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=FCk9VfwGmj8",
       "thumbnail": "https://i.ytimg.com/vi/FCk9VfwGmj8/mqdefault.jpg?v=6adea520",
       "published": "2026-10-26T00:55:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! SÓ IMPORTA A VITÓRIA! | COMO É BOM SER DO GRÊMIO #71",
-      "videoId": "v05by7aSHSg",
-      "url": "https://www.youtube.com/watch?v=v05by7aSHSg",
-      "thumbnail": "https://i.ytimg.com/vi/v05by7aSHSg/mqdefault.jpg?v=6adea405",
-      "published": "2026-10-26T00:51:15Z"
     }
   ]
 }
