@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:00:32.219030+00:00",
+  "updated_at": "2026-10-26T23:00:41.287814+00:00",
   "total": 30,
   "videos": [
     {
@@ -104,7 +104,7 @@
       "videoId": "CNwJkPMsbcQ",
       "url": "https://www.youtube.com/watch?v=CNwJkPMsbcQ",
       "thumbnail": "https://i.ytimg.com/vi/CNwJkPMsbcQ/mqdefault.jpg?v=6adeb75d",
-      "published": "2026-10-26T20:30:28Z"
+      "published": "2026-10-26T22:21:08Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -119,8 +119,8 @@
       "title": "(AO VIVO) PRÉ-JOGO DE CORITIBA x GRÊMIO DIRETO DO COUTO PEREIRA | BRASILEIRÃO 2026 | 26/10 #23",
       "videoId": "q4627ELEqBU",
       "url": "https://www.youtube.com/watch?v=q4627ELEqBU",
-      "thumbnail": "https://i.ytimg.com/vi/q4627ELEqBU/mqdefault.jpg?v=6ad8d491",
-      "published": "2026-10-26T21:59:48Z"
+      "thumbnail": "https://i.ytimg.com/vi/q4627ELEqBU/mqdefault.jpg",
+      "published": "2026-10-26T22:15:38Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Lula corre risco de sofrer impeachment? | Conversas Cruzadas",
+      "videoId": "NmDu_rlbHEE",
+      "url": "https://www.youtube.com/watch?v=NmDu_rlbHEE",
+      "thumbnail": "https://i.ytimg.com/vi/NmDu_rlbHEE/mqdefault.jpg",
+      "published": "2026-10-26T22:30:03Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Saídas de Zucco para as finanças do RS terão que passar por Lula",
       "videoId": "H-I4VvqeQio",
       "url": "https://www.youtube.com/watch?v=H-I4VvqeQio",
       "thumbnail": "https://i.ytimg.com/vi/H-I4VvqeQio/mqdefault.jpg",
       "published": "2026-10-26T21:40:55Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Eleições 2026: virada de Lula e os desafios para o próximo mandato | Conversas Cruzadas | 26/10/2026",
-      "videoId": "STyNPRDJ4hc",
-      "url": "https://www.youtube.com/watch?v=STyNPRDJ4hc",
-      "thumbnail": "https://i.ytimg.com/vi/STyNPRDJ4hc/mqdefault.jpg?v=6adf9fe6",
-      "published": "2026-10-26T21:32:21Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,7 +220,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | ESQUENTANDO O JOGO | CORITIBA X GRÊMIO | BRASILEIRÃO | 26/10/2026",
+      "title": "AO VIVO | JORNADA ESPORTIVA | CORITIBA 0 X 0 GRÊMIO | BRASILEIRÃO | 26/10/2026",
       "videoId": "fPSqt543C7g",
       "url": "https://www.youtube.com/watch?v=fPSqt543C7g",
       "thumbnail": "https://i.ytimg.com/vi/fPSqt543C7g/mqdefault.jpg?v=6adf90e5",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | PRÉ-JOGO CORITIBA X GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO COUTO PEREIRA",
+      "title": "AO VIVO | CORITIBA (0) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO COUTO PEREIRA",
       "videoId": "FCk9VfwGmj8",
       "url": "https://www.youtube.com/watch?v=FCk9VfwGmj8",
       "thumbnail": "https://i.ytimg.com/vi/FCk9VfwGmj8/mqdefault.jpg?v=6adea520",
