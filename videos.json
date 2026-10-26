@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:00:39.955374+00:00",
+  "updated_at": "2026-10-26T13:00:41.393718+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "GRÊMIO ENFRENTA O CORITIBA EM JOGO DECISIVO 🔵 FUTEBOL ALEGRIA DO GRÊMIO - 26/10 - #663",
+      "videoId": "xFSmW9lMgyY",
+      "url": "https://www.youtube.com/watch?v=xFSmW9lMgyY",
+      "thumbnail": "https://i.ytimg.com/vi/xFSmW9lMgyY/mqdefault.jpg?v=6ade2aed",
+      "published": "2026-10-26T12:02:48Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "GRÊMIO TEM OBRIGAÇÃO DE VENCER HOJE 🌅🔵 BOM DIA GRÊMIO #162",
       "videoId": "smqDYmZTwMs",
       "url": "https://www.youtube.com/watch?v=smqDYmZTwMs",
       "thumbnail": "https://i.ytimg.com/vi/smqDYmZTwMs/mqdefault.jpg",
       "published": "2026-10-26T11:59:29Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 CHEGADA DO GRÊMIO EM CURITIBA",
-      "videoId": "tmxzKs2zIrU",
-      "url": "https://www.youtube.com/watch?v=tmxzKs2zIrU",
-      "thumbnail": "https://i.ytimg.com/vi/tmxzKs2zIrU/mqdefault.jpg",
-      "published": "2026-10-25T19:40:15Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Coritiba x Grêmio: Possíveis times | Tabela | Só a vitória interessa",
+      "videoId": "Zsg1Htsc5ps",
+      "url": "https://www.youtube.com/watch?v=Zsg1Htsc5ps",
+      "thumbnail": "https://i.ytimg.com/vi/Zsg1Htsc5ps/mqdefault.jpg",
+      "published": "2026-10-26T12:24:36Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #712: Relacionados | Brasileirão | Base | Jovens fora e mais",
       "videoId": "tDiiTU76Zq0",
       "url": "https://www.youtube.com/watch?v=tDiiTU76Zq0",
@@ -59,20 +67,12 @@
       "published": "2026-10-25T19:53:05Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "LIVE DE SÁBADO - SITUAÇÃO DO BRASILEIRÃO | COXA X GRÊMIO",
-      "videoId": "EqTNG-4GgP8",
-      "url": "https://www.youtube.com/watch?v=EqTNG-4GgP8",
-      "thumbnail": "https://i.ytimg.com/vi/EqTNG-4GgP8/mqdefault.jpg",
-      "published": "2026-10-24T23:28:45Z"
-    },
-    {
       "channel": "Canal do Farid",
-      "title": "AO VIVO | POS JOGO CURITIBA X GREMIO | ANALISE, COMENTARIOS | CLUBE TRICOLOE #11",
-      "videoId": "G77VkswEkr8",
-      "url": "https://www.youtube.com/watch?v=G77VkswEkr8",
-      "thumbnail": "https://i.ytimg.com/vi/G77VkswEkr8/mqdefault.jpg?v=6adf4027",
-      "published": "2026-10-26T11:57:24Z"
+      "title": "ACORDA, GRÊMIO! #047",
+      "videoId": "Ph3iaxMVw34",
+      "url": "https://www.youtube.com/watch?v=Ph3iaxMVw34",
+      "thumbnail": "https://i.ytimg.com/vi/Ph3iaxMVw34/mqdefault.jpg?v=6adf4c4a",
+      "published": "2026-10-26T12:49:14Z"
     },
     {
       "channel": "Canal do Farid",
@@ -80,7 +80,7 @@
       "videoId": "zmK0co_PQi8",
       "url": "https://www.youtube.com/watch?v=zmK0co_PQi8",
       "thumbnail": "https://i.ytimg.com/vi/zmK0co_PQi8/mqdefault.jpg?v=6adb5769",
-      "published": "2026-10-26T11:31:20Z"
+      "published": "2026-10-26T12:37:35Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "Hospício - 26/10",
+      "videoId": "oHGL_8x6zio",
+      "url": "https://www.youtube.com/watch?v=oHGL_8x6zio",
+      "thumbnail": "https://i.ytimg.com/vi/oHGL_8x6zio/mqdefault.jpg?v=6ade0a10",
+      "published": "2026-10-26T12:00:34Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "Hospício - 30/10",
       "videoId": "-looAudW1ho",
       "url": "https://www.youtube.com/watch?v=-looAudW1ho",
       "thumbnail": "https://i.ytimg.com/vi/-looAudW1ho/mqdefault.jpg?v=6ade0ae8",
       "published": "2026-10-25T13:57:57Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "Hospício - 29/10",
-      "videoId": "mLTGWI8Pkyk",
-      "url": "https://www.youtube.com/watch?v=mLTGWI8Pkyk",
-      "thumbnail": "https://i.ytimg.com/vi/mLTGWI8Pkyk/mqdefault.jpg?v=6ade0aaf",
-      "published": "2026-10-25T13:57:00Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Lula reeleito, derrota de Flávio Bolsonaro e mais | Timeline 26/10/2026",
+      "videoId": "ws0oB6POmG8",
+      "url": "https://www.youtube.com/watch?v=ws0oB6POmG8",
+      "thumbnail": "https://i.ytimg.com/vi/ws0oB6POmG8/mqdefault.jpg?v=6adf1b27",
+      "published": "2026-10-26T12:59:34Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Lula reeleito, reações na política e economia, trânsito e mais | Gaúcha Atualidade | 26/10/2026",
       "videoId": "kvlw8NaGBPw",
       "url": "https://www.youtube.com/watch?v=kvlw8NaGBPw",
       "thumbnail": "https://i.ytimg.com/vi/kvlw8NaGBPw/mqdefault.jpg?v=6adf1aff",
       "published": "2026-10-26T10:56:06Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Timeline 26/10/2026",
-      "videoId": "ws0oB6POmG8",
-      "url": "https://www.youtube.com/watch?v=ws0oB6POmG8",
-      "thumbnail": "https://i.ytimg.com/vi/ws0oB6POmG8/mqdefault.jpg?v=6adf1b27",
-      "published": "2026-10-26T09:19:35Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -232,7 +232,7 @@
       "videoId": "e6To4l20rco",
       "url": "https://www.youtube.com/watch?v=e6To4l20rco",
       "thumbnail": "https://i.ytimg.com/vi/e6To4l20rco/mqdefault.jpg?v=6adea264",
-      "published": "2026-10-26T10:35:20Z"
+      "published": "2026-10-26T12:31:48Z"
     },
     {
       "channel": "Radio Imortal",
