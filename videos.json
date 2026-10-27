@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-27T00:13:16.849482+00:00",
+  "updated_at": "2026-10-27T01:00:43.861138+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio 1x0 Coritiba: VITÓRIA DO CORAÇÃO | TIME REVIVE DENTRO DO BRASILEIRÃO | FOCO TOTAL AGORA",
+      "videoId": "hmt291KxMaY",
+      "url": "https://www.youtube.com/watch?v=hmt291KxMaY",
+      "thumbnail": "https://i.ytimg.com/vi/hmt291KxMaY/mqdefault.jpg",
+      "published": "2026-10-27T00:56:45Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: CARBONERO FORA DOS PLANOS? | POSTURA INCOMODA | SERÁ VENDIDO?",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=s9pU1_pqKBA",
       "thumbnail": "https://i.ytimg.com/vi/s9pU1_pqKBA/mqdefault.jpg",
       "published": "2026-10-26T20:17:52Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 UM NOVO ESTÁGIO DE TUDO | KAUAN JESUS SE EMOCIONOU | BERNABEI REVELOU TUDO",
-      "videoId": "_XRc8P5YHAc",
-      "url": "https://www.youtube.com/watch?v=_XRc8P5YHAc",
-      "thumbnail": "https://i.ytimg.com/vi/_XRc8P5YHAc/mqdefault.jpg",
-      "published": "2026-10-26T08:15:18Z"
     },
     {
       "channel": "Bage TV",
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "CORITIBA 0 X 1 GRÊMIO: VITÓRIA DA ESPERANÇA",
+      "videoId": "i0Tg972um3w",
+      "url": "https://www.youtube.com/watch?v=i0Tg972um3w",
+      "thumbnail": "https://i.ytimg.com/vi/i0Tg972um3w/mqdefault.jpg?v=6adcc036",
+      "published": "2026-10-27T00:28:26Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Coritiba x Grêmio: Possíveis times | Tabela | Só a vitória interessa",
       "videoId": "Zsg1Htsc5ps",
       "url": "https://www.youtube.com/watch?v=Zsg1Htsc5ps",
@@ -59,28 +67,20 @@
       "published": "2026-10-26T12:24:36Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #712: Relacionados | Brasileirão | Base | Jovens fora e mais",
-      "videoId": "tDiiTU76Zq0",
-      "url": "https://www.youtube.com/watch?v=tDiiTU76Zq0",
-      "thumbnail": "https://i.ytimg.com/vi/tDiiTU76Zq0/mqdefault.jpg",
-      "published": "2026-10-25T19:53:05Z"
+      "channel": "Canal do Farid",
+      "title": "REAÇÃO DO FARID COM A VITÓRIA DO GRÊMIO X CORITIBA",
+      "videoId": "PR1EwhIeBy8",
+      "url": "https://www.youtube.com/watch?v=PR1EwhIeBy8",
+      "thumbnail": "https://i.ytimg.com/vi/PR1EwhIeBy8/mqdefault.jpg",
+      "published": "2026-10-27T00:59:24Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "CORITIBA X GRÊMIO | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 26/10/2026",
-      "videoId": "GWQRaEBTo1c",
-      "url": "https://www.youtube.com/watch?v=GWQRaEBTo1c",
-      "thumbnail": "https://i.ytimg.com/vi/GWQRaEBTo1c/mqdefault.jpg?v=6ade3819",
-      "published": "2026-10-26T20:35:12Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #42",
-      "videoId": "oxApvuwejKI",
-      "url": "https://www.youtube.com/watch?v=oxApvuwejKI",
-      "thumbnail": "https://i.ytimg.com/vi/oxApvuwejKI/mqdefault.jpg?v=6adf7623",
-      "published": "2026-10-26T17:14:59Z"
+      "title": "FARID DESAFIA BALDASSO AO VIVO PARA UM DEBATE!",
+      "videoId": "U455AID2o0Q",
+      "url": "https://www.youtube.com/watch?v=U455AID2o0Q",
+      "thumbnail": "https://i.ytimg.com/vi/U455AID2o0Q/mqdefault.jpg",
+      "published": "2026-10-27T00:56:24Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,6 +100,14 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CORITIBA X GRÊMIO | AO VIVO PÓS-JOGO | BRASILEIRÃO | COLETIVA RENATO PORTALUPPI",
+      "videoId": "PM_RqN136Kk",
+      "url": "https://www.youtube.com/watch?v=PM_RqN136Kk",
+      "thumbnail": "https://i.ytimg.com/vi/PM_RqN136Kk/mqdefault.jpg?v=6adebb89",
+      "published": "2026-10-27T00:34:13Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CORITIBA X GRÊMIO | AO VIVO PRÉ-JOGO | BRASILEIRÃO |",
       "videoId": "CNwJkPMsbcQ",
       "url": "https://www.youtube.com/watch?v=CNwJkPMsbcQ",
@@ -107,12 +115,12 @@
       "published": "2026-10-26T22:21:08Z"
     },
     {
-      "channel": "Careca de Saber TV",
-      "title": "CHEGAMOS! 4 MIL GREMISTAS! #gremio #futebol #brasileirão",
-      "videoId": "4Iss16Nz-VI",
-      "url": "https://www.youtube.com/watch?v=4Iss16Nz-VI",
-      "thumbnail": "https://i.ytimg.com/vi/4Iss16Nz-VI/mqdefault.jpg",
-      "published": "2026-10-26T14:04:13Z"
+      "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PÓS-JOGO DE CORITIBA x GRÊMIO DIRETO DO COUTO PEREIRA | BRASILEIRÃO | COLETIVA | 26/10 #40",
+      "videoId": "FjHAYA5puSE",
+      "url": "https://www.youtube.com/watch?v=FjHAYA5puSE",
+      "thumbnail": "https://i.ytimg.com/vi/FjHAYA5puSE/mqdefault.jpg?v=6ad8d54d",
+      "published": "2026-10-27T00:25:04Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -121,14 +129,6 @@
       "url": "https://www.youtube.com/watch?v=q4627ELEqBU",
       "thumbnail": "https://i.ytimg.com/vi/q4627ELEqBU/mqdefault.jpg",
       "published": "2026-10-26T22:15:38Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "COBRANÇAS E XINGAMENTOS AOS DIRIGENTES DIRETO DE CURITIBA! | NOVO TITULAR NO TIME FOI TESTADO",
-      "videoId": "tDGktBUR0a0",
-      "url": "https://www.youtube.com/watch?v=tDGktBUR0a0",
-      "thumbnail": "https://i.ytimg.com/vi/tDGktBUR0a0/mqdefault.jpg",
-      "published": "2026-10-25T20:23:01Z"
     },
     {
       "channel": "Duda Garbi",
@@ -220,27 +220,27 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | JORNADA ESPORTIVA | CORITIBA 0 X 0 GRÊMIO | BRASILEIRÃO | 26/10/2026",
+      "title": "AO VIVO | COLETIVA DE RENATO PORTALUPPI | CORITIBA 0 X 1 GRÊMIO | BRASILEIRÃO | 26/10/2026",
       "videoId": "fPSqt543C7g",
       "url": "https://www.youtube.com/watch?v=fPSqt543C7g",
-      "thumbnail": "https://i.ytimg.com/vi/fPSqt543C7g/mqdefault.jpg?v=6adf90e5",
+      "thumbnail": "https://i.ytimg.com/vi/fPSqt543C7g/mqdefault.jpg?v=6adff681",
       "published": "2026-10-26T18:00:53Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | CORITIBA (0) X (0) GRÊMIO | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DO COUTO PEREIRA",
-      "videoId": "FCk9VfwGmj8",
-      "url": "https://www.youtube.com/watch?v=FCk9VfwGmj8",
-      "thumbnail": "https://i.ytimg.com/vi/FCk9VfwGmj8/mqdefault.jpg?v=6adea520",
-      "published": "2026-10-26T18:33:19Z"
+      "title": "CAFÉ COM A IMORTAL #51 — GRÊMIO TEM O JOGO DA SOBREVIVÊNCIA NO BRASILEIRÃO!",
+      "videoId": "e6To4l20rco",
+      "url": "https://www.youtube.com/watch?v=e6To4l20rco",
+      "thumbnail": "https://i.ytimg.com/vi/e6To4l20rco/mqdefault.jpg",
+      "published": "2026-10-27T00:43:57Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "É DIA DE GRÊMIO! SÓ IMPORTA A VITÓRIA! | COMO É BOM SER DO GRÊMIO #71",
-      "videoId": "v05by7aSHSg",
-      "url": "https://www.youtube.com/watch?v=v05by7aSHSg",
-      "thumbnail": "https://i.ytimg.com/vi/v05by7aSHSg/mqdefault.jpg",
-      "published": "2026-10-26T15:16:50Z"
+      "title": "AO VIVO | PÓS-JOGO CORITIBA (0) X (1) GRÊMIO | COLETIVA RENATO PORTALUPPI | BRASILEIRÃO 2026",
+      "videoId": "FCk9VfwGmj8",
+      "url": "https://www.youtube.com/watch?v=FCk9VfwGmj8",
+      "thumbnail": "https://i.ytimg.com/vi/FCk9VfwGmj8/mqdefault.jpg?v=6adfefee",
+      "published": "2026-10-26T18:33:19Z"
     }
   ]
 }
