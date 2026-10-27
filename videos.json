@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-27T20:00:40.442395+00:00",
+  "updated_at": "2026-10-27T20:23:43.626427+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: OS ERROS COM ROCHET | NÃO JOGA MAIS | TEVE BONS MOMENTOS",
+      "videoId": "6uMgLqs2NyQ",
+      "url": "https://www.youtube.com/watch?v=6uMgLqs2NyQ",
+      "thumbnail": "https://i.ytimg.com/vi/6uMgLqs2NyQ/mqdefault.jpg",
+      "published": "2026-10-27T20:06:31Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: GRANDES PROBLEMAS BATEM NA PORTA DE ODORICO | DÍVIDA DE AR CONDICIONA VIRA PROCESSO",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=8-nPdgI-rHw",
       "thumbnail": "https://i.ytimg.com/vi/8-nPdgI-rHw/mqdefault.jpg",
       "published": "2026-10-27T18:02:45Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 VEJA O QUE ELE FEZ | BASTIDORES MOSTRARAM MUITO | ANTHONI FORA",
-      "videoId": "XffkZMiBvUs",
-      "url": "https://www.youtube.com/watch?v=XffkZMiBvUs",
-      "thumbnail": "https://i.ytimg.com/vi/XffkZMiBvUs/mqdefault.jpg",
-      "published": "2026-10-27T05:06:33Z"
     },
     {
       "channel": "Bage TV",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "F5 (SURREAL) NO GRÊMIO: Ação da PF + transferban + nova dívida",
+      "videoId": "r4vJvDijOko",
+      "url": "https://www.youtube.com/watch?v=r4vJvDijOko",
+      "thumbnail": "https://i.ytimg.com/vi/r4vJvDijOko/mqdefault.jpg",
+      "published": "2026-10-27T20:06:22Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "AQUELA LIVE: GRÊMIO E INTER REAGEM NA LUTA CONTRA O REBAIXAMENTO",
       "videoId": "L0BUmu3drwo",
       "url": "https://www.youtube.com/watch?v=L0BUmu3drwo",
       "thumbnail": "https://i.ytimg.com/vi/L0BUmu3drwo/mqdefault.jpg",
       "published": "2026-10-27T13:07:10Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "GRÊMIO VENCE O CORITIBA: Entrega mais que os pontos e a conta atualizada",
-      "videoId": "ELn3KxxhMY0",
-      "url": "https://www.youtube.com/watch?v=ELn3KxxhMY0",
-      "thumbnail": "https://i.ytimg.com/vi/ELn3KxxhMY0/mqdefault.jpg",
-      "published": "2026-10-27T02:20:57Z"
     },
     {
       "channel": "LH Benfica",
