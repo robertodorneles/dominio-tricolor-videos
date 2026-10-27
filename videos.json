@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:00:41.475633+00:00",
+  "updated_at": "2026-10-27T11:00:42.876985+00:00",
   "total": 30,
   "videos": [
     {
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "CORITIBA X GRÊMIO | AO VIVO PRÉ-JOGO | BRASILEIRÃO |",
+      "videoId": "CNwJkPMsbcQ",
+      "url": "https://www.youtube.com/watch?v=CNwJkPMsbcQ",
+      "thumbnail": "https://i.ytimg.com/vi/CNwJkPMsbcQ/mqdefault.jpg",
+      "published": "2026-10-27T10:25:16Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "GOOOOL BRAITHWAITE",
       "videoId": "qe_9ihGV8iI",
       "url": "https://www.youtube.com/watch?v=qe_9ihGV8iI",
       "thumbnail": "https://i.ytimg.com/vi/qe_9ihGV8iI/mqdefault.jpg",
       "published": "2026-10-27T02:33:38Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "VIVOS! | REFORÇO NO ELENCO! | ESTRATÉGIA | ESQUECER COPA DO BRASIL? |  CORITIBA 0 X1 GRÊMIO",
-      "videoId": "_xWfi_2Em7o",
-      "url": "https://www.youtube.com/watch?v=_xWfi_2Em7o",
-      "thumbnail": "https://i.ytimg.com/vi/_xWfi_2Em7o/mqdefault.jpg",
-      "published": "2026-10-27T02:07:44Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Eleições 2026: virada de Lula e os desafios para o próximo mandato | Conversas Cruzadas | 26/10/2026",
-      "videoId": "STyNPRDJ4hc",
-      "url": "https://www.youtube.com/watch?v=STyNPRDJ4hc",
-      "thumbnail": "https://i.ytimg.com/vi/STyNPRDJ4hc/mqdefault.jpg",
-      "published": "2026-10-27T09:42:51Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 27/10/2026",
+      "title": "Dólar sobe após Lula reeleito, eleições em Israel, trânsito e mais | Gaúcha Atualidade | 27/10/2026",
       "videoId": "diksIxsBxIE",
       "url": "https://www.youtube.com/watch?v=diksIxsBxIE",
       "thumbnail": "https://i.ytimg.com/vi/diksIxsBxIE/mqdefault.jpg?v=6ae057e1",
-      "published": "2026-10-27T07:50:57Z"
+      "published": "2026-10-27T10:58:15Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "| Gaúcha+ | 26/10/2026",
+      "videoId": "qgACHtE_kwY",
+      "url": "https://www.youtube.com/watch?v=qgACHtE_kwY",
+      "thumbnail": "https://i.ytimg.com/vi/qgACHtE_kwY/mqdefault.jpg",
+      "published": "2026-10-27T10:50:20Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -220,11 +220,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "26/10/2026 | CORITIBA 0 X 1 GRÊMIO | BRASILEIRÃO | LIVE COMPLETA",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 27/10/2026",
       "videoId": "RN1bm45iSxA",
       "url": "https://www.youtube.com/watch?v=RN1bm45iSxA",
-      "thumbnail": "https://i.ytimg.com/vi/RN1bm45iSxA/mqdefault.jpg?v=6ae014b7",
+      "thumbnail": "https://i.ytimg.com/vi/RN1bm45iSxA/mqdefault.jpg?v=6ae07ef9",
       "published": "2026-10-27T03:04:23Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #52 — VENCEMOS! GRÊMIO SUPERA O CORITIBA NO COUTO PEREIRA",
+      "videoId": "c3YjTXh4kUM",
+      "url": "https://www.youtube.com/watch?v=c3YjTXh4kUM",
+      "thumbnail": "https://i.ytimg.com/vi/c3YjTXh4kUM/mqdefault.jpg?v=6ae02500",
+      "published": "2026-10-27T10:33:34Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=jK4dCXR4BS0",
       "thumbnail": "https://i.ytimg.com/vi/jK4dCXR4BS0/mqdefault.jpg?v=6ae026a6",
       "published": "2026-10-27T04:20:52Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VITÓRIA DO GRÊMIO! SEGUIMOS VIVOS NO BRASILEIRÃO | COMO É BOM SER DO GRÊMIO #72",
-      "videoId": "3flYsixFBww",
-      "url": "https://www.youtube.com/watch?v=3flYsixFBww",
-      "thumbnail": "https://i.ytimg.com/vi/3flYsixFBww/mqdefault.jpg?v=6ae0254a",
-      "published": "2026-10-27T04:15:04Z"
     }
   ]
 }
