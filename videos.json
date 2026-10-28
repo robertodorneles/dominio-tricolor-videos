@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T20:00:36.596345+00:00",
+  "updated_at": "2026-10-28T20:44:46.948357+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #064",
+      "videoId": "y50MSxQqL3c",
+      "url": "https://www.youtube.com/watch?v=y50MSxQqL3c",
+      "thumbnail": "https://i.ytimg.com/vi/y50MSxQqL3c/mqdefault.jpg?v=6ae12795",
+      "published": "2026-10-28T20:34:29Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "IMPRENSA DO SUDESTE CRAVA CARLOS VINÍCIUS NO VASCO 🔹 THE TARDE 🔹#249",
       "videoId": "FWznwIEPT3o",
       "url": "https://www.youtube.com/watch?v=FWznwIEPT3o",
       "thumbnail": "https://i.ytimg.com/vi/FWznwIEPT3o/mqdefault.jpg",
       "published": "2026-10-28T19:54:43Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "DIA DE INTER! | PATROCINADOR MÁSTER NA DUPLA GRENAL | JOÃO BORNE DE VOLTA 🔸RESENHA FORA DA SALA🔸#162",
-      "videoId": "lTI7yufEG00",
-      "url": "https://www.youtube.com/watch?v=lTI7yufEG00",
-      "thumbnail": "https://i.ytimg.com/vi/lTI7yufEG00/mqdefault.jpg",
-      "published": "2026-10-28T18:10:58Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -152,23 +152,15 @@
       "videoId": "qrphNqGOx90",
       "url": "https://www.youtube.com/watch?v=qrphNqGOx90",
       "thumbnail": "https://i.ytimg.com/vi/qrphNqGOx90/mqdefault.jpg",
-      "published": "2026-10-28T02:13:43Z"
+      "published": "2026-10-28T20:00:09Z"
     },
     {
       "channel": "GremioTV Oficial",
-      "title": "GREMISMO DE VERDADE! GRÊMIO TV!",
-      "videoId": "K0yv0bf3ekY",
-      "url": "https://www.youtube.com/watch?v=K0yv0bf3ekY",
-      "thumbnail": "https://i.ytimg.com/vi/K0yv0bf3ekY/mqdefault.jpg",
-      "published": "2026-10-27T14:00:14Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fuga de Flávio, homenagem ao Guerrinha, notícias do RS e mais | Gaúcha+ | 28/10/2026",
-      "videoId": "YHVLK3t59wk",
-      "url": "https://www.youtube.com/watch?v=YHVLK3t59wk",
-      "thumbnail": "https://i.ytimg.com/vi/YHVLK3t59wk/mqdefault.jpg?v=6ae20b7b",
-      "published": "2026-10-28T19:34:10Z"
+      "title": "GOL | CORITIBA 0X1 GRÊMIO (CAMPEONATO BRASILEIRO 2026)",
+      "videoId": "Mr2MumbOcTk",
+      "url": "https://www.youtube.com/watch?v=Mr2MumbOcTk",
+      "thumbnail": "https://i.ytimg.com/vi/Mr2MumbOcTk/mqdefault.jpg",
+      "published": "2026-10-27T02:21:06Z"
     },
     {
       "channel": "GZH Digital",
@@ -176,7 +168,15 @@
       "videoId": "VsQoWmmCDX8",
       "url": "https://www.youtube.com/watch?v=VsQoWmmCDX8",
       "thumbnail": "https://i.ytimg.com/vi/VsQoWmmCDX8/mqdefault.jpg?v=6ae23c02",
-      "published": "2026-10-28T18:16:32Z"
+      "published": "2026-10-28T20:31:07Z"
+    },
+    {
+      "channel": "GZH Digital",
+      "title": "Flávio Bolsonaro foge para os EUA; mercado reage à vitória de Lula | Andei Pensando | 28/10/2026",
+      "videoId": "Cv3UioZ6pV0",
+      "url": "https://www.youtube.com/watch?v=Cv3UioZ6pV0",
+      "thumbnail": "https://i.ytimg.com/vi/Cv3UioZ6pV0/mqdefault.jpg",
+      "published": "2026-10-28T20:28:50Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,11 +212,11 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "VASCO QUER CARLOS VINÍCIUS! 🇪🇪👀",
-      "videoId": "K5w57qAo8bg",
-      "url": "https://www.youtube.com/watch?v=K5w57qAo8bg",
-      "thumbnail": "https://i.ytimg.com/vi/K5w57qAo8bg/mqdefault.jpg",
-      "published": "2026-10-28T19:07:57Z"
+      "title": "28/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "UyH8l6yuvow",
+      "url": "https://www.youtube.com/watch?v=UyH8l6yuvow",
+      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg",
+      "published": "2026-10-28T20:08:44Z"
     },
     {
       "channel": "Radio Grenal",
