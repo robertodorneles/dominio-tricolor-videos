@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-28T04:44:00.872409+00:00",
+  "updated_at": "2026-10-28T09:00:37.286172+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Diário do Grêmio: RENATO TOMA DECISÃO RADICAL! CAITO FORA, 3 TRANSFER BANS E BANRISUL DE VOLTA!",
+      "videoId": "ovWrlNZQ9bs",
+      "url": "https://www.youtube.com/watch?v=ovWrlNZQ9bs",
+      "thumbnail": "https://i.ytimg.com/vi/ovWrlNZQ9bs/mqdefault.jpg",
+      "published": "2026-10-28T05:00:14Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 PATROCÍNIO MASTER ACERTADO! | TIME PRA PEGAR O FLU | NOVIDADE NO MARACA",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=Xhdrus3u-p4",
       "thumbnail": "https://i.ytimg.com/vi/Xhdrus3u-p4/mqdefault.jpg",
       "published": "2026-10-28T04:22:20Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵🔴 A Hora da Dupla:  A RODADA DO MEIO DE SEMANA | OS PERIGOS E O SALVAMENTO DE INTER E GRÊMIO",
-      "videoId": "62dvfqN-7Ec",
-      "url": "https://www.youtube.com/watch?v=62dvfqN-7Ec",
-      "thumbnail": "https://i.ytimg.com/vi/62dvfqN-7Ec/mqdefault.jpg",
-      "published": "2026-10-28T02:36:24Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #43",
+      "videoId": "NBiQswnlpag",
+      "url": "https://www.youtube.com/watch?v=NBiQswnlpag",
+      "thumbnail": "https://i.ytimg.com/vi/NBiQswnlpag/mqdefault.jpg",
+      "published": "2026-10-28T05:15:22Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #047",
       "videoId": "Ph3iaxMVw34",
       "url": "https://www.youtube.com/watch?v=Ph3iaxMVw34",
       "thumbnail": "https://i.ytimg.com/vi/Ph3iaxMVw34/mqdefault.jpg",
       "published": "2026-10-28T00:48:58Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 27/10/2026",
-      "videoId": "PfLbfprL_hg",
-      "url": "https://www.youtube.com/watch?v=PfLbfprL_hg",
-      "thumbnail": "https://i.ytimg.com/vi/PfLbfprL_hg/mqdefault.jpg?v=6ae0a607",
-      "published": "2026-10-27T23:03:35Z"
     },
     {
       "channel": "Canal do Gabardo",
