@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:41:38.319752+00:00",
+  "updated_at": "2026-10-28T16:00:40.058491+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,6 +68,14 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #44",
+      "videoId": "G2ywux6F4Uo",
+      "url": "https://www.youtube.com/watch?v=G2ywux6F4Uo",
+      "thumbnail": "https://i.ytimg.com/vi/G2ywux6F4Uo/mqdefault.jpg?v=6ae21b24",
+      "published": "2026-10-28T15:56:20Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 28/10/2026",
       "videoId": "0DPkCzlAiyc",
       "url": "https://www.youtube.com/watch?v=0DPkCzlAiyc",
@@ -75,12 +83,12 @@
       "published": "2026-10-28T13:15:07Z"
     },
     {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #049",
-      "videoId": "RQVdJ8R0fDc",
-      "url": "https://www.youtube.com/watch?v=RQVdJ8R0fDc",
-      "thumbnail": "https://i.ytimg.com/vi/RQVdJ8R0fDc/mqdefault.jpg?v=6ae1f52f",
-      "published": "2026-10-28T13:14:23Z"
+      "channel": "Canal do Gabardo",
+      "title": "Veja como ficarão as camisas de Grêmio e Inter com o patrocínio master do Banrisul",
+      "videoId": "dJYyo9zbQPY",
+      "url": "https://www.youtube.com/watch?v=dJYyo9zbQPY",
+      "thumbnail": "https://i.ytimg.com/vi/dJYyo9zbQPY/mqdefault.jpg",
+      "published": "2026-10-28T15:45:28Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -89,14 +97,6 @@
       "url": "https://www.youtube.com/watch?v=cc5KJWIFS10",
       "thumbnail": "https://i.ytimg.com/vi/cc5KJWIFS10/mqdefault.jpg",
       "published": "2026-10-28T13:37:33Z"
-    },
-    {
-      "channel": "Canal do Gabardo",
-      "title": "Grêmio ou Inter? Quem tem mais transfer ban | Os números da dívida com Cuellar | Morre ex-volante",
-      "videoId": "gUVxfUNtDMQ",
-      "url": "https://www.youtube.com/watch?v=gUVxfUNtDMQ",
-      "thumbnail": "https://i.ytimg.com/vi/gUVxfUNtDMQ/mqdefault.jpg",
-      "published": "2026-10-27T17:33:03Z"
     },
     {
       "channel": "Careca de Saber TV",
@@ -212,10 +212,10 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 28/10/2026",
+      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 28/10/2026",
       "videoId": "UyH8l6yuvow",
       "url": "https://www.youtube.com/watch?v=UyH8l6yuvow",
-      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg?v=6ae2003f",
+      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg?v=6ae21c0f",
       "published": "2026-10-28T10:59:57Z"
     },
     {
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "QUAL SERÁ A ESCALAÇÃO DO GRÊMIO? | NOITE DE SECAÇÃO | DETALHES DO ACORDO BANRISUL | IMORTAL FC",
+      "videoId": "csM2nKeYnMI",
+      "url": "https://www.youtube.com/watch?v=csM2nKeYnMI",
+      "thumbnail": "https://i.ytimg.com/vi/csM2nKeYnMI/mqdefault.jpg?v=6ae218c5",
+      "published": "2026-10-28T15:46:11Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "AO VIVO | COLETIVA DE ANÚNCIO DO BANRISUL | GRÊMIO DE OLHO NA RODADA |  COMO É BOM SER DO GRÊMIO #73",
       "videoId": "FR2_S58E7Ew",
       "url": "https://www.youtube.com/watch?v=FR2_S58E7Ew",
       "thumbnail": "https://i.ytimg.com/vi/FR2_S58E7Ew/mqdefault.jpg",
       "published": "2026-10-28T15:21:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #53 — GRÊMIO TERÁ BANRISUL COMO PATROCÍNIO MÁSTER ATÉ O FINAL DO ANO",
-      "videoId": "0PavtxV-sWs",
-      "url": "https://www.youtube.com/watch?v=0PavtxV-sWs",
-      "thumbnail": "https://i.ytimg.com/vi/0PavtxV-sWs/mqdefault.jpg?v=6ae13ffc",
-      "published": "2026-10-28T12:17:51Z"
     }
   ]
 }
