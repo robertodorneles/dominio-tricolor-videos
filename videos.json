@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T10:00:40.941486+00:00",
+  "updated_at": "2026-10-28T11:00:39.373968+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,6 +164,14 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Morre Guerrinha, Flávio Bolsonaro sai do Brasil, política e mais | Gaúcha Atualidade | 27/10/2026",
+      "videoId": "0UZgzWIoKLE",
+      "url": "https://www.youtube.com/watch?v=0UZgzWIoKLE",
+      "thumbnail": "https://i.ytimg.com/vi/0UZgzWIoKLE/mqdefault.jpg?v=6ae0a5ff",
+      "published": "2026-10-28T10:56:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Saída de Flávio Bolsonaro do Brasil: há influência de Trump? | Conversas Cruzadas | 27/10/26",
       "videoId": "cnp4AUGCetE",
       "url": "https://www.youtube.com/watch?v=cnp4AUGCetE",
@@ -171,16 +179,8 @@
       "published": "2026-10-28T09:41:25Z"
     },
     {
-      "channel": "GZH Digital",
-      "title": "Dólar sobe após Lula reeleito, eleições em Israel, trânsito e mais | Gaúcha Atualidade | 27/10/2026",
-      "videoId": "diksIxsBxIE",
-      "url": "https://www.youtube.com/watch?v=diksIxsBxIE",
-      "thumbnail": "https://i.ytimg.com/vi/diksIxsBxIE/mqdefault.jpg",
-      "published": "2026-10-28T02:13:39Z"
-    },
-    {
       "channel": "Jeremias Wernek",
-      "title": "AQUELA LIVE: Grêmio e Inter fecham com patrocínio master + começa mais uma rodada",
+      "title": "AQUELA LIVE: Adeus ao Guerrinha + Banrisul de volta + rodada começa",
       "videoId": "l8OKXP_oDwc",
       "url": "https://www.youtube.com/watch?v=l8OKXP_oDwc",
       "thumbnail": "https://i.ytimg.com/vi/l8OKXP_oDwc/mqdefault.jpg?v=6ae156c5",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 28/10/2026",
+      "videoId": "UyH8l6yuvow",
+      "url": "https://www.youtube.com/watch?v=UyH8l6yuvow",
+      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg?v=6ae1d13f",
+      "published": "2026-10-28T10:59:57Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "27/10/2026 | LIVE COMPLETA | RÁDIO GRENAL | 27/10/2026",
       "videoId": "RN1bm45iSxA",
       "url": "https://www.youtube.com/watch?v=RN1bm45iSxA",
@@ -219,12 +227,12 @@
       "published": "2026-10-28T00:54:16Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "26/10/2026 | CORITIBA 0 X 1 GRÊMIO | BRASILEIRÃO | LIVE COMPLETA",
-      "videoId": "fPSqt543C7g",
-      "url": "https://www.youtube.com/watch?v=fPSqt543C7g",
-      "thumbnail": "https://i.ytimg.com/vi/fPSqt543C7g/mqdefault.jpg",
-      "published": "2026-10-27T04:49:24Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #53 — GRÊMIO TERÁ BANRISUL COMO PATROCÍNIO MÁSTER ATÉ O FINAL DO ANO",
+      "videoId": "0PavtxV-sWs",
+      "url": "https://www.youtube.com/watch?v=0PavtxV-sWs",
+      "thumbnail": "https://i.ytimg.com/vi/0PavtxV-sWs/mqdefault.jpg?v=6ae13ffc",
+      "published": "2026-10-28T10:33:47Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=1E6Vbf8GkSM",
       "thumbnail": "https://i.ytimg.com/vi/1E6Vbf8GkSM/mqdefault.jpg",
       "published": "2026-10-28T01:01:27Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ESPLANADA — 28/10",
-      "videoId": "6bDkniLiRGA",
-      "url": "https://www.youtube.com/watch?v=6bDkniLiRGA",
-      "thumbnail": "https://i.ytimg.com/vi/6bDkniLiRGA/mqdefault.jpg?v=6ae14256",
-      "published": "2026-10-28T00:31:15Z"
     }
   ]
 }
