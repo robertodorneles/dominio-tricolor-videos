@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-28T01:00:36.668901+00:00",
+  "updated_at": "2026-10-28T02:00:34.338201+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵🔴 A Hora da Dupla:  A RODADA DO MEIO DE SEMANA | OS PERIGOS E O SALVAMENTO DE INTER E GRÊMIO",
+      "videoId": "62dvfqN-7Ec",
+      "url": "https://www.youtube.com/watch?v=62dvfqN-7Ec",
+      "thumbnail": "https://i.ytimg.com/vi/62dvfqN-7Ec/mqdefault.jpg?v=6ae149bf",
+      "published": "2026-10-28T01:31:12Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Inter: OS ERROS COM ROCHET | NÃO JOGA MAIS | TEVE BONS MOMENTOS",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=6uMgLqs2NyQ",
       "thumbnail": "https://i.ytimg.com/vi/6uMgLqs2NyQ/mqdefault.jpg",
       "published": "2026-10-27T20:06:31Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Grêmio: GRANDES PROBLEMAS BATEM NA PORTA DE ODORICO | DÍVIDA DE AR CONDICIONA VIRA PROCESSO",
-      "videoId": "8-nPdgI-rHw",
-      "url": "https://www.youtube.com/watch?v=8-nPdgI-rHw",
-      "thumbnail": "https://i.ytimg.com/vi/8-nPdgI-rHw/mqdefault.jpg",
-      "published": "2026-10-27T18:02:45Z"
     },
     {
       "channel": "Bage TV",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "LESÃO E VOLTAS | CONCENTRAÇÃO EM PORTO ALEGRE. #futebol #gremio",
+      "videoId": "6g1ULgU8OwE",
+      "url": "https://www.youtube.com/watch?v=6g1ULgU8OwE",
+      "thumbnail": "https://i.ytimg.com/vi/6g1ULgU8OwE/mqdefault.jpg",
+      "published": "2026-10-28T01:00:17Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CRISE? POLÍCIA, JUSTIÇA E DÍVIDA! | BRAITHWAITE FICA NO GRÊMIO?",
       "videoId": "EehzXFV0bkg",
       "url": "https://www.youtube.com/watch?v=EehzXFV0bkg",
       "thumbnail": "https://i.ytimg.com/vi/EehzXFV0bkg/mqdefault.jpg",
       "published": "2026-10-27T21:56:53Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "IMORTAL E ESTRATEGISTA! CORITIBA 0X1 GRÊMIO. #futebol #noticias",
-      "videoId": "LlG4FI5yMe8",
-      "url": "https://www.youtube.com/watch?v=LlG4FI5yMe8",
-      "thumbnail": "https://i.ytimg.com/vi/LlG4FI5yMe8/mqdefault.jpg",
-      "published": "2026-10-27T16:52:42Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -180,19 +180,19 @@
     },
     {
       "channel": "Jeremias Wernek",
+      "title": "AQUELA LIVE: Grêmio e Inter fecham com patrocínio master + começa mais uma rodada",
+      "videoId": "l8OKXP_oDwc",
+      "url": "https://www.youtube.com/watch?v=l8OKXP_oDwc",
+      "thumbnail": "https://i.ytimg.com/vi/l8OKXP_oDwc/mqdefault.jpg?v=6ae156c5",
+      "published": "2026-10-28T01:58:26Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
       "title": "BANRISUL DE VOLTA: Os detalhes, bastidores e cenário do negócio",
       "videoId": "wOY2mLg4qDg",
       "url": "https://www.youtube.com/watch?v=wOY2mLg4qDg",
       "thumbnail": "https://i.ytimg.com/vi/wOY2mLg4qDg/mqdefault.jpg",
       "published": "2026-10-28T00:40:20Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "F5 (SURREAL) NO GRÊMIO: Ação da PF + transferban + nova dívida",
-      "videoId": "r4vJvDijOko",
-      "url": "https://www.youtube.com/watch?v=r4vJvDijOko",
-      "thumbnail": "https://i.ytimg.com/vi/r4vJvDijOko/mqdefault.jpg",
-      "published": "2026-10-27T20:06:22Z"
     },
     {
       "channel": "LH Benfica",
@@ -231,8 +231,8 @@
       "title": "BANRISUL DE VOLTA COMO MÁSTER DO GRÊMIO | VITÓRIA IMPORTANTE | NOITES DE GRÊMIO #173 - 27/10",
       "videoId": "1E6Vbf8GkSM",
       "url": "https://www.youtube.com/watch?v=1E6Vbf8GkSM",
-      "thumbnail": "https://i.ytimg.com/vi/1E6Vbf8GkSM/mqdefault.jpg?v=6ae13887",
-      "published": "2026-10-28T00:52:57Z"
+      "thumbnail": "https://i.ytimg.com/vi/1E6Vbf8GkSM/mqdefault.jpg",
+      "published": "2026-10-28T01:01:27Z"
     },
     {
       "channel": "Radio Imortal",
