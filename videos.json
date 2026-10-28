@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:00:39.690838+00:00",
+  "updated_at": "2026-10-28T18:00:40.701348+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔸RESENHA FORA DA SALA🔸#162",
+      "title": "DIA DE INTER! | PATROCINADOR MÁSTER NA DUPLA GRENAL | JOÃO BORNE DE VOLTA 🔸RESENHA FORA DA SALA🔸#162",
       "videoId": "lTI7yufEG00",
       "url": "https://www.youtube.com/watch?v=lTI7yufEG00",
       "thumbnail": "https://i.ytimg.com/vi/lTI7yufEG00/mqdefault.jpg?v=6ae1273f",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨OFERTA PRA CAMISA 9 | MEIA DE VOLTA NO GRÊMIO | PERDEMOS UM GRANDE ÍDOLO",
+      "videoId": "TcoBWwfnm3M",
+      "url": "https://www.youtube.com/watch?v=TcoBWwfnm3M",
+      "thumbnail": "https://i.ytimg.com/vi/TcoBWwfnm3M/mqdefault.jpg",
+      "published": "2026-10-28T17:17:37Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨GRANDE NOTÍCIA! DINHEIRO CHEGANDO NO GRÊMIO COM IMPORTANTE ACORDO FECHADO!",
       "videoId": "OEJc0ORlNek",
       "url": "https://www.youtube.com/watch?v=OEJc0ORlNek",
       "thumbnail": "https://i.ytimg.com/vi/OEJc0ORlNek/mqdefault.jpg",
       "published": "2026-10-27T23:38:09Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨SAÍDAS IMPORTANTES | A CONTA PRA SE SALVAR | GRÊMIO CONFIANTE | O JOGADOR QUE ENTROU BEM!",
-      "videoId": "paUiAu--b1w",
-      "url": "https://www.youtube.com/watch?v=paUiAu--b1w",
-      "thumbnail": "https://i.ytimg.com/vi/paUiAu--b1w/mqdefault.jpg",
-      "published": "2026-10-27T18:22:51Z"
     },
     {
       "channel": "Canal do CCD",
@@ -72,7 +72,7 @@
       "videoId": "G2ywux6F4Uo",
       "url": "https://www.youtube.com/watch?v=G2ywux6F4Uo",
       "thumbnail": "https://i.ytimg.com/vi/G2ywux6F4Uo/mqdefault.jpg?v=6ae21b24",
-      "published": "2026-10-28T16:00:35Z"
+      "published": "2026-10-28T17:14:50Z"
     },
     {
       "channel": "Canal do Farid",
@@ -164,19 +164,27 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "Morre Guerrinha: amigos e colegas prestam homenagens | Timeline 28/10/2026",
-      "videoId": "IAwCVkBuPDs",
-      "url": "https://www.youtube.com/watch?v=IAwCVkBuPDs",
-      "thumbnail": "https://i.ytimg.com/vi/IAwCVkBuPDs/mqdefault.jpg",
-      "published": "2026-10-28T15:14:33Z"
+      "title": "Flávio Bolsonaro usou passaporte italiano para deixar a Argentina rumo aos EUA | Conversas Cruzadas",
+      "videoId": "4j6S154x9Q0",
+      "url": "https://www.youtube.com/watch?v=4j6S154x9Q0",
+      "thumbnail": "https://i.ytimg.com/vi/4j6S154x9Q0/mqdefault.jpg",
+      "published": "2026-10-28T18:00:01Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Lucas Barros indica o livro O Apanhador no Campo de Centeio | O Que Estou Lendo",
-      "videoId": "bQPJ97arIAA",
-      "url": "https://www.youtube.com/watch?v=bQPJ97arIAA",
-      "thumbnail": "https://i.ytimg.com/vi/bQPJ97arIAA/mqdefault.jpg",
-      "published": "2026-10-28T15:00:10Z"
+      "title": "O que é asilo político, que Flávio Bolsonaro pode pedir aos EUA?",
+      "videoId": "hzMgUjF58PE",
+      "url": "https://www.youtube.com/watch?v=hzMgUjF58PE",
+      "thumbnail": "https://i.ytimg.com/vi/hzMgUjF58PE/mqdefault.jpg",
+      "published": "2026-10-28T17:04:29Z"
+    },
+    {
+      "channel": "Jeremias Wernek",
+      "title": "F5 NO GRÊMIO: Tudo que eu soube sobre Carlos Vinicius no Vasco",
+      "videoId": "n7UnSgNB53Q",
+      "url": "https://www.youtube.com/watch?v=n7UnSgNB53Q",
+      "thumbnail": "https://i.ytimg.com/vi/n7UnSgNB53Q/mqdefault.jpg",
+      "published": "2026-10-28T17:49:58Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -185,14 +193,6 @@
       "url": "https://www.youtube.com/watch?v=l8OKXP_oDwc",
       "thumbnail": "https://i.ytimg.com/vi/l8OKXP_oDwc/mqdefault.jpg",
       "published": "2026-10-28T12:24:41Z"
-    },
-    {
-      "channel": "Jeremias Wernek",
-      "title": "BANRISUL DE VOLTA: Os detalhes, bastidores e cenário do negócio",
-      "videoId": "wOY2mLg4qDg",
-      "url": "https://www.youtube.com/watch?v=wOY2mLg4qDg",
-      "thumbnail": "https://i.ytimg.com/vi/wOY2mLg4qDg/mqdefault.jpg",
-      "published": "2026-10-28T00:40:20Z"
     },
     {
       "channel": "LH Benfica",
@@ -212,19 +212,19 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE: PRORROGAÇÃO | RÁDIO GRENAL | 28/10/2026",
-      "videoId": "UyH8l6yuvow",
-      "url": "https://www.youtube.com/watch?v=UyH8l6yuvow",
-      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg?v=6ae21c0f",
-      "published": "2026-10-28T10:59:57Z"
+      "title": "AO VIVO | ESQUENTANDO JOGO | FLUMINENSE X INTER | BRASILEIRÃO | RÁDIO GRENAL | 28/10/2026",
+      "videoId": "HUQyFlqOHdg",
+      "url": "https://www.youtube.com/watch?v=HUQyFlqOHdg",
+      "thumbnail": "https://i.ytimg.com/vi/HUQyFlqOHdg/mqdefault.jpg?v=6ae2350a",
+      "published": "2026-10-28T17:43:27Z"
     },
     {
       "channel": "Radio Grenal",
-      "title": "27/10/2026 | LIVE COMPLETA | RÁDIO GRENAL | 27/10/2026",
-      "videoId": "RN1bm45iSxA",
-      "url": "https://www.youtube.com/watch?v=RN1bm45iSxA",
-      "thumbnail": "https://i.ytimg.com/vi/RN1bm45iSxA/mqdefault.jpg",
-      "published": "2026-10-28T00:54:16Z"
+      "title": "28/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
+      "videoId": "UyH8l6yuvow",
+      "url": "https://www.youtube.com/watch?v=UyH8l6yuvow",
+      "thumbnail": "https://i.ytimg.com/vi/UyH8l6yuvow/mqdefault.jpg?v=6ae22d0d",
+      "published": "2026-10-28T17:12:50Z"
     },
     {
       "channel": "Radio Imortal",
