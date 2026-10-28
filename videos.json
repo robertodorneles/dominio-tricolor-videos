@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:00:35.265885+00:00",
+  "updated_at": "2026-10-28T00:13:26.076552+00:00",
   "total": 30,
   "videos": [
     {
@@ -116,19 +116,19 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "10 NOTÍCIAS DO GRÊMIO: NOVO MASTER FECHADO, TRANSFER BAN, REFORÇO CASEIRO, LESÃO E MUITO MAIS",
+      "videoId": "JW4fi6uBnBU",
+      "url": "https://www.youtube.com/watch?v=JW4fi6uBnBU",
+      "thumbnail": "https://i.ytimg.com/vi/JW4fi6uBnBU/mqdefault.jpg",
+      "published": "2026-10-28T00:02:24Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x ATHLETICO-PR DIRETO DA ARENA | BRASILEIRÃO | COLETIVA | 29/10 #41",
       "videoId": "mgTL3HJdqC0",
       "url": "https://www.youtube.com/watch?v=mgTL3HJdqC0",
       "thumbnail": "https://i.ytimg.com/vi/mgTL3HJdqC0/mqdefault.jpg?v=6ae0229e",
       "published": "2026-10-27T04:03:40Z"
-    },
-    {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x ATHLETICO-PR DIRETO DA ARENA | BRASILEIRÃO 2026 | 29/10 #24",
-      "videoId": "ZLgBc7vTUq4",
-      "url": "https://www.youtube.com/watch?v=ZLgBc7vTUq4",
-      "thumbnail": "https://i.ytimg.com/vi/ZLgBc7vTUq4/mqdefault.jpg?v=6ae021ef",
-      "published": "2026-10-27T04:00:44Z"
     },
     {
       "channel": "Duda Garbi",
@@ -140,11 +140,11 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UM ASSADO PARA... RAFAEL OLIVEIRA [COMENTARISTA CAZÉTV E PRIME VIDEO] | #421",
-      "videoId": "cTWjjzDrsQ4",
-      "url": "https://www.youtube.com/watch?v=cTWjjzDrsQ4",
-      "thumbnail": "https://i.ytimg.com/vi/cTWjjzDrsQ4/mqdefault.jpg",
-      "published": "2026-10-27T22:00:06Z"
+      "title": "A DEMISSÃO QUE PEGOU COMENTARISTA DE SURPRESA: \"NÃO ESPERAVA ISSO\" | Cortes do Duda",
+      "videoId": "0Ov--ZQ5piM",
+      "url": "https://www.youtube.com/watch?v=0Ov--ZQ5piM",
+      "thumbnail": "https://i.ytimg.com/vi/0Ov--ZQ5piM/mqdefault.jpg",
+      "published": "2026-10-27T23:15:28Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "BANRISUL DE VOLTA COMO MÁSTER DO GRÊMIO | VITÓRIA IMPORTANTE | NOITES DE GRÊMIO #173 - 27/10",
+      "videoId": "1E6Vbf8GkSM",
+      "url": "https://www.youtube.com/watch?v=1E6Vbf8GkSM",
+      "thumbnail": "https://i.ytimg.com/vi/1E6Vbf8GkSM/mqdefault.jpg?v=6ae13887",
+      "published": "2026-10-28T00:01:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VITÓRIA DA SOBREVIVÊNCIA DO GRÊMIO! | SITUAÇÃO DA TABELA | HORA DE LOTAR A ARENA | IMORTAL FC",
       "videoId": "rSxqL9HyB6I",
       "url": "https://www.youtube.com/watch?v=rSxqL9HyB6I",
       "thumbnail": "https://i.ytimg.com/vi/rSxqL9HyB6I/mqdefault.jpg",
       "published": "2026-10-27T22:57:58Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AS REPERCUSSÕES DA VITÓRIA DO IMORTAL | GRÊMIO FAZ TREINO PENSANDO NO ATHLETICO | ESPLANADA",
-      "videoId": "jK4dCXR4BS0",
-      "url": "https://www.youtube.com/watch?v=jK4dCXR4BS0",
-      "thumbnail": "https://i.ytimg.com/vi/jK4dCXR4BS0/mqdefault.jpg",
-      "published": "2026-10-27T19:44:20Z"
     }
   ]
 }
