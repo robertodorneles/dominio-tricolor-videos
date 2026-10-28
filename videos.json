@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:00:38.881221+00:00",
+  "updated_at": "2026-10-28T23:00:41.531621+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "CARLOS VINÍCIUS DE SAÍDA PARA O VASCO! INTER QUER SE AFASTAR DO Z4📰BAGÉTV NEWS #064",
       "videoId": "y50MSxQqL3c",
       "url": "https://www.youtube.com/watch?v=y50MSxQqL3c",
-      "thumbnail": "https://i.ytimg.com/vi/y50MSxQqL3c/mqdefault.jpg?v=6ae12795",
-      "published": "2026-10-28T20:34:29Z"
+      "thumbnail": "https://i.ytimg.com/vi/y50MSxQqL3c/mqdefault.jpg",
+      "published": "2026-10-28T22:10:35Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 28/10/2026",
+      "videoId": "0DPkCzlAiyc",
+      "url": "https://www.youtube.com/watch?v=0DPkCzlAiyc",
+      "thumbnail": "https://i.ytimg.com/vi/0DPkCzlAiyc/mqdefault.jpg?v=6ae1f55b",
+      "published": "2026-10-28T22:00:39Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #44",
       "videoId": "G2ywux6F4Uo",
       "url": "https://www.youtube.com/watch?v=G2ywux6F4Uo",
       "thumbnail": "https://i.ytimg.com/vi/G2ywux6F4Uo/mqdefault.jpg?v=6ae21b24",
       "published": "2026-10-28T17:14:50Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 28/10/2026",
-      "videoId": "0DPkCzlAiyc",
-      "url": "https://www.youtube.com/watch?v=0DPkCzlAiyc",
-      "thumbnail": "https://i.ytimg.com/vi/0DPkCzlAiyc/mqdefault.jpg?v=6ae1f55b",
-      "published": "2026-10-28T13:15:07Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "CARLOS VINICIUS NO VASCO? ELE FEZ UMA PROMESSA | LESÃO DE TITULAR E RETORNO | VAMOS LOTAR A ARENA",
+      "videoId": "wr9aJ8vnPzE",
+      "url": "https://www.youtube.com/watch?v=wr9aJ8vnPzE",
+      "thumbnail": "https://i.ytimg.com/vi/wr9aJ8vnPzE/mqdefault.jpg",
+      "published": "2026-10-28T22:52:58Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "10 NOTÍCIAS DO GRÊMIO: NOVO MASTER FECHADO, TRANSFER BAN, REFORÇO CASEIRO, LESÃO E MUITO MAIS",
       "videoId": "JW4fi6uBnBU",
       "url": "https://www.youtube.com/watch?v=JW4fi6uBnBU",
@@ -123,28 +131,20 @@
       "published": "2026-10-28T00:02:24Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "(AO VIVO) PÓS-JOGO DE GRÊMIO x ATHLETICO-PR DIRETO DA ARENA | BRASILEIRÃO | COLETIVA | 29/10 #41",
-      "videoId": "mgTL3HJdqC0",
-      "url": "https://www.youtube.com/watch?v=mgTL3HJdqC0",
-      "thumbnail": "https://i.ytimg.com/vi/mgTL3HJdqC0/mqdefault.jpg?v=6ae0229e",
-      "published": "2026-10-27T04:03:40Z"
+      "channel": "Duda Garbi",
+      "title": "ESPN X CAZÉTV... QUAL É A SUA FAVORITA? RAFA OLIVEIRA EXPLICA | Cortes do Duda",
+      "videoId": "OBg15dk4_4g",
+      "url": "https://www.youtube.com/watch?v=OBg15dk4_4g",
+      "thumbnail": "https://i.ytimg.com/vi/OBg15dk4_4g/mqdefault.jpg",
+      "published": "2026-10-28T23:00:23Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "O NOVO PVC? RAFA OLIVEIRA E AS SEMELHANÇAS COM PAULO VINICIUS COELHO | Cortes do Duda",
-      "videoId": "X3LtRCLBEIo",
-      "url": "https://www.youtube.com/watch?v=X3LtRCLBEIo",
-      "thumbnail": "https://i.ytimg.com/vi/X3LtRCLBEIo/mqdefault.jpg",
-      "published": "2026-10-28T21:30:25Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ELE NEGOU A REDE GLOBO #dudagarbi #umassadopara",
-      "videoId": "omP5pSfl04U",
-      "url": "https://www.youtube.com/watch?v=omP5pSfl04U",
-      "thumbnail": "https://i.ytimg.com/vi/omP5pSfl04U/mqdefault.jpg",
-      "published": "2026-10-28T21:00:37Z"
+      "title": "A ELIMINAÇÃO DO BRASIL NA COPA TEM EXPLICAÇÃO E RAFA OLIVEIRA CONTOU TUDO! | Cortes do Duda",
+      "videoId": "Ypth1hDO4AU",
+      "url": "https://www.youtube.com/watch?v=Ypth1hDO4AU",
+      "thumbnail": "https://i.ytimg.com/vi/Ypth1hDO4AU/mqdefault.jpg",
+      "published": "2026-10-28T22:30:40Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha+ | 29/10/2026",
-      "videoId": "_Z3dTDl2I7c",
-      "url": "https://www.youtube.com/watch?v=_Z3dTDl2I7c",
-      "thumbnail": "https://i.ytimg.com/vi/_Z3dTDl2I7c/mqdefault.jpg?v=6ae26a38",
-      "published": "2026-10-28T21:32:46Z"
+      "title": "Flávio Bolsonaro estaria sofrendo PERSEGUIÇÃO POLÍTICA? | Conversas Cruzadas",
+      "videoId": "ZHMw131nrq0",
+      "url": "https://www.youtube.com/watch?v=ZHMw131nrq0",
+      "thumbnail": "https://i.ytimg.com/vi/ZHMw131nrq0/mqdefault.jpg",
+      "published": "2026-10-28T22:22:10Z"
     },
     {
       "channel": "GZH Digital",
-      "title": "Flávio Bolsonaro nos EUA: quais os próximos passos na Justiça? | Conversas Cruzadas | 28/10/2026",
-      "videoId": "VsQoWmmCDX8",
-      "url": "https://www.youtube.com/watch?v=VsQoWmmCDX8",
-      "thumbnail": "https://i.ytimg.com/vi/VsQoWmmCDX8/mqdefault.jpg?v=6ae23c02",
-      "published": "2026-10-28T21:30:48Z"
+      "title": "Flávio Bolsonaro FUGIU? Pode haver PRISÃO PREVENTIVA e EXTRADIÇÃO? Entenda caso | Conversas Cruzadas",
+      "videoId": "oZ2xWk4TQus",
+      "url": "https://www.youtube.com/watch?v=oZ2xWk4TQus",
+      "thumbnail": "https://i.ytimg.com/vi/oZ2xWk4TQus/mqdefault.jpg",
+      "published": "2026-10-28T22:08:22Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO PRONTO PARA MAIS UMA DECISÃO NA ARENA | NOITES DE GRÊMIO #174 - 28/10",
-      "videoId": "oyLBnfvsIUY",
-      "url": "https://www.youtube.com/watch?v=oyLBnfvsIUY",
-      "thumbnail": "https://i.ytimg.com/vi/oyLBnfvsIUY/mqdefault.jpg?v=6ae268d8",
-      "published": "2026-10-28T21:27:48Z"
-    },
-    {
-      "channel": "Radio Imortal",
       "title": "GRÊMIO PERDE MAIS UM TITULAR PARA AMANHÃ | TRÊS ZAGUEIROS? | TUDO SOBRE A RODADA | IMORTAL FC",
       "videoId": "csM2nKeYnMI",
       "url": "https://www.youtube.com/watch?v=csM2nKeYnMI",
-      "thumbnail": "https://i.ytimg.com/vi/csM2nKeYnMI/mqdefault.jpg?v=6ae218c5",
-      "published": "2026-10-28T21:01:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/csM2nKeYnMI/mqdefault.jpg",
+      "published": "2026-10-28T22:29:58Z"
+    },
+    {
+      "channel": "Radio Imortal",
+      "title": "RENATO DEFINE O TIME DO GRÊMIO AGORA | DETALHES DO NOVO ACORDO COM O BANRISUL | ESPLANADA",
+      "videoId": "6bDkniLiRGA",
+      "url": "https://www.youtube.com/watch?v=6bDkniLiRGA",
+      "thumbnail": "https://i.ytimg.com/vi/6bDkniLiRGA/mqdefault.jpg",
+      "published": "2026-10-28T22:20:42Z"
     }
   ]
 }
