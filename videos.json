@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-29T20:48:51.281356+00:00",
+  "updated_at": "2026-10-29T21:00:31.822179+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: ERRO DA DIREÇÃO ESCANCARADO! | AONDE ELES ESTÃO? | DOIS JOGADORES SUMIRAM",
+      "videoId": "2W0u1vm7wPQ",
+      "url": "https://www.youtube.com/watch?v=2W0u1vm7wPQ",
+      "thumbnail": "https://i.ytimg.com/vi/2W0u1vm7wPQ/mqdefault.jpg",
+      "published": "2026-10-29T20:52:25Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 DIREÇÃO QUEBROU O PAU | VEJA OS LANCES | ALAN PREOCUPA! | BAPTISTA EXPLICOU",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=2PW_tY308Fc",
       "thumbnail": "https://i.ytimg.com/vi/2PW_tY308Fc/mqdefault.jpg",
       "published": "2026-10-29T13:14:25Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO PERDE DOIS TITULARES! VITÓRIA TIRA DO Z-4 E BANRISUL VOLTA!",
-      "videoId": "GHoIl2PvTi0",
-      "url": "https://www.youtube.com/watch?v=GHoIl2PvTi0",
-      "thumbnail": "https://i.ytimg.com/vi/GHoIl2PvTi0/mqdefault.jpg",
-      "published": "2026-10-29T05:00:34Z"
     },
     {
       "channel": "Bage TV",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "O MEME DO HOMEM SEM REAÇÃO #dudagarbi #umassadopara",
+      "videoId": "qCRKxc-Ew_A",
+      "url": "https://www.youtube.com/watch?v=qCRKxc-Ew_A",
+      "thumbnail": "https://i.ytimg.com/vi/qCRKxc-Ew_A/mqdefault.jpg",
+      "published": "2026-10-29T21:00:01Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 29.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "mLTGWI8Pkyk",
       "url": "https://www.youtube.com/watch?v=mLTGWI8Pkyk",
       "thumbnail": "https://i.ytimg.com/vi/mLTGWI8Pkyk/mqdefault.jpg",
       "published": "2026-10-29T13:41:46Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "ESPN X CAZÉTV... QUAL É A SUA FAVORITA? RAFA OLIVEIRA EXPLICA | Cortes do Duda",
-      "videoId": "OBg15dk4_4g",
-      "url": "https://www.youtube.com/watch?v=OBg15dk4_4g",
-      "thumbnail": "https://i.ytimg.com/vi/OBg15dk4_4g/mqdefault.jpg",
-      "published": "2026-10-28T23:00:23Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Free flow: veja como receber reembolso de multas",
+      "videoId": "OTdiqGNAX1I",
+      "url": "https://www.youtube.com/watch?v=OTdiqGNAX1I",
+      "thumbnail": "https://i.ytimg.com/vi/OTdiqGNAX1I/mqdefault.jpg",
+      "published": "2026-10-29T20:56:52Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "A virada inédita de LULA e a carta de FLÁVIO BOLSONARO | Chamada Eleitoral | 29/10/2026",
       "videoId": "EJdeExA2Cjw",
       "url": "https://www.youtube.com/watch?v=EJdeExA2Cjw",
       "thumbnail": "https://i.ytimg.com/vi/EJdeExA2Cjw/mqdefault.jpg",
       "published": "2026-10-29T20:43:08Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Trump, Bolsonaro e Lula: como fica a relação entre Brasil e EUA? | Conversas Cruzadas",
-      "videoId": "RZ_AVQpK2-A",
-      "url": "https://www.youtube.com/watch?v=RZ_AVQpK2-A",
-      "thumbnail": "https://i.ytimg.com/vi/RZ_AVQpK2-A/mqdefault.jpg",
-      "published": "2026-10-29T20:42:24Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,10 +212,10 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO | GRENAL FC | RÁDIO GRENAL | 29/10/2026",
+      "title": "29/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "9_CTaxswrfk",
       "url": "https://www.youtube.com/watch?v=9_CTaxswrfk",
-      "thumbnail": "https://i.ytimg.com/vi/9_CTaxswrfk/mqdefault.jpg?v=6ae38a4f",
+      "thumbnail": "https://i.ytimg.com/vi/9_CTaxswrfk/mqdefault.jpg?v=6ae3b3eb",
       "published": "2026-10-29T11:01:49Z"
     },
     {
