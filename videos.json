@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:00:36.151481+00:00",
+  "updated_at": "2026-10-29T23:00:39.651696+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRÊMIO x ATLÉTICO - PR | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 29/10/2026",
+      "videoId": "hpCXMI9AbG0",
+      "url": "https://www.youtube.com/watch?v=hpCXMI9AbG0",
+      "thumbnail": "https://i.ytimg.com/vi/hpCXMI9AbG0/mqdefault.jpg?v=6ae29219",
+      "published": "2026-10-29T22:46:50Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #45",
       "videoId": "NSKRn90igSE",
       "url": "https://www.youtube.com/watch?v=NSKRn90igSE",
       "thumbnail": "https://i.ytimg.com/vi/NSKRn90igSE/mqdefault.jpg?v=6ae36c29",
       "published": "2026-10-29T17:05:39Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | GREMIO X ATHLETICO PARANAENSE, JOGO DECISIVO | CLUBE TRICOLOR #12",
-      "videoId": "UmSXNjKaxqE",
-      "url": "https://www.youtube.com/watch?v=UmSXNjKaxqE",
-      "thumbnail": "https://i.ytimg.com/vi/UmSXNjKaxqE/mqdefault.jpg",
-      "published": "2026-10-29T16:45:18Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -116,6 +116,14 @@
     },
     {
       "channel": "Diogo Rossi Reporter",
+      "title": "(AO VIVO) PRÉ-JOGO DE GRÊMIO x ATHLETICO-PR DIRETO DA ARENA | BRASILEIRÃO 2026 | 29/10 #24",
+      "videoId": "ZLgBc7vTUq4",
+      "url": "https://www.youtube.com/watch?v=ZLgBc7vTUq4",
+      "thumbnail": "https://i.ytimg.com/vi/ZLgBc7vTUq4/mqdefault.jpg?v=6ae021ef",
+      "published": "2026-10-29T22:00:17Z"
+    },
+    {
+      "channel": "Diogo Rossi Reporter",
       "title": "CARLOS VINICIUS NO VASCO? ELE FEZ UMA PROMESSA | LESÃO DE TITULAR E RETORNO | VAMOS LOTAR A ARENA",
       "videoId": "wr9aJ8vnPzE",
       "url": "https://www.youtube.com/watch?v=wr9aJ8vnPzE",
@@ -123,12 +131,12 @@
       "published": "2026-10-28T22:52:58Z"
     },
     {
-      "channel": "Diogo Rossi Reporter",
-      "title": "10 NOTÍCIAS DO GRÊMIO: NOVO MASTER FECHADO, TRANSFER BAN, REFORÇO CASEIRO, LESÃO E MUITO MAIS",
-      "videoId": "JW4fi6uBnBU",
-      "url": "https://www.youtube.com/watch?v=JW4fi6uBnBU",
-      "thumbnail": "https://i.ytimg.com/vi/JW4fi6uBnBU/mqdefault.jpg",
-      "published": "2026-10-28T00:02:24Z"
+      "channel": "Duda Garbi",
+      "title": "JÁ VIU ESSA AULA TÁTICA DO COMENTARISTA DA CAZÉTV? RAFA OLIVEIRA | Cortes do Duda",
+      "videoId": "lboRecHW9Rw",
+      "url": "https://www.youtube.com/watch?v=lboRecHW9Rw",
+      "thumbnail": "https://i.ytimg.com/vi/lboRecHW9Rw/mqdefault.jpg",
+      "published": "2026-10-29T22:00:28Z"
     },
     {
       "channel": "Duda Garbi",
@@ -139,12 +147,12 @@
       "published": "2026-10-29T21:30:34Z"
     },
     {
-      "channel": "Duda Garbi",
-      "title": "O DESTAQUE DA COPA ERA SÓ MÍDIA E NÃO JOGAVA TUDO ISSO? ENTENDA | Cortes do Duda",
-      "videoId": "eQ_xdnsXZyw",
-      "url": "https://www.youtube.com/watch?v=eQ_xdnsXZyw",
-      "thumbnail": "https://i.ytimg.com/vi/eQ_xdnsXZyw/mqdefault.jpg",
-      "published": "2026-10-29T21:00:21Z"
+      "channel": "GremioTV Oficial",
+      "title": "AO VIVO | GRÊMIO X ATHLETICO/PR I BRASILEIRÃO 2026",
+      "videoId": "H5q9rxQfQtc",
+      "url": "https://www.youtube.com/watch?v=H5q9rxQfQtc",
+      "thumbnail": "https://i.ytimg.com/vi/H5q9rxQfQtc/mqdefault.jpg?v=6ae3818f",
+      "published": "2026-10-29T22:31:04Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -153,14 +161,6 @@
       "url": "https://www.youtube.com/watch?v=-vu0eIutMf0",
       "thumbnail": "https://i.ytimg.com/vi/-vu0eIutMf0/mqdefault.jpg",
       "published": "2026-10-29T18:52:26Z"
-    },
-    {
-      "channel": "GremioTV Oficial",
-      "title": "AO VIVO | GRÊMIO X ATHLETICO/PR I BRASILEIRÃO 2026",
-      "videoId": "H5q9rxQfQtc",
-      "url": "https://www.youtube.com/watch?v=H5q9rxQfQtc",
-      "thumbnail": "https://i.ytimg.com/vi/H5q9rxQfQtc/mqdefault.jpg?v=6ae3818f",
-      "published": "2026-10-29T17:25:34Z"
     },
     {
       "channel": "GZH Digital",
@@ -216,7 +216,7 @@
       "videoId": "dLj9DNWq1IM",
       "url": "https://www.youtube.com/watch?v=dLj9DNWq1IM",
       "thumbnail": "https://i.ytimg.com/vi/dLj9DNWq1IM/mqdefault.jpg?v=6ae3b5dd",
-      "published": "2026-10-29T21:01:56Z"
+      "published": "2026-10-29T22:00:30Z"
     },
     {
       "channel": "Radio Grenal",
