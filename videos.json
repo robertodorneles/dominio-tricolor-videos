@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T10:00:37.272750+00:00",
+  "updated_at": "2026-10-29T11:00:38.399310+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Direto de Passo Fundo, Flávio Bolsonaro nos EUA, política e mais | Gaúcha Atualidade | 29/10/2026",
+      "videoId": "ku3sq_lW374",
+      "url": "https://www.youtube.com/watch?v=ku3sq_lW374",
+      "thumbnail": "https://i.ytimg.com/vi/ku3sq_lW374/mqdefault.jpg?v=6ae325ad",
+      "published": "2026-10-29T10:58:23Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Flávio Bolsonaro nos EUA: quais os próximos passos na Justiça? | Conversas Cruzadas | 28/10/2026",
       "videoId": "VsQoWmmCDX8",
       "url": "https://www.youtube.com/watch?v=VsQoWmmCDX8",
       "thumbnail": "https://i.ytimg.com/vi/VsQoWmmCDX8/mqdefault.jpg",
       "published": "2026-10-29T09:40:27Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Fuga de Flávio, homenagem ao Guerrinha, notícias do RS e mais | Gaúcha+ | 28/10/2026",
-      "videoId": "YHVLK3t59wk",
-      "url": "https://www.youtube.com/watch?v=YHVLK3t59wk",
-      "thumbnail": "https://i.ytimg.com/vi/YHVLK3t59wk/mqdefault.jpg",
-      "published": "2026-10-29T07:40:44Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 29/10/2026",
+      "videoId": "9_CTaxswrfk",
+      "url": "https://www.youtube.com/watch?v=9_CTaxswrfk",
+      "thumbnail": "https://i.ytimg.com/vi/9_CTaxswrfk/mqdefault.jpg?v=6ae32226",
+      "published": "2026-10-29T10:36:42Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "JORNADA ESPORTIVA | FLUMINENSE 2 X 1 INTER | BRASILEIRÃO | RÁDIO GRENAL | 28/10/2026",
       "videoId": "HUQyFlqOHdg",
       "url": "https://www.youtube.com/watch?v=HUQyFlqOHdg",
@@ -219,12 +227,12 @@
       "published": "2026-10-29T07:20:52Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "COLETIVAS DE ALESSANDRO BARCELLOS E EDUARDO BAPTISTA | FLUMINENSE 2 X 1 INTER | BRASILEIRÃO | 28/10",
-      "videoId": "1g25wDWZGjY",
-      "url": "https://www.youtube.com/watch?v=1g25wDWZGjY",
-      "thumbnail": "https://i.ytimg.com/vi/1g25wDWZGjY/mqdefault.jpg",
-      "published": "2026-10-29T02:03:59Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #54 — É DIA DE GRÊMIO! | TUDO SOBRE O CONFRONTO CONTRA O ATHLETICO-PR",
+      "videoId": "sw6mV6ODvbc",
+      "url": "https://www.youtube.com/watch?v=sw6mV6ODvbc",
+      "thumbnail": "https://i.ytimg.com/vi/sw6mV6ODvbc/mqdefault.jpg?v=6ae28d1b",
+      "published": "2026-10-29T10:34:17Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=PoQ5qA6XPjY",
       "thumbnail": "https://i.ytimg.com/vi/PoQ5qA6XPjY/mqdefault.jpg?v=6ae29964",
       "published": "2026-10-29T00:54:56Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "CAFÉ COM A IMORTAL #53 — GRÊMIO TERÁ BANRISUL COMO PATROCÍNIO MÁSTER ATÉ O FINAL DO ANO",
-      "videoId": "0PavtxV-sWs",
-      "url": "https://www.youtube.com/watch?v=0PavtxV-sWs",
-      "thumbnail": "https://i.ytimg.com/vi/0PavtxV-sWs/mqdefault.jpg",
-      "published": "2026-10-29T00:34:14Z"
     }
   ]
 }
