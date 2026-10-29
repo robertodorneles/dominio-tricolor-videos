@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:48:57.830906+00:00",
+  "updated_at": "2026-10-29T16:00:35.990713+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "GRENAL SHOW - #45",
+      "videoId": "NSKRn90igSE",
+      "url": "https://www.youtube.com/watch?v=NSKRn90igSE",
+      "thumbnail": "https://i.ytimg.com/vi/NSKRn90igSE/mqdefault.jpg?v=6ae36c29",
+      "published": "2026-10-29T15:54:17Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "ACORDA, GRÊMIO! #050",
       "videoId": "PIRN_Li2rpA",
       "url": "https://www.youtube.com/watch?v=PIRN_Li2rpA",
       "thumbnail": "https://i.ytimg.com/vi/PIRN_Li2rpA/mqdefault.jpg?v=6ae34164",
       "published": "2026-10-29T12:51:48Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "ACORDA, GRÊMIO! #049",
-      "videoId": "RQVdJ8R0fDc",
-      "url": "https://www.youtube.com/watch?v=RQVdJ8R0fDc",
-      "thumbnail": "https://i.ytimg.com/vi/RQVdJ8R0fDc/mqdefault.jpg?v=6ae1f52f",
-      "published": "2026-10-29T12:42:43Z"
     },
     {
       "channel": "Canal do Gabardo",
