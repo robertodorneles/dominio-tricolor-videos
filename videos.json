@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:34:29.577943+00:00",
+  "updated_at": "2026-10-29T01:00:39.930806+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "channel": "Bage TV",
-      "title": "🔵 BOA NOITE GRÊMIO #051",
+      "title": "INTER PERDE E GRÊMIO PODE SAIR DO Z-4🔵 BOA NOITE GRÊMIO #051",
       "videoId": "tFCMlusLdSM",
       "url": "https://www.youtube.com/watch?v=tFCMlusLdSM",
       "thumbnail": "https://i.ytimg.com/vi/tFCMlusLdSM/mqdefault.jpg?v=6ae127cb",
@@ -36,19 +36,19 @@
     },
     {
       "channel": "Bruno Soares Reporter",
+      "title": "🚨O INTER PERDEU E SE FERROU! BAITA RESULTADO PRO GRÊMIO | A SITUAÇÃO MELHOROU! AGORA, É VENCER!",
+      "videoId": "65DkgZzhR5I",
+      "url": "https://www.youtube.com/watch?v=65DkgZzhR5I",
+      "thumbnail": "https://i.ytimg.com/vi/65DkgZzhR5I/mqdefault.jpg",
+      "published": "2026-10-29T00:56:02Z"
+    },
+    {
+      "channel": "Bruno Soares Reporter",
       "title": "🚨OFERTA PRA CAMISA 9 | MEIA DE VOLTA NO GRÊMIO | PERDEMOS UM GRANDE ÍDOLO",
       "videoId": "TcoBWwfnm3M",
       "url": "https://www.youtube.com/watch?v=TcoBWwfnm3M",
       "thumbnail": "https://i.ytimg.com/vi/TcoBWwfnm3M/mqdefault.jpg",
       "published": "2026-10-28T17:17:37Z"
-    },
-    {
-      "channel": "Bruno Soares Reporter",
-      "title": "🚨GRANDE NOTÍCIA! DINHEIRO CHEGANDO NO GRÊMIO COM IMPORTANTE ACORDO FECHADO!",
-      "videoId": "OEJc0ORlNek",
-      "url": "https://www.youtube.com/watch?v=OEJc0ORlNek",
-      "thumbnail": "https://i.ytimg.com/vi/OEJc0ORlNek/mqdefault.jpg",
-      "published": "2026-10-27T23:38:09Z"
     },
     {
       "channel": "Canal do CCD",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO | PRÉ-JOGO GRÊMIO X ATHLETICO-PR | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
+      "videoId": "PoQ5qA6XPjY",
+      "url": "https://www.youtube.com/watch?v=PoQ5qA6XPjY",
+      "thumbnail": "https://i.ytimg.com/vi/PoQ5qA6XPjY/mqdefault.jpg?v=6ae29964",
+      "published": "2026-10-29T00:54:56Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #53 — GRÊMIO TERÁ BANRISUL COMO PATROCÍNIO MÁSTER ATÉ O FINAL DO ANO",
       "videoId": "0PavtxV-sWs",
       "url": "https://www.youtube.com/watch?v=0PavtxV-sWs",
       "thumbnail": "https://i.ytimg.com/vi/0PavtxV-sWs/mqdefault.jpg",
       "published": "2026-10-29T00:34:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "NOITE DECISIVA NA ARENA! GRÊMIO PRECISA VENCER O ATHLETICO-PR | COMO É BOM SER DO GRÊMIO #74",
-      "videoId": "gsgjVkm16OE",
-      "url": "https://www.youtube.com/watch?v=gsgjVkm16OE",
-      "thumbnail": "https://i.ytimg.com/vi/gsgjVkm16OE/mqdefault.jpg?v=6ae28d99",
-      "published": "2026-10-29T00:04:38Z"
     }
   ]
 }
