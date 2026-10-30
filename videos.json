@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:00:35.804755+00:00",
+  "updated_at": "2026-10-30T11:00:38.547127+00:00",
   "total": 30,
   "videos": [
     {
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "| Gaúcha Atualidade | 30/10/2026",
+      "videoId": "r7Fx5ysuG7o",
+      "url": "https://www.youtube.com/watch?v=r7Fx5ysuG7o",
+      "thumbnail": "https://i.ytimg.com/vi/r7Fx5ysuG7o/mqdefault.jpg?v=6ae33c87",
+      "published": "2026-10-30T10:56:11Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Convocação da Seleção Brasileira, Zucco anuncia secretários e mais | Gaúcha+ | 29/10/2026",
       "videoId": "_Z3dTDl2I7c",
       "url": "https://www.youtube.com/watch?v=_Z3dTDl2I7c",
       "thumbnail": "https://i.ytimg.com/vi/_Z3dTDl2I7c/mqdefault.jpg",
       "published": "2026-10-30T07:42:28Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "Carta golpista de Flávio Bolsonaro, últimas da política e mais | Timeline 29/10/2026",
-      "videoId": "3uX1S0xt8c4",
-      "url": "https://www.youtube.com/watch?v=3uX1S0xt8c4",
-      "thumbnail": "https://i.ytimg.com/vi/3uX1S0xt8c4/mqdefault.jpg",
-      "published": "2026-10-30T02:37:19Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | FUTEBOL ALEGRIA DO POVO | RÁDIO GRENAL | 30/10/2026",
+      "videoId": "ShelmaJUs90",
+      "url": "https://www.youtube.com/watch?v=ShelmaJUs90",
+      "thumbnail": "https://i.ytimg.com/vi/ShelmaJUs90/mqdefault.jpg?v=6ae47098",
+      "published": "2026-10-30T10:24:23Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "29/10/2026 | JOGO COMPLETO | GRÊMIO 2 X 0 ATHLETICO-PR | BRASILEIRÃO | RÁDIO GRENAL",
       "videoId": "dLj9DNWq1IM",
       "url": "https://www.youtube.com/watch?v=dLj9DNWq1IM",
@@ -219,12 +227,12 @@
       "published": "2026-10-30T05:10:55Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "COMPROMETIMENTO DO TIME! 🇪🇪 #shorts",
-      "videoId": "kKONqZx7QMw",
-      "url": "https://www.youtube.com/watch?v=kKONqZx7QMw",
-      "thumbnail": "https://i.ytimg.com/vi/kKONqZx7QMw/mqdefault.jpg",
-      "published": "2026-10-30T04:57:49Z"
+      "channel": "Radio Imortal",
+      "title": "CAFÉ COM A IMORTAL #55 — O GRÊMIO VENCEU E SAIU DA ZONA!",
+      "videoId": "wOm0KMLI-YY",
+      "url": "https://www.youtube.com/watch?v=wOm0KMLI-YY",
+      "thumbnail": "https://i.ytimg.com/vi/wOm0KMLI-YY/mqdefault.jpg?v=6ae4264e",
+      "published": "2026-10-30T10:33:14Z"
     },
     {
       "channel": "Radio Imortal",
@@ -233,14 +241,6 @@
       "url": "https://www.youtube.com/watch?v=cXehdyZffQY",
       "thumbnail": "https://i.ytimg.com/vi/cXehdyZffQY/mqdefault.jpg",
       "published": "2026-10-30T09:00:15Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (2) X (0) ATHLETICO-PR | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
-      "videoId": "PoQ5qA6XPjY",
-      "url": "https://www.youtube.com/watch?v=PoQ5qA6XPjY",
-      "thumbnail": "https://i.ytimg.com/vi/PoQ5qA6XPjY/mqdefault.jpg",
-      "published": "2026-10-30T06:51:02Z"
     }
   ]
 }
