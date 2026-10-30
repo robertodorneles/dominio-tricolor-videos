@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-30T20:20:54.565797+00:00",
+  "updated_at": "2026-10-30T21:00:37.055970+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 VIROU TITULAR DE NOVO! | SUBESTIMADO DEMAIS | MELHOR REFORÇO DO ANO",
+      "videoId": "w5iEGwHdHdw",
+      "url": "https://www.youtube.com/watch?v=w5iEGwHdHdw",
+      "thumbnail": "https://i.ytimg.com/vi/w5iEGwHdHdw/mqdefault.jpg",
+      "published": "2026-10-30T20:44:18Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: DIREÇÃO PEDE PUNIÇÃO AO CORINTHIANS! PORTÕES FECHADOS E ÁRBITROS AMEAÇADOS!",
@@ -11,12 +19,12 @@
       "published": "2026-10-30T16:35:15Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 CAIU PARA A ZONA | BARCELLOS DENUNCIADO? | TRANSFERBAN",
-      "videoId": "9Ihy7qMlERk",
-      "url": "https://www.youtube.com/watch?v=9Ihy7qMlERk",
-      "thumbnail": "https://i.ytimg.com/vi/9Ihy7qMlERk/mqdefault.jpg",
-      "published": "2026-10-30T08:32:10Z"
+      "channel": "Bage TV",
+      "title": "📰BAGÉTV NEWS #065",
+      "videoId": "78HoWQEOSr8",
+      "url": "https://www.youtube.com/watch?v=78HoWQEOSr8",
+      "thumbnail": "https://i.ytimg.com/vi/78HoWQEOSr8/mqdefault.jpg?v=6ae41b1d",
+      "published": "2026-10-30T20:31:47Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=zrPVNlo-jUo",
       "thumbnail": "https://i.ytimg.com/vi/zrPVNlo-jUo/mqdefault.jpg",
       "published": "2026-10-30T20:03:09Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "GRÊMIO VAI FOCAR NA COPA DO BRASIL?🔹 THE TARDE 🔹#250",
-      "videoId": "cJkHkTktaLs",
-      "url": "https://www.youtube.com/watch?v=cJkHkTktaLs",
-      "thumbnail": "https://i.ytimg.com/vi/cJkHkTktaLs/mqdefault.jpg",
-      "published": "2026-10-30T19:52:40Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
+      "title": "AULA TÁTICO DO RAFA OLIVEIRA #dudagarbi #umassadopara",
+      "videoId": "7Eu2qngdE38",
+      "url": "https://www.youtube.com/watch?v=7Eu2qngdE38",
+      "thumbnail": "https://i.ytimg.com/vi/7Eu2qngdE38/mqdefault.jpg",
+      "published": "2026-10-30T21:00:18Z"
+    },
+    {
+      "channel": "Duda Garbi",
       "title": "HOSPÍCIO | 30.10 | AO VIVO - RICA, DUDA GARBI e ALÊ OLIVEIRA",
       "videoId": "-looAudW1ho",
       "url": "https://www.youtube.com/watch?v=-looAudW1ho",
       "thumbnail": "https://i.ytimg.com/vi/-looAudW1ho/mqdefault.jpg",
       "published": "2026-10-30T13:31:26Z"
-    },
-    {
-      "channel": "Duda Garbi",
-      "title": "JÁ VIU ESSA AULA TÁTICA DO COMENTARISTA DA CAZÉTV? RAFA OLIVEIRA | Cortes do Duda",
-      "videoId": "lboRecHW9Rw",
-      "url": "https://www.youtube.com/watch?v=lboRecHW9Rw",
-      "thumbnail": "https://i.ytimg.com/vi/lboRecHW9Rw/mqdefault.jpg",
-      "published": "2026-10-29T22:00:28Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Lula e Zucco: os desafios após a vitória | Conversa de Gabinete",
+      "videoId": "tRfcj4B7q2g",
+      "url": "https://www.youtube.com/watch?v=tRfcj4B7q2g",
+      "thumbnail": "https://i.ytimg.com/vi/tRfcj4B7q2g/mqdefault.jpg",
+      "published": "2026-10-30T20:25:06Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Abertura da Feira do Livro, entrevista com autores, trânsito e mais | Gaúcha+ | 30/10/2026",
       "videoId": "noSzwjZ7AZs",
       "url": "https://www.youtube.com/watch?v=noSzwjZ7AZs",
       "thumbnail": "https://i.ytimg.com/vi/noSzwjZ7AZs/mqdefault.jpg?v=6ae4c848",
       "published": "2026-10-30T19:33:52Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "LULA REELEITO, FUGA DE FLÁVIO, ARTICULAÇÕES NO CONGRESSO E ACIDENTE DE TREM | RivoNews #157",
-      "videoId": "mBDyYnMBBPw",
-      "url": "https://www.youtube.com/watch?v=mBDyYnMBBPw",
-      "thumbnail": "https://i.ytimg.com/vi/mBDyYnMBBPw/mqdefault.jpg",
-      "published": "2026-10-30T19:29:42Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE O ATHLETICO-PR COM AUTORIDADE | RENATO COMANDA TREINO E PODE MUDAR O TIME | ESPLANADA",
-      "videoId": "velmzQT_jjU",
-      "url": "https://www.youtube.com/watch?v=velmzQT_jjU",
-      "thumbnail": "https://i.ytimg.com/vi/velmzQT_jjU/mqdefault.jpg?v=6ae42815",
-      "published": "2026-10-30T19:32:19Z"
+      "title": "É HORA DE SER GRÊMIO! FINAL DE SEMANA DE COPA | PLANTÃO IMORTAL DIRETO DE BENTO GONÇALVES",
+      "videoId": "tmynITh-rzU",
+      "url": "https://www.youtube.com/watch?v=tmynITh-rzU",
+      "thumbnail": "https://i.ytimg.com/vi/tmynITh-rzU/mqdefault.jpg?v=6ae4ff67",
+      "published": "2026-10-30T20:34:45Z"
     },
     {
       "channel": "Radio Imortal",
-      "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
-      "videoId": "PrzOEYHhL4k",
-      "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
-      "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg?v=6ae4e52a",
-      "published": "2026-10-30T18:42:48Z"
+      "title": "AO VIVO - PLANTÃO IMORTAL FALANDO DE GRÊMIO | CONSULADO DE BENTO GONÇALVES / HOTEL DALLONDER",
+      "videoId": "pET9vfXDIwo",
+      "url": "https://www.youtube.com/watch?v=pET9vfXDIwo",
+      "thumbnail": "https://i.ytimg.com/vi/pET9vfXDIwo/mqdefault.jpg?v=6ae4ff00",
+      "published": "2026-10-30T20:33:01Z"
     }
   ]
 }
