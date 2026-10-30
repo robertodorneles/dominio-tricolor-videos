@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:00:37.015814+00:00",
+  "updated_at": "2026-10-30T02:00:31.881773+00:00",
   "total": 30,
   "videos": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "GOL DE MARLON! GRÊMIO 2 x 0 ATHLETICO-PR",
+      "videoId": "hp7CoIEGRg0",
+      "url": "https://www.youtube.com/watch?v=hp7CoIEGRg0",
+      "thumbnail": "https://i.ytimg.com/vi/hp7CoIEGRg0/mqdefault.jpg",
+      "published": "2026-10-30T01:56:56Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Grêmio x Athletico-PR: Mudanças no time | Público | Tabela e mais",
       "videoId": "s3SjG-RD75M",
       "url": "https://www.youtube.com/watch?v=s3SjG-RD75M",
@@ -59,28 +67,20 @@
       "published": "2026-10-29T13:13:42Z"
     },
     {
-      "channel": "Canal do CCD",
-      "title": "Timeline Tricolor #714: Desfalque no Grêmio | Carlos Vinicius | Banrisul | Palpites e mais",
-      "videoId": "1Qo0EwkaXtE",
-      "url": "https://www.youtube.com/watch?v=1Qo0EwkaXtE",
-      "thumbnail": "https://i.ytimg.com/vi/1Qo0EwkaXtE/mqdefault.jpg",
-      "published": "2026-10-28T21:16:33Z"
+      "channel": "Canal do Farid",
+      "title": "AMPLIA O GRÊMIO NA ARENA",
+      "videoId": "J899Ue_EONU",
+      "url": "https://www.youtube.com/watch?v=J899Ue_EONU",
+      "thumbnail": "https://i.ytimg.com/vi/J899Ue_EONU/mqdefault.jpg",
+      "published": "2026-10-30T01:58:33Z"
     },
     {
       "channel": "Canal do Farid",
-      "title": "GRÊMIO x ATLÉTICO - PR | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 29/10/2026",
-      "videoId": "hpCXMI9AbG0",
-      "url": "https://www.youtube.com/watch?v=hpCXMI9AbG0",
-      "thumbnail": "https://i.ytimg.com/vi/hpCXMI9AbG0/mqdefault.jpg?v=6ae29219",
-      "published": "2026-10-29T22:46:50Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #45",
-      "videoId": "NSKRn90igSE",
-      "url": "https://www.youtube.com/watch?v=NSKRn90igSE",
-      "thumbnail": "https://i.ytimg.com/vi/NSKRn90igSE/mqdefault.jpg?v=6ae36c29",
-      "published": "2026-10-29T17:05:39Z"
+      "title": "ACORDA, GRÊMIO! #049",
+      "videoId": "RQVdJ8R0fDc",
+      "url": "https://www.youtube.com/watch?v=RQVdJ8R0fDc",
+      "thumbnail": "https://i.ytimg.com/vi/RQVdJ8R0fDc/mqdefault.jpg",
+      "published": "2026-10-30T01:51:35Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,19 +164,19 @@
     },
     {
       "channel": "GZH Digital",
+      "title": "Carta golpista de Flávio Bolsonaro, destaques de Passo Fundo e mais | Gaúcha Atualidade | 29/10/2026",
+      "videoId": "ku3sq_lW374",
+      "url": "https://www.youtube.com/watch?v=ku3sq_lW374",
+      "thumbnail": "https://i.ytimg.com/vi/ku3sq_lW374/mqdefault.jpg",
+      "published": "2026-10-30T01:35:22Z"
+    },
+    {
+      "channel": "GZH Digital",
       "title": "Já é possível PROJETAR as ELEIÇÕES de 2030? | Conversas Cruzadas",
       "videoId": "Jm6JIgBLqrQ",
       "url": "https://www.youtube.com/watch?v=Jm6JIgBLqrQ",
       "thumbnail": "https://i.ytimg.com/vi/Jm6JIgBLqrQ/mqdefault.jpg",
       "published": "2026-10-29T23:00:32Z"
-    },
-    {
-      "channel": "GZH Digital",
-      "title": "ANDRÉ JANONES vira consultor internacional | Chamada Eleitoral",
-      "videoId": "-TmW-Y-ue4Y",
-      "url": "https://www.youtube.com/watch?v=-TmW-Y-ue4Y",
-      "thumbnail": "https://i.ytimg.com/vi/-TmW-Y-ue4Y/mqdefault.jpg",
-      "published": "2026-10-29T21:30:38Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -212,7 +212,7 @@
     },
     {
       "channel": "Radio Grenal",
-      "title": "AO VIVO DA ARENA | GRÊMIO 0 X 0 ATHLETICO-PR | BRASILEIRÃO | RÁDIO GRENAL | 29/10/2026",
+      "title": "AO VIVO DA ARENA | GRÊMIO 2 X 0 ATHLETICO-PR | BRASILEIRÃO | RÁDIO GRENAL | 29/10/2026",
       "videoId": "dLj9DNWq1IM",
       "url": "https://www.youtube.com/watch?v=dLj9DNWq1IM",
       "thumbnail": "https://i.ytimg.com/vi/dLj9DNWq1IM/mqdefault.jpg?v=6ae3b5dd",
@@ -228,7 +228,7 @@
     },
     {
       "channel": "Radio Imortal",
-      "title": "AO VIVO | GRÊMIO (0) X (0) ATHLETICO-PR | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
+      "title": "AO VIVO | GRÊMIO (2) X (0) ATHLETICO-PR | BRASILEIRÃO 2026 | JORNADA IMORTAL DIRETO DA ARENA",
       "videoId": "PoQ5qA6XPjY",
       "url": "https://www.youtube.com/watch?v=PoQ5qA6XPjY",
       "thumbnail": "https://i.ytimg.com/vi/PoQ5qA6XPjY/mqdefault.jpg?v=6ae29964",
