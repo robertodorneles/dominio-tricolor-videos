@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:00:38.547127+00:00",
+  "updated_at": "2026-10-30T12:00:39.476216+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "GRÊMIO VENCE E TAMO FORA DA ZONA! 🌅🔵 BOM DIA GRÊMIO #166",
       "videoId": "bkrcx-hZSm8",
       "url": "https://www.youtube.com/watch?v=bkrcx-hZSm8",
-      "thumbnail": "https://i.ytimg.com/vi/bkrcx-hZSm8/mqdefault.jpg?v=6ae41985",
-      "published": "2026-10-30T09:30:14Z"
+      "thumbnail": "https://i.ytimg.com/vi/bkrcx-hZSm8/mqdefault.jpg",
+      "published": "2026-10-30T11:57:28Z"
     },
     {
       "channel": "Bage TV",
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "ACORDA, GRÊMIO! #050 - GRÊMIO É O CAMPEÃO PARANAENSE",
+      "videoId": "PIRN_Li2rpA",
+      "url": "https://www.youtube.com/watch?v=PIRN_Li2rpA",
+      "thumbnail": "https://i.ytimg.com/vi/PIRN_Li2rpA/mqdefault.jpg?v=6ae34164",
+      "published": "2026-10-30T11:59:55Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "GRENAL SHOW - #45",
       "videoId": "NSKRn90igSE",
       "url": "https://www.youtube.com/watch?v=NSKRn90igSE",
       "thumbnail": "https://i.ytimg.com/vi/NSKRn90igSE/mqdefault.jpg",
       "published": "2026-10-30T05:10:44Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRÊMIO x ATLÉTICO - PR | CAMPEONATO BRASILEIRO | REACT AO VIVO DE FARID - 29/10/2026",
-      "videoId": "hpCXMI9AbG0",
-      "url": "https://www.youtube.com/watch?v=hpCXMI9AbG0",
-      "thumbnail": "https://i.ytimg.com/vi/hpCXMI9AbG0/mqdefault.jpg",
-      "published": "2026-10-30T03:38:33Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -164,7 +164,7 @@
     },
     {
       "channel": "GZH Digital",
-      "title": "| Gaúcha Atualidade | 30/10/2026",
+      "title": "Impactos da reforma tributária, crise do SUS, últimas notícias e + | Gaúcha Atualidade | 30/10/2026",
       "videoId": "r7Fx5ysuG7o",
       "url": "https://www.youtube.com/watch?v=r7Fx5ysuG7o",
       "thumbnail": "https://i.ytimg.com/vi/r7Fx5ysuG7o/mqdefault.jpg?v=6ae33c87",
@@ -184,7 +184,7 @@
       "videoId": "ALHGUMXQ_U8",
       "url": "https://www.youtube.com/watch?v=ALHGUMXQ_U8",
       "thumbnail": "https://i.ytimg.com/vi/ALHGUMXQ_U8/mqdefault.jpg?v=6ae4082f",
-      "published": "2026-10-30T02:59:57Z"
+      "published": "2026-10-30T11:01:28Z"
     },
     {
       "channel": "Jeremias Wernek",
@@ -216,7 +216,7 @@
       "videoId": "ShelmaJUs90",
       "url": "https://www.youtube.com/watch?v=ShelmaJUs90",
       "thumbnail": "https://i.ytimg.com/vi/ShelmaJUs90/mqdefault.jpg?v=6ae47098",
-      "published": "2026-10-30T10:24:23Z"
+      "published": "2026-10-30T11:00:13Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "🗣️ WALLACE FALA SOBRE O QUE MUDOU DESDE A CHEGADA DO RENATO PORTALUPPI.",
+      "videoId": "GVjjNRleJV0",
+      "url": "https://www.youtube.com/watch?v=GVjjNRleJV0",
+      "thumbnail": "https://i.ytimg.com/vi/GVjjNRleJV0/mqdefault.jpg",
+      "published": "2026-10-30T11:44:27Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "CAFÉ COM A IMORTAL #55 — O GRÊMIO VENCEU E SAIU DA ZONA!",
       "videoId": "wOm0KMLI-YY",
       "url": "https://www.youtube.com/watch?v=wOm0KMLI-YY",
       "thumbnail": "https://i.ytimg.com/vi/wOm0KMLI-YY/mqdefault.jpg?v=6ae4264e",
       "published": "2026-10-30T10:33:14Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "ENTREVISTA COMPLETA: RENATO PORTALUPPI FALA APÓS VITÓRIA DO GRÊMIO! | GRÊMIO 2x0 ATHLETICO-PR",
-      "videoId": "cXehdyZffQY",
-      "url": "https://www.youtube.com/watch?v=cXehdyZffQY",
-      "thumbnail": "https://i.ytimg.com/vi/cXehdyZffQY/mqdefault.jpg",
-      "published": "2026-10-30T09:00:15Z"
     }
   ]
 }
