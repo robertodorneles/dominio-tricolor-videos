@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:00:37.442987+00:00",
+  "updated_at": "2026-10-31T00:19:27.923940+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO | GREMIO VENCE | COLOCA INTER NA ZONA | COPA DO BRASIL | CLUBE TRIOLOR #13",
+      "videoId": "3KUdnCT2uMY",
+      "url": "https://www.youtube.com/watch?v=3KUdnCT2uMY",
+      "thumbnail": "https://i.ytimg.com/vi/3KUdnCT2uMY/mqdefault.jpg?v=6ae50e2c",
+      "published": "2026-10-31T00:02:52Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 30/10/2026",
       "videoId": "OK5NYyx0otk",
       "url": "https://www.youtube.com/watch?v=OK5NYyx0otk",
       "thumbnail": "https://i.ytimg.com/vi/OK5NYyx0otk/mqdefault.jpg?v=6ae51166",
       "published": "2026-10-30T23:05:18Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "AO VIVO | GREMIO VENCE | COLOCA INTER NA ZONA | COPA DO BRASIL | CLUBE TRIOLOR #13",
-      "videoId": "3KUdnCT2uMY",
-      "url": "https://www.youtube.com/watch?v=3KUdnCT2uMY",
-      "thumbnail": "https://i.ytimg.com/vi/3KUdnCT2uMY/mqdefault.jpg?v=6ae50e2c",
-      "published": "2026-10-30T21:37:45Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
+      "videoId": "PrzOEYHhL4k",
+      "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
+      "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg?v=6ae4e52a",
+      "published": "2026-10-31T00:02:37Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VITÓRIA COM CARA DE GRÊMIO! | SITUAÇÃO DA TABELA | REAPRESENTAÇÃO COM FOCO NA COPA | IMORTAL FC",
       "videoId": "9C2UEm5fgQo",
       "url": "https://www.youtube.com/watch?v=9C2UEm5fgQo",
       "thumbnail": "https://i.ytimg.com/vi/9C2UEm5fgQo/mqdefault.jpg",
       "published": "2026-10-30T22:24:31Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "GRÊMIO VENCE O ATHLETICO-PR COM AUTORIDADE | RENATO COMANDA TREINO E PODE MUDAR O TIME | ESPLANADA",
-      "videoId": "velmzQT_jjU",
-      "url": "https://www.youtube.com/watch?v=velmzQT_jjU",
-      "thumbnail": "https://i.ytimg.com/vi/velmzQT_jjU/mqdefault.jpg",
-      "published": "2026-10-30T21:28:25Z"
     }
   ]
 }
