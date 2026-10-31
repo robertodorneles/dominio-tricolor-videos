@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T14:00:37.674666+00:00",
+  "updated_at": "2026-10-31T14:58:31.022999+00:00",
   "total": 30,
   "videos": [
     {
@@ -68,19 +68,19 @@
     },
     {
       "channel": "Canal do Farid",
+      "title": "AO VIVO | GREMIO VENCE | COLOCA INTER NA ZONA | COPA DO BRASIL | CLUBE TRIOLOR #13",
+      "videoId": "3KUdnCT2uMY",
+      "url": "https://www.youtube.com/watch?v=3KUdnCT2uMY",
+      "thumbnail": "https://i.ytimg.com/vi/3KUdnCT2uMY/mqdefault.jpg",
+      "published": "2026-10-31T14:12:26Z"
+    },
+    {
+      "channel": "Canal do Farid",
       "title": "VAMO FARIDO! AO VIVO DE SEG à SEX - 30/10/2026",
       "videoId": "OK5NYyx0otk",
       "url": "https://www.youtube.com/watch?v=OK5NYyx0otk",
       "thumbnail": "https://i.ytimg.com/vi/OK5NYyx0otk/mqdefault.jpg",
       "published": "2026-10-31T11:11:18Z"
-    },
-    {
-      "channel": "Canal do Farid",
-      "title": "GRENAL SHOW - #46",
-      "videoId": "S-dc1BvJYQM",
-      "url": "https://www.youtube.com/watch?v=S-dc1BvJYQM",
-      "thumbnail": "https://i.ytimg.com/vi/S-dc1BvJYQM/mqdefault.jpg",
-      "published": "2026-10-31T05:15:46Z"
     },
     {
       "channel": "Canal do Gabardo",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
+      "title": "BASTIDORES E AMEAÇAS: GRÊMIO X CORINTHIANS #futebol #noticias #brasileirao",
+      "videoId": "t_RX9IgPHlw",
+      "url": "https://www.youtube.com/watch?v=t_RX9IgPHlw",
+      "thumbnail": "https://i.ytimg.com/vi/t_RX9IgPHlw/mqdefault.jpg",
+      "published": "2026-10-31T14:39:02Z"
+    },
+    {
+      "channel": "Careca de Saber TV",
       "title": "CORINTHIANS VENCE O MIRASSOL 2X0 NO BRASILEIRÃO. #gremio #futebol #noticias Vem com @blascortintas",
       "videoId": "w7m24RsmnSo",
       "url": "https://www.youtube.com/watch?v=w7m24RsmnSo",
       "thumbnail": "https://i.ytimg.com/vi/w7m24RsmnSo/mqdefault.jpg",
       "published": "2026-10-31T01:08:15Z"
-    },
-    {
-      "channel": "Careca de Saber TV",
-      "title": "BOMBA: GRÊMIO X CORINTHIANS NA JUSTIÇA,  MISTÉRIO PÚBLICO E CBF | RENATO DEFINE TIME X ATLÉTICO-MG.",
-      "videoId": "7Tp7U7S9KFM",
-      "url": "https://www.youtube.com/watch?v=7Tp7U7S9KFM",
-      "thumbnail": "https://i.ytimg.com/vi/7Tp7U7S9KFM/mqdefault.jpg",
-      "published": "2026-10-30T21:23:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -132,19 +132,19 @@
     },
     {
       "channel": "Duda Garbi",
-      "title": "UMA AULA SOBRE… CANETAS EMAGRECEDORAS com Ricardo Minuzzi | #45",
-      "videoId": "mNkVS6g7QsQ",
-      "url": "https://www.youtube.com/watch?v=mNkVS6g7QsQ",
-      "thumbnail": "https://i.ytimg.com/vi/mNkVS6g7QsQ/mqdefault.jpg",
-      "published": "2026-10-31T13:00:39Z"
+      "title": "CANETAS EMAGRECEDORAS: ENTENDA #dudagarbi #rafaelbarleze",
+      "videoId": "_dFlwt74izg",
+      "url": "https://www.youtube.com/watch?v=_dFlwt74izg",
+      "thumbnail": "https://i.ytimg.com/vi/_dFlwt74izg/mqdefault.jpg",
+      "published": "2026-10-31T14:30:19Z"
     },
     {
       "channel": "Duda Garbi",
-      "title": "AULA TÁTICO DO RAFA OLIVEIRA #dudagarbi #umassadopara",
-      "videoId": "7Eu2qngdE38",
-      "url": "https://www.youtube.com/watch?v=7Eu2qngdE38",
-      "thumbnail": "https://i.ytimg.com/vi/7Eu2qngdE38/mqdefault.jpg",
-      "published": "2026-10-30T21:00:18Z"
+      "title": "TEM RISCO DE ENGORDAR DEPOIS DO MOUNJARO E OZEMPIC? | Uma Aula Sobre… Canetas Emagrecedoras",
+      "videoId": "01cXylu5JRY",
+      "url": "https://www.youtube.com/watch?v=01cXylu5JRY",
+      "thumbnail": "https://i.ytimg.com/vi/01cXylu5JRY/mqdefault.jpg",
+      "published": "2026-10-31T14:30:03Z"
     },
     {
       "channel": "GremioTV Oficial",
@@ -212,6 +212,14 @@
     },
     {
       "channel": "Radio Grenal",
+      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 31/10/2026",
+      "videoId": "UEgAjXErLPw",
+      "url": "https://www.youtube.com/watch?v=UEgAjXErLPw",
+      "thumbnail": "https://i.ytimg.com/vi/UEgAjXErLPw/mqdefault.jpg?v=6ae5e7b7",
+      "published": "2026-10-31T14:00:46Z"
+    },
+    {
+      "channel": "Radio Grenal",
       "title": "30/10/2026 | LIVE COMPLETA | RÁDIO GRENAL",
       "videoId": "ShelmaJUs90",
       "url": "https://www.youtube.com/watch?v=ShelmaJUs90",
@@ -219,28 +227,20 @@
       "published": "2026-10-31T00:33:15Z"
     },
     {
-      "channel": "Radio Grenal",
-      "title": "AO VIVO | DUPLA EM DEBATE | RÁDIO GRENAL | 31/10/2026",
-      "videoId": "UEgAjXErLPw",
-      "url": "https://www.youtube.com/watch?v=UEgAjXErLPw",
-      "thumbnail": "https://i.ytimg.com/vi/UEgAjXErLPw/mqdefault.jpg?v=6ae5e7b7",
-      "published": "2026-10-30T23:02:50Z"
+      "channel": "Radio Imortal",
+      "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
+      "videoId": "PrzOEYHhL4k",
+      "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
+      "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg",
+      "published": "2026-10-31T14:54:20Z"
     },
     {
       "channel": "Radio Imortal",
       "title": "AO VIVO - PLANTÃO IMORTAL FALANDO DE GRÊMIO | CONSULADO DE BENTO GONÇALVES / HOTEL DALLONDER",
       "videoId": "pET9vfXDIwo",
       "url": "https://www.youtube.com/watch?v=pET9vfXDIwo",
-      "thumbnail": "https://i.ytimg.com/vi/pET9vfXDIwo/mqdefault.jpg?v=6ae4ff00",
-      "published": "2026-10-31T13:58:47Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
-      "videoId": "PrzOEYHhL4k",
-      "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
-      "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg?v=6ae4e52a",
-      "published": "2026-10-31T01:19:17Z"
+      "thumbnail": "https://i.ytimg.com/vi/pET9vfXDIwo/mqdefault.jpg",
+      "published": "2026-10-31T14:40:22Z"
     }
   ]
 }
