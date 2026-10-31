@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T12:00:34.996698+00:00",
+  "updated_at": "2026-10-31T13:00:38.632154+00:00",
   "total": 30,
   "videos": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "channel": "Bage TV",
+      "title": "VAMOS COM TUDO CONTRA O GALO? 🌅🔵 BOM DIA GRÊMIO #167",
+      "videoId": "0IOaAZEPwCA",
+      "url": "https://www.youtube.com/watch?v=0IOaAZEPwCA",
+      "thumbnail": "https://i.ytimg.com/vi/0IOaAZEPwCA/mqdefault.jpg?v=6ae4d941",
+      "published": "2026-10-31T12:32:53Z"
+    },
+    {
+      "channel": "Bage TV",
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORINTHIANS X MIRASSOL",
       "videoId": "fLDg3fVcIdc",
       "url": "https://www.youtube.com/watch?v=fLDg3fVcIdc",
       "thumbnail": "https://i.ytimg.com/vi/fLDg3fVcIdc/mqdefault.jpg",
       "published": "2026-10-31T01:22:33Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 GRÊMIO X ATLÉTICO-MG [DIRETO DA ARENA DO GRÊMIO]",
-      "videoId": "5XQVywFfpuU",
-      "url": "https://www.youtube.com/watch?v=5XQVywFfpuU",
-      "thumbnail": "https://i.ytimg.com/vi/5XQVywFfpuU/mqdefault.jpg?v=6ae5403b",
-      "published": "2026-10-31T01:11:21Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "AO VIVO - PLANTÃO IMORTAL FALANDO DE GRÊMIO | CONSULADO DE BENTO GONÇALVES / HOTEL DALLONDER",
+      "videoId": "pET9vfXDIwo",
+      "url": "https://www.youtube.com/watch?v=pET9vfXDIwo",
+      "thumbnail": "https://i.ytimg.com/vi/pET9vfXDIwo/mqdefault.jpg?v=6ae4ff00",
+      "published": "2026-10-31T12:07:12Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
       "videoId": "PrzOEYHhL4k",
       "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
       "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg?v=6ae4e52a",
       "published": "2026-10-31T01:19:17Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VITÓRIA COM CARA DE GRÊMIO! | SITUAÇÃO DA TABELA | REAPRESENTAÇÃO COM FOCO NA COPA | IMORTAL FC",
-      "videoId": "9C2UEm5fgQo",
-      "url": "https://www.youtube.com/watch?v=9C2UEm5fgQo",
-      "thumbnail": "https://i.ytimg.com/vi/9C2UEm5fgQo/mqdefault.jpg",
-      "published": "2026-10-30T22:24:31Z"
     }
   ]
 }
