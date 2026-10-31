@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:00:40.062323+00:00",
+  "updated_at": "2026-10-31T22:00:35.081102+00:00",
   "total": 30,
   "videos": [
     {
@@ -23,8 +23,8 @@
       "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORITIBA X VITÓRIA",
       "videoId": "mwkA0EfLsbY",
       "url": "https://www.youtube.com/watch?v=mwkA0EfLsbY",
-      "thumbnail": "https://i.ytimg.com/vi/mwkA0EfLsbY/mqdefault.jpg?v=6ae4db70",
-      "published": "2026-10-31T18:29:22Z"
+      "thumbnail": "https://i.ytimg.com/vi/mwkA0EfLsbY/mqdefault.jpg",
+      "published": "2026-10-31T21:23:58Z"
     },
     {
       "channel": "Bage TV",
@@ -52,19 +52,19 @@
     },
     {
       "channel": "Canal do CCD",
+      "title": "Timeline Tricolor #716: Times | Público | Arena e Olímpico | Tabela do Brasileirão e mais",
+      "videoId": "zl6ks-3kwVo",
+      "url": "https://www.youtube.com/watch?v=zl6ks-3kwVo",
+      "thumbnail": "https://i.ytimg.com/vi/zl6ks-3kwVo/mqdefault.jpg",
+      "published": "2026-10-31T21:52:30Z"
+    },
+    {
+      "channel": "Canal do CCD",
       "title": "Timeline Tricolor #715: Preocupação importante | DM | Wendell | Jogadores recuperados e mais",
       "videoId": "fCtJgKbPj-g",
       "url": "https://www.youtube.com/watch?v=fCtJgKbPj-g",
       "thumbnail": "https://i.ytimg.com/vi/fCtJgKbPj-g/mqdefault.jpg",
       "published": "2026-10-30T21:18:30Z"
-    },
-    {
-      "channel": "Canal do CCD",
-      "title": "PÓS-JOGO: GRÊMIO X GALO",
-      "videoId": "y-OEa2el10A",
-      "url": "https://www.youtube.com/watch?v=y-OEa2el10A",
-      "thumbnail": "https://i.ytimg.com/vi/y-OEa2el10A/mqdefault.jpg?v=6ae505b8",
-      "published": "2026-10-30T21:01:42Z"
     },
     {
       "channel": "Canal do Farid",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É DIA DE GRÊMIO NA COPA DO BRASIL! | RENATO VAI REPETIR A ESCALAÇÃO? | PLANTÃO IMORTAL",
+      "videoId": "J11GfsJrgT0",
+      "url": "https://www.youtube.com/watch?v=J11GfsJrgT0",
+      "thumbnail": "https://i.ytimg.com/vi/J11GfsJrgT0/mqdefault.jpg?v=6ae65fda",
+      "published": "2026-10-31T21:38:32Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "É HORA DE SER GRÊMIO! FINAL DE SEMANA DE COPA | PLANTÃO IMORTAL DIRETO DE BENTO GONÇALVES",
       "videoId": "tmynITh-rzU",
       "url": "https://www.youtube.com/watch?v=tmynITh-rzU",
       "thumbnail": "https://i.ytimg.com/vi/tmynITh-rzU/mqdefault.jpg?v=6ae4ff67",
       "published": "2026-10-31T19:37:52Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
-      "videoId": "PrzOEYHhL4k",
-      "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
-      "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg",
-      "published": "2026-10-31T14:54:20Z"
     }
   ]
 }
