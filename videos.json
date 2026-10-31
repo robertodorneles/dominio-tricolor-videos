@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-31T17:00:36.772228+00:00",
+  "updated_at": "2026-10-31T18:00:38.338549+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔵⚫️ Grêmio: A GRANDE ARMA DO RENATO PARA AVANÇAR PARA A FINAL DA COPA DO BRASIL | ANÁLISE!",
+      "videoId": "WtsMnD6OPqg",
+      "url": "https://www.youtube.com/watch?v=WtsMnD6OPqg",
+      "thumbnail": "https://i.ytimg.com/vi/WtsMnD6OPqg/mqdefault.jpg",
+      "published": "2026-10-31T18:00:00Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔴⚪️ Diário do Inter: 🔥 SALVE O CORINTHIANS? | A TABELA FICOU BOA, SIM! | MUDANÇAS NO TIME",
@@ -9,14 +17,6 @@
       "url": "https://www.youtube.com/watch?v=GsJ2bFIVx4s",
       "thumbnail": "https://i.ytimg.com/vi/GsJ2bFIVx4s/mqdefault.jpg",
       "published": "2026-10-31T05:08:07Z"
-    },
-    {
-      "channel": "A Dupla",
-      "title": "🔵⚫️ Diário do Grêmio: RENATO MUDA OS PLANOS! KANNEMANN DE VOLTA E 52 MIL NA ARENA!",
-      "videoId": "tIuD_aKjlB8",
-      "url": "https://www.youtube.com/watch?v=tIuD_aKjlB8",
-      "thumbnail": "https://i.ytimg.com/vi/tIuD_aKjlB8/mqdefault.jpg",
-      "published": "2026-10-31T05:00:01Z"
     },
     {
       "channel": "Bage TV",
@@ -196,19 +196,19 @@
     },
     {
       "channel": "LH Benfica",
+      "title": "🚨ATENÇÃO! AS CARTAS ESTÃO MARCADAS | TÁ COM CHEIRO DE ARMAÇÃO | GRÊMIO PRECISA ABRIR O OLHO",
+      "videoId": "NVU6jZtfaC8",
+      "url": "https://www.youtube.com/watch?v=NVU6jZtfaC8",
+      "thumbnail": "https://i.ytimg.com/vi/NVU6jZtfaC8/mqdefault.jpg",
+      "published": "2026-10-31T17:07:50Z"
+    },
+    {
+      "channel": "LH Benfica",
       "title": "🚨ÓTIMA NOTÍCIA PRO GRÊMIO | COPA DO BRASIL: CLUBE TOMA DECISÃO | POLÊMICA SOBRE PREMIAÇÃO",
       "videoId": "3G7u1YDbW24",
       "url": "https://www.youtube.com/watch?v=3G7u1YDbW24",
       "thumbnail": "https://i.ytimg.com/vi/3G7u1YDbW24/mqdefault.jpg",
       "published": "2026-10-30T18:51:30Z"
-    },
-    {
-      "channel": "LH Benfica",
-      "title": "🚨VAI EMBORA DO GRÊMIO!? A REAL SOBRE CARLOS VINÍCIUS | A PÉSSIMA ESCOLHA DE RENATO | SEM SOLUÇÃO",
-      "videoId": "k0_Ba178INs",
-      "url": "https://www.youtube.com/watch?v=k0_Ba178INs",
-      "thumbnail": "https://i.ytimg.com/vi/k0_Ba178INs/mqdefault.jpg",
-      "published": "2026-10-29T18:21:04Z"
     },
     {
       "channel": "Radio Grenal",
