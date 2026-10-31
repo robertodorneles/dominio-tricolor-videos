@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-31T18:00:38.338549+00:00",
+  "updated_at": "2026-10-31T19:00:34.198032+00:00",
   "total": 30,
   "videos": [
+    {
+      "channel": "A Dupla",
+      "title": "🔴⚪️ Inter: 🔥 A GRANDE SURPRESA DE BAPTISTA | ELE VAI FICAR? | BOA TEMPORADA",
+      "videoId": "_de4SmZs9kM",
+      "url": "https://www.youtube.com/watch?v=_de4SmZs9kM",
+      "thumbnail": "https://i.ytimg.com/vi/_de4SmZs9kM/mqdefault.jpg",
+      "published": "2026-10-31T18:48:01Z"
+    },
     {
       "channel": "A Dupla",
       "title": "🔵⚫️ Grêmio: A GRANDE ARMA DO RENATO PARA AVANÇAR PARA A FINAL DA COPA DO BRASIL | ANÁLISE!",
@@ -11,12 +19,12 @@
       "published": "2026-10-31T18:00:00Z"
     },
     {
-      "channel": "A Dupla",
-      "title": "🔴⚪️ Diário do Inter: 🔥 SALVE O CORINTHIANS? | A TABELA FICOU BOA, SIM! | MUDANÇAS NO TIME",
-      "videoId": "GsJ2bFIVx4s",
-      "url": "https://www.youtube.com/watch?v=GsJ2bFIVx4s",
-      "thumbnail": "https://i.ytimg.com/vi/GsJ2bFIVx4s/mqdefault.jpg",
-      "published": "2026-10-31T05:08:07Z"
+      "channel": "Bage TV",
+      "title": "🔵 AO VIVO 🔵 JORNADA DO BAGÉ 🔵 CORITIBA X VITÓRIA",
+      "videoId": "mwkA0EfLsbY",
+      "url": "https://www.youtube.com/watch?v=mwkA0EfLsbY",
+      "thumbnail": "https://i.ytimg.com/vi/mwkA0EfLsbY/mqdefault.jpg?v=6ae4db70",
+      "published": "2026-10-31T18:29:22Z"
     },
     {
       "channel": "Bage TV",
@@ -25,14 +33,6 @@
       "url": "https://www.youtube.com/watch?v=uqkjzVrDUak",
       "thumbnail": "https://i.ytimg.com/vi/uqkjzVrDUak/mqdefault.jpg",
       "published": "2026-10-31T15:51:29Z"
-    },
-    {
-      "channel": "Bage TV",
-      "title": "VAMOS COM TUDO CONTRA O GALO? 🌅🔵 BOM DIA GRÊMIO #167",
-      "videoId": "0IOaAZEPwCA",
-      "url": "https://www.youtube.com/watch?v=0IOaAZEPwCA",
-      "thumbnail": "https://i.ytimg.com/vi/0IOaAZEPwCA/mqdefault.jpg",
-      "published": "2026-10-31T15:11:35Z"
     },
     {
       "channel": "Bruno Soares Reporter",
@@ -100,19 +100,19 @@
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "BASTIDORES E AMEAÇAS: GRÊMIO X CORINTHIANS #futebol #noticias #brasileirao",
-      "videoId": "t_RX9IgPHlw",
-      "url": "https://www.youtube.com/watch?v=t_RX9IgPHlw",
-      "thumbnail": "https://i.ytimg.com/vi/t_RX9IgPHlw/mqdefault.jpg",
-      "published": "2026-10-31T14:39:02Z"
+      "title": "GRÊMIO X ATLÉTICO-MG | AO VIVO PÓS-JOGO | COPA DO BRASIL  | COLETIVA RENATO.",
+      "videoId": "OO9UGpvsaFw",
+      "url": "https://www.youtube.com/watch?v=OO9UGpvsaFw",
+      "thumbnail": "https://i.ytimg.com/vi/OO9UGpvsaFw/mqdefault.jpg?v=6ae635ac",
+      "published": "2026-10-31T18:38:34Z"
     },
     {
       "channel": "Careca de Saber TV",
-      "title": "CORINTHIANS VENCE O MIRASSOL 2X0 NO BRASILEIRÃO. #gremio #futebol #noticias Vem com @blascortintas",
-      "videoId": "w7m24RsmnSo",
-      "url": "https://www.youtube.com/watch?v=w7m24RsmnSo",
-      "thumbnail": "https://i.ytimg.com/vi/w7m24RsmnSo/mqdefault.jpg",
-      "published": "2026-10-31T01:08:15Z"
+      "title": "GRÊMIO X ATLÉTICO-MG | AO VIVO PRÉ-JOGO | COPA DO BRASIL",
+      "videoId": "qj1bdGB-MRA",
+      "url": "https://www.youtube.com/watch?v=qj1bdGB-MRA",
+      "thumbnail": "https://i.ytimg.com/vi/qj1bdGB-MRA/mqdefault.jpg?v=6ae63155",
+      "published": "2026-10-31T18:20:03Z"
     },
     {
       "channel": "Diogo Rossi Reporter",
@@ -216,7 +216,7 @@
       "videoId": "UEgAjXErLPw",
       "url": "https://www.youtube.com/watch?v=UEgAjXErLPw",
       "thumbnail": "https://i.ytimg.com/vi/UEgAjXErLPw/mqdefault.jpg?v=6ae61270",
-      "published": "2026-10-31T14:00:46Z"
+      "published": "2026-10-31T18:59:20Z"
     },
     {
       "channel": "Radio Grenal",
@@ -228,19 +228,19 @@
     },
     {
       "channel": "Radio Imortal",
+      "title": "É HORA DE SER GRÊMIO! FINAL DE SEMANA DE COPA | PLANTÃO IMORTAL DIRETO DE BENTO GONÇALVES",
+      "videoId": "tmynITh-rzU",
+      "url": "https://www.youtube.com/watch?v=tmynITh-rzU",
+      "thumbnail": "https://i.ytimg.com/vi/tmynITh-rzU/mqdefault.jpg?v=6ae4ff67",
+      "published": "2026-10-31T18:03:24Z"
+    },
+    {
+      "channel": "Radio Imortal",
       "title": "VITÓRIA MARAVILHOSA NA ARENA | GRÊMIO FORA DO Z4 | ÚLTIMAS DO GRÊMIO | NOITES DE GRÊMIO #174 - 30/10",
       "videoId": "PrzOEYHhL4k",
       "url": "https://www.youtube.com/watch?v=PrzOEYHhL4k",
       "thumbnail": "https://i.ytimg.com/vi/PrzOEYHhL4k/mqdefault.jpg",
       "published": "2026-10-31T14:54:20Z"
-    },
-    {
-      "channel": "Radio Imortal",
-      "title": "AO VIVO - PLANTÃO IMORTAL FALANDO DE GRÊMIO | CONSULADO DE BENTO GONÇALVES / HOTEL DALLONDER",
-      "videoId": "pET9vfXDIwo",
-      "url": "https://www.youtube.com/watch?v=pET9vfXDIwo",
-      "thumbnail": "https://i.ytimg.com/vi/pET9vfXDIwo/mqdefault.jpg",
-      "published": "2026-10-31T14:40:22Z"
     }
   ]
 }
